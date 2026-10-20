@@ -1,0 +1,6973 @@
+{
+  "id": "fi-osm-amenity-pharmacy",
+  "name": "Apteekit – Suomi (OpenStreetMap)",
+  "title": "Apteekit – Suomi (OpenStreetMap)",
+  "description": "Apteekit Suomessa — 768 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=pharmacy`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 12. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 768,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aarre Apteekki",
+      "leveysaste": 60.737909,
+      "pituusaste": 24.772063,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 2,
+      "nimi": "Ahjon sivuapteekki",
+      "leveysaste": 60.404196,
+      "pituusaste": 25.140947,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 3,
+      "nimi": "Ahjon sivuapteekki",
+      "leveysaste": 60.404205,
+      "pituusaste": 25.140935,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 4,
+      "nimi": "Ahlaisten sivuapteekki",
+      "leveysaste": 61.67064,
+      "pituusaste": 21.643642,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 5,
+      "nimi": "Aino Apteekki",
+      "leveysaste": 60.176123,
+      "pituusaste": 24.804955,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 6,
+      "nimi": "Akaan apteekki",
+      "leveysaste": 61.168232,
+      "pituusaste": 23.86624,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 7,
+      "nimi": "Alahärmän apteekki",
+      "leveysaste": 63.239153,
+      "pituusaste": 22.849745,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 8,
+      "nimi": "Alajärven apteekki",
+      "leveysaste": 63.001157,
+      "pituusaste": 23.815801,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 9,
+      "nimi": "Alastaron Apteekki",
+      "leveysaste": 60.95182,
+      "pituusaste": 22.864005,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 10,
+      "nimi": "Alatornion apteekki",
+      "leveysaste": 65.843393,
+      "pituusaste": 24.189369,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 11,
+      "nimi": "Alatornion apteekki",
+      "leveysaste": 65.843402,
+      "pituusaste": 24.189372,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 12,
+      "nimi": "Alavieskan apteekki",
+      "leveysaste": 64.167227,
+      "pituusaste": 24.304096,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 13,
+      "nimi": "Alavuden apteekki",
+      "leveysaste": 62.586459,
+      "pituusaste": 23.617686,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 14,
+      "nimi": "Ankkuriapteekki Karhuvuori",
+      "leveysaste": 60.483539,
+      "pituusaste": 26.859048,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 15,
+      "nimi": "Anttolan apteekki",
+      "leveysaste": 61.582836,
+      "pituusaste": 27.652261,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 16,
+      "nimi": "Apila Apteekki",
+      "leveysaste": 60.959931,
+      "pituusaste": 25.654985,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 17,
+      "nimi": "Apoteket Esplanad",
+      "leveysaste": 63.675244,
+      "pituusaste": 22.702477,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 18,
+      "nimi": "Apoteket Svarta Räven",
+      "leveysaste": 66.389105,
+      "pituusaste": 23.657352,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 19,
+      "nimi": "Apoteket i Kristinestad",
+      "leveysaste": 62.274243,
+      "pituusaste": 21.378327,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 20,
+      "nimi": "Apteekki",
+      "leveysaste": 61.501233,
+      "pituusaste": 25.682323,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 21,
+      "nimi": "Apteekki 360",
+      "leveysaste": 60.18016,
+      "pituusaste": 24.94942,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 22,
+      "nimi": "Apteekki 51",
+      "leveysaste": 60.198684,
+      "pituusaste": 24.929718,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 23,
+      "nimi": "Apteekki Bulevardia",
+      "leveysaste": 60.16438,
+      "pituusaste": 24.93669,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 24,
+      "nimi": "Apteekki CityCenter",
+      "leveysaste": 60.170001,
+      "pituusaste": 24.941615,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 25,
+      "nimi": "Apteekki Duo",
+      "leveysaste": 61.132976,
+      "pituusaste": 21.516805,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 26,
+      "nimi": "Apteekki Easton",
+      "leveysaste": 60.209637,
+      "pituusaste": 25.086152,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 27,
+      "nimi": "Apteekki Elixir",
+      "leveysaste": 60.218707,
+      "pituusaste": 24.814385,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 28,
+      "nimi": "Apteekki Humppilan Lasi",
+      "leveysaste": 60.941683,
+      "pituusaste": 23.365555,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 29,
+      "nimi": "Apteekki Ideapark",
+      "leveysaste": 61.360842,
+      "pituusaste": 23.796702,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 30,
+      "nimi": "Apteekki Karisma",
+      "leveysaste": 60.981764,
+      "pituusaste": 25.736673,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 31,
+      "nimi": "Apteekki Kivihaka",
+      "leveysaste": 63.111112,
+      "pituusaste": 21.65215,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 32,
+      "nimi": "Apteekki Koilliskeskus Tampere",
+      "leveysaste": 61.495976,
+      "pituusaste": 23.882166,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 33,
+      "nimi": "Apteekki Koivuhaka",
+      "leveysaste": 60.288426,
+      "pituusaste": 24.999158,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 34,
+      "nimi": "Apteekki Kompassi",
+      "leveysaste": 60.208002,
+      "pituusaste": 25.144749,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 35,
+      "nimi": "Apteekki Lohi",
+      "leveysaste": 60.250835,
+      "pituusaste": 24.069152,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 36,
+      "nimi": "Apteekki Lohjanharju",
+      "leveysaste": 60.272839,
+      "pituusaste": 24.123486,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 37,
+      "nimi": "Apteekki Manhattan",
+      "leveysaste": 60.457278,
+      "pituusaste": 22.234678,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 38,
+      "nimi": "Apteekki Medena",
+      "leveysaste": 60.210089,
+      "pituusaste": 25.078937,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 39,
+      "nimi": "Apteekki Merkos",
+      "leveysaste": 60.722409,
+      "pituusaste": 24.735121,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 40,
+      "nimi": "Apteekki Nelonen",
+      "leveysaste": 62.614904,
+      "pituusaste": 29.814924,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 41,
+      "nimi": "Apteekki Niitty",
+      "leveysaste": 60.170627,
+      "pituusaste": 24.763731,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 42,
+      "nimi": "Apteekki Primavera",
+      "leveysaste": 60.213662,
+      "pituusaste": 25.088767,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 43,
+      "nimi": "Apteekki Saimaa",
+      "leveysaste": 61.05037,
+      "pituusaste": 28.177341,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 44,
+      "nimi": "Apteekki Sastamala",
+      "leveysaste": 61.322192,
+      "pituusaste": 22.923074,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 45,
+      "nimi": "Apteekki Stella",
+      "leveysaste": 61.689187,
+      "pituusaste": 27.27516,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 46,
+      "nimi": "Apteekki Tampereentie",
+      "leveysaste": 60.473904,
+      "pituusaste": 22.286295,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 47,
+      "nimi": "Apteekki Tavastila",
+      "leveysaste": 60.993571,
+      "pituusaste": 24.45939,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 48,
+      "nimi": "Apteekki Vaasa Minimani",
+      "leveysaste": 63.103598,
+      "pituusaste": 21.624811,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 49,
+      "nimi": "Apteekkiplus",
+      "leveysaste": 60.317985,
+      "pituusaste": 24.965332,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 50,
+      "nimi": "Apteekkiplus",
+      "leveysaste": 60.317992,
+      "pituusaste": 24.96532,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 51,
+      "nimi": "Apteekkisydän",
+      "leveysaste": 60.467653,
+      "pituusaste": 22.032352,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 52,
+      "nimi": "Arabianrannan Apteekki",
+      "leveysaste": 60.202559,
+      "pituusaste": 24.967831,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 53,
+      "nimi": "Artjärven sivuapteekki",
+      "leveysaste": 60.745691,
+      "pituusaste": 26.053573,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 54,
+      "nimi": "Asikkalan apteekki",
+      "leveysaste": 61.172243,
+      "pituusaste": 25.551922,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 55,
+      "nimi": "Atalan apteekki",
+      "leveysaste": 61.508226,
+      "pituusaste": 23.914419,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 56,
+      "nimi": "Atlas",
+      "leveysaste": 60.159553,
+      "pituusaste": 24.918072,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 57,
+      "nimi": "Aulangon apteekki",
+      "leveysaste": 61.001824,
+      "pituusaste": 24.484226,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 58,
+      "nimi": "Auran apteekki",
+      "leveysaste": 60.651581,
+      "pituusaste": 22.585654,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 59,
+      "nimi": "Auranlaakson apteekki",
+      "leveysaste": 60.469788,
+      "pituusaste": 22.35925,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 60,
+      "nimi": "Aurinko Apteekki",
+      "leveysaste": 60.732129,
+      "pituusaste": 24.778852,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 61,
+      "nimi": "Avainapteekki Vanha Apteekki",
+      "leveysaste": 63.108628,
+      "pituusaste": 21.652067,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 62,
+      "nimi": "Brahen Apteekki",
+      "leveysaste": 60.186369,
+      "pituusaste": 24.950088,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 63,
+      "nimi": "Carelia apteekki",
+      "leveysaste": 60.179472,
+      "pituusaste": 24.923087,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 64,
+      "nimi": "Central-Apoteket",
+      "leveysaste": 60.103313,
+      "pituusaste": 19.939671,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 65,
+      "nimi": "Ekenäs första apotek",
+      "leveysaste": 59.978407,
+      "pituusaste": 23.441522,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 66,
+      "nimi": "Elimäen Apteekki",
+      "leveysaste": 60.721828,
+      "pituusaste": 26.447404,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 67,
+      "nimi": "Elona Apteekki",
+      "leveysaste": 61.557529,
+      "pituusaste": 23.570106,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 68,
+      "nimi": "Enon Apteekki",
+      "leveysaste": 62.798958,
+      "pituusaste": 30.157195,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 69,
+      "nimi": "Enonkosken sivuapteekki",
+      "leveysaste": 62.091103,
+      "pituusaste": 28.919872,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 70,
+      "nimi": "Enonkosken sivuapteekki",
+      "leveysaste": 62.091118,
+      "pituusaste": 28.919866,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 71,
+      "nimi": "Enontekiön sivuapteekki",
+      "leveysaste": 68.384425,
+      "pituusaste": 23.63791,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 72,
+      "nimi": "Ensimmäinen apteekki",
+      "leveysaste": 61.49666,
+      "pituusaste": 23.757829,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 73,
+      "nimi": "Erottajan Apteekki",
+      "leveysaste": 60.168037,
+      "pituusaste": 24.942321,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 74,
+      "nimi": "Eräjärven palvelupiste",
+      "leveysaste": 61.577323,
+      "pituusaste": 24.562763,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 75,
+      "nimi": "Espoon Keskustan apteekki",
+      "leveysaste": 60.204244,
+      "pituusaste": 24.65709,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 76,
+      "nimi": "Espoonlahden Apteekki",
+      "leveysaste": 60.149304,
+      "pituusaste": 24.656152,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 77,
+      "nimi": "Esse Apotek",
+      "leveysaste": 63.593217,
+      "pituusaste": 23.049876,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 78,
+      "nimi": "Etelä-Haagan apteekki",
+      "leveysaste": 60.216585,
+      "pituusaste": 24.900094,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 79,
+      "nimi": "Euran apteekki",
+      "leveysaste": 61.1308,
+      "pituusaste": 22.127723,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 80,
+      "nimi": "Forssan Keskusapteekki",
+      "leveysaste": 60.811847,
+      "pituusaste": 23.636477,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 81,
+      "nimi": "Första Apoteket",
+      "leveysaste": 60.100715,
+      "pituusaste": 19.94205,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 82,
+      "nimi": "Första Apoteket",
+      "leveysaste": 63.674628,
+      "pituusaste": 22.701228,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 83,
+      "nimi": "Godby apotek",
+      "leveysaste": 60.230663,
+      "pituusaste": 19.988249,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 84,
+      "nimi": "Goodmanin Apteekki",
+      "leveysaste": 60.992676,
+      "pituusaste": 24.456862,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 85,
+      "nimi": "Graanin Apteekki",
+      "leveysaste": 61.686308,
+      "pituusaste": 27.295242,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 86,
+      "nimi": "Haapajärven apteekki",
+      "leveysaste": 63.75118,
+      "pituusaste": 25.313084,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 87,
+      "nimi": "Haapamäen apteekki",
+      "leveysaste": 62.252714,
+      "pituusaste": 24.453661,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 88,
+      "nimi": "Haapaniemen apteekki",
+      "leveysaste": 62.881701,
+      "pituusaste": 27.666902,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 89,
+      "nimi": "Haapaveden apteekki",
+      "leveysaste": 64.136837,
+      "pituusaste": 25.363701,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 90,
+      "nimi": "Haka apteekki",
+      "leveysaste": 61.491433,
+      "pituusaste": 23.820505,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 91,
+      "nimi": "Hakamäen Apteekki",
+      "leveysaste": 60.50092,
+      "pituusaste": 26.869184,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 92,
+      "nimi": "Hakaniementorin apteekki",
+      "leveysaste": 60.179272,
+      "pituusaste": 24.949466,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 93,
+      "nimi": "Hakunilan apteekki",
+      "leveysaste": 60.278558,
+      "pituusaste": 25.103916,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 94,
+      "nimi": "Halikon apteekki",
+      "leveysaste": 60.393986,
+      "pituusaste": 23.083147,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 95,
+      "nimi": "Hallin sivuapteekki",
+      "leveysaste": 61.86112,
+      "pituusaste": 24.828775,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 96,
+      "nimi": "Halsuan sivuapteekki",
+      "leveysaste": 63.461521,
+      "pituusaste": 24.169058,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 97,
+      "nimi": "Haminan Itäväylän Apteekki",
+      "leveysaste": 60.563921,
+      "pituusaste": 27.163795,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 98,
+      "nimi": "Haminan Keskus-Apteekki",
+      "leveysaste": 60.567545,
+      "pituusaste": 27.192841,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 99,
+      "nimi": "Haminan Uusi apteekki",
+      "leveysaste": 60.568415,
+      "pituusaste": 27.191246,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 100,
+      "nimi": "Hangon apteekki",
+      "leveysaste": 59.824755,
+      "pituusaste": 22.964793,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 101,
+      "nimi": "Hansa-Apteekki",
+      "leveysaste": 60.868789,
+      "pituusaste": 26.701874,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 102,
+      "nimi": "Hansatorin Apteekki",
+      "leveysaste": 60.450822,
+      "pituusaste": 22.264425,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 103,
+      "nimi": "Harjavallan apteekki",
+      "leveysaste": 61.314413,
+      "pituusaste": 22.144755,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 104,
+      "nimi": "Hartolan apteekki",
+      "leveysaste": 61.57937,
+      "pituusaste": 26.021076,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 105,
+      "nimi": "Hattulan Apteekki",
+      "leveysaste": 61.053564,
+      "pituusaste": 24.372674,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 106,
+      "nimi": "Hauhon apteekki",
+      "leveysaste": 61.171048,
+      "pituusaste": 24.564452,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 107,
+      "nimi": "Haukilahden sivuapteekki",
+      "leveysaste": 60.162938,
+      "pituusaste": 24.776675,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 108,
+      "nimi": "Haukiputaan apteekki",
+      "leveysaste": 65.176827,
+      "pituusaste": 25.348249,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 109,
+      "nimi": "Heinolan 3. apteekki",
+      "leveysaste": 61.233171,
+      "pituusaste": 26.043047,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 110,
+      "nimi": "Heinolan Keskusapteekki",
+      "leveysaste": 61.203416,
+      "pituusaste": 26.030618,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 111,
+      "nimi": "Heinolan Vanha Apteekki",
+      "leveysaste": 61.203059,
+      "pituusaste": 26.031872,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 112,
+      "nimi": "Heinäveden Apteekki",
+      "leveysaste": 62.425062,
+      "pituusaste": 28.632171,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 113,
+      "nimi": "Helmi Apteekki",
+      "leveysaste": 60.983219,
+      "pituusaste": 25.66115,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 114,
+      "nimi": "Hertsin Apteekki",
+      "leveysaste": 60.194215,
+      "pituusaste": 25.033655,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 115,
+      "nimi": "Herttoniemen apteekki",
+      "leveysaste": 60.195282,
+      "pituusaste": 25.030472,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 116,
+      "nimi": "Hervannan apteekki",
+      "leveysaste": 61.450696,
+      "pituusaste": 23.849729,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 117,
+      "nimi": "Hietalahden apteekki",
+      "leveysaste": 60.161316,
+      "pituusaste": 24.930053,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 118,
+      "nimi": "Himangan apteekki",
+      "leveysaste": 64.060413,
+      "pituusaste": 23.65103,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 119,
+      "nimi": "Hirvaskankaan apteekki",
+      "leveysaste": 62.517786,
+      "pituusaste": 25.689455,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 120,
+      "nimi": "Hirvensalmen sivuapteekki",
+      "leveysaste": 61.640895,
+      "pituusaste": 26.7757,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 121,
+      "nimi": "Hirvensalon apteekki",
+      "leveysaste": 60.412221,
+      "pituusaste": 22.236183,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 122,
+      "nimi": "Hiukkavaaran apteekki",
+      "leveysaste": 65.009987,
+      "pituusaste": 25.590909,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 123,
+      "nimi": "Hollolan apteekki",
+      "leveysaste": 60.989181,
+      "pituusaste": 25.515034,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 124,
+      "nimi": "Holman Apteekki",
+      "leveysaste": 61.006884,
+      "pituusaste": 25.677702,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 125,
+      "nimi": "Holvi",
+      "leveysaste": 66.111834,
+      "pituusaste": 28.164657,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 126,
+      "nimi": "Honkajoen Apteekki",
+      "leveysaste": 61.993217,
+      "pituusaste": 22.259823,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 127,
+      "nimi": "HoviApteekki",
+      "leveysaste": 62.217551,
+      "pituusaste": 25.720661,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 128,
+      "nimi": "Huhtasuon apteekki",
+      "leveysaste": 62.27081,
+      "pituusaste": 25.799459,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 129,
+      "nimi": "Huittisten apteekki",
+      "leveysaste": 61.178439,
+      "pituusaste": 22.69808,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 130,
+      "nimi": "Humaliston apteekki",
+      "leveysaste": 60.452342,
+      "pituusaste": 22.257111,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 131,
+      "nimi": "Hyllykallion Apteekki",
+      "leveysaste": 62.805754,
+      "pituusaste": 22.877229,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 132,
+      "nimi": "Hyrynsalmen apteekki",
+      "leveysaste": 64.675316,
+      "pituusaste": 28.505106,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 133,
+      "nimi": "Hyvinkään Ykkösapteekki",
+      "leveysaste": 60.631948,
+      "pituusaste": 24.863472,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 134,
+      "nimi": "Hyvinvointiapteekki Sastamala",
+      "leveysaste": 61.332683,
+      "pituusaste": 22.924605,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 135,
+      "nimi": "Häijään apteekki",
+      "leveysaste": 61.500137,
+      "pituusaste": 23.090497,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 136,
+      "nimi": "Hämeenkyrön Apteekki",
+      "leveysaste": 61.639219,
+      "pituusaste": 23.196146,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 137,
+      "nimi": "Hämeenlinnan Keskusapteekki",
+      "leveysaste": 60.99696,
+      "pituusaste": 24.468672,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 138,
+      "nimi": "Härki Apteekki",
+      "leveysaste": 61.478962,
+      "pituusaste": 23.526526,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 139,
+      "nimi": "Härkätorin Apteekki",
+      "leveysaste": 64.684503,
+      "pituusaste": 24.483442,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 140,
+      "nimi": "Iin apteekki",
+      "leveysaste": 65.323207,
+      "pituusaste": 25.376593,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 141,
+      "nimi": "Iisalmen Keskusapteekki",
+      "leveysaste": 63.558564,
+      "pituusaste": 27.188105,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 142,
+      "nimi": "Iisalmen Ykkösapteekki",
+      "leveysaste": 63.555883,
+      "pituusaste": 27.18974,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 143,
+      "nimi": "Ikaalisten apteekki",
+      "leveysaste": 61.769413,
+      "pituusaste": 23.070216,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 144,
+      "nimi": "Ilmajoen apteekki",
+      "leveysaste": 62.731122,
+      "pituusaste": 22.578096,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 145,
+      "nimi": "Ilomantsin apteekki",
+      "leveysaste": 62.671182,
+      "pituusaste": 30.931319,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 146,
+      "nimi": "Ilves-apteekki",
+      "leveysaste": 60.991646,
+      "pituusaste": 25.567955,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 147,
+      "nimi": "Imatrankosken apteekki",
+      "leveysaste": 61.169653,
+      "pituusaste": 28.76845,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 148,
+      "nimi": "Ingå apotek",
+      "leveysaste": 60.045775,
+      "pituusaste": 24.005581,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 149,
+      "nimi": "Inkeroisten apteekki",
+      "leveysaste": 60.692645,
+      "pituusaste": 26.838057,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 150,
+      "nimi": "Isojoen Apteekki",
+      "leveysaste": 62.113276,
+      "pituusaste": 21.95967,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 151,
+      "nimi": "Isonkyrön Apteekki",
+      "leveysaste": 63.000503,
+      "pituusaste": 22.324179,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 152,
+      "nimi": "Ispoisten sivuapteekki",
+      "leveysaste": 60.426987,
+      "pituusaste": 22.269312,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 153,
+      "nimi": "Itä-Suomen yliopiston apteekki",
+      "leveysaste": 62.892825,
+      "pituusaste": 27.679868,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 154,
+      "nimi": "Itäkeskuksen Apteekki",
+      "leveysaste": 60.210717,
+      "pituusaste": 25.079163,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 155,
+      "nimi": "Ivalon apteekki",
+      "leveysaste": 68.656879,
+      "pituusaste": 27.539198,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 156,
+      "nimi": "Jaalan sivuapteekki",
+      "leveysaste": 61.050042,
+      "pituusaste": 26.481012,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 157,
+      "nimi": "Jakomäen apteekki",
+      "leveysaste": 60.261071,
+      "pituusaste": 25.076245,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 158,
+      "nimi": "Jalasjärven apteekki",
+      "leveysaste": 62.49141,
+      "pituusaste": 22.758374,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 159,
+      "nimi": "Jampan sivuapteekki",
+      "leveysaste": 60.493016,
+      "pituusaste": 25.065832,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 160,
+      "nimi": "Joensuun Uusi Apteekki",
+      "leveysaste": 62.601349,
+      "pituusaste": 29.763336,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 161,
+      "nimi": "Joensuun keskusapteekki",
+      "leveysaste": 62.61709,
+      "pituusaste": 29.776539,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 162,
+      "nimi": "Jokelan apteekki",
+      "leveysaste": 60.552271,
+      "pituusaste": 24.965838,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 163,
+      "nimi": "Jokioisten apteekki",
+      "leveysaste": 60.804379,
+      "pituusaste": 23.487672,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 164,
+      "nimi": "Joroisten Apteekki",
+      "leveysaste": 62.179463,
+      "pituusaste": 27.828224,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 165,
+      "nimi": "Jorvin apteekki",
+      "leveysaste": 60.221914,
+      "pituusaste": 24.685563,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 166,
+      "nimi": "Joutsan apteekki",
+      "leveysaste": 61.74331,
+      "pituusaste": 26.107474,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 167,
+      "nimi": "Joutsenon apteekki",
+      "leveysaste": 61.119534,
+      "pituusaste": 28.504762,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 168,
+      "nimi": "Juankosken apteekki",
+      "leveysaste": 63.066509,
+      "pituusaste": 28.33277,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 169,
+      "nimi": "Jukolan Apteekki",
+      "leveysaste": 60.984723,
+      "pituusaste": 24.416376,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 170,
+      "nimi": "Jumbon Apteekki",
+      "leveysaste": 60.291163,
+      "pituusaste": 24.964537,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 171,
+      "nimi": "Jurvan Apteekki",
+      "leveysaste": 62.686439,
+      "pituusaste": 21.98226,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 172,
+      "nimi": "Juuan apteekki",
+      "leveysaste": 63.248473,
+      "pituusaste": 29.262797,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 173,
+      "nimi": "Juvan apteekki",
+      "leveysaste": 61.897535,
+      "pituusaste": 27.852465,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 174,
+      "nimi": "Jynkän sivuapteekki",
+      "leveysaste": 62.854613,
+      "pituusaste": 27.64159,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 175,
+      "nimi": "Jyväskylän Uusi Apteekki",
+      "leveysaste": 62.242282,
+      "pituusaste": 25.748577,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 176,
+      "nimi": "Jämijärven apteekki",
+      "leveysaste": 61.820117,
+      "pituusaste": 22.69152,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 177,
+      "nimi": "Jämsän apteekki",
+      "leveysaste": 61.865728,
+      "pituusaste": 25.196637,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 178,
+      "nimi": "Jämsänkosken apteekki",
+      "leveysaste": 61.919028,
+      "pituusaste": 25.172829,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 179,
+      "nimi": "Jäppilän sivuapteekki",
+      "leveysaste": 62.378665,
+      "pituusaste": 27.433191,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 180,
+      "nimi": "Järvenpään 2. uusi apteekki",
+      "leveysaste": 60.477077,
+      "pituusaste": 25.103663,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 181,
+      "nimi": "Järvenpään Lähiapteekki",
+      "leveysaste": 60.47344,
+      "pituusaste": 25.085729,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 182,
+      "nimi": "Järvenpään Sonaatti Apteekki",
+      "leveysaste": 60.470965,
+      "pituusaste": 25.083516,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 183,
+      "nimi": "Jäälin apteekki",
+      "leveysaste": 65.091948,
+      "pituusaste": 25.689967,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 184,
+      "nimi": "Kaaren Apteekki",
+      "leveysaste": 60.237532,
+      "pituusaste": 24.893259,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 185,
+      "nimi": "Kaaren Uusi Apteekki",
+      "leveysaste": 60.237072,
+      "pituusaste": 24.891099,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 186,
+      "nimi": "Kaarinan apteekki",
+      "leveysaste": 60.407824,
+      "pituusaste": 22.366376,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 187,
+      "nimi": "Kaartin Apteekki",
+      "leveysaste": 60.165759,
+      "pituusaste": 24.948839,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 188,
+      "nimi": "Kaavin apteekki",
+      "leveysaste": 62.975121,
+      "pituusaste": 28.478185,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 189,
+      "nimi": "Kairatien apteekki",
+      "leveysaste": 66.502423,
+      "pituusaste": 25.714923,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 190,
+      "nimi": "Kaivopuiston apteekki",
+      "leveysaste": 60.159715,
+      "pituusaste": 24.946438,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 191,
+      "nimi": "Kajaanin Ykkösapteekki",
+      "leveysaste": 64.225042,
+      "pituusaste": 27.732482,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 192,
+      "nimi": "Kalajoen apteekki",
+      "leveysaste": 64.253715,
+      "pituusaste": 23.952504,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 193,
+      "nimi": "Kalajärven sivuapteekki",
+      "leveysaste": 60.305156,
+      "pituusaste": 24.740181,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 194,
+      "nimi": "Kalasataman apteekki",
+      "leveysaste": 60.186636,
+      "pituusaste": 24.97856,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 195,
+      "nimi": "Kallentorin Apteekki",
+      "leveysaste": 63.836965,
+      "pituusaste": 23.141444,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 196,
+      "nimi": "Kalvolan Apteekki",
+      "leveysaste": 61.091051,
+      "pituusaste": 24.136617,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 197,
+      "nimi": "Kampin apteekki",
+      "leveysaste": 60.16812,
+      "pituusaste": 24.927834,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 198,
+      "nimi": "Kangasalan apteekki",
+      "leveysaste": 61.462789,
+      "pituusaste": 24.073677,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 199,
+      "nimi": "Kangasniemen Apteekki",
+      "leveysaste": 61.989915,
+      "pituusaste": 26.643184,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 200,
+      "nimi": "Kannonkosken apteekki",
+      "leveysaste": 62.976901,
+      "pituusaste": 25.262644,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 201,
+      "nimi": "Kannuksen apteekki",
+      "leveysaste": 63.902229,
+      "pituusaste": 23.917759,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 202,
+      "nimi": "Karhulan Tori apteekki",
+      "leveysaste": 60.514905,
+      "pituusaste": 26.933457,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 203,
+      "nimi": "Karjaan apteekki",
+      "leveysaste": 60.070711,
+      "pituusaste": 23.659658,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 204,
+      "nimi": "Karjalohjan sivuapteekki",
+      "leveysaste": 60.242801,
+      "pituusaste": 23.722714,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 205,
+      "nimi": "Karkkilan apteekki",
+      "leveysaste": 60.534253,
+      "pituusaste": 24.230939,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 206,
+      "nimi": "Karttulan apteekki",
+      "leveysaste": 62.89491,
+      "pituusaste": 26.972686,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 207,
+      "nimi": "Karvian apteekki",
+      "leveysaste": 62.14042,
+      "pituusaste": 22.564472,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 208,
+      "nimi": "Kasken apteekki",
+      "leveysaste": 60.445275,
+      "pituusaste": 22.274938,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 209,
+      "nimi": "Kaskö filialapotek",
+      "leveysaste": 62.384854,
+      "pituusaste": 21.227527,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 210,
+      "nimi": "Kastellin apteekki",
+      "leveysaste": 65.01075,
+      "pituusaste": 25.522602,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 211,
+      "nimi": "Katajanokan apteekki",
+      "leveysaste": 60.167598,
+      "pituusaste": 24.962708,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 212,
+      "nimi": "Kauhajoen Ykkösapteekki",
+      "leveysaste": 62.43323,
+      "pituusaste": 22.185571,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 213,
+      "nimi": "Kauhavan Kirkonkylän Apteekki",
+      "leveysaste": 63.091048,
+      "pituusaste": 23.060583,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 214,
+      "nimi": "Kauhavan Ykkösapteekki",
+      "leveysaste": 63.101765,
+      "pituusaste": 23.055623,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 215,
+      "nimi": "Kaukaan sivuapteekki",
+      "leveysaste": 61.061376,
+      "pituusaste": 28.234845,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 216,
+      "nimi": "Kaukajärven apteekki",
+      "leveysaste": 61.474056,
+      "pituusaste": 23.873278,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 217,
+      "nimi": "Kauklahden sivuapteekki",
+      "leveysaste": 60.192287,
+      "pituusaste": 24.602366,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 218,
+      "nimi": "Kaukovainion sivuapteekki",
+      "leveysaste": 64.99248,
+      "pituusaste": 25.518148,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 219,
+      "nimi": "Kauniaisten Apteekki",
+      "leveysaste": 60.210554,
+      "pituusaste": 24.728586,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 220,
+      "nimi": "Kauppakeskus Veturin apteekki",
+      "leveysaste": 60.875826,
+      "pituusaste": 26.652861,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 221,
+      "nimi": "Kausalan apteekki",
+      "leveysaste": 60.889272,
+      "pituusaste": 26.341551,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 222,
+      "nimi": "Kaustisen apteekki",
+      "leveysaste": 63.548127,
+      "pituusaste": 23.694739,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 223,
+      "nimi": "Keljon Apteekki",
+      "leveysaste": 62.215577,
+      "pituusaste": 25.720959,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 224,
+      "nimi": "Kellokosken sivuapteekki",
+      "leveysaste": 60.532412,
+      "pituusaste": 25.111112,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 225,
+      "nimi": "Kellon sivuapteekki",
+      "leveysaste": 65.129183,
+      "pituusaste": 25.358214,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 226,
+      "nimi": "Kemijärven Apteekki",
+      "leveysaste": 66.717245,
+      "pituusaste": 27.429123,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 227,
+      "nimi": "Kemijärven apteekki",
+      "leveysaste": 66.7142,
+      "pituusaste": 27.43361,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 228,
+      "nimi": "Keminmaan apteekki",
+      "leveysaste": 65.794884,
+      "pituusaste": 24.525762,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 229,
+      "nimi": "Kempeleen ykkösapteekki",
+      "leveysaste": 64.912447,
+      "pituusaste": 25.504738,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 230,
+      "nimi": "Keravan 1. apteekki",
+      "leveysaste": 60.4021,
+      "pituusaste": 25.103534,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 231,
+      "nimi": "Keravan keskusapteekki",
+      "leveysaste": 60.400585,
+      "pituusaste": 25.101015,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 232,
+      "nimi": "Keravan keskusapteekki",
+      "leveysaste": 60.400609,
+      "pituusaste": 25.101024,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 233,
+      "nimi": "Kerimäen apteekki",
+      "leveysaste": 61.913178,
+      "pituusaste": 29.28217,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 234,
+      "nimi": "Keski-Kotkan apteekki",
+      "leveysaste": 60.463054,
+      "pituusaste": 26.937881,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 235,
+      "nimi": "Kestilän apteekki",
+      "leveysaste": 64.351173,
+      "pituusaste": 26.275263,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 236,
+      "nimi": "Kestilän apteekki",
+      "leveysaste": 64.351185,
+      "pituusaste": 26.27524,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 237,
+      "nimi": "Keuruun apteekki",
+      "leveysaste": 62.258304,
+      "pituusaste": 24.709192,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 238,
+      "nimi": "Kevätkummun Apteekki",
+      "leveysaste": 60.387271,
+      "pituusaste": 25.69573,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 239,
+      "nimi": "Kihniön apteekki",
+      "leveysaste": 62.205798,
+      "pituusaste": 23.180367,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 240,
+      "nimi": "Kiihtelysvaaran sivuapteekki",
+      "leveysaste": 62.493764,
+      "pituusaste": 30.249734,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 241,
+      "nimi": "Kiikan sivuapteekki",
+      "leveysaste": 61.318097,
+      "pituusaste": 22.778555,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 242,
+      "nimi": "Kiikoisten sivuapteekki",
+      "leveysaste": 61.473923,
+      "pituusaste": 22.556977,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 243,
+      "nimi": "Kiimingin apteekki",
+      "leveysaste": 65.127568,
+      "pituusaste": 25.778115,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 244,
+      "nimi": "Kinnulan apteekki",
+      "leveysaste": 63.367902,
+      "pituusaste": 24.966712,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 245,
+      "nimi": "Kipparlahden apteekki",
+      "leveysaste": 60.19281,
+      "pituusaste": 25.031101,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 246,
+      "nimi": "Kirjavantolpan apteekki",
+      "leveysaste": 60.619541,
+      "pituusaste": 24.844435,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 247,
+      "nimi": "Kirkkonummen 1. apteekki",
+      "leveysaste": 60.121162,
+      "pituusaste": 24.443389,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 248,
+      "nimi": "Kirkkonummen Uusi apteekki",
+      "leveysaste": 60.117865,
+      "pituusaste": 24.446386,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 249,
+      "nimi": "Kiteen apteekki",
+      "leveysaste": 62.097192,
+      "pituusaste": 30.141637,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 250,
+      "nimi": "Kittilän Apteekki",
+      "leveysaste": 67.655486,
+      "pituusaste": 24.909499,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 251,
+      "nimi": "Kiukaisten sivuapteekki",
+      "leveysaste": 61.207982,
+      "pituusaste": 22.083713,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 252,
+      "nimi": "Kiuruveden apteekki",
+      "leveysaste": 63.653776,
+      "pituusaste": 26.620187,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 253,
+      "nimi": "Kivistön Apteekki",
+      "leveysaste": 60.315233,
+      "pituusaste": 24.849008,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 254,
+      "nimi": "Klaukkalan Uusi Apteekki",
+      "leveysaste": 60.381557,
+      "pituusaste": 24.748484,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 255,
+      "nimi": "Klaukkalan apteekki",
+      "leveysaste": 60.377911,
+      "pituusaste": 24.758159,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 256,
+      "nimi": "Kluuvin apteekki",
+      "leveysaste": 60.169669,
+      "pituusaste": 24.943445,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 257,
+      "nimi": "Koivu Apteekki",
+      "leveysaste": 61.468201,
+      "pituusaste": 23.775993,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 258,
+      "nimi": "Koivuhaan apteekki",
+      "leveysaste": 63.826204,
+      "pituusaste": 23.070722,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 259,
+      "nimi": "Koivukylän apteekki",
+      "leveysaste": 60.323857,
+      "pituusaste": 25.057862,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 260,
+      "nimi": "Kokemäen apteekki",
+      "leveysaste": 61.254729,
+      "pituusaste": 22.348868,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 261,
+      "nimi": "Kokkolan keskusapteekki",
+      "leveysaste": 63.831773,
+      "pituusaste": 23.125211,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 262,
+      "nimi": "Kolarin apteekki",
+      "leveysaste": 67.34792,
+      "pituusaste": 23.829915,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 263,
+      "nimi": "Kolhon sivuapteekki",
+      "leveysaste": 62.138551,
+      "pituusaste": 24.499587,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 264,
+      "nimi": "Kommilan apteekki",
+      "leveysaste": 62.326979,
+      "pituusaste": 27.890608,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 265,
+      "nimi": "Kontioapteekki",
+      "leveysaste": 60.51355,
+      "pituusaste": 26.932451,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 266,
+      "nimi": "Kontiolahden apteekki",
+      "leveysaste": 62.763708,
+      "pituusaste": 29.846938,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 267,
+      "nimi": "Kontulan apteekki",
+      "leveysaste": 60.237503,
+      "pituusaste": 25.08349,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 268,
+      "nimi": "Kontulankaaren apteekki",
+      "leveysaste": 60.236463,
+      "pituusaste": 25.084689,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 269,
+      "nimi": "Korian apteekki",
+      "leveysaste": 60.846492,
+      "pituusaste": 26.60358,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 270,
+      "nimi": "Korkalovaaran apteekki",
+      "leveysaste": 66.512256,
+      "pituusaste": 25.668461,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 271,
+      "nimi": "Korpilahden apteekki",
+      "leveysaste": 62.015843,
+      "pituusaste": 25.559408,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 272,
+      "nimi": "Korppoon apteekki",
+      "leveysaste": 60.161652,
+      "pituusaste": 21.564518,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 273,
+      "nimi": "Korson apteekki",
+      "leveysaste": 60.348748,
+      "pituusaste": 25.074147,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 274,
+      "nimi": "Korson uusi apteekki",
+      "leveysaste": 60.348727,
+      "pituusaste": 25.076337,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 275,
+      "nimi": "Kortesjärven apteekki",
+      "leveysaste": 63.300724,
+      "pituusaste": 23.155158,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 276,
+      "nimi": "Koskenmäen apteekki",
+      "leveysaste": 61.466777,
+      "pituusaste": 23.510198,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 277,
+      "nimi": "Koskikaran apteekki",
+      "leveysaste": 61.266494,
+      "pituusaste": 24.028666,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 278,
+      "nimi": "Koskikeskuksen apteekki",
+      "leveysaste": 61.495701,
+      "pituusaste": 23.766569,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 279,
+      "nimi": "Kotkan kauppatorin apteekki",
+      "leveysaste": 60.467534,
+      "pituusaste": 26.944279,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 280,
+      "nimi": "Kouvolan uusi apteekki",
+      "leveysaste": 60.868106,
+      "pituusaste": 26.705287,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 281,
+      "nimi": "Kruunu-Apteekki",
+      "leveysaste": 60.457641,
+      "pituusaste": 26.226242,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 282,
+      "nimi": "Kruununhaan apteekki",
+      "leveysaste": 60.174203,
+      "pituusaste": 24.953534,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 283,
+      "nimi": "Kruunupyyn Teerijärven apteekki",
+      "leveysaste": 63.544313,
+      "pituusaste": 23.512191,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 284,
+      "nimi": "Kruunupyyn apteekki",
+      "leveysaste": 63.727853,
+      "pituusaste": 23.032892,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 285,
+      "nimi": "Kuhmoisten apteekki",
+      "leveysaste": 61.56368,
+      "pituusaste": 25.181671,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 286,
+      "nimi": "Kuhmon apteekki",
+      "leveysaste": 64.127547,
+      "pituusaste": 29.518546,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 287,
+      "nimi": "Kuivaniemen sivuapteekki",
+      "leveysaste": 65.604256,
+      "pituusaste": 25.208233,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 288,
+      "nimi": "Kumlinge Apotek",
+      "leveysaste": 60.256825,
+      "pituusaste": 20.774959,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 289,
+      "nimi": "Kuninkaankulman Apteekki",
+      "leveysaste": 61.499426,
+      "pituusaste": 23.755806,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 290,
+      "nimi": "Kuokkalan apteekki",
+      "leveysaste": 62.227779,
+      "pituusaste": 25.770806,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 291,
+      "nimi": "Kuopio Uusi Apteekki",
+      "leveysaste": 62.864814,
+      "pituusaste": 27.612561,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 292,
+      "nimi": "Kuopion Eka Apteekki",
+      "leveysaste": 62.822876,
+      "pituusaste": 27.603083,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 293,
+      "nimi": "Kuopion ensimmäinen apteekki",
+      "leveysaste": 62.891923,
+      "pituusaste": 27.682209,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 294,
+      "nimi": "Kuortaneen apteekin palvelupiste",
+      "leveysaste": 62.819539,
+      "pituusaste": 23.499506,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 295,
+      "nimi": "Kuortaneen apteekki",
+      "leveysaste": 62.806204,
+      "pituusaste": 23.507289,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 296,
+      "nimi": "Kupittaan apteekki",
+      "leveysaste": 60.441751,
+      "pituusaste": 22.277883,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 297,
+      "nimi": "Kurikan apteekki",
+      "leveysaste": 62.616082,
+      "pituusaste": 22.401176,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 298,
+      "nimi": "Kurun apteekki",
+      "leveysaste": 61.879332,
+      "pituusaste": 23.72783,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 299,
+      "nimi": "Kutomon Apteekki",
+      "leveysaste": 60.808795,
+      "pituusaste": 23.630101,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 300,
+      "nimi": "Kuusamon Keskusapteekki",
+      "leveysaste": 65.963909,
+      "pituusaste": 29.188465,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 301,
+      "nimi": "Kuusankosken Ykkösapteekki",
+      "leveysaste": 60.90739,
+      "pituusaste": 26.626358,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 302,
+      "nimi": "Kuusjoen sivuapteekki",
+      "leveysaste": 60.521457,
+      "pituusaste": 23.22109,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 303,
+      "nimi": "Kyllön apteekki",
+      "leveysaste": 62.232669,
+      "pituusaste": 25.708417,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 304,
+      "nimi": "Kylmäkosken Apteekki",
+      "leveysaste": 61.161394,
+      "pituusaste": 23.69405,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 305,
+      "nimi": "Kyrön Apteekki",
+      "leveysaste": 60.702907,
+      "pituusaste": 22.756771,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 306,
+      "nimi": "Kyröskosken sivuapteekki",
+      "leveysaste": 61.657347,
+      "pituusaste": 23.18317,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 307,
+      "nimi": "Kyyjärven apteekki",
+      "leveysaste": 63.042393,
+      "pituusaste": 24.558664,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 308,
+      "nimi": "Kälviän Apteekki",
+      "leveysaste": 63.861555,
+      "pituusaste": 23.453859,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 309,
+      "nimi": "Käpykankaan sivuapteekki",
+      "leveysaste": 62.313993,
+      "pituusaste": 27.846932,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 310,
+      "nimi": "Käpylän apteekki",
+      "leveysaste": 60.216144,
+      "pituusaste": 24.958522,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 311,
+      "nimi": "Kärkölän apteekki",
+      "leveysaste": 60.868293,
+      "pituusaste": 25.275163,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 312,
+      "nimi": "Kärsämäen apteekki",
+      "leveysaste": 63.978912,
+      "pituusaste": 25.76016,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 313,
+      "nimi": "Könönpellon sivuapteekki",
+      "leveysaste": 62.301779,
+      "pituusaste": 27.93832,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 314,
+      "nimi": "Köyliön Apteekki",
+      "leveysaste": 61.118289,
+      "pituusaste": 22.308403,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 315,
+      "nimi": "Laajasalon Apteekki",
+      "leveysaste": 60.17982,
+      "pituusaste": 25.051706,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 316,
+      "nimi": "Laajasalon Apteekki",
+      "leveysaste": 60.179824,
+      "pituusaste": 25.051741,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 317,
+      "nimi": "Lahden 10 Mukkulan apteekki",
+      "leveysaste": 61.015916,
+      "pituusaste": 25.663958,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 318,
+      "nimi": "Lahden Keskusapteekki",
+      "leveysaste": 60.982996,
+      "pituusaste": 25.655649,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 319,
+      "nimi": "Lahden Ykkösapteekki",
+      "leveysaste": 60.934797,
+      "pituusaste": 25.63375,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 320,
+      "nimi": "Laitilan Uusi Apteekki",
+      "leveysaste": 60.8764,
+      "pituusaste": 21.697676,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 321,
+      "nimi": "Laitilan Ykkösapteekki",
+      "leveysaste": 60.875629,
+      "pituusaste": 21.693927,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 322,
+      "nimi": "Lakeus Apteekki",
+      "leveysaste": 62.970781,
+      "pituusaste": 23.008936,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 323,
+      "nimi": "Lammin Apteekki",
+      "leveysaste": 61.078198,
+      "pituusaste": 25.010537,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 324,
+      "nimi": "Lapin apteekki",
+      "leveysaste": 61.101168,
+      "pituusaste": 21.845843,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 325,
+      "nimi": "Lapinjärven apteekki",
+      "leveysaste": 60.623318,
+      "pituusaste": 26.198484,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 326,
+      "nimi": "Lapinlahden apteekki",
+      "leveysaste": 63.367105,
+      "pituusaste": 27.399412,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 327,
+      "nimi": "Lappajärven Apteekki",
+      "leveysaste": 63.217985,
+      "pituusaste": 23.633132,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 328,
+      "nimi": "Lappeenrannan City apteekki",
+      "leveysaste": 61.059028,
+      "pituusaste": 28.186102,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 329,
+      "nimi": "Lappeenrannan Uusi Apteekki",
+      "leveysaste": 61.046622,
+      "pituusaste": 28.209003,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 330,
+      "nimi": "Lapuan keskusapteekki",
+      "leveysaste": 62.97312,
+      "pituusaste": 23.029736,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 331,
+      "nimi": "Lasihytin apteekki",
+      "leveysaste": 60.185462,
+      "pituusaste": 24.596511,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 332,
+      "nimi": "Lassilan apteekki",
+      "leveysaste": 60.230993,
+      "pituusaste": 24.882478,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 333,
+      "nimi": "Laukaan apteekki",
+      "leveysaste": 62.412823,
+      "pituusaste": 25.947717,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 334,
+      "nimi": "Launeen Apteekki",
+      "leveysaste": 60.965283,
+      "pituusaste": 25.657484,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 335,
+      "nimi": "Lauritsalan apteekki",
+      "leveysaste": 61.071746,
+      "pituusaste": 28.262379,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 336,
+      "nimi": "Lauttasaaren kirkkoapteekki",
+      "leveysaste": 60.154285,
+      "pituusaste": 24.879589,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 337,
+      "nimi": "Lauttiksen Apteekki",
+      "leveysaste": 60.159947,
+      "pituusaste": 24.880995,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 338,
+      "nimi": "Lavian apteekki",
+      "leveysaste": 61.59638,
+      "pituusaste": 22.58698,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 339,
+      "nimi": "Lehmon Apteekki",
+      "leveysaste": 62.674638,
+      "pituusaste": 29.793367,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 340,
+      "nimi": "Lehtikankaan apteekki",
+      "leveysaste": 64.209553,
+      "pituusaste": 27.753538,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 341,
+      "nimi": "Lehtimäen Sivuapteekki",
+      "leveysaste": 62.819132,
+      "pituusaste": 23.944653,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 342,
+      "nimi": "Leivonmäen sivuapteekki",
+      "leveysaste": 61.914798,
+      "pituusaste": 26.123639,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 343,
+      "nimi": "Lemin sivuapteekki",
+      "leveysaste": 61.062092,
+      "pituusaste": 27.809578,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 344,
+      "nimi": "Lempi apteekki",
+      "leveysaste": 61.514802,
+      "pituusaste": 23.66724,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 345,
+      "nimi": "Lempäälän Keskus Apteekki",
+      "leveysaste": 61.313562,
+      "pituusaste": 23.759089,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 346,
+      "nimi": "Lentoaseman sivuapteekki",
+      "leveysaste": 60.317785,
+      "pituusaste": 24.968061,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 347,
+      "nimi": "Leppävirran apteekki",
+      "leveysaste": 62.490808,
+      "pituusaste": 27.785607,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 348,
+      "nimi": "Lestijärven Apteekki",
+      "leveysaste": 63.52474,
+      "pituusaste": 24.664974,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 349,
+      "nimi": "Levin apteekki",
+      "leveysaste": 67.805472,
+      "pituusaste": 24.802777,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 350,
+      "nimi": "Liedon Apteekki",
+      "leveysaste": 60.504037,
+      "pituusaste": 22.460557,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 351,
+      "nimi": "Lieksan Pielis Apteekki",
+      "leveysaste": 63.318926,
+      "pituusaste": 30.025648,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 352,
+      "nimi": "Lieksan Pietari-apteekki",
+      "leveysaste": 63.318746,
+      "pituusaste": 30.023981,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 353,
+      "nimi": "Lielahden apteekki",
+      "leveysaste": 61.519559,
+      "pituusaste": 23.665895,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 354,
+      "nimi": "Lievestuoreen Apteekki",
+      "leveysaste": 62.261373,
+      "pituusaste": 26.198946,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 355,
+      "nimi": "Limingan apteekki",
+      "leveysaste": 64.809116,
+      "pituusaste": 25.413865,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 356,
+      "nimi": "Linnainmaan Apteekki",
+      "leveysaste": 61.497028,
+      "pituusaste": 23.890154,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 357,
+      "nimi": "Linnan apteekki",
+      "leveysaste": 60.452983,
+      "pituusaste": 22.266245,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 358,
+      "nimi": "Linnanmaan apteekki",
+      "leveysaste": 65.053939,
+      "pituusaste": 25.456643,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 359,
+      "nimi": "Linnanportin apteekki",
+      "leveysaste": 61.876044,
+      "pituusaste": 28.948351,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 360,
+      "nimi": "Lohikosken Apteekki",
+      "leveysaste": 62.257109,
+      "pituusaste": 25.757773,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 361,
+      "nimi": "Lohjan 1. apteekki",
+      "leveysaste": 60.248306,
+      "pituusaste": 24.062115,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 362,
+      "nimi": "Lohtajan apteekki",
+      "leveysaste": 64.219098,
+      "pituusaste": 27.677764,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 363,
+      "nimi": "Loimaan Uusi apteekki",
+      "leveysaste": 60.854849,
+      "pituusaste": 23.042983,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 364,
+      "nimi": "Loimaan Ykkösapteekki",
+      "leveysaste": 60.856683,
+      "pituusaste": 23.045265,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 365,
+      "nimi": "Lopen apteekki",
+      "leveysaste": 60.719635,
+      "pituusaste": 24.439246,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 366,
+      "nimi": "Loviisan Uusi Apteekki",
+      "leveysaste": 60.452795,
+      "pituusaste": 26.207575,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 367,
+      "nimi": "Luodon sivuapteekki",
+      "leveysaste": 63.754724,
+      "pituusaste": 22.74505,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 368,
+      "nimi": "Luopioisten apteekki",
+      "leveysaste": 61.363364,
+      "pituusaste": 24.657771,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 369,
+      "nimi": "Luumäen apteekki",
+      "leveysaste": 60.919748,
+      "pituusaste": 27.567274,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 370,
+      "nimi": "Luvian apteekki",
+      "leveysaste": 61.36073,
+      "pituusaste": 21.62384,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 371,
+      "nimi": "Lähi-Apteekki Hervanta",
+      "leveysaste": 61.451137,
+      "pituusaste": 23.851634,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 372,
+      "nimi": "Lähiapteekki Ahtiala",
+      "leveysaste": 60.998864,
+      "pituusaste": 25.757537,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 373,
+      "nimi": "Lähiapteekki Syke",
+      "leveysaste": 60.986496,
+      "pituusaste": 25.665415,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 374,
+      "nimi": "Längelmäen sivuapteekki",
+      "leveysaste": 61.729338,
+      "pituusaste": 24.78868,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 375,
+      "nimi": "Länsi-Pasilan Apteekki",
+      "leveysaste": 60.196903,
+      "pituusaste": 24.927509,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 376,
+      "nimi": "Länsi-Porin Uusi apteekki",
+      "leveysaste": 61.477743,
+      "pituusaste": 21.758252,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 377,
+      "nimi": "Länsikeskuksen apteekki",
+      "leveysaste": 60.472056,
+      "pituusaste": 22.233821,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 378,
+      "nimi": "Länsimäen sivuapteekki",
+      "leveysaste": 60.242374,
+      "pituusaste": 25.111753,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 379,
+      "nimi": "Maaningan apteekki",
+      "leveysaste": 63.152893,
+      "pituusaste": 27.302259,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 380,
+      "nimi": "Maaria-Jäkärlän apteekki",
+      "leveysaste": 60.543391,
+      "pituusaste": 22.342714,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 381,
+      "nimi": "Maikkulan sivuapteekki",
+      "leveysaste": 64.983353,
+      "pituusaste": 25.567241,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 382,
+      "nimi": "Malax Pharmacy",
+      "leveysaste": 62.946428,
+      "pituusaste": 21.546592,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 383,
+      "nimi": "Malax Pharmacy",
+      "leveysaste": 62.946453,
+      "pituusaste": 21.546519,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 384,
+      "nimi": "Malmin apteekki",
+      "leveysaste": 60.25228,
+      "pituusaste": 25.009819,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 385,
+      "nimi": "Malminkartanon apteekki",
+      "leveysaste": 60.248046,
+      "pituusaste": 24.863612,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 386,
+      "nimi": "Martin apteekki",
+      "leveysaste": 60.436998,
+      "pituusaste": 22.258117,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 387,
+      "nimi": "Martinlaakson apteekki",
+      "leveysaste": 60.278623,
+      "pituusaste": 24.85371,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 388,
+      "nimi": "Masalan sivuapteekki",
+      "leveysaste": 60.158228,
+      "pituusaste": 24.535136,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 389,
+      "nimi": "Maskun Apteekki",
+      "leveysaste": 60.56966,
+      "pituusaste": 22.098799,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 390,
+      "nimi": "Matinkylän apteekki",
+      "leveysaste": 60.161732,
+      "pituusaste": 24.738781,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 391,
+      "nimi": "Maunulan apteekki",
+      "leveysaste": 60.231663,
+      "pituusaste": 24.932961,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 392,
+      "nimi": "Medi Apoteket",
+      "leveysaste": 63.677953,
+      "pituusaste": 22.716873,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 393,
+      "nimi": "Mellunmäen Uusi Apteekki",
+      "leveysaste": 60.238254,
+      "pituusaste": 25.11036,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 394,
+      "nimi": "Merihaan sivuapteekki",
+      "leveysaste": 60.179653,
+      "pituusaste": 24.960831,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 395,
+      "nimi": "Merijärven sivuapteekki",
+      "leveysaste": 64.2973,
+      "pituusaste": 24.44723,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 396,
+      "nimi": "Merikarvian Apteekki",
+      "leveysaste": 61.860596,
+      "pituusaste": 21.505955,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 397,
+      "nimi": "Merikosken apteekki",
+      "leveysaste": 65.025832,
+      "pituusaste": 25.469574,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 398,
+      "nimi": "Miehikkälän apteekki",
+      "leveysaste": 60.671283,
+      "pituusaste": 27.699245,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 399,
+      "nimi": "Mikkelin 1. apteekki",
+      "leveysaste": 61.688,
+      "pituusaste": 27.275044,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 400,
+      "nimi": "Muhoksen apteekki",
+      "leveysaste": 64.807611,
+      "pituusaste": 25.991401,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 401,
+      "nimi": "Multian apteekki",
+      "leveysaste": 62.409514,
+      "pituusaste": 24.799119,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 402,
+      "nimi": "Munkkiniemen Apteekki",
+      "leveysaste": 60.20044,
+      "pituusaste": 24.876588,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 403,
+      "nimi": "Munkkiniemen Puisto apteekki",
+      "leveysaste": 60.197879,
+      "pituusaste": 24.878913,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 404,
+      "nimi": "Munkkivuoren apteekki",
+      "leveysaste": 60.205625,
+      "pituusaste": 24.879288,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 405,
+      "nimi": "Muonion Apteekki",
+      "leveysaste": 67.956018,
+      "pituusaste": 23.683273,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 406,
+      "nimi": "Mustasaaren apteekki",
+      "leveysaste": 63.112355,
+      "pituusaste": 21.676852,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 407,
+      "nimi": "Muuramen Apteekki",
+      "leveysaste": 62.136782,
+      "pituusaste": 25.672881,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 408,
+      "nimi": "Myllyn Apteekki",
+      "leveysaste": 60.490849,
+      "pituusaste": 22.202343,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 409,
+      "nimi": "Myllypuron Apteekki",
+      "leveysaste": 60.224328,
+      "pituusaste": 25.07375,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 410,
+      "nimi": "Mynämäen Apteekki",
+      "leveysaste": 60.684554,
+      "pituusaste": 21.989317,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 411,
+      "nimi": "Myrskylän apteekki",
+      "leveysaste": 60.670141,
+      "pituusaste": 25.85178,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 412,
+      "nimi": "Myyrmannin apteekki",
+      "leveysaste": 60.259398,
+      "pituusaste": 24.853667,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 413,
+      "nimi": "Myyrmäen apteekki",
+      "leveysaste": 60.26169,
+      "pituusaste": 24.855775,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 414,
+      "nimi": "Mäntsälän Kotoapteekki",
+      "leveysaste": 60.637557,
+      "pituusaste": 25.317661,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 415,
+      "nimi": "Mäntsälän Ykkösapteekki",
+      "leveysaste": 60.636392,
+      "pituusaste": 25.322267,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 416,
+      "nimi": "Mäntyharjun Apteekki",
+      "leveysaste": 61.414487,
+      "pituusaste": 26.88201,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 417,
+      "nimi": "Mäntän apteekki",
+      "leveysaste": 62.029789,
+      "pituusaste": 24.623668,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 418,
+      "nimi": "Möysän Uusi Apteekki",
+      "leveysaste": 60.978668,
+      "pituusaste": 25.683264,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 419,
+      "nimi": "Naantalin apteekki",
+      "leveysaste": 60.467818,
+      "pituusaste": 22.026033,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 420,
+      "nimi": "Naarajärven apteekki",
+      "leveysaste": 62.287237,
+      "pituusaste": 27.08173,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 421,
+      "nimi": "Nagu Apotek",
+      "leveysaste": 60.192749,
+      "pituusaste": 21.911224,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 422,
+      "nimi": "Nagu Apotek",
+      "leveysaste": 60.192756,
+      "pituusaste": 21.911168,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 423,
+      "nimi": "Nastolan apteekki",
+      "leveysaste": 60.935455,
+      "pituusaste": 25.962585,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 424,
+      "nimi": "Neulamäen sivuapteekki",
+      "leveysaste": 62.883486,
+      "pituusaste": 27.613578,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 425,
+      "nimi": "Niinivaaran apteekki",
+      "leveysaste": 62.588899,
+      "pituusaste": 29.789701,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 426,
+      "nimi": "Niiralan apteekki",
+      "leveysaste": 62.887525,
+      "pituusaste": 27.632752,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 427,
+      "nimi": "Nilsiän apteekki",
+      "leveysaste": 63.203103,
+      "pituusaste": 28.084125,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 428,
+      "nimi": "Nivalan apteekki",
+      "leveysaste": 63.928851,
+      "pituusaste": 24.964215,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 429,
+      "nimi": "Nokian 1. apteekki",
+      "leveysaste": 61.478378,
+      "pituusaste": 23.510634,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 430,
+      "nimi": "Noljakan Apteekki",
+      "leveysaste": 62.628156,
+      "pituusaste": 29.703957,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 431,
+      "nimi": "Nousiaisten Apteekki",
+      "leveysaste": 60.596743,
+      "pituusaste": 22.080844,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 432,
+      "nimi": "Nova apteekki",
+      "leveysaste": 60.442077,
+      "pituusaste": 22.285909,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 433,
+      "nimi": "Nummelan Apteekki",
+      "leveysaste": 60.332591,
+      "pituusaste": 24.330238,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 434,
+      "nimi": "Nummelan Uusi Apteekki",
+      "leveysaste": 60.331348,
+      "pituusaste": 24.320469,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 435,
+      "nimi": "Nummenmäen apteekki",
+      "leveysaste": 60.455904,
+      "pituusaste": 22.29781,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 436,
+      "nimi": "Nuotti Apteekki",
+      "leveysaste": 62.430399,
+      "pituusaste": 22.179289,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 437,
+      "nimi": "Nurmeksen Apteekki",
+      "leveysaste": 63.541947,
+      "pituusaste": 29.138141,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 438,
+      "nimi": "Nurmon sivuapteekki",
+      "leveysaste": 62.828827,
+      "pituusaste": 22.908583,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 439,
+      "nimi": "Nya apoteket i Ekenäs",
+      "leveysaste": 59.976968,
+      "pituusaste": 23.439223,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 440,
+      "nimi": "Nykarleby apotek",
+      "leveysaste": 63.521858,
+      "pituusaste": 22.531137,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 441,
+      "nimi": "Närpes Apotek",
+      "leveysaste": 62.478608,
+      "pituusaste": 21.334699,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 442,
+      "nimi": "Näsin Apteekki",
+      "leveysaste": 60.387037,
+      "pituusaste": 25.651531,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 443,
+      "nimi": "Oitin apteekki",
+      "leveysaste": 60.788125,
+      "pituusaste": 25.028023,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 444,
+      "nimi": "Oiva apteekki",
+      "leveysaste": 60.506756,
+      "pituusaste": 26.91422,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 445,
+      "nimi": "Olarin Uusi Apteekki",
+      "leveysaste": 60.166301,
+      "pituusaste": 24.73272,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 446,
+      "nimi": "Olarin apteekki",
+      "leveysaste": 60.172482,
+      "pituusaste": 24.727065,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 447,
+      "nimi": "Omega Apteekki",
+      "leveysaste": 61.689,
+      "pituusaste": 27.272219,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 448,
+      "nimi": "Omena-apteekki Virkkala",
+      "leveysaste": 60.189562,
+      "pituusaste": 23.997708,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 449,
+      "nimi": "Onni apteekki",
+      "leveysaste": 60.228187,
+      "pituusaste": 24.025112,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 450,
+      "nimi": "Oravais Apotek",
+      "leveysaste": 63.299974,
+      "pituusaste": 22.379035,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 451,
+      "nimi": "Orimattilan Apteekki",
+      "leveysaste": 60.804712,
+      "pituusaste": 25.730638,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 452,
+      "nimi": "Oripään Apteekki",
+      "leveysaste": 60.856082,
+      "pituusaste": 22.696463,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 453,
+      "nimi": "Oriveden Apteekki",
+      "leveysaste": 61.678148,
+      "pituusaste": 24.357242,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 454,
+      "nimi": "Oriveden Apteekki",
+      "leveysaste": 61.678174,
+      "pituusaste": 24.35726,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 455,
+      "nimi": "Otan Sivuapteekki",
+      "leveysaste": 61.134634,
+      "pituusaste": 21.492477,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 456,
+      "nimi": "Otaniemen sivuapteekki",
+      "leveysaste": 60.185036,
+      "pituusaste": 24.82496,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 457,
+      "nimi": "Oulaisten apteekki",
+      "leveysaste": 64.268655,
+      "pituusaste": 24.826466,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 458,
+      "nimi": "Oulun 9. Ruskon apteekki",
+      "leveysaste": 65.039054,
+      "pituusaste": 25.552202,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 459,
+      "nimi": "Oulun III Hansa Apteekki",
+      "leveysaste": 64.994493,
+      "pituusaste": 25.462878,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 460,
+      "nimi": "Oulun Keskus Apteekki",
+      "leveysaste": 65.009158,
+      "pituusaste": 25.469378,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 461,
+      "nimi": "Oulun Vanha apteekki",
+      "leveysaste": 65.009958,
+      "pituusaste": 25.477516,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 462,
+      "nimi": "Oulunkylän apteekki",
+      "leveysaste": 60.228228,
+      "pituusaste": 24.963854,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 463,
+      "nimi": "Oulunsalon Apteekki",
+      "leveysaste": 64.934775,
+      "pituusaste": 25.401873,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 464,
+      "nimi": "Ounas apteekki",
+      "leveysaste": 66.497932,
+      "pituusaste": 25.754174,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 465,
+      "nimi": "Outokummun apteekki",
+      "leveysaste": 62.725814,
+      "pituusaste": 29.015764,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 466,
+      "nimi": "Paimion apteekki",
+      "leveysaste": 60.458196,
+      "pituusaste": 22.688503,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 467,
+      "nimi": "Pakilan apteekki",
+      "leveysaste": 60.238098,
+      "pituusaste": 24.927902,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 468,
+      "nimi": "Palokan Apteekki",
+      "leveysaste": 62.288655,
+      "pituusaste": 25.716601,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 469,
+      "nimi": "Palosaaren apteekki",
+      "leveysaste": 63.108459,
+      "pituusaste": 21.594398,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 470,
+      "nimi": "Paltamon Apteekki",
+      "leveysaste": 64.406472,
+      "pituusaste": 27.839061,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 471,
+      "nimi": "Panelian sivuapteekki",
+      "leveysaste": 61.226528,
+      "pituusaste": 21.972747,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 472,
+      "nimi": "Pansion Apteekki",
+      "leveysaste": 60.450246,
+      "pituusaste": 22.164286,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 473,
+      "nimi": "Paraisten Apteekki",
+      "leveysaste": 60.308323,
+      "pituusaste": 22.307094,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 474,
+      "nimi": "Parikkalan apteekki",
+      "leveysaste": 61.557355,
+      "pituusaste": 29.499589,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 475,
+      "nimi": "Parkanon Apteekki",
+      "leveysaste": 62.010036,
+      "pituusaste": 23.020965,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 476,
+      "nimi": "Paroalhon Apteekki",
+      "leveysaste": 61.12199,
+      "pituusaste": 21.52771,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 477,
+      "nimi": "Pasaatin apteekki",
+      "leveysaste": 60.466819,
+      "pituusaste": 26.944023,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 478,
+      "nimi": "Pasilan Apteekki",
+      "leveysaste": 60.198912,
+      "pituusaste": 24.934041,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 479,
+      "nimi": "Pateniemen Apteekki",
+      "leveysaste": 65.079186,
+      "pituusaste": 25.407529,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 480,
+      "nimi": "Pateniemen Apteekki",
+      "leveysaste": 65.0792,
+      "pituusaste": 25.407418,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 481,
+      "nimi": "Pattijoen apteekki",
+      "leveysaste": 64.692078,
+      "pituusaste": 24.575463,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 482,
+      "nimi": "Pelkosenniemen Apteekki",
+      "leveysaste": 67.108685,
+      "pituusaste": 27.513925,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 483,
+      "nimi": "Pellon Apteekki",
+      "leveysaste": 66.775297,
+      "pituusaste": 23.967308,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 484,
+      "nimi": "Peltolammin apteekki",
+      "leveysaste": 61.454871,
+      "pituusaste": 23.75742,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 485,
+      "nimi": "Perhon Apteekki",
+      "leveysaste": 63.21337,
+      "pituusaste": 24.420845,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 486,
+      "nimi": "Perniön Apteekki",
+      "leveysaste": 60.205902,
+      "pituusaste": 23.113565,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 487,
+      "nimi": "Pertunmaan apteekki",
+      "leveysaste": 61.421009,
+      "pituusaste": 26.435016,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 488,
+      "nimi": "Peräseinäjoen Apteekki",
+      "leveysaste": 62.56257,
+      "pituusaste": 23.061271,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 489,
+      "nimi": "Petosen Apteekki",
+      "leveysaste": 62.839306,
+      "pituusaste": 27.643826,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 490,
+      "nimi": "Pieksämäen Apteekki",
+      "leveysaste": 62.299262,
+      "pituusaste": 27.153493,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 491,
+      "nimi": "Pieksämäen Ykkösapteekki",
+      "leveysaste": 62.298091,
+      "pituusaste": 27.164676,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 492,
+      "nimi": "Pielaveden Apteekki",
+      "leveysaste": 63.232162,
+      "pituusaste": 26.758522,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 493,
+      "nimi": "Pihlajamäen apteekki",
+      "leveysaste": 60.23425,
+      "pituusaste": 25.010849,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 494,
+      "nimi": "Pihlavan apteekki",
+      "leveysaste": 61.561394,
+      "pituusaste": 21.613885,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 495,
+      "nimi": "Piikkiön apteekki",
+      "leveysaste": 60.424822,
+      "pituusaste": 22.517923,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 496,
+      "nimi": "Pikku Huopalahden sivuapteekki",
+      "leveysaste": 60.203269,
+      "pituusaste": 24.897383,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 497,
+      "nimi": "Pirkkalan 1. apteekki",
+      "leveysaste": 61.465724,
+      "pituusaste": 23.645552,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 498,
+      "nimi": "Pirkkalan Itä-Apteekki",
+      "leveysaste": 61.465771,
+      "pituusaste": 23.723435,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 499,
+      "nimi": "Pitäjänmäen apteekki",
+      "leveysaste": 60.239385,
+      "pituusaste": 24.849695,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 500,
+      "nimi": "Pohjois-Haagan apteekki",
+      "leveysaste": 60.225857,
+      "pituusaste": 24.894704,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 501,
+      "nimi": "Pojo apotek",
+      "leveysaste": 60.096987,
+      "pituusaste": 23.525978,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 502,
+      "nimi": "Polvijärven apteekki",
+      "leveysaste": 62.852517,
+      "pituusaste": 29.366231,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 503,
+      "nimi": "Pomarkun apteekki",
+      "leveysaste": 61.695595,
+      "pituusaste": 22.012038,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 504,
+      "nimi": "Porin Asema-apteekki",
+      "leveysaste": 61.48182,
+      "pituusaste": 21.798399,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 505,
+      "nimi": "Pornaisten sivuapteekki",
+      "leveysaste": 60.475583,
+      "pituusaste": 25.376153,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 506,
+      "nimi": "Porokylän apteekki",
+      "leveysaste": 63.555636,
+      "pituusaste": 29.109018,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 507,
+      "nimi": "Porvoon Uusi apteekki",
+      "leveysaste": 60.393102,
+      "pituusaste": 25.66299,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 508,
+      "nimi": "Porvoon Vanha Apteekki",
+      "leveysaste": 60.386964,
+      "pituusaste": 25.64853,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 509,
+      "nimi": "Priima apteekki",
+      "leveysaste": 63.573396,
+      "pituusaste": 27.180082,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 510,
+      "nimi": "Pudasjärven apteekki",
+      "leveysaste": 65.359409,
+      "pituusaste": 26.992977,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 511,
+      "nimi": "Puijonlaakson apteekki",
+      "leveysaste": 62.902459,
+      "pituusaste": 27.649091,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 512,
+      "nimi": "Pukinmäen apteekki",
+      "leveysaste": 60.242553,
+      "pituusaste": 24.995775,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 513,
+      "nimi": "Pukkilan sivuapteekki",
+      "leveysaste": 60.645022,
+      "pituusaste": 25.577917,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 514,
+      "nimi": "Pulkkilan Apteekki",
+      "leveysaste": 64.26564,
+      "pituusaste": 25.866221,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 515,
+      "nimi": "Punavuoren apteekki",
+      "leveysaste": 60.162095,
+      "pituusaste": 24.940345,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 516,
+      "nimi": "Punkalaitumen Apteekki",
+      "leveysaste": 61.113292,
+      "pituusaste": 23.105688,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 517,
+      "nimi": "Puolangan apteekki",
+      "leveysaste": 64.867771,
+      "pituusaste": 27.671981,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 518,
+      "nimi": "Pusulan sivuapteekki",
+      "leveysaste": 60.473477,
+      "pituusaste": 23.981862,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 519,
+      "nimi": "Puumalan Apteekki",
+      "leveysaste": 61.522177,
+      "pituusaste": 28.178205,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 520,
+      "nimi": "Puuvillan Apteekki",
+      "leveysaste": 61.495477,
+      "pituusaste": 21.801153,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 521,
+      "nimi": "Pyhäjoen Apteekki",
+      "leveysaste": 64.461232,
+      "pituusaste": 24.257622,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 522,
+      "nimi": "Pyhäjärven apteekki",
+      "leveysaste": 63.681645,
+      "pituusaste": 25.975641,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 523,
+      "nimi": "Pyhän Henrikin apteekki",
+      "leveysaste": 60.446463,
+      "pituusaste": 22.321816,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 524,
+      "nimi": "Pyhännän sivuapteekki",
+      "leveysaste": 64.097356,
+      "pituusaste": 26.330769,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 525,
+      "nimi": "Pyhäselän apteekki",
+      "leveysaste": 62.43212,
+      "pituusaste": 29.969108,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 526,
+      "nimi": "Pylkönmäen sivuapteekki",
+      "leveysaste": 62.66642,
+      "pituusaste": 24.804246,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 527,
+      "nimi": "Pähkinärinteen apteekki",
+      "leveysaste": 60.262185,
+      "pituusaste": 24.804248,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 528,
+      "nimi": "Pälkäneen Apteekki",
+      "leveysaste": 61.339599,
+      "pituusaste": 24.269858,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 529,
+      "nimi": "Pännäisten apteekki",
+      "leveysaste": 63.600697,
+      "pituusaste": 22.794918,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 530,
+      "nimi": "Pääskylahden sivuapteekki",
+      "leveysaste": 61.865833,
+      "pituusaste": 28.943291,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 531,
+      "nimi": "Raision Ykkösapteekki",
+      "leveysaste": 60.490059,
+      "pituusaste": 22.170833,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 532,
+      "nimi": "Rajamäen apteekki",
+      "leveysaste": 60.527658,
+      "pituusaste": 24.747927,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 533,
+      "nimi": "Rantakylän apteekki",
+      "leveysaste": 61.677269,
+      "pituusaste": 27.207888,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 534,
+      "nimi": "Rantasalmen apteekki",
+      "leveysaste": 62.06368,
+      "pituusaste": 28.303965,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 535,
+      "nimi": "Rantsilan sivuapteekki",
+      "leveysaste": 64.506448,
+      "pituusaste": 25.650779,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 536,
+      "nimi": "Ranuan apteekki",
+      "leveysaste": 65.928254,
+      "pituusaste": 26.517626,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 537,
+      "nimi": "Rauman Ensimmäinen Apteekki",
+      "leveysaste": 61.132624,
+      "pituusaste": 21.506853,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 538,
+      "nimi": "Rauman Keskus-Apteekki",
+      "leveysaste": 61.131038,
+      "pituusaste": 21.500366,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 539,
+      "nimi": "Raunistulan apteekki",
+      "leveysaste": 60.46108,
+      "pituusaste": 22.265439,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 540,
+      "nimi": "Rautalammin apteekki",
+      "leveysaste": 62.622306,
+      "pituusaste": 26.831752,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 541,
+      "nimi": "Rautavaaran apteekki",
+      "leveysaste": 63.494679,
+      "pituusaste": 28.298143,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 542,
+      "nimi": "Reijolan sivuapteekki",
+      "leveysaste": 62.542392,
+      "pituusaste": 29.840948,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 543,
+      "nimi": "Reisjärven apteekki",
+      "leveysaste": 63.60502,
+      "pituusaste": 24.935556,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 544,
+      "nimi": "Reposaaren sivuapteekki",
+      "leveysaste": 61.61218,
+      "pituusaste": 21.446313,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 545,
+      "nimi": "Riihikallion Apteekki",
+      "leveysaste": 60.374429,
+      "pituusaste": 25.017757,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 546,
+      "nimi": "Riihikosken apteekki",
+      "leveysaste": 60.718645,
+      "pituusaste": 22.603441,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 547,
+      "nimi": "Riistaveden sivuapteekki",
+      "leveysaste": 62.913926,
+      "pituusaste": 28.162134,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 548,
+      "nimi": "Ristiinan Apteekki",
+      "leveysaste": 61.510251,
+      "pituusaste": 27.249282,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 549,
+      "nimi": "Ristijärven apteekki",
+      "leveysaste": 64.498512,
+      "pituusaste": 28.21754,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 550,
+      "nimi": "Ritaharjun apteekki",
+      "leveysaste": 65.075947,
+      "pituusaste": 25.444852,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 551,
+      "nimi": "Rotuaarin Apteekki",
+      "leveysaste": 65.012304,
+      "pituusaste": 25.468788,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 552,
+      "nimi": "Rotuaarin apteekin palvelupiste (airside)",
+      "leveysaste": 64.928332,
+      "pituusaste": 25.374175,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 553,
+      "nimi": "Rovaniemen keskusapteekki",
+      "leveysaste": 66.492036,
+      "pituusaste": 25.687832,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 554,
+      "nimi": "Runebergin apteekki",
+      "leveysaste": 60.176051,
+      "pituusaste": 24.921802,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 555,
+      "nimi": "Runosmäen apteekki",
+      "leveysaste": 60.489847,
+      "pituusaste": 22.264916,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 556,
+      "nimi": "Ruoholahden apteekki",
+      "leveysaste": 60.163508,
+      "pituusaste": 24.909955,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 557,
+      "nimi": "Ruokolahden apteekki",
+      "leveysaste": 61.292783,
+      "pituusaste": 28.81081,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 558,
+      "nimi": "Ruoveden apteekki",
+      "leveysaste": 61.986013,
+      "pituusaste": 24.070401,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 559,
+      "nimi": "Ruskon sivuapteekki",
+      "leveysaste": 60.540382,
+      "pituusaste": 22.223233,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 560,
+      "nimi": "Rymättylän Apteekki",
+      "leveysaste": 60.376172,
+      "pituusaste": 21.945193,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 561,
+      "nimi": "Ryttylän sivuapteekki",
+      "leveysaste": 60.820969,
+      "pituusaste": 24.762264,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 562,
+      "nimi": "Rääkkylän Apteekki",
+      "leveysaste": 62.313901,
+      "pituusaste": 29.624881,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 563,
+      "nimi": "Saarenkylän Apteekki",
+      "leveysaste": 66.517757,
+      "pituusaste": 25.758901,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 564,
+      "nimi": "Saarijärven apteekki",
+      "leveysaste": 62.705058,
+      "pituusaste": 25.262147,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 565,
+      "nimi": "Sahalahden Apteekki",
+      "leveysaste": 61.475865,
+      "pituusaste": 24.328986,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 566,
+      "nimi": "Sallan Apteekki",
+      "leveysaste": 66.830746,
+      "pituusaste": 28.670597,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 567,
+      "nimi": "Salon Uusi Apteekki",
+      "leveysaste": 60.390073,
+      "pituusaste": 23.127286,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 568,
+      "nimi": "Salon Vanha Apteekki",
+      "leveysaste": 60.386198,
+      "pituusaste": 23.124903,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 569,
+      "nimi": "Salpa Apteekki",
+      "leveysaste": 60.872506,
+      "pituusaste": 26.657174,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 570,
+      "nimi": "Salpa Apteekki",
+      "leveysaste": 60.872513,
+      "pituusaste": 26.657212,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 571,
+      "nimi": "Salpausselän apteekki",
+      "leveysaste": 60.980916,
+      "pituusaste": 25.593456,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 572,
+      "nimi": "Sammon apteekki",
+      "leveysaste": 61.496689,
+      "pituusaste": 23.80023,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 573,
+      "nimi": "Sammonlahden apteekki",
+      "leveysaste": 61.051674,
+      "pituusaste": 28.104373,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 574,
+      "nimi": "Sampo Apteekki",
+      "leveysaste": 66.502024,
+      "pituusaste": 25.728698,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 575,
+      "nimi": "Sanitum Apteekki",
+      "leveysaste": 60.218003,
+      "pituusaste": 24.813466,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 576,
+      "nimi": "Satama apteekki",
+      "leveysaste": 62.893355,
+      "pituusaste": 27.687573,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 577,
+      "nimi": "Saukkolan apteekki",
+      "leveysaste": 60.380628,
+      "pituusaste": 23.960597,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 578,
+      "nimi": "Savion sivuapteekki",
+      "leveysaste": 60.380476,
+      "pituusaste": 25.092065,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 579,
+      "nimi": "Savitaipaleen apteekki",
+      "leveysaste": 61.198101,
+      "pituusaste": 27.68343,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 580,
+      "nimi": "Savon Apteekki",
+      "leveysaste": 61.877648,
+      "pituusaste": 28.827732,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 581,
+      "nimi": "Savonlinnan Uusi Apteekki",
+      "leveysaste": 61.868574,
+      "pituusaste": 28.869805,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 582,
+      "nimi": "Savonrannan Sivuapteekki",
+      "leveysaste": 62.171672,
+      "pituusaste": 29.208953,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 583,
+      "nimi": "Savukosken sivuapteekki",
+      "leveysaste": 67.292547,
+      "pituusaste": 28.156908,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 584,
+      "nimi": "Seinäjoen Alvar apteekki",
+      "leveysaste": 62.791281,
+      "pituusaste": 22.839971,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 585,
+      "nimi": "Seinäjoen Keskus-Apteekki",
+      "leveysaste": 62.793306,
+      "pituusaste": 22.791681,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 586,
+      "nimi": "Seinäjoen Ykkösapteekki",
+      "leveysaste": 62.794212,
+      "pituusaste": 22.875038,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 587,
+      "nimi": "Seitsemän Veljeksen apteekki",
+      "leveysaste": 60.462481,
+      "pituusaste": 24.809386,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 588,
+      "nimi": "Sellon Apteekki",
+      "leveysaste": 60.218138,
+      "pituusaste": 24.810244,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 589,
+      "nimi": "Seppälän apteekki",
+      "leveysaste": 62.258075,
+      "pituusaste": 25.774364,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 590,
+      "nimi": "Sievin apteekki",
+      "leveysaste": 63.906889,
+      "pituusaste": 24.520797,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 591,
+      "nimi": "Siikajoen apteekki",
+      "leveysaste": 64.665757,
+      "pituusaste": 25.101638,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 592,
+      "nimi": "Siltamäen apteekki",
+      "leveysaste": 60.275068,
+      "pituusaste": 24.989124,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 593,
+      "nimi": "Simonkylän Uusi Apteekki",
+      "leveysaste": 60.310004,
+      "pituusaste": 25.03122,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 594,
+      "nimi": "Simpeleen apteekki",
+      "leveysaste": 61.434622,
+      "pituusaste": 29.358441,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 595,
+      "nimi": "Sipoon apteekki",
+      "leveysaste": 60.377563,
+      "pituusaste": 25.267961,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 596,
+      "nimi": "Sippolan apteekki",
+      "leveysaste": 60.739084,
+      "pituusaste": 27.001774,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 597,
+      "nimi": "Siuntion Omena-apteekki",
+      "leveysaste": 60.138199,
+      "pituusaste": 24.226512,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 598,
+      "nimi": "Siuron sivuapteekki",
+      "leveysaste": 61.476833,
+      "pituusaste": 23.34421,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 599,
+      "nimi": "Skanssin Apteekki",
+      "leveysaste": 60.430219,
+      "pituusaste": 22.323021,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 600,
+      "nimi": "Sodankylän Apteekki",
+      "leveysaste": 67.417673,
+      "pituusaste": 26.59369,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 601,
+      "nimi": "Sodankylän Apteekki palvelupiste",
+      "leveysaste": 67.158259,
+      "pituusaste": 26.917193,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 602,
+      "nimi": "Soinin Apteekki",
+      "leveysaste": 62.87315,
+      "pituusaste": 24.204066,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 603,
+      "nimi": "Sonkajärven apteekki",
+      "leveysaste": 63.667886,
+      "pituusaste": 27.523148,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 604,
+      "nimi": "Sotkamon Apteekki",
+      "leveysaste": 64.131051,
+      "pituusaste": 28.387712,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 605,
+      "nimi": "Steissin Apteekki",
+      "leveysaste": 60.171734,
+      "pituusaste": 24.940702,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 606,
+      "nimi": "Sulkavan apteekki",
+      "leveysaste": 61.786755,
+      "pituusaste": 28.371691,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 607,
+      "nimi": "Suodenniemen apteekki",
+      "leveysaste": 61.557227,
+      "pituusaste": 22.781082,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 608,
+      "nimi": "Suolahden apteekki",
+      "leveysaste": 62.563763,
+      "pituusaste": 25.851969,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 609,
+      "nimi": "Suomenlinnan palvelupiste",
+      "leveysaste": 60.148862,
+      "pituusaste": 24.985406,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 610,
+      "nimi": "Suomussalmen apteekki",
+      "leveysaste": 64.883592,
+      "pituusaste": 28.907333,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 611,
+      "nimi": "Suonenjoen Apteekki",
+      "leveysaste": 62.625413,
+      "pituusaste": 27.121245,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 612,
+      "nimi": "Suoraman apteekki",
+      "leveysaste": 61.475986,
+      "pituusaste": 23.978322,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 613,
+      "nimi": "Säyneisen sivuapteekki",
+      "leveysaste": 63.204759,
+      "pituusaste": 28.480135,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 614,
+      "nimi": "Säynätsalon apteekki",
+      "leveysaste": 62.138299,
+      "pituusaste": 25.769011,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 615,
+      "nimi": "Sääksjärven Apteekki",
+      "leveysaste": 61.415987,
+      "pituusaste": 23.757088,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 616,
+      "nimi": "Söderkullan apteekki",
+      "leveysaste": 60.2985,
+      "pituusaste": 25.331115,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 617,
+      "nimi": "Taalintehtaan apteekki",
+      "leveysaste": 60.019945,
+      "pituusaste": 22.509837,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 618,
+      "nimi": "Tainionkosken apteekki",
+      "leveysaste": 61.189259,
+      "pituusaste": 28.765123,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 619,
+      "nimi": "Taipalsaaren sivuapteekki",
+      "leveysaste": 61.135368,
+      "pituusaste": 28.101207,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 620,
+      "nimi": "Taivalkosken apteekki",
+      "leveysaste": 65.575393,
+      "pituusaste": 28.24332,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 621,
+      "nimi": "Tammedica",
+      "leveysaste": 61.504944,
+      "pituusaste": 23.813921,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 622,
+      "nimi": "Tammelan Apteekki",
+      "leveysaste": 60.807669,
+      "pituusaste": 23.759809,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 623,
+      "nimi": "Tammelan apteekki",
+      "leveysaste": 61.499147,
+      "pituusaste": 23.78212,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 624,
+      "nimi": "Tammerkosken apteekki",
+      "leveysaste": 61.492587,
+      "pituusaste": 23.767908,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 625,
+      "nimi": "Tammiston Uusi Apteekki",
+      "leveysaste": 60.273166,
+      "pituusaste": 24.969089,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 626,
+      "nimi": "Tapiolan Apteekki",
+      "leveysaste": 60.175781,
+      "pituusaste": 24.805378,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 627,
+      "nimi": "Tapuli apteekki",
+      "leveysaste": 60.274757,
+      "pituusaste": 25.034174,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 628,
+      "nimi": "Tasalan apteekki",
+      "leveysaste": 60.485783,
+      "pituusaste": 22.164927,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 629,
+      "nimi": "Taulumäen apteekki",
+      "leveysaste": 62.317124,
+      "pituusaste": 27.867348,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 630,
+      "nimi": "Tenholan Apteekki",
+      "leveysaste": 60.057922,
+      "pituusaste": 23.303226,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 631,
+      "nimi": "Tenholan Apteekki",
+      "leveysaste": 60.05794,
+      "pituusaste": 23.303207,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 632,
+      "nimi": "Tervahovin Apteekki",
+      "leveysaste": 63.83554,
+      "pituusaste": 23.111735,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 633,
+      "nimi": "Tervajoen sivuapteekki",
+      "leveysaste": 63.004486,
+      "pituusaste": 22.140516,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 634,
+      "nimi": "Tervakosken apteekki",
+      "leveysaste": 60.81644,
+      "pituusaste": 24.629266,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 635,
+      "nimi": "Tervan Apteekki",
+      "leveysaste": 62.26061,
+      "pituusaste": 24.694425,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 636,
+      "nimi": "Tervolan Apteekki",
+      "leveysaste": 66.089589,
+      "pituusaste": 24.812543,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 637,
+      "nimi": "Tervon sivuapteekki",
+      "leveysaste": 62.953935,
+      "pituusaste": 26.753309,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 638,
+      "nimi": "Tesoman Apteekki",
+      "leveysaste": 61.505365,
+      "pituusaste": 23.627201,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 639,
+      "nimi": "Teuvan Apteekki",
+      "leveysaste": 62.485901,
+      "pituusaste": 21.745823,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 640,
+      "nimi": "Tiilimäen apteekki",
+      "leveysaste": 61.473466,
+      "pituusaste": 21.778164,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 641,
+      "nimi": "Tiiriön apteekki",
+      "leveysaste": 61.011509,
+      "pituusaste": 24.413629,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 642,
+      "nimi": "Tikkakosken apteekki",
+      "leveysaste": 62.389108,
+      "pituusaste": 25.645654,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 643,
+      "nimi": "Tikkurilan Asema apteekki",
+      "leveysaste": 60.292277,
+      "pituusaste": 25.041818,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 644,
+      "nimi": "Tikkurilan Uusi Apteekki",
+      "leveysaste": 60.293403,
+      "pituusaste": 25.033281,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 645,
+      "nimi": "Tikkurilan Ykkösapteekki",
+      "leveysaste": 60.293136,
+      "pituusaste": 25.038437,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 646,
+      "nimi": "Toejoen Apteekki",
+      "leveysaste": 61.498242,
+      "pituusaste": 21.808305,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 647,
+      "nimi": "Tohmajärven apteekki",
+      "leveysaste": 62.224352,
+      "pituusaste": 30.330282,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 648,
+      "nimi": "Toholammin Apteekki",
+      "leveysaste": 63.77239,
+      "pituusaste": 24.250925,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 649,
+      "nimi": "Toivakan apteekki",
+      "leveysaste": 62.096797,
+      "pituusaste": 26.081574,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 650,
+      "nimi": "Toppilan sivuapteekki",
+      "leveysaste": 65.036104,
+      "pituusaste": 25.441026,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 651,
+      "nimi": "Tori-Apteekki",
+      "leveysaste": 60.996676,
+      "pituusaste": 24.463545,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 652,
+      "nimi": "Tornion I Apteekki",
+      "leveysaste": 65.842631,
+      "pituusaste": 24.14374,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 653,
+      "nimi": "Tornionmäen apteekki",
+      "leveysaste": 60.875122,
+      "pituusaste": 26.740757,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 654,
+      "nimi": "Tullintorin apteekki",
+      "leveysaste": 61.497142,
+      "pituusaste": 23.777211,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 655,
+      "nimi": "Turengin apteekki",
+      "leveysaste": 60.922552,
+      "pituusaste": 24.648441,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 656,
+      "nimi": "Turtolan apteekki",
+      "leveysaste": 61.475929,
+      "pituusaste": 23.840511,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 657,
+      "nimi": "Turun Keskus-Apteekki",
+      "leveysaste": 60.473929,
+      "pituusaste": 22.227037,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 658,
+      "nimi": "Tuuloksen Apteekki",
+      "leveysaste": 61.105432,
+      "pituusaste": 24.865757,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 659,
+      "nimi": "Tuupovaaran Apteekki",
+      "leveysaste": 62.485208,
+      "pituusaste": 30.619458,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 660,
+      "nimi": "Tuurin Apteekki",
+      "leveysaste": 62.603105,
+      "pituusaste": 23.725595,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 661,
+      "nimi": "Tuusniemen apteekki",
+      "leveysaste": 62.811351,
+      "pituusaste": 28.491141,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 662,
+      "nimi": "Tuusulan I Apteekki",
+      "leveysaste": 60.402583,
+      "pituusaste": 25.030787,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 663,
+      "nimi": "Tyrnävän sivuapteekki",
+      "leveysaste": 64.762791,
+      "pituusaste": 25.646624,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 664,
+      "nimi": "Tyrvään Apteekki",
+      "leveysaste": 61.347704,
+      "pituusaste": 22.89903,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 665,
+      "nimi": "Törnävän apteekki",
+      "leveysaste": 62.764119,
+      "pituusaste": 22.839858,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 666,
+      "nimi": "Töysän Apteekki",
+      "leveysaste": 62.635829,
+      "pituusaste": 23.820997,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 667,
+      "nimi": "Töölön apteekki",
+      "leveysaste": 60.168352,
+      "pituusaste": 24.930792,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 668,
+      "nimi": "Uimaharjun apteekki",
+      "leveysaste": 62.913899,
+      "pituusaste": 30.252855,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 669,
+      "nimi": "Ulvilan Apteekki",
+      "leveysaste": 61.4289,
+      "pituusaste": 21.875913,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 670,
+      "nimi": "Uotilan sivuapteekki",
+      "leveysaste": 61.130417,
+      "pituusaste": 21.566736,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 671,
+      "nimi": "Urjalan apteekki",
+      "leveysaste": 61.079999,
+      "pituusaste": 23.552987,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 672,
+      "nimi": "Urpolan Apteekki",
+      "leveysaste": 61.678341,
+      "pituusaste": 27.268637,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 673,
+      "nimi": "Utajärven apteekki",
+      "leveysaste": 64.760946,
+      "pituusaste": 26.421353,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 674,
+      "nimi": "Utin apteekki",
+      "leveysaste": 60.893987,
+      "pituusaste": 26.910578,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 675,
+      "nimi": "Uudenkaupungin 1. apteekki",
+      "leveysaste": 60.800153,
+      "pituusaste": 21.412173,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 676,
+      "nimi": "Uudenkaupungin Uusi apteekki",
+      "leveysaste": 60.804016,
+      "pituusaste": 21.42205,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 677,
+      "nimi": "Uuraisten apteekki",
+      "leveysaste": 62.500478,
+      "pituusaste": 25.437483,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 678,
+      "nimi": "VELKUAN LÄÄKEKAAPPI",
+      "leveysaste": 60.466626,
+      "pituusaste": 21.698797,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 679,
+      "nimi": "Vaajakosken Apteekki",
+      "leveysaste": 62.247713,
+      "pituusaste": 25.875849,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 680,
+      "nimi": "Vaalan apteekki",
+      "leveysaste": 64.555152,
+      "pituusaste": 26.830092,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 681,
+      "nimi": "Vaara-Karjalan apteekki (Heinävaaran palvelupiste)",
+      "leveysaste": 62.558628,
+      "pituusaste": 30.176224,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 682,
+      "nimi": "Vaasan Kuninkaan Apteekki",
+      "leveysaste": 63.072433,
+      "pituusaste": 21.697395,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 683,
+      "nimi": "Vaasan keskusapteekki",
+      "leveysaste": 63.096488,
+      "pituusaste": 21.614772,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 684,
+      "nimi": "Vaasan vanha apteekki",
+      "leveysaste": 63.095597,
+      "pituusaste": 21.617849,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 685,
+      "nimi": "Valkeakosken 3. Uusi Apteekki",
+      "leveysaste": 61.280105,
+      "pituusaste": 23.988901,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 686,
+      "nimi": "Valkeakosken Keskusapteekki",
+      "leveysaste": 61.267321,
+      "pituusaste": 24.032309,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 687,
+      "nimi": "Valkealan apteekki",
+      "leveysaste": 60.94125,
+      "pituusaste": 26.798623,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 688,
+      "nimi": "Vallilan Uusi Apteekki",
+      "leveysaste": 60.193085,
+      "pituusaste": 24.946804,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 689,
+      "nimi": "Valtarin Apteekki",
+      "leveysaste": 60.867804,
+      "pituusaste": 26.707643,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 690,
+      "nimi": "Valtimon apteekki",
+      "leveysaste": 63.678804,
+      "pituusaste": 28.814832,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 691,
+      "nimi": "Vampulan sivuapteekki",
+      "leveysaste": 61.02691,
+      "pituusaste": 22.686907,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 692,
+      "nimi": "Vanhakylän sivuapteekki",
+      "leveysaste": 60.484192,
+      "pituusaste": 25.887708,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 693,
+      "nimi": "Varissuon apteekki",
+      "leveysaste": 60.443339,
+      "pituusaste": 22.359711,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 694,
+      "nimi": "Varkauden Vanha Apteekki",
+      "leveysaste": 62.31353,
+      "pituusaste": 27.856621,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 695,
+      "nimi": "Varpaisjärven Apteekki",
+      "leveysaste": 63.358669,
+      "pituusaste": 27.753619,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 696,
+      "nimi": "Vasaramäen sivuapteekki",
+      "leveysaste": 60.437747,
+      "pituusaste": 22.287054,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 697,
+      "nimi": "Vehkojan apteekki",
+      "leveysaste": 60.60823,
+      "pituusaste": 24.836541,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 698,
+      "nimi": "Vehmaan apteekki",
+      "leveysaste": 60.685913,
+      "pituusaste": 21.713993,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 699,
+      "nimi": "Vehmersalmen sivuapteekki",
+      "leveysaste": 62.761759,
+      "pituusaste": 28.028275,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 700,
+      "nimi": "Veikkolan apteekki",
+      "leveysaste": 60.269775,
+      "pituusaste": 24.442242,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 701,
+      "nimi": "Vesannon apteekki",
+      "leveysaste": 62.930755,
+      "pituusaste": 26.410698,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 702,
+      "nimi": "Vesilahden sivuapteekki",
+      "leveysaste": 61.298062,
+      "pituusaste": 23.636195,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 703,
+      "nimi": "Vetelin apteekki",
+      "leveysaste": 63.474537,
+      "pituusaste": 23.786862,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 704,
+      "nimi": "Veturiapteekki",
+      "leveysaste": 64.220889,
+      "pituusaste": 27.747237,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 705,
+      "nimi": "Vieremän Apteekki",
+      "leveysaste": 63.742039,
+      "pituusaste": 27.003328,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 706,
+      "nimi": "Vihannin Apteekki",
+      "leveysaste": 64.487669,
+      "pituusaste": 24.989082,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 707,
+      "nimi": "Vihdin 1. Apteekki",
+      "leveysaste": 60.417033,
+      "pituusaste": 24.323151,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 708,
+      "nimi": "Viherlaakson apteekki",
+      "leveysaste": 60.226081,
+      "pituusaste": 24.74093,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 709,
+      "nimi": "Viialan apteekki",
+      "leveysaste": 61.210564,
+      "pituusaste": 23.768907,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 710,
+      "nimi": "Viinijärven apteekki",
+      "leveysaste": 62.644675,
+      "pituusaste": 29.233057,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 711,
+      "nimi": "Viinikan Apteekki",
+      "leveysaste": 61.481613,
+      "pituusaste": 23.782013,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 712,
+      "nimi": "Viitasaaren Apteekki",
+      "leveysaste": 63.074231,
+      "pituusaste": 25.860335,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 713,
+      "nimi": "Viljakkalan sivuapteekki",
+      "leveysaste": 61.703935,
+      "pituusaste": 23.264432,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 714,
+      "nimi": "Villilän sivuapteekki",
+      "leveysaste": 61.495699,
+      "pituusaste": 23.624808,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 715,
+      "nimi": "Vilppulan apteekki",
+      "leveysaste": 62.021847,
+      "pituusaste": 24.509188,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 716,
+      "nimi": "Vimpelin apteekki",
+      "leveysaste": 63.160686,
+      "pituusaste": 23.823009,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 717,
+      "nimi": "Virolahden apteekki",
+      "leveysaste": 60.584922,
+      "pituusaste": 27.709668,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 718,
+      "nimi": "Virtain apteekki",
+      "leveysaste": 62.239292,
+      "pituusaste": 23.772489,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 719,
+      "nimi": "Virtasalmen sivuapteekki",
+      "leveysaste": 62.133191,
+      "pituusaste": 27.462853,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 720,
+      "nimi": "Voikkaan apteekki",
+      "leveysaste": 60.941601,
+      "pituusaste": 26.620828,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 721,
+      "nimi": "Voionmaan Apteekki",
+      "leveysaste": 62.239609,
+      "pituusaste": 25.728551,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 722,
+      "nimi": "Voisalmen sivuapteekki",
+      "leveysaste": 61.077188,
+      "pituusaste": 28.151452,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 723,
+      "nimi": "Vuoapteekki",
+      "leveysaste": 60.221481,
+      "pituusaste": 25.140478,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 724,
+      "nimi": "Vuokatin Apteekki",
+      "leveysaste": 64.140331,
+      "pituusaste": 28.268121,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 725,
+      "nimi": "Vuoksenniskan apteekki",
+      "leveysaste": 61.224853,
+      "pituusaste": 28.840172,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 726,
+      "nimi": "Vuolijoen sivuapteekki",
+      "leveysaste": 64.183192,
+      "pituusaste": 26.998279,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 727,
+      "nimi": "Vuorelan apteekki",
+      "leveysaste": 62.981526,
+      "pituusaste": 27.701422,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 728,
+      "nimi": "Vuosaaren Apteekki",
+      "leveysaste": 60.20675,
+      "pituusaste": 25.145416,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 729,
+      "nimi": "Vähänkyrön apteekki",
+      "leveysaste": 63.054662,
+      "pituusaste": 22.10766,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 730,
+      "nimi": "Västanfjärds Apotek",
+      "leveysaste": 60.044961,
+      "pituusaste": 22.679579,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 731,
+      "nimi": "Vörå Apotek",
+      "leveysaste": 63.129858,
+      "pituusaste": 22.252632,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 732,
+      "nimi": "Wiklundin apteekki",
+      "leveysaste": 60.452014,
+      "pituusaste": 22.268653,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 733,
+      "nimi": "Willan Kehrä Apteekki",
+      "leveysaste": 60.629915,
+      "pituusaste": 24.864982,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 734,
+      "nimi": "Ykköstien apteekki Suomusjärvi",
+      "leveysaste": 60.380361,
+      "pituusaste": 23.615575,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 735,
+      "nimi": "Yli-Iin sivuapteekki",
+      "leveysaste": 65.372143,
+      "pituusaste": 25.841206,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 736,
+      "nimi": "Yli-Maarian apteekki",
+      "leveysaste": 60.535024,
+      "pituusaste": 22.306129,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 737,
+      "nimi": "Ylihärmän Apteekki",
+      "leveysaste": 63.147785,
+      "pituusaste": 22.795304,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 738,
+      "nimi": "Ylikiimingin Apteekki",
+      "leveysaste": 65.030939,
+      "pituusaste": 26.151085,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 739,
+      "nimi": "Ylikiimingin Apteekki",
+      "leveysaste": 65.030941,
+      "pituusaste": 26.151049,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 740,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 60.227515,
+      "pituusaste": 25.009697,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 741,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 60.251072,
+      "pituusaste": 25.01295,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 742,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 60.387259,
+      "pituusaste": 23.1224,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 743,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 60.451586,
+      "pituusaste": 22.265032,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 744,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 60.982885,
+      "pituusaste": 25.65643,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 745,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 61.483188,
+      "pituusaste": 21.796046,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 746,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 61.497743,
+      "pituusaste": 23.758799,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 747,
+      "nimi": "Yliopiston Apteekki",
+      "leveysaste": 61.870014,
+      "pituusaste": 28.878197,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 748,
+      "nimi": "Yliopiston Apteekki - Helsinki Töölö",
+      "leveysaste": 60.187983,
+      "pituusaste": 24.918104,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 749,
+      "nimi": "Yliopiston Apteekki Iso Omena",
+      "leveysaste": 60.160588,
+      "pituusaste": 24.739984,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 750,
+      "nimi": "Yliopiston Apteekki Iso Omena",
+      "leveysaste": 60.160595,
+      "pituusaste": 24.739926,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 751,
+      "nimi": "Yliopiston Apteekki Jyväskylä",
+      "leveysaste": 62.243773,
+      "pituusaste": 25.749182,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 752,
+      "nimi": "Yliopiston apteekki",
+      "leveysaste": 60.169575,
+      "pituusaste": 24.939536,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 753,
+      "nimi": "Yliopiston apteekki",
+      "leveysaste": 60.273467,
+      "pituusaste": 24.973567,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 754,
+      "nimi": "Yliopiston apteekki",
+      "leveysaste": 61.056927,
+      "pituusaste": 28.194067,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 755,
+      "nimi": "Yliopiston apteekki",
+      "leveysaste": 62.599947,
+      "pituusaste": 29.760705,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 756,
+      "nimi": "Yliopiston apteekki",
+      "leveysaste": 65.011101,
+      "pituusaste": 25.47227,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 757,
+      "nimi": "Yliopiston apteekki",
+      "leveysaste": 65.737075,
+      "pituusaste": 24.561539,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 758,
+      "nimi": "Ylistaron Apteekki",
+      "leveysaste": 62.940245,
+      "pituusaste": 22.518469,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 759,
+      "nimi": "Ylitornion Apteekki",
+      "leveysaste": 66.324048,
+      "pituusaste": 23.675831,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 760,
+      "nimi": "Ylivieskan Ykkösapteekki",
+      "leveysaste": 64.072765,
+      "pituusaste": 24.538784,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 761,
+      "nimi": "Ylläksen sivuapteekki",
+      "leveysaste": 67.605234,
+      "pituusaste": 24.154031,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 762,
+      "nimi": "Ylämaan apteekki",
+      "leveysaste": 60.800035,
+      "pituusaste": 28.008875,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 763,
+      "nimi": "Ylämyllyn apteekki",
+      "leveysaste": 62.61322,
+      "pituusaste": 29.542706,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 764,
+      "nimi": "Yläneen apteekki",
+      "leveysaste": 60.879571,
+      "pituusaste": 22.411421,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 765,
+      "nimi": "Ylöjärven apteekki",
+      "leveysaste": 61.547805,
+      "pituusaste": 23.599822,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 766,
+      "nimi": "Zeppelinin apteekki",
+      "leveysaste": 64.902538,
+      "pituusaste": 25.538778,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 767,
+      "nimi": "Ähtärin Apteekki",
+      "leveysaste": 62.549957,
+      "pituusaste": 24.070967,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    },
+    {
+      "id": 768,
+      "nimi": "Äänekosken apteekki",
+      "leveysaste": 62.603721,
+      "pituusaste": 25.72298,
+      "osm_avain": "amenity",
+      "osm_arvo": "pharmacy",
+      "osm_luokka": "amenity=pharmacy"
+    }
+  ],
+  "meta": {
+    "title": "Apteekit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Apteekit Suomessa — 768 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=pharmacy`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 12. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 768 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Apteekit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Apteekit – Suomi (OpenStreetMap) — 768 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 768 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

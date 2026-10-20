@@ -1,0 +1,7468 @@
+{
+  "id": "fi-osm-tourism-attraction",
+  "name": "Nähtävyydet – Suomi (OpenStreetMap)",
+  "title": "Nähtävyydet – Suomi (OpenStreetMap)",
+  "description": "Nähtävyydet Suomessa — 823 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=attraction`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 42. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 823,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A-kasematti",
+      "leveysaste": 60.097531,
+      "pituusaste": 25.048078,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 2,
+      "nimi": "A-kasematti",
+      "leveysaste": 60.097534,
+      "pituusaste": 25.048208,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 3,
+      "nimi": "Aal!onmurt?ja",
+      "leveysaste": 61.448658,
+      "pituusaste": 23.854669,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 4,
+      "nimi": "Ahveniston hyppyrimäki",
+      "leveysaste": 60.999828,
+      "pituusaste": 24.418205,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 5,
+      "nimi": "Ahveniston hyppyrimäki",
+      "leveysaste": 60.999835,
+      "pituusaste": 24.418207,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 6,
+      "nimi": "Aijalan kaivos",
+      "leveysaste": 60.194373,
+      "pituusaste": 23.3641,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 7,
+      "nimi": "Aittakuru",
+      "leveysaste": 67.033247,
+      "pituusaste": 27.236333,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 8,
+      "nimi": "Akanlahden tukinsiirtolaitos",
+      "leveysaste": 66.028171,
+      "pituusaste": 28.472218,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 9,
+      "nimi": "Akvaariotalo",
+      "leveysaste": 60.151563,
+      "pituusaste": 24.957708,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 10,
+      "nimi": "Aleksanterinkierros",
+      "leveysaste": 60.135497,
+      "pituusaste": 25.001154,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 11,
+      "nimi": "Aleksis Kivi room",
+      "leveysaste": 60.167654,
+      "pituusaste": 24.911956,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 12,
+      "nimi": "Alpo Jaakolan patsaspuisto",
+      "leveysaste": 60.814805,
+      "pituusaste": 22.945061,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 13,
+      "nimi": "Alpo ja Marja Jaakolan hauta",
+      "leveysaste": 60.81441,
+      "pituusaste": 22.943189,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 14,
+      "nimi": "Alpon savanni",
+      "leveysaste": 62.30658,
+      "pituusaste": 22.574232,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 15,
+      "nimi": "Aluksia",
+      "leveysaste": 60.806513,
+      "pituusaste": 24.612379,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 16,
+      "nimi": "Ankare",
+      "leveysaste": 60.096932,
+      "pituusaste": 19.926674,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 17,
+      "nimi": "Ankkurimuistomerkki",
+      "leveysaste": 60.384127,
+      "pituusaste": 23.12764,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 18,
+      "nimi": "Annalan huvila",
+      "leveysaste": 60.213611,
+      "pituusaste": 24.976377,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 19,
+      "nimi": "Antin mäkiaitat ja riihi",
+      "leveysaste": 60.182872,
+      "pituusaste": 24.883993,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 20,
+      "nimi": "Antonov An-24B",
+      "leveysaste": 63.229382,
+      "pituusaste": 22.852542,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 21,
+      "nimi": "Arboretum Mustila, puuveistokset",
+      "leveysaste": 60.728883,
+      "pituusaste": 26.423112,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 22,
+      "nimi": "Arctic Husky Farm",
+      "leveysaste": 67.088796,
+      "pituusaste": 27.047351,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 23,
+      "nimi": "Arctic Reindeer Oy",
+      "leveysaste": 66.54892,
+      "pituusaste": 25.846684,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 24,
+      "nimi": "Arctic Reindeer Oy",
+      "leveysaste": 66.548952,
+      "pituusaste": 25.846743,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 25,
+      "nimi": "Arkimeden ruuvi",
+      "leveysaste": 60.288089,
+      "pituusaste": 25.039497,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 26,
+      "nimi": "Aurinkosähköpaneeli",
+      "leveysaste": 60.151218,
+      "pituusaste": 24.957955,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 27,
+      "nimi": "Auto Racing",
+      "leveysaste": 61.505753,
+      "pituusaste": 23.743542,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 28,
+      "nimi": "Autorata",
+      "leveysaste": 60.187959,
+      "pituusaste": 24.939252,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 29,
+      "nimi": "Autorata",
+      "leveysaste": 60.884903,
+      "pituusaste": 26.777556,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 30,
+      "nimi": "Aveling & Porter",
+      "leveysaste": 60.165651,
+      "pituusaste": 24.900436,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 31,
+      "nimi": "B-kasematti",
+      "leveysaste": 60.101535,
+      "pituusaste": 25.05708,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 32,
+      "nimi": "B-kasematti",
+      "leveysaste": 60.101543,
+      "pituusaste": 25.057112,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 33,
+      "nimi": "Badding-kioski",
+      "leveysaste": 60.590976,
+      "pituusaste": 23.639426,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 34,
+      "nimi": "Balloon Tower",
+      "leveysaste": 63.230284,
+      "pituusaste": 22.85736,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 35,
+      "nimi": "Bellanpuisto",
+      "leveysaste": 62.873725,
+      "pituusaste": 27.660803,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 36,
+      "nimi": "Bellanpuisto",
+      "leveysaste": 62.873728,
+      "pituusaste": 27.660812,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 37,
+      "nimi": "Billnäsin rakennusapteekin varasto",
+      "leveysaste": 60.084795,
+      "pituusaste": 23.642119,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 38,
+      "nimi": "Billnäsin rakennusapteekki",
+      "leveysaste": 60.085119,
+      "pituusaste": 23.640313,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 39,
+      "nimi": "Billnäsin riihi",
+      "leveysaste": 60.090032,
+      "pituusaste": 23.634704,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 40,
+      "nimi": "Bomban talo",
+      "leveysaste": 63.533769,
+      "pituusaste": 29.170842,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 41,
+      "nimi": "Boom",
+      "leveysaste": 61.506064,
+      "pituusaste": 23.747293,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 42,
+      "nimi": "Boom",
+      "leveysaste": 61.506066,
+      "pituusaste": 23.747287,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 43,
+      "nimi": "Booster",
+      "leveysaste": 63.22864,
+      "pituusaste": 22.858455,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 44,
+      "nimi": "Boreal Wildlife Centre",
+      "leveysaste": 64.251159,
+      "pituusaste": 30.382013,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 45,
+      "nimi": "Brannin luola",
+      "leveysaste": 60.515135,
+      "pituusaste": 26.433388,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 46,
+      "nimi": "Bumper Cars",
+      "leveysaste": 63.228849,
+      "pituusaste": 22.858145,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 47,
+      "nimi": "C-kasematti",
+      "leveysaste": 60.102786,
+      "pituusaste": 25.059972,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 48,
+      "nimi": "C-kasematti",
+      "leveysaste": 60.102804,
+      "pituusaste": 25.060003,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 49,
+      "nimi": "Calypso",
+      "leveysaste": 60.884799,
+      "pituusaste": 26.778712,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 50,
+      "nimi": "Calypso",
+      "leveysaste": 60.884803,
+      "pituusaste": 26.778716,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 51,
+      "nimi": "Captain Hook",
+      "leveysaste": 63.230116,
+      "pituusaste": 22.855867,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 52,
+      "nimi": "Cedercreutzien sukuhauta",
+      "leveysaste": 61.119693,
+      "pituusaste": 22.348839,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 53,
+      "nimi": "Chuck Wagon",
+      "leveysaste": 63.228305,
+      "pituusaste": 22.860269,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 54,
+      "nimi": "Cobra",
+      "leveysaste": 63.229747,
+      "pituusaste": 22.858904,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 55,
+      "nimi": "Cosmic",
+      "leveysaste": 62.603747,
+      "pituusaste": 29.765156,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 56,
+      "nimi": "Crazy Horse",
+      "leveysaste": 63.228102,
+      "pituusaste": 22.858201,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 57,
+      "nimi": "Crazyland",
+      "leveysaste": 63.948178,
+      "pituusaste": 25.156394,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 58,
+      "nimi": "Cyclon",
+      "leveysaste": 62.245952,
+      "pituusaste": 26.137682,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 59,
+      "nimi": "Derby",
+      "leveysaste": 60.188181,
+      "pituusaste": 24.942016,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 60,
+      "nimi": "Devil’s Mine Hotel",
+      "leveysaste": 63.228815,
+      "pituusaste": 22.860464,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 61,
+      "nimi": "Dino Safari",
+      "leveysaste": 63.228239,
+      "pituusaste": 22.860602,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 62,
+      "nimi": "Dragon Tower",
+      "leveysaste": 63.227979,
+      "pituusaste": 22.85828,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 63,
+      "nimi": "Dragon Tower",
+      "leveysaste": 63.22798,
+      "pituusaste": 22.858277,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 64,
+      "nimi": "Drakkulan Sukulinna",
+      "leveysaste": 61.503506,
+      "pituusaste": 23.739428,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 65,
+      "nimi": "Drifti",
+      "leveysaste": 61.5046,
+      "pituusaste": 23.742749,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 66,
+      "nimi": "Due North Safaris",
+      "leveysaste": 67.601597,
+      "pituusaste": 24.155439,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 67,
+      "nimi": "Eduskuntatalo",
+      "leveysaste": 60.172543,
+      "pituusaste": 24.933274,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 68,
+      "nimi": "Eduskuntatalo",
+      "leveysaste": 60.172571,
+      "pituusaste": 24.933197,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 69,
+      "nimi": "Edvininpolku",
+      "leveysaste": 63.104623,
+      "pituusaste": 21.660325,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 70,
+      "nimi": "Endeavour",
+      "leveysaste": 60.884511,
+      "pituusaste": 26.776225,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 71,
+      "nimi": "Endeavour",
+      "leveysaste": 60.884512,
+      "pituusaste": 26.776224,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 72,
+      "nimi": "Enonranta, Etelä-Konneveden kansallispuisto",
+      "leveysaste": 62.580757,
+      "pituusaste": 26.651572,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 73,
+      "nimi": "Enterprise",
+      "leveysaste": 63.229839,
+      "pituusaste": 22.85583,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 74,
+      "nimi": "Entisöity puolustuslinja ja korsu",
+      "leveysaste": 64.829831,
+      "pituusaste": 29.514075,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 75,
+      "nimi": "Erä-Susi Oy",
+      "leveysaste": 66.111023,
+      "pituusaste": 29.196224,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 76,
+      "nimi": "Eräkeskus Wilderness Lodge",
+      "leveysaste": 63.524733,
+      "pituusaste": 30.038386,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 77,
+      "nimi": "Everstin kaivos",
+      "leveysaste": 68.380289,
+      "pituusaste": 27.310304,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 78,
+      "nimi": "Fazer vierailukeskus",
+      "leveysaste": 60.256609,
+      "pituusaste": 25.106005,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 79,
+      "nimi": "Fiesta Mexicana",
+      "leveysaste": 63.229779,
+      "pituusaste": 22.857515,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 80,
+      "nimi": "Fiesta Mexicana",
+      "leveysaste": 63.229779,
+      "pituusaste": 22.857517,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 81,
+      "nimi": "Fishing vessel",
+      "leveysaste": 60.231907,
+      "pituusaste": 19.539619,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 82,
+      "nimi": "Fishing vessel",
+      "leveysaste": 60.231908,
+      "pituusaste": 19.539611,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 83,
+      "nimi": "Fouga Magister",
+      "leveysaste": 63.102357,
+      "pituusaste": 23.058041,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 84,
+      "nimi": "Fouga Magister (FM-21) -muistomerkki",
+      "leveysaste": 63.113407,
+      "pituusaste": 23.040897,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 85,
+      "nimi": "Fun House",
+      "leveysaste": 63.230692,
+      "pituusaste": 22.859079,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 86,
+      "nimi": "Föri",
+      "leveysaste": 60.441137,
+      "pituusaste": 22.247901,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 87,
+      "nimi": "Galeon",
+      "leveysaste": 63.230563,
+      "pituusaste": 22.855369,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 88,
+      "nimi": "Giant Wheel",
+      "leveysaste": 63.228796,
+      "pituusaste": 22.859162,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 89,
+      "nimi": "H. Rosellin pajapuoti",
+      "leveysaste": 61.491463,
+      "pituusaste": 25.145813,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 90,
+      "nimi": "Haarasenmäki",
+      "leveysaste": 62.595434,
+      "pituusaste": 25.287803,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 91,
+      "nimi": "Haittaperäntie",
+      "leveysaste": 63.713613,
+      "pituusaste": 25.407006,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 92,
+      "nimi": "HaliPuu (meeting point)",
+      "leveysaste": 67.873635,
+      "pituusaste": 24.638562,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 93,
+      "nimi": "Hallilanmäki, IT-muistomerkki",
+      "leveysaste": 61.26516,
+      "pituusaste": 29.150007,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 94,
+      "nimi": "Haltialan kotieläintila",
+      "leveysaste": 60.275679,
+      "pituusaste": 24.953385,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 95,
+      "nimi": "Harakan luontotalo",
+      "leveysaste": 60.15106,
+      "pituusaste": 24.957746,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 96,
+      "nimi": "Harriniva Huskyfarm",
+      "leveysaste": 67.931808,
+      "pituusaste": 23.655068,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 97,
+      "nimi": "Harriniva Huskyfarm",
+      "leveysaste": 67.931853,
+      "pituusaste": 23.655098,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 98,
+      "nimi": "Hassu Bussi",
+      "leveysaste": 61.506131,
+      "pituusaste": 23.743699,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 99,
+      "nimi": "Hauenguanon kaivo",
+      "leveysaste": 61.128325,
+      "pituusaste": 21.517249,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 100,
+      "nimi": "Haukkavuori",
+      "leveysaste": 61.486573,
+      "pituusaste": 29.214161,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 101,
+      "nimi": "Hautvuori (Varhaismetallikautinen linnavuori)",
+      "leveysaste": 60.861518,
+      "pituusaste": 21.776374,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 102,
+      "nimi": "Hawk-muistomerkki",
+      "leveysaste": 63.100686,
+      "pituusaste": 23.05743,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 103,
+      "nimi": "Heinätupa ja aitta",
+      "leveysaste": 60.183976,
+      "pituusaste": 24.885363,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 104,
+      "nimi": "Helfwetin Kattila",
+      "leveysaste": 60.326421,
+      "pituusaste": 24.500097,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 105,
+      "nimi": "Helikopteri",
+      "leveysaste": 60.187236,
+      "pituusaste": 24.940189,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 106,
+      "nimi": "Hepoköngäs",
+      "leveysaste": 64.819836,
+      "pituusaste": 27.876717,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 107,
+      "nimi": "Heppakaruselli",
+      "leveysaste": 60.885411,
+      "pituusaste": 26.775211,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 108,
+      "nimi": "Heppakaruselli",
+      "leveysaste": 60.885412,
+      "pituusaste": 26.77522,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 109,
+      "nimi": "Hepparata",
+      "leveysaste": 60.18751,
+      "pituusaste": 24.941188,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 110,
+      "nimi": "Hermas",
+      "leveysaste": 60.340606,
+      "pituusaste": 20.767642,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 111,
+      "nimi": "Herra Lohikäärme",
+      "leveysaste": 65.02799,
+      "pituusaste": 25.419291,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 112,
+      "nimi": "Herra Lohikäärme",
+      "leveysaste": 65.027991,
+      "pituusaste": 25.4193,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 113,
+      "nimi": "Hevoshaan arboretum",
+      "leveysaste": 60.749904,
+      "pituusaste": 26.9907,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 114,
+      "nimi": "High Voltage",
+      "leveysaste": 61.506713,
+      "pituusaste": 23.747785,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 115,
+      "nimi": "High Voltage",
+      "leveysaste": 61.506713,
+      "pituusaste": 23.747796,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 116,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.163337,
+      "pituusaste": 25.093852,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 117,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.163855,
+      "pituusaste": 24.612311,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 118,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.180059,
+      "pituusaste": 25.074735,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 119,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.191147,
+      "pituusaste": 24.694763,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 120,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.197036,
+      "pituusaste": 25.019986,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 121,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.198453,
+      "pituusaste": 24.654964,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 122,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.228555,
+      "pituusaste": 24.992801,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 123,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.228726,
+      "pituusaste": 24.991393,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 124,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.306385,
+      "pituusaste": 25.17761,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 125,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.307125,
+      "pituusaste": 24.310647,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 126,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.342159,
+      "pituusaste": 22.9834,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 127,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.353437,
+      "pituusaste": 25.071639,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 128,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.371848,
+      "pituusaste": 24.276423,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 129,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.471427,
+      "pituusaste": 24.41108,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 130,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 60.587412,
+      "pituusaste": 27.085952,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 131,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 61.062644,
+      "pituusaste": 26.630406,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 132,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 61.070264,
+      "pituusaste": 26.452344,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 133,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 61.111804,
+      "pituusaste": 21.511574,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 134,
+      "nimi": "Hiidenkirnu",
+      "leveysaste": 61.395248,
+      "pituusaste": 27.118679,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 135,
+      "nimi": "Hiidenkirnuja",
+      "leveysaste": 60.26126,
+      "pituusaste": 24.616295,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 136,
+      "nimi": "Hiidenkirnuja",
+      "leveysaste": 68.472929,
+      "pituusaste": 26.564455,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 137,
+      "nimi": "Hiidenkirnuja",
+      "leveysaste": 68.504664,
+      "pituusaste": 26.67458,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 138,
+      "nimi": "Hiidenkirnuryhmä",
+      "leveysaste": 60.215688,
+      "pituusaste": 25.059418,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 139,
+      "nimi": "Hiidenkirnuryhmä",
+      "leveysaste": 60.251747,
+      "pituusaste": 25.233892,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 140,
+      "nimi": "Hiidenkirnut",
+      "leveysaste": 66.399639,
+      "pituusaste": 25.462051,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 141,
+      "nimi": "Hiittentarha",
+      "leveysaste": 60.340957,
+      "pituusaste": 22.979418,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 142,
+      "nimi": "Hiittentarha",
+      "leveysaste": 60.340962,
+      "pituusaste": 22.979479,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 143,
+      "nimi": "Hiljainen kansa",
+      "leveysaste": 65.092938,
+      "pituusaste": 28.905607,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 144,
+      "nimi": "Hiphop",
+      "leveysaste": 60.187181,
+      "pituusaste": 24.940831,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 145,
+      "nimi": "Hitachi Park",
+      "leveysaste": 63.22896,
+      "pituusaste": 22.859435,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 146,
+      "nimi": "Hollolan Hirvi",
+      "leveysaste": 60.976193,
+      "pituusaste": 25.474016,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 147,
+      "nimi": "Hollolan kunnantupa",
+      "leveysaste": 61.051396,
+      "pituusaste": 25.432809,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 148,
+      "nimi": "Hollolan kunnantupa",
+      "leveysaste": 61.051422,
+      "pituusaste": 25.432857,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 149,
+      "nimi": "Horisontti",
+      "leveysaste": 60.884722,
+      "pituusaste": 26.775439,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 150,
+      "nimi": "Horisontti",
+      "leveysaste": 60.884726,
+      "pituusaste": 26.775446,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 151,
+      "nimi": "HugoPark Aulanko",
+      "leveysaste": 61.02258,
+      "pituusaste": 24.446904,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 152,
+      "nimi": "Hully Gully",
+      "leveysaste": 62.24518,
+      "pituusaste": 26.139465,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 153,
+      "nimi": "Hully Gully",
+      "leveysaste": 62.245181,
+      "pituusaste": 26.139466,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 154,
+      "nimi": "Hundbanans motionstrappa",
+      "leveysaste": 60.299625,
+      "pituusaste": 22.283331,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 155,
+      "nimi": "Hundbanans motionstrappa",
+      "leveysaste": 60.299838,
+      "pituusaste": 22.284289,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 156,
+      "nimi": "Hupipallot",
+      "leveysaste": 65.02817,
+      "pituusaste": 25.420145,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 157,
+      "nimi": "Hupipallot",
+      "leveysaste": 65.028173,
+      "pituusaste": 25.420139,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 158,
+      "nimi": "Hupsut kupit",
+      "leveysaste": 65.028466,
+      "pituusaste": 25.418417,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 159,
+      "nimi": "Hupsut kupit",
+      "leveysaste": 65.028467,
+      "pituusaste": 25.418397,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 160,
+      "nimi": "Huristin",
+      "leveysaste": 60.188632,
+      "pituusaste": 24.943733,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 161,
+      "nimi": "Hurja hyrrä",
+      "leveysaste": 65.028276,
+      "pituusaste": 25.419578,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 162,
+      "nimi": "Hurjakuru",
+      "leveysaste": 60.187455,
+      "pituusaste": 24.938889,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 163,
+      "nimi": "Huskypoint Oy",
+      "leveysaste": 66.626954,
+      "pituusaste": 25.530928,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 164,
+      "nimi": "Huttumalja",
+      "leveysaste": 61.765552,
+      "pituusaste": 29.984645,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 165,
+      "nimi": "Huttuseikkailu",
+      "leveysaste": 67.031234,
+      "pituusaste": 27.217996,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 166,
+      "nimi": "Hype",
+      "leveysaste": 61.506282,
+      "pituusaste": 23.746943,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 167,
+      "nimi": "Hyper",
+      "leveysaste": 60.187737,
+      "pituusaste": 24.942026,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 168,
+      "nimi": "Hyppykallio",
+      "leveysaste": 61.238277,
+      "pituusaste": 29.012818,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 169,
+      "nimi": "Hypytin",
+      "leveysaste": 60.188389,
+      "pituusaste": 24.942774,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 170,
+      "nimi": "Hyrskyn tyrsky",
+      "leveysaste": 65.028033,
+      "pituusaste": 25.418698,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 171,
+      "nimi": "Hyrskyn tyrsky",
+      "leveysaste": 65.028162,
+      "pituusaste": 25.419687,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 172,
+      "nimi": "Hyrskyn tyrsky",
+      "leveysaste": 65.028173,
+      "pituusaste": 25.419706,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 173,
+      "nimi": "Hämes-Havunen",
+      "leveysaste": 62.389829,
+      "pituusaste": 22.239389,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 174,
+      "nimi": "Högforsin masuuni",
+      "leveysaste": 60.532699,
+      "pituusaste": 24.200685,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 175,
+      "nimi": "Högholmenin luonnonsuojelualue",
+      "leveysaste": 59.833677,
+      "pituusaste": 23.140418,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 176,
+      "nimi": "Idän pikajuna",
+      "leveysaste": 60.885504,
+      "pituusaste": 26.77753,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 177,
+      "nimi": "Iglu majoitus",
+      "leveysaste": 68.33219,
+      "pituusaste": 27.331877,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 178,
+      "nimi": "Iin Hamina",
+      "leveysaste": 65.325564,
+      "pituusaste": 25.371493,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 179,
+      "nimi": "Iittalan Lasimäki",
+      "leveysaste": 61.089448,
+      "pituusaste": 24.128587,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 180,
+      "nimi": "Inkulan vanha holvisilta",
+      "leveysaste": 61.724167,
+      "pituusaste": 23.26077,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 181,
+      "nimi": "Iso Roobertinkatu",
+      "leveysaste": 60.163358,
+      "pituusaste": 24.941869,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 182,
+      "nimi": "Isokuru",
+      "leveysaste": 67.015924,
+      "pituusaste": 27.209912,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 183,
+      "nimi": "Itäinen Pitkäkatu",
+      "leveysaste": 60.397517,
+      "pituusaste": 25.661236,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 184,
+      "nimi": "Jaakkola Reindeer Farm",
+      "leveysaste": 67.233605,
+      "pituusaste": 26.840992,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 185,
+      "nimi": "Jaffa-tölkit",
+      "leveysaste": 60.189231,
+      "pituusaste": 24.93948,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 186,
+      "nimi": "Japanitalo",
+      "leveysaste": 66.108263,
+      "pituusaste": 27.027462,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 187,
+      "nimi": "Jaskan tupa & kullan kaivuu välineitä",
+      "leveysaste": 68.389114,
+      "pituusaste": 27.309905,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 188,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.650385,
+      "pituusaste": 21.413266,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 189,
+      "nimi": "Jatulintarha",
+      "leveysaste": 63.081458,
+      "pituusaste": 21.630991,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 190,
+      "nimi": "Jeremian luolat",
+      "leveysaste": 60.546183,
+      "pituusaste": 21.340165,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 191,
+      "nimi": "Joikun Kota Reindeer Farm",
+      "leveysaste": 68.464747,
+      "pituusaste": 27.489895,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 192,
+      "nimi": "Joulumuorin Tupa",
+      "leveysaste": 66.542594,
+      "pituusaste": 25.848803,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 193,
+      "nimi": "Joulumuorin tupa",
+      "leveysaste": 67.29474,
+      "pituusaste": 28.149339,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 194,
+      "nimi": "Joulupukkin Kammari",
+      "leveysaste": 66.543362,
+      "pituusaste": 25.847962,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 195,
+      "nimi": "Joulupukkin Kammari",
+      "leveysaste": 66.543362,
+      "pituusaste": 25.847978,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 196,
+      "nimi": "Joulutalon Joulupukki",
+      "leveysaste": 66.543156,
+      "pituusaste": 25.8434,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 197,
+      "nimi": "Joyride",
+      "leveysaste": 63.229267,
+      "pituusaste": 22.858648,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 198,
+      "nimi": "Jummi Jammi",
+      "leveysaste": 60.8844,
+      "pituusaste": 26.775454,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 199,
+      "nimi": "Jummi Jammi",
+      "leveysaste": 60.884401,
+      "pituusaste": 26.775456,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 200,
+      "nimi": "Jump Around",
+      "leveysaste": 63.229798,
+      "pituusaste": 22.85669,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 201,
+      "nimi": "Jumpin’ Star",
+      "leveysaste": 63.229775,
+      "pituusaste": 22.856927,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 202,
+      "nimi": "Jungfrudans",
+      "leveysaste": 62.559742,
+      "pituusaste": 21.064669,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 203,
+      "nimi": "Jungfrudans",
+      "leveysaste": 62.57314,
+      "pituusaste": 21.069795,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 204,
+      "nimi": "Junker",
+      "leveysaste": 63.231201,
+      "pituusaste": 22.854795,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 205,
+      "nimi": "Junkers pommikonekorsu",
+      "leveysaste": 62.653441,
+      "pituusaste": 29.60302,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 206,
+      "nimi": "Jupiter",
+      "leveysaste": 60.214824,
+      "pituusaste": 24.848582,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 207,
+      "nimi": "Juséliuksen mausoleumi",
+      "leveysaste": 61.487777,
+      "pituusaste": 21.759472,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 208,
+      "nimi": "Juupajoen rotko",
+      "leveysaste": 61.796074,
+      "pituusaste": 24.371885,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 209,
+      "nimi": "Jylhän kirkko",
+      "leveysaste": 61.384849,
+      "pituusaste": 24.520315,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 210,
+      "nimi": "Jyllinkoski",
+      "leveysaste": 62.593526,
+      "pituusaste": 22.394872,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 211,
+      "nimi": "Jämsän Saunakylä",
+      "leveysaste": 61.92886,
+      "pituusaste": 25.353672,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 212,
+      "nimi": "Jäppilänniemen Taidetie",
+      "leveysaste": 61.194953,
+      "pituusaste": 28.939751,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 213,
+      "nimi": "Järvikaruselli",
+      "leveysaste": 61.506619,
+      "pituusaste": 23.744205,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 214,
+      "nimi": "Järviseututalo",
+      "leveysaste": 63.689616,
+      "pituusaste": 22.70135,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 215,
+      "nimi": "Jättiläishaudat",
+      "leveysaste": 64.926368,
+      "pituusaste": 25.847737,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 216,
+      "nimi": "Jättiläishaudat",
+      "leveysaste": 64.926373,
+      "pituusaste": 25.847754,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 217,
+      "nimi": "KPO-areena",
+      "leveysaste": 63.545688,
+      "pituusaste": 23.692891,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 218,
+      "nimi": "Kahvikupit",
+      "leveysaste": 61.505598,
+      "pituusaste": 23.745425,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 219,
+      "nimi": "Kahvikuppikaruselli",
+      "leveysaste": 60.188959,
+      "pituusaste": 24.939858,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 220,
+      "nimi": "Kahvikuppikaruselli",
+      "leveysaste": 60.188964,
+      "pituusaste": 24.939845,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 221,
+      "nimi": "Kaivannon kanava",
+      "leveysaste": 61.420104,
+      "pituusaste": 24.140919,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 222,
+      "nimi": "Kalatie",
+      "leveysaste": 65.791617,
+      "pituusaste": 24.547119,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 223,
+      "nimi": "Kalatien ikkuna",
+      "leveysaste": 65.791696,
+      "pituusaste": 24.547173,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 224,
+      "nimi": "Kalela",
+      "leveysaste": 61.965382,
+      "pituusaste": 24.14769,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 225,
+      "nimi": "Kalela",
+      "leveysaste": 61.965398,
+      "pituusaste": 24.147791,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 226,
+      "nimi": "Kalevan navetta",
+      "leveysaste": 62.796533,
+      "pituusaste": 22.831013,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 227,
+      "nimi": "Kalkgruvans utsiktsplats",
+      "leveysaste": 60.299058,
+      "pituusaste": 22.294403,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 228,
+      "nimi": "Kalliomaalauksia",
+      "leveysaste": 60.872363,
+      "pituusaste": 27.830353,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 229,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.016079,
+      "pituusaste": 27.37823,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 230,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.020744,
+      "pituusaste": 27.374186,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 231,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 62.242976,
+      "pituusaste": 28.867798,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 232,
+      "nimi": "Kallionhalkeama",
+      "leveysaste": 60.264257,
+      "pituusaste": 25.190663,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 233,
+      "nimi": "Kalmosärkkä",
+      "leveysaste": 65.209942,
+      "pituusaste": 29.446317,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 234,
+      "nimi": "Kammokuja",
+      "leveysaste": 60.187784,
+      "pituusaste": 24.9421,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 235,
+      "nimi": "Kangasalan lepokoti",
+      "leveysaste": 61.467405,
+      "pituusaste": 24.065531,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 236,
+      "nimi": "Kanoottijoki",
+      "leveysaste": 62.245491,
+      "pituusaste": 26.139148,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 237,
+      "nimi": "Kanta-Loimaan kirkko ja pappila",
+      "leveysaste": 60.875912,
+      "pituusaste": 22.974556,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 238,
+      "nimi": "Kaoottiset keinut",
+      "leveysaste": 60.287704,
+      "pituusaste": 25.038853,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 239,
+      "nimi": "Karamelli-karuselli",
+      "leveysaste": 61.505935,
+      "pituusaste": 23.745258,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 240,
+      "nimi": "Karhut",
+      "leveysaste": 62.873264,
+      "pituusaste": 24.206493,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 241,
+      "nimi": "Kariniemen puulajipuisto",
+      "leveysaste": 60.990491,
+      "pituusaste": 25.646604,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 242,
+      "nimi": "Karkkilaiva",
+      "leveysaste": 61.50665,
+      "pituusaste": 23.74607,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 243,
+      "nimi": "Karkkilaiva",
+      "leveysaste": 61.506665,
+      "pituusaste": 23.746072,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 244,
+      "nimi": "Karuselli",
+      "leveysaste": 60.188826,
+      "pituusaste": 24.940821,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 245,
+      "nimi": "Karuselli",
+      "leveysaste": 60.188827,
+      "pituusaste": 24.940829,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 246,
+      "nimi": "Kasematti I",
+      "leveysaste": 60.150853,
+      "pituusaste": 24.957019,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 247,
+      "nimi": "Kasematti II",
+      "leveysaste": 60.150761,
+      "pituusaste": 24.956581,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 248,
+      "nimi": "Kasematti IV",
+      "leveysaste": 60.151569,
+      "pituusaste": 24.955987,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 249,
+      "nimi": "Katrinebergin kartano",
+      "leveysaste": 60.345317,
+      "pituusaste": 24.872779,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 250,
+      "nimi": "Katrinebergin kartano",
+      "leveysaste": 60.345327,
+      "pituusaste": 24.872777,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 251,
+      "nimi": "Kauppatori",
+      "leveysaste": 60.167245,
+      "pituusaste": 24.953608,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 252,
+      "nimi": "Kehrä",
+      "leveysaste": 60.188126,
+      "pituusaste": 24.939519,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 253,
+      "nimi": "Keikutin",
+      "leveysaste": 60.188775,
+      "pituusaste": 24.943851,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 254,
+      "nimi": "Keinukaruselli",
+      "leveysaste": 60.884892,
+      "pituusaste": 26.776751,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 255,
+      "nimi": "Keinukaruselli",
+      "leveysaste": 60.884893,
+      "pituusaste": 26.776751,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 256,
+      "nimi": "Keinukaruselli",
+      "leveysaste": 61.505586,
+      "pituusaste": 23.745856,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 257,
+      "nimi": "Kelloniemen pumppu",
+      "leveysaste": 62.923278,
+      "pituusaste": 27.7256,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 258,
+      "nimi": "Kemin lumilinna",
+      "leveysaste": 65.726629,
+      "pituusaste": 24.569121,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 259,
+      "nimi": "Keramiikkapaja",
+      "leveysaste": 60.132697,
+      "pituusaste": 23.546338,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 260,
+      "nimi": "Keramiikkapaja",
+      "leveysaste": 60.132703,
+      "pituusaste": 23.546229,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 261,
+      "nimi": "Keravan kiviholvisilta",
+      "leveysaste": 60.408797,
+      "pituusaste": 25.123404,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 262,
+      "nimi": "Ketjukaruselli",
+      "leveysaste": 60.188327,
+      "pituusaste": 24.941287,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 263,
+      "nimi": "Ketjukaruselli",
+      "leveysaste": 60.188328,
+      "pituusaste": 24.941285,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 264,
+      "nimi": "Ketolan Strutsitila",
+      "leveysaste": 60.503774,
+      "pituusaste": 24.78164,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 265,
+      "nimi": "Kianta Laiva",
+      "leveysaste": 64.885841,
+      "pituusaste": 28.918318,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 266,
+      "nimi": "Kilpisjarvi Reindeer",
+      "leveysaste": 69.011753,
+      "pituusaste": 20.882351,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 267,
+      "nimi": "Kilpisjärven kasvipolku",
+      "leveysaste": 69.018673,
+      "pituusaste": 20.869436,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 268,
+      "nimi": "Kimolan kanavan venesulku",
+      "leveysaste": 61.069957,
+      "pituusaste": 26.27279,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 269,
+      "nimi": "Kingi",
+      "leveysaste": 60.187816,
+      "pituusaste": 24.941567,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 270,
+      "nimi": "Kingi",
+      "leveysaste": 60.187816,
+      "pituusaste": 24.941571,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 271,
+      "nimi": "Kirjailijatalo",
+      "leveysaste": 62.236105,
+      "pituusaste": 25.735398,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 272,
+      "nimi": "Kirkelinna (Linnavuori)",
+      "leveysaste": 60.866017,
+      "pituusaste": 21.760119,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 273,
+      "nimi": "Kirkkokalio",
+      "leveysaste": 61.799962,
+      "pituusaste": 29.974659,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 274,
+      "nimi": "Kirkkovene",
+      "leveysaste": 61.875791,
+      "pituusaste": 23.724389,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 275,
+      "nimi": "Kirkkoveneet",
+      "leveysaste": 60.182,
+      "pituusaste": 24.887732,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 276,
+      "nimi": "Kirkonkelloja",
+      "leveysaste": 63.713532,
+      "pituusaste": 25.918203,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 277,
+      "nimi": "Kirkonkelloja",
+      "leveysaste": 63.713552,
+      "pituusaste": 25.918164,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 278,
+      "nimi": "Kirkonkylän mylly",
+      "leveysaste": 60.279898,
+      "pituusaste": 24.984624,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 279,
+      "nimi": "Kirkonkylän mylly",
+      "leveysaste": 60.279903,
+      "pituusaste": 24.984571,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 280,
+      "nimi": "Kirkonpaikka",
+      "leveysaste": 62.269749,
+      "pituusaste": 29.713135,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 281,
+      "nimi": "Kirnu",
+      "leveysaste": 60.188257,
+      "pituusaste": 24.939986,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 282,
+      "nimi": "Kirnuhuoko",
+      "leveysaste": 61.182207,
+      "pituusaste": 26.882179,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 283,
+      "nimi": "Kissanpiiskaajankuja",
+      "leveysaste": 62.271071,
+      "pituusaste": 21.377087,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 284,
+      "nimi": "Kitsiputous",
+      "leveysaste": 69.067891,
+      "pituusaste": 20.67699,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 285,
+      "nimi": "Kiutaköngäs",
+      "leveysaste": 66.367764,
+      "pituusaste": 29.327667,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 286,
+      "nimi": "Kiviniemen retkeilykeskus",
+      "leveysaste": 62.989537,
+      "pituusaste": 29.924004,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 287,
+      "nimi": "Kivinäyttely",
+      "leveysaste": 60.288661,
+      "pituusaste": 25.041154,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 288,
+      "nimi": "Kivipuisto Gadoliniitti",
+      "leveysaste": 60.416249,
+      "pituusaste": 24.319502,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 289,
+      "nimi": "Kk-pesäke",
+      "leveysaste": 62.623064,
+      "pituusaste": 31.197214,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 290,
+      "nimi": "Koiramäen talo",
+      "leveysaste": 61.50361,
+      "pituusaste": 23.73946,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 291,
+      "nimi": "Koiramäki",
+      "leveysaste": 61.503995,
+      "pituusaste": 23.739368,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 292,
+      "nimi": "Koitelinkoski",
+      "leveysaste": 65.096974,
+      "pituusaste": 25.817713,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 293,
+      "nimi": "Kokonniemen tapahtumapuisto",
+      "leveysaste": 60.384724,
+      "pituusaste": 25.660312,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 294,
+      "nimi": "Koli",
+      "leveysaste": 63.095225,
+      "pituusaste": 29.805719,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 295,
+      "nimi": "Kollinluola",
+      "leveysaste": 62.398443,
+      "pituusaste": 22.891301,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 296,
+      "nimi": "Kolmiköytisen kalliomaalaus",
+      "leveysaste": 61.270662,
+      "pituusaste": 28.627964,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 297,
+      "nimi": "Kolun kanava",
+      "leveysaste": 62.972822,
+      "pituusaste": 26.723942,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 298,
+      "nimi": "Kolun kanava",
+      "leveysaste": 62.97338,
+      "pituusaste": 26.725275,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 299,
+      "nimi": "Kompassi",
+      "leveysaste": 62.242639,
+      "pituusaste": 25.74735,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 300,
+      "nimi": "Kongas",
+      "leveysaste": 67.872792,
+      "pituusaste": 24.907142,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 301,
+      "nimi": "Korhosen museoaitat",
+      "leveysaste": 62.657492,
+      "pituusaste": 30.939573,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 302,
+      "nimi": "Korhosen museoaitat",
+      "leveysaste": 62.657503,
+      "pituusaste": 30.93968,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 303,
+      "nimi": "Korhosen museoaitat",
+      "leveysaste": 62.657512,
+      "pituusaste": 30.939832,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 304,
+      "nimi": "Koripallot",
+      "leveysaste": 60.188078,
+      "pituusaste": 24.942802,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 305,
+      "nimi": "Korkeakoski",
+      "leveysaste": 63.24148,
+      "pituusaste": 27.060392,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 306,
+      "nimi": "Korpelan pato",
+      "leveysaste": 63.87401,
+      "pituusaste": 24.053998,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 307,
+      "nimi": "Koskenkorva West Ranch",
+      "leveysaste": 62.684057,
+      "pituusaste": 22.442207,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 308,
+      "nimi": "Koskikirnut",
+      "leveysaste": 61.167301,
+      "pituusaste": 28.771023,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 309,
+      "nimi": "Koskikirnut",
+      "leveysaste": 61.168981,
+      "pituusaste": 28.773498,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 310,
+      "nimi": "Koskirengasliukumäki",
+      "leveysaste": 61.798508,
+      "pituusaste": 29.289888,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 311,
+      "nimi": "Koskiseikkailu",
+      "leveysaste": 61.504441,
+      "pituusaste": 23.740082,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 312,
+      "nimi": "Kotkan seudun ilmavalvonta-aluekeskus v1940 - 1941",
+      "leveysaste": 60.524563,
+      "pituusaste": 26.912725,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 313,
+      "nimi": "Kouvola-pyörä",
+      "leveysaste": 60.885209,
+      "pituusaste": 26.776546,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 314,
+      "nimi": "Koveron perinnetila",
+      "leveysaste": 61.91386,
+      "pituusaste": 23.383092,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 315,
+      "nimi": "Krokoliuku",
+      "leveysaste": 61.799561,
+      "pituusaste": 29.289759,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 316,
+      "nimi": "Kuhakosken vesiputous",
+      "leveysaste": 60.432724,
+      "pituusaste": 24.712613,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 317,
+      "nimi": "Kuhmalahden Taidepappila",
+      "leveysaste": 61.507421,
+      "pituusaste": 24.557134,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 318,
+      "nimi": "Kujalan porotila",
+      "leveysaste": 66.06308,
+      "pituusaste": 29.142182,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 319,
+      "nimi": "Kukuljärven vaellusreitti",
+      "leveysaste": 60.519576,
+      "pituusaste": 26.46386,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 320,
+      "nimi": "Kullan konekaivuuta",
+      "leveysaste": 68.38205,
+      "pituusaste": 27.31326,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 321,
+      "nimi": "Kullanhuuhdonta",
+      "leveysaste": 60.634043,
+      "pituusaste": 23.754188,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 322,
+      "nimi": "Kullankaivajat",
+      "leveysaste": 68.660177,
+      "pituusaste": 27.539578,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 323,
+      "nimi": "Kummitusjuna",
+      "leveysaste": 60.884507,
+      "pituusaste": 26.777342,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 324,
+      "nimi": "Kummitusjuna",
+      "leveysaste": 62.245051,
+      "pituusaste": 26.140141,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 325,
+      "nimi": "Kungsbackan kotieläintila",
+      "leveysaste": 60.508869,
+      "pituusaste": 25.769071,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 326,
+      "nimi": "Kuningasrubiini",
+      "leveysaste": 60.472377,
+      "pituusaste": 22.002657,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 327,
+      "nimi": "Kuninkaan mänty",
+      "leveysaste": 61.190383,
+      "pituusaste": 22.275896,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 328,
+      "nimi": "Kunnarlan hiidenkirnu",
+      "leveysaste": 60.266294,
+      "pituusaste": 24.650476,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 329,
+      "nimi": "Kurjenkoski",
+      "leveysaste": 62.425522,
+      "pituusaste": 24.742212,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 330,
+      "nimi": "Kustavin savipaja",
+      "leveysaste": 60.509025,
+      "pituusaste": 21.448822,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 331,
+      "nimi": "Kustin ja Kertun Farmi",
+      "leveysaste": 60.885526,
+      "pituusaste": 26.778518,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 332,
+      "nimi": "Kustirata",
+      "leveysaste": 60.884583,
+      "pituusaste": 26.775898,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 333,
+      "nimi": "Kuukkeli",
+      "leveysaste": 62.361105,
+      "pituusaste": 29.564574,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 334,
+      "nimi": "Kuusamon Uistin",
+      "leveysaste": 65.994305,
+      "pituusaste": 29.152744,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 335,
+      "nimi": "Kuusinen",
+      "leveysaste": 60.459306,
+      "pituusaste": 26.965328,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 336,
+      "nimi": "Kwai River",
+      "leveysaste": 63.230682,
+      "pituusaste": 22.857508,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 337,
+      "nimi": "Kymenraitti",
+      "leveysaste": 60.885076,
+      "pituusaste": 26.777431,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 338,
+      "nimi": "Kyöpelinvuoren hotelli",
+      "leveysaste": 60.188195,
+      "pituusaste": 24.938914,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 339,
+      "nimi": "Kyöpelinvuoren hotelli",
+      "leveysaste": 60.188196,
+      "pituusaste": 24.938915,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 340,
+      "nimi": "Kärkelän Kuparisulatto",
+      "leveysaste": 60.26374,
+      "pituusaste": 23.605143,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 341,
+      "nimi": "Kärleksstenen",
+      "leveysaste": 59.776281,
+      "pituusaste": 21.371368,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 342,
+      "nimi": "Kärleksstenen",
+      "leveysaste": 59.776284,
+      "pituusaste": 21.371375,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 343,
+      "nimi": "Kärmäen Ilmavalvonta-asema",
+      "leveysaste": 61.297835,
+      "pituusaste": 29.22774,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 344,
+      "nimi": "Kärnäkosken mylly ja saha",
+      "leveysaste": 61.261887,
+      "pituusaste": 27.712217,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 345,
+      "nimi": "Köngäs",
+      "leveysaste": 67.877863,
+      "pituusaste": 24.882568,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 346,
+      "nimi": "Königstedtinkoski",
+      "leveysaste": 60.343418,
+      "pituusaste": 24.8494,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 347,
+      "nimi": "La Corrida",
+      "leveysaste": 63.230202,
+      "pituusaste": 22.856473,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 348,
+      "nimi": "La Paloma",
+      "leveysaste": 63.229491,
+      "pituusaste": 22.858459,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 349,
+      "nimi": "Laestadii pörte",
+      "leveysaste": 68.440139,
+      "pituusaste": 22.472397,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 350,
+      "nimi": "Lahden urheilukeskus",
+      "leveysaste": 60.983783,
+      "pituusaste": 25.635088,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 351,
+      "nimi": "Laivasillan Jatulintarha",
+      "leveysaste": 60.453096,
+      "pituusaste": 26.233524,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 352,
+      "nimi": "Lallin muinainen asuinpaikka",
+      "leveysaste": 61.201709,
+      "pituusaste": 22.245365,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 353,
+      "nimi": "Lamborghini Aventador SVJ",
+      "leveysaste": 62.603814,
+      "pituusaste": 23.722688,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 354,
+      "nimi": "Lampaita",
+      "leveysaste": 64.915603,
+      "pituusaste": 28.986806,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 355,
+      "nimi": "Langinkosken keisarillinen kalastusmaja",
+      "leveysaste": 60.489267,
+      "pituusaste": 26.885609,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 356,
+      "nimi": "Lanu-puisto",
+      "leveysaste": 60.991213,
+      "pituusaste": 25.648726,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 357,
+      "nimi": "Lapijoen silta",
+      "leveysaste": 61.174237,
+      "pituusaste": 21.651094,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 358,
+      "nimi": "Lapinlahden Lähde",
+      "leveysaste": 60.167587,
+      "pituusaste": 24.913193,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 359,
+      "nimi": "Lapinlahti hospital Mental Museum",
+      "leveysaste": 60.167614,
+      "pituusaste": 24.912817,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 360,
+      "nimi": "Lapiokoski",
+      "leveysaste": 60.701474,
+      "pituusaste": 26.012096,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 361,
+      "nimi": "Lappimaa",
+      "leveysaste": 60.634183,
+      "pituusaste": 23.753674,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 362,
+      "nimi": "Lasten maailmanpyörä",
+      "leveysaste": 62.245581,
+      "pituusaste": 26.138908,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 363,
+      "nimi": "Lasten maailmanpyörä",
+      "leveysaste": 62.24559,
+      "pituusaste": 26.13891,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 364,
+      "nimi": "Launeen arboretum",
+      "leveysaste": 60.97149,
+      "pituusaste": 25.646388,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 365,
+      "nimi": "Lauri Viidan syntymäkoti",
+      "leveysaste": 61.502127,
+      "pituusaste": 23.715408,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 366,
+      "nimi": "Lauri Viidan syntymäkoti",
+      "leveysaste": 61.502128,
+      "pituusaste": 23.71542,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 367,
+      "nimi": "Laurilan strutsitila",
+      "leveysaste": 60.761243,
+      "pituusaste": 26.552168,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 368,
+      "nimi": "Laurilan strutsitila",
+      "leveysaste": 60.761362,
+      "pituusaste": 26.552245,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 369,
+      "nimi": "Leewi-laiva",
+      "leveysaste": 61.800241,
+      "pituusaste": 29.290161,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 370,
+      "nimi": "Lehtolan koulu",
+      "leveysaste": 62.720087,
+      "pituusaste": 25.021384,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 371,
+      "nimi": "Leimukallion tanssilava",
+      "leveysaste": 60.820079,
+      "pituusaste": 23.545568,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 372,
+      "nimi": "Leipomon Historia",
+      "leveysaste": 64.226156,
+      "pituusaste": 27.732997,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 373,
+      "nimi": "Lentokonekaruselli",
+      "leveysaste": 62.245672,
+      "pituusaste": 26.139022,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 374,
+      "nimi": "Lentokonekaruselli",
+      "leveysaste": 62.245674,
+      "pituusaste": 26.139023,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 375,
+      "nimi": "Lentsikat",
+      "leveysaste": 61.506725,
+      "pituusaste": 23.745422,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 376,
+      "nimi": "Lepakkolähetti",
+      "leveysaste": 61.506268,
+      "pituusaste": 23.74568,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 377,
+      "nimi": "Lepikon torppa",
+      "leveysaste": 63.221282,
+      "pituusaste": 26.783317,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 378,
+      "nimi": "Leppälän mökki",
+      "leveysaste": 60.181716,
+      "pituusaste": 24.88539,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 379,
+      "nimi": "Leuanvetotanko mäntyjen välissä",
+      "leveysaste": 62.773313,
+      "pituusaste": 22.832461,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 380,
+      "nimi": "Liesijoen mylly",
+      "leveysaste": 61.919869,
+      "pituusaste": 23.452877,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 381,
+      "nimi": "Liikennepuisto",
+      "leveysaste": 60.810418,
+      "pituusaste": 24.615711,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 382,
+      "nimi": "Liisanlinna seikkailuliikuntapuisto",
+      "leveysaste": 64.750635,
+      "pituusaste": 25.552085,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 383,
+      "nimi": "Liisanlinna seikkailuliikuntapuisto",
+      "leveysaste": 64.750653,
+      "pituusaste": 25.551885,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 384,
+      "nimi": "Linnakallio",
+      "leveysaste": 64.225627,
+      "pituusaste": 24.276097,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 385,
+      "nimi": "Linnan kartano",
+      "leveysaste": 60.339878,
+      "pituusaste": 24.845794,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 386,
+      "nimi": "Linnanmäen nostalgiset tähdet",
+      "leveysaste": 60.188429,
+      "pituusaste": 24.941001,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 387,
+      "nimi": "Linnanmäen nostalgiset tähdet",
+      "leveysaste": 60.188432,
+      "pituusaste": 24.941004,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 388,
+      "nimi": "Linnansaaren torppa",
+      "leveysaste": 62.105994,
+      "pituusaste": 28.519571,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 389,
+      "nimi": "Linnunrata eXtra",
+      "leveysaste": 60.187953,
+      "pituusaste": 24.940243,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 390,
+      "nimi": "Lion King",
+      "leveysaste": 63.230336,
+      "pituusaste": 22.856213,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 391,
+      "nimi": "Liutun Maalaistalo",
+      "leveysaste": 61.636984,
+      "pituusaste": 23.956281,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 392,
+      "nimi": "Lohikäärme",
+      "leveysaste": 60.187627,
+      "pituusaste": 24.939502,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 393,
+      "nimi": "Lohiportaat",
+      "leveysaste": 65.020993,
+      "pituusaste": 25.483003,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 394,
+      "nimi": "Loimaan rautatieasema",
+      "leveysaste": 60.84801,
+      "pituusaste": 23.059337,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 395,
+      "nimi": "Loketon Onkalo",
+      "leveysaste": 61.596092,
+      "pituusaste": 28.053367,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 396,
+      "nimi": "Loma-Koli",
+      "leveysaste": 63.167236,
+      "pituusaste": 29.81724,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 397,
+      "nimi": "Loma-asuntomessut 2011alue",
+      "leveysaste": 61.426933,
+      "pituusaste": 26.705847,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 398,
+      "nimi": "Loop Fighter",
+      "leveysaste": 60.885014,
+      "pituusaste": 26.776115,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 399,
+      "nimi": "Loop Fighter",
+      "leveysaste": 60.88502,
+      "pituusaste": 26.77614,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 400,
+      "nimi": "Louhos",
+      "leveysaste": 60.722561,
+      "pituusaste": 23.621413,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 401,
+      "nimi": "Loviisan ilmatorjunnan muistotykki",
+      "leveysaste": 60.453806,
+      "pituusaste": 26.226201,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 402,
+      "nimi": "Lunnikivi Stone Gallery",
+      "leveysaste": 60.997246,
+      "pituusaste": 24.507379,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 403,
+      "nimi": "Luojanluomalaavu",
+      "leveysaste": 67.353152,
+      "pituusaste": 27.95015,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 404,
+      "nimi": "Luola",
+      "leveysaste": 60.981166,
+      "pituusaste": 27.917333,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 405,
+      "nimi": "Luontopirtti Mesikkä",
+      "leveysaste": 62.657725,
+      "pituusaste": 30.939965,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 406,
+      "nimi": "Luostarin Välikatu",
+      "leveysaste": 60.450325,
+      "pituusaste": 22.274864,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 407,
+      "nimi": "Luototalo",
+      "leveysaste": 65.040352,
+      "pituusaste": 24.561592,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 408,
+      "nimi": "Länsi-Teiskon kirkkovene",
+      "leveysaste": 61.747885,
+      "pituusaste": 23.689424,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 409,
+      "nimi": "Länsi-suomalaiset aitat",
+      "leveysaste": 60.181359,
+      "pituusaste": 24.886963,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 410,
+      "nimi": "Löppösenluola",
+      "leveysaste": 61.175506,
+      "pituusaste": 26.838219,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 411,
+      "nimi": "MIL-Safarit",
+      "leveysaste": 60.481496,
+      "pituusaste": 25.391351,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 412,
+      "nimi": "MS Torsholm shipwreck",
+      "leveysaste": 59.778602,
+      "pituusaste": 21.364576,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 413,
+      "nimi": "Maa",
+      "leveysaste": 60.219767,
+      "pituusaste": 24.855538,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 414,
+      "nimi": "Maailman suurin perunankuorimaveitsi",
+      "leveysaste": 62.113788,
+      "pituusaste": 21.958462,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 415,
+      "nimi": "Maailmanpyörä",
+      "leveysaste": 62.245873,
+      "pituusaste": 26.139882,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 416,
+      "nimi": "Maailmanpyörä",
+      "leveysaste": 62.245874,
+      "pituusaste": 26.139872,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 417,
+      "nimi": "Maanteiden korkein kohta",
+      "leveysaste": 68.924995,
+      "pituusaste": 20.936595,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 418,
+      "nimi": "Magia",
+      "leveysaste": 60.187178,
+      "pituusaste": 24.940533,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 419,
+      "nimi": "Maisemajuna",
+      "leveysaste": 60.188541,
+      "pituusaste": 24.941382,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 420,
+      "nimi": "Majakat",
+      "leveysaste": 60.447608,
+      "pituusaste": 26.940116,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 421,
+      "nimi": "Majakat",
+      "leveysaste": 60.447621,
+      "pituusaste": 26.940145,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 422,
+      "nimi": "Majakka",
+      "leveysaste": 61.506631,
+      "pituusaste": 23.745818,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 423,
+      "nimi": "Marco Polo",
+      "leveysaste": 63.229754,
+      "pituusaste": 22.857148,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 424,
+      "nimi": "Mariannen maatila",
+      "leveysaste": 60.243693,
+      "pituusaste": 22.946041,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 425,
+      "nimi": "Mars",
+      "leveysaste": 60.219195,
+      "pituusaste": 24.855531,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 426,
+      "nimi": "Martinselkosen Eräkeskus",
+      "leveysaste": 65.131393,
+      "pituusaste": 29.795642,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 427,
+      "nimi": "Mateli Kuivalattaren aitat",
+      "leveysaste": 62.657478,
+      "pituusaste": 30.939397,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 428,
+      "nimi": "Mato mainio",
+      "leveysaste": 65.028156,
+      "pituusaste": 25.420773,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 429,
+      "nimi": "Mato mainio",
+      "leveysaste": 65.028167,
+      "pituusaste": 25.420782,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 430,
+      "nimi": "Matti Nykäsen mäki",
+      "leveysaste": 62.259013,
+      "pituusaste": 25.683539,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 431,
+      "nimi": "Merkurius",
+      "leveysaste": 60.220762,
+      "pituusaste": 24.857012,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 432,
+      "nimi": "Messerschmitt Bf 109 G-6",
+      "leveysaste": 60.892911,
+      "pituusaste": 26.910503,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 433,
+      "nimi": "Messerschmitt Bf 109 G-6",
+      "leveysaste": 60.892915,
+      "pituusaste": 26.910553,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 434,
+      "nimi": "Meteoriitti",
+      "leveysaste": 60.884376,
+      "pituusaste": 26.775317,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 435,
+      "nimi": "Meteoriitti",
+      "leveysaste": 60.884377,
+      "pituusaste": 26.775319,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 436,
+      "nimi": "Metla - Ympäristönäytepankki",
+      "leveysaste": 64.664169,
+      "pituusaste": 28.055753,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 437,
+      "nimi": "Metla - Ympäristönäytepankki",
+      "leveysaste": 64.664171,
+      "pituusaste": 28.055751,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 438,
+      "nimi": "Metsurin kivi",
+      "leveysaste": 61.396412,
+      "pituusaste": 29.253252,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 439,
+      "nimi": "Metsämaan Peltokivipyramidi",
+      "leveysaste": 60.941012,
+      "pituusaste": 23.151928,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 440,
+      "nimi": "Meänporot",
+      "leveysaste": 67.536952,
+      "pituusaste": 24.487896,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 441,
+      "nimi": "Miami",
+      "leveysaste": 62.2454,
+      "pituusaste": 26.139593,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 442,
+      "nimi": "Mill River",
+      "leveysaste": 63.228529,
+      "pituusaste": 22.858142,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 443,
+      "nimi": "Mine Train",
+      "leveysaste": 63.228161,
+      "pituusaste": 22.861241,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 444,
+      "nimi": "Mini 12",
+      "leveysaste": 63.22816,
+      "pituusaste": 22.860238,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 445,
+      "nimi": "Mini Monza",
+      "leveysaste": 63.228488,
+      "pituusaste": 22.859295,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 446,
+      "nimi": "Mini Tea Cup",
+      "leveysaste": 63.228085,
+      "pituusaste": 22.860476,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 447,
+      "nimi": "Miniautot",
+      "leveysaste": 62.245444,
+      "pituusaste": 26.138549,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 448,
+      "nimi": "Miniautot",
+      "leveysaste": 62.245459,
+      "pituusaste": 26.138583,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 449,
+      "nimi": "Miniteekupit",
+      "leveysaste": 60.885187,
+      "pituusaste": 26.777159,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 450,
+      "nimi": "Miniteekupit",
+      "leveysaste": 60.885188,
+      "pituusaste": 26.777159,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 451,
+      "nimi": "Miukin ranta",
+      "leveysaste": 65.837068,
+      "pituusaste": 24.159574,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 452,
+      "nimi": "Moronhattu",
+      "leveysaste": 60.871089,
+      "pituusaste": 21.71484,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 453,
+      "nimi": "Moskovan rauhan rajapyykki",
+      "leveysaste": 61.292665,
+      "pituusaste": 29.244018,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 454,
+      "nimi": "MotoGee",
+      "leveysaste": 61.506023,
+      "pituusaste": 23.742943,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 455,
+      "nimi": "Mualiman napa",
+      "leveysaste": 62.892464,
+      "pituusaste": 27.678361,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 456,
+      "nimi": "Muikkupuro",
+      "leveysaste": 65.479131,
+      "pituusaste": 29.385379,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 457,
+      "nimi": "Muinainen rantakivikko",
+      "leveysaste": 64.656403,
+      "pituusaste": 24.520699,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 458,
+      "nimi": "Muksupuksu",
+      "leveysaste": 60.18758,
+      "pituusaste": 24.940834,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 459,
+      "nimi": "Muksupuksu",
+      "leveysaste": 60.187677,
+      "pituusaste": 24.939938,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 460,
+      "nimi": "Muksupuksu",
+      "leveysaste": 60.187744,
+      "pituusaste": 24.940698,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 461,
+      "nimi": "Muksupuksu",
+      "leveysaste": 60.188027,
+      "pituusaste": 24.940218,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 462,
+      "nimi": "Multilane",
+      "leveysaste": 60.888484,
+      "pituusaste": 26.774762,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 463,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.828405,
+      "pituusaste": 21.623657,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 464,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.82841,
+      "pituusaste": 21.62365,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 465,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.829023,
+      "pituusaste": 21.61886,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 466,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.829027,
+      "pituusaste": 21.618848,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 467,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.829692,
+      "pituusaste": 21.613075,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 468,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.829695,
+      "pituusaste": 21.61308,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 469,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.829708,
+      "pituusaste": 21.616567,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 470,
+      "nimi": "Munkinkehä",
+      "leveysaste": 59.829711,
+      "pituusaste": 21.616571,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 471,
+      "nimi": "Music Express",
+      "leveysaste": 63.228452,
+      "pituusaste": 22.859912,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 472,
+      "nimi": "Mustekala",
+      "leveysaste": 60.188833,
+      "pituusaste": 24.943272,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 473,
+      "nimi": "Mustekala",
+      "leveysaste": 62.245566,
+      "pituusaste": 26.139119,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 474,
+      "nimi": "Mustekala",
+      "leveysaste": 62.245567,
+      "pituusaste": 26.13912,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 475,
+      "nimi": "Mustilan puukoulu",
+      "leveysaste": 60.724185,
+      "pituusaste": 26.432915,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 476,
+      "nimi": "Muumimaailman paloasema",
+      "leveysaste": 60.473101,
+      "pituusaste": 22.003745,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 477,
+      "nimi": "Muumimuki-kokoelma",
+      "leveysaste": 62.601988,
+      "pituusaste": 23.725925,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 478,
+      "nimi": "Myllykoski",
+      "leveysaste": 60.455129,
+      "pituusaste": 24.852316,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 479,
+      "nimi": "Mäyrän pesä",
+      "leveysaste": 60.547691,
+      "pituusaste": 22.950053,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 480,
+      "nimi": "Mörkömetsä",
+      "leveysaste": 62.245227,
+      "pituusaste": 26.138991,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 481,
+      "nimi": "Nallikarin talvikylä",
+      "leveysaste": 65.028308,
+      "pituusaste": 25.41787,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 482,
+      "nimi": "Namipyörä",
+      "leveysaste": 60.187077,
+      "pituusaste": 24.940202,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 483,
+      "nimi": "Neo's Twister",
+      "leveysaste": 63.229994,
+      "pituusaste": 22.856581,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 484,
+      "nimi": "Neptunus",
+      "leveysaste": 60.181305,
+      "pituusaste": 24.84395,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 485,
+      "nimi": "Neulatammi",
+      "leveysaste": 63.592703,
+      "pituusaste": 26.832862,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 486,
+      "nimi": "Niemelän torppa",
+      "leveysaste": 60.182581,
+      "pituusaste": 24.888471,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 487,
+      "nimi": "Noark-Pienoismallimaailma",
+      "leveysaste": 60.453718,
+      "pituusaste": 25.735467,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 488,
+      "nimi": "Noark-Pienoismallimaailma",
+      "leveysaste": 60.453723,
+      "pituusaste": 25.735497,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 489,
+      "nimi": "Nokia-kokoelma",
+      "leveysaste": 62.602412,
+      "pituusaste": 23.725588,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 490,
+      "nimi": "Noppa",
+      "leveysaste": 60.18773,
+      "pituusaste": 24.941853,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 491,
+      "nimi": "Nukketalot",
+      "leveysaste": 61.414818,
+      "pituusaste": 26.038842,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 492,
+      "nimi": "Nuuskamuikkusen teltta",
+      "leveysaste": 60.472275,
+      "pituusaste": 22.004245,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 493,
+      "nimi": "Nuutajärven lasikylä",
+      "leveysaste": 61.044142,
+      "pituusaste": 23.434642,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 494,
+      "nimi": "Nykarleby Jernväg",
+      "leveysaste": 63.520549,
+      "pituusaste": 22.690717,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 495,
+      "nimi": "Näyttis",
+      "leveysaste": 61.690779,
+      "pituusaste": 27.273299,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 496,
+      "nimi": "Observation deck",
+      "leveysaste": 61.028927,
+      "pituusaste": 25.41848,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 497,
+      "nimi": "Olhavanvuori",
+      "leveysaste": 61.18837,
+      "pituusaste": 26.837153,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 498,
+      "nimi": "Onginta",
+      "leveysaste": 60.187661,
+      "pituusaste": 24.940956,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 499,
+      "nimi": "Onnenveto",
+      "leveysaste": 60.187701,
+      "pituusaste": 24.941955,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 500,
+      "nimi": "Onnenveto",
+      "leveysaste": 60.189258,
+      "pituusaste": 24.939982,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 501,
+      "nimi": "Oravais Stenpark",
+      "leveysaste": 63.290422,
+      "pituusaste": 22.368406,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 502,
+      "nimi": "Orijärven Kuparikaivos",
+      "leveysaste": 60.228961,
+      "pituusaste": 23.541217,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 503,
+      "nimi": "Orinoro",
+      "leveysaste": 62.504646,
+      "pituusaste": 28.012732,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 504,
+      "nimi": "Oulu Lines M/S Alexandra",
+      "leveysaste": 65.013767,
+      "pituusaste": 25.462575,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 505,
+      "nimi": "Paarmanninvuoren kivipuisto",
+      "leveysaste": 62.302499,
+      "pituusaste": 21.675567,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 506,
+      "nimi": "Pahojärven piilokirkko",
+      "leveysaste": 60.95791,
+      "pituusaste": 21.551036,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 507,
+      "nimi": "Pakkalan Petäjä",
+      "leveysaste": 61.183955,
+      "pituusaste": 28.174158,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 508,
+      "nimi": "Pallotus",
+      "leveysaste": 60.188213,
+      "pituusaste": 24.942113,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 509,
+      "nimi": "Palosaaren poro- ja kalastustila",
+      "leveysaste": 66.01701,
+      "pituusaste": 29.024849,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 510,
+      "nimi": "Panoraama",
+      "leveysaste": 60.187586,
+      "pituusaste": 24.941099,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 511,
+      "nimi": "Panoraama",
+      "leveysaste": 60.187586,
+      "pituusaste": 24.941102,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 512,
+      "nimi": "Pasilan kivilinna",
+      "leveysaste": 60.208336,
+      "pituusaste": 24.922824,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 513,
+      "nimi": "Pasilan kivilinna",
+      "leveysaste": 60.208357,
+      "pituusaste": 24.922819,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 514,
+      "nimi": "Pegasus",
+      "leveysaste": 63.230109,
+      "pituusaste": 22.85746,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 515,
+      "nimi": "Peikkopolku",
+      "leveysaste": 65.632995,
+      "pituusaste": 27.737587,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 516,
+      "nimi": "Pellen Talo",
+      "leveysaste": 60.188033,
+      "pituusaste": 24.942189,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 517,
+      "nimi": "Pellen Talo",
+      "leveysaste": 60.188045,
+      "pituusaste": 24.942222,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 518,
+      "nimi": "Pellet",
+      "leveysaste": 60.187916,
+      "pituusaste": 24.942408,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 519,
+      "nimi": "Pendulum",
+      "leveysaste": 60.888283,
+      "pituusaste": 26.774672,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 520,
+      "nimi": "Pensaslabyrintti",
+      "leveysaste": 62.245672,
+      "pituusaste": 26.139759,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 521,
+      "nimi": "Pensaslabyrintti",
+      "leveysaste": 62.2457,
+      "pituusaste": 26.139814,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 522,
+      "nimi": "Peppi-karuselli",
+      "leveysaste": 62.245953,
+      "pituusaste": 26.138462,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 523,
+      "nimi": "Peppi-karuselli",
+      "leveysaste": 62.245954,
+      "pituusaste": 26.138467,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 524,
+      "nimi": "Perhe maalaus",
+      "leveysaste": 64.137853,
+      "pituusaste": 28.411322,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 525,
+      "nimi": "Pesäkivet",
+      "leveysaste": 63.89905,
+      "pituusaste": 23.649152,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 526,
+      "nimi": "Pienoiskaruselli",
+      "leveysaste": 60.187918,
+      "pituusaste": 24.93959,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 527,
+      "nimi": "Pienoiskaruselli",
+      "leveysaste": 60.187923,
+      "pituusaste": 24.939581,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 528,
+      "nimi": "Pihlajamäen hiidenkirnut",
+      "leveysaste": 60.238841,
+      "pituusaste": 25.003899,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 529,
+      "nimi": "Pihtsusköngäs",
+      "leveysaste": 69.200351,
+      "pituusaste": 21.278834,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 530,
+      "nimi": "Piiloranta",
+      "leveysaste": 64.882652,
+      "pituusaste": 28.926446,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 531,
+      "nimi": "Piirolan piha",
+      "leveysaste": 62.672883,
+      "pituusaste": 30.934137,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 532,
+      "nimi": "Piispantalo",
+      "leveysaste": 60.398001,
+      "pituusaste": 25.65804,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 533,
+      "nimi": "Pikajuna",
+      "leveysaste": 60.187553,
+      "pituusaste": 24.938413,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 534,
+      "nimi": "Pikku Pietarin torikuja",
+      "leveysaste": 62.892471,
+      "pituusaste": 27.672193,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 535,
+      "nimi": "Pikkupalatsi",
+      "leveysaste": 61.501689,
+      "pituusaste": 23.751504,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 536,
+      "nimi": "Pikkupalatsi",
+      "leveysaste": 61.501737,
+      "pituusaste": 23.75149,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 537,
+      "nimi": "Pilotti",
+      "leveysaste": 60.188635,
+      "pituusaste": 24.943103,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 538,
+      "nimi": "Pilvenpyörä",
+      "leveysaste": 60.885316,
+      "pituusaste": 26.774846,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 539,
+      "nimi": "Pilvenpyörä",
+      "leveysaste": 62.245702,
+      "pituusaste": 26.138624,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 540,
+      "nimi": "Pilvenpyörä",
+      "leveysaste": 62.245703,
+      "pituusaste": 26.138627,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 541,
+      "nimi": "Piovra",
+      "leveysaste": 63.229859,
+      "pituusaste": 22.858327,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 542,
+      "nimi": "Pirate Ship",
+      "leveysaste": 63.22831,
+      "pituusaste": 22.858217,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 543,
+      "nimi": "Pirkanpylväs",
+      "leveysaste": 61.401704,
+      "pituusaste": 23.777517,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 544,
+      "nimi": "Pirun paja",
+      "leveysaste": 60.349665,
+      "pituusaste": 24.73848,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 545,
+      "nimi": "Pirunkallio",
+      "leveysaste": 60.726226,
+      "pituusaste": 24.181348,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 546,
+      "nimi": "Pirunkirkko",
+      "leveysaste": 61.023605,
+      "pituusaste": 24.506533,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 547,
+      "nimi": "Pirunkirkko",
+      "leveysaste": 61.307487,
+      "pituusaste": 26.39945,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 548,
+      "nimi": "Pirunkuru",
+      "leveysaste": 67.351851,
+      "pituusaste": 27.948314,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 549,
+      "nimi": "Pirunpesä",
+      "leveysaste": 61.009075,
+      "pituusaste": 25.536062,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 550,
+      "nimi": "Pirunportaat",
+      "leveysaste": 60.398074,
+      "pituusaste": 25.659479,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 551,
+      "nimi": "Pitkäjärven metsätyökämppä",
+      "leveysaste": 61.934755,
+      "pituusaste": 23.410279,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 552,
+      "nimi": "Pitts Special",
+      "leveysaste": 63.230484,
+      "pituusaste": 22.854852,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 553,
+      "nimi": "Pluto",
+      "leveysaste": 60.167018,
+      "pituusaste": 24.84065,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 554,
+      "nimi": "Poljettavat helikopterit",
+      "leveysaste": 60.808003,
+      "pituusaste": 24.613102,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 555,
+      "nimi": "Pom Pom -pallot",
+      "leveysaste": 60.189199,
+      "pituusaste": 24.939428,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 556,
+      "nimi": "Pomppivat Porkkanat",
+      "leveysaste": 61.506726,
+      "pituusaste": 23.745689,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 557,
+      "nimi": "Pomppulinna",
+      "leveysaste": 61.503088,
+      "pituusaste": 23.739074,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 558,
+      "nimi": "Pomppulinna",
+      "leveysaste": 61.503094,
+      "pituusaste": 23.739106,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 559,
+      "nimi": "Poppis",
+      "leveysaste": 60.187771,
+      "pituusaste": 24.939313,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 560,
+      "nimi": "Porvoon Museorautatie",
+      "leveysaste": 60.397243,
+      "pituusaste": 25.645496,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 561,
+      "nimi": "Possujuna",
+      "leveysaste": 61.506396,
+      "pituusaste": 23.745195,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 562,
+      "nimi": "Pronssikauden talo",
+      "leveysaste": 63.188993,
+      "pituusaste": 22.351085,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 563,
+      "nimi": "Propelli",
+      "leveysaste": 60.187454,
+      "pituusaste": 24.940886,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 564,
+      "nimi": "Puijo",
+      "leveysaste": 62.909499,
+      "pituusaste": 27.656105,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 565,
+      "nimi": "Pump Pump",
+      "leveysaste": 60.884212,
+      "pituusaste": 26.776838,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 566,
+      "nimi": "Pumputin",
+      "leveysaste": 60.188243,
+      "pituusaste": 24.942209,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 567,
+      "nimi": "Puputti",
+      "leveysaste": 60.187672,
+      "pituusaste": 24.939203,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 568,
+      "nimi": "Pursialan hiidenkirnu",
+      "leveysaste": 61.670467,
+      "pituusaste": 27.294597,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 569,
+      "nimi": "Puu-Vallila",
+      "leveysaste": 60.192525,
+      "pituusaste": 24.956723,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 570,
+      "nimi": "Puulehmät",
+      "leveysaste": 64.884296,
+      "pituusaste": 28.92448,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 571,
+      "nimi": "Puuluodon hiihtokeskus",
+      "leveysaste": 65.795215,
+      "pituusaste": 24.203984,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 572,
+      "nimi": "Pyhä Husky Farm",
+      "leveysaste": 66.998534,
+      "pituusaste": 27.365505,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 573,
+      "nimi": "Pyhän Marian sakasti",
+      "leveysaste": 61.260781,
+      "pituusaste": 22.355782,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 574,
+      "nimi": "Pyhän Marian sakasti",
+      "leveysaste": 61.260784,
+      "pituusaste": 22.355792,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 575,
+      "nimi": "Pyterlahden louhos",
+      "leveysaste": 60.570682,
+      "pituusaste": 27.729728,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 576,
+      "nimi": "Pääjärven virkistysalue",
+      "leveysaste": 60.792026,
+      "pituusaste": 24.08378,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 577,
+      "nimi": "Pääkaupunkiseudun väestöllinen keskipiste",
+      "leveysaste": 60.219888,
+      "pituusaste": 24.924657,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 578,
+      "nimi": "Pörriäinen",
+      "leveysaste": 61.506053,
+      "pituusaste": 23.743735,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 579,
+      "nimi": "Pörtsämö erämaakalmisto",
+      "leveysaste": 62.382943,
+      "pituusaste": 30.823483,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 580,
+      "nimi": "Raatihuone",
+      "leveysaste": 61.489536,
+      "pituusaste": 21.793794,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 581,
+      "nimi": "Raatihuone",
+      "leveysaste": 61.489553,
+      "pituusaste": 21.793802,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 582,
+      "nimi": "Raatteenportti",
+      "leveysaste": 64.848287,
+      "pituusaste": 29.326742,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 583,
+      "nimi": "Raatteenportti",
+      "leveysaste": 64.848296,
+      "pituusaste": 29.326722,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 584,
+      "nimi": "Rahapuu",
+      "leveysaste": 62.600057,
+      "pituusaste": 29.583816,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 585,
+      "nimi": "Rahapuu",
+      "leveysaste": 62.600059,
+      "pituusaste": 29.58382,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 586,
+      "nimi": "Rahin kotieläinpiha",
+      "leveysaste": 60.559046,
+      "pituusaste": 21.410347,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 587,
+      "nimi": "Rahin kotieläinpiha",
+      "leveysaste": 60.559107,
+      "pituusaste": 21.409706,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 588,
+      "nimi": "Raikuun salpa-asema",
+      "leveysaste": 62.052381,
+      "pituusaste": 29.445795,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 589,
+      "nimi": "Raketti",
+      "leveysaste": 60.18887,
+      "pituusaste": 24.940507,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 590,
+      "nimi": "Ranta-aitat",
+      "leveysaste": 60.394145,
+      "pituusaste": 25.65757,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 591,
+      "nimi": "Rapion Mylly",
+      "leveysaste": 61.925742,
+      "pituusaste": 28.119167,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 592,
+      "nimi": "Raskas rannikkotykki 152/45C (Canet)",
+      "leveysaste": 60.349615,
+      "pituusaste": 27.452876,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 593,
+      "nimi": "Rauma Flikk",
+      "leveysaste": 61.128907,
+      "pituusaste": 21.508777,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 594,
+      "nimi": "Rauman partiotalo",
+      "leveysaste": 61.124718,
+      "pituusaste": 21.507759,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 595,
+      "nimi": "Rauman patteristo II/KTR5",
+      "leveysaste": 61.128908,
+      "pituusaste": 21.493918,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 596,
+      "nimi": "Real Snacks JetSki",
+      "leveysaste": 63.230316,
+      "pituusaste": 22.855824,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 597,
+      "nimi": "Red Baron",
+      "leveysaste": 63.228116,
+      "pituusaste": 22.860855,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 598,
+      "nimi": "Reindeer",
+      "leveysaste": 69.017636,
+      "pituusaste": 20.881751,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 599,
+      "nimi": "Reindeer Herding",
+      "leveysaste": 69.011825,
+      "pituusaste": 20.881604,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 600,
+      "nimi": "Reindeers @ Villa Vaamila",
+      "leveysaste": 67.50027,
+      "pituusaste": 24.50741,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 601,
+      "nimi": "Rekkaralli",
+      "leveysaste": 60.187557,
+      "pituusaste": 24.938872,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 602,
+      "nimi": "Rekkaralli",
+      "leveysaste": 61.505562,
+      "pituusaste": 23.743311,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 603,
+      "nimi": "Riemupyörä",
+      "leveysaste": 60.188145,
+      "pituusaste": 24.941907,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 604,
+      "nimi": "Riemuralli",
+      "leveysaste": 60.884458,
+      "pituusaste": 26.775569,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 605,
+      "nimi": "Riemuralli",
+      "leveysaste": 60.88446,
+      "pituusaste": 26.775572,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 606,
+      "nimi": "Rinkeli",
+      "leveysaste": 60.187911,
+      "pituusaste": 24.939238,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 607,
+      "nimi": "Rio Grande Train",
+      "leveysaste": 63.228055,
+      "pituusaste": 22.859845,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 608,
+      "nimi": "Risti",
+      "leveysaste": 60.977652,
+      "pituusaste": 21.249118,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 609,
+      "nimi": "Ristikallio",
+      "leveysaste": 66.398573,
+      "pituusaste": 29.119938,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 610,
+      "nimi": "Riuttakoski",
+      "leveysaste": 62.430937,
+      "pituusaste": 24.70738,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 611,
+      "nimi": "Riuttavuori",
+      "leveysaste": 61.976162,
+      "pituusaste": 30.092526,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 612,
+      "nimi": "Roof Walk Finlayson Area",
+      "leveysaste": 61.501151,
+      "pituusaste": 23.761292,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 613,
+      "nimi": "Roomurannan silta",
+      "leveysaste": 64.229428,
+      "pituusaste": 25.764598,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 614,
+      "nimi": "Round Up",
+      "leveysaste": 62.245897,
+      "pituusaste": 26.138628,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 615,
+      "nimi": "Round Up",
+      "leveysaste": 62.245898,
+      "pituusaste": 26.138636,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 616,
+      "nimi": "Rudon Vanha Kivisilta",
+      "leveysaste": 63.004939,
+      "pituusaste": 21.905472,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 617,
+      "nimi": "Ruka Ranch",
+      "leveysaste": 66.0958,
+      "pituusaste": 29.209549,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 618,
+      "nimi": "Rukan mäkiautorata",
+      "leveysaste": 66.165818,
+      "pituusaste": 29.152433,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 619,
+      "nimi": "Rumpukaruselli",
+      "leveysaste": 60.187375,
+      "pituusaste": 24.940574,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 620,
+      "nimi": "Runonlaulajan pirtti",
+      "leveysaste": 62.657708,
+      "pituusaste": 30.939135,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 621,
+      "nimi": "Ruska Laukka",
+      "leveysaste": 66.013402,
+      "pituusaste": 29.000741,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 622,
+      "nimi": "Rutolanränni",
+      "leveysaste": 61.032581,
+      "pituusaste": 28.008409,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 623,
+      "nimi": "Ruuhinevan kammikylä",
+      "leveysaste": 62.294082,
+      "pituusaste": 22.449907,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 624,
+      "nimi": "Ryövärinkuoppa",
+      "leveysaste": 61.872816,
+      "pituusaste": 24.175634,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 625,
+      "nimi": "Rökiö kvarn",
+      "leveysaste": 63.151258,
+      "pituusaste": 22.263696,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 626,
+      "nimi": "Rönnvikin viinitila",
+      "leveysaste": 61.249031,
+      "pituusaste": 24.351977,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 627,
+      "nimi": "Röyttän koulu",
+      "leveysaste": 65.766122,
+      "pituusaste": 24.159961,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 628,
+      "nimi": "Saab Safir ja Valmet Vinka -vitriini",
+      "leveysaste": 63.10047,
+      "pituusaste": 23.05736,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 629,
+      "nimi": "Saarelan veistospuisto",
+      "leveysaste": 64.995433,
+      "pituusaste": 25.570407,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 630,
+      "nimi": "Saarikosken kanava",
+      "leveysaste": 63.594807,
+      "pituusaste": 26.833234,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 631,
+      "nimi": "Sakkolan aitat",
+      "leveysaste": 60.181669,
+      "pituusaste": 24.8866,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 632,
+      "nimi": "Salama",
+      "leveysaste": 60.187236,
+      "pituusaste": 24.939482,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 633,
+      "nimi": "Sallan luontokeskus",
+      "leveysaste": 66.738504,
+      "pituusaste": 28.823599,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 634,
+      "nimi": "Sammalpuutarha",
+      "leveysaste": 60.175084,
+      "pituusaste": 24.946769,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 635,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 62.586164,
+      "pituusaste": 23.622049,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 636,
+      "nimi": "Santa Claus Reindeer",
+      "leveysaste": 66.542849,
+      "pituusaste": 25.846818,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 637,
+      "nimi": "Sarsuinmäen tykkipatteri",
+      "leveysaste": 61.65511,
+      "pituusaste": 28.466481,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 638,
+      "nimi": "Satujuna",
+      "leveysaste": 60.884321,
+      "pituusaste": 26.776029,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 639,
+      "nimi": "Satukoppi",
+      "leveysaste": 60.1878,
+      "pituusaste": 24.938889,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 640,
+      "nimi": "Satukoppi",
+      "leveysaste": 60.187803,
+      "pituusaste": 24.938894,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 641,
+      "nimi": "Saturnus",
+      "leveysaste": 60.214561,
+      "pituusaste": 24.878536,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 642,
+      "nimi": "Satuveneet",
+      "leveysaste": 60.807457,
+      "pituusaste": 24.614318,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 643,
+      "nimi": "Savutuvan Apaja",
+      "leveysaste": 62.223262,
+      "pituusaste": 25.837699,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 644,
+      "nimi": "Scrambler",
+      "leveysaste": 62.245142,
+      "pituusaste": 26.139985,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 645,
+      "nimi": "Seikkailurata",
+      "leveysaste": 60.808685,
+      "pituusaste": 24.612554,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 646,
+      "nimi": "Seilin sairaala",
+      "leveysaste": 60.239661,
+      "pituusaste": 21.962094,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 647,
+      "nimi": "Seinävuoren rotkolaakso",
+      "leveysaste": 62.875971,
+      "pituusaste": 28.468012,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 648,
+      "nimi": "Selkämä",
+      "leveysaste": 60.183584,
+      "pituusaste": 24.883972,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 649,
+      "nimi": "Seutulankoski",
+      "leveysaste": 60.343488,
+      "pituusaste": 24.866142,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 650,
+      "nimi": "Siirtilohkare Linta",
+      "leveysaste": 61.698691,
+      "pituusaste": 25.704771,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 651,
+      "nimi": "Siltakuja",
+      "leveysaste": 60.797367,
+      "pituusaste": 25.693928,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 652,
+      "nimi": "Simolan Vesitorni",
+      "leveysaste": 60.908638,
+      "pituusaste": 28.156081,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 653,
+      "nimi": "Simolinin talo",
+      "leveysaste": 60.394436,
+      "pituusaste": 25.658962,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 654,
+      "nimi": "Simon Museotie",
+      "leveysaste": 65.645147,
+      "pituusaste": 25.016268,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 655,
+      "nimi": "Sissiluola",
+      "leveysaste": 64.126991,
+      "pituusaste": 28.266981,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 656,
+      "nimi": "Sisumetsän Seikkailupuisto",
+      "leveysaste": 60.631566,
+      "pituusaste": 23.754424,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 657,
+      "nimi": "SkyWheel Helsinki",
+      "leveysaste": 60.166696,
+      "pituusaste": 24.959446,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 658,
+      "nimi": "SkyWheel Helsinki",
+      "leveysaste": 60.166761,
+      "pituusaste": 24.959445,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 659,
+      "nimi": "SmartUs-älypuisto",
+      "leveysaste": 61.799111,
+      "pituusaste": 29.290895,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 660,
+      "nimi": "SnowExperience365",
+      "leveysaste": 65.726975,
+      "pituusaste": 24.566931,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 661,
+      "nimi": "SnowExperience365",
+      "leveysaste": 65.727031,
+      "pituusaste": 24.567017,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 662,
+      "nimi": "Soiperoinen",
+      "leveysaste": 65.68196,
+      "pituusaste": 28.247005,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 663,
+      "nimi": "Soivametsä",
+      "leveysaste": 64.844927,
+      "pituusaste": 28.921263,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 664,
+      "nimi": "Solitanderin talo",
+      "leveysaste": 60.394556,
+      "pituusaste": 25.658184,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 665,
+      "nimi": "Sommarön Hiidenkirnu",
+      "leveysaste": 63.166301,
+      "pituusaste": 21.290597,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 666,
+      "nimi": "Spray Park",
+      "leveysaste": 60.888515,
+      "pituusaste": 26.773593,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 667,
+      "nimi": "Star Flyer",
+      "leveysaste": 60.88495,
+      "pituusaste": 26.778072,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 668,
+      "nimi": "Star Flyer",
+      "leveysaste": 60.884951,
+      "pituusaste": 26.778072,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 669,
+      "nimi": "Stockmannin rauniot",
+      "leveysaste": 60.217182,
+      "pituusaste": 24.696919,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 670,
+      "nimi": "Sudenkuoppa",
+      "leveysaste": 60.715854,
+      "pituusaste": 23.802267,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 671,
+      "nimi": "Sudenkuoppa",
+      "leveysaste": 61.220899,
+      "pituusaste": 21.742796,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 672,
+      "nimi": "Suklaapyörä",
+      "leveysaste": 60.188025,
+      "pituusaste": 24.942646,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 673,
+      "nimi": "Sulkavan linnavuori",
+      "leveysaste": 61.752806,
+      "pituusaste": 28.318758,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 674,
+      "nimi": "Suomen Puuvenekeskus",
+      "leveysaste": 60.466856,
+      "pituusaste": 26.934514,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 675,
+      "nimi": "Suomen Puuvenekeskus",
+      "leveysaste": 60.466893,
+      "pituusaste": 26.934573,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 676,
+      "nimi": "Suomen korkein benji",
+      "leveysaste": 60.15314,
+      "pituusaste": 24.931669,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 677,
+      "nimi": "Suomen pisin seinä",
+      "leveysaste": 64.689924,
+      "pituusaste": 24.475326,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 678,
+      "nimi": "Suomen pohjoisin kohta",
+      "leveysaste": 70.091129,
+      "pituusaste": 27.951176,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 679,
+      "nimi": "Suomen väestöllinen keskipiste (2021)",
+      "leveysaste": 61.080147,
+      "pituusaste": 24.660086,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 680,
+      "nimi": "Suomenojan lintuallas",
+      "leveysaste": 60.152757,
+      "pituusaste": 24.718124,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 681,
+      "nimi": "Suomussalmen kotiseutumuseo",
+      "leveysaste": 64.915059,
+      "pituusaste": 28.988949,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 682,
+      "nimi": "Survon kartano",
+      "leveysaste": 62.23021,
+      "pituusaste": 25.771446,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 683,
+      "nimi": "Swingi",
+      "leveysaste": 60.18812,
+      "pituusaste": 24.941155,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 684,
+      "nimi": "Syvyydenkaivo",
+      "leveysaste": 64.572236,
+      "pituusaste": 26.478019,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 685,
+      "nimi": "Sähkölaivat",
+      "leveysaste": 60.808182,
+      "pituusaste": 24.615459,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 686,
+      "nimi": "Sääksjärven vanha VPK",
+      "leveysaste": 61.415938,
+      "pituusaste": 23.759163,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 687,
+      "nimi": "Taavettilan riihi",
+      "leveysaste": 62.235747,
+      "pituusaste": 25.733832,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 688,
+      "nimi": "Taavettilan riihi",
+      "leveysaste": 62.235756,
+      "pituusaste": 25.733811,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 689,
+      "nimi": "Taffel-pyörä",
+      "leveysaste": 60.189263,
+      "pituusaste": 24.939534,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 690,
+      "nimi": "TagaJ",
+      "leveysaste": 63.229789,
+      "pituusaste": 22.856459,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 691,
+      "nimi": "Tahkon Farmi",
+      "leveysaste": 63.296869,
+      "pituusaste": 28.039662,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 692,
+      "nimi": "Taiga",
+      "leveysaste": 60.188329,
+      "pituusaste": 24.939182,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 693,
+      "nimi": "Taikasirkus",
+      "leveysaste": 60.18782,
+      "pituusaste": 24.942267,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 694,
+      "nimi": "Tajukankaan jääputous",
+      "leveysaste": 67.026738,
+      "pituusaste": 27.239344,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 695,
+      "nimi": "Take Off",
+      "leveysaste": 61.506524,
+      "pituusaste": 23.748355,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 696,
+      "nimi": "Take Off",
+      "leveysaste": 61.506527,
+      "pituusaste": 23.748362,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 697,
+      "nimi": "Talli – Vartiosaaren luonto- ja eläintalliyhdistys ry.",
+      "leveysaste": 60.184976,
+      "pituusaste": 25.082849,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 698,
+      "nimi": "Talli – Vartiosaaren luonto- ja eläintalliyhdistys ry.",
+      "leveysaste": 60.184995,
+      "pituusaste": 25.082837,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 699,
+      "nimi": "Tallipiha",
+      "leveysaste": 61.503363,
+      "pituusaste": 23.754546,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 700,
+      "nimi": "Tallitontun Piha",
+      "leveysaste": 66.542902,
+      "pituusaste": 25.852486,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 701,
+      "nimi": "Talotniementie 18, 51200 Kangasniemi",
+      "leveysaste": 61.875248,
+      "pituusaste": 26.769327,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 702,
+      "nimi": "Talvian Hiidenkirnut",
+      "leveysaste": 60.297292,
+      "pituusaste": 23.981348,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 703,
+      "nimi": "Tammen laavu ja Myllypato",
+      "leveysaste": 62.325901,
+      "pituusaste": 21.775181,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 704,
+      "nimi": "Tampereen konepajan veturi nro 2",
+      "leveysaste": 61.503408,
+      "pituusaste": 23.761495,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 705,
+      "nimi": "Tampereen tuomiokirkon urut",
+      "leveysaste": 61.502475,
+      "pituusaste": 23.769568,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 706,
+      "nimi": "Tankar",
+      "leveysaste": 63.950073,
+      "pituusaste": 22.84654,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 707,
+      "nimi": "Tankar",
+      "leveysaste": 63.950073,
+      "pituusaste": 22.846553,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 708,
+      "nimi": "Tapion alttari",
+      "leveysaste": 62.1015,
+      "pituusaste": 25.748033,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 709,
+      "nimi": "Tarina-aho",
+      "leveysaste": 63.106229,
+      "pituusaste": 29.943679,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 710,
+      "nimi": "Tassu-Teatteri",
+      "leveysaste": 61.503557,
+      "pituusaste": 23.739744,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 711,
+      "nimi": "Telakanava",
+      "leveysaste": 61.654545,
+      "pituusaste": 28.603126,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 712,
+      "nimi": "Temppeli",
+      "leveysaste": 60.154952,
+      "pituusaste": 23.842239,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 713,
+      "nimi": "Tervahauta",
+      "leveysaste": 61.20984,
+      "pituusaste": 21.399221,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 714,
+      "nimi": "Tervahauta",
+      "leveysaste": 61.445549,
+      "pituusaste": 27.542757,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 715,
+      "nimi": "Thunder tunnel",
+      "leveysaste": 60.888069,
+      "pituusaste": 26.774497,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 716,
+      "nimi": "Thunder tunnel",
+      "leveysaste": 60.888106,
+      "pituusaste": 26.774588,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 717,
+      "nimi": "Thunder tunnel",
+      "leveysaste": 60.888119,
+      "pituusaste": 26.77454,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 718,
+      "nimi": "Thunderbird",
+      "leveysaste": 63.230342,
+      "pituusaste": 22.858243,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 719,
+      "nimi": "Tiedepuisto",
+      "leveysaste": 62.598076,
+      "pituusaste": 29.743348,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 720,
+      "nimi": "Tiilikanautio",
+      "leveysaste": 63.657291,
+      "pituusaste": 28.30951,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 721,
+      "nimi": "Time Machine",
+      "leveysaste": 63.228243,
+      "pituusaste": 22.859868,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 722,
+      "nimi": "Toivalan taistelun 1808 muistomerkki",
+      "leveysaste": 62.973932,
+      "pituusaste": 27.701659,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 723,
+      "nimi": "Toivolan lottakioski",
+      "leveysaste": 62.738631,
+      "pituusaste": 29.831533,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 724,
+      "nimi": "Toivolan lottakioski",
+      "leveysaste": 62.73864,
+      "pituusaste": 29.831545,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 725,
+      "nimi": "Torassieppi Reindeer Farm",
+      "leveysaste": 67.956244,
+      "pituusaste": 23.922775,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 726,
+      "nimi": "Tornado",
+      "leveysaste": 61.505113,
+      "pituusaste": 23.745851,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 727,
+      "nimi": "Torni",
+      "leveysaste": 60.885275,
+      "pituusaste": 26.775859,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 728,
+      "nimi": "Troika",
+      "leveysaste": 61.506225,
+      "pituusaste": 23.747869,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 729,
+      "nimi": "Troika",
+      "leveysaste": 61.506227,
+      "pituusaste": 23.74787,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 730,
+      "nimi": "Trollberget",
+      "leveysaste": 63.146144,
+      "pituusaste": 22.211379,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 731,
+      "nimi": "Trollberget",
+      "leveysaste": 63.14617,
+      "pituusaste": 22.211402,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 732,
+      "nimi": "Trombi",
+      "leveysaste": 60.885485,
+      "pituusaste": 26.775929,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 733,
+      "nimi": "Trombi",
+      "leveysaste": 60.885488,
+      "pituusaste": 26.775926,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 734,
+      "nimi": "Tsasouna",
+      "leveysaste": 61.215622,
+      "pituusaste": 28.286343,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 735,
+      "nimi": "Tsasouna",
+      "leveysaste": 61.216314,
+      "pituusaste": 28.284307,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 736,
+      "nimi": "Tsasouna",
+      "leveysaste": 61.21632,
+      "pituusaste": 28.284301,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 737,
+      "nimi": "Tsasouna",
+      "leveysaste": 61.217,
+      "pituusaste": 28.283298,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 738,
+      "nimi": "Tukkijoki",
+      "leveysaste": 61.505885,
+      "pituusaste": 23.744052,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 739,
+      "nimi": "Tulireki",
+      "leveysaste": 60.187757,
+      "pituusaste": 24.938419,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 740,
+      "nimi": "Tundra Huskies Sokkaporantie 1 99140 Köngäs Tel. +358(0) 500 878 474",
+      "leveysaste": 67.868316,
+      "pituusaste": 24.863105,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 741,
+      "nimi": "Tuomiokirkon krypta",
+      "leveysaste": 60.170682,
+      "pituusaste": 24.952114,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 742,
+      "nimi": "Tuulimyllypumppu suoraan preerialta",
+      "leveysaste": 62.2546,
+      "pituusaste": 24.707835,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 743,
+      "nimi": "Tuulistranden",
+      "leveysaste": 60.217703,
+      "pituusaste": 25.613392,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 744,
+      "nimi": "Tykit",
+      "leveysaste": 61.006395,
+      "pituusaste": 24.456671,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 745,
+      "nimi": "Tykki",
+      "leveysaste": 60.384174,
+      "pituusaste": 23.128135,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 746,
+      "nimi": "Tykki",
+      "leveysaste": 60.384382,
+      "pituusaste": 23.127747,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 747,
+      "nimi": "Typhoon 360",
+      "leveysaste": 63.22925,
+      "pituusaste": 22.858,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 748,
+      "nimi": "Tyrsky",
+      "leveysaste": 61.506169,
+      "pituusaste": 23.749197,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 749,
+      "nimi": "Tähtipallot",
+      "leveysaste": 60.187968,
+      "pituusaste": 24.942503,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 750,
+      "nimi": "Töllinmäki",
+      "leveysaste": 61.597464,
+      "pituusaste": 23.193809,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 751,
+      "nimi": "Törmäilyautorata",
+      "leveysaste": 62.245843,
+      "pituusaste": 26.139111,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 752,
+      "nimi": "Törmälän Loma- ja Kurssikeskus",
+      "leveysaste": 62.601793,
+      "pituusaste": 26.720273,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 753,
+      "nimi": "Törmälän Loma- ja Kurssikeskus",
+      "leveysaste": 62.601903,
+      "pituusaste": 26.720176,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 754,
+      "nimi": "Töysän sankarihautausmaa",
+      "leveysaste": 62.633965,
+      "pituusaste": 23.817683,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 755,
+      "nimi": "Töysän sankarihautausmaa",
+      "leveysaste": 62.633972,
+      "pituusaste": 23.817654,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 756,
+      "nimi": "Uhriharju",
+      "leveysaste": 67.021476,
+      "pituusaste": 27.185932,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 757,
+      "nimi": "Uhrilampi",
+      "leveysaste": 67.020848,
+      "pituusaste": 27.194201,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 758,
+      "nimi": "Uima-allas",
+      "leveysaste": 60.88831,
+      "pituusaste": 26.774159,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 759,
+      "nimi": "Ukinnummen hiidenkirnu",
+      "leveysaste": 60.305648,
+      "pituusaste": 24.339968,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 760,
+      "nimi": "Ukko",
+      "leveysaste": 60.189136,
+      "pituusaste": 24.94074,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 761,
+      "nimi": "Uotilan Hiidenkirnu",
+      "leveysaste": 61.138639,
+      "pituusaste": 21.574885,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 762,
+      "nimi": "Uranus",
+      "leveysaste": 60.200871,
+      "pituusaste": 24.824303,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 763,
+      "nimi": "Usvatanssin Kennel",
+      "leveysaste": 66.8992,
+      "pituusaste": 26.198655,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 764,
+      "nimi": "Utajärven kivipuisto",
+      "leveysaste": 64.762608,
+      "pituusaste": 26.411533,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 765,
+      "nimi": "Vaellustalli Wanha Raatesalmi",
+      "leveysaste": 65.934269,
+      "pituusaste": 29.312815,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 766,
+      "nimi": "Valasveneet",
+      "leveysaste": 60.88433,
+      "pituusaste": 26.775181,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 767,
+      "nimi": "Valasveneet",
+      "leveysaste": 60.884331,
+      "pituusaste": 26.775181,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 768,
+      "nimi": "Vanha Helsingin tori ja raatihuone",
+      "leveysaste": 60.214635,
+      "pituusaste": 24.97898,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 769,
+      "nimi": "Vanha Kaivos",
+      "leveysaste": 62.730694,
+      "pituusaste": 29.004789,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 770,
+      "nimi": "Vanha kirkkoherran talo",
+      "leveysaste": 61.212555,
+      "pituusaste": 23.764632,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 771,
+      "nimi": "Vanha mylly",
+      "leveysaste": 61.051983,
+      "pituusaste": 26.367761,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 772,
+      "nimi": "Vanhaintavarainliike",
+      "leveysaste": 62.704369,
+      "pituusaste": 25.26908,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 773,
+      "nimi": "Vankkuripyörä",
+      "leveysaste": 60.188081,
+      "pituusaste": 24.939932,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 774,
+      "nimi": "Varikonniemen Tsaarinpoppelit",
+      "leveysaste": 61.003135,
+      "pituusaste": 24.467966,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 775,
+      "nimi": "Varvintori",
+      "leveysaste": 60.438998,
+      "pituusaste": 22.241081,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 776,
+      "nimi": "Varvintori",
+      "leveysaste": 60.439008,
+      "pituusaste": 22.241123,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 777,
+      "nimi": "Vauhtikoneet",
+      "leveysaste": 65.027928,
+      "pituusaste": 25.420342,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 778,
+      "nimi": "Vauhtikoneet",
+      "leveysaste": 65.02793,
+      "pituusaste": 25.420329,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 779,
+      "nimi": "Vauhtikopterit",
+      "leveysaste": 65.02785,
+      "pituusaste": 25.420597,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 780,
+      "nimi": "Vauhtikopterit",
+      "leveysaste": 65.027852,
+      "pituusaste": 25.420584,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 781,
+      "nimi": "Vauhtimato",
+      "leveysaste": 61.506401,
+      "pituusaste": 23.74608,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 782,
+      "nimi": "Vauhtivirveli",
+      "leveysaste": 62.245154,
+      "pituusaste": 26.139745,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 783,
+      "nimi": "Vauhtivirveli",
+      "leveysaste": 62.245158,
+      "pituusaste": 26.139759,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 784,
+      "nimi": "Veneitä",
+      "leveysaste": 60.807069,
+      "pituusaste": 24.613598,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 785,
+      "nimi": "Venesatama",
+      "leveysaste": 62.257605,
+      "pituusaste": 24.71187,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 786,
+      "nimi": "Venus",
+      "leveysaste": 60.22035,
+      "pituusaste": 24.85719,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 787,
+      "nimi": "Vesijärven satama",
+      "leveysaste": 60.994464,
+      "pituusaste": 25.65001,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 788,
+      "nimi": "Vesikosken vanhanpuolen mylly",
+      "leveysaste": 60.859254,
+      "pituusaste": 23.028669,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 789,
+      "nimi": "Vesileikki",
+      "leveysaste": 60.187668,
+      "pituusaste": 24.94118,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 790,
+      "nimi": "Vesiliukumäet",
+      "leveysaste": 60.806251,
+      "pituusaste": 24.609263,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 791,
+      "nimi": "Vesiliukumäki",
+      "leveysaste": 61.799678,
+      "pituusaste": 29.290129,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 792,
+      "nimi": "Vesiliukurata",
+      "leveysaste": 60.885434,
+      "pituusaste": 26.77463,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 793,
+      "nimi": "Vesiliukurata",
+      "leveysaste": 60.885444,
+      "pituusaste": 26.77464,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 794,
+      "nimi": "Victorian putoukset",
+      "leveysaste": 60.807142,
+      "pituusaste": 24.613004,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 795,
+      "nimi": "Viikinkilaiva",
+      "leveysaste": 60.187028,
+      "pituusaste": 24.93937,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 796,
+      "nimi": "Viikinkilaiva",
+      "leveysaste": 61.50606,
+      "pituusaste": 23.743332,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 797,
+      "nimi": "Viikinkilaiva",
+      "leveysaste": 61.506066,
+      "pituusaste": 23.74336,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 798,
+      "nimi": "Villisikatarha",
+      "leveysaste": 61.292066,
+      "pituusaste": 26.779977,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 799,
+      "nimi": "Virtain Perinnekylä",
+      "leveysaste": 62.263493,
+      "pituusaste": 23.725132,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 800,
+      "nimi": "Vitriini Pyry-, Viima- ja Focke-Wulf Fw 44J Stieglitz (SZ-25) -lentokoneille",
+      "leveysaste": 63.101915,
+      "pituusaste": 23.057956,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 801,
+      "nimi": "Vitriini Pyry-, Viima- ja Focke-Wulf Fw 44J Stieglitz (SZ-25) -lentokoneille",
+      "leveysaste": 63.10196,
+      "pituusaste": 23.057999,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 802,
+      "nimi": "Vuoristorata",
+      "leveysaste": 60.188632,
+      "pituusaste": 24.941667,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 803,
+      "nimi": "Vuoristorata",
+      "leveysaste": 60.188633,
+      "pituusaste": 24.941666,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 804,
+      "nimi": "Vähänkyrön Kirkon Vaivaisukko",
+      "leveysaste": 63.056869,
+      "pituusaste": 22.105872,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 805,
+      "nimi": "Väärinpäintalo",
+      "leveysaste": 60.884275,
+      "pituusaste": 26.776517,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 806,
+      "nimi": "Väärinpäintalo",
+      "leveysaste": 60.884284,
+      "pituusaste": 26.776534,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 807,
+      "nimi": "Vörå rullskidbana",
+      "leveysaste": 63.135437,
+      "pituusaste": 22.26229,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 808,
+      "nimi": "Water Play",
+      "leveysaste": 60.888626,
+      "pituusaste": 26.774192,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 809,
+      "nimi": "Wild Brown Bear",
+      "leveysaste": 64.5069,
+      "pituusaste": 29.973005,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 810,
+      "nimi": "Wild Frontier Finland",
+      "leveysaste": 64.133812,
+      "pituusaste": 30.43389,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 811,
+      "nimi": "X",
+      "leveysaste": 61.506432,
+      "pituusaste": 23.747502,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 812,
+      "nimi": "Yliopistonkatu",
+      "leveysaste": 60.450965,
+      "pituusaste": 22.262815,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 813,
+      "nimi": "Yliopistonkatu",
+      "leveysaste": 60.451746,
+      "pituusaste": 22.265102,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 814,
+      "nimi": "Yrityspuisto Futuria",
+      "leveysaste": 62.62558,
+      "pituusaste": 27.136827,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 815,
+      "nimi": "beaver's lodge",
+      "leveysaste": 62.884231,
+      "pituusaste": 28.561174,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 816,
+      "nimi": "beaver's lodge",
+      "leveysaste": 62.884237,
+      "pituusaste": 28.561189,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 817,
+      "nimi": "levi",
+      "leveysaste": 67.908833,
+      "pituusaste": 24.581647,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 818,
+      "nimi": "uhrilehto",
+      "leveysaste": 59.963506,
+      "pituusaste": 23.585012,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 819,
+      "nimi": "vanha silta",
+      "leveysaste": 62.66767,
+      "pituusaste": 26.579419,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 820,
+      "nimi": "Ämpääntie (nykyinen Karkeikontie Ämpäähän)",
+      "leveysaste": 61.328533,
+      "pituusaste": 29.29497,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 821,
+      "nimi": "Äyhkyrin talonpoikaistila",
+      "leveysaste": 63.353206,
+      "pituusaste": 28.965386,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 822,
+      "nimi": "Åströmin kartano",
+      "leveysaste": 65.846724,
+      "pituusaste": 24.140402,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    },
+    {
+      "id": 823,
+      "nimi": "Öjbergetin Hiidenkirnu",
+      "leveysaste": 63.035268,
+      "pituusaste": 21.578211,
+      "osm_avain": "tourism",
+      "osm_arvo": "attraction",
+      "osm_luokka": "tourism=attraction"
+    }
+  ],
+  "meta": {
+    "title": "Nähtävyydet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Nähtävyydet Suomessa — 823 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=attraction`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 42. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 823 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Nähtävyydet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Nähtävyydet – Suomi (OpenStreetMap) — 823 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 823 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

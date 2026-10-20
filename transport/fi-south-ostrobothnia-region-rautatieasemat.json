@@ -1,0 +1,338 @@
+{
+  "id": "fi-south-ostrobothnia-region-rautatieasemat",
+  "name": "Rautatieasemat — South Ostrobothnia Region",
+  "title": "Rautatieasemat — South Ostrobothnia Region",
+  "description": "Rautatieasemat ja seisakkeet South Ostrobothnia Regionn maakunnassa, Suomessa (9 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28728,
+      "name": "Alavus",
+      "slug": "alavus",
+      "uic": "1000284",
+      "latitude": 62.61879,
+      "longitude": 23.60032,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Alavus As",
+      "etaisyys_km": 0.566,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Alavo",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28731,
+      "name": "Eläinpuisto-Zoo",
+      "slug": "elainpuisto-zoo",
+      "uic": "1000623",
+      "latitude": 62.54196,
+      "longitude": 24.190521,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Inha",
+      "etaisyys_km": 3.836,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28775,
+      "name": "Kauhava",
+      "slug": "kauhava",
+      "uic": "1000299",
+      "latitude": 63.100855,
+      "longitude": 23.034937,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Kauhava",
+      "etaisyys_km": 0.447,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28817,
+      "name": "Lapua",
+      "slug": "lapua",
+      "uic": "1000298",
+      "latitude": 62.972497,
+      "longitude": 23.014756,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Lapua",
+      "etaisyys_km": 0.466,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Lappo",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28839,
+      "name": "Myllymäki",
+      "slug": "myllymaki",
+      "uic": "1000263",
+      "latitude": 62.525727,
+      "longitude": 24.281149,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Myllymäki",
+      "etaisyys_km": 3.386,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28890,
+      "name": "Seinäjoki asema",
+      "slug": "seinajoki-asema",
+      "uic": "1000280",
+      "latitude": 62.793109,
+      "longitude": 22.843768,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Seinäjoki",
+      "etaisyys_km": 0.865,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Östermyra",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 7,
+      "station_id": 28911,
+      "name": "Tuuri",
+      "slug": "tuuri",
+      "uic": "1000283",
+      "latitude": 62.606363,
+      "longitude": 23.72227,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Tuuri",
+      "etaisyys_km": 2.883,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 8,
+      "station_id": 28930,
+      "name": "Ylistaro",
+      "slug": "ylistaro",
+      "uic": "1000296",
+      "latitude": 62.918942,
+      "longitude": 22.532161,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Ylistaro As",
+      "etaisyys_km": 2.273,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 9,
+      "station_id": 28726,
+      "name": "Ähtäri",
+      "slug": "ahtari",
+      "uic": "1000265",
+      "latitude": 62.554255,
+      "longitude": 24.064133,
+      "maakunta": "South Ostrobothnia Region",
+      "maakunta_slug": "south-ostrobothnia-region",
+      "maakunta_code": "14",
+      "lahin_postitoimipaikka": "Ähtäri",
+      "etaisyys_km": 0.562,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Etseri",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — South Ostrobothnia Region - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet South Ostrobothnia Regionn maakunnassa, Suomessa (9 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 9 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — South Ostrobothnia Region | ListBase",
+    "seo_description": "Lataa Rautatieasemat — South Ostrobothnia Region — 9 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 9 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

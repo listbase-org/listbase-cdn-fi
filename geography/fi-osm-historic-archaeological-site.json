@@ -1,0 +1,5389 @@
+{
+  "id": "fi-osm-historic-archaeological-site",
+  "name": "Muinaisjäännökset – Suomi (OpenStreetMap)",
+  "title": "Muinaisjäännökset – Suomi (OpenStreetMap)",
+  "description": "Muinaisjäännökset Suomessa — 592 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=archaeological_site`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 7. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 592,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Akmeelin hauta",
+      "leveysaste": 68.107482,
+      "pituusaste": 27.4894,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 2,
+      "nimi": "Alilamppula",
+      "leveysaste": 60.50157,
+      "pituusaste": 22.481861,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 3,
+      "nimi": "Anttilan kuppikivi",
+      "leveysaste": 61.193321,
+      "pituusaste": 24.471453,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 4,
+      "nimi": "Anttilan uhrikivi",
+      "leveysaste": 61.193321,
+      "pituusaste": 24.471453,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 5,
+      "nimi": "Arasalon linnavuori",
+      "leveysaste": 61.770432,
+      "pituusaste": 23.191893,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 6,
+      "nimi": "Astuvansalmen kalliomaalaukset",
+      "leveysaste": 61.444154,
+      "pituusaste": 27.543933,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 7,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.348595,
+      "pituusaste": 25.970913,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 8,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.348882,
+      "pituusaste": 25.973479,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 9,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.349012,
+      "pituusaste": 25.97598,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 10,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.353488,
+      "pituusaste": 25.95203,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 11,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.354162,
+      "pituusaste": 25.945271,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 12,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.354214,
+      "pituusaste": 25.94997,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 13,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.357489,
+      "pituusaste": 25.950489,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 14,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.35984,
+      "pituusaste": 25.948715,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 15,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.359847,
+      "pituusaste": 25.942469,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 16,
+      "nimi": "Asuinpainanteita",
+      "leveysaste": 65.360316,
+      "pituusaste": 25.936422,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 17,
+      "nimi": "Aunelan uhrikivi",
+      "leveysaste": 60.997175,
+      "pituusaste": 24.508312,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 18,
+      "nimi": "Bastvik Kasberget",
+      "leveysaste": 60.164969,
+      "pituusaste": 24.617389,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 19,
+      "nimi": "Berghem",
+      "leveysaste": 60.180418,
+      "pituusaste": 24.226507,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 20,
+      "nimi": "Björkens/Söderskog",
+      "leveysaste": 60.219796,
+      "pituusaste": 19.983208,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 21,
+      "nimi": "Bomarsunds fästning",
+      "leveysaste": 60.212233,
+      "pituusaste": 20.237861,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 22,
+      "nimi": "Bomarsunds fästning",
+      "leveysaste": 60.212268,
+      "pituusaste": 20.237891,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 23,
+      "nimi": "Brobacka grav från järnåldern",
+      "leveysaste": 60.044933,
+      "pituusaste": 23.63993,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 24,
+      "nimi": "Brobacka grav från järnåldern",
+      "leveysaste": 60.045102,
+      "pituusaste": 23.640072,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 25,
+      "nimi": "Brännklintstornet",
+      "leveysaste": 60.215815,
+      "pituusaste": 20.222722,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 26,
+      "nimi": "Dalsvikin kalkkikivilouhos",
+      "leveysaste": 60.251087,
+      "pituusaste": 24.762296,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 27,
+      "nimi": "Dalsvikin kalkkikivilouhos",
+      "leveysaste": 60.251136,
+      "pituusaste": 24.762383,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 28,
+      "nimi": "Det Nya Sjukhuset",
+      "leveysaste": 60.211301,
+      "pituusaste": 20.223232,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 29,
+      "nimi": "Esihistoriallinen asuinpaikka",
+      "leveysaste": 61.008017,
+      "pituusaste": 26.410367,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 30,
+      "nimi": "Esihistoriallinen asuinpaikka",
+      "leveysaste": 70.071809,
+      "pituusaste": 27.705049,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 31,
+      "nimi": "Esihistoriallinen asuinpaikka",
+      "leveysaste": 70.072013,
+      "pituusaste": 27.707628,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 32,
+      "nimi": "Esihistoriallinen asuinpaikka",
+      "leveysaste": 70.073528,
+      "pituusaste": 27.625211,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 33,
+      "nimi": "Esihistoriallinen asuinpaikka, Kalmosärkkä",
+      "leveysaste": 65.209071,
+      "pituusaste": 29.445184,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 34,
+      "nimi": "Esihistoriallisen ajan muinaisjäänne",
+      "leveysaste": 60.291272,
+      "pituusaste": 24.853166,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 35,
+      "nimi": "Esihistoriallisen ajan muinaisjäänne",
+      "leveysaste": 60.291307,
+      "pituusaste": 24.857941,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 36,
+      "nimi": "Finbyn jatulintarha",
+      "leveysaste": 60.200885,
+      "pituusaste": 21.880137,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 37,
+      "nimi": "Flaggberget",
+      "leveysaste": 60.182582,
+      "pituusaste": 24.230588,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 38,
+      "nimi": "Flyhagen/Knösäkern",
+      "leveysaste": 60.230329,
+      "pituusaste": 19.993387,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 39,
+      "nimi": "Gammelgårdin miekanhiontakivi",
+      "leveysaste": 61.099144,
+      "pituusaste": 24.991219,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 40,
+      "nimi": "Getberg",
+      "leveysaste": 60.101248,
+      "pituusaste": 24.368974,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 41,
+      "nimi": "Granrothinpetäjä",
+      "leveysaste": 66.437095,
+      "pituusaste": 29.166031,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 42,
+      "nimi": "Hakastaron linna",
+      "leveysaste": 60.366175,
+      "pituusaste": 23.140629,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 43,
+      "nimi": "Halilan kuppikallio",
+      "leveysaste": 61.080424,
+      "pituusaste": 25.057154,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 44,
+      "nimi": "Hallinkorvan puistikko",
+      "leveysaste": 60.462583,
+      "pituusaste": 22.303237,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 45,
+      "nimi": "Hallinkorvan puistikko",
+      "leveysaste": 60.462616,
+      "pituusaste": 22.303257,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 46,
+      "nimi": "Hautapaikat",
+      "leveysaste": 65.949491,
+      "pituusaste": 29.616006,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 47,
+      "nimi": "Hautapelto N",
+      "leveysaste": 60.686775,
+      "pituusaste": 24.793698,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 48,
+      "nimi": "Hautaraunio",
+      "leveysaste": 60.836541,
+      "pituusaste": 25.984092,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 49,
+      "nimi": "Hautaröykkiö",
+      "leveysaste": 61.059376,
+      "pituusaste": 21.589787,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 50,
+      "nimi": "Hautaröykkiöitä",
+      "leveysaste": 61.486454,
+      "pituusaste": 25.663753,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 51,
+      "nimi": "Hautasaari",
+      "leveysaste": 64.206656,
+      "pituusaste": 29.064202,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 52,
+      "nimi": "Hennerin rautakautinen kalmisto",
+      "leveysaste": 61.316227,
+      "pituusaste": 23.739694,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 53,
+      "nimi": "Hiidenkiuas",
+      "leveysaste": 61.117684,
+      "pituusaste": 21.775027,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 54,
+      "nimi": "Hiilenmäen uhrikivi",
+      "leveysaste": 60.973844,
+      "pituusaste": 24.4632,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 55,
+      "nimi": "Hiilimiiluja",
+      "leveysaste": 60.622195,
+      "pituusaste": 27.115444,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 56,
+      "nimi": "Hirsilava",
+      "leveysaste": 64.932278,
+      "pituusaste": 26.05855,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 57,
+      "nimi": "Hirvikallion uhrikivi",
+      "leveysaste": 61.208467,
+      "pituusaste": 24.041412,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 58,
+      "nimi": "Hiskianluola",
+      "leveysaste": 61.697619,
+      "pituusaste": 25.701331,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 59,
+      "nimi": "Hist. linnake",
+      "leveysaste": 60.563244,
+      "pituusaste": 27.177679,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 60,
+      "nimi": "Historiallinen leiripaikka",
+      "leveysaste": 60.632275,
+      "pituusaste": 27.232797,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 61,
+      "nimi": "Historiallinen rajamerkki",
+      "leveysaste": 61.079824,
+      "pituusaste": 28.375832,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 62,
+      "nimi": "Historiallinen rajamerkki",
+      "leveysaste": 61.37667,
+      "pituusaste": 29.265507,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 63,
+      "nimi": "Historiallinen tykkiasema",
+      "leveysaste": 60.615012,
+      "pituusaste": 26.645639,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 64,
+      "nimi": "Historiallinen tykkiasema",
+      "leveysaste": 60.615073,
+      "pituusaste": 26.650236,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 65,
+      "nimi": "Hossan Värikalliot",
+      "leveysaste": 65.514322,
+      "pituusaste": 29.302589,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 66,
+      "nimi": "Hovinkartanon kuppikivi",
+      "leveysaste": 61.169509,
+      "pituusaste": 24.668037,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 67,
+      "nimi": "Huhkonkallio",
+      "leveysaste": 60.473753,
+      "pituusaste": 22.19499,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 68,
+      "nimi": "Humallahden pronssikautinen hauta",
+      "leveysaste": 60.187246,
+      "pituusaste": 24.904147,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 69,
+      "nimi": "Hundbacka stenåldersboplats",
+      "leveysaste": 63.361845,
+      "pituusaste": 23.118185,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 70,
+      "nimi": "Huonpohjanvuoren kalliomaalaukset",
+      "leveysaste": 61.22175,
+      "pituusaste": 25.775689,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 71,
+      "nimi": "Hyllin Röykkiöt",
+      "leveysaste": 61.356754,
+      "pituusaste": 24.266841,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 72,
+      "nimi": "Hyllin Röykkiöt",
+      "leveysaste": 61.357277,
+      "pituusaste": 24.267903,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 73,
+      "nimi": "Hyllin Röykkiöt",
+      "leveysaste": 61.358571,
+      "pituusaste": 24.27103,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 74,
+      "nimi": "Hyrköinen",
+      "leveysaste": 60.457508,
+      "pituusaste": 22.164277,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 75,
+      "nimi": "Hyrtiönmäen juoksuhaudat",
+      "leveysaste": 60.428725,
+      "pituusaste": 24.218859,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 76,
+      "nimi": "Hääkivi rautakautinen asuinpaikka",
+      "leveysaste": 61.321695,
+      "pituusaste": 23.765411,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 77,
+      "nimi": "Hääkivi rautakautinen polttokenttäkalmisto",
+      "leveysaste": 61.321501,
+      "pituusaste": 23.768682,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 78,
+      "nimi": "Hömansberget",
+      "leveysaste": 60.170596,
+      "pituusaste": 24.179095,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 79,
+      "nimi": "Ievasvuoren kalliomaalaus",
+      "leveysaste": 60.977827,
+      "pituusaste": 27.367903,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 80,
+      "nimi": "Iso Linnamäki",
+      "leveysaste": 60.399708,
+      "pituusaste": 25.652262,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 81,
+      "nimi": "Iso-Kummala 1",
+      "leveysaste": 60.490921,
+      "pituusaste": 22.179392,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 82,
+      "nimi": "Iso-Kummala 2",
+      "leveysaste": 60.492338,
+      "pituusaste": 22.179869,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 83,
+      "nimi": "Isotalo",
+      "leveysaste": 60.627359,
+      "pituusaste": 22.146207,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 84,
+      "nimi": "Jaalan Redutti",
+      "leveysaste": 61.049788,
+      "pituusaste": 26.494757,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 85,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.120483,
+      "pituusaste": 21.871899,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 86,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.684334,
+      "pituusaste": 27.478199,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 87,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.70524,
+      "pituusaste": 27.79056,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 88,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.726331,
+      "pituusaste": 27.535873,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 89,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.729367,
+      "pituusaste": 27.570314,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 90,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.744858,
+      "pituusaste": 27.51749,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 91,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.744996,
+      "pituusaste": 27.559042,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 92,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.757795,
+      "pituusaste": 27.474889,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 93,
+      "nimi": "Jatulintarha",
+      "leveysaste": 60.959184,
+      "pituusaste": 26.638639,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 94,
+      "nimi": "Jatulintarha",
+      "leveysaste": 61.048205,
+      "pituusaste": 27.474061,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 95,
+      "nimi": "Jatulintarha",
+      "leveysaste": 63.122212,
+      "pituusaste": 20.734695,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 96,
+      "nimi": "Jatulintarha",
+      "leveysaste": 65.169212,
+      "pituusaste": 25.233621,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 97,
+      "nimi": "Jatulintarha",
+      "leveysaste": 65.169218,
+      "pituusaste": 25.233634,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 98,
+      "nimi": "Jatulintarhoja",
+      "leveysaste": 65.380197,
+      "pituusaste": 24.817607,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 99,
+      "nimi": "Johannisberg",
+      "leveysaste": 60.274981,
+      "pituusaste": 20.055054,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 100,
+      "nimi": "Jokiranta",
+      "leveysaste": 61.896187,
+      "pituusaste": 24.102692,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 101,
+      "nimi": "Jokkinen",
+      "leveysaste": 60.500559,
+      "pituusaste": 22.190953,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 102,
+      "nimi": "Jungfrudans",
+      "leveysaste": 63.440583,
+      "pituusaste": 21.067694,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 103,
+      "nimi": "Junkarsborgin linnanrauniot",
+      "leveysaste": 60.153007,
+      "pituusaste": 23.785684,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 104,
+      "nimi": "Junnila1 uhrikivi",
+      "leveysaste": 61.135933,
+      "pituusaste": 24.609749,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 105,
+      "nimi": "Junnilan uhrikivi",
+      "leveysaste": 61.135597,
+      "pituusaste": 24.608677,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 106,
+      "nimi": "Juokseva hirvi",
+      "leveysaste": 61.123933,
+      "pituusaste": 26.189204,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 107,
+      "nimi": "Juoksuhauta",
+      "leveysaste": 61.082116,
+      "pituusaste": 28.363139,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 108,
+      "nimi": "Juoksuhauta",
+      "leveysaste": 61.082603,
+      "pituusaste": 28.363991,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 109,
+      "nimi": "Juoksuhauta",
+      "leveysaste": 61.085861,
+      "pituusaste": 28.365693,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 110,
+      "nimi": "Juoksuhauta",
+      "leveysaste": 61.089363,
+      "pituusaste": 28.363897,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 111,
+      "nimi": "Juoksuhauta",
+      "leveysaste": 61.089901,
+      "pituusaste": 28.36324,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 112,
+      "nimi": "Jäkärlän kivikautinen asuinpaikka",
+      "leveysaste": 60.528844,
+      "pituusaste": 22.358347,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 113,
+      "nimi": "Jäniskallion kalliomaalaus",
+      "leveysaste": 60.262154,
+      "pituusaste": 24.588559,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 114,
+      "nimi": "Jätinkirkko",
+      "leveysaste": 64.928905,
+      "pituusaste": 26.128126,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 115,
+      "nimi": "Jätinlinna",
+      "leveysaste": 65.056788,
+      "pituusaste": 25.76598,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 116,
+      "nimi": "Kaitans Själörberget",
+      "leveysaste": 60.145591,
+      "pituusaste": 24.709814,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 117,
+      "nimi": "Kaitans Själörberget",
+      "leveysaste": 60.145783,
+      "pituusaste": 24.710327,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 118,
+      "nimi": "Kalkkikaivos",
+      "leveysaste": 60.290678,
+      "pituusaste": 24.853732,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 119,
+      "nimi": "Kallastenvuori",
+      "leveysaste": 60.498598,
+      "pituusaste": 22.108019,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 120,
+      "nimi": "Kalliomaalauksia",
+      "leveysaste": 60.931412,
+      "pituusaste": 26.858565,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 121,
+      "nimi": "Kalliomaalauksia",
+      "leveysaste": 60.937855,
+      "pituusaste": 26.873884,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 122,
+      "nimi": "Kalliomaalauksia",
+      "leveysaste": 61.539144,
+      "pituusaste": 28.63106,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 123,
+      "nimi": "Kalliomaalauksia",
+      "leveysaste": 62.881495,
+      "pituusaste": 30.69582,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 124,
+      "nimi": "Kalliomaalauksia",
+      "leveysaste": 65.543775,
+      "pituusaste": 29.326539,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 125,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 60.722584,
+      "pituusaste": 26.446204,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 126,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 60.940262,
+      "pituusaste": 26.934866,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 127,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 60.945484,
+      "pituusaste": 26.594318,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 128,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 60.993597,
+      "pituusaste": 26.205883,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 129,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 60.996224,
+      "pituusaste": 26.247929,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 130,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.016029,
+      "pituusaste": 27.378515,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 131,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.020522,
+      "pituusaste": 27.374277,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 132,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.03607,
+      "pituusaste": 27.786288,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 133,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.045216,
+      "pituusaste": 27.354134,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 134,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.124772,
+      "pituusaste": 26.154879,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 135,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.13263,
+      "pituusaste": 26.194671,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 136,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.13613,
+      "pituusaste": 26.46821,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 137,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.16711,
+      "pituusaste": 26.427813,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 138,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.234824,
+      "pituusaste": 26.620731,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 139,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.242307,
+      "pituusaste": 26.652947,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 140,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.25766,
+      "pituusaste": 26.773732,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 141,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.382142,
+      "pituusaste": 27.299962,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 142,
+      "nimi": "Kalliomaalaus",
+      "leveysaste": 61.395206,
+      "pituusaste": 27.118755,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 143,
+      "nimi": "Kalliorinne",
+      "leveysaste": 60.487045,
+      "pituusaste": 22.160301,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 144,
+      "nimi": "Kalmisto",
+      "leveysaste": 61.490045,
+      "pituusaste": 25.654791,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 145,
+      "nimi": "Kalmisto",
+      "leveysaste": 66.588544,
+      "pituusaste": 25.621059,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 146,
+      "nimi": "Kankare",
+      "leveysaste": 60.497472,
+      "pituusaste": 22.235286,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 147,
+      "nimi": "Kansakoulunmäki",
+      "leveysaste": 60.468571,
+      "pituusaste": 22.190852,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 148,
+      "nimi": "Karsikkopaikka",
+      "leveysaste": 63.799998,
+      "pituusaste": 28.903953,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 149,
+      "nimi": "Karsikkopuu",
+      "leveysaste": 63.796977,
+      "pituusaste": 28.909759,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 150,
+      "nimi": "Keltin redutti",
+      "leveysaste": 60.86752,
+      "pituusaste": 26.598196,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 151,
+      "nimi": "Kertunkankaan kehäröykkiöt",
+      "leveysaste": 64.659593,
+      "pituusaste": 24.488723,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 152,
+      "nimi": "Kiilinmäki",
+      "leveysaste": 60.58685,
+      "pituusaste": 27.161661,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 153,
+      "nimi": "Kimalistonmäki",
+      "leveysaste": 60.484994,
+      "pituusaste": 22.187023,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 154,
+      "nimi": "Kinnarin kuppikivi",
+      "leveysaste": 60.937286,
+      "pituusaste": 24.5901,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 155,
+      "nimi": "Kirkkokarin kappelin perustukset",
+      "leveysaste": 61.147322,
+      "pituusaste": 22.325475,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 156,
+      "nimi": "Kirkkomäki",
+      "leveysaste": 60.463448,
+      "pituusaste": 22.293501,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 157,
+      "nimi": "Kirkkopahta",
+      "leveysaste": 67.59809,
+      "pituusaste": 23.836234,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 158,
+      "nimi": "Kirkkovalkaman miekanhiontakivi",
+      "leveysaste": 61.123682,
+      "pituusaste": 24.324334,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 159,
+      "nimi": "Kirkon paikka",
+      "leveysaste": 68.288369,
+      "pituusaste": 23.069664,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 160,
+      "nimi": "Kirkon rauniot",
+      "leveysaste": 61.430817,
+      "pituusaste": 21.897722,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 161,
+      "nimi": "Kirkonkoski",
+      "leveysaste": 60.850214,
+      "pituusaste": 26.384755,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 162,
+      "nimi": "Kirstulankärjen rantakalmisto ja uhrikivi",
+      "leveysaste": 61.034935,
+      "pituusaste": 24.421152,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 163,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.26229,
+      "pituusaste": 24.860629,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 164,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.367994,
+      "pituusaste": 24.86987,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 165,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.531783,
+      "pituusaste": 26.576357,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 166,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.545469,
+      "pituusaste": 26.567311,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 167,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.550844,
+      "pituusaste": 26.764564,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 168,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.560461,
+      "pituusaste": 26.563805,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 169,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.565663,
+      "pituusaste": 26.784455,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 170,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.579167,
+      "pituusaste": 26.800083,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 171,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.579609,
+      "pituusaste": 26.804259,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 172,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.583109,
+      "pituusaste": 27.833932,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 173,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.587956,
+      "pituusaste": 26.796792,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 174,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.596424,
+      "pituusaste": 26.951865,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 175,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.599744,
+      "pituusaste": 26.525562,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 176,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.599795,
+      "pituusaste": 26.948945,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 177,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.600976,
+      "pituusaste": 26.524469,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 178,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.60145,
+      "pituusaste": 26.948819,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 179,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.602654,
+      "pituusaste": 26.965469,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 180,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.603687,
+      "pituusaste": 26.965316,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 181,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.621708,
+      "pituusaste": 26.518369,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 182,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.629441,
+      "pituusaste": 26.524043,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 183,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.657612,
+      "pituusaste": 26.751874,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 184,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.669101,
+      "pituusaste": 26.750312,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 185,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.669542,
+      "pituusaste": 26.753424,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 186,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.672484,
+      "pituusaste": 26.406263,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 187,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.674421,
+      "pituusaste": 27.048835,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 188,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.676647,
+      "pituusaste": 26.758702,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 189,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.690767,
+      "pituusaste": 26.715007,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 190,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.699759,
+      "pituusaste": 26.817085,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 191,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.716073,
+      "pituusaste": 26.692414,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 192,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.896737,
+      "pituusaste": 26.778587,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 193,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.899526,
+      "pituusaste": 26.840665,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 194,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.930165,
+      "pituusaste": 26.870135,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 195,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.930463,
+      "pituusaste": 26.911253,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 196,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 60.998999,
+      "pituusaste": 26.476703,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 197,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.020078,
+      "pituusaste": 26.133683,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 198,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.047414,
+      "pituusaste": 28.052784,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 199,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.049379,
+      "pituusaste": 28.043869,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 200,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.049976,
+      "pituusaste": 28.042732,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 201,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.052655,
+      "pituusaste": 28.02732,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 202,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.054269,
+      "pituusaste": 28.028704,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 203,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.055671,
+      "pituusaste": 28.134208,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 204,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.07142,
+      "pituusaste": 28.076049,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 205,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.07304,
+      "pituusaste": 28.115776,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 206,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.083431,
+      "pituusaste": 26.176672,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 207,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.10183,
+      "pituusaste": 26.66425,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 208,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.170366,
+      "pituusaste": 26.59026,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 209,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 61.449896,
+      "pituusaste": 24.122903,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 210,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 62.258712,
+      "pituusaste": 23.744663,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 211,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 62.709779,
+      "pituusaste": 29.095017,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 212,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 64.138092,
+      "pituusaste": 29.483377,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 213,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 64.320612,
+      "pituusaste": 29.539216,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 214,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 66.02458,
+      "pituusaste": 24.858479,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 215,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 66.035214,
+      "pituusaste": 24.880423,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 216,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 66.792872,
+      "pituusaste": 28.730413,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 217,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 67.065713,
+      "pituusaste": 25.073963,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 218,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 67.569447,
+      "pituusaste": 24.046169,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 219,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 68.108457,
+      "pituusaste": 27.485283,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 220,
+      "nimi": "Kivikautinen asuinpaikka",
+      "leveysaste": 68.109626,
+      "pituusaste": 27.479659,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 221,
+      "nimi": "Kivikautinen asuipaikka",
+      "leveysaste": 62.624448,
+      "pituusaste": 23.609703,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 222,
+      "nimi": "Kivikautinen hauta",
+      "leveysaste": 60.599974,
+      "pituusaste": 26.966948,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 223,
+      "nimi": "Kivikautinen kulttipaikka",
+      "leveysaste": 60.252501,
+      "pituusaste": 24.863741,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 224,
+      "nimi": "Kivikautinen kulttipaikka",
+      "leveysaste": 60.252537,
+      "pituusaste": 24.863791,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 225,
+      "nimi": "Kivikolunpellon uhrikivi",
+      "leveysaste": 61.000464,
+      "pituusaste": 24.435723,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 226,
+      "nimi": "Kivilatomuksia",
+      "leveysaste": 60.565432,
+      "pituusaste": 27.084005,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 227,
+      "nimi": "Kivipöytä",
+      "leveysaste": 60.971775,
+      "pituusaste": 26.732818,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 228,
+      "nimi": "Kiviraunio",
+      "leveysaste": 62.167598,
+      "pituusaste": 25.793474,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 229,
+      "nimi": "Kiviröykkiö",
+      "leveysaste": 60.857042,
+      "pituusaste": 26.413649,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 230,
+      "nimi": "Kiviröykkiö",
+      "leveysaste": 60.871747,
+      "pituusaste": 26.541467,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 231,
+      "nimi": "Kiviuuni",
+      "leveysaste": 61.612377,
+      "pituusaste": 23.295574,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 232,
+      "nimi": "Knösbackarna",
+      "leveysaste": 60.24989,
+      "pituusaste": 19.884662,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 233,
+      "nimi": "Knösgärdan",
+      "leveysaste": 60.210541,
+      "pituusaste": 19.61322,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 234,
+      "nimi": "Kodanpohjat",
+      "leveysaste": 63.334704,
+      "pituusaste": 23.159318,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 235,
+      "nimi": "Kodisjoen muinaishauta",
+      "leveysaste": 61.027056,
+      "pituusaste": 21.668232,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 236,
+      "nimi": "Kodjalan soturihauta",
+      "leveysaste": 60.850127,
+      "pituusaste": 21.680317,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 237,
+      "nimi": "Kokkostenkärjen kalmisto",
+      "leveysaste": 61.247,
+      "pituusaste": 24.359546,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 238,
+      "nimi": "Kolisuo",
+      "leveysaste": 60.642508,
+      "pituusaste": 22.157383,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 239,
+      "nimi": "Koljolan linnavuori",
+      "leveysaste": 60.621892,
+      "pituusaste": 22.106048,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 240,
+      "nimi": "Kommendantskansli",
+      "leveysaste": 60.213421,
+      "pituusaste": 20.224676,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 241,
+      "nimi": "Kommendantskansli",
+      "leveysaste": 60.213481,
+      "pituusaste": 20.224751,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 242,
+      "nimi": "Komonen 1",
+      "leveysaste": 60.463967,
+      "pituusaste": 22.320446,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 243,
+      "nimi": "Koroisten piispankirkko",
+      "leveysaste": 60.466271,
+      "pituusaste": 22.288152,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 244,
+      "nimi": "Koroisten piispankirkko",
+      "leveysaste": 60.466284,
+      "pituusaste": 22.288205,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 245,
+      "nimi": "Koroisten tila",
+      "leveysaste": 60.466098,
+      "pituusaste": 22.290766,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 246,
+      "nimi": "Korsnäs",
+      "leveysaste": 60.139882,
+      "pituusaste": 24.644606,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 247,
+      "nimi": "Kotamäen Hiidenkirnut",
+      "leveysaste": 60.347279,
+      "pituusaste": 24.835782,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 248,
+      "nimi": "Kotamäen Hiidenkirnut",
+      "leveysaste": 60.347315,
+      "pituusaste": 24.835802,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 249,
+      "nimi": "Kotokallio",
+      "leveysaste": 60.476395,
+      "pituusaste": 22.370094,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 250,
+      "nimi": "Krejansbergetin muinaishaudat",
+      "leveysaste": 60.179577,
+      "pituusaste": 24.205734,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 251,
+      "nimi": "Krejansbergetin muinaishaudat",
+      "leveysaste": 60.179604,
+      "pituusaste": 24.205679,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 252,
+      "nimi": "Kukkomäen uhrikivi ja muinaisjäännösryhmä",
+      "leveysaste": 60.878441,
+      "pituusaste": 24.617224,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 253,
+      "nimi": "Kulhon linnavuori",
+      "leveysaste": 60.386141,
+      "pituusaste": 22.275876,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 254,
+      "nimi": "Kumpukalmisto",
+      "leveysaste": 60.906045,
+      "pituusaste": 21.639333,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 255,
+      "nimi": "Kuninkaanhauta",
+      "leveysaste": 61.21912,
+      "pituusaste": 21.979479,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 256,
+      "nimi": "Kuppikivi",
+      "leveysaste": 60.472325,
+      "pituusaste": 22.196025,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 257,
+      "nimi": "Kurisijan ja Keijitsan kentät",
+      "leveysaste": 67.560319,
+      "pituusaste": 27.90217,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 258,
+      "nimi": "Kuumoonmäen kivikautinen asuinpaikka",
+      "leveysaste": 61.302998,
+      "pituusaste": 22.029485,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 259,
+      "nimi": "Kvarlämnor av torp från början av 1900-talet",
+      "leveysaste": 60.044772,
+      "pituusaste": 23.64095,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 260,
+      "nimi": "Kvarnbacken",
+      "leveysaste": 60.239489,
+      "pituusaste": 19.74478,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 261,
+      "nimi": "Kyläklemelä",
+      "leveysaste": 60.490181,
+      "pituusaste": 22.159886,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 262,
+      "nimi": "Kynnys 1",
+      "leveysaste": 60.686966,
+      "pituusaste": 24.788874,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 263,
+      "nimi": "Kynnys 2",
+      "leveysaste": 60.687853,
+      "pituusaste": 24.788126,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 264,
+      "nimi": "Käikälänlähde",
+      "leveysaste": 60.972353,
+      "pituusaste": 24.546239,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 265,
+      "nimi": "Kärkipellon uhrikivi",
+      "leveysaste": 61.002192,
+      "pituusaste": 24.522398,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 266,
+      "nimi": "Käärmekallio",
+      "leveysaste": 60.476645,
+      "pituusaste": 22.187348,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 267,
+      "nimi": "Köykkälän muinaisjäännösryhmä",
+      "leveysaste": 60.882767,
+      "pituusaste": 24.593182,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 268,
+      "nimi": "Köykkälän uhrikivet ja röykkiö",
+      "leveysaste": 60.882182,
+      "pituusaste": 24.593405,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 269,
+      "nimi": "Laihoisten linnamäki",
+      "leveysaste": 60.61457,
+      "pituusaste": 22.066662,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 270,
+      "nimi": "Lapinpato",
+      "leveysaste": 64.414583,
+      "pituusaste": 28.543864,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 271,
+      "nimi": "Lapinpato",
+      "leveysaste": 64.935147,
+      "pituusaste": 26.809628,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 272,
+      "nimi": "Lapinraunio",
+      "leveysaste": 61.091966,
+      "pituusaste": 28.087867,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 273,
+      "nimi": "Lapinraunio",
+      "leveysaste": 61.471376,
+      "pituusaste": 25.595711,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 274,
+      "nimi": "Lapinraunio",
+      "leveysaste": 61.483863,
+      "pituusaste": 25.69372,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 275,
+      "nimi": "Lapinraunio",
+      "leveysaste": 63.000227,
+      "pituusaste": 27.463806,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 276,
+      "nimi": "Lapinraunio",
+      "leveysaste": 64.650202,
+      "pituusaste": 24.474219,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 277,
+      "nimi": "Lapinraunio Pistohiekka 13",
+      "leveysaste": 61.561679,
+      "pituusaste": 27.996641,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 278,
+      "nimi": "Lappalaisasuinpaikka",
+      "leveysaste": 68.07012,
+      "pituusaste": 27.412744,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 279,
+      "nimi": "Laulumaa ja Römpötti",
+      "leveysaste": 60.478516,
+      "pituusaste": 22.18199,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 280,
+      "nimi": "Leikkolan uhrikallio",
+      "leveysaste": 61.047616,
+      "pituusaste": 26.008526,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 281,
+      "nimi": "Lentävänniemen lapinraunio",
+      "leveysaste": 61.531487,
+      "pituusaste": 23.725687,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 282,
+      "nimi": "Leväluhdan uhrilähde",
+      "leveysaste": 62.948488,
+      "pituusaste": 22.416039,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 283,
+      "nimi": "Liedon Vanhalinna",
+      "leveysaste": 60.486759,
+      "pituusaste": 22.376792,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 284,
+      "nimi": "Liikistön muinaismuistoalue",
+      "leveysaste": 61.429914,
+      "pituusaste": 21.897715,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 285,
+      "nimi": "Liinmaa Linna",
+      "leveysaste": 61.21751,
+      "pituusaste": 21.608416,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 286,
+      "nimi": "Lilla Näsets grupp av fornlämningar",
+      "leveysaste": 60.050726,
+      "pituusaste": 23.655519,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 287,
+      "nimi": "Linnaisten Rautakaivos",
+      "leveysaste": 60.256029,
+      "pituusaste": 24.776909,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 288,
+      "nimi": "Linnaisten Rautakaivos",
+      "leveysaste": 60.25603,
+      "pituusaste": 24.776961,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 289,
+      "nimi": "Linnakallio",
+      "leveysaste": 60.565426,
+      "pituusaste": 27.084009,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 290,
+      "nimi": "Linnamäki Muurla",
+      "leveysaste": 60.385035,
+      "pituusaste": 23.248266,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 291,
+      "nimi": "Linnasenvuori",
+      "leveysaste": 61.914341,
+      "pituusaste": 25.170052,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 292,
+      "nimi": "Linnasmäki",
+      "leveysaste": 60.472849,
+      "pituusaste": 22.186862,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 293,
+      "nimi": "Linnavuori",
+      "leveysaste": 60.422829,
+      "pituusaste": 22.55152,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 294,
+      "nimi": "Livsmedelmagasinet",
+      "leveysaste": 60.210569,
+      "pituusaste": 20.230734,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 295,
+      "nimi": "Luistarin kalmiston suojelualue",
+      "leveysaste": 61.110913,
+      "pituusaste": 22.146527,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 296,
+      "nimi": "Luistarin kalmiston suojelualue",
+      "leveysaste": 61.110935,
+      "pituusaste": 22.146493,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 297,
+      "nimi": "Luistarin kalmiston suojelualue",
+      "leveysaste": 61.114838,
+      "pituusaste": 22.14516,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 298,
+      "nimi": "Lumparlanpuisto",
+      "leveysaste": 60.48237,
+      "pituusaste": 22.162617,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 299,
+      "nimi": "Luolajan leiripaikka",
+      "leveysaste": 61.033128,
+      "pituusaste": 24.334279,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 300,
+      "nimi": "Lyömäen uhrikivi",
+      "leveysaste": 61.193546,
+      "pituusaste": 24.482044,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 301,
+      "nimi": "Länsi-Hahkialan uhrikallio",
+      "leveysaste": 61.139595,
+      "pituusaste": 24.577385,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 302,
+      "nimi": "Löppösenluolan kalliomaalaus",
+      "leveysaste": 61.175741,
+      "pituusaste": 26.838141,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 303,
+      "nimi": "MTB ja kävelyreitti merkki",
+      "leveysaste": 65.565279,
+      "pituusaste": 28.181645,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 304,
+      "nimi": "Mahdollinen pronssikautinen muinaishauta",
+      "leveysaste": 60.216964,
+      "pituusaste": 25.127167,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 305,
+      "nimi": "Marjunmäen uhrikivi ja muinaisjäännösryhmä",
+      "leveysaste": 60.958466,
+      "pituusaste": 24.576988,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 306,
+      "nimi": "Marsbacken",
+      "leveysaste": 60.166703,
+      "pituusaste": 24.186921,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 307,
+      "nimi": "Mattila 1",
+      "leveysaste": 60.469608,
+      "pituusaste": 22.335377,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 308,
+      "nimi": "Medeltida källare",
+      "leveysaste": 60.153084,
+      "pituusaste": 19.951635,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 309,
+      "nimi": "Medeltida källare",
+      "leveysaste": 60.153094,
+      "pituusaste": 19.951643,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 310,
+      "nimi": "Mellanåkersbacken",
+      "leveysaste": 60.252005,
+      "pituusaste": 19.733091,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 311,
+      "nimi": "Mestooplassi",
+      "leveysaste": 63.074907,
+      "pituusaste": 22.144189,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 312,
+      "nimi": "Muikunvuori",
+      "leveysaste": 60.467685,
+      "pituusaste": 22.355351,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 313,
+      "nimi": "Muinaisasuinpaikka",
+      "leveysaste": 68.012659,
+      "pituusaste": 28.099062,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 314,
+      "nimi": "Muinaisasuinpaikka",
+      "leveysaste": 68.911256,
+      "pituusaste": 27.016981,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 315,
+      "nimi": "Muinaishaudat",
+      "leveysaste": 61.152603,
+      "pituusaste": 24.345143,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 316,
+      "nimi": "Muinaishaudat",
+      "leveysaste": 61.157705,
+      "pituusaste": 24.348424,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 317,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.029316,
+      "pituusaste": 22.609647,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 318,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.090418,
+      "pituusaste": 24.365461,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 319,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.178667,
+      "pituusaste": 24.693321,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 320,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.178779,
+      "pituusaste": 24.662648,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 321,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.187505,
+      "pituusaste": 24.83577,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 322,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.40801,
+      "pituusaste": 22.571633,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 323,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.562669,
+      "pituusaste": 27.110857,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 324,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.59088,
+      "pituusaste": 27.107835,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 325,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.638345,
+      "pituusaste": 24.899497,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 326,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.650171,
+      "pituusaste": 27.622116,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 327,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.726816,
+      "pituusaste": 26.24789,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 328,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.807009,
+      "pituusaste": 26.555818,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 329,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.807831,
+      "pituusaste": 26.569788,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 330,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.811696,
+      "pituusaste": 26.563737,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 331,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.817189,
+      "pituusaste": 26.575306,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 332,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.848278,
+      "pituusaste": 26.463877,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 333,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.848751,
+      "pituusaste": 26.541882,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 334,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.851351,
+      "pituusaste": 26.450959,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 335,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.852103,
+      "pituusaste": 21.809165,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 336,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.854938,
+      "pituusaste": 21.809424,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 337,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.862199,
+      "pituusaste": 26.588244,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 338,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.863514,
+      "pituusaste": 21.813877,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 339,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.875763,
+      "pituusaste": 27.05191,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 340,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.908536,
+      "pituusaste": 26.369307,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 341,
+      "nimi": "Muinaishauta",
+      "leveysaste": 60.92518,
+      "pituusaste": 26.335254,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 342,
+      "nimi": "Muinaishauta",
+      "leveysaste": 61.008147,
+      "pituusaste": 26.448153,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 343,
+      "nimi": "Muinaishauta",
+      "leveysaste": 61.100845,
+      "pituusaste": 26.662404,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 344,
+      "nimi": "Muinaishauta",
+      "leveysaste": 61.328081,
+      "pituusaste": 28.441325,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 345,
+      "nimi": "Muinaishauta",
+      "leveysaste": 61.470933,
+      "pituusaste": 23.525945,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 346,
+      "nimi": "Muinaishauta",
+      "leveysaste": 61.480685,
+      "pituusaste": 25.662487,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 347,
+      "nimi": "Muinaishauta",
+      "leveysaste": 65.52425,
+      "pituusaste": 28.960896,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 348,
+      "nimi": "Muinaishauta",
+      "leveysaste": 67.55045,
+      "pituusaste": 27.44128,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 349,
+      "nimi": "Muinaishautoja",
+      "leveysaste": 61.296912,
+      "pituusaste": 23.717737,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 350,
+      "nimi": "Muinaisjäännökset, hautaröykkiöt 5kpl",
+      "leveysaste": 60.400027,
+      "pituusaste": 25.138629,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 351,
+      "nimi": "Muinaisjäännökset, hautaröykkiöt 5kpl",
+      "leveysaste": 60.400114,
+      "pituusaste": 25.138722,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 352,
+      "nimi": "Muinaisjäännös",
+      "leveysaste": 60.568364,
+      "pituusaste": 27.29275,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 353,
+      "nimi": "Muinaiskalmisto",
+      "leveysaste": 60.930024,
+      "pituusaste": 26.249419,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 354,
+      "nimi": "Muinaislinna",
+      "leveysaste": 61.007848,
+      "pituusaste": 26.43489,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 355,
+      "nimi": "Muinaistie",
+      "leveysaste": 60.81427,
+      "pituusaste": 27.290972,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 356,
+      "nimi": "Munasaari",
+      "leveysaste": 60.950771,
+      "pituusaste": 22.067069,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 357,
+      "nimi": "Mynämäen Linnavuori",
+      "leveysaste": 60.654219,
+      "pituusaste": 21.937171,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 358,
+      "nimi": "Myran",
+      "leveysaste": 60.365157,
+      "pituusaste": 19.852306,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 359,
+      "nimi": "Myyrmäen kivikautinen punamultakalmisto",
+      "leveysaste": 60.26131,
+      "pituusaste": 24.853287,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 360,
+      "nimi": "Mårtensby (Martinkylä)",
+      "leveysaste": 60.291113,
+      "pituusaste": 24.878614,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 361,
+      "nimi": "Mårtensby (Martinkylä) Lillas",
+      "leveysaste": 60.288711,
+      "pituusaste": 24.883651,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 362,
+      "nimi": "Nallinkatu",
+      "leveysaste": 60.486056,
+      "pituusaste": 22.171838,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 363,
+      "nimi": "Neulavuoren uhrikivi",
+      "leveysaste": 60.977888,
+      "pituusaste": 24.506301,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 364,
+      "nimi": "Niemenpään uhrikivi",
+      "leveysaste": 60.948971,
+      "pituusaste": 24.551747,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 365,
+      "nimi": "Nisulan uhrikivi",
+      "leveysaste": 61.191143,
+      "pituusaste": 24.477547,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 366,
+      "nimi": "Nokkala",
+      "leveysaste": 60.495407,
+      "pituusaste": 22.673365,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 367,
+      "nimi": "Nukari (Uhrikivi)",
+      "leveysaste": 60.999476,
+      "pituusaste": 24.389514,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 368,
+      "nimi": "Nya Skarpans",
+      "leveysaste": 60.21097,
+      "pituusaste": 20.229604,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 369,
+      "nimi": "Nyysölän kuppikallio",
+      "leveysaste": 61.329597,
+      "pituusaste": 25.301243,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 370,
+      "nimi": "Otterböte",
+      "leveysaste": 59.92958,
+      "pituusaste": 20.883491,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 371,
+      "nimi": "Palmumäki",
+      "leveysaste": 60.629324,
+      "pituusaste": 22.134909,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 372,
+      "nimi": "Panssariesteet",
+      "leveysaste": 60.903022,
+      "pituusaste": 26.994573,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 373,
+      "nimi": "Panssariesteet",
+      "leveysaste": 60.903701,
+      "pituusaste": 26.994908,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 374,
+      "nimi": "Panssariesteet",
+      "leveysaste": 60.903819,
+      "pituusaste": 26.995051,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 375,
+      "nimi": "Panssariesteet",
+      "leveysaste": 60.904909,
+      "pituusaste": 26.995814,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 376,
+      "nimi": "Papinkallio",
+      "leveysaste": 60.477907,
+      "pituusaste": 22.184661,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 377,
+      "nimi": "Pappilanmäki",
+      "leveysaste": 60.483758,
+      "pituusaste": 22.169703,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 378,
+      "nimi": "Pappilanniemen uhrikivi",
+      "leveysaste": 61.066612,
+      "pituusaste": 24.408294,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 379,
+      "nimi": "Parkkimäki1 uhrikivi",
+      "leveysaste": 61.156113,
+      "pituusaste": 24.554852,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 380,
+      "nimi": "Parkkimäki2 uhrikivi",
+      "leveysaste": 61.1562,
+      "pituusaste": 24.555031,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 381,
+      "nimi": "Peltola",
+      "leveysaste": 61.034215,
+      "pituusaste": 24.41763,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 382,
+      "nimi": "Penkkivuori",
+      "leveysaste": 62.555546,
+      "pituusaste": 23.72029,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 383,
+      "nimi": "Penkkivuori",
+      "leveysaste": 62.555796,
+      "pituusaste": 23.720421,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 384,
+      "nimi": "Perno",
+      "leveysaste": 60.457393,
+      "pituusaste": 22.146685,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 385,
+      "nimi": "Perno IV",
+      "leveysaste": 60.455075,
+      "pituusaste": 22.144002,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 386,
+      "nimi": "Pernon kartano",
+      "leveysaste": 60.458664,
+      "pituusaste": 22.1502,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 387,
+      "nimi": "Perttulan tuhottu uhrikivi",
+      "leveysaste": 60.965859,
+      "pituusaste": 24.50131,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 388,
+      "nimi": "Petterinpelto",
+      "leveysaste": 60.490714,
+      "pituusaste": 22.17829,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 389,
+      "nimi": "Pieni Linnamäki",
+      "leveysaste": 60.400155,
+      "pituusaste": 25.647367,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 390,
+      "nimi": "Pikkuvahopään uhrikivi",
+      "leveysaste": 61.109516,
+      "pituusaste": 24.333949,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 391,
+      "nimi": "Pirttilä 1",
+      "leveysaste": 60.69083,
+      "pituusaste": 24.793294,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 392,
+      "nimi": "Pirttilä 2",
+      "leveysaste": 60.690512,
+      "pituusaste": 24.795612,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 393,
+      "nimi": "Poransaaren kalmisto",
+      "leveysaste": 61.05361,
+      "pituusaste": 24.40994,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 394,
+      "nimi": "Pronssikauden muinaishauta",
+      "leveysaste": 60.224041,
+      "pituusaste": 25.127025,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 395,
+      "nimi": "Pronssikautinen hauta",
+      "leveysaste": 60.179441,
+      "pituusaste": 24.850306,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 396,
+      "nimi": "Pronssikautinen hauta",
+      "leveysaste": 60.240902,
+      "pituusaste": 25.164797,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 397,
+      "nimi": "Pronssikautinen hauta",
+      "leveysaste": 60.373645,
+      "pituusaste": 22.258249,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 398,
+      "nimi": "Pronssikautinen hauta",
+      "leveysaste": 60.384154,
+      "pituusaste": 25.561598,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 399,
+      "nimi": "Pronssikautinen hautaraunio",
+      "leveysaste": 60.19209,
+      "pituusaste": 25.024522,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 400,
+      "nimi": "Pronssikautinen hautaröykkiö",
+      "leveysaste": 60.187458,
+      "pituusaste": 25.032988,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 401,
+      "nimi": "Pronssikautinen muinaishauta",
+      "leveysaste": 60.178283,
+      "pituusaste": 24.85464,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 402,
+      "nimi": "Prusin Linnasmäki",
+      "leveysaste": 60.480593,
+      "pituusaste": 22.302813,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 403,
+      "nimi": "Prusin patteri",
+      "leveysaste": 60.47854,
+      "pituusaste": 22.293133,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 404,
+      "nimi": "Pyyntikuoppa",
+      "leveysaste": 68.364012,
+      "pituusaste": 27.608904,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 405,
+      "nimi": "Pyyntikuoppa",
+      "leveysaste": 69.396415,
+      "pituusaste": 26.132513,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 406,
+      "nimi": "Pyyntikuoppa",
+      "leveysaste": 69.397141,
+      "pituusaste": 26.122847,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 407,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 64.592398,
+      "pituusaste": 28.404685,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 408,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 66.706117,
+      "pituusaste": 27.376559,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 409,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.266138,
+      "pituusaste": 27.740076,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 410,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.301658,
+      "pituusaste": 27.810504,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 411,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.302213,
+      "pituusaste": 27.811791,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 412,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.39247,
+      "pituusaste": 28.115244,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 413,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.394224,
+      "pituusaste": 28.116017,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 414,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.394382,
+      "pituusaste": 28.097284,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 415,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.424709,
+      "pituusaste": 28.302627,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 416,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.44829,
+      "pituusaste": 27.811765,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 417,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.449814,
+      "pituusaste": 27.807046,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 418,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.659432,
+      "pituusaste": 25.896708,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 419,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 68.660403,
+      "pituusaste": 25.898913,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 420,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 69.022228,
+      "pituusaste": 20.939787,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 421,
+      "nimi": "Pyyntikuoppia",
+      "leveysaste": 69.022897,
+      "pituusaste": 20.938223,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 422,
+      "nimi": "Pähkinämäki",
+      "leveysaste": 60.468394,
+      "pituusaste": 22.331911,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 423,
+      "nimi": "Päijälän linnavuori",
+      "leveysaste": 61.630842,
+      "pituusaste": 25.195821,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 424,
+      "nimi": "Päivääniemen kalmisto",
+      "leveysaste": 61.295708,
+      "pituusaste": 23.699988,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 425,
+      "nimi": "Raimansuon kallion kuppikivi",
+      "leveysaste": 60.933709,
+      "pituusaste": 24.558528,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 426,
+      "nimi": "Raimansuon uhrikallio",
+      "leveysaste": 60.933534,
+      "pituusaste": 24.559408,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 427,
+      "nimi": "Raision asemanseutu",
+      "leveysaste": 60.486965,
+      "pituusaste": 22.127095,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 428,
+      "nimi": "Raision asemanseutu",
+      "leveysaste": 60.486981,
+      "pituusaste": 22.127204,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 429,
+      "nimi": "Raision kirkko",
+      "leveysaste": 60.484533,
+      "pituusaste": 22.178192,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 430,
+      "nimi": "Rajala",
+      "leveysaste": 61.032431,
+      "pituusaste": 24.418666,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 431,
+      "nimi": "Rapolan Linnavuori",
+      "leveysaste": 61.204845,
+      "pituusaste": 24.058852,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 432,
+      "nimi": "Rautakautinen kalmisto",
+      "leveysaste": 60.462711,
+      "pituusaste": 22.339117,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 433,
+      "nimi": "Rautakautinen kalmisto",
+      "leveysaste": 61.122523,
+      "pituusaste": 22.347357,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 434,
+      "nimi": "Rautakautinen kalmisto",
+      "leveysaste": 61.129339,
+      "pituusaste": 22.343736,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 435,
+      "nimi": "Rautakautinen kalmisto",
+      "leveysaste": 61.492525,
+      "pituusaste": 25.671389,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 436,
+      "nimi": "Rautakautinen kuppikallio",
+      "leveysaste": 61.047311,
+      "pituusaste": 26.00648,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 437,
+      "nimi": "Rautakautinen kuppikallio",
+      "leveysaste": 61.329605,
+      "pituusaste": 25.299822,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 438,
+      "nimi": "Rautakautinen uhrikivi",
+      "leveysaste": 61.047552,
+      "pituusaste": 26.006839,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 439,
+      "nimi": "Ravattulan Ristimäki",
+      "leveysaste": 60.470477,
+      "pituusaste": 22.342851,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 440,
+      "nimi": "Repolan linnavuori",
+      "leveysaste": 60.626416,
+      "pituusaste": 22.074451,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 441,
+      "nimi": "Reuharinniemen lapinrauniot",
+      "leveysaste": 61.52612,
+      "pituusaste": 23.730177,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 442,
+      "nimi": "Riihivainion kivikautinen asuinpaikka",
+      "leveysaste": 60.476261,
+      "pituusaste": 22.312351,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 443,
+      "nimi": "Rintamalinnoitus",
+      "leveysaste": 60.832835,
+      "pituusaste": 26.706048,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 444,
+      "nimi": "Ristimäen kalmisto",
+      "leveysaste": 61.050491,
+      "pituusaste": 26.016256,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 445,
+      "nimi": "Rock Carving",
+      "leveysaste": 59.723736,
+      "pituusaste": 22.497611,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 446,
+      "nimi": "Ruutikellari",
+      "leveysaste": 60.187757,
+      "pituusaste": 24.893763,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 447,
+      "nimi": "Ryssgraven",
+      "leveysaste": 65.924729,
+      "pituusaste": 24.099278,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 448,
+      "nimi": "Ryssänuuneja",
+      "leveysaste": 60.286961,
+      "pituusaste": 21.972192,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 449,
+      "nimi": "Ryssänuuni",
+      "leveysaste": 60.747273,
+      "pituusaste": 26.579554,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 450,
+      "nimi": "Räikälä1 uhrikivi ja röykkiö",
+      "leveysaste": 60.887886,
+      "pituusaste": 24.597718,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 451,
+      "nimi": "Räikälä2 uhrikallio ja polttokalmisto",
+      "leveysaste": 60.886914,
+      "pituusaste": 24.597683,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 452,
+      "nimi": "Räikälän uhrikivi",
+      "leveysaste": 60.885888,
+      "pituusaste": 24.599493,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 453,
+      "nimi": "Saamelaisten vanha markkinapaikka",
+      "leveysaste": 67.411885,
+      "pituusaste": 26.596209,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 454,
+      "nimi": "Sacrificial stone",
+      "leveysaste": 61.844698,
+      "pituusaste": 26.446131,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 455,
+      "nimi": "Sarapistonmäki",
+      "leveysaste": 61.333097,
+      "pituusaste": 23.743923,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 456,
+      "nimi": "Sarfvik",
+      "leveysaste": 60.153916,
+      "pituusaste": 24.611371,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 457,
+      "nimi": "Savonradan rakentajien uuni 1886-89",
+      "leveysaste": 61.298168,
+      "pituusaste": 26.839707,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 458,
+      "nimi": "Seita",
+      "leveysaste": 68.122461,
+      "pituusaste": 27.370852,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 459,
+      "nimi": "Seitakivi",
+      "leveysaste": 67.684718,
+      "pituusaste": 26.96594,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 460,
+      "nimi": "Seitakivi",
+      "leveysaste": 68.223236,
+      "pituusaste": 25.556065,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 461,
+      "nimi": "Seppäsen uhrikivi",
+      "leveysaste": 61.197004,
+      "pituusaste": 24.064313,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 462,
+      "nimi": "Siiri 1",
+      "leveysaste": 60.471781,
+      "pituusaste": 22.186631,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 463,
+      "nimi": "Siiri 2",
+      "leveysaste": 60.471328,
+      "pituusaste": 22.186082,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 464,
+      "nimi": "Siirinpuisto",
+      "leveysaste": 60.470345,
+      "pituusaste": 22.192405,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 465,
+      "nimi": "Sillbölen kaivokset",
+      "leveysaste": 60.268195,
+      "pituusaste": 24.866436,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 466,
+      "nimi": "Sillbölen kaivokset",
+      "leveysaste": 60.268216,
+      "pituusaste": 24.866422,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 467,
+      "nimi": "Silmäkeneva E A - E",
+      "leveysaste": 60.695075,
+      "pituusaste": 24.784279,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 468,
+      "nimi": "Silmäkenevan saari 1 A-C",
+      "leveysaste": 60.700639,
+      "pituusaste": 24.777157,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 469,
+      "nimi": "Silmäkenevan saari 3 A-C",
+      "leveysaste": 60.700835,
+      "pituusaste": 24.772271,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 470,
+      "nimi": "Silmäkenevan saari 4 A-C",
+      "leveysaste": 60.701267,
+      "pituusaste": 24.767915,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 471,
+      "nimi": "Silmäkenevan saari 5 A-B",
+      "leveysaste": 60.704281,
+      "pituusaste": 24.761082,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 472,
+      "nimi": "Sinivuokkoniemi A-E",
+      "leveysaste": 60.689289,
+      "pituusaste": 24.781837,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 473,
+      "nimi": "Sipoonlinna",
+      "leveysaste": 60.291963,
+      "pituusaste": 25.319243,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 474,
+      "nimi": "Sipoonlinna",
+      "leveysaste": 60.291981,
+      "pituusaste": 25.319232,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 475,
+      "nimi": "Skrattberget",
+      "leveysaste": 60.141346,
+      "pituusaste": 24.645477,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 476,
+      "nimi": "Skrattberget, etelä",
+      "leveysaste": 60.140136,
+      "pituusaste": 24.647267,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 477,
+      "nimi": "Slagbuckets and furnace. Last remains of the furnace in Turku",
+      "leveysaste": 60.078715,
+      "pituusaste": 23.671927,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 478,
+      "nimi": "Smidbacka",
+      "leveysaste": 60.363211,
+      "pituusaste": 19.851393,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 479,
+      "nimi": "Sodan aikaisia vallihautoja",
+      "leveysaste": 60.341003,
+      "pituusaste": 24.287006,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 480,
+      "nimi": "Sodan aikaisia vallihautoja",
+      "leveysaste": 60.341196,
+      "pituusaste": 24.287336,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 481,
+      "nimi": "Sourunniemen kalliomaalaus",
+      "leveysaste": 61.565169,
+      "pituusaste": 28.268363,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 482,
+      "nimi": "Spiral crain",
+      "leveysaste": 61.115314,
+      "pituusaste": 21.775377,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 483,
+      "nimi": "Stenkonstruktion från historisk tid",
+      "leveysaste": 60.049231,
+      "pituusaste": 23.651638,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 484,
+      "nimi": "Stenkonstruktion från historisk tid",
+      "leveysaste": 60.049261,
+      "pituusaste": 23.651593,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 485,
+      "nimi": "Stora Näsets brandgravfält från järnåldern",
+      "leveysaste": 60.049331,
+      "pituusaste": 23.651819,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 486,
+      "nimi": "Struven ketjun piste",
+      "leveysaste": 65.063859,
+      "pituusaste": 24.800522,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 487,
+      "nimi": "Stubbens jungfrudans",
+      "leveysaste": 63.523799,
+      "pituusaste": 22.155503,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 488,
+      "nimi": "Sudenkuoppa",
+      "leveysaste": 65.054579,
+      "pituusaste": 25.636633,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 489,
+      "nimi": "Sudenpyyntikuoppa",
+      "leveysaste": 61.207591,
+      "pituusaste": 24.052538,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 490,
+      "nimi": "Sunds Kasaberget",
+      "leveysaste": 60.133199,
+      "pituusaste": 24.685164,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 491,
+      "nimi": "Suontaan uhrikivet",
+      "leveysaste": 61.110568,
+      "pituusaste": 24.316316,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 492,
+      "nimi": "Susiluola",
+      "leveysaste": 62.302961,
+      "pituusaste": 21.66282,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 493,
+      "nimi": "Syrjäsalmi rock painting",
+      "leveysaste": 61.532444,
+      "pituusaste": 28.3149,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 494,
+      "nimi": "Sökö",
+      "leveysaste": 60.142014,
+      "pituusaste": 24.652848,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 495,
+      "nimi": "Takahaka",
+      "leveysaste": 60.644533,
+      "pituusaste": 22.168315,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 496,
+      "nimi": "Takametsä",
+      "leveysaste": 60.524744,
+      "pituusaste": 22.140471,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 497,
+      "nimi": "Talolan uhrikallio",
+      "leveysaste": 61.148079,
+      "pituusaste": 24.567516,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 498,
+      "nimi": "Tar kiln",
+      "leveysaste": 67.96545,
+      "pituusaste": 23.975993,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 499,
+      "nimi": "Tasalanhovi",
+      "leveysaste": 60.484685,
+      "pituusaste": 22.163991,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 500,
+      "nimi": "Tervahauta",
+      "leveysaste": 61.087484,
+      "pituusaste": 28.386478,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 501,
+      "nimi": "Tervahauta",
+      "leveysaste": 62.658925,
+      "pituusaste": 23.695537,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 502,
+      "nimi": "Tervahauta ?",
+      "leveysaste": 61.087506,
+      "pituusaste": 28.384911,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 503,
+      "nimi": "The long ruin of Huilu",
+      "leveysaste": 61.11475,
+      "pituusaste": 21.77696,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 504,
+      "nimi": "Toilanmäen uhrikivet",
+      "leveysaste": 61.328388,
+      "pituusaste": 25.286264,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 505,
+      "nimi": "Torn A",
+      "leveysaste": 60.209932,
+      "pituusaste": 20.225975,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 506,
+      "nimi": "Tortti",
+      "leveysaste": 60.499519,
+      "pituusaste": 22.192605,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 507,
+      "nimi": "Toukolan uhrikivi",
+      "leveysaste": 61.059185,
+      "pituusaste": 24.302082,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 508,
+      "nimi": "Tuomala",
+      "leveysaste": 60.489218,
+      "pituusaste": 22.177403,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 509,
+      "nimi": "Tuoressaari",
+      "leveysaste": 62.842908,
+      "pituusaste": 22.055338,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 510,
+      "nimi": "Tuoressaari",
+      "leveysaste": 62.842929,
+      "pituusaste": 22.055295,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 511,
+      "nimi": "Tursiannotko",
+      "leveysaste": 61.452774,
+      "pituusaste": 23.558866,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 512,
+      "nimi": "Tyrynojan kuppikivi",
+      "leveysaste": 60.968553,
+      "pituusaste": 24.469507,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 513,
+      "nimi": "Uhrikallio",
+      "leveysaste": 61.48159,
+      "pituusaste": 25.666002,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 514,
+      "nimi": "Uhrikallio",
+      "leveysaste": 61.497566,
+      "pituusaste": 25.671551,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 515,
+      "nimi": "Uhrikallio",
+      "leveysaste": 61.508923,
+      "pituusaste": 25.688005,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 516,
+      "nimi": "Uhrikivi",
+      "leveysaste": 60.581365,
+      "pituusaste": 27.039204,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 517,
+      "nimi": "Uhrikivi",
+      "leveysaste": 60.823353,
+      "pituusaste": 21.629441,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 518,
+      "nimi": "Uhrikivi",
+      "leveysaste": 60.828149,
+      "pituusaste": 21.615633,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 519,
+      "nimi": "Uhrikivi",
+      "leveysaste": 60.882098,
+      "pituusaste": 27.602238,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 520,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.090033,
+      "pituusaste": 27.719615,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 521,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.316783,
+      "pituusaste": 23.717722,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 522,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.485339,
+      "pituusaste": 25.665967,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 523,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.486612,
+      "pituusaste": 25.653044,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 524,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.486704,
+      "pituusaste": 25.654189,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 525,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.487276,
+      "pituusaste": 25.65513,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 526,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.487755,
+      "pituusaste": 25.652798,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 527,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.488137,
+      "pituusaste": 25.654682,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 528,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.488326,
+      "pituusaste": 25.653546,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 529,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.489221,
+      "pituusaste": 25.652217,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 530,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.489625,
+      "pituusaste": 25.648475,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 531,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.491293,
+      "pituusaste": 25.654342,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 532,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.494021,
+      "pituusaste": 25.658538,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 533,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.497525,
+      "pituusaste": 25.667575,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 534,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.500372,
+      "pituusaste": 25.673047,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 535,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.502325,
+      "pituusaste": 25.679028,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 536,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.504977,
+      "pituusaste": 25.694769,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 537,
+      "nimi": "Uhrikivi",
+      "leveysaste": 61.51121,
+      "pituusaste": 25.676847,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 538,
+      "nimi": "Uhrikivi",
+      "leveysaste": 63.054622,
+      "pituusaste": 22.107371,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 539,
+      "nimi": "Uhrikiviä",
+      "leveysaste": 61.288854,
+      "pituusaste": 26.654355,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 540,
+      "nimi": "Uhrikuopat",
+      "leveysaste": 60.8751,
+      "pituusaste": 22.974864,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 541,
+      "nimi": "Uhrilähde",
+      "leveysaste": 66.711195,
+      "pituusaste": 26.820829,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 542,
+      "nimi": "Uhripaikka",
+      "leveysaste": 66.383665,
+      "pituusaste": 27.342527,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 543,
+      "nimi": "Ukonvuori kalliomaalaus",
+      "leveysaste": 62.243029,
+      "pituusaste": 28.867605,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 544,
+      "nimi": "Vanha rautakaivosalue, Kuninkaantammi",
+      "leveysaste": 60.263575,
+      "pituusaste": 24.889069,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 545,
+      "nimi": "Vanha tulliaitaus",
+      "leveysaste": 60.455469,
+      "pituusaste": 22.283242,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 546,
+      "nimi": "Vanhan pappilan pelto",
+      "leveysaste": 60.965242,
+      "pituusaste": 24.529742,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 547,
+      "nimi": "Vankanlähde",
+      "leveysaste": 60.974124,
+      "pituusaste": 24.475123,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 548,
+      "nimi": "Vankanlähde",
+      "leveysaste": 60.974127,
+      "pituusaste": 24.475132,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 549,
+      "nimi": "Varhaismetallikautinen asuinpaikka",
+      "leveysaste": 61.054894,
+      "pituusaste": 28.05109,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 550,
+      "nimi": "Varikonniemen rautakautinen asuinpaikka",
+      "leveysaste": 61.003965,
+      "pituusaste": 24.468275,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 551,
+      "nimi": "Varikonniemen rautakautinen asuinpaikka",
+      "leveysaste": 61.004026,
+      "pituusaste": 24.468402,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 552,
+      "nimi": "Varppimäki",
+      "leveysaste": 60.486484,
+      "pituusaste": 22.155007,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 553,
+      "nimi": "Vartiokylän linnavuori",
+      "leveysaste": 60.220297,
+      "pituusaste": 25.120562,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 554,
+      "nimi": "Vaskivuoren kaivos",
+      "leveysaste": 60.262542,
+      "pituusaste": 24.864979,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 555,
+      "nimi": "Vehon pelto",
+      "leveysaste": 60.493308,
+      "pituusaste": 22.185528,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 556,
+      "nimi": "Veitakkalan linnamäki",
+      "leveysaste": 60.429279,
+      "pituusaste": 23.168022,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 557,
+      "nimi": "Veitakkalan linnamäki",
+      "leveysaste": 60.429358,
+      "pituusaste": 23.168241,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 558,
+      "nimi": "Verhon kuppikallio",
+      "leveysaste": 61.328926,
+      "pituusaste": 25.310137,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 559,
+      "nimi": "Verhon kuppikivi",
+      "leveysaste": 61.327374,
+      "pituusaste": 25.31889,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 560,
+      "nimi": "Verijärven kalliomaalaus",
+      "leveysaste": 61.709902,
+      "pituusaste": 27.136988,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 561,
+      "nimi": "Verlan kalliomaalaus",
+      "leveysaste": 61.063532,
+      "pituusaste": 26.637082,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 562,
+      "nimi": "Veräjänsuun uhrikivi ja polttokalmisto",
+      "leveysaste": 60.885685,
+      "pituusaste": 24.590622,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 563,
+      "nimi": "Vienan reitti",
+      "leveysaste": 64.738267,
+      "pituusaste": 29.744809,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 564,
+      "nimi": "Vihaisten uhrilähde",
+      "leveysaste": 61.021268,
+      "pituusaste": 24.406813,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 565,
+      "nimi": "Viirukallio",
+      "leveysaste": 60.176043,
+      "pituusaste": 24.591922,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 566,
+      "nimi": "Viitahaan uhrikivi",
+      "leveysaste": 60.975068,
+      "pituusaste": 24.500972,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 567,
+      "nimi": "Viking burial ground",
+      "leveysaste": 60.480333,
+      "pituusaste": 26.754821,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 568,
+      "nimi": "Vinkkilän Linnavuori",
+      "leveysaste": 60.673875,
+      "pituusaste": 21.728817,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 569,
+      "nimi": "Visulahden 1100-luvun kalmisto",
+      "leveysaste": 61.703746,
+      "pituusaste": 27.348592,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 570,
+      "nimi": "Vitträskin kalliomaalaus",
+      "leveysaste": 60.185453,
+      "pituusaste": 24.521723,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 571,
+      "nimi": "Voipaalan uhrikivi",
+      "leveysaste": 61.197695,
+      "pituusaste": 24.059498,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 572,
+      "nimi": "Vähä-Heikkilän uhrikivi",
+      "leveysaste": 61.131397,
+      "pituusaste": 24.606749,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 573,
+      "nimi": "Vähätalon aitta",
+      "leveysaste": 60.494513,
+      "pituusaste": 22.122532,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 574,
+      "nimi": "Välimaan tila",
+      "leveysaste": 70.019523,
+      "pituusaste": 27.492513,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 575,
+      "nimi": "Välimaan tila",
+      "leveysaste": 70.019579,
+      "pituusaste": 27.492864,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 576,
+      "nimi": "Västerängen",
+      "leveysaste": 60.22837,
+      "pituusaste": 24.791455,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 577,
+      "nimi": "Wiltsunkivi",
+      "leveysaste": 60.469503,
+      "pituusaste": 22.341353,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 578,
+      "nimi": "Yli-Moijalan uhrikivi",
+      "leveysaste": 61.05114,
+      "pituusaste": 24.287246,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 579,
+      "nimi": "juoksuhauta",
+      "leveysaste": 61.086524,
+      "pituusaste": 28.365705,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 580,
+      "nimi": "kaivos",
+      "leveysaste": 60.258483,
+      "pituusaste": 24.773532,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 581,
+      "nimi": "kuppikivi",
+      "leveysaste": 61.051937,
+      "pituusaste": 24.398627,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 582,
+      "nimi": "kuppikivi",
+      "leveysaste": 61.0941,
+      "pituusaste": 24.110962,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 583,
+      "nimi": "miekkakivi",
+      "leveysaste": 61.15358,
+      "pituusaste": 24.344735,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 584,
+      "nimi": "muinaishauta",
+      "leveysaste": 61.002378,
+      "pituusaste": 21.521504,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 585,
+      "nimi": "pronssikautinen hauta",
+      "leveysaste": 60.341264,
+      "pituusaste": 25.109896,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 586,
+      "nimi": "rautakautinen kalmisto",
+      "leveysaste": 60.977773,
+      "pituusaste": 24.441546,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 587,
+      "nimi": "redutti",
+      "leveysaste": 60.706332,
+      "pituusaste": 27.009262,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 588,
+      "nimi": "redutti",
+      "leveysaste": 60.706362,
+      "pituusaste": 27.009219,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 589,
+      "nimi": "talon kivijalka",
+      "leveysaste": 60.145102,
+      "pituusaste": 24.187362,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 590,
+      "nimi": "talon kivijalka",
+      "leveysaste": 60.145243,
+      "pituusaste": 24.186796,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 591,
+      "nimi": "Äijänkivi",
+      "leveysaste": 65.408239,
+      "pituusaste": 24.993114,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    },
+    {
+      "id": 592,
+      "nimi": "Ålandsberetin muinaishauta",
+      "leveysaste": 60.058068,
+      "pituusaste": 24.309433,
+      "osm_avain": "historic",
+      "osm_arvo": "archaeological_site",
+      "osm_luokka": "historic=archaeological_site"
+    }
+  ],
+  "meta": {
+    "title": "Muinaisjäännökset – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Muinaisjäännökset Suomessa — 592 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=archaeological_site`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 7. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 592 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Muinaisjäännökset – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Muinaisjäännökset – Suomi (OpenStreetMap) — 592 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 592 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

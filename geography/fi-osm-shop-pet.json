@@ -1,0 +1,1951 @@
+{
+  "id": "fi-osm-shop-pet",
+  "name": "Lemmikkieläinkaupat – Suomi (OpenStreetMap)",
+  "title": "Lemmikkieläinkaupat – Suomi (OpenStreetMap)",
+  "description": "Lemmikkieläinkaupat Suomessa — 210 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=pet`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 2. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 210,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "4 Pets",
+      "leveysaste": 60.213353,
+      "pituusaste": 24.944054,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 2,
+      "nimi": "Akvaario Kurki Oy",
+      "leveysaste": 60.291544,
+      "pituusaste": 25.041677,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 3,
+      "nimi": "Akvaariopiste",
+      "leveysaste": 60.453382,
+      "pituusaste": 22.272714,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 4,
+      "nimi": "AniMatZoo Eläintarvikeliike",
+      "leveysaste": 61.174746,
+      "pituusaste": 22.694486,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 5,
+      "nimi": "Artun Koiratarvike",
+      "leveysaste": 61.18482,
+      "pituusaste": 28.796581,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 6,
+      "nimi": "Artun Koiratarvike",
+      "leveysaste": 61.184831,
+      "pituusaste": 28.796582,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 7,
+      "nimi": "Auran Tassupuoti",
+      "leveysaste": 60.649002,
+      "pituusaste": 22.58871,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 8,
+      "nimi": "Bali the dog",
+      "leveysaste": 60.160001,
+      "pituusaste": 24.943142,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 9,
+      "nimi": "Dogman",
+      "leveysaste": 60.438789,
+      "pituusaste": 22.23184,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 10,
+      "nimi": "Dogman",
+      "leveysaste": 60.492145,
+      "pituusaste": 22.227361,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 11,
+      "nimi": "Dogman",
+      "leveysaste": 60.957998,
+      "pituusaste": 25.656893,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 12,
+      "nimi": "Dogman",
+      "leveysaste": 64.954761,
+      "pituusaste": 25.527747,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 13,
+      "nimi": "Dogman and Friends",
+      "leveysaste": 60.237026,
+      "pituusaste": 24.892738,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 14,
+      "nimi": "EHYT Outlet",
+      "leveysaste": 60.386084,
+      "pituusaste": 23.060595,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 15,
+      "nimi": "Elainpalvelu Operantti",
+      "leveysaste": 62.302365,
+      "pituusaste": 25.70875,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 16,
+      "nimi": "Eläinkumppanit",
+      "leveysaste": 62.301085,
+      "pituusaste": 27.162194,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 17,
+      "nimi": "Eläinplaneetta",
+      "leveysaste": 64.22611,
+      "pituusaste": 27.728946,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 18,
+      "nimi": "Eläintarvike Doggis",
+      "leveysaste": 60.1842,
+      "pituusaste": 24.917989,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 19,
+      "nimi": "Eläintarvike Hau&Mau",
+      "leveysaste": 60.397636,
+      "pituusaste": 25.018707,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 20,
+      "nimi": "Eläintarvike Huputitihumma & Hundkarusellen",
+      "leveysaste": 63.542412,
+      "pituusaste": 29.139522,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 21,
+      "nimi": "Eläintarvike Jatapet",
+      "leveysaste": 60.389799,
+      "pituusaste": 25.11412,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 22,
+      "nimi": "Eläintarvike Käpälämäki",
+      "leveysaste": 60.514282,
+      "pituusaste": 26.932214,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 23,
+      "nimi": "Eläintarvike Norppis",
+      "leveysaste": 61.167794,
+      "pituusaste": 28.781533,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 24,
+      "nimi": "Eläintarvikeliike Tottakai",
+      "leveysaste": 60.50331,
+      "pituusaste": 26.874245,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 25,
+      "nimi": "Fanimal Raakaruokapuoti",
+      "leveysaste": 60.497395,
+      "pituusaste": 25.132492,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 26,
+      "nimi": "Faunatar",
+      "leveysaste": 60.218105,
+      "pituusaste": 24.812445,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 27,
+      "nimi": "Faunatar",
+      "leveysaste": 60.292439,
+      "pituusaste": 24.964776,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 28,
+      "nimi": "Faunatar",
+      "leveysaste": 60.872622,
+      "pituusaste": 26.656487,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 29,
+      "nimi": "Faunatar",
+      "leveysaste": 60.872625,
+      "pituusaste": 26.656507,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 30,
+      "nimi": "Faunatar",
+      "leveysaste": 60.980932,
+      "pituusaste": 25.735053,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 31,
+      "nimi": "Faunatar",
+      "leveysaste": 62.793644,
+      "pituusaste": 22.791989,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 32,
+      "nimi": "Findogs Oy",
+      "leveysaste": 62.548358,
+      "pituusaste": 24.085285,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 33,
+      "nimi": "Funpet",
+      "leveysaste": 61.475851,
+      "pituusaste": 23.838638,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 34,
+      "nimi": "Haapalan Terraario- ja Akvaariotarvike",
+      "leveysaste": 60.468,
+      "pituusaste": 22.237177,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 35,
+      "nimi": "Helsingin akvaariokeskus",
+      "leveysaste": 60.162967,
+      "pituusaste": 24.908216,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 36,
+      "nimi": "Hoppsan Lohja",
+      "leveysaste": 60.248387,
+      "pituusaste": 24.062353,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 37,
+      "nimi": "Hööks",
+      "leveysaste": 60.487878,
+      "pituusaste": 22.208954,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 38,
+      "nimi": "Hööks",
+      "leveysaste": 62.822646,
+      "pituusaste": 27.603968,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 39,
+      "nimi": "Jyväskylän Pet No. 1",
+      "leveysaste": 62.26283,
+      "pituusaste": 25.778838,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 40,
+      "nimi": "Jälki",
+      "leveysaste": 66.500773,
+      "pituusaste": 25.712791,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 41,
+      "nimi": "KALA & KONNA OY",
+      "leveysaste": 60.569939,
+      "pituusaste": 27.199651,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 42,
+      "nimi": "Kalakaveri",
+      "leveysaste": 64.935682,
+      "pituusaste": 25.401477,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 43,
+      "nimi": "Karkkilan Eläintarvike",
+      "leveysaste": 60.534045,
+      "pituusaste": 24.23164,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 44,
+      "nimi": "Karvakorvat Lieto",
+      "leveysaste": 60.502517,
+      "pituusaste": 22.458727,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 45,
+      "nimi": "Katjan lemmikkipalvelu pikkupeto",
+      "leveysaste": 60.455794,
+      "pituusaste": 22.68944,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 46,
+      "nimi": "Kennel Jeslex",
+      "leveysaste": 60.23961,
+      "pituusaste": 24.734072,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 47,
+      "nimi": "Kennel Jeslex",
+      "leveysaste": 60.250338,
+      "pituusaste": 24.922542,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 48,
+      "nimi": "Koirahoitola Miracle",
+      "leveysaste": 60.253267,
+      "pituusaste": 24.409478,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 49,
+      "nimi": "Käpäläväki",
+      "leveysaste": 61.416644,
+      "pituusaste": 23.756665,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 50,
+      "nimi": "Laihian eläintarvike",
+      "leveysaste": 62.981138,
+      "pituusaste": 22.006537,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 51,
+      "nimi": "Lemmikki Oy Tehtaanmyymälä",
+      "leveysaste": 62.927051,
+      "pituusaste": 27.684649,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 52,
+      "nimi": "Lemmikkipalvelu Anturan",
+      "leveysaste": 60.996689,
+      "pituusaste": 24.462375,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 53,
+      "nimi": "Lemmikkisirkus",
+      "leveysaste": 62.298905,
+      "pituusaste": 27.160036,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 54,
+      "nimi": "Lemmikkitaivas",
+      "leveysaste": 60.149551,
+      "pituusaste": 24.654879,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 55,
+      "nimi": "Lemmikkitaivas",
+      "leveysaste": 60.226201,
+      "pituusaste": 24.740875,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 56,
+      "nimi": "Lemmikkitarvike Danpii",
+      "leveysaste": 60.687411,
+      "pituusaste": 26.799079,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 57,
+      "nimi": "Megaeläin",
+      "leveysaste": 60.211725,
+      "pituusaste": 25.083582,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 58,
+      "nimi": "Megaeläin Iso Omena",
+      "leveysaste": 60.161976,
+      "pituusaste": 24.73795,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 59,
+      "nimi": "Mirkan Lemmikkitarvikepuoti",
+      "leveysaste": 62.255491,
+      "pituusaste": 25.188321,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 60,
+      "nimi": "Murren Murkina",
+      "leveysaste": 60.242439,
+      "pituusaste": 24.845404,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 61,
+      "nimi": "Murren Murkina",
+      "leveysaste": 60.281388,
+      "pituusaste": 24.96972,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 62,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.131372,
+      "pituusaste": 19.933747,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 63,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.148988,
+      "pituusaste": 24.655966,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 64,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.160297,
+      "pituusaste": 24.738431,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 65,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.163528,
+      "pituusaste": 24.91025,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 66,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.165101,
+      "pituusaste": 24.704453,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 67,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.16837,
+      "pituusaste": 24.942638,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 68,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.169633,
+      "pituusaste": 24.93349,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 69,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.175997,
+      "pituusaste": 24.804437,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 70,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.178868,
+      "pituusaste": 24.949607,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 71,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.192043,
+      "pituusaste": 25.026617,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 72,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.19474,
+      "pituusaste": 25.033336,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 73,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.203647,
+      "pituusaste": 24.658958,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 74,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.206141,
+      "pituusaste": 24.876328,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 75,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.207734,
+      "pituusaste": 25.144555,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 76,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.20983,
+      "pituusaste": 25.085963,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 77,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.210339,
+      "pituusaste": 25.080221,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 78,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.22509,
+      "pituusaste": 24.028679,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 79,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.227258,
+      "pituusaste": 25.008694,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 80,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.237154,
+      "pituusaste": 24.893789,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 81,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.246649,
+      "pituusaste": 24.844884,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 82,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.251826,
+      "pituusaste": 25.010735,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 83,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.260043,
+      "pituusaste": 24.854004,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 84,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.272647,
+      "pituusaste": 24.120922,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 85,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.277832,
+      "pituusaste": 24.8131,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 86,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.279805,
+      "pituusaste": 25.081984,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 87,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.285922,
+      "pituusaste": 24.977128,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 88,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.290854,
+      "pituusaste": 24.966072,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 89,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.293306,
+      "pituusaste": 25.034764,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 90,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.313184,
+      "pituusaste": 24.847621,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 91,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.32401,
+      "pituusaste": 25.057167,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 92,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.332595,
+      "pituusaste": 24.322047,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 93,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.377561,
+      "pituusaste": 24.760859,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 94,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.379495,
+      "pituusaste": 24.753383,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 95,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.388602,
+      "pituusaste": 25.605185,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 96,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.395869,
+      "pituusaste": 23.12753,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 97,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.397153,
+      "pituusaste": 25.01932,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 98,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.401648,
+      "pituusaste": 25.102835,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 99,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.40165,
+      "pituusaste": 25.102816,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 100,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.429964,
+      "pituusaste": 22.323148,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 101,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.44114,
+      "pituusaste": 22.281193,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 102,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.445687,
+      "pituusaste": 22.323858,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 103,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.452678,
+      "pituusaste": 26.207343,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 104,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.472133,
+      "pituusaste": 22.233572,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 105,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.473916,
+      "pituusaste": 22.28715,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 106,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.55297,
+      "pituusaste": 22.115527,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 107,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.630443,
+      "pituusaste": 24.865012,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 108,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.636034,
+      "pituusaste": 25.315753,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 109,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.804863,
+      "pituusaste": 25.731173,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 110,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.805447,
+      "pituusaste": 21.424086,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 111,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.856394,
+      "pituusaste": 23.046037,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 112,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.877328,
+      "pituusaste": 26.652017,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 113,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.877364,
+      "pituusaste": 26.652045,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 114,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.963907,
+      "pituusaste": 25.65812,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 115,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.981613,
+      "pituusaste": 25.73667,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 116,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.986966,
+      "pituusaste": 25.664326,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 117,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 60.989282,
+      "pituusaste": 25.51502,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 118,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.007049,
+      "pituusaste": 24.418271,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 119,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.04414,
+      "pituusaste": 28.217226,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 120,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.049165,
+      "pituusaste": 28.176528,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 121,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.189891,
+      "pituusaste": 28.764992,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 122,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.233038,
+      "pituusaste": 26.04276,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 123,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.277672,
+      "pituusaste": 24.015928,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 124,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.359923,
+      "pituusaste": 23.796031,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 125,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.359936,
+      "pituusaste": 23.79603,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 126,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.467919,
+      "pituusaste": 23.775975,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 127,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.475778,
+      "pituusaste": 23.839015,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 128,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.477524,
+      "pituusaste": 21.755462,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 129,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.478498,
+      "pituusaste": 23.52503,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 130,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.491447,
+      "pituusaste": 23.817576,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 131,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.4932,
+      "pituusaste": 23.766827,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 132,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.520002,
+      "pituusaste": 23.665051,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 133,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.557582,
+      "pituusaste": 23.570926,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 134,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.658407,
+      "pituusaste": 23.182425,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 135,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.864245,
+      "pituusaste": 25.190851,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 136,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 61.869661,
+      "pituusaste": 28.880239,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 137,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.215252,
+      "pituusaste": 25.720726,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 138,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.247554,
+      "pituusaste": 25.875671,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 139,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.257016,
+      "pituusaste": 25.77401,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 140,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.288495,
+      "pituusaste": 25.716959,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 141,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.433102,
+      "pituusaste": 22.186004,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 142,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.601947,
+      "pituusaste": 25.723592,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 143,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.617314,
+      "pituusaste": 29.776857,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 144,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.628105,
+      "pituusaste": 29.704134,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 145,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.793402,
+      "pituusaste": 22.791671,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 146,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.822672,
+      "pituusaste": 27.603673,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 147,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.864168,
+      "pituusaste": 27.612884,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 148,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.933106,
+      "pituusaste": 27.673724,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 149,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 62.974397,
+      "pituusaste": 23.023844,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 150,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 63.109793,
+      "pituusaste": 21.653849,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 151,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 63.680194,
+      "pituusaste": 22.735931,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 152,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 63.82934,
+      "pituusaste": 23.155024,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 153,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 64.063208,
+      "pituusaste": 24.554138,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 154,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 64.223549,
+      "pituusaste": 27.73597,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 155,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 64.677531,
+      "pituusaste": 24.486442,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 156,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 64.957826,
+      "pituusaste": 25.528862,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 157,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 65.030371,
+      "pituusaste": 25.469363,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 158,
+      "nimi": "Musti ja Mirri",
+      "leveysaste": 65.075336,
+      "pituusaste": 25.44553,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 159,
+      "nimi": "Musti ja Mirri Kuopio Savilahti",
+      "leveysaste": 62.886266,
+      "pituusaste": 27.630303,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 160,
+      "nimi": "Neovet",
+      "leveysaste": 60.85078,
+      "pituusaste": 23.06161,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 161,
+      "nimi": "Onnen Lemmikit",
+      "leveysaste": 61.450203,
+      "pituusaste": 23.751795,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 162,
+      "nimi": "Oskutuote Oy",
+      "leveysaste": 62.794532,
+      "pituusaste": 27.090414,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 163,
+      "nimi": "PawTeam",
+      "leveysaste": 60.419157,
+      "pituusaste": 24.316916,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 164,
+      "nimi": "Pekan akvaario Oy / TUJOMA",
+      "leveysaste": 60.965131,
+      "pituusaste": 24.444193,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 165,
+      "nimi": "Pet No. 1",
+      "leveysaste": 62.258571,
+      "pituusaste": 25.779583,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 166,
+      "nimi": "PetHolic.Net",
+      "leveysaste": 60.406792,
+      "pituusaste": 25.118209,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 167,
+      "nimi": "PetMart Salon Akvaarioliike",
+      "leveysaste": 60.387595,
+      "pituusaste": 23.122531,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 168,
+      "nimi": "PetPoint",
+      "leveysaste": 60.533692,
+      "pituusaste": 24.21011,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 169,
+      "nimi": "Peten Koiratarvike",
+      "leveysaste": 60.203177,
+      "pituusaste": 24.784332,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 170,
+      "nimi": "Peten Koiratarvike",
+      "leveysaste": 60.935148,
+      "pituusaste": 25.63111,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 171,
+      "nimi": "Peten Koiratarvike",
+      "leveysaste": 61.467265,
+      "pituusaste": 23.719934,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 172,
+      "nimi": "Peten Koiratarvike",
+      "leveysaste": 64.962562,
+      "pituusaste": 25.518334,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 173,
+      "nimi": "PetenKoiratarvike.com",
+      "leveysaste": 60.278149,
+      "pituusaste": 24.971674,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 174,
+      "nimi": "Petola",
+      "leveysaste": 60.431578,
+      "pituusaste": 22.330399,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 175,
+      "nimi": "Petzoo",
+      "leveysaste": 60.867892,
+      "pituusaste": 26.708009,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 176,
+      "nimi": "Pieni Eläinkauppa",
+      "leveysaste": 62.883224,
+      "pituusaste": 27.673387,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 177,
+      "nimi": "Porin Murre",
+      "leveysaste": 61.476006,
+      "pituusaste": 21.817447,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 178,
+      "nimi": "Rahulan Rehu",
+      "leveysaste": 61.705204,
+      "pituusaste": 27.324135,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 179,
+      "nimi": "Rockwell's",
+      "leveysaste": 60.467107,
+      "pituusaste": 22.03345,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 180,
+      "nimi": "Rovio Pet Foods",
+      "leveysaste": 60.842861,
+      "pituusaste": 23.006769,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 181,
+      "nimi": "Salamanteri",
+      "leveysaste": 60.63352,
+      "pituusaste": 24.859493,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 182,
+      "nimi": "Savon Lemmikki",
+      "leveysaste": 63.556101,
+      "pituusaste": 27.189616,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 183,
+      "nimi": "Siilin lemmikki",
+      "leveysaste": 63.076285,
+      "pituusaste": 27.661567,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 184,
+      "nimi": "Siinan Piha & Lemmikki Oy",
+      "leveysaste": 60.999478,
+      "pituusaste": 24.444071,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 185,
+      "nimi": "Sohvin Valinta",
+      "leveysaste": 62.581459,
+      "pituusaste": 29.803759,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 186,
+      "nimi": "Sohvin valinta",
+      "leveysaste": 62.611488,
+      "pituusaste": 29.773368,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 187,
+      "nimi": "Sokeritassu",
+      "leveysaste": 60.62416,
+      "pituusaste": 24.870509,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 188,
+      "nimi": "Suomen koiratarhatehdas",
+      "leveysaste": 60.262596,
+      "pituusaste": 24.882127,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 189,
+      "nimi": "Super Pet",
+      "leveysaste": 61.187398,
+      "pituusaste": 28.770539,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 190,
+      "nimi": "Tampereen Akvaariokala",
+      "leveysaste": 61.500789,
+      "pituusaste": 23.778277,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 191,
+      "nimi": "Tassumafia",
+      "leveysaste": 60.163584,
+      "pituusaste": 24.916064,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 192,
+      "nimi": "Tintin Lemmikki",
+      "leveysaste": 62.608267,
+      "pituusaste": 29.775982,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 193,
+      "nimi": "Top-tassut",
+      "leveysaste": 61.461577,
+      "pituusaste": 24.067889,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 194,
+      "nimi": "TopDog",
+      "leveysaste": 60.334615,
+      "pituusaste": 24.319581,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 195,
+      "nimi": "Trimmiteria",
+      "leveysaste": 60.445214,
+      "pituusaste": 22.584172,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 196,
+      "nimi": "Tropicals Oy",
+      "leveysaste": 60.44734,
+      "pituusaste": 22.304321,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 197,
+      "nimi": "U:gin Lemmikkipuoti",
+      "leveysaste": 60.800998,
+      "pituusaste": 21.411292,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 198,
+      "nimi": "Uusi Akvaario",
+      "leveysaste": 60.454997,
+      "pituusaste": 22.264524,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 199,
+      "nimi": "Vahvatassu",
+      "leveysaste": 60.811265,
+      "pituusaste": 25.748172,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 200,
+      "nimi": "Vauhti-Raksu Oy",
+      "leveysaste": 60.414752,
+      "pituusaste": 26.243788,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 201,
+      "nimi": "VipPet",
+      "leveysaste": 60.851053,
+      "pituusaste": 23.06071,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 202,
+      "nimi": "Voimaeläin",
+      "leveysaste": 60.392346,
+      "pituusaste": 23.131674,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 203,
+      "nimi": "Voimaeläin",
+      "leveysaste": 60.473866,
+      "pituusaste": 22.281512,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 204,
+      "nimi": "Vorssan Lemmikkipuati",
+      "leveysaste": 60.812668,
+      "pituusaste": 23.621986,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 205,
+      "nimi": "Woof's",
+      "leveysaste": 62.764526,
+      "pituusaste": 22.83887,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 206,
+      "nimi": "Wuf.fi Lielahti",
+      "leveysaste": 61.5138,
+      "pituusaste": 23.672361,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 207,
+      "nimi": "Zoo arken",
+      "leveysaste": 60.102728,
+      "pituusaste": 19.94221,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 208,
+      "nimi": "Zoo ligan",
+      "leveysaste": 60.103698,
+      "pituusaste": 19.939283,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 209,
+      "nimi": "ZooJatar",
+      "leveysaste": 60.466796,
+      "pituusaste": 22.224275,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    },
+    {
+      "id": 210,
+      "nimi": "Zoomiis Kerava",
+      "leveysaste": 60.406047,
+      "pituusaste": 25.104617,
+      "osm_avain": "shop",
+      "osm_arvo": "pet",
+      "osm_luokka": "shop=pet"
+    }
+  ],
+  "meta": {
+    "title": "Lemmikkieläinkaupat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Lemmikkieläinkaupat Suomessa — 210 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=pet`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 2. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 210 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Lemmikkieläinkaupat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Lemmikkieläinkaupat – Suomi (OpenStreetMap) — 210 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 210 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

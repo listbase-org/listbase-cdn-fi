@@ -1,0 +1,416 @@
+{
+  "id": "fi-yliopistot",
+  "name": "Finland — Universities (yliopistot)",
+  "title": "Finland — Universities (yliopistot)",
+  "description": "List of accredited universities and higher-education institutions in Finland. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Finland\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aalto University",
+      "slug": "aalto",
+      "domain": "aalto.fi",
+      "domains": "aalto.fi",
+      "web_page": "https://www.aalto.fi",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Abo Akademi University",
+      "slug": "abo",
+      "domain": "abo.fi",
+      "domains": "abo.fi",
+      "web_page": "http://www.abo.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Fine Arts",
+      "slug": "kuva",
+      "domain": "kuva.fi",
+      "domains": "kuva.fi",
+      "web_page": "http://www.kuva.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Central Ostrobothnia University of Applied Sciences",
+      "slug": "cou",
+      "domain": "cou.fi",
+      "domains": "cou.fi",
+      "web_page": "http://www.cou.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Diaconia University of Applied Sciences",
+      "slug": "diak",
+      "domain": "diak.fi",
+      "domains": "diak.fi",
+      "web_page": "http://www.diak.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "EVTEK University of Applied Sciences",
+      "slug": "evtek",
+      "domain": "evtek.fi",
+      "domains": "evtek.fi",
+      "web_page": "http://www.evtek.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Helsinki School of Economics and Business Administration",
+      "slug": "hkkk",
+      "domain": "hkkk.fi",
+      "domains": "hkkk.fi",
+      "web_page": "http://www.hkkk.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Helsinki University of Technology",
+      "slug": "hut",
+      "domain": "hut.fi",
+      "domains": "hut.fi",
+      "web_page": "http://www.hut.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Häme University of Applied Sciences",
+      "slug": "hamk",
+      "domain": "hamk.fi",
+      "domains": "hamk.fi",
+      "web_page": "https://www.hamk.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Lahti Polytechnic",
+      "slug": "lamk",
+      "domain": "lamk.fi",
+      "domains": "lamk.fi, student.lamk.fi",
+      "web_page": "http://www.lamk.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Lappeenranta University of Technology",
+      "slug": "lut",
+      "domain": "lut.fi",
+      "domains": "lut.fi, student.lut.fi",
+      "web_page": "http://www.lut.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Laurea University of Applied Sciences",
+      "slug": "laurea",
+      "domain": "laurea.fi",
+      "domains": "laurea.fi, student.laurea.fi",
+      "web_page": "http://www.laurea.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Metropolia University of Applied Sciences",
+      "slug": "metropolia",
+      "domain": "metropolia.fi",
+      "domains": "metropolia.fi",
+      "web_page": "https://www.metropolia.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Oulu Polytechnic",
+      "slug": "oamk",
+      "domain": "oamk.fi",
+      "domains": "oamk.fi",
+      "web_page": "http://www.oamk.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Rovaniemi University of Applied Sciences",
+      "slug": "ramk",
+      "domain": "ramk.fi",
+      "domains": "ramk.fi",
+      "web_page": "http://www.ramk.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Satakunta University Of Applied Scinces",
+      "slug": "samk",
+      "domain": "samk.fi",
+      "domains": "samk.fi",
+      "web_page": "http://www.samk.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Scandinavian Art and Business Institute",
+      "slug": "sabi",
+      "domain": "sabi.eu.com",
+      "domains": "sabi.eu.com",
+      "web_page": "http://www.sabi.eu.com/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Sibelius Academy",
+      "slug": "siba",
+      "domain": "siba.fi",
+      "domains": "siba.fi",
+      "web_page": "http://www.siba.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "South Carelian Polytechnic",
+      "slug": "scp",
+      "domain": "scp.fi",
+      "domains": "scp.fi",
+      "web_page": "http://www.scp.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Swedish School of Economics and Business Administration, Finland",
+      "slug": "shh",
+      "domain": "shh.fi",
+      "domains": "shh.fi",
+      "web_page": "http://www.shh.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Tampere Polytechnic",
+      "slug": "tpu",
+      "domain": "tpu.fi",
+      "domains": "tpu.fi",
+      "web_page": "http://www.tpu.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Tampere University of Technology",
+      "slug": "tut",
+      "domain": "tut.fi",
+      "domains": "tut.fi",
+      "web_page": "http://www.tut.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Theatre Academy Finland",
+      "slug": "teak",
+      "domain": "teak.fi",
+      "domains": "teak.fi",
+      "web_page": "http://www.teak.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Turku School of Economics and Business Administration",
+      "slug": "tukkk",
+      "domain": "tukkk.fi",
+      "domains": "tukkk.fi",
+      "web_page": "http://www.tukkk.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Art and Design Helsinki",
+      "slug": "uiah",
+      "domain": "uiah.fi",
+      "domains": "uiah.fi",
+      "web_page": "http://www.uiah.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Helsinki",
+      "slug": "helsinki",
+      "domain": "helsinki.fi",
+      "domains": "helsinki.fi",
+      "web_page": "http://www.helsinki.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Joensuu",
+      "slug": "joensuu",
+      "domain": "joensuu.fi",
+      "domains": "joensuu.fi",
+      "web_page": "http://www.joensuu.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Jyväskylä",
+      "slug": "jyu",
+      "domain": "jyu.fi",
+      "domains": "jyu.fi",
+      "web_page": "http://www.jyu.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Kuopio",
+      "slug": "uku",
+      "domain": "uku.fi",
+      "domains": "uku.fi",
+      "web_page": "http://www.uku.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Lapland",
+      "slug": "ulapland",
+      "domain": "ulapland.fi",
+      "domains": "ulapland.fi",
+      "web_page": "http://www.ulapland.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Oulu",
+      "slug": "oulu",
+      "domain": "oulu.fi",
+      "domains": "oulu.fi",
+      "web_page": "http://www.oulu.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Tampere",
+      "slug": "uta",
+      "domain": "uta.fi",
+      "domains": "uta.fi",
+      "web_page": "http://www.uta.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Turku",
+      "slug": "utu",
+      "domain": "utu.fi",
+      "domains": "utu.fi",
+      "web_page": "http://www.utu.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "University of Vaasa",
+      "slug": "uwasa",
+      "domain": "uwasa.fi",
+      "domains": "uwasa.fi",
+      "web_page": "http://www.uwasa.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    },
+    {
+      "name": "Vaasa University of Applied Sciences",
+      "slug": "puv",
+      "domain": "puv.fi",
+      "domains": "puv.fi",
+      "web_page": "http://www.puv.fi/",
+      "country": "Finland",
+      "country_code": "FI",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland — Universities (yliopistot) - Ilmainen lataus",
+    "description": "List of accredited universities and higher-education institutions in Finland. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Finland\"). Sisältää 35 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland — Universities (yliopistot) | ListBase",
+    "seo_description": "Lataa Finland — Universities (yliopistot) — 35 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 35 tietuetta / 8 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

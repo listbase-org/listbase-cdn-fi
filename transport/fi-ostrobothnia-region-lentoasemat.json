@@ -1,0 +1,114 @@
+{
+  "id": "fi-ostrobothnia-region-lentoasemat",
+  "name": "Finland / Pohjanmaa — Airports (lentoasemat)",
+  "title": "Finland / Pohjanmaa — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Pohjanmaa (Ostrobothnia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Ostrobothnia'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFKK",
+      "iata": "KOK",
+      "name": "Kruunupyy Airport",
+      "city": "Kokkola / Kruunupyy",
+      "subdivision": "Ostrobothnia",
+      "subdivision_name_fi": "Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 84,
+      "latitude": 63.7212,
+      "longitude": 23.1431,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFVA",
+      "iata": "VAA",
+      "name": "Vaasa Airport",
+      "city": "Vaasa",
+      "subdivision": "Ostrobothnia",
+      "subdivision_name_fi": "Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 19,
+      "latitude": 63.0507,
+      "longitude": 21.7622,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Pohjanmaa — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Pohjanmaa (Ostrobothnia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Ostrobothnia'. Sisältää 2 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Pohjanmaa — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Pohjanmaa — Airports (lentoasemat) — 2 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 2 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "fi-kanta-hame-lentoasemat",
+  "name": "Finland / Kanta-Häme — Airports (lentoasemat)",
+  "title": "Finland / Kanta-Häme — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Kanta-Häme (Kanta-Häme (Tavastia Proper)), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Tavastia-Proper'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFFO",
+      "iata": "",
+      "name": "Forssa Airport",
+      "city": "Forssa",
+      "subdivision": "Tavastia-Proper",
+      "subdivision_name_fi": "Kanta-Häme",
+      "country": "FI",
+      "elevation_ft": 325,
+      "latitude": 60.8019,
+      "longitude": 23.6456,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFRY",
+      "iata": "",
+      "name": "Rayskala Airport",
+      "city": "",
+      "subdivision": "Tavastia-Proper",
+      "subdivision_name_fi": "Kanta-Häme",
+      "country": "FI",
+      "elevation_ft": 407,
+      "latitude": 60.7447,
+      "longitude": 24.1078,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Kanta-Häme — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Kanta-Häme (Kanta-Häme (Tavastia Proper)), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Tavastia-Proper'. Sisältää 2 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Kanta-Häme — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Kanta-Häme — Airports (lentoasemat) — 2 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 2 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

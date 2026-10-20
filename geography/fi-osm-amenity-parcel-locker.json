@@ -1,0 +1,2446 @@
+{
+  "id": "fi-osm-amenity-parcel-locker",
+  "name": "Pakettiautomaatit – Suomi (OpenStreetMap)",
+  "title": "Pakettiautomaatit – Suomi (OpenStreetMap)",
+  "description": "Pakettiautomaatit Suomessa — 265 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=parcel_locker`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 265,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Agora 24/7",
+      "leveysaste": 60.171011,
+      "pituusaste": 24.775565,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 2,
+      "nimi": "Agora 24/7",
+      "leveysaste": 60.263572,
+      "pituusaste": 24.872777,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 3,
+      "nimi": "Agora 24/7",
+      "leveysaste": 60.263576,
+      "pituusaste": 24.872777,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 4,
+      "nimi": "Budbee",
+      "leveysaste": 60.148948,
+      "pituusaste": 24.656609,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 5,
+      "nimi": "Budbee",
+      "leveysaste": 60.160093,
+      "pituusaste": 24.880838,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 6,
+      "nimi": "Budbee",
+      "leveysaste": 60.168089,
+      "pituusaste": 24.661496,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 7,
+      "nimi": "Budbee",
+      "leveysaste": 60.194388,
+      "pituusaste": 25.032812,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 8,
+      "nimi": "Budbee",
+      "leveysaste": 60.255778,
+      "pituusaste": 24.950267,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 9,
+      "nimi": "Budbee",
+      "leveysaste": 60.257,
+      "pituusaste": 24.945984,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 10,
+      "nimi": "Budbee",
+      "leveysaste": 60.262594,
+      "pituusaste": 24.870887,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 11,
+      "nimi": "Budbee",
+      "leveysaste": 60.277913,
+      "pituusaste": 24.853631,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 12,
+      "nimi": "Budbee",
+      "leveysaste": 60.278684,
+      "pituusaste": 24.853826,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 13,
+      "nimi": "Budbee",
+      "leveysaste": 60.2932,
+      "pituusaste": 25.034222,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 14,
+      "nimi": "Budbee",
+      "leveysaste": 60.313362,
+      "pituusaste": 24.846059,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 15,
+      "nimi": "Budbee",
+      "leveysaste": 60.32396,
+      "pituusaste": 25.037896,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 16,
+      "nimi": "Budbee",
+      "leveysaste": 60.381218,
+      "pituusaste": 24.748997,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 17,
+      "nimi": "Budbee",
+      "leveysaste": 60.422346,
+      "pituusaste": 22.284224,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 18,
+      "nimi": "Budbee",
+      "leveysaste": 60.446583,
+      "pituusaste": 22.321853,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 19,
+      "nimi": "Budbee",
+      "leveysaste": 60.457532,
+      "pituusaste": 22.234409,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 20,
+      "nimi": "Budbee",
+      "leveysaste": 61.360415,
+      "pituusaste": 21.623255,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 21,
+      "nimi": "Budbee",
+      "leveysaste": 62.5981,
+      "pituusaste": 29.7589,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 22,
+      "nimi": "Budbee",
+      "leveysaste": 62.601413,
+      "pituusaste": 29.764532,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 23,
+      "nimi": "Budbee",
+      "leveysaste": 62.603124,
+      "pituusaste": 29.762043,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 24,
+      "nimi": "Budbee",
+      "leveysaste": 62.613306,
+      "pituusaste": 29.542815,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 25,
+      "nimi": "Budbee",
+      "leveysaste": 62.897903,
+      "pituusaste": 27.68099,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 26,
+      "nimi": "Budbee",
+      "leveysaste": 63.072651,
+      "pituusaste": 27.659869,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 27,
+      "nimi": "Budbee",
+      "leveysaste": 64.678443,
+      "pituusaste": 24.486814,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 28,
+      "nimi": "Budbee",
+      "leveysaste": 64.901938,
+      "pituusaste": 25.537736,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 29,
+      "nimi": "Budbee Box",
+      "leveysaste": 60.18471,
+      "pituusaste": 24.825753,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 30,
+      "nimi": "Budbee Box",
+      "leveysaste": 60.244473,
+      "pituusaste": 24.898771,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 31,
+      "nimi": "Budbee Box, Kauppakeskus Ainoa",
+      "leveysaste": 60.17451,
+      "pituusaste": 24.803572,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 32,
+      "nimi": "Budbee Box, Kauppakeskus Niitty",
+      "leveysaste": 60.170494,
+      "pituusaste": 24.763394,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 33,
+      "nimi": "Budbee Box, Lidl Niittykumpu",
+      "leveysaste": 60.170746,
+      "pituusaste": 24.77476,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 34,
+      "nimi": "Budbee Box, S-market Haukilahti",
+      "leveysaste": 60.162997,
+      "pituusaste": 24.775462,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 35,
+      "nimi": "Budbee Box, S-market Pohjois-Tapiola",
+      "leveysaste": 60.185684,
+      "pituusaste": 24.80738,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 36,
+      "nimi": "Budbee pakettiautomaatti",
+      "leveysaste": 60.403346,
+      "pituusaste": 25.099648,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 37,
+      "nimi": "Budbee pakettiautomaatti, K-Market Louhela",
+      "leveysaste": 60.27105,
+      "pituusaste": 24.856203,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 38,
+      "nimi": "Budbee pakettiautomaatti, Yalla Myyrmäki",
+      "leveysaste": 60.262781,
+      "pituusaste": 24.853698,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 39,
+      "nimi": "DHL",
+      "leveysaste": 60.294382,
+      "pituusaste": 25.048136,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 40,
+      "nimi": "DHL Swipbox",
+      "leveysaste": 60.44221,
+      "pituusaste": 22.28635,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 41,
+      "nimi": "DHL-Pakettiautomaatti",
+      "leveysaste": 60.991881,
+      "pituusaste": 24.460472,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 42,
+      "nimi": "K-Citymarket Rusko",
+      "leveysaste": 65.039579,
+      "pituusaste": 25.553534,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 43,
+      "nimi": "K-Market Lastula",
+      "leveysaste": 62.133831,
+      "pituusaste": 22.559491,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 44,
+      "nimi": "K-Market Puolalankatu",
+      "leveysaste": 60.452156,
+      "pituusaste": 22.26175,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 45,
+      "nimi": "K-lähikauppa postiautomaatti",
+      "leveysaste": 60.297982,
+      "pituusaste": 22.301537,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 46,
+      "nimi": "Matkahuolto",
+      "leveysaste": 62.898607,
+      "pituusaste": 27.680274,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 47,
+      "nimi": "Matkahuolto Automaatti S-market Savela",
+      "leveysaste": 62.243066,
+      "pituusaste": 25.706947,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 48,
+      "nimi": "Matkahuolto Lintuhytinkatu 17",
+      "leveysaste": 61.442252,
+      "pituusaste": 23.896218,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 49,
+      "nimi": "Matkahuolto iBoxen",
+      "leveysaste": 60.457673,
+      "pituusaste": 22.274571,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 50,
+      "nimi": "Matkahuolto ulkoautomaatti",
+      "leveysaste": 60.149684,
+      "pituusaste": 24.6401,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 51,
+      "nimi": "Matkahuolto ulkoautomaatti",
+      "leveysaste": 60.149988,
+      "pituusaste": 24.639538,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 52,
+      "nimi": "Matkahuolto ulkoautomaatti Merituulentie 38",
+      "leveysaste": 60.170631,
+      "pituusaste": 24.762245,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 53,
+      "nimi": "Matkahuolto ulkoautomaatti, Kirjurinkatu 2",
+      "leveysaste": 60.433508,
+      "pituusaste": 22.346104,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 54,
+      "nimi": "Matkahuolto ulkoautomaatti, Linnankatu 38",
+      "leveysaste": 60.445128,
+      "pituusaste": 22.255287,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 55,
+      "nimi": "Mattssons i Godby paketautomat",
+      "leveysaste": 60.230214,
+      "pituusaste": 19.989998,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 56,
+      "nimi": "Maxinge paketautomat",
+      "leveysaste": 60.129824,
+      "pituusaste": 19.933719,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 57,
+      "nimi": "Noutopiste, Prisma Linnanmaa",
+      "leveysaste": 65.053429,
+      "pituusaste": 25.455446,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 58,
+      "nimi": "OmaPosti-kioski",
+      "leveysaste": 60.723078,
+      "pituusaste": 24.734689,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 59,
+      "nimi": "OmaPosti-kioski Hervanta",
+      "leveysaste": 61.450316,
+      "pituusaste": 23.850171,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 60,
+      "nimi": "OmaPosti-kioski Lauttis",
+      "leveysaste": 60.160117,
+      "pituusaste": 24.880899,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 61,
+      "nimi": "Oulu 90500",
+      "leveysaste": 65.024952,
+      "pituusaste": 25.475401,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 62,
+      "nimi": "Pakettiautomaatti",
+      "leveysaste": 60.236901,
+      "pituusaste": 24.891606,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 63,
+      "nimi": "Pakettiautomaatti",
+      "leveysaste": 60.731281,
+      "pituusaste": 24.763063,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 64,
+      "nimi": "Pakettiautomaatti",
+      "leveysaste": 60.805001,
+      "pituusaste": 21.425355,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 65,
+      "nimi": "Pakettiautomaatti",
+      "leveysaste": 65.075907,
+      "pituusaste": 25.445763,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 66,
+      "nimi": "Pakettiautomaatti (K-Citymarket Hämeensaari)",
+      "leveysaste": 60.99154,
+      "pituusaste": 24.460935,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 67,
+      "nimi": "Pakettiautomaatti (Prisma Hämeenlinna)",
+      "leveysaste": 61.011637,
+      "pituusaste": 24.413965,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 68,
+      "nimi": "Pakettiautomaatti Sale Hervantajärvi",
+      "leveysaste": 61.439026,
+      "pituusaste": 23.87137,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 69,
+      "nimi": "Pakettiautomaatti Sale Hervantajärvi",
+      "leveysaste": 61.439041,
+      "pituusaste": 23.871362,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 70,
+      "nimi": "Pakettiautomaatti Sale Talvikangas",
+      "leveysaste": 65.045074,
+      "pituusaste": 25.58657,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 71,
+      "nimi": "Pakettiautomaatti Vuokkivarasto",
+      "leveysaste": 60.210912,
+      "pituusaste": 25.137232,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 72,
+      "nimi": "Pakettiautomaatti, K-citymarket Skanssi",
+      "leveysaste": 60.430873,
+      "pituusaste": 22.321804,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 73,
+      "nimi": "Pakettiautomaatti, S-market Pakila",
+      "leveysaste": 60.239394,
+      "pituusaste": 24.929045,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 74,
+      "nimi": "Pakettiautomaatti, Tuurin kauppakatu",
+      "leveysaste": 62.602468,
+      "pituusaste": 23.726478,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 75,
+      "nimi": "Pakettipiste",
+      "leveysaste": 60.21816,
+      "pituusaste": 24.811782,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 76,
+      "nimi": "Pakettipiste",
+      "leveysaste": 60.23688,
+      "pituusaste": 24.891492,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 77,
+      "nimi": "Pakettipiste",
+      "leveysaste": 60.293163,
+      "pituusaste": 25.034249,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 78,
+      "nimi": "Pakettipiste",
+      "leveysaste": 60.381263,
+      "pituusaste": 24.749136,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 79,
+      "nimi": "Pakettipiste",
+      "leveysaste": 60.457509,
+      "pituusaste": 22.234399,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 80,
+      "nimi": "Pakettipiste",
+      "leveysaste": 62.548534,
+      "pituusaste": 24.075384,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 81,
+      "nimi": "Pakettipiste",
+      "leveysaste": 62.549826,
+      "pituusaste": 24.086264,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 82,
+      "nimi": "Pakettipiste",
+      "leveysaste": 62.59366,
+      "pituusaste": 23.610913,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 83,
+      "nimi": "Pakettipiste",
+      "leveysaste": 62.598132,
+      "pituusaste": 29.758923,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 84,
+      "nimi": "Pakettipiste",
+      "leveysaste": 62.656624,
+      "pituusaste": 29.812425,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 85,
+      "nimi": "Pakettipiste",
+      "leveysaste": 62.764651,
+      "pituusaste": 29.848226,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 86,
+      "nimi": "Pakettipiste",
+      "leveysaste": 64.901735,
+      "pituusaste": 25.538696,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 87,
+      "nimi": "Pakettipiste Iso Omena",
+      "leveysaste": 60.162,
+      "pituusaste": 24.737832,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 88,
+      "nimi": "Pakettipiste Myyrmanni",
+      "leveysaste": 60.260052,
+      "pituusaste": 24.853372,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 89,
+      "nimi": "Pakettipiste pakettiautomaatti",
+      "leveysaste": 60.271084,
+      "pituusaste": 24.856218,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 90,
+      "nimi": "Pakettipiste, Alepa Jousenpuisto",
+      "leveysaste": 60.174349,
+      "pituusaste": 24.780137,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 91,
+      "nimi": "Pakettipiste, Kauppakeskus Ainoa",
+      "leveysaste": 60.174523,
+      "pituusaste": 24.803693,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 92,
+      "nimi": "Pakettipiste, Kauppakeskus Willa",
+      "leveysaste": 60.631463,
+      "pituusaste": 24.865337,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 93,
+      "nimi": "Pakettipiste, Prisma Hyvinkää",
+      "leveysaste": 60.630616,
+      "pituusaste": 24.86695,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 94,
+      "nimi": "Parcel Locker (S-market Turenki)",
+      "leveysaste": 60.922479,
+      "pituusaste": 24.647952,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 95,
+      "nimi": "PostNord 24/7 automaatti - Lyyrapyrstö 1",
+      "leveysaste": 61.437864,
+      "pituusaste": 23.866584,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 96,
+      "nimi": "PostNord Lähiboksi",
+      "leveysaste": 61.314146,
+      "pituusaste": 23.75795,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 97,
+      "nimi": "PostNord Lähiboksi Espoo Metro Areena",
+      "leveysaste": 60.176963,
+      "pituusaste": 24.784994,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 98,
+      "nimi": "PostNord Lähiboksi Hesburger Martinlaakso",
+      "leveysaste": 60.278138,
+      "pituusaste": 24.866994,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 99,
+      "nimi": "PostNord Lähiboksi K-market Ilpoinen",
+      "leveysaste": 60.422424,
+      "pituusaste": 22.28407,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 100,
+      "nimi": "PostNord Lähiboksi Kotipizza Hirvensalo",
+      "leveysaste": 60.417736,
+      "pituusaste": 22.229564,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 101,
+      "nimi": "PostNord Lähiboksi Pääskynlento 13",
+      "leveysaste": 60.447733,
+      "pituusaste": 22.337518,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 102,
+      "nimi": "Posti",
+      "leveysaste": 61.860688,
+      "pituusaste": 24.82915,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 103,
+      "nimi": "Posti",
+      "leveysaste": 62.095616,
+      "pituusaste": 26.07893,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 104,
+      "nimi": "Posti",
+      "leveysaste": 62.303123,
+      "pituusaste": 27.165812,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 105,
+      "nimi": "Posti",
+      "leveysaste": 62.598171,
+      "pituusaste": 29.758842,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 106,
+      "nimi": "Posti",
+      "leveysaste": 62.607789,
+      "pituusaste": 29.775471,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 107,
+      "nimi": "Posti",
+      "leveysaste": 62.656645,
+      "pituusaste": 29.812479,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 108,
+      "nimi": "Posti",
+      "leveysaste": 62.87158,
+      "pituusaste": 27.622616,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 109,
+      "nimi": "Posti",
+      "leveysaste": 62.892419,
+      "pituusaste": 27.676593,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 110,
+      "nimi": "Posti",
+      "leveysaste": 62.975207,
+      "pituusaste": 28.479978,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 111,
+      "nimi": "Posti",
+      "leveysaste": 63.555648,
+      "pituusaste": 27.190203,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 112,
+      "nimi": "Posti",
+      "leveysaste": 64.678448,
+      "pituusaste": 24.487039,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 113,
+      "nimi": "Posti Kauklahti",
+      "leveysaste": 60.193368,
+      "pituusaste": 24.600992,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 114,
+      "nimi": "Posti Pakettiautomaatti (R-Kioski)",
+      "leveysaste": 60.293185,
+      "pituusaste": 25.04328,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 115,
+      "nimi": "Posti Parcel Locker, K-Supermarket Länsiväylä",
+      "leveysaste": 62.243224,
+      "pituusaste": 25.712091,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 116,
+      "nimi": "Posti Parcel Locker, S-market Savela",
+      "leveysaste": 62.243115,
+      "pituusaste": 25.706947,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 117,
+      "nimi": "Posti Parcel Locker, Ulkoautomaatti, S-market Savela",
+      "leveysaste": 62.243218,
+      "pituusaste": 25.706815,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 118,
+      "nimi": "Posti Smartpost, Alepa Paloheinä",
+      "leveysaste": 60.247848,
+      "pituusaste": 24.923288,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 119,
+      "nimi": "Posti Ulkoautomaatti",
+      "leveysaste": 60.335457,
+      "pituusaste": 25.063472,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 120,
+      "nimi": "Posti automaatti",
+      "leveysaste": 62.593608,
+      "pituusaste": 23.611116,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 121,
+      "nimi": "Posti pakettiautomaatti",
+      "leveysaste": 60.2449,
+      "pituusaste": 24.846213,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 122,
+      "nimi": "Posti pakettiautomaatti",
+      "leveysaste": 60.390812,
+      "pituusaste": 25.09907,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 123,
+      "nimi": "Posti pakettiautomaatti",
+      "leveysaste": 60.403408,
+      "pituusaste": 25.09971,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 124,
+      "nimi": "Posti pakettiautomaatti",
+      "leveysaste": 60.404054,
+      "pituusaste": 25.141035,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 125,
+      "nimi": "Posti pakettiautomaatti",
+      "leveysaste": 61.508931,
+      "pituusaste": 23.778215,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 126,
+      "nimi": "Posti pakettiautomaatti",
+      "leveysaste": 65.02774,
+      "pituusaste": 25.440143,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 127,
+      "nimi": "Posti pakettiautomaatti Hämeenlinna Goodman",
+      "leveysaste": 60.993399,
+      "pituusaste": 24.456439,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 128,
+      "nimi": "Posti pakettiautomaatti, Kauppakeskus Ainoa",
+      "leveysaste": 60.174564,
+      "pituusaste": 24.803671,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 129,
+      "nimi": "Postin Automaatti",
+      "leveysaste": 61.099558,
+      "pituusaste": 21.505306,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 130,
+      "nimi": "Postin automaatti",
+      "leveysaste": 60.209515,
+      "pituusaste": 24.755082,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 131,
+      "nimi": "Postin automaatti",
+      "leveysaste": 60.218808,
+      "pituusaste": 24.813385,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 132,
+      "nimi": "Postin automaatti",
+      "leveysaste": 60.298783,
+      "pituusaste": 25.327127,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 133,
+      "nimi": "Postin automaatti",
+      "leveysaste": 60.442245,
+      "pituusaste": 22.28642,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 134,
+      "nimi": "Postin automaatti",
+      "leveysaste": 60.470091,
+      "pituusaste": 22.305495,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 135,
+      "nimi": "Postin automaatti",
+      "leveysaste": 64.901788,
+      "pituusaste": 25.538312,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 136,
+      "nimi": "Postin automaatti Iso Omena -1. krs.",
+      "leveysaste": 60.161932,
+      "pituusaste": 24.737997,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 137,
+      "nimi": "Postin automaatti K-Market Station",
+      "leveysaste": 60.451067,
+      "pituusaste": 22.293857,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 138,
+      "nimi": "Postin automaatti, ABC Renkomäki",
+      "leveysaste": 60.868383,
+      "pituusaste": 25.275385,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 139,
+      "nimi": "Postin automaatti, ABC Renkomäki",
+      "leveysaste": 60.93513,
+      "pituusaste": 25.634533,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 140,
+      "nimi": "Postin automaatti, Aalto-yliopiston metroasema A",
+      "leveysaste": 60.184503,
+      "pituusaste": 24.825586,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 141,
+      "nimi": "Postin automaatti, Alepa Kivenlahti",
+      "leveysaste": 60.15416,
+      "pituusaste": 24.63614,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 142,
+      "nimi": "Postin automaatti, Alepa Otaniemi",
+      "leveysaste": 60.185073,
+      "pituusaste": 24.82478,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 143,
+      "nimi": "Postin automaatti, Forum Kortteli",
+      "leveysaste": 60.450676,
+      "pituusaste": 22.268195,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 144,
+      "nimi": "Postin automaatti, Hollolan Matkakeidas",
+      "leveysaste": 60.982787,
+      "pituusaste": 25.494799,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 145,
+      "nimi": "Postin automaatti, K-Citymarket Hyvinkää",
+      "leveysaste": 60.632164,
+      "pituusaste": 24.862739,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 146,
+      "nimi": "Postin automaatti, K-Market Hakalantori",
+      "leveysaste": 60.616252,
+      "pituusaste": 24.869089,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 147,
+      "nimi": "Postin automaatti, K-Market Ilpoinen",
+      "leveysaste": 60.422338,
+      "pituusaste": 22.284246,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 148,
+      "nimi": "Postin automaatti, K-Market Jäkärlä",
+      "leveysaste": 60.543269,
+      "pituusaste": 22.342904,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 149,
+      "nimi": "Postin automaatti, K-Market Keinusaari",
+      "leveysaste": 60.998271,
+      "pituusaste": 24.479009,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 150,
+      "nimi": "Postin automaatti, K-Market Kivenlahdenkatu",
+      "leveysaste": 60.155781,
+      "pituusaste": 24.631071,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 151,
+      "nimi": "Postin automaatti, K-Market Munckinkatu",
+      "leveysaste": 60.641882,
+      "pituusaste": 24.868328,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 152,
+      "nimi": "Postin automaatti, K-Market Runos",
+      "leveysaste": 60.489848,
+      "pituusaste": 22.265072,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 153,
+      "nimi": "Postin automaatti, K-Supermarket Hollola",
+      "leveysaste": 60.98813,
+      "pituusaste": 25.543189,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 154,
+      "nimi": "Postin automaatti, K-Supermarket Kivikukkaro",
+      "leveysaste": 60.450688,
+      "pituusaste": 22.260789,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 155,
+      "nimi": "Postin automaatti, K-Supermarket Lippulaiva",
+      "leveysaste": 60.14894,
+      "pituusaste": 24.65654,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 156,
+      "nimi": "Postin automaatti, K-Supermarket Runosmäki",
+      "leveysaste": 60.483706,
+      "pituusaste": 22.272593,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 157,
+      "nimi": "Postin automaatti, K-market Aurinkolahti",
+      "leveysaste": 60.205225,
+      "pituusaste": 25.155674,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 158,
+      "nimi": "Postin automaatti, K-market Kivistö",
+      "leveysaste": 60.317492,
+      "pituusaste": 24.849572,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 159,
+      "nimi": "Postin automaatti, K-supermarket Vuosaari",
+      "leveysaste": 60.207997,
+      "pituusaste": 25.144858,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 160,
+      "nimi": "Postin automaatti, Kauppakeskus A Bloc",
+      "leveysaste": 60.184945,
+      "pituusaste": 24.825288,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 161,
+      "nimi": "Postin automaatti, Kauppakeskus Columbus",
+      "leveysaste": 60.208211,
+      "pituusaste": 25.144674,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 162,
+      "nimi": "Postin automaatti, Kauppakeskus Lippulaiva",
+      "leveysaste": 60.150554,
+      "pituusaste": 24.653805,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 163,
+      "nimi": "Postin automaatti, Kauppakeskus Niitty",
+      "leveysaste": 60.170226,
+      "pituusaste": 24.763721,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 164,
+      "nimi": "Postin automaatti, Lidl Pajala",
+      "leveysaste": 60.484819,
+      "pituusaste": 25.090259,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 165,
+      "nimi": "Postin automaatti, Lidl Sveitsinportti",
+      "leveysaste": 60.621698,
+      "pituusaste": 24.804154,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 166,
+      "nimi": "Postin automaatti, OmaPosti Kioski Myyrmanni",
+      "leveysaste": 60.259666,
+      "pituusaste": 24.852356,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 167,
+      "nimi": "Postin automaatti, OmaPosti-kioski Kivistö",
+      "leveysaste": 60.3147,
+      "pituusaste": 24.848545,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 168,
+      "nimi": "Postin automaatti, Prisma Espoo Olari",
+      "leveysaste": 60.166745,
+      "pituusaste": 24.734485,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 169,
+      "nimi": "Postin automaatti, Prisma Hollola",
+      "leveysaste": 60.989652,
+      "pituusaste": 25.515424,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 170,
+      "nimi": "Postin automaatti, Prisma Hyvinkää",
+      "leveysaste": 60.630595,
+      "pituusaste": 24.866906,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 171,
+      "nimi": "Postin automaatti, Prisma Kaleva 2. krs.",
+      "leveysaste": 61.491829,
+      "pituusaste": 23.821607,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 172,
+      "nimi": "Postin automaatti, Prisma Koivistonkylä",
+      "leveysaste": 61.46813,
+      "pituusaste": 23.775986,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 173,
+      "nimi": "Postin automaatti, Prisma Tampereentie",
+      "leveysaste": 60.473906,
+      "pituusaste": 22.286147,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 174,
+      "nimi": "Postin automaatti, R-kioski Hollola",
+      "leveysaste": 60.988547,
+      "pituusaste": 25.514532,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 175,
+      "nimi": "Postin automaatti, R-kioski Turku Humalistonkatu",
+      "leveysaste": 60.450446,
+      "pituusaste": 22.259853,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 176,
+      "nimi": "Postin automaatti, S-market Columbus",
+      "leveysaste": 60.206781,
+      "pituusaste": 25.14586,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 177,
+      "nimi": "Postin automaatti, S-market Espoonlahti",
+      "leveysaste": 60.152829,
+      "pituusaste": 24.658422,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 178,
+      "nimi": "Postin automaatti, S-market Hansaherkku",
+      "leveysaste": 60.450497,
+      "pituusaste": 22.26272,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 179,
+      "nimi": "Postin automaatti, S-market Harvialantie",
+      "leveysaste": 60.997973,
+      "pituusaste": 24.490012,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 180,
+      "nimi": "Postin automaatti, S-market Haukilahti",
+      "leveysaste": 60.162996,
+      "pituusaste": 24.775492,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 181,
+      "nimi": "Postin automaatti, S-market Ivalo",
+      "leveysaste": 68.659279,
+      "pituusaste": 27.540377,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 182,
+      "nimi": "Postin automaatti, S-market Jukola",
+      "leveysaste": 60.984549,
+      "pituusaste": 24.4163,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 183,
+      "nimi": "Postin automaatti, S-market Järvelä",
+      "leveysaste": 60.870598,
+      "pituusaste": 25.276537,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 184,
+      "nimi": "Postin automaatti, S-market Manhattan",
+      "leveysaste": 60.457486,
+      "pituusaste": 22.234389,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 185,
+      "nimi": "Postin automaatti, S-market Nöykkiö",
+      "leveysaste": 60.16817,
+      "pituusaste": 24.661837,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 186,
+      "nimi": "Postin automaatti, S-market Pohjois-Tapiola",
+      "leveysaste": 60.185719,
+      "pituusaste": 24.807356,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 187,
+      "nimi": "Postin automaatti, S-market Ristiina",
+      "leveysaste": 61.51114,
+      "pituusaste": 27.24721,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 188,
+      "nimi": "Postin automaatti, S-market Ritaharju",
+      "leveysaste": 65.081044,
+      "pituusaste": 25.448573,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 189,
+      "nimi": "Postin automaatti, S-market Saunalahti",
+      "leveysaste": 60.167686,
+      "pituusaste": 24.616717,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 190,
+      "nimi": "Postin automaatti, S-market Torpparinmäki",
+      "leveysaste": 60.256983,
+      "pituusaste": 24.946021,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 191,
+      "nimi": "Postin automaatti, S-market Vehkoja",
+      "leveysaste": 60.608443,
+      "pituusaste": 24.836661,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 192,
+      "nimi": "Postin automaatti, Sale Anttola",
+      "leveysaste": 61.582766,
+      "pituusaste": 27.650563,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 193,
+      "nimi": "Postin automaatti, Sale Hollola",
+      "leveysaste": 61.049428,
+      "pituusaste": 25.429665,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 194,
+      "nimi": "Postin automaatti, Sale Hämeenkoski",
+      "leveysaste": 61.021164,
+      "pituusaste": 25.155298,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 195,
+      "nimi": "Postin automaatti, Sale Lapinjärvi",
+      "leveysaste": 60.623535,
+      "pituusaste": 26.199126,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 196,
+      "nimi": "Postin automaatti, Sale Maikkula",
+      "leveysaste": 64.983312,
+      "pituusaste": 25.566901,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 197,
+      "nimi": "Postin automaatti, Sale Runosmäki",
+      "leveysaste": 60.488872,
+      "pituusaste": 22.261345,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 198,
+      "nimi": "Postin automaatti, Suuris",
+      "leveysaste": 60.186175,
+      "pituusaste": 24.746407,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 199,
+      "nimi": "Postin automaatti, Tokmanni Hollola",
+      "leveysaste": 60.989405,
+      "pituusaste": 25.535486,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 200,
+      "nimi": "Postin automaatti, Turun yliopisto",
+      "leveysaste": 60.454958,
+      "pituusaste": 22.284685,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 201,
+      "nimi": "Postin automaatti, Ulkoautomaatti HeseKebab Puutori",
+      "leveysaste": 60.454754,
+      "pituusaste": 22.26801,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 202,
+      "nimi": "Postin automaatti, Ulkoautomaatti S-market Torpparinmäki",
+      "leveysaste": 60.256996,
+      "pituusaste": 24.9457,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 203,
+      "nimi": "Postin automaatti, Ulkoautomaatti Sale Hallila Tampere",
+      "leveysaste": 61.466426,
+      "pituusaste": 23.836973,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 204,
+      "nimi": "Postin automaatti, Ulkoautomaatti, S-market Ritaharju",
+      "leveysaste": 65.080978,
+      "pituusaste": 25.448696,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 205,
+      "nimi": "Postin pakettiautomaatti",
+      "leveysaste": 60.255749,
+      "pituusaste": 24.950267,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 206,
+      "nimi": "Postin pakettiautomaatti",
+      "leveysaste": 61.313437,
+      "pituusaste": 23.756219,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 207,
+      "nimi": "Postin pakettiautomaatti",
+      "leveysaste": 61.313471,
+      "pituusaste": 23.759376,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 208,
+      "nimi": "Postin pakettiautomaatti",
+      "leveysaste": 61.451155,
+      "pituusaste": 23.851386,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 209,
+      "nimi": "Postin pakettiautomaatti",
+      "leveysaste": 61.50227,
+      "pituusaste": 23.758518,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 210,
+      "nimi": "Postin pakettiautomaatti Itäkeskuksen kierrätyskeskus",
+      "leveysaste": 60.20861,
+      "pituusaste": 25.085904,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 211,
+      "nimi": "Postin pakettiautomaatti Kaisaniemen kierrätyskeskus",
+      "leveysaste": 60.171696,
+      "pituusaste": 24.947928,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 212,
+      "nimi": "Postin pakettiautomaatti Kierrätyskeskus Finnoo",
+      "leveysaste": 60.158014,
+      "pituusaste": 24.707606,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 213,
+      "nimi": "Postin pakettiautomaatti Koivukylän kierrätyskeskus",
+      "leveysaste": 60.31741,
+      "pituusaste": 25.061726,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 214,
+      "nimi": "Postin pakettiautomaatti Kontulan kierrätyskeskus",
+      "leveysaste": 60.236576,
+      "pituusaste": 25.085026,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 215,
+      "nimi": "Postin pakettiautomaatti Kontumarket",
+      "leveysaste": 60.236302,
+      "pituusaste": 25.084287,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 216,
+      "nimi": "Postin pakettiautomaatti Kyläsaaren kierrätyskeskus",
+      "leveysaste": 60.198179,
+      "pituusaste": 24.9727,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 217,
+      "nimi": "Postin pakettiautomaatti Myyrmäen kierrätyskeskus",
+      "leveysaste": 60.262788,
+      "pituusaste": 24.853838,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 218,
+      "nimi": "Postin pakettiautomaatti Nihtisillan kierrätyskeskus",
+      "leveysaste": 60.209989,
+      "pituusaste": 24.753426,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 219,
+      "nimi": "Postin pakettiautomaatti S-market Kontula",
+      "leveysaste": 60.236806,
+      "pituusaste": 25.08383,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 220,
+      "nimi": "Postin pakettiautomaatti, K-Market Kannelmäki",
+      "leveysaste": 60.239156,
+      "pituusaste": 24.875172,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 221,
+      "nimi": "Postin pakettiautomaatti, K-Market Louhela",
+      "leveysaste": 60.271066,
+      "pituusaste": 24.856149,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 222,
+      "nimi": "Postin pakettiautomaatti, Tokmanni Iitti",
+      "leveysaste": 60.896101,
+      "pituusaste": 26.337386,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 223,
+      "nimi": "Postkontoret Mariehamn paketautomat",
+      "leveysaste": 60.100291,
+      "pituusaste": 19.940975,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 224,
+      "nimi": "Postnord Lähiboksi",
+      "leveysaste": 60.454851,
+      "pituusaste": 22.287815,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 225,
+      "nimi": "Postnord Lähiboksi",
+      "leveysaste": 60.463489,
+      "pituusaste": 22.289284,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 226,
+      "nimi": "Postnord Lähiboksi",
+      "leveysaste": 62.897977,
+      "pituusaste": 27.679089,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 227,
+      "nimi": "Postnord Lähiboksi",
+      "leveysaste": 65.016694,
+      "pituusaste": 25.479887,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 228,
+      "nimi": "Postnord Lähiboksi",
+      "leveysaste": 65.060148,
+      "pituusaste": 25.479353,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 229,
+      "nimi": "Postnord Lähiboksi Lidl Kaivoksela",
+      "leveysaste": 60.26194,
+      "pituusaste": 24.873633,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 230,
+      "nimi": "Postnord Lähiboksi Tieteenkatu 3",
+      "leveysaste": 61.458156,
+      "pituusaste": 23.849348,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 231,
+      "nimi": "Postnord lähiboksi",
+      "leveysaste": 60.463878,
+      "pituusaste": 22.298577,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 232,
+      "nimi": "Prisma noutopiste",
+      "leveysaste": 60.457489,
+      "pituusaste": 22.234465,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 233,
+      "nimi": "SmartPost-automaatti",
+      "leveysaste": 65.011063,
+      "pituusaste": 25.473703,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 234,
+      "nimi": "Smartmile, Kauppakeskus Niitty",
+      "leveysaste": 60.170229,
+      "pituusaste": 24.764334,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 235,
+      "nimi": "Smartpost",
+      "leveysaste": 60.239299,
+      "pituusaste": 24.849746,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 236,
+      "nimi": "Smartpost",
+      "leveysaste": 60.239495,
+      "pituusaste": 24.846026,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 237,
+      "nimi": "Smartpost",
+      "leveysaste": 60.261701,
+      "pituusaste": 24.89137,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 238,
+      "nimi": "Smartpost",
+      "leveysaste": 60.415357,
+      "pituusaste": 22.325306,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 239,
+      "nimi": "Smartpost",
+      "leveysaste": 60.457626,
+      "pituusaste": 22.307912,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 240,
+      "nimi": "Smartpost",
+      "leveysaste": 60.472419,
+      "pituusaste": 22.218956,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 241,
+      "nimi": "Smartpost",
+      "leveysaste": 60.472661,
+      "pituusaste": 22.232024,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 242,
+      "nimi": "Smartpost",
+      "leveysaste": 60.489869,
+      "pituusaste": 22.209264,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 243,
+      "nimi": "Smartpost",
+      "leveysaste": 60.489967,
+      "pituusaste": 22.170425,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 244,
+      "nimi": "Smartpost",
+      "leveysaste": 61.409779,
+      "pituusaste": 24.718786,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 245,
+      "nimi": "Smartpost",
+      "leveysaste": 63.529287,
+      "pituusaste": 22.538618,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 246,
+      "nimi": "Smartpost",
+      "leveysaste": 63.532826,
+      "pituusaste": 22.541378,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 247,
+      "nimi": "Smartpost",
+      "leveysaste": 63.666862,
+      "pituusaste": 22.704919,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 248,
+      "nimi": "Smartpost",
+      "leveysaste": 63.674921,
+      "pituusaste": 22.749337,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 249,
+      "nimi": "Smartpost",
+      "leveysaste": 63.674943,
+      "pituusaste": 22.701478,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 250,
+      "nimi": "Smartpost",
+      "leveysaste": 63.675237,
+      "pituusaste": 22.702068,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 251,
+      "nimi": "Smartpost",
+      "leveysaste": 63.677184,
+      "pituusaste": 22.714757,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 252,
+      "nimi": "Smartpost",
+      "leveysaste": 63.677548,
+      "pituusaste": 22.715753,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 253,
+      "nimi": "Smartpost",
+      "leveysaste": 63.678308,
+      "pituusaste": 22.721566,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 254,
+      "nimi": "Smartpost",
+      "leveysaste": 63.678897,
+      "pituusaste": 22.736539,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 255,
+      "nimi": "Smartpost",
+      "leveysaste": 63.829154,
+      "pituusaste": 23.15636,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 256,
+      "nimi": "Smartpost",
+      "leveysaste": 63.831756,
+      "pituusaste": 23.126552,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 257,
+      "nimi": "Smartpost",
+      "leveysaste": 65.009957,
+      "pituusaste": 25.5912,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 258,
+      "nimi": "Smartsmile",
+      "leveysaste": 63.555678,
+      "pituusaste": 27.190418,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 259,
+      "nimi": "Sviby postterminal paketautomat",
+      "leveysaste": 60.120839,
+      "pituusaste": 19.91463,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 260,
+      "nimi": "Ulkoautomaatti S-market Moisio",
+      "leveysaste": 60.535052,
+      "pituusaste": 22.308628,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 261,
+      "nimi": "Ulkoautomaatti Sale Jäkärlä",
+      "leveysaste": 60.541157,
+      "pituusaste": 22.350694,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 262,
+      "nimi": "eApoteket",
+      "leveysaste": 60.099997,
+      "pituusaste": 19.941569,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 263,
+      "nimi": "iBoxen",
+      "leveysaste": 60.172283,
+      "pituusaste": 24.807942,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 264,
+      "nimi": "iBoxen, Matinniitynkuja 8",
+      "leveysaste": 60.159271,
+      "pituusaste": 24.742585,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    },
+    {
+      "id": 265,
+      "nimi": "iBoxen, Matinraitti 11",
+      "leveysaste": 60.157705,
+      "pituusaste": 24.745816,
+      "osm_avain": "amenity",
+      "osm_arvo": "parcel_locker",
+      "osm_luokka": "amenity=parcel_locker"
+    }
+  ],
+  "meta": {
+    "title": "Pakettiautomaatit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Pakettiautomaatit Suomessa — 265 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=parcel_locker`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 265 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Pakettiautomaatit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Pakettiautomaatit – Suomi (OpenStreetMap) — 265 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 265 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

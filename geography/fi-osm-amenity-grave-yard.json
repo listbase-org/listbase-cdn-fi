@@ -1,0 +1,2851 @@
+{
+  "id": "fi-osm-amenity-grave-yard",
+  "name": "Hautausmaat – Suomi (OpenStreetMap)",
+  "title": "Hautausmaat – Suomi (OpenStreetMap)",
+  "description": "Hautausmaat Suomessa — 310 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=grave_yard`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 57. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 310,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Akamella kyrkogård",
+      "leveysaste": 67.998572,
+      "pituusaste": 23.531582,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 2,
+      "nimi": "Akamella ödekyrkogård",
+      "leveysaste": 67.998772,
+      "pituusaste": 23.531461,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 3,
+      "nimi": "Akamella ödekyrkogård",
+      "leveysaste": 67.99885,
+      "pituusaste": 23.531472,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 4,
+      "nimi": "Alajärven sankarihautausmaa",
+      "leveysaste": 63.000608,
+      "pituusaste": 23.825872,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 5,
+      "nimi": "Alajärven vanha hautausmaa",
+      "leveysaste": 62.999821,
+      "pituusaste": 23.8258,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 6,
+      "nimi": "Alastaron hautausmaa",
+      "leveysaste": 60.955418,
+      "pituusaste": 22.861588,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 7,
+      "nimi": "Alastaron hautausmaa",
+      "leveysaste": 60.955426,
+      "pituusaste": 22.861588,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 8,
+      "nimi": "Alavuden hautausmaa",
+      "leveysaste": 62.58926,
+      "pituusaste": 23.61935,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 9,
+      "nimi": "Alavuden hautausmaa",
+      "leveysaste": 62.589331,
+      "pituusaste": 23.619256,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 10,
+      "nimi": "Auran hautausmaa",
+      "leveysaste": 60.609235,
+      "pituusaste": 22.562484,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 11,
+      "nimi": "Auran hautausmaa",
+      "leveysaste": 60.609346,
+      "pituusaste": 22.562417,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 12,
+      "nimi": "Auttoisten metsähautausmaa",
+      "leveysaste": 61.304228,
+      "pituusaste": 25.075129,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 13,
+      "nimi": "Auttoisten metsähautausmaa",
+      "leveysaste": 61.304319,
+      "pituusaste": 25.075282,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 14,
+      "nimi": "Birgitta gravgård",
+      "leveysaste": 62.255183,
+      "pituusaste": 21.511663,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 15,
+      "nimi": "Birgitta gravgård",
+      "leveysaste": 62.255277,
+      "pituusaste": 21.51168,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 16,
+      "nimi": "Catholic graveyard",
+      "leveysaste": 60.209796,
+      "pituusaste": 20.2696,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 17,
+      "nimi": "Catholic graveyard",
+      "leveysaste": 60.209813,
+      "pituusaste": 20.269644,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 18,
+      "nimi": "Dragsfjärdin hautausmaa",
+      "leveysaste": 60.073338,
+      "pituusaste": 22.472295,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 19,
+      "nimi": "Dragsfjärdin hautausmaa",
+      "leveysaste": 60.073393,
+      "pituusaste": 22.472295,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 20,
+      "nimi": "Espoon kirkon hautausmaa",
+      "leveysaste": 60.209761,
+      "pituusaste": 24.651217,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 21,
+      "nimi": "Espoon kirkon hautausmaa",
+      "leveysaste": 60.209771,
+      "pituusaste": 24.651352,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 22,
+      "nimi": "Gräsan uurnalehto",
+      "leveysaste": 60.172118,
+      "pituusaste": 24.7584,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 23,
+      "nimi": "Gräsan uurnalehto",
+      "leveysaste": 60.172119,
+      "pituusaste": 24.758336,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 24,
+      "nimi": "Gutsåker",
+      "leveysaste": 60.079972,
+      "pituusaste": 24.160729,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 25,
+      "nimi": "Gutsåker",
+      "leveysaste": 60.080004,
+      "pituusaste": 24.160612,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 26,
+      "nimi": "Hartolan hautausmaa",
+      "leveysaste": 61.577378,
+      "pituusaste": 26.019128,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 27,
+      "nimi": "Hartolan hautausmaa",
+      "leveysaste": 61.577419,
+      "pituusaste": 26.019058,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 28,
+      "nimi": "Hautausmaa",
+      "leveysaste": 62.143352,
+      "pituusaste": 25.76877,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 29,
+      "nimi": "Helsingin pitäjän kirkon hautausmaa",
+      "leveysaste": 60.283921,
+      "pituusaste": 24.989115,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 30,
+      "nimi": "Helsingin pitäjän kirkon hautausmaa",
+      "leveysaste": 60.283926,
+      "pituusaste": 24.989129,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 31,
+      "nimi": "Hiekan hautausmaa",
+      "leveysaste": 63.082699,
+      "pituusaste": 25.835289,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 32,
+      "nimi": "Hjältarnas kyrkogård",
+      "leveysaste": 60.22444,
+      "pituusaste": 21.371986,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 33,
+      "nimi": "Isonkyrön kirkon hautausmaa",
+      "leveysaste": 63.011213,
+      "pituusaste": 22.329382,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 34,
+      "nimi": "Isonkyrön kirkon hautausmaa",
+      "leveysaste": 63.011234,
+      "pituusaste": 22.32942,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 35,
+      "nimi": "Jaalan vanha hautausmaa",
+      "leveysaste": 61.049503,
+      "pituusaste": 26.488792,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 36,
+      "nimi": "Jaalan vanha hautausmaa",
+      "leveysaste": 61.049584,
+      "pituusaste": 26.488841,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 37,
+      "nimi": "Janakkalan hautausmaa",
+      "leveysaste": 60.893522,
+      "pituusaste": 24.595771,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 38,
+      "nimi": "Janakkalan hautausmaa",
+      "leveysaste": 60.893523,
+      "pituusaste": 24.59578,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 39,
+      "nimi": "Joensuun muslimihautausmaa",
+      "leveysaste": 62.610972,
+      "pituusaste": 29.770249,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 40,
+      "nimi": "Joensuun ortodoksinen hautausmaa",
+      "leveysaste": 62.608347,
+      "pituusaste": 29.772838,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 41,
+      "nimi": "Kangasalan vanha hautausmaa",
+      "leveysaste": 61.462849,
+      "pituusaste": 24.070167,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 42,
+      "nimi": "Kankaanpään hautausmaa",
+      "leveysaste": 61.805643,
+      "pituusaste": 22.387037,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 43,
+      "nimi": "Kankaanpään kirkko",
+      "leveysaste": 61.798977,
+      "pituusaste": 22.402182,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 44,
+      "nimi": "Karinaisten hautausmaa",
+      "leveysaste": 60.674151,
+      "pituusaste": 22.768319,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 45,
+      "nimi": "Karjalohjan hautausmaa",
+      "leveysaste": 60.242955,
+      "pituusaste": 23.72114,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 46,
+      "nimi": "Karjalohjan hautausmaa",
+      "leveysaste": 60.243035,
+      "pituusaste": 23.721278,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 47,
+      "nimi": "Karkkilan uusi hautausmaa",
+      "leveysaste": 60.53836,
+      "pituusaste": 24.237217,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 48,
+      "nimi": "Karkkilan uusi hautausmaa",
+      "leveysaste": 60.538428,
+      "pituusaste": 24.236948,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 49,
+      "nimi": "Karkkilan vanha hautausmaa",
+      "leveysaste": 60.535097,
+      "pituusaste": 24.210721,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 50,
+      "nimi": "Katariinan hautausmaa",
+      "leveysaste": 60.462509,
+      "pituusaste": 22.291571,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 51,
+      "nimi": "Katariinan hautausmaa",
+      "leveysaste": 60.462519,
+      "pituusaste": 22.291587,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 52,
+      "nimi": "Katariinan hautausmaan muistolehto",
+      "leveysaste": 60.46314,
+      "pituusaste": 22.292275,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 53,
+      "nimi": "Katariinan hautausmaan muistolehto",
+      "leveysaste": 60.463143,
+      "pituusaste": 22.292304,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 54,
+      "nimi": "Katariinan kirkkomaa",
+      "leveysaste": 60.462159,
+      "pituusaste": 22.293453,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 55,
+      "nimi": "Kaunissaari",
+      "leveysaste": 60.354963,
+      "pituusaste": 26.781762,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 56,
+      "nimi": "Kaunissaari",
+      "leveysaste": 60.355027,
+      "pituusaste": 26.78181,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 57,
+      "nimi": "Kaustisen hautausmaa",
+      "leveysaste": 63.55045,
+      "pituusaste": 23.693494,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 58,
+      "nimi": "Kaustisen hautausmaa",
+      "leveysaste": 63.550472,
+      "pituusaste": 23.693547,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 59,
+      "nimi": "Kestilän hautausmaa",
+      "leveysaste": 64.351861,
+      "pituusaste": 26.282309,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 60,
+      "nimi": "Kestilän hautausmaa",
+      "leveysaste": 64.351881,
+      "pituusaste": 26.282245,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 61,
+      "nimi": "Kettulanlahden hautausmaa",
+      "leveysaste": 62.915961,
+      "pituusaste": 27.696607,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 62,
+      "nimi": "Kettulanlahden hautausmaa",
+      "leveysaste": 62.916128,
+      "pituusaste": 27.69639,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 63,
+      "nimi": "Kiihtelysvaaran uusi hautausmaa",
+      "leveysaste": 62.48325,
+      "pituusaste": 30.233301,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 64,
+      "nimi": "Kiihtelysvaaran uusi hautausmaa",
+      "leveysaste": 62.483363,
+      "pituusaste": 30.234176,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 65,
+      "nimi": "Kiihtelysvaaran vanha hautausmaa",
+      "leveysaste": 62.483029,
+      "pituusaste": 30.237517,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 66,
+      "nimi": "Kiihtelysvaaran vanha hautausmaa",
+      "leveysaste": 62.483244,
+      "pituusaste": 30.237856,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 67,
+      "nimi": "Kiimingin hautausmaa",
+      "leveysaste": 65.135567,
+      "pituusaste": 25.758245,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 68,
+      "nimi": "Kiimingin hautausmaa",
+      "leveysaste": 65.135587,
+      "pituusaste": 25.75815,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 69,
+      "nimi": "Kimito kyrkogård",
+      "leveysaste": 60.168591,
+      "pituusaste": 22.745714,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 70,
+      "nimi": "Kirkkonummen sankarihaudat",
+      "leveysaste": 60.124978,
+      "pituusaste": 24.438865,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 71,
+      "nimi": "Kirkkonummen sankarihaudat",
+      "leveysaste": 60.124996,
+      "pituusaste": 24.438855,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 72,
+      "nimi": "Kirkkonummen vanha hautausmaa",
+      "leveysaste": 60.124722,
+      "pituusaste": 24.439632,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 73,
+      "nimi": "Kirkkonummen vanha hautausmaa",
+      "leveysaste": 60.125273,
+      "pituusaste": 24.440269,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 74,
+      "nimi": "Kirkkonummen vanha hautausmaa",
+      "leveysaste": 60.125284,
+      "pituusaste": 24.440246,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 75,
+      "nimi": "Kirkkonummen vanha hautausmaa",
+      "leveysaste": 60.12581,
+      "pituusaste": 24.440494,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 76,
+      "nimi": "Kirkkonummen vanha hautausmaa",
+      "leveysaste": 60.125827,
+      "pituusaste": 24.440461,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 77,
+      "nimi": "Kitinojan hautausmaa",
+      "leveysaste": 62.911082,
+      "pituusaste": 22.806271,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 78,
+      "nimi": "Kitinojan hautausmaa",
+      "leveysaste": 62.911135,
+      "pituusaste": 22.806281,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 79,
+      "nimi": "Kittilän hautausmaa",
+      "leveysaste": 67.670325,
+      "pituusaste": 24.876533,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 80,
+      "nimi": "Kittilän hautausmaa",
+      "leveysaste": 67.670335,
+      "pituusaste": 24.876026,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 81,
+      "nimi": "Koijärven hautausmaa",
+      "leveysaste": 60.943416,
+      "pituusaste": 23.653337,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 82,
+      "nimi": "Koitsanlahden ortodoksihautausmaa",
+      "leveysaste": 61.451603,
+      "pituusaste": 29.456301,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 83,
+      "nimi": "Koitsanlahden ortodoksihautausmaa",
+      "leveysaste": 61.451681,
+      "pituusaste": 29.456433,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 84,
+      "nimi": "Kokemäen Hautausmaa",
+      "leveysaste": 61.25818,
+      "pituusaste": 22.35142,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 85,
+      "nimi": "Kokemäen Hautausmaa",
+      "leveysaste": 61.258212,
+      "pituusaste": 22.351512,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 86,
+      "nimi": "Kokemäen vanha hautausmaa",
+      "leveysaste": 61.260881,
+      "pituusaste": 22.355719,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 87,
+      "nimi": "Kokemäen vanha hautausmaa",
+      "leveysaste": 61.260917,
+      "pituusaste": 22.355693,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 88,
+      "nimi": "Konginkankaan hautausmaa",
+      "leveysaste": 62.777265,
+      "pituusaste": 25.805997,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 89,
+      "nimi": "Koomankankaan Hautausmaa",
+      "leveysaste": 61.227821,
+      "pituusaste": 22.264083,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 90,
+      "nimi": "Korson kirkon hautausmaa",
+      "leveysaste": 60.351694,
+      "pituusaste": 25.075255,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 91,
+      "nimi": "Korson kirkon hautausmaa",
+      "leveysaste": 60.351698,
+      "pituusaste": 25.075194,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 92,
+      "nimi": "Kristinestads gamla gravgård",
+      "leveysaste": 62.274771,
+      "pituusaste": 21.388628,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 93,
+      "nimi": "Kristinestads gamla gravgård",
+      "leveysaste": 62.274929,
+      "pituusaste": 21.388694,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 94,
+      "nimi": "Kuhmalahden vanha hautausmaa",
+      "leveysaste": 61.504164,
+      "pituusaste": 24.567606,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 95,
+      "nimi": "Kuortaneen hautausmaa",
+      "leveysaste": 62.807644,
+      "pituusaste": 23.494631,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 96,
+      "nimi": "Kuusjärven hautausmaa",
+      "leveysaste": 62.698978,
+      "pituusaste": 28.920291,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 97,
+      "nimi": "Kuusjärven hautausmaa",
+      "leveysaste": 62.699019,
+      "pituusaste": 28.920354,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 98,
+      "nimi": "Kvevlax gravgård",
+      "leveysaste": 63.173383,
+      "pituusaste": 21.850985,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 99,
+      "nimi": "Kylän hautausmaa",
+      "leveysaste": 62.316052,
+      "pituusaste": 29.628976,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 100,
+      "nimi": "Kylän hautausmaa",
+      "leveysaste": 62.316148,
+      "pituusaste": 29.628967,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 101,
+      "nimi": "Käppärän hautausmaa",
+      "leveysaste": 61.487574,
+      "pituusaste": 21.756085,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 102,
+      "nimi": "Käppärän hautausmaa",
+      "leveysaste": 61.487735,
+      "pituusaste": 21.755555,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 103,
+      "nimi": "Könönpellon hautausmaa",
+      "leveysaste": 62.303232,
+      "pituusaste": 27.948087,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 104,
+      "nimi": "Laesaaren hautausmaa",
+      "leveysaste": 60.877378,
+      "pituusaste": 21.677028,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 105,
+      "nimi": "Laesaaren hautausmaa",
+      "leveysaste": 60.877392,
+      "pituusaste": 21.677086,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 106,
+      "nimi": "Lammin Hautausmaa",
+      "leveysaste": 61.080829,
+      "pituusaste": 25.01479,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 107,
+      "nimi": "Lammin Hautausmaa",
+      "leveysaste": 61.080841,
+      "pituusaste": 25.01479,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 108,
+      "nimi": "Lapinjärven uusi hautausmaa",
+      "leveysaste": 60.619725,
+      "pituusaste": 26.197245,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 109,
+      "nimi": "Lapinjärven uusi hautausmaa",
+      "leveysaste": 60.619749,
+      "pituusaste": 26.197228,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 110,
+      "nimi": "Lappajärven Hautausmaa",
+      "leveysaste": 63.212035,
+      "pituusaste": 23.64923,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 111,
+      "nimi": "Lappajärven Hautausmaa",
+      "leveysaste": 63.212099,
+      "pituusaste": 23.649263,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 112,
+      "nimi": "Lehtimäen hautausmaa",
+      "leveysaste": 62.792683,
+      "pituusaste": 23.923796,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 113,
+      "nimi": "Lehtimäen hautausmaa",
+      "leveysaste": 62.792722,
+      "pituusaste": 23.923832,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 114,
+      "nimi": "Lemmikkieläinten hautausmaa",
+      "leveysaste": 61.451366,
+      "pituusaste": 23.740278,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 115,
+      "nimi": "Lemmikkieläinten hautausmaa",
+      "leveysaste": 62.572968,
+      "pituusaste": 24.072972,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 116,
+      "nimi": "Lemmikkieläinten hautausmaa",
+      "leveysaste": 62.573003,
+      "pituusaste": 24.072899,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 117,
+      "nimi": "Lepaan hautausmaa",
+      "leveysaste": 61.117083,
+      "pituusaste": 24.322867,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 118,
+      "nimi": "Lepaan hautausmaa",
+      "leveysaste": 61.1171,
+      "pituusaste": 24.322865,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 119,
+      "nimi": "Lepoharjun hautausmaa",
+      "leveysaste": 61.087981,
+      "pituusaste": 28.349503,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 120,
+      "nimi": "Lestijärven hautausmaa",
+      "leveysaste": 63.527289,
+      "pituusaste": 24.662296,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 121,
+      "nimi": "Lestijärven hautausmaa",
+      "leveysaste": 63.527384,
+      "pituusaste": 24.662118,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 122,
+      "nimi": "Levon hautausmaa",
+      "leveysaste": 60.963232,
+      "pituusaste": 25.740964,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 123,
+      "nimi": "Levon hautausmaa",
+      "leveysaste": 60.963283,
+      "pituusaste": 25.741062,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 124,
+      "nimi": "Liedenpohjan hautausmaa",
+      "leveysaste": 62.381627,
+      "pituusaste": 23.659988,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 125,
+      "nimi": "Limingan vanha hautausmaa",
+      "leveysaste": 64.814213,
+      "pituusaste": 25.401798,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 126,
+      "nimi": "Limingan vanha hautausmaa",
+      "leveysaste": 64.814325,
+      "pituusaste": 25.40183,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 127,
+      "nimi": "Maarian hautausmaa",
+      "leveysaste": 60.477184,
+      "pituusaste": 22.292295,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 128,
+      "nimi": "Maarian hautausmaa",
+      "leveysaste": 60.477227,
+      "pituusaste": 22.292183,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 129,
+      "nimi": "Maarian kirkkomaa",
+      "leveysaste": 60.473542,
+      "pituusaste": 22.293257,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 130,
+      "nimi": "Maarian kirkkomaa",
+      "leveysaste": 60.473544,
+      "pituusaste": 22.293228,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 131,
+      "nimi": "Marttilan hautausmaa",
+      "leveysaste": 60.583296,
+      "pituusaste": 22.900137,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 132,
+      "nimi": "Marttilan hautausmaa",
+      "leveysaste": 60.58334,
+      "pituusaste": 22.900091,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 133,
+      "nimi": "Metsähautausmaa",
+      "leveysaste": 61.521438,
+      "pituusaste": 21.654574,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 134,
+      "nimi": "Metsähautausmaa",
+      "leveysaste": 61.521548,
+      "pituusaste": 21.654894,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 135,
+      "nimi": "Metsäkulman hautausmaa",
+      "leveysaste": 60.506044,
+      "pituusaste": 26.967265,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 136,
+      "nimi": "Metsäkulman hautausmaa",
+      "leveysaste": 60.506108,
+      "pituusaste": 26.967133,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 137,
+      "nimi": "Muistolehto",
+      "leveysaste": 60.537904,
+      "pituusaste": 24.235588,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 138,
+      "nimi": "Mustankallion hautausmaa",
+      "leveysaste": 60.986163,
+      "pituusaste": 25.679061,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 139,
+      "nimi": "Mustankallion hautausmaa",
+      "leveysaste": 60.986186,
+      "pituusaste": 25.679138,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 140,
+      "nimi": "Myrskylän vanha hautausmaa",
+      "leveysaste": 60.666602,
+      "pituusaste": 25.851166,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 141,
+      "nimi": "Myrskylän vanha hautausmaa",
+      "leveysaste": 60.666663,
+      "pituusaste": 25.851245,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 142,
+      "nimi": "Mäntysaaren hautausmaa",
+      "leveysaste": 61.190949,
+      "pituusaste": 26.76333,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 143,
+      "nimi": "Nivalan kirkon hautausmaa",
+      "leveysaste": 63.929713,
+      "pituusaste": 24.956872,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 144,
+      "nimi": "Nivalan kirkon hautausmaa",
+      "leveysaste": 63.929737,
+      "pituusaste": 24.956872,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 145,
+      "nimi": "Nummen hautausmaa",
+      "leveysaste": 60.394967,
+      "pituusaste": 23.879878,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 146,
+      "nimi": "Nummen hautausmaa",
+      "leveysaste": 60.394987,
+      "pituusaste": 23.879892,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 147,
+      "nimi": "Nummen uusi hautausmaa",
+      "leveysaste": 60.3944,
+      "pituusaste": 23.881812,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 148,
+      "nimi": "Nummen uusi hautausmaa",
+      "leveysaste": 60.394425,
+      "pituusaste": 23.881767,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 149,
+      "nimi": "Nummen vanha hautausmaa",
+      "leveysaste": 60.393693,
+      "pituusaste": 23.882427,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 150,
+      "nimi": "Nummen vanha hautausmaa",
+      "leveysaste": 60.393694,
+      "pituusaste": 23.882501,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 151,
+      "nimi": "Orthodox graveyard",
+      "leveysaste": 60.209583,
+      "pituusaste": 20.267397,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 152,
+      "nimi": "Orthodox graveyard",
+      "leveysaste": 60.209597,
+      "pituusaste": 20.267416,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 153,
+      "nimi": "Orthodox graveyard",
+      "leveysaste": 60.211341,
+      "pituusaste": 20.270214,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 154,
+      "nimi": "Orthodox graveyard",
+      "leveysaste": 60.211354,
+      "pituusaste": 20.270152,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 155,
+      "nimi": "Oulujoen hautausmaa",
+      "leveysaste": 65.006545,
+      "pituusaste": 25.570523,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 156,
+      "nimi": "Oulunsalon hautausmaa",
+      "leveysaste": 64.935988,
+      "pituusaste": 25.423056,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 157,
+      "nimi": "Parkanon hautausmaa",
+      "leveysaste": 62.011935,
+      "pituusaste": 23.024056,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 158,
+      "nimi": "Parkanon hautausmaa",
+      "leveysaste": 62.012018,
+      "pituusaste": 23.024189,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 159,
+      "nimi": "Pattijoen vanha hautausmaa",
+      "leveysaste": 64.692777,
+      "pituusaste": 24.568351,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 160,
+      "nimi": "Pattijoen vanha hautausmaa",
+      "leveysaste": 64.692804,
+      "pituusaste": 24.568454,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 161,
+      "nimi": "Perniön hautausmaa",
+      "leveysaste": 60.202788,
+      "pituusaste": 23.127896,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 162,
+      "nimi": "Perniön hautausmaa",
+      "leveysaste": 60.202797,
+      "pituusaste": 23.12798,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 163,
+      "nimi": "Piehingin hautausmaa",
+      "leveysaste": 64.578508,
+      "pituusaste": 24.397984,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 164,
+      "nimi": "Pieneläinten hautausmaa",
+      "leveysaste": 60.959388,
+      "pituusaste": 26.700878,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 165,
+      "nimi": "Piispanlinnan hautausmaa",
+      "leveysaste": 60.407699,
+      "pituusaste": 22.466514,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 166,
+      "nimi": "Piispanlinnan hautausmaa",
+      "leveysaste": 60.407703,
+      "pituusaste": 22.466497,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 167,
+      "nimi": "Pirkkalan hautausmaa",
+      "leveysaste": 61.459982,
+      "pituusaste": 23.566206,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 168,
+      "nimi": "Pirkkalan hautausmaa",
+      "leveysaste": 61.460034,
+      "pituusaste": 23.565968,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 169,
+      "nimi": "Pirkkalan hautausmaa",
+      "leveysaste": 61.460747,
+      "pituusaste": 23.567305,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 170,
+      "nimi": "Pirkkalan hautausmaa",
+      "leveysaste": 61.460814,
+      "pituusaste": 23.567234,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 171,
+      "nimi": "Pitkäniemen sairaalan hautausmaa",
+      "leveysaste": 61.485175,
+      "pituusaste": 23.570164,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 172,
+      "nimi": "Protestant graveyard",
+      "leveysaste": 60.211174,
+      "pituusaste": 20.270901,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 173,
+      "nimi": "Pudasjärven hautausmaa",
+      "leveysaste": 65.389723,
+      "pituusaste": 26.903154,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 174,
+      "nimi": "Punaisten joukkohaudan paikka",
+      "leveysaste": 60.970254,
+      "pituusaste": 25.631256,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 175,
+      "nimi": "Punavankileirin 1918 hauta-alue",
+      "leveysaste": 60.757549,
+      "pituusaste": 24.783799,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 176,
+      "nimi": "Punavankileirin 1918 hauta-alue",
+      "leveysaste": 60.757589,
+      "pituusaste": 24.783803,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 177,
+      "nimi": "Puumalan vanha hautausmaa",
+      "leveysaste": 61.524277,
+      "pituusaste": 28.176845,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 178,
+      "nimi": "Puumalan vanha hautausmaa",
+      "leveysaste": 61.524319,
+      "pituusaste": 28.176844,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 179,
+      "nimi": "Pyhän ristin hautausmaa",
+      "leveysaste": 60.244401,
+      "pituusaste": 23.729917,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 180,
+      "nimi": "Pyhäselän Hautausmaa",
+      "leveysaste": 62.462896,
+      "pituusaste": 29.946739,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 181,
+      "nimi": "Pyhäselän Hautausmaa",
+      "leveysaste": 62.462906,
+      "pituusaste": 29.94666,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 182,
+      "nimi": "Pyhäselän Hautausmaa",
+      "leveysaste": 62.464025,
+      "pituusaste": 29.951414,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 183,
+      "nimi": "Pyhäselän Hautausmaa",
+      "leveysaste": 62.464047,
+      "pituusaste": 29.951166,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 184,
+      "nimi": "Pälkäneen Hautausmaa",
+      "leveysaste": 61.323435,
+      "pituusaste": 24.276068,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 185,
+      "nimi": "Pälkäneen Hautausmaa",
+      "leveysaste": 61.32347,
+      "pituusaste": 24.27621,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 186,
+      "nimi": "Pälkäneen puistohautausmaa",
+      "leveysaste": 61.33821,
+      "pituusaste": 24.269349,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 187,
+      "nimi": "Pöytyän hautausmaa",
+      "leveysaste": 60.760504,
+      "pituusaste": 22.644329,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 188,
+      "nimi": "Radanrakentajien hautausmaa",
+      "leveysaste": 60.971462,
+      "pituusaste": 25.71453,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 189,
+      "nimi": "Radanrakentajien hautausmaa",
+      "leveysaste": 60.971488,
+      "pituusaste": 25.714779,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 190,
+      "nimi": "Radanrakentajien hautuumaa",
+      "leveysaste": 60.855246,
+      "pituusaste": 25.271307,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 191,
+      "nimi": "Radanrakentajien hautuumaa",
+      "leveysaste": 60.855249,
+      "pituusaste": 25.271586,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 192,
+      "nimi": "Rengon sankarihautausmaa",
+      "leveysaste": 60.894587,
+      "pituusaste": 24.28623,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 193,
+      "nimi": "Rengon uusi hautausmaa",
+      "leveysaste": 60.896632,
+      "pituusaste": 24.291292,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 194,
+      "nimi": "Rengon vanha hautausmaa",
+      "leveysaste": 60.894103,
+      "pituusaste": 24.286692,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 195,
+      "nimi": "Rengon vanha hautausmaa",
+      "leveysaste": 60.894171,
+      "pituusaste": 24.286579,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 196,
+      "nimi": "Ristikankaan hautausmaa",
+      "leveysaste": 65.764906,
+      "pituusaste": 24.600827,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 197,
+      "nimi": "Ristikankaan hautausmaa",
+      "leveysaste": 65.765017,
+      "pituusaste": 24.600417,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 198,
+      "nimi": "Ristikankaan hautausmaa",
+      "leveysaste": 65.992336,
+      "pituusaste": 29.19963,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 199,
+      "nimi": "Ristinkirkon sankarihaudat",
+      "leveysaste": 60.985334,
+      "pituusaste": 25.657829,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 200,
+      "nimi": "Ristinkirkon sankarihaudat",
+      "leveysaste": 60.985384,
+      "pituusaste": 25.657875,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 201,
+      "nimi": "Rovaniemen III-hautausmaa",
+      "leveysaste": 66.486557,
+      "pituusaste": 25.705791,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 202,
+      "nimi": "Rovaniemen III-hautausmaa",
+      "leveysaste": 66.486801,
+      "pituusaste": 25.705699,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 203,
+      "nimi": "Ruoveden hautausmaa",
+      "leveysaste": 61.985728,
+      "pituusaste": 24.078241,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 204,
+      "nimi": "Ruoveden hautausmaa",
+      "leveysaste": 61.98583,
+      "pituusaste": 24.078211,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 205,
+      "nimi": "Salon hautausmaa",
+      "leveysaste": 60.395756,
+      "pituusaste": 23.149128,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 206,
+      "nimi": "Salon hautausmaa",
+      "leveysaste": 60.395879,
+      "pituusaste": 23.149023,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 207,
+      "nimi": "Sankarihauta",
+      "leveysaste": 61.441744,
+      "pituusaste": 29.387299,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 208,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.168659,
+      "pituusaste": 22.744896,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 209,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.413213,
+      "pituusaste": 25.032897,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 210,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.413234,
+      "pituusaste": 25.032905,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 211,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.45905,
+      "pituusaste": 24.808189,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 212,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.464776,
+      "pituusaste": 26.936489,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 213,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.464789,
+      "pituusaste": 26.936523,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 214,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.56466,
+      "pituusaste": 22.098754,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 215,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.570414,
+      "pituusaste": 27.19655,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 216,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.570438,
+      "pituusaste": 27.196696,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 217,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.798826,
+      "pituusaste": 28.007029,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 218,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 60.914916,
+      "pituusaste": 25.254609,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 219,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 61.899448,
+      "pituusaste": 27.85414,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 220,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 61.899452,
+      "pituusaste": 27.854171,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 221,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 62.311334,
+      "pituusaste": 27.88016,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 222,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 62.31136,
+      "pituusaste": 27.880174,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 223,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 62.974417,
+      "pituusaste": 28.484771,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 224,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 62.974462,
+      "pituusaste": 28.484845,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 225,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 63.7246,
+      "pituusaste": 23.021916,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 226,
+      "nimi": "Sankarihautausmaa",
+      "leveysaste": 64.224762,
+      "pituusaste": 27.728844,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 227,
+      "nimi": "Sarfsalö begravningsplats",
+      "leveysaste": 60.312174,
+      "pituusaste": 25.965061,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 228,
+      "nimi": "Sarfsalö begravningsplats",
+      "leveysaste": 60.312354,
+      "pituusaste": 25.965094,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 229,
+      "nimi": "Sievin Hautausmaa",
+      "leveysaste": 65.722496,
+      "pituusaste": 28.559451,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 230,
+      "nimi": "Siuntion hautausmaa",
+      "leveysaste": 60.176626,
+      "pituusaste": 24.204531,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 231,
+      "nimi": "Siuntion hautausmaa",
+      "leveysaste": 60.176661,
+      "pituusaste": 24.204552,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 232,
+      "nimi": "Sonkajärven hautausmaa",
+      "leveysaste": 63.670985,
+      "pituusaste": 27.520294,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 233,
+      "nimi": "Sonkajärven hautausmaa",
+      "leveysaste": 63.671091,
+      "pituusaste": 27.520022,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 234,
+      "nimi": "Sukuhautausmaa",
+      "leveysaste": 62.311634,
+      "pituusaste": 27.880136,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 235,
+      "nimi": "Sukuhautausmaa",
+      "leveysaste": 62.311672,
+      "pituusaste": 27.880177,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 236,
+      "nimi": "Suomen Vapaakirkon hautausmaa",
+      "leveysaste": 62.641839,
+      "pituusaste": 27.085157,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 237,
+      "nimi": "Suomen Vapaakirkon hautausmaa",
+      "leveysaste": 62.64193,
+      "pituusaste": 27.085385,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 238,
+      "nimi": "Svidja Slotts Gravgård",
+      "leveysaste": 60.187774,
+      "pituusaste": 24.195069,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 239,
+      "nimi": "Sääksmäen hautausmaa",
+      "leveysaste": 61.199935,
+      "pituusaste": 24.067838,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 240,
+      "nimi": "Sääksmäen hautausmaa",
+      "leveysaste": 61.199978,
+      "pituusaste": 24.067761,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 241,
+      "nimi": "Taivalkosken Sankarihautausmaa",
+      "leveysaste": 65.574227,
+      "pituusaste": 28.240003,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 242,
+      "nimi": "Tammikumpu",
+      "leveysaste": 60.48541,
+      "pituusaste": 22.175822,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 243,
+      "nimi": "Tammikumpu",
+      "leveysaste": 60.485442,
+      "pituusaste": 22.175836,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 244,
+      "nimi": "Tapiolan uurnalehto",
+      "leveysaste": 60.177971,
+      "pituusaste": 24.808516,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 245,
+      "nimi": "Tarvasjoen hautausmaa",
+      "leveysaste": 60.585962,
+      "pituusaste": 22.738755,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 246,
+      "nimi": "Tarvasjoen hautausmaa",
+      "leveysaste": 60.585963,
+      "pituusaste": 22.738845,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 247,
+      "nimi": "Tavivaaran hautausmaa",
+      "leveysaste": 66.427085,
+      "pituusaste": 25.692712,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 248,
+      "nimi": "Tavivaaran hautausmaa",
+      "leveysaste": 66.427093,
+      "pituusaste": 25.692187,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 249,
+      "nimi": "Temmeksen hautausmaa",
+      "leveysaste": 64.674928,
+      "pituusaste": 25.598367,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 250,
+      "nimi": "Tiukan hautausmaa",
+      "leveysaste": 62.282936,
+      "pituusaste": 21.426768,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 251,
+      "nimi": "Torron hautausmaa",
+      "leveysaste": 60.721989,
+      "pituusaste": 23.564003,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 252,
+      "nimi": "Tyrvännön hautausmaa",
+      "leveysaste": 61.153678,
+      "pituusaste": 24.335203,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 253,
+      "nimi": "Tyrvännön hautausmaa",
+      "leveysaste": 61.153689,
+      "pituusaste": 24.335198,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 254,
+      "nimi": "Tyrvään kappelihautausmaa",
+      "leveysaste": 61.305321,
+      "pituusaste": 22.919819,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 255,
+      "nimi": "Tyrvään kappelihautausmaa",
+      "leveysaste": 61.305353,
+      "pituusaste": 22.919613,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 256,
+      "nimi": "Töysän hautausmaa",
+      "leveysaste": 62.633188,
+      "pituusaste": 23.815554,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 257,
+      "nimi": "Uurnahautausmaa",
+      "leveysaste": 60.537587,
+      "pituusaste": 24.236446,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 258,
+      "nimi": "Uurnalehto",
+      "leveysaste": 60.210873,
+      "pituusaste": 24.651916,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 259,
+      "nimi": "Uurnalehto",
+      "leveysaste": 60.54242,
+      "pituusaste": 24.970971,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 260,
+      "nimi": "Uurnalehto",
+      "leveysaste": 60.542432,
+      "pituusaste": 24.97102,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 261,
+      "nimi": "Uurnametsä-hautausmaa",
+      "leveysaste": 62.278187,
+      "pituusaste": 25.791235,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 262,
+      "nimi": "Uusi kirkkomaa",
+      "leveysaste": 60.210408,
+      "pituusaste": 24.653216,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 263,
+      "nimi": "Vainajan tuhkan sirottelu paikka",
+      "leveysaste": 60.445817,
+      "pituusaste": 26.942321,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 264,
+      "nimi": "Valkeakosken hautausmaa",
+      "leveysaste": 61.261121,
+      "pituusaste": 24.037542,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 265,
+      "nimi": "Valkeakosken hautausmaa",
+      "leveysaste": 61.261184,
+      "pituusaste": 24.037523,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 266,
+      "nimi": "Vanajan hautausmaa",
+      "leveysaste": 60.978735,
+      "pituusaste": 24.502951,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 267,
+      "nimi": "Vanha hautausmaa",
+      "leveysaste": 60.681574,
+      "pituusaste": 21.464935,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 268,
+      "nimi": "Vanha hautausmaa",
+      "leveysaste": 60.681644,
+      "pituusaste": 21.464626,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 269,
+      "nimi": "Vanha hautausmaa",
+      "leveysaste": 61.506935,
+      "pituusaste": 26.480207,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 270,
+      "nimi": "Vanha hautausmaa",
+      "leveysaste": 62.086046,
+      "pituusaste": 28.917425,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 271,
+      "nimi": "Vanha hautausmaa",
+      "leveysaste": 62.086069,
+      "pituusaste": 28.916885,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 272,
+      "nimi": "Vanha hautausmaa",
+      "leveysaste": 64.467284,
+      "pituusaste": 24.253766,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 273,
+      "nimi": "Vanhan kirkon puisto",
+      "leveysaste": 62.256226,
+      "pituusaste": 24.70954,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 274,
+      "nimi": "Vanhan kirkon puisto",
+      "leveysaste": 62.256236,
+      "pituusaste": 24.709537,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 275,
+      "nimi": "VanhanKirkkosaaren hautausmaa",
+      "leveysaste": 63.06844,
+      "pituusaste": 25.862267,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 276,
+      "nimi": "VanhanKirkkosaaren hautausmaa",
+      "leveysaste": 63.068519,
+      "pituusaste": 25.862381,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 277,
+      "nimi": "Venäläinen",
+      "leveysaste": 65.787345,
+      "pituusaste": 24.547468,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 278,
+      "nimi": "Venäläisten sotilaiden hautausmaa",
+      "leveysaste": 63.055398,
+      "pituusaste": 22.114385,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 279,
+      "nimi": "Venäläisten sotilaiden hautausmaa",
+      "leveysaste": 63.055406,
+      "pituusaste": 22.114399,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 280,
+      "nimi": "Vetelin hautausmaa",
+      "leveysaste": 63.476319,
+      "pituusaste": 23.762027,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 281,
+      "nimi": "Vetelin hautausmaa",
+      "leveysaste": 63.476365,
+      "pituusaste": 23.761979,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 282,
+      "nimi": "Vihannin hautausmaa",
+      "leveysaste": 64.491257,
+      "pituusaste": 25.011087,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 283,
+      "nimi": "Vihtijärven hautausmaa",
+      "leveysaste": 60.523175,
+      "pituusaste": 24.542196,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 284,
+      "nimi": "Vihtijärven hautausmaa",
+      "leveysaste": 60.523301,
+      "pituusaste": 24.541957,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 285,
+      "nimi": "Viialan hautausmaa",
+      "leveysaste": 61.21242,
+      "pituusaste": 23.760351,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 286,
+      "nimi": "Viialan hautausmaa",
+      "leveysaste": 61.212488,
+      "pituusaste": 23.760145,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 287,
+      "nimi": "Virtain hautausmaa",
+      "leveysaste": 62.237786,
+      "pituusaste": 23.768399,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 288,
+      "nimi": "Virtain hautausmaa",
+      "leveysaste": 62.237861,
+      "pituusaste": 23.76837,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 289,
+      "nimi": "Vuolenkosken hautausmaa",
+      "leveysaste": 61.082953,
+      "pituusaste": 26.112144,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 290,
+      "nimi": "Ylistaron hautausmaa",
+      "leveysaste": 62.949227,
+      "pituusaste": 22.516996,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 291,
+      "nimi": "Ylistaron hautausmaa",
+      "leveysaste": 62.949307,
+      "pituusaste": 22.517001,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 292,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 60.37671,
+      "pituusaste": 21.94209,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 293,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 60.376737,
+      "pituusaste": 21.942112,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 294,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 60.45457,
+      "pituusaste": 22.692523,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 295,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 60.462016,
+      "pituusaste": 22.292982,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 296,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 60.46203,
+      "pituusaste": 22.293007,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 297,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 60.682695,
+      "pituusaste": 21.665492,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 298,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 61.741467,
+      "pituusaste": 26.115751,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 299,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 61.741517,
+      "pituusaste": 26.115755,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 300,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 62.700024,
+      "pituusaste": 27.824072,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 301,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 62.966846,
+      "pituusaste": 23.004896,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 302,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 63.357945,
+      "pituusaste": 27.756278,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 303,
+      "nimi": "sankarihautausmaa",
+      "leveysaste": 63.357965,
+      "pituusaste": 27.756386,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 304,
+      "nimi": "Ähtärin hautausmaa",
+      "leveysaste": 62.558744,
+      "pituusaste": 24.094704,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 305,
+      "nimi": "Ähtärin hautausmaa",
+      "leveysaste": 62.558786,
+      "pituusaste": 24.094673,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 306,
+      "nimi": "Äänekosken uusi hautausmaa",
+      "leveysaste": 62.608476,
+      "pituusaste": 25.72854,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 307,
+      "nimi": "Åsändans gravgård",
+      "leveysaste": 62.235639,
+      "pituusaste": 21.518205,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 308,
+      "nimi": "Åsändans gravgård",
+      "leveysaste": 62.23583,
+      "pituusaste": 21.518305,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 309,
+      "nimi": "Övermark gravgård",
+      "leveysaste": 62.610154,
+      "pituusaste": 21.465967,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    },
+    {
+      "id": 310,
+      "nimi": "Övermark gravgård",
+      "leveysaste": 62.610177,
+      "pituusaste": 21.465859,
+      "osm_avain": "amenity",
+      "osm_arvo": "grave_yard",
+      "osm_luokka": "amenity=grave_yard"
+    }
+  ],
+  "meta": {
+    "title": "Hautausmaat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Hautausmaat Suomessa — 310 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=grave_yard`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 57. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 310 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Hautausmaat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Hautausmaat – Suomi (OpenStreetMap) — 310 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 310 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

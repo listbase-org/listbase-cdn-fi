@@ -1,0 +1,268 @@
+{
+  "id": "fi-lapland-lentoasemat",
+  "name": "Finland / Lappi — Airports (lentoasemat)",
+  "title": "Finland / Lappi — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Lappi (Lapland), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Lapland'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFAA",
+      "iata": "",
+      "name": "Aavahelukka Airport",
+      "city": "",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 738,
+      "latitude": 67.6036,
+      "longitude": 23.9717,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFET",
+      "iata": "ENF",
+      "name": "Enontekio Airport",
+      "city": "Enontekio",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 1005,
+      "latitude": 68.3626,
+      "longitude": 23.4243,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFIV",
+      "iata": "IVL",
+      "name": "Ivalo Airport",
+      "city": "Ivalo",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 481,
+      "latitude": 68.6073,
+      "longitude": 27.4053,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFJP",
+      "iata": "",
+      "name": "Jakalapaa Airport",
+      "city": "",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 0,
+      "latitude": 68.7114,
+      "longitude": 25.7528,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKE",
+      "iata": "KEM",
+      "name": "Kemi-Tornio Airport",
+      "city": "Kemi / Tornio",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 61,
+      "latitude": 65.7787,
+      "longitude": 24.5821,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKM",
+      "iata": "",
+      "name": "Kemijarvi Airport",
+      "city": "",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 692,
+      "latitude": 66.7129,
+      "longitude": 27.1568,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKT",
+      "iata": "KTT",
+      "name": "Kittila Airport",
+      "city": "Kittila",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 644,
+      "latitude": 67.701,
+      "longitude": 24.8468,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFMP",
+      "iata": "",
+      "name": "Martiniiskonpalo Airport",
+      "city": "",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 0,
+      "latitude": 68.6603,
+      "longitude": 25.7029,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPA",
+      "iata": "",
+      "name": "Pokka Airport",
+      "city": "",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 853,
+      "latitude": 68.15022,
+      "longitude": 25.82937,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFRO",
+      "iata": "RVN",
+      "name": "Rovaniemi Airport",
+      "city": "Rovaniemi",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 642,
+      "latitude": 66.5648,
+      "longitude": 25.8304,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFRU",
+      "iata": "",
+      "name": "Ranua Airport",
+      "city": "",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 541,
+      "latitude": 65.9731,
+      "longitude": 26.3653,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFSO",
+      "iata": "SOT",
+      "name": "Sodankyla Airport",
+      "city": "Sodankyla",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 602,
+      "latitude": 67.395,
+      "longitude": 26.6191,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFVU",
+      "iata": "",
+      "name": "Vuotso Airport",
+      "city": "Vuotso",
+      "subdivision": "Lapland",
+      "subdivision_name_fi": "Lappi",
+      "country": "FI",
+      "elevation_ft": 0,
+      "latitude": 68.0872,
+      "longitude": 27.1239,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Lappi — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Lappi (Lapland), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Lapland'. Sisältää 13 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Lappi — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Lappi — Airports (lentoasemat) — 13 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 13 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

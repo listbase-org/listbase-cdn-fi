@@ -1,0 +1,3301 @@
+{
+  "id": "fi-osm-amenity-ferry-terminal",
+  "name": "Lauttaterminaalit – Suomi (OpenStreetMap)",
+  "title": "Lauttaterminaalit – Suomi (OpenStreetMap)",
+  "description": "Lauttaterminaalit Suomessa — 360 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=ferry_terminal`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 12. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 360,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aasla",
+      "leveysaste": 60.313772,
+      "pituusaste": 21.961539,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 2,
+      "nimi": "Airismaa",
+      "leveysaste": 60.316244,
+      "pituusaste": 21.963305,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 3,
+      "nimi": "Angelniemi",
+      "leveysaste": 60.31286,
+      "pituusaste": 22.943941,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 4,
+      "nimi": "Anleger 6",
+      "leveysaste": 53.94141,
+      "pituusaste": 10.860532,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 5,
+      "nimi": "Aspholm",
+      "leveysaste": 60.165576,
+      "pituusaste": 22.175509,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 6,
+      "nimi": "Aspholm",
+      "leveysaste": 60.165639,
+      "pituusaste": 22.175394,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 7,
+      "nimi": "Aspö",
+      "leveysaste": 59.951465,
+      "pituusaste": 21.613814,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 8,
+      "nimi": "Asterholma;Asterholma färjfäste",
+      "leveysaste": 60.304156,
+      "pituusaste": 21.034403,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 9,
+      "nimi": "Autojen lähtöselvitys Hansaterminaaliin",
+      "leveysaste": 60.22118,
+      "pituusaste": 25.175955,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 10,
+      "nimi": "Bengtsårin laituri",
+      "leveysaste": 59.888763,
+      "pituusaste": 23.109579,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 11,
+      "nimi": "Berghamn",
+      "leveysaste": 60.0541,
+      "pituusaste": 21.802125,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 12,
+      "nimi": "Berghamn",
+      "leveysaste": 60.054153,
+      "pituusaste": 21.802007,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 13,
+      "nimi": "Bergö färjan",
+      "leveysaste": 62.934476,
+      "pituusaste": 21.186842,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 14,
+      "nimi": "Bergöfärjan",
+      "leveysaste": 62.943925,
+      "pituusaste": 21.177033,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 15,
+      "nimi": "Bisköpsö",
+      "leveysaste": 59.971083,
+      "pituusaste": 22.559907,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 16,
+      "nimi": "Björkholm",
+      "leveysaste": 60.185188,
+      "pituusaste": 22.235994,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 17,
+      "nimi": "Björkholm",
+      "leveysaste": 60.185252,
+      "pituusaste": 22.236268,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 18,
+      "nimi": "Björkö",
+      "leveysaste": 59.913933,
+      "pituusaste": 21.691676,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 19,
+      "nimi": "Björkö",
+      "leveysaste": 60.265366,
+      "pituusaste": 21.405893,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 20,
+      "nimi": "Björkö",
+      "leveysaste": 60.265618,
+      "pituusaste": 21.405934,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 21,
+      "nimi": "Björkö",
+      "leveysaste": 60.310948,
+      "pituusaste": 20.942084,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 22,
+      "nimi": "Bockholm",
+      "leveysaste": 60.314586,
+      "pituusaste": 21.190928,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 23,
+      "nimi": "Bodö",
+      "leveysaste": 59.908428,
+      "pituusaste": 21.750311,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 24,
+      "nimi": "Brännskär",
+      "leveysaste": 60.086126,
+      "pituusaste": 21.975445,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 25,
+      "nimi": "Dalen (Iniö)",
+      "leveysaste": 60.381446,
+      "pituusaste": 21.371709,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 26,
+      "nimi": "Dalen (Iniö)",
+      "leveysaste": 60.38156,
+      "pituusaste": 21.371355,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 27,
+      "nimi": "Dalen (Iniö)",
+      "leveysaste": 60.381703,
+      "pituusaste": 21.371868,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 28,
+      "nimi": "Dalsbruk",
+      "leveysaste": 60.019113,
+      "pituusaste": 22.506276,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 29,
+      "nimi": "Degerby",
+      "leveysaste": 60.031888,
+      "pituusaste": 20.385786,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 30,
+      "nimi": "Eckerö Linjen",
+      "leveysaste": 60.225195,
+      "pituusaste": 19.53695,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 31,
+      "nimi": "Eckerö Linjen",
+      "leveysaste": 60.225303,
+      "pituusaste": 19.537263,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 32,
+      "nimi": "Eckerölinjen",
+      "leveysaste": 60.225637,
+      "pituusaste": 19.535539,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 33,
+      "nimi": "Enklinge",
+      "leveysaste": 60.318225,
+      "pituusaste": 20.751411,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 34,
+      "nimi": "Finholma",
+      "leveysaste": 60.074514,
+      "pituusaste": 20.52675,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 35,
+      "nimi": "Förin itäinen laituri",
+      "leveysaste": 60.44091,
+      "pituusaste": 22.248562,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 36,
+      "nimi": "Förin itäinen laituri",
+      "leveysaste": 60.44091,
+      "pituusaste": 22.248577,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 37,
+      "nimi": "Förin läntinen laituri",
+      "leveysaste": 60.441363,
+      "pituusaste": 22.247236,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 38,
+      "nimi": "Förin läntinen laituri",
+      "leveysaste": 60.441367,
+      "pituusaste": 22.247242,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 39,
+      "nimi": "Galtby",
+      "leveysaste": 60.18466,
+      "pituusaste": 21.586553,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 40,
+      "nimi": "Galtby",
+      "leveysaste": 60.185452,
+      "pituusaste": 21.585796,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 41,
+      "nimi": "Galtby (Korpo)",
+      "leveysaste": 60.18484,
+      "pituusaste": 21.586959,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 42,
+      "nimi": "Gamla Hamn",
+      "leveysaste": 63.684188,
+      "pituusaste": 22.68506,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 43,
+      "nimi": "Granholmen",
+      "leveysaste": 60.190531,
+      "pituusaste": 22.249899,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 44,
+      "nimi": "Granvik",
+      "leveysaste": 60.196533,
+      "pituusaste": 22.261449,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 45,
+      "nimi": "Grisslehamn",
+      "leveysaste": 60.098619,
+      "pituusaste": 18.815152,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 46,
+      "nimi": "Grännäs",
+      "leveysaste": 60.169671,
+      "pituusaste": 21.878927,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 47,
+      "nimi": "Grötö",
+      "leveysaste": 60.079888,
+      "pituusaste": 22.015497,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 48,
+      "nimi": "Gullkrona",
+      "leveysaste": 60.088313,
+      "pituusaste": 22.083046,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 49,
+      "nimi": "Gullkrona",
+      "leveysaste": 60.088326,
+      "pituusaste": 22.083203,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 50,
+      "nimi": "Gumbostrand",
+      "leveysaste": 60.255476,
+      "pituusaste": 25.29403,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 51,
+      "nimi": "Gåsgrund",
+      "leveysaste": 60.094408,
+      "pituusaste": 24.748726,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 52,
+      "nimi": "Gåsgrund",
+      "leveysaste": 60.094417,
+      "pituusaste": 24.748707,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 53,
+      "nimi": "Haaparanta",
+      "leveysaste": 66.580202,
+      "pituusaste": 27.914888,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 54,
+      "nimi": "Haapasaari",
+      "leveysaste": 60.286094,
+      "pituusaste": 27.185842,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 55,
+      "nimi": "Hailuodon lauttaranta",
+      "leveysaste": 65.037757,
+      "pituusaste": 25.067275,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 56,
+      "nimi": "Hakkenpää",
+      "leveysaste": 60.499282,
+      "pituusaste": 21.613684,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 57,
+      "nimi": "Hanka",
+      "leveysaste": 60.28573,
+      "pituusaste": 21.968853,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 58,
+      "nimi": "Hansaterminaali",
+      "leveysaste": 60.221664,
+      "pituusaste": 25.175815,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 59,
+      "nimi": "Hansaterminaali",
+      "leveysaste": 60.221678,
+      "pituusaste": 25.17581,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 60,
+      "nimi": "Harakanlaituri",
+      "leveysaste": 60.152002,
+      "pituusaste": 24.957862,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 61,
+      "nimi": "Haukilahden saaristovenelaituri",
+      "leveysaste": 60.155189,
+      "pituusaste": 24.770897,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 62,
+      "nimi": "Havträsk",
+      "leveysaste": 60.235363,
+      "pituusaste": 21.563788,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 63,
+      "nimi": "Heisala",
+      "leveysaste": 60.177119,
+      "pituusaste": 22.258995,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 64,
+      "nimi": "Heisala",
+      "leveysaste": 60.177257,
+      "pituusaste": 22.259046,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 65,
+      "nimi": "Heponiemi (Kustavi)",
+      "leveysaste": 60.485115,
+      "pituusaste": 21.435104,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 66,
+      "nimi": "Heponiemi (Kustavi)",
+      "leveysaste": 60.485346,
+      "pituusaste": 21.43464,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 67,
+      "nimi": "Herttoniemen saaristovenelaituri",
+      "leveysaste": 60.185467,
+      "pituusaste": 25.0283,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 68,
+      "nimi": "Hillosensalmi",
+      "leveysaste": 61.195365,
+      "pituusaste": 26.786464,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 69,
+      "nimi": "Holma",
+      "leveysaste": 59.907764,
+      "pituusaste": 22.366734,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 70,
+      "nimi": "Hopealinjat Laukontori",
+      "leveysaste": 61.495142,
+      "pituusaste": 23.761306,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 71,
+      "nimi": "Hummelvik",
+      "leveysaste": 60.224221,
+      "pituusaste": 20.413668,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 72,
+      "nimi": "Husö",
+      "leveysaste": 60.06467,
+      "pituusaste": 20.807312,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 73,
+      "nimi": "Härklot",
+      "leveysaste": 60.355872,
+      "pituusaste": 21.178868,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 74,
+      "nimi": "Högsåra",
+      "leveysaste": 59.95461,
+      "pituusaste": 22.369254,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 75,
+      "nimi": "Iiluoto",
+      "leveysaste": 60.181632,
+      "pituusaste": 25.129126,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 76,
+      "nimi": "Innamo",
+      "leveysaste": 60.249524,
+      "pituusaste": 21.752415,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 77,
+      "nimi": "Iso Vasikkasaari",
+      "leveysaste": 60.143281,
+      "pituusaste": 24.761657,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 78,
+      "nimi": "Isosaari",
+      "leveysaste": 60.105635,
+      "pituusaste": 25.062467,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 79,
+      "nimi": "Isosaari",
+      "leveysaste": 68.384038,
+      "pituusaste": 22.815532,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 80,
+      "nimi": "Jermo",
+      "leveysaste": 60.150316,
+      "pituusaste": 22.285637,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 81,
+      "nimi": "Jermo",
+      "leveysaste": 60.150463,
+      "pituusaste": 22.285458,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 82,
+      "nimi": "Jokisenjärven laivalaituri",
+      "leveysaste": 61.477028,
+      "pituusaste": 23.334266,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 83,
+      "nimi": "Jumo",
+      "leveysaste": 60.411552,
+      "pituusaste": 21.369944,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 84,
+      "nimi": "Jumo",
+      "leveysaste": 60.411717,
+      "pituusaste": 21.370038,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 85,
+      "nimi": "Jurmo",
+      "leveysaste": 59.826926,
+      "pituusaste": 21.585247,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 86,
+      "nimi": "Jurmo",
+      "leveysaste": 59.826929,
+      "pituusaste": 21.585556,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 87,
+      "nimi": "Jurmo (Brändö)",
+      "leveysaste": 60.515972,
+      "pituusaste": 21.075016,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 88,
+      "nimi": "Jyddö",
+      "leveysaste": 60.076402,
+      "pituusaste": 20.52715,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 89,
+      "nimi": "Järvsor",
+      "leveysaste": 60.261207,
+      "pituusaste": 21.695835,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 90,
+      "nimi": "Kai number 6a",
+      "leveysaste": 59.352572,
+      "pituusaste": 24.044917,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 91,
+      "nimi": "Kalasataman saaristovenelaituri",
+      "leveysaste": 60.182589,
+      "pituusaste": 24.980702,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 92,
+      "nimi": "Kalkkihiekantorin laivalaituri",
+      "leveysaste": 60.198828,
+      "pituusaste": 25.140915,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 93,
+      "nimi": "Kalkkinen",
+      "leveysaste": 61.291913,
+      "pituusaste": 25.674023,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 94,
+      "nimi": "Kalkkiranta",
+      "leveysaste": 60.252838,
+      "pituusaste": 25.3916,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 95,
+      "nimi": "Kannvik",
+      "leveysaste": 60.4392,
+      "pituusaste": 21.396435,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 96,
+      "nimi": "Kannvik (Iniö)",
+      "leveysaste": 60.439134,
+      "pituusaste": 21.395378,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 97,
+      "nimi": "Kannvik (Iniö)",
+      "leveysaste": 60.439431,
+      "pituusaste": 21.39611,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 98,
+      "nimi": "Kapellskär",
+      "leveysaste": 59.7219,
+      "pituusaste": 19.066332,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 99,
+      "nimi": "Kasnäs",
+      "leveysaste": 59.92106,
+      "pituusaste": 22.412198,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 100,
+      "nimi": "Katajanokan laituri EK7",
+      "leveysaste": 60.163989,
+      "pituusaste": 24.965852,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 101,
+      "nimi": "Katajanokan terminaali",
+      "leveysaste": 60.16382,
+      "pituusaste": 24.968378,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 102,
+      "nimi": "Katajanokan terminaali",
+      "leveysaste": 60.163836,
+      "pituusaste": 24.968395,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 103,
+      "nimi": "Katajanokanluoto",
+      "leveysaste": 60.162364,
+      "pituusaste": 24.98206,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 104,
+      "nimi": "Katajanokka",
+      "leveysaste": 60.167401,
+      "pituusaste": 24.980385,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 105,
+      "nimi": "Kaunissaari",
+      "leveysaste": 60.173985,
+      "pituusaste": 25.34575,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 106,
+      "nimi": "Kaunissaari",
+      "leveysaste": 60.345357,
+      "pituusaste": 26.776595,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 107,
+      "nimi": "Kauppatori",
+      "leveysaste": 60.167249,
+      "pituusaste": 24.955615,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 108,
+      "nimi": "Kauppatori",
+      "leveysaste": 60.167256,
+      "pituusaste": 24.955614,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 109,
+      "nimi": "Kauppatori (Keisarinluodonlaituri)",
+      "leveysaste": 60.166877,
+      "pituusaste": 24.955427,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 110,
+      "nimi": "Kauppatori (Kolera-allas)",
+      "leveysaste": 60.167297,
+      "pituusaste": 24.953366,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 111,
+      "nimi": "Kauppatori (Laituripaikka 4)",
+      "leveysaste": 60.166884,
+      "pituusaste": 24.953589,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 112,
+      "nimi": "Kauppatori (Lyypekinlaituri)",
+      "leveysaste": 60.166501,
+      "pituusaste": 24.954098,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 113,
+      "nimi": "Keistiö",
+      "leveysaste": 60.372307,
+      "pituusaste": 21.34945,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 114,
+      "nimi": "Keistiö",
+      "leveysaste": 60.372308,
+      "pituusaste": 21.34906,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 115,
+      "nimi": "Kilpisjärvi - Koltalukta",
+      "leveysaste": 69.047254,
+      "pituusaste": 20.793935,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 116,
+      "nimi": "Kirjais",
+      "leveysaste": 60.12129,
+      "pituusaste": 22.018163,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 117,
+      "nimi": "Kirjais",
+      "leveysaste": 60.121292,
+      "pituusaste": 22.018394,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 118,
+      "nimi": "Kirkonmaa",
+      "leveysaste": 60.404701,
+      "pituusaste": 27.01416,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 119,
+      "nimi": "Kittuis",
+      "leveysaste": 60.186778,
+      "pituusaste": 21.43852,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 120,
+      "nimi": "Kittuis (Houtskär)",
+      "leveysaste": 60.186959,
+      "pituusaste": 21.438165,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 121,
+      "nimi": "Kivenlahden saaristovenelaituri (Marinsatama)",
+      "leveysaste": 60.156609,
+      "pituusaste": 24.621525,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 122,
+      "nimi": "Kivimaa",
+      "leveysaste": 60.542577,
+      "pituusaste": 21.335997,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 123,
+      "nimi": "Kivimaa",
+      "leveysaste": 60.542648,
+      "pituusaste": 21.336653,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 124,
+      "nimi": "Kivimo",
+      "leveysaste": 60.23508,
+      "pituusaste": 21.335647,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 125,
+      "nimi": "Kivimo",
+      "leveysaste": 60.235212,
+      "pituusaste": 21.335781,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 126,
+      "nimi": "Kivisaari",
+      "leveysaste": 60.17482,
+      "pituusaste": 25.11858,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 127,
+      "nimi": "Knivskär",
+      "leveysaste": 60.011436,
+      "pituusaste": 21.975331,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 128,
+      "nimi": "Kokkila",
+      "leveysaste": 60.318073,
+      "pituusaste": 22.943412,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 129,
+      "nimi": "Kokkola",
+      "leveysaste": 63.857766,
+      "pituusaste": 23.115615,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 130,
+      "nimi": "Kolko",
+      "leveysaste": 60.418594,
+      "pituusaste": 21.410042,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 131,
+      "nimi": "Kolko",
+      "leveysaste": 60.418613,
+      "pituusaste": 21.409835,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 132,
+      "nimi": "Kompassitorin laituri",
+      "leveysaste": 60.155115,
+      "pituusaste": 24.950468,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 133,
+      "nimi": "Kopparholm",
+      "leveysaste": 59.967834,
+      "pituusaste": 21.899902,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 134,
+      "nimi": "Korkeasaari",
+      "leveysaste": 60.175146,
+      "pituusaste": 24.979207,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 135,
+      "nimi": "Korvenmaa",
+      "leveysaste": 60.365609,
+      "pituusaste": 21.680795,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 136,
+      "nimi": "Krok",
+      "leveysaste": 60.127414,
+      "pituusaste": 21.73566,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 137,
+      "nimi": "Kruunuvuorenranta",
+      "leveysaste": 60.166078,
+      "pituusaste": 25.011821,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 138,
+      "nimi": "Kuggö",
+      "leveysaste": 60.14799,
+      "pituusaste": 22.161547,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 139,
+      "nimi": "Kuggö",
+      "leveysaste": 60.148023,
+      "pituusaste": 22.161297,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 140,
+      "nimi": "Kumlinge",
+      "leveysaste": 60.290424,
+      "pituusaste": 20.790147,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 141,
+      "nimi": "Kuninkaanportti",
+      "leveysaste": 60.140073,
+      "pituusaste": 24.989972,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 142,
+      "nimi": "Kuttainen",
+      "leveysaste": 68.383586,
+      "pituusaste": 22.816656,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 143,
+      "nimi": "Kuusinen",
+      "leveysaste": 60.460125,
+      "pituusaste": 26.963662,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 144,
+      "nimi": "Kuusisto Line (Kaarinan lähtölaituri)",
+      "leveysaste": 60.395173,
+      "pituusaste": 22.371562,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 145,
+      "nimi": "Kuusisto Line (Turun lähtölaituri)",
+      "leveysaste": 60.447992,
+      "pituusaste": 22.266799,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 146,
+      "nimi": "Kuutinlahti",
+      "leveysaste": 61.175614,
+      "pituusaste": 26.863021,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 147,
+      "nimi": "Kuutsalo",
+      "leveysaste": 60.440978,
+      "pituusaste": 27.008668,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 148,
+      "nimi": "Kyrkogårdsö",
+      "leveysaste": 60.031232,
+      "pituusaste": 20.825001,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 149,
+      "nimi": "Käldö",
+      "leveysaste": 60.204051,
+      "pituusaste": 21.968256,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 150,
+      "nimi": "Kökar",
+      "leveysaste": 59.945315,
+      "pituusaste": 20.891371,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 151,
+      "nimi": "Köpmanholmen",
+      "leveysaste": 63.806593,
+      "pituusaste": 22.671078,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 152,
+      "nimi": "Köpmanholmen",
+      "leveysaste": 63.808377,
+      "pituusaste": 22.669611,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 153,
+      "nimi": "Laajasalon saaristovenelaituri",
+      "leveysaste": 60.179208,
+      "pituusaste": 25.067408,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 154,
+      "nimi": "Lailuoto",
+      "leveysaste": 60.454818,
+      "pituusaste": 21.666681,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 155,
+      "nimi": "Laivasilta (Loviisa)",
+      "leveysaste": 60.451904,
+      "pituusaste": 26.236386,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 156,
+      "nimi": "Lappeenrannan matkustajasatama",
+      "leveysaste": 61.063741,
+      "pituusaste": 28.186077,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 157,
+      "nimi": "Lappeenrannan matkustajasatama",
+      "leveysaste": 61.063793,
+      "pituusaste": 28.186097,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 158,
+      "nimi": "Lappo",
+      "leveysaste": 60.311242,
+      "pituusaste": 20.95209,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 159,
+      "nimi": "Lappo",
+      "leveysaste": 60.31746,
+      "pituusaste": 20.995996,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 160,
+      "nimi": "Laukon kartano",
+      "leveysaste": 61.33014,
+      "pituusaste": 23.516336,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 161,
+      "nimi": "Lavarn",
+      "leveysaste": 60.256891,
+      "pituusaste": 21.598776,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 162,
+      "nimi": "Leikosaari",
+      "leveysaste": 60.171289,
+      "pituusaste": 25.152005,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 163,
+      "nimi": "Lempnäs",
+      "leveysaste": 60.302174,
+      "pituusaste": 21.294575,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 164,
+      "nimi": "Lempäälän kanava",
+      "leveysaste": 61.307038,
+      "pituusaste": 23.756299,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 165,
+      "nimi": "Lieksa",
+      "leveysaste": 63.308238,
+      "pituusaste": 30.012919,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 166,
+      "nimi": "Lieksa",
+      "leveysaste": 63.308495,
+      "pituusaste": 30.011975,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 167,
+      "nimi": "Lillandet P",
+      "leveysaste": 60.199125,
+      "pituusaste": 21.969618,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 168,
+      "nimi": "Lillmälö",
+      "leveysaste": 60.235253,
+      "pituusaste": 22.112386,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 169,
+      "nimi": "Lillmälö",
+      "leveysaste": 60.23557,
+      "pituusaste": 22.112274,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 170,
+      "nimi": "Lillmälö (Pargas)",
+      "leveysaste": 60.235719,
+      "pituusaste": 22.112659,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 171,
+      "nimi": "Lillpensor",
+      "leveysaste": 60.246739,
+      "pituusaste": 21.551367,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 172,
+      "nimi": "Linnanlaituri",
+      "leveysaste": 60.167512,
+      "pituusaste": 24.956567,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 173,
+      "nimi": "Lonna",
+      "leveysaste": 60.153772,
+      "pituusaste": 24.989229,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 174,
+      "nimi": "Länsiterminaali 2",
+      "leveysaste": 60.149565,
+      "pituusaste": 24.914477,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 175,
+      "nimi": "Länsiterminaali 2",
+      "leveysaste": 60.149574,
+      "pituusaste": 24.914444,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 176,
+      "nimi": "Långnäs",
+      "leveysaste": 59.872843,
+      "pituusaste": 22.448856,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 177,
+      "nimi": "Långnäs",
+      "leveysaste": 60.116478,
+      "pituusaste": 20.297574,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 178,
+      "nimi": "Långnäs",
+      "leveysaste": 60.116482,
+      "pituusaste": 20.297573,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 179,
+      "nimi": "Långnäs",
+      "leveysaste": 60.117068,
+      "pituusaste": 20.300076,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 180,
+      "nimi": "Långnäs",
+      "leveysaste": 60.117706,
+      "pituusaste": 20.296247,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 181,
+      "nimi": "Lånholm",
+      "leveysaste": 60.121322,
+      "pituusaste": 21.741598,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 182,
+      "nimi": "Mariehamn",
+      "leveysaste": 60.092247,
+      "pituusaste": 19.927987,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 183,
+      "nimi": "Mariehamn Västerhamn",
+      "leveysaste": 60.092042,
+      "pituusaste": 19.92906,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 184,
+      "nimi": "Mariehamn Västerhamn",
+      "leveysaste": 60.092048,
+      "pituusaste": 19.929083,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 185,
+      "nimi": "Maskinnamo",
+      "leveysaste": 60.283288,
+      "pituusaste": 21.637161,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 186,
+      "nimi": "Matinkylän saaristovenelaituri",
+      "leveysaste": 60.148281,
+      "pituusaste": 24.755362,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 187,
+      "nimi": "Matinkylän saaristovenelaituri",
+      "leveysaste": 60.148309,
+      "pituusaste": 24.755393,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 188,
+      "nimi": "Matkustajaterminaali",
+      "leveysaste": 63.857856,
+      "pituusaste": 23.114595,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 189,
+      "nimi": "Matkustajaterminaali Satamakuuri I-5",
+      "leveysaste": 60.472743,
+      "pituusaste": 26.954345,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 190,
+      "nimi": "Matkustajaterminaali Satamakuuri I-5",
+      "leveysaste": 60.472823,
+      "pituusaste": 26.954546,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 191,
+      "nimi": "Mattnäs",
+      "leveysaste": 60.137804,
+      "pituusaste": 21.811611,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 192,
+      "nimi": "Meritullintori",
+      "leveysaste": 60.169563,
+      "pituusaste": 24.959552,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 193,
+      "nimi": "Meritullintori",
+      "leveysaste": 60.169756,
+      "pituusaste": 24.960192,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 194,
+      "nimi": "Mielisholm",
+      "leveysaste": 60.215114,
+      "pituusaste": 22.306817,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 195,
+      "nimi": "Mielisholm",
+      "leveysaste": 60.215296,
+      "pituusaste": 22.306535,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 196,
+      "nimi": "Mihari ferry stop",
+      "leveysaste": 61.572085,
+      "pituusaste": 23.321786,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 197,
+      "nimi": "Mossala",
+      "leveysaste": 60.268791,
+      "pituusaste": 21.405994,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 198,
+      "nimi": "Mossala",
+      "leveysaste": 60.269006,
+      "pituusaste": 21.405902,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 199,
+      "nimi": "Mossala (Houtskär)",
+      "leveysaste": 60.288375,
+      "pituusaste": 21.439361,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 200,
+      "nimi": "Mossala (Houtskär)",
+      "leveysaste": 60.288599,
+      "pituusaste": 21.439271,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 201,
+      "nimi": "Myllyranta",
+      "leveysaste": 61.314185,
+      "pituusaste": 23.747075,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 202,
+      "nimi": "Mäntysaari",
+      "leveysaste": 61.191076,
+      "pituusaste": 26.765176,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 203,
+      "nimi": "Mässkär",
+      "leveysaste": 63.727723,
+      "pituusaste": 22.580026,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 204,
+      "nimi": "Naantali",
+      "leveysaste": 60.45816,
+      "pituusaste": 22.035549,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 205,
+      "nimi": "Nagu hamn",
+      "leveysaste": 60.194012,
+      "pituusaste": 21.911649,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 206,
+      "nimi": "Nagu hamn",
+      "leveysaste": 60.194276,
+      "pituusaste": 21.91214,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 207,
+      "nimi": "Norra Sandö",
+      "leveysaste": 60.322353,
+      "pituusaste": 20.372429,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 208,
+      "nimi": "Norrby (Iniö)",
+      "leveysaste": 60.396969,
+      "pituusaste": 21.390096,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 209,
+      "nimi": "Norrkullalandet",
+      "leveysaste": 60.235412,
+      "pituusaste": 25.368705,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 210,
+      "nimi": "Näsby",
+      "leveysaste": 60.217428,
+      "pituusaste": 21.395574,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 211,
+      "nimi": "Näsby",
+      "leveysaste": 60.224293,
+      "pituusaste": 21.367624,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 212,
+      "nimi": "Nåtö",
+      "leveysaste": 60.341206,
+      "pituusaste": 21.157143,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 213,
+      "nimi": "Nötö",
+      "leveysaste": 59.953742,
+      "pituusaste": 21.756252,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 214,
+      "nimi": "Nötö",
+      "leveysaste": 59.953905,
+      "pituusaste": 21.755734,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 215,
+      "nimi": "OH1",
+      "leveysaste": 59.811477,
+      "pituusaste": 22.903574,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 216,
+      "nimi": "OH2",
+      "leveysaste": 59.810841,
+      "pituusaste": 22.90279,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 217,
+      "nimi": "Olofnäs",
+      "leveysaste": 60.216291,
+      "pituusaste": 21.558578,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 218,
+      "nimi": "Olofnäs",
+      "leveysaste": 60.216953,
+      "pituusaste": 21.558326,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 219,
+      "nimi": "Olympiaterminaali",
+      "leveysaste": 60.16071,
+      "pituusaste": 24.958876,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 220,
+      "nimi": "Olympiaterminaali",
+      "leveysaste": 60.162592,
+      "pituusaste": 24.957495,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 221,
+      "nimi": "Orilammen lomakeskus",
+      "leveysaste": 61.207596,
+      "pituusaste": 26.774359,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 222,
+      "nimi": "Otaniemen saaristovenelaituri",
+      "leveysaste": 60.185691,
+      "pituusaste": 24.83875,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 223,
+      "nimi": "Otsolahden saaristovenelaituri",
+      "leveysaste": 60.174849,
+      "pituusaste": 24.816956,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 224,
+      "nimi": "Oulunsalon lauttaranta",
+      "leveysaste": 65.008775,
+      "pituusaste": 25.19677,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 225,
+      "nimi": "Oulunsalon lauttaranta",
+      "leveysaste": 65.008956,
+      "pituusaste": 25.195974,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 226,
+      "nimi": "Palva",
+      "leveysaste": 60.46093,
+      "pituusaste": 21.647925,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 227,
+      "nimi": "Palva",
+      "leveysaste": 60.467884,
+      "pituusaste": 21.675584,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 228,
+      "nimi": "Peno",
+      "leveysaste": 60.143814,
+      "pituusaste": 22.100918,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 229,
+      "nimi": "Pensar I",
+      "leveysaste": 60.148055,
+      "pituusaste": 22.137032,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 230,
+      "nimi": "Pensar L",
+      "leveysaste": 60.151249,
+      "pituusaste": 22.110019,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 231,
+      "nimi": "Pensar Östra",
+      "leveysaste": 60.147967,
+      "pituusaste": 22.136853,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 232,
+      "nimi": "Pentalan saaristovenelaituri",
+      "leveysaste": 60.107274,
+      "pituusaste": 24.674733,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 233,
+      "nimi": "Pettu",
+      "leveysaste": 60.038614,
+      "pituusaste": 22.922569,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 234,
+      "nimi": "Prostvik",
+      "leveysaste": 60.222391,
+      "pituusaste": 22.098395,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 235,
+      "nimi": "Prostvik",
+      "leveysaste": 60.222693,
+      "pituusaste": 22.098194,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 236,
+      "nimi": "Prostvik (Nagu)",
+      "leveysaste": 60.222368,
+      "pituusaste": 22.097995,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 237,
+      "nimi": "Prästö",
+      "leveysaste": 60.207892,
+      "pituusaste": 20.272305,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 238,
+      "nimi": "Prästö",
+      "leveysaste": 60.208077,
+      "pituusaste": 20.272668,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 239,
+      "nimi": "Pärnäs",
+      "leveysaste": 60.163806,
+      "pituusaste": 21.704629,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 240,
+      "nimi": "Pärnäs",
+      "leveysaste": 60.16443,
+      "pituusaste": 21.705074,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 241,
+      "nimi": "Pärnäs (Nagu)",
+      "leveysaste": 60.163778,
+      "pituusaste": 21.704884,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 242,
+      "nimi": "RORO1",
+      "leveysaste": 59.823611,
+      "pituusaste": 22.948186,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 243,
+      "nimi": "RORO2",
+      "leveysaste": 59.822365,
+      "pituusaste": 22.954186,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 244,
+      "nimi": "RORO3",
+      "leveysaste": 59.821814,
+      "pituusaste": 22.955986,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 245,
+      "nimi": "RORO4",
+      "leveysaste": 59.821622,
+      "pituusaste": 22.949926,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 246,
+      "nimi": "RORO5",
+      "leveysaste": 59.820305,
+      "pituusaste": 22.950334,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 247,
+      "nimi": "Ramsholm",
+      "leveysaste": 60.169913,
+      "pituusaste": 22.184077,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 248,
+      "nimi": "Ramsholm",
+      "leveysaste": 60.169999,
+      "pituusaste": 22.184133,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 249,
+      "nimi": "Rauhala",
+      "leveysaste": 60.448893,
+      "pituusaste": 21.697679,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 250,
+      "nimi": "Retais",
+      "leveysaste": 60.165714,
+      "pituusaste": 21.691522,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 251,
+      "nimi": "Retais",
+      "leveysaste": 60.165894,
+      "pituusaste": 21.691519,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 252,
+      "nimi": "Retais (Korpo)",
+      "leveysaste": 60.165833,
+      "pituusaste": 21.691031,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 253,
+      "nimi": "Retais (Korpo)",
+      "leveysaste": 60.165837,
+      "pituusaste": 21.69109,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 254,
+      "nimi": "Risteilyalukset",
+      "leveysaste": 60.472604,
+      "pituusaste": 26.951706,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 255,
+      "nimi": "Risteilyvenelaituri",
+      "leveysaste": 60.148188,
+      "pituusaste": 24.754981,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 256,
+      "nimi": "Ristiniemen saaristovenelaituri",
+      "leveysaste": 60.137023,
+      "pituusaste": 24.643834,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 257,
+      "nimi": "Roslax",
+      "leveysaste": 60.233366,
+      "pituusaste": 21.335174,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 258,
+      "nimi": "Roslax",
+      "leveysaste": 60.233706,
+      "pituusaste": 21.334807,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 259,
+      "nimi": "Roslax (Houtskär)",
+      "leveysaste": 60.233427,
+      "pituusaste": 21.334586,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 260,
+      "nimi": "Rostock - Trelleborg",
+      "leveysaste": 54.144588,
+      "pituusaste": 12.097668,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 261,
+      "nimi": "Ruoholahti (Kellosaaren laituri)",
+      "leveysaste": 60.161476,
+      "pituusaste": 24.911806,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 262,
+      "nimi": "Räisälä",
+      "leveysaste": 66.578693,
+      "pituusaste": 27.922727,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 263,
+      "nimi": "Rövaren",
+      "leveysaste": 60.085714,
+      "pituusaste": 24.682679,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 264,
+      "nimi": "Röölä",
+      "leveysaste": 60.345197,
+      "pituusaste": 21.955702,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 265,
+      "nimi": "Saimaan Risteilyt Oy",
+      "leveysaste": 61.063293,
+      "pituusaste": 28.186452,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 266,
+      "nimi": "Sapokka",
+      "leveysaste": 60.460496,
+      "pituusaste": 26.950855,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 267,
+      "nimi": "Satamasaari",
+      "leveysaste": 60.179202,
+      "pituusaste": 25.118479,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 268,
+      "nimi": "Saverkeit",
+      "leveysaste": 60.216795,
+      "pituusaste": 21.403176,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 269,
+      "nimi": "Savonlinnan matkustajasatama",
+      "leveysaste": 61.86691,
+      "pituusaste": 28.88582,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 270,
+      "nimi": "Seglinge",
+      "leveysaste": 60.215216,
+      "pituusaste": 20.710246,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 271,
+      "nimi": "Selkäsalmen ylitysveneet",
+      "leveysaste": 63.658893,
+      "pituusaste": 28.28865,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 272,
+      "nimi": "Silja Line: Turku",
+      "leveysaste": 60.43633,
+      "pituusaste": 22.219094,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 273,
+      "nimi": "Själö",
+      "leveysaste": 60.236436,
+      "pituusaste": 21.954997,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 274,
+      "nimi": "Skagen",
+      "leveysaste": 60.405929,
+      "pituusaste": 21.368522,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 275,
+      "nimi": "Skagen",
+      "leveysaste": 60.406043,
+      "pituusaste": 21.36854,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 276,
+      "nimi": "Snäckö",
+      "leveysaste": 60.219129,
+      "pituusaste": 20.72672,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 277,
+      "nimi": "Snäckö",
+      "leveysaste": 60.219439,
+      "pituusaste": 20.726187,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 278,
+      "nimi": "Sonamo",
+      "leveysaste": 63.803605,
+      "pituusaste": 22.677076,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 279,
+      "nimi": "Sorpo",
+      "leveysaste": 60.150928,
+      "pituusaste": 22.281635,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 280,
+      "nimi": "Sorpo",
+      "leveysaste": 60.151062,
+      "pituusaste": 22.282641,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 281,
+      "nimi": "Sottunga",
+      "leveysaste": 60.110031,
+      "pituusaste": 20.682023,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 282,
+      "nimi": "Soukan saaristovenelaituri",
+      "leveysaste": 60.134995,
+      "pituusaste": 24.647742,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 283,
+      "nimi": "Stenholm",
+      "leveysaste": 60.170402,
+      "pituusaste": 22.165019,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 284,
+      "nimi": "Stenskär",
+      "leveysaste": 60.071287,
+      "pituusaste": 22.048866,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 285,
+      "nimi": "Stenskär",
+      "leveysaste": 60.071305,
+      "pituusaste": 22.049141,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 286,
+      "nimi": "Stora Herrö",
+      "leveysaste": 60.088812,
+      "pituusaste": 24.665569,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 287,
+      "nimi": "Storpensor",
+      "leveysaste": 60.232517,
+      "pituusaste": 21.508463,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 288,
+      "nimi": "Suinonsalmen saaristovenelaituri",
+      "leveysaste": 60.128001,
+      "pituusaste": 24.696386,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 289,
+      "nimi": "Suomenlinna (Kuninkaanportti)",
+      "leveysaste": 60.140011,
+      "pituusaste": 24.990025,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 290,
+      "nimi": "Suomenlinna (Tykistölahti)",
+      "leveysaste": 60.144876,
+      "pituusaste": 24.987731,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 291,
+      "nimi": "Suomenlinna, huoltolaituri",
+      "leveysaste": 60.146442,
+      "pituusaste": 24.992466,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 292,
+      "nimi": "Suomenlinna, huoltolaituri",
+      "leveysaste": 60.146442,
+      "pituusaste": 24.992485,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 293,
+      "nimi": "Suomenlinna, päälaituri",
+      "leveysaste": 60.149274,
+      "pituusaste": 24.983939,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 294,
+      "nimi": "Suomenojan saaristovenelaituri",
+      "leveysaste": 60.145818,
+      "pituusaste": 24.719742,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 295,
+      "nimi": "Svartholma",
+      "leveysaste": 60.380997,
+      "pituusaste": 26.298563,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 296,
+      "nimi": "Svartnäs",
+      "leveysaste": 59.949146,
+      "pituusaste": 22.395136,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 297,
+      "nimi": "Svinö",
+      "leveysaste": 60.066561,
+      "pituusaste": 20.267552,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 298,
+      "nimi": "Taivallahti",
+      "leveysaste": 60.176373,
+      "pituusaste": 24.909893,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 299,
+      "nimi": "Tallink Silja Terminal",
+      "leveysaste": 60.43521,
+      "pituusaste": 22.219382,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 300,
+      "nimi": "Tallink Silja Terminal",
+      "leveysaste": 60.435224,
+      "pituusaste": 22.219369,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 301,
+      "nimi": "Tallinn",
+      "leveysaste": 59.443955,
+      "pituusaste": 24.770046,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 302,
+      "nimi": "Talosmeri",
+      "leveysaste": 60.457007,
+      "pituusaste": 21.681329,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 303,
+      "nimi": "Tankar",
+      "leveysaste": 63.949077,
+      "pituusaste": 22.850704,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 304,
+      "nimi": "Teersalo",
+      "leveysaste": 60.467423,
+      "pituusaste": 21.693786,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 305,
+      "nimi": "Torsholma",
+      "leveysaste": 60.356582,
+      "pituusaste": 21.038078,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 306,
+      "nimi": "Torsholma",
+      "leveysaste": 60.356688,
+      "pituusaste": 21.03807,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 307,
+      "nimi": "Trunsö",
+      "leveysaste": 59.882465,
+      "pituusaste": 21.771936,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 308,
+      "nimi": "Träskholm",
+      "leveysaste": 59.913354,
+      "pituusaste": 21.74193,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 309,
+      "nimi": "Turun satama (Tallink Silja)",
+      "leveysaste": 60.436165,
+      "pituusaste": 22.221423,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 310,
+      "nimi": "Turun satama (Tallink Silja)",
+      "leveysaste": 60.436179,
+      "pituusaste": 22.2215,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 311,
+      "nimi": "Turun satama (Viking Line)",
+      "leveysaste": 60.433945,
+      "pituusaste": 22.225846,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 312,
+      "nimi": "Turun satama (Viking Line)",
+      "leveysaste": 60.433955,
+      "pituusaste": 22.22579,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 313,
+      "nimi": "Töftö",
+      "leveysaste": 60.2057,
+      "pituusaste": 20.277595,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 314,
+      "nimi": "Töftö",
+      "leveysaste": 60.205881,
+      "pituusaste": 20.277919,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 315,
+      "nimi": "Ulkoluoto",
+      "leveysaste": 60.041298,
+      "pituusaste": 22.914763,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 316,
+      "nimi": "Ullanlinnanlaituri",
+      "leveysaste": 60.154687,
+      "pituusaste": 24.959814,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 317,
+      "nimi": "Utö (Armebron)",
+      "leveysaste": 59.786549,
+      "pituusaste": 21.367929,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 318,
+      "nimi": "Utö (Armebron)",
+      "leveysaste": 59.786796,
+      "pituusaste": 21.368069,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 319,
+      "nimi": "Utö (Storabron)",
+      "leveysaste": 59.781866,
+      "pituusaste": 21.370141,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 320,
+      "nimi": "Utö (Storabron)",
+      "leveysaste": 59.782589,
+      "pituusaste": 21.371077,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 321,
+      "nimi": "Uunisaarenlaituri",
+      "leveysaste": 60.153821,
+      "pituusaste": 24.952103,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 322,
+      "nimi": "Vaasan satamaterminaali",
+      "leveysaste": 63.087477,
+      "pituusaste": 21.556188,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 323,
+      "nimi": "Vaasan satamaterminaali",
+      "leveysaste": 63.087478,
+      "pituusaste": 21.556189,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 324,
+      "nimi": "Vallisaari (Luotsipiha)",
+      "leveysaste": 60.140586,
+      "pituusaste": 25.007212,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 325,
+      "nimi": "Vallisaari (Torpedolahti)",
+      "leveysaste": 60.137655,
+      "pituusaste": 25.010649,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 326,
+      "nimi": "Varissaari",
+      "leveysaste": 60.447026,
+      "pituusaste": 26.955271,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 327,
+      "nimi": "Vartiosaari",
+      "leveysaste": 60.180108,
+      "pituusaste": 25.06855,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 328,
+      "nimi": "Vartsala",
+      "leveysaste": 60.54088,
+      "pituusaste": 21.319088,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 329,
+      "nimi": "Vartsala",
+      "leveysaste": 60.54097,
+      "pituusaste": 21.319481,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 330,
+      "nimi": "Vasikkasaari",
+      "leveysaste": 60.152291,
+      "pituusaste": 25.016447,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 331,
+      "nimi": "Velkuanmaa",
+      "leveysaste": 60.45512,
+      "pituusaste": 21.636616,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 332,
+      "nimi": "Verkan",
+      "leveysaste": 60.174619,
+      "pituusaste": 21.556739,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 333,
+      "nimi": "Vesibussi, Kansanpuisto",
+      "leveysaste": 60.426558,
+      "pituusaste": 22.186279,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 334,
+      "nimi": "Vesibussi, Martinsilta",
+      "leveysaste": 60.44392,
+      "pituusaste": 22.255119,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 335,
+      "nimi": "Vesibussi, Pikisaari",
+      "leveysaste": 60.42538,
+      "pituusaste": 22.195069,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 336,
+      "nimi": "Vesibussi, Ruissalon telakka",
+      "leveysaste": 60.436677,
+      "pituusaste": 22.206372,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 337,
+      "nimi": "Viking Line Terminal",
+      "leveysaste": 60.43388,
+      "pituusaste": 22.221082,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 338,
+      "nimi": "Viking Line Terminal",
+      "leveysaste": 60.433888,
+      "pituusaste": 22.221088,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 339,
+      "nimi": "Viking Line, car check in",
+      "leveysaste": 60.433943,
+      "pituusaste": 22.228379,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 340,
+      "nimi": "Viking Line, car check in",
+      "leveysaste": 60.433951,
+      "pituusaste": 22.228368,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 341,
+      "nimi": "Viking Line: Turku",
+      "leveysaste": 60.433219,
+      "pituusaste": 22.222382,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 342,
+      "nimi": "Virrat",
+      "leveysaste": 62.239122,
+      "pituusaste": 23.752572,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 343,
+      "nimi": "Vuosaari Aurinkolahti",
+      "leveysaste": 60.199623,
+      "pituusaste": 25.146697,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 344,
+      "nimi": "Vuosnainen",
+      "leveysaste": 60.507434,
+      "pituusaste": 21.247352,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 345,
+      "nimi": "Vuosnainen (Kustavi)",
+      "leveysaste": 60.507461,
+      "pituusaste": 21.246903,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 346,
+      "nimi": "Vänoxa by",
+      "leveysaste": 59.970643,
+      "pituusaste": 22.610537,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 347,
+      "nimi": "Vänoxa släten (Bergö)",
+      "leveysaste": 59.964798,
+      "pituusaste": 22.608188,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 348,
+      "nimi": "Våno",
+      "leveysaste": 60.216809,
+      "pituusaste": 22.303985,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 349,
+      "nimi": "Våno",
+      "leveysaste": 60.216949,
+      "pituusaste": 22.303758,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 350,
+      "nimi": "Yrttitarha",
+      "leveysaste": 61.634053,
+      "pituusaste": 23.200049,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 351,
+      "nimi": "s/s Ukkopekka",
+      "leveysaste": 60.444396,
+      "pituusaste": 22.253843,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 352,
+      "nimi": "Ängholm",
+      "leveysaste": 60.167095,
+      "pituusaste": 21.880254,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 353,
+      "nimi": "Ängö",
+      "leveysaste": 60.154145,
+      "pituusaste": 20.294239,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 354,
+      "nimi": "Äpplö",
+      "leveysaste": 60.310126,
+      "pituusaste": 21.219201,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 355,
+      "nimi": "Åva (Brändö)",
+      "leveysaste": 60.503225,
+      "pituusaste": 21.057481,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 356,
+      "nimi": "Åva (Brändö)",
+      "leveysaste": 60.50328,
+      "pituusaste": 21.058243,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 357,
+      "nimi": "Åvensor",
+      "leveysaste": 60.298157,
+      "pituusaste": 21.578706,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 358,
+      "nimi": "Östra Simskäla",
+      "leveysaste": 60.331212,
+      "pituusaste": 20.365401,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 359,
+      "nimi": "Östra Tallholm",
+      "leveysaste": 60.160201,
+      "pituusaste": 22.164376,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    },
+    {
+      "id": 360,
+      "nimi": "Överö",
+      "leveysaste": 60.11151,
+      "pituusaste": 20.510559,
+      "osm_avain": "amenity",
+      "osm_arvo": "ferry_terminal",
+      "osm_luokka": "amenity=ferry_terminal"
+    }
+  ],
+  "meta": {
+    "title": "Lauttaterminaalit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Lauttaterminaalit Suomessa — 360 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=ferry_terminal`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 12. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 360 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Lauttaterminaalit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Lauttaterminaalit – Suomi (OpenStreetMap) — 360 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 360 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

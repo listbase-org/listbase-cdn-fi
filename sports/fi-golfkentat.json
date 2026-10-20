@@ -1,0 +1,556 @@
+{
+  "id": "fi-golfkentat",
+  "name": "Suomen golfkentät",
+  "title": "Suomen golfkentät",
+  "description": "Suomalaiset golfkentät koottuna hakemistoksi: kentän nimi, kategoria/jäsenyystyyppi lähteen mukaan, sijainnin koordinaatit (lat/lng), käyntiosoite, puhelinnumero, sähköposti ja verkkosivu. Yhteensä 49 golfkenttää eri puolilta Suomea. Tiedot on poimittu Tamal-0013/e06_golf_courses -tietovarastosta.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "course",
+      "label": "Course",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lng",
+      "label": "Lng",
+      "type": "number"
+    },
+    {
+      "key": "address",
+      "label": "Address",
+      "type": "string"
+    },
+    {
+      "key": "phone",
+      "label": "Phone",
+      "type": "string"
+    },
+    {
+      "key": "email",
+      "label": "Email",
+      "type": "string"
+    },
+    {
+      "key": "web",
+      "label": "Web",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "course": "Alastaro Golf",
+      "type": "Kulta",
+      "lat": 62.2653926,
+      "lng": 22.6415612,
+      "address": "Golfkentäntie 195, 32560 Virttaa",
+      "phone": "(02) 724 7824",
+      "email": "minna.nenonen@alastarogolf.fi",
+      "web": "http://alastarogolf.fi/"
+    },
+    {
+      "course": "Archipelagia Golf Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.3113719,
+      "lng": 22.2653926,
+      "address": "Finbyntie 87, 21600 Parainen",
+      "phone": "(02) 458 2001",
+      "email": "nina.katajainen@argc.fi",
+      "web": "http://www.archipelagiagolf.fi/fi/www/"
+    },
+    {
+      "course": "Aurinko Golf Oy",
+      "type": "?",
+      "lat": 60.4994149,
+      "lng": 22.0677695,
+      "address": "Vengantie 58, 21110 Naantali",
+      "phone": "020 75 45 900",
+      "email": "antti.ahti@aurinkogolf.fi",
+      "web": "http://www.aurinkogolf.fi/"
+    },
+    {
+      "course": "Farmigolf/Isoperi Oy",
+      "type": "Etu",
+      "lat": 61.3031056,
+      "lng": 23.7757743,
+      "address": "Vaihmalantie 68, 37500 Lempäälä",
+      "phone": "0400 620077",
+      "email": "pekka.isotalo@farmigolf.com",
+      "web": "http://www.farmigolf.com/"
+    },
+    {
+      "course": "Golf Talma Oy",
+      "type": "?",
+      "lat": 60.4215937,
+      "lng": 25.1655272,
+      "address": "Nygårdintie 115-6, 04240 Talma",
+      "phone": "(09) 274 6540",
+      "email": "golftalma@golftalma.fi",
+      "web": "http://www.golftalma.fi/"
+    },
+    {
+      "course": "Gumböle Golf Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.2229385,
+      "lng": 24.620107,
+      "address": "Gumbölentie 20, 02770 Espoo",
+      "phone": "(09) 8874 250",
+      "email": "markku.ignatius@gumbolegolf.fi",
+      "web": "http://www.gumbolegolf.fi/"
+    },
+    {
+      "course": "Hangolf Oy",
+      "type": "Etu",
+      "lat": 59.84350919999999,
+      "lng": 23.0651827,
+      "address": "Kirkkotie 28, 10900 Hanko",
+      "phone": "(019) 2489 357",
+      "email": "caddiemaster@hangolf.fi",
+      "web": "http://hangolf.fi/"
+    },
+    {
+      "course": "Harjattula Golf Oy",
+      "type": "?",
+      "lat": 60.37049390000001,
+      "lng": 22.2926837,
+      "address": "Harjattulantie 84, 20960 Turku",
+      "phone": "020 748 8830",
+      "email": "caddie@harjattula.fi",
+      "web": "http://www.harjattulagolf.fi/"
+    },
+    {
+      "course": "Hartola Golf Oy",
+      "type": "Kulta/Etu",
+      "lat": 61.57144530000001,
+      "lng": 26.0362105,
+      "address": "Kaikulantie 79, 19600 Hartola",
+      "phone": "(03) 883 4310",
+      "email": "tera.heinonen@hartolagolf.com",
+      "web": "http://www.hartolagolf.com/"
+    },
+    {
+      "course": "Hill Side Golf &amp; Country Club Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.4293285,
+      "lng": 24.2029203,
+      "address": "Luolaistentie 24, 03430 Vihti",
+      "phone": "020 7411 280",
+      "email": "info@hillsidegolf.fi",
+      "web": "http://www.hillsidegolf.fi/"
+    },
+    {
+      "course": "Hirvihaaran Golf Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.62898019999999,
+      "lng": 25.2113936,
+      "address": "Vanha Soukkiontie 945, 04680 Hirvihaara",
+      "phone": "0400 556578",
+      "email": "ismo.piira@hirvihaarangolf.fi",
+      "web": "http://www.hirvihaarangolf.fi/"
+    },
+    {
+      "course": "Hyvigolf Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.65727930000001,
+      "lng": 24.8173592,
+      "address": "Golftie 63, 05880 Hyvinkää",
+      "phone": "(019) 456 2400",
+      "email": "mika.nieminen@hyvigolf.fi",
+      "web": "http://www.hyvigolf.fi/"
+    },
+    {
+      "course": "Iitti Golf",
+      "type": "Kulta",
+      "lat": 60.9181726,
+      "lng": 26.3592487,
+      "address": "Iitintie 684, 47400 Kausala",
+      "phone": "(05) 544 4400",
+      "email": "caddiemaster@iittigolf.com",
+      "web": "http://www.iittigolf.com/"
+    },
+    {
+      "course": "Ikaalisten Golf Oy",
+      "type": "Etu",
+      "lat": 61.8970486,
+      "lng": 23.0337567,
+      "address": "Mansikkamäentie 10, 39580 Riitiala",
+      "phone": "(03) 4585 210",
+      "email": "ikaalisten.golf@ikg.fi",
+      "web": "http://www.ikg.fi/"
+    },
+    {
+      "course": "Kaakon Golf Oy",
+      "type": "Etu",
+      "lat": 60.598775,
+      "lng": 27.6684122,
+      "address": "Säkäjärventie 204, 49900 Virolahti",
+      "phone": "050 3 888 200",
+      "email": "kaakongolf@kolumbus.fi",
+      "web": "http://www.kaakongolf.fi/"
+    },
+    {
+      "course": "Kanavagolf Oy",
+      "type": "Etu",
+      "lat": 61.1611858,
+      "lng": 25.5716689,
+      "address": "Tehtaantie 3, 17200 Vääksy",
+      "phone": "(03) 766 0711",
+      "email": "info@kanavagolf.com",
+      "web": "http://kanavagolf.com/jasenille/"
+    },
+    {
+      "course": "Kankaisten Golfpuisto Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.5487846,
+      "lng": 22.1170857,
+      "address": "Maskuntie 281, 21250 Masku",
+      "phone": "(02) 4312 787",
+      "email": "office@kgm.fi",
+      "web": "http://www.kgm.fi/etusivu.html"
+    },
+    {
+      "course": "Keimola Golf Club Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.3214469,
+      "lng": 24.8051633,
+      "address": "Kirkantie 32, 01750 Vantaa",
+      "phone": "(09) 2766650",
+      "email": "pekka.palmunen@keimolagolf.com",
+      "web": "http://www.keimolagolf.com/"
+    },
+    {
+      "course": "Kerigolf Oy",
+      "type": "Etu",
+      "lat": 61.8846096,
+      "lng": 29.1622339,
+      "address": "Kerimaantie 65, 58200 Kerimäki",
+      "phone": "(015) 252600",
+      "email": "soili.pelkonen@kerigolf.fi",
+      "web": "http://www.kerigolf.fi/"
+    },
+    {
+      "course": "Kotojärvi Golf",
+      "type": "Etu",
+      "lat": 60.44914350000001,
+      "lng": 25.3846863,
+      "address": "Kotojärventie 15, 07150 Laukkoski",
+      "phone": "020 7850 220",
+      "email": "caddiemaster@kotojarvigolf.fi",
+      "web": "http://www.kotojarvigolf.fi/"
+    },
+    {
+      "course": "Kullo Golf Oy",
+      "type": "?",
+      "lat": 60.3323542,
+      "lng": 25.4996753,
+      "address": "Golftie 119, 06830 Kulloonkylä",
+      "phone": "(019) 522 0400",
+      "email": "op.nissinen@kullogolf.fi",
+      "web": "http://www.kullogolf.fi/"
+    },
+    {
+      "course": "Kultaranta Golf Oy",
+      "type": "?",
+      "lat": 60.455469,
+      "lng": 21.9550786,
+      "address": "Särkänsalmentie 178, 21100 Naantali",
+      "phone": "0207 919600",
+      "email": "jouni.kankaanpaa@kultaranta.fi",
+      "web": "http://kultarantaresort.fi/"
+    },
+    {
+      "course": "Kurk Golf Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.19975460000001,
+      "lng": 24.3366853,
+      "address": "Kuperkeikantie 20, 02550 Evitskog",
+      "phone": "(09) 8190 480",
+      "email": "kurk@kurkgolf.fi",
+      "web": "http://www.golfpiste.net/kurkgolf//?lang=fi"
+    },
+    {
+      "course": "Lahden Golf Oy",
+      "type": "Kulta",
+      "lat": 61.026491,
+      "lng": 25.7255136,
+      "address": "Takkulantie 20, 15230 Lahti",
+      "phone": "(03) 7841 311",
+      "email": "lahdengolf@lahdengolf.fi",
+      "web": "http://www.lahdengolf.fi/fi/"
+    },
+    {
+      "course": "Lakeside Golf &amp; Country Club Oy",
+      "type": "Kulta/Etu",
+      "lat": 61.4220072,
+      "lng": 23.0004304,
+      "address": "Sastamalantie 1901, 38100 Sastmamala",
+      "phone": "(03) 512 9500",
+      "email": "johanna.makela@lakesidegolf.fi",
+      "web": "http://www.golfpiste.net/lakeside//?lang=fi"
+    },
+    {
+      "course": "Laukaan Peurunkagolf",
+      "type": "Kulta",
+      "lat": 62.4338526,
+      "lng": 25.8690029,
+      "address": "Valkolantie 68, 41350 Laukaa",
+      "phone": "020 752 9200",
+      "email": "caddiemaster@lpg.fi",
+      "web": "http://www.lpg.fi/"
+    },
+    {
+      "course": "Meri-Teijo Golf Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.23864409999999,
+      "lng": 22.9390948,
+      "address": "Lanskalantie, 25570 Teijo",
+      "phone": "(02) 7363955",
+      "email": "caddie@meriteijogolf.com",
+      "web": "http://www.meriteijogolf.com/"
+    },
+    {
+      "course": "Messilä Golf Oy",
+      "type": "Etu",
+      "lat": 61.0080962,
+      "lng": 25.5519535,
+      "address": "Messiläntie 240, 15980 Messilä",
+      "phone": "(03) 884 040",
+      "email": "arja.byman@messilagolf.fi",
+      "web": "http://www.messilagolf.fi/2015/index.asp?valikko=22"
+    },
+    {
+      "course": "Muurame Golf Oy",
+      "type": "Etu",
+      "lat": 62.160871,
+      "lng": 25.6416672,
+      "address": "Pyyppöläntie 316, 40950 Muurame",
+      "phone": "(014) 373 2310",
+      "email": "toimisto@muuramegolf.fi",
+      "web": "http://muuramegolf.fi/"
+    },
+    {
+      "course": "Nakkila Golf",
+      "type": "Etu",
+      "lat": 61.41142199999999,
+      "lng": 22.0483952,
+      "address": "Suomalaisentie 71, 29250 Nakkila",
+      "phone": "02 537 4999",
+      "email": "nakkilagolf@nakkilagolf.fi",
+      "web": "http://www.nakkilagolf.fi/home.php"
+    },
+    {
+      "course": "Nevas Golf",
+      "type": "Etu",
+      "lat": 60.3006643,
+      "lng": 25.3259138,
+      "address": "01150 Söderkulla",
+      "phone": "(09) 2726 323",
+      "email": "tj@nevasgolf.fi",
+      "web": "http://www.nevasgolf.fi/"
+    },
+    {
+      "course": "Nurmijärven Golfkeskus Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.49435349999999,
+      "lng": 24.5779038,
+      "address": "Ratasillantie 70, 05100 Röykkä",
+      "phone": "(09) 2766230",
+      "email": "tj@nurmijarvi-golf.fi",
+      "web": "http://www.golfpiste.net/nurmijarvigolf/etusivu/?lang=fi"
+    },
+    {
+      "course": "Peltola Golf Oy",
+      "type": "Etu",
+      "lat": 60.92008869999999,
+      "lng": 24.6460045,
+      "address": "Löyttymäentie 571, 14200 Turenki",
+      "phone": "040 354 5522",
+      "email": "toimisto@peltolagolf.fi",
+      "web": "http://www.peltolagolf.com/joomla/"
+    },
+    {
+      "course": "Porvoo Golf",
+      "type": "Kulta/Etu",
+      "lat": 60.42114899999999,
+      "lng": 25.698281,
+      "address": "Klubitie 46, 06200 Porvoo",
+      "phone": "0400 921664",
+      "email": "porvoogolf@porvoogolf.fi",
+      "web": "http://www.porvoogolf.fi/"
+    },
+    {
+      "course": "PuulaGolf",
+      "type": "Etu",
+      "lat": 62.0028234,
+      "lng": 26.6860751,
+      "address": "Syvälahdentie 20, 51200 Kangasniemi",
+      "phone": "040 731 7625",
+      "email": "toimisto@puulagolf.fi",
+      "web": "http://www.puulagolf.fi/"
+    },
+    {
+      "course": "Rauma Golf",
+      "type": "Kulta/Etu",
+      "lat": 61.1399444,
+      "lng": 21.5642705,
+      "address": "Ala-Pomppustentie 20, 26100 Rauma",
+      "phone": "(02) 8230 324",
+      "email": "rg@raumagolf.fi",
+      "web": "http://www.raumagolf.fi/"
+    },
+    {
+      "course": "Ruukki Golf",
+      "type": "Kulta/Etu",
+      "lat": 60.1134383,
+      "lng": 23.4774876,
+      "address": "Hiekkamäentie 100, 10420 Pohjankuru",
+      "phone": "(019) 245 4485",
+      "email": "toimisto@ruukkigolf.fi",
+      "web": "http://www.ruukkigolf.fi/"
+    },
+    {
+      "course": "Sea Golf Rönnäs",
+      "type": "Kulta/Etu",
+      "lat": 60.37109109999999,
+      "lng": 26.0399321,
+      "address": "Ruukinrannantie 4, 07750 Isnäs",
+      "phone": "020 786 2696",
+      "email": "kari.mattila@seagolf.fi",
+      "web": "http://seagolf.fi/"
+    },
+    {
+      "course": "St. Laurence Golf",
+      "type": "Kulta",
+      "lat": 60.2202297,
+      "lng": 24.052309,
+      "address": "Kaivurinkatu 133, 08200 Lohja",
+      "phone": "(019) 357 821",
+      "email": "caddie.master@stlg.fi",
+      "web": "http://www.golfpiste.net/stlg/"
+    },
+    {
+      "course": "Suur-Helsingin Golf Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.357803,
+      "lng": 24.6520632,
+      "address": "Rinnekodintie 29, 02980 Espoo",
+      "phone": "(09) 43937 111",
+      "email": "toimitusjohtaja@shg.fi",
+      "web": "http://www.golfpiste.net/shg/"
+    },
+    {
+      "course": "Tahko Golf Club Oy",
+      "type": "?",
+      "lat": 63.29916780000001,
+      "lng": 28.0498578,
+      "address": "73310 Tahkovuori",
+      "phone": "(010) 235 1010",
+      "email": "toimisto@tahkogolf.fi",
+      "web": "http://www.golfpiste.net/tahkogolfclub/"
+    },
+    {
+      "course": "Tapiola Golf Oy",
+      "type": "?",
+      "lat": 60.1927176,
+      "lng": 24.7886034,
+      "address": "Turveradantie 1, 02180 Espoo",
+      "phone": "(09) 42500 750",
+      "email": "caddiemaster@tapiolagolf.fi",
+      "web": "http://www.tapiolagolf.fi/fi/"
+    },
+    {
+      "course": "Tarina Golf",
+      "type": "Kulta/Etu",
+      "lat": 63.0605918,
+      "lng": 27.6534812,
+      "address": "Tarinagolfintie 19, 71800 Siilinjärvi",
+      "phone": "020 187 8700",
+      "email": "toimisto@tarinagolf.fi",
+      "web": "http://tarinagolf.fi/"
+    },
+    {
+      "course": "Tawast Golf",
+      "type": "Etu",
+      "lat": 60.9981914,
+      "lng": 24.5257443,
+      "address": "Tawastintie 48, 13270 Hämeenlinna",
+      "phone": "(03) 630 610",
+      "email": "tawast@tawastgolf.fi",
+      "web": "http://golfpiste.com/tawastgolf/"
+    },
+    {
+      "course": "Tikkurilan Golfkeskus Oy (Hiekkaharju)",
+      "type": "Etu",
+      "lat": 60.3058809,
+      "lng": 25.0529613,
+      "address": "Tennistie 9, 01370 Vantaa",
+      "phone": "0102 922 814",
+      "email": "pekka@hieg.fi",
+      "web": "http://www.hieg.fi/"
+    },
+    {
+      "course": "Tuusulan Golfklubi Oy",
+      "type": "Kulta/Etu",
+      "lat": 60.4150485,
+      "lng": 25.0492403,
+      "address": "Kirkkotie 51, 04310 Tuusula",
+      "phone": "0424 10241",
+      "email": "toimisto@tuusulangolfklubi.fi",
+      "web": "http://www.tgk.fi/"
+    },
+    {
+      "course": "Uudenkaupungin Golfklubi ry",
+      "type": "?",
+      "lat": 60.794016,
+      "lng": 21.4263866,
+      "address": "Välskärintie 2H, 23500 Uusikaupunki",
+      "phone": "02 8413060",
+      "email": "ugk@ugk.fi",
+      "web": "http://www.ugk.fi/"
+    },
+    {
+      "course": "Vihti Golf Oy",
+      "type": "Etu",
+      "lat": 60.379997,
+      "lng": 24.3624868,
+      "address": "03250 Ojakkala",
+      "phone": "(09) 2252 550",
+      "email": "caddiemaster@vihtigolf.fi",
+      "web": "http://www.vihtigolf.fi/"
+    },
+    {
+      "course": "Ypäjä Golf Oy/Loimijoki Golf",
+      "type": "Etu",
+      "lat": 60.8142508,
+      "lng": 23.2351715,
+      "address": "Jaakkolantie 190, 32100 Ypäjä",
+      "phone": "010 2491 400",
+      "email": "caddiemaster@loimijokigolf.fi",
+      "web": "http://www.loimijokigolf.fi/"
+    }
+  ],
+  "meta": {
+    "title": "Suomen golfkentät - Ilmainen lataus",
+    "description": "Suomalaiset golfkentät koottuna hakemistoksi: kentän nimi, kategoria/jäsenyystyyppi lähteen mukaan, sijainnin koordinaatit (lat/lng), käyntiosoite, puhelinnumero, sähköposti ja verkkosivu. Yhteensä 49 golfkenttää eri puolilta Suomea. Tiedot on poimittu Tamal-0013/e06_golf_courses -tietovarastosta. Sisältää 49 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Suomen golfkentät | ListBase",
+    "seo_description": "Lataa Suomen golfkentät — 49 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 49 tietuetta / 8 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

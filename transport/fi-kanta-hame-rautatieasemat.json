@@ -1,0 +1,361 @@
+{
+  "id": "fi-kanta-hame-rautatieasemat",
+  "name": "Rautatieasemat — Kanta-Häme",
+  "title": "Rautatieasemat — Kanta-Häme",
+  "description": "Rautatieasemat ja seisakkeet Kanta-Hämen maakunnassa, Suomessa (10 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28747,
+      "name": "Hikiä",
+      "slug": "hikia",
+      "uic": "1000091",
+      "latitude": 60.752846,
+      "longitude": 24.919625,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Hikiä",
+      "etaisyys_km": 1.594,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28749,
+      "name": "Humppila",
+      "slug": "humppila",
+      "uic": "1000144",
+      "latitude": 60.91984,
+      "longitude": 23.362553,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Humppila",
+      "etaisyys_km": 1.137,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28752,
+      "name": "Hämeenlinna",
+      "slug": "hameenlinna",
+      "uic": "1000047",
+      "latitude": 61.002982,
+      "longitude": 24.478543,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Hämeenlinna",
+      "etaisyys_km": 0.552,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "Tavastehus",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28755,
+      "name": "Iittala",
+      "slug": "iittala",
+      "uic": "1000154",
+      "latitude": 61.090979,
+      "longitude": 24.140942,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Iittala",
+      "etaisyys_km": 2.939,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28835,
+      "name": "Mommila",
+      "slug": "mommila",
+      "uic": "1000093",
+      "latitude": 60.821462,
+      "longitude": 25.075621,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Mommila",
+      "etaisyys_km": 1.665,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28850,
+      "name": "Oitti",
+      "slug": "oitti",
+      "uic": "1000092",
+      "latitude": 60.790082,
+      "longitude": 25.021777,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Oitti",
+      "etaisyys_km": 0.102,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 7,
+      "station_id": 28860,
+      "name": "Parola",
+      "slug": "parola",
+      "uic": "1000049",
+      "latitude": 61.050408,
+      "longitude": 24.366531,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Parola",
+      "etaisyys_km": 0.795,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 8,
+      "station_id": 28880,
+      "name": "Riihimäki asema",
+      "slug": "riihimaki-asema",
+      "uic": "1000040",
+      "latitude": 60.73638,
+      "longitude": 24.781587,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Riihimäki",
+      "etaisyys_km": 1.134,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 9,
+      "station_id": 28884,
+      "name": "Ryttylä",
+      "slug": "ryttyla",
+      "uic": "1000042",
+      "latitude": 60.81844,
+      "longitude": 24.75849,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Ryttylä",
+      "etaisyys_km": 0.198,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 10,
+      "station_id": 28908,
+      "name": "Turenki",
+      "slug": "turenki",
+      "uic": "1000044",
+      "latitude": 60.918795,
+      "longitude": 24.638878,
+      "maakunta": "Kanta-Häme",
+      "maakunta_slug": "kanta-hame",
+      "maakunta_code": "05",
+      "lahin_postitoimipaikka": "Turenki",
+      "etaisyys_km": 0.381,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — Kanta-Häme - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet Kanta-Hämen maakunnassa, Suomessa (10 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 10 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — Kanta-Häme | ListBase",
+    "seo_description": "Lataa Rautatieasemat — Kanta-Häme — 10 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 10 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

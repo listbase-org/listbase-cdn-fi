@@ -1,0 +1,340 @@
+{
+  "id": "fi-presidentit",
+  "name": "Suomen tasavallan presidentit",
+  "title": "Suomen tasavallan presidentit",
+  "description": "Kattava lista kaikista Suomen tasavallan presidenteistä vuodesta 1919 alkaen, mukaan luettuna jokaisen presidentin virkakausi/virkakaudet, syntymä- ja kuolinajat, syntymäpaikka, puolue sekä Wikidata-QID. Tiedot poimittu Wikidata-tietokannasta yhdellä SPARQL-kyselyllä (P39 → Q29558).",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "ordinal",
+      "label": "Ordinal",
+      "type": "number"
+    },
+    {
+      "key": "qid",
+      "label": "Qid",
+      "type": "string"
+    },
+    {
+      "key": "name_fi",
+      "label": "Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "date_of_birth",
+      "label": "Date Of Birth",
+      "type": "date"
+    },
+    {
+      "key": "date_of_death",
+      "label": "Date Of Death",
+      "type": "date"
+    },
+    {
+      "key": "birthplace_fi",
+      "label": "Birthplace Fi",
+      "type": "string"
+    },
+    {
+      "key": "birthplace_en",
+      "label": "Birthplace En",
+      "type": "string"
+    },
+    {
+      "key": "birthplace_qid",
+      "label": "Birthplace Qid",
+      "type": "string"
+    },
+    {
+      "key": "terms",
+      "label": "Terms",
+      "type": "date"
+    },
+    {
+      "key": "term_first_start",
+      "label": "Term First Start",
+      "type": "date"
+    },
+    {
+      "key": "term_last_end",
+      "label": "Term Last End",
+      "type": "date"
+    },
+    {
+      "key": "is_incumbent",
+      "label": "Is Incumbent",
+      "type": "boolean"
+    },
+    {
+      "key": "parties",
+      "label": "Parties",
+      "type": "string"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ordinal": 1,
+      "qid": "Q214029",
+      "name_fi": "Kaarlo Juho Ståhlberg",
+      "name_en": "Kaarlo Juho Ståhlberg",
+      "date_of_birth": "1865-01-28",
+      "date_of_death": "1952-09-22",
+      "birthplace_fi": "Suomussalmi",
+      "birthplace_en": "Suomussalmi",
+      "birthplace_qid": "Q214054",
+      "terms": "1919-07-25: 1925-03-02",
+      "term_first_start": "1919-07-25",
+      "term_last_end": "1925-03-02",
+      "is_incumbent": false,
+      "parties": "Q1191102: Kansallinen Edistyspuolue: National Progressive Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaarlo%20Juho%20St%C3%A5hlberg.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q214029"
+    },
+    {
+      "ordinal": 2,
+      "qid": "Q214009",
+      "name_fi": "Lauri Kristian Relander",
+      "name_en": "Lauri Kristian Relander",
+      "date_of_birth": "1883-05-31",
+      "date_of_death": "1942-02-09",
+      "birthplace_fi": "Kurkijoki",
+      "birthplace_en": "Kurkijoki",
+      "birthplace_qid": "Q15839066",
+      "terms": "1925-03-02: 1931-03-01",
+      "term_first_start": "1925-03-02",
+      "term_last_end": "1931-03-01",
+      "is_incumbent": false,
+      "parties": "Q506591: Suomen Keskusta: Centre Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lauri%20Kristian%20Relander.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q214009"
+    },
+    {
+      "ordinal": 3,
+      "qid": "Q209439",
+      "name_fi": "P. E. Svinhufvud",
+      "name_en": "Pehr Evind Svinhufvud",
+      "date_of_birth": "1861-12-15",
+      "date_of_death": "1944-02-29",
+      "birthplace_fi": "Sääksmäki",
+      "birthplace_en": "Sääksmäki",
+      "birthplace_qid": "Q606021",
+      "terms": "1931-03-01: 1937-03-01",
+      "term_first_start": "1931-03-01",
+      "term_last_end": "1937-03-01",
+      "is_incumbent": false,
+      "parties": "Q1713433: Nuorsuomalainen Puolue: Young Finnish Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Finland%20Pehr%20Evind%20Svinhufvud.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q209439"
+    },
+    {
+      "ordinal": 4,
+      "qid": "Q209441",
+      "name_fi": "Kyösti Kallio",
+      "name_en": "Kyösti Kallio",
+      "date_of_birth": "1873-04-10",
+      "date_of_death": "1940-12-19",
+      "birthplace_fi": "Nivala",
+      "birthplace_en": "Nivala",
+      "birthplace_qid": "Q985458",
+      "terms": "1937-03-01: 1940-12-19",
+      "term_first_start": "1937-03-01",
+      "term_last_end": "1940-12-19",
+      "is_incumbent": false,
+      "parties": "Q506591: Suomen Keskusta: Centre Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Ky%C3%B6sti%20Kallio.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q209441"
+    },
+    {
+      "ordinal": 5,
+      "qid": "Q209435",
+      "name_fi": "Risto Ryti",
+      "name_en": "Risto Ryti",
+      "date_of_birth": "1889-02-03",
+      "date_of_death": "1956-10-25",
+      "birthplace_fi": "Huittinen",
+      "birthplace_en": "Huittinen",
+      "birthplace_qid": "Q165285",
+      "terms": "1940-12-19: 1944-08-01",
+      "term_first_start": "1940-12-19",
+      "term_last_end": "1944-08-01",
+      "is_incumbent": false,
+      "parties": "Q1191102: Kansallinen Edistyspuolue: National Progressive Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Risto%20Ryti.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q209435"
+    },
+    {
+      "ordinal": 6,
+      "qid": "Q152306",
+      "name_fi": "Carl Gustaf Emil Mannerheim",
+      "name_en": "Carl Gustaf Emil Mannerheim",
+      "date_of_birth": "1867-06-16",
+      "date_of_death": "1951-01-27",
+      "birthplace_fi": "Louhisaaren kartano",
+      "birthplace_en": "Louhisaari Manor",
+      "birthplace_qid": "Q1141721",
+      "terms": "1944-08-04: 1946-03-04",
+      "term_first_start": "1944-08-04",
+      "term_last_end": "1946-03-04",
+      "is_incumbent": false,
+      "parties": "Q327591: sitoutumaton: independent politician",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mannerheim1940.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q152306"
+    },
+    {
+      "ordinal": 7,
+      "qid": "Q202171",
+      "name_fi": "Juho Kusti Paasikivi",
+      "name_en": "Juho Kusti Paasikivi",
+      "date_of_birth": "1870-11-27",
+      "date_of_death": "1956-12-14",
+      "birthplace_fi": "Hämeenkoski",
+      "birthplace_en": "Hämeenkoski",
+      "birthplace_qid": "Q1025738",
+      "terms": "1946-03-11: 1956-03-01",
+      "term_first_start": "1946-03-11",
+      "term_last_end": "1956-03-01",
+      "is_incumbent": false,
+      "parties": "Q304191: Kansallinen Kokoomus: National Coalition Party, Q1378704: Suomalainen puolue: Finnish Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Juho%20Kusti%20Paasikivi%2C%201940s.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q202171"
+    },
+    {
+      "ordinal": 8,
+      "qid": "Q179858",
+      "name_fi": "Urho Kekkonen",
+      "name_en": "Urho Kekkonen",
+      "date_of_birth": "1900-09-03",
+      "date_of_death": "1986-08-31",
+      "birthplace_fi": "Lepikon torppa",
+      "birthplace_en": "Lepikon torppa",
+      "birthplace_qid": "Q11875597",
+      "terms": "1956-03-01: 1982-01-27",
+      "term_first_start": "1956-03-01",
+      "term_last_end": "1982-01-27",
+      "is_incumbent": false,
+      "parties": "Q506591: Suomen Keskusta: Centre Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Urho-Kekkonen-1977-c.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q179858"
+    },
+    {
+      "ordinal": 9,
+      "qid": "Q29021",
+      "name_fi": "Mauno Koivisto",
+      "name_en": "Mauno Koivisto",
+      "date_of_birth": "1923-11-25",
+      "date_of_death": "2017-05-12",
+      "birthplace_fi": "Turku",
+      "birthplace_en": "Turku",
+      "birthplace_qid": "Q38511",
+      "terms": "1982-01-27: 1994-03-01",
+      "term_first_start": "1982-01-27",
+      "term_last_end": "1994-03-01",
+      "is_incumbent": false,
+      "parties": "Q499029: Suomen Sosialidemokraattinen Puolue: Social Democratic Party of Finland",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauno-Koivisto-1967.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29021"
+    },
+    {
+      "ordinal": 10,
+      "qid": "Q29230",
+      "name_fi": "Martti Ahtisaari",
+      "name_en": "Martti Ahtisaari",
+      "date_of_birth": "1937-06-23",
+      "date_of_death": "2023-10-16",
+      "birthplace_fi": "Viipuri",
+      "birthplace_en": "Vyborg",
+      "birthplace_qid": "Q14657",
+      "terms": "1994-03-01: 2000-03-01",
+      "term_first_start": "1994-03-01",
+      "term_last_end": "2000-03-01",
+      "is_incumbent": false,
+      "parties": "Q499029: Suomen Sosialidemokraattinen Puolue: Social Democratic Party of Finland",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Martti%20Ahtisaari%202012-04-16.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29230"
+    },
+    {
+      "ordinal": 11,
+      "qid": "Q29213",
+      "name_fi": "Tarja Halonen",
+      "name_en": "Tarja Halonen",
+      "date_of_birth": "1943-12-24",
+      "date_of_death": "",
+      "birthplace_fi": "Helsinki",
+      "birthplace_en": "Helsinki",
+      "birthplace_qid": "Q1757",
+      "terms": "2000-03-01: 2012-03-01",
+      "term_first_start": "2000-03-01",
+      "term_last_end": "2012-03-01",
+      "is_incumbent": false,
+      "parties": "Q499029: Suomen Sosialidemokraattinen Puolue: Social Democratic Party of Finland",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarja%20Halonen%201c389%208827-2.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29213"
+    },
+    {
+      "ordinal": 12,
+      "qid": "Q29207",
+      "name_fi": "Sauli Niinistö",
+      "name_en": "Sauli Niinistö",
+      "date_of_birth": "1948-08-24",
+      "date_of_death": "",
+      "birthplace_fi": "Salo",
+      "birthplace_en": "Salo",
+      "birthplace_qid": "Q210987",
+      "terms": "2012-03-01: 2024-03-01",
+      "term_first_start": "2012-03-01",
+      "term_last_end": "2024-03-01",
+      "is_incumbent": false,
+      "parties": "Q304191: Kansallinen Kokoomus: National Coalition Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauli%20Niinist%C3%B6%20in%20the%20White%20House%20Oval%20Office%20on%20March%209%2C%202023%20-%20P20230309CS-0276%20%28cropped%29.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29207"
+    },
+    {
+      "ordinal": 13,
+      "qid": "Q503143",
+      "name_fi": "Alexander Stubb",
+      "name_en": "Alexander Stubb",
+      "date_of_birth": "1968-04-01",
+      "date_of_death": "",
+      "birthplace_fi": "Helsinki",
+      "birthplace_en": "Helsinki",
+      "birthplace_qid": "Q1757",
+      "terms": "2024-03-01",
+      "term_first_start": "2024-03-01",
+      "term_last_end": "",
+      "is_incumbent": true,
+      "parties": "Q304191: Kansallinen Kokoomus: National Coalition Party",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Stubb%20in%202024%20%28cropped%29.jpg",
+      "wikidata_url": "https://www.wikidata.org/wiki/Q503143"
+    }
+  ],
+  "meta": {
+    "title": "Suomen tasavallan presidentit - Ilmainen lataus",
+    "description": "Kattava lista kaikista Suomen tasavallan presidenteistä vuodesta 1919 alkaen, mukaan luettuna jokaisen presidentin virkakausi/virkakaudet, syntymä- ja kuolinajat, syntymäpaikka, puolue sekä Wikidata-QID. Tiedot poimittu Wikidata-tietokannasta yhdellä SPARQL-kyselyllä (P39 → Q29558). Sisältää 13 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Suomen tasavallan presidentit | ListBase",
+    "seo_description": "Lataa Suomen tasavallan presidentit — 13 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 13 tietuetta / 16 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

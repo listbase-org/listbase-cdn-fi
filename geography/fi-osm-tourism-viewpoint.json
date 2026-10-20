@@ -1,0 +1,2365 @@
+{
+  "id": "fi-osm-tourism-viewpoint",
+  "name": "Näköalapaikat – Suomi (OpenStreetMap)",
+  "title": "Näköalapaikat – Suomi (OpenStreetMap)",
+  "description": "Näköalapaikat Suomessa — 256 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=viewpoint`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 5. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 256,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "\"Tö\"",
+      "leveysaste": 62.44417,
+      "pituusaste": 25.894368,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 2,
+      "nimi": "1",
+      "leveysaste": 60.678682,
+      "pituusaste": 25.838039,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 3,
+      "nimi": "2",
+      "leveysaste": 60.679567,
+      "pituusaste": 25.836423,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 4,
+      "nimi": "3",
+      "leveysaste": 60.680671,
+      "pituusaste": 25.833657,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 5,
+      "nimi": "4",
+      "leveysaste": 60.681259,
+      "pituusaste": 25.826738,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 6,
+      "nimi": "5",
+      "leveysaste": 60.680935,
+      "pituusaste": 25.829045,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 7,
+      "nimi": "6",
+      "leveysaste": 60.679464,
+      "pituusaste": 25.832311,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 8,
+      "nimi": "7",
+      "leveysaste": 60.67707,
+      "pituusaste": 25.83594,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 9,
+      "nimi": "Ahmakallio",
+      "leveysaste": 65.694257,
+      "pituusaste": 27.549489,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 10,
+      "nimi": "Aittakuru",
+      "leveysaste": 67.033284,
+      "pituusaste": 27.234534,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 11,
+      "nimi": "Annaberget",
+      "leveysaste": 60.216829,
+      "pituusaste": 25.607176,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 12,
+      "nimi": "Arbetsplatsberget",
+      "leveysaste": 63.655565,
+      "pituusaste": 22.967894,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 13,
+      "nimi": "Arctic Giant",
+      "leveysaste": 64.461075,
+      "pituusaste": 27.54051,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 14,
+      "nimi": "Artic circle road sign",
+      "leveysaste": 66.562407,
+      "pituusaste": 27.252856,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 15,
+      "nimi": "Aulangon näkötorni",
+      "leveysaste": 61.022303,
+      "pituusaste": 24.469617,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 16,
+      "nimi": "Autuaankannas",
+      "leveysaste": 62.809901,
+      "pituusaste": 27.038539,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 17,
+      "nimi": "Bembölen vanha mylly",
+      "leveysaste": 60.224486,
+      "pituusaste": 24.662083,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 18,
+      "nimi": "Bird Viewing",
+      "leveysaste": 65.486304,
+      "pituusaste": 28.557503,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 19,
+      "nimi": "Bird Viewing Point",
+      "leveysaste": 65.482765,
+      "pituusaste": 28.577576,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 20,
+      "nimi": "Brunnsberget",
+      "leveysaste": 59.967426,
+      "pituusaste": 23.433252,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 21,
+      "nimi": "Compass",
+      "leveysaste": 59.948352,
+      "pituusaste": 20.876861,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 22,
+      "nimi": "Djävulsberget",
+      "leveysaste": 60.218202,
+      "pituusaste": 20.22765,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 23,
+      "nimi": "Eero Järnefeltin maalauspaikka",
+      "leveysaste": 63.127904,
+      "pituusaste": 29.726095,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 24,
+      "nimi": "Eerolanpuron kosteikko",
+      "leveysaste": 62.248107,
+      "pituusaste": 25.721637,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 25,
+      "nimi": "Fiellunputous",
+      "leveysaste": 69.528282,
+      "pituusaste": 26.616797,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 26,
+      "nimi": "Fietsroute - plek 2",
+      "leveysaste": 61.797848,
+      "pituusaste": 29.65673,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 27,
+      "nimi": "Fietstocht plek 1",
+      "leveysaste": 61.80677,
+      "pituusaste": 29.539124,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 28,
+      "nimi": "Fiskarsinmäen lintutorni",
+      "leveysaste": 60.176431,
+      "pituusaste": 24.571062,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 29,
+      "nimi": "Friskalanlahden lintulava",
+      "leveysaste": 60.393843,
+      "pituusaste": 22.246415,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 30,
+      "nimi": "Gammelbyvikenin lintutorni",
+      "leveysaste": 60.479114,
+      "pituusaste": 25.923944,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 31,
+      "nimi": "Gråberget",
+      "leveysaste": 63.361485,
+      "pituusaste": 21.965409,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 32,
+      "nimi": "Hakavuori",
+      "leveysaste": 61.469737,
+      "pituusaste": 23.369526,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 33,
+      "nimi": "Hannunkallio",
+      "leveysaste": 66.147135,
+      "pituusaste": 27.541764,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 34,
+      "nimi": "Harjun portaat",
+      "leveysaste": 60.45318,
+      "pituusaste": 26.228874,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 35,
+      "nimi": "Harjun ulkoilupuisto",
+      "leveysaste": 62.24232,
+      "pituusaste": 25.739336,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 36,
+      "nimi": "Haudankallio",
+      "leveysaste": 60.412577,
+      "pituusaste": 24.312924,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 37,
+      "nimi": "Hauki",
+      "leveysaste": 61.941652,
+      "pituusaste": 28.650278,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 38,
+      "nimi": "Haukkakallio",
+      "leveysaste": 60.730293,
+      "pituusaste": 25.439554,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 39,
+      "nimi": "Haukkavuori",
+      "leveysaste": 61.985898,
+      "pituusaste": 25.565142,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 40,
+      "nimi": "Haulinkallio",
+      "leveysaste": 61.494767,
+      "pituusaste": 23.722609,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 41,
+      "nimi": "Havskungen",
+      "leveysaste": 60.215587,
+      "pituusaste": 25.607786,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 42,
+      "nimi": "Helsinki-Vantaa kiitotie 3",
+      "leveysaste": 60.308831,
+      "pituusaste": 24.897683,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 43,
+      "nimi": "Helvetinkolu",
+      "leveysaste": 62.054157,
+      "pituusaste": 23.830762,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 44,
+      "nimi": "Hepoharju",
+      "leveysaste": 62.211716,
+      "pituusaste": 24.633421,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 45,
+      "nimi": "Hepoköngäs näköalatasanne",
+      "leveysaste": 64.819511,
+      "pituusaste": 27.876022,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 46,
+      "nimi": "Hepoköngäs näköalatasanne",
+      "leveysaste": 64.819893,
+      "pituusaste": 27.876705,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 47,
+      "nimi": "Hiidenkirnuja",
+      "leveysaste": 62.54016,
+      "pituusaste": 21.684269,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 48,
+      "nimi": "Hiidensaari",
+      "leveysaste": 61.007419,
+      "pituusaste": 26.435352,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 49,
+      "nimi": "Hiidenvaara",
+      "leveysaste": 62.587017,
+      "pituusaste": 30.244556,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 50,
+      "nimi": "Hiidenvuori",
+      "leveysaste": 61.007338,
+      "pituusaste": 26.434729,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 51,
+      "nimi": "Hirvikallio",
+      "leveysaste": 61.401147,
+      "pituusaste": 24.611303,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 52,
+      "nimi": "Huhmarisvaaran näköalapaikka",
+      "leveysaste": 62.784048,
+      "pituusaste": 29.546232,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 53,
+      "nimi": "Hundbanans Utsiktsplats",
+      "leveysaste": 60.29922,
+      "pituusaste": 22.282722,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 54,
+      "nimi": "Hytharjun näkötorni",
+      "leveysaste": 62.241021,
+      "pituusaste": 26.553966,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 55,
+      "nimi": "Hyypänvuori",
+      "leveysaste": 61.164641,
+      "pituusaste": 21.731727,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 56,
+      "nimi": "Hämenniemen lintutorni",
+      "leveysaste": 62.345539,
+      "pituusaste": 29.571163,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 57,
+      "nimi": "Häntälän notkot",
+      "leveysaste": 60.577566,
+      "pituusaste": 23.365023,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 58,
+      "nimi": "Högberget",
+      "leveysaste": 60.285665,
+      "pituusaste": 25.153532,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 59,
+      "nimi": "Högskär",
+      "leveysaste": 60.066744,
+      "pituusaste": 22.056971,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 60,
+      "nimi": "Iso-Vilunen",
+      "leveysaste": 61.47618,
+      "pituusaste": 23.866148,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 61,
+      "nimi": "Isoisänsilta",
+      "leveysaste": 60.182027,
+      "pituusaste": 24.982702,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 62,
+      "nimi": "J. Alfred Tannerin muistomerkki",
+      "leveysaste": 60.796977,
+      "pituusaste": 26.009186,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 63,
+      "nimi": "Jeturkasti",
+      "leveysaste": 60.197869,
+      "pituusaste": 22.928199,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 64,
+      "nimi": "Juku Pirate Merirosvolinna",
+      "leveysaste": 64.233974,
+      "pituusaste": 23.813762,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 65,
+      "nimi": "Juku Pirate Merirosvolinna",
+      "leveysaste": 64.23398,
+      "pituusaste": 23.813781,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 66,
+      "nimi": "Järvelän lintulava",
+      "leveysaste": 60.462862,
+      "pituusaste": 22.379453,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 67,
+      "nimi": "Järvelän lintutorni",
+      "leveysaste": 60.4614,
+      "pituusaste": 22.384445,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 68,
+      "nimi": "Kaatialan kaivos",
+      "leveysaste": 62.68082,
+      "pituusaste": 23.484679,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 69,
+      "nimi": "Kaatuvakallio",
+      "leveysaste": 60.737091,
+      "pituusaste": 25.438852,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 70,
+      "nimi": "Kallavuori",
+      "leveysaste": 60.644487,
+      "pituusaste": 22.004856,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 71,
+      "nimi": "Kallavuori-2",
+      "leveysaste": 60.645866,
+      "pituusaste": 22.004895,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 72,
+      "nimi": "Kallavuori-3",
+      "leveysaste": 60.648066,
+      "pituusaste": 22.007562,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 73,
+      "nimi": "Kallin näköalatorni",
+      "leveysaste": 65.818674,
+      "pituusaste": 24.522612,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 74,
+      "nimi": "Kalliomaalausten katselutasanne",
+      "leveysaste": 61.063352,
+      "pituusaste": 26.636309,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 75,
+      "nimi": "Kammivuori",
+      "leveysaste": 61.703298,
+      "pituusaste": 25.700286,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 76,
+      "nimi": "Kannistonkallio",
+      "leveysaste": 61.505358,
+      "pituusaste": 21.878842,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 77,
+      "nimi": "Kappelinmäki",
+      "leveysaste": 60.405853,
+      "pituusaste": 22.46556,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 78,
+      "nimi": "Karhuluoto",
+      "leveysaste": 60.60888,
+      "pituusaste": 22.25388,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 79,
+      "nimi": "Karinberget",
+      "leveysaste": 60.218472,
+      "pituusaste": 25.609204,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 80,
+      "nimi": "Karjalevo",
+      "leveysaste": 60.881756,
+      "pituusaste": 22.322544,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 81,
+      "nimi": "Katajavuori",
+      "leveysaste": 61.169855,
+      "pituusaste": 26.837561,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 82,
+      "nimi": "Kaukkarin kallio",
+      "leveysaste": 60.987894,
+      "pituusaste": 25.761245,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 83,
+      "nimi": "Kaunispään torni",
+      "leveysaste": 68.434225,
+      "pituusaste": 27.442118,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 84,
+      "nimi": "Kemijokisuu",
+      "leveysaste": 65.774668,
+      "pituusaste": 24.504319,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 85,
+      "nimi": "Kielisenvuoman näköalapaikka",
+      "leveysaste": 67.495892,
+      "pituusaste": 24.293131,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 86,
+      "nimi": "Kikanberget",
+      "leveysaste": 63.303721,
+      "pituusaste": 21.097552,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 87,
+      "nimi": "Kirkas-Soljasen katselulava",
+      "leveysaste": 61.903799,
+      "pituusaste": 23.475429,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 88,
+      "nimi": "Kirkas-Soljasen katselulava",
+      "leveysaste": 61.903802,
+      "pituusaste": 23.47543,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 89,
+      "nimi": "Kirkkokallio",
+      "leveysaste": 65.644738,
+      "pituusaste": 29.666639,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 90,
+      "nimi": "Kirkkopakka",
+      "leveysaste": 63.325572,
+      "pituusaste": 22.752318,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 91,
+      "nimi": "Kirkonmäki",
+      "leveysaste": 60.376943,
+      "pituusaste": 23.129718,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 92,
+      "nimi": "Kirnuvuori",
+      "leveysaste": 61.182279,
+      "pituusaste": 26.879035,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 93,
+      "nimi": "Kivijata",
+      "leveysaste": 62.126405,
+      "pituusaste": 22.097808,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 94,
+      "nimi": "Kivilonka",
+      "leveysaste": 65.743378,
+      "pituusaste": 24.617751,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 95,
+      "nimi": "Klassarin kallio",
+      "leveysaste": 60.319369,
+      "pituusaste": 24.435059,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 96,
+      "nimi": "Klerckerinpuisto",
+      "leveysaste": 61.007729,
+      "pituusaste": 24.467795,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 97,
+      "nimi": "Knuutilan kartano",
+      "leveysaste": 61.469929,
+      "pituusaste": 23.355355,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 98,
+      "nimi": "Koijärven lintutorni",
+      "leveysaste": 60.976632,
+      "pituusaste": 23.733043,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 99,
+      "nimi": "Kokkokallio",
+      "leveysaste": 60.35474,
+      "pituusaste": 24.30489,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 100,
+      "nimi": "Kokkovuori",
+      "leveysaste": 60.609764,
+      "pituusaste": 22.007193,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 101,
+      "nimi": "Kokkovuori",
+      "leveysaste": 61.160518,
+      "pituusaste": 21.475235,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 102,
+      "nimi": "Kolholankallio",
+      "leveysaste": 60.681427,
+      "pituusaste": 26.014922,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 103,
+      "nimi": "Koski",
+      "leveysaste": 61.916854,
+      "pituusaste": 25.16582,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 104,
+      "nimi": "Kruunuvuorensilta",
+      "leveysaste": 60.174195,
+      "pituusaste": 25.00178,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 105,
+      "nimi": "Kräsoorannokka",
+      "leveysaste": 61.567566,
+      "pituusaste": 21.480787,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 106,
+      "nimi": "Kullivaha -siirtolohkare",
+      "leveysaste": 60.28264,
+      "pituusaste": 23.611812,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 107,
+      "nimi": "Kulmakuru",
+      "leveysaste": 68.452565,
+      "pituusaste": 27.266648,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 108,
+      "nimi": "Kumparepuiston näköalatasanne",
+      "leveysaste": 60.525713,
+      "pituusaste": 26.972014,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 109,
+      "nimi": "Kuninkaanharjun näkötorni",
+      "leveysaste": 60.929027,
+      "pituusaste": 26.038681,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 110,
+      "nimi": "Kuninkaankivi",
+      "leveysaste": 62.846828,
+      "pituusaste": 24.294466,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 111,
+      "nimi": "Kurikanmäki",
+      "leveysaste": 61.457758,
+      "pituusaste": 23.667813,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 112,
+      "nimi": "Kurjenjärven lintutorni",
+      "leveysaste": 62.323666,
+      "pituusaste": 23.308976,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 113,
+      "nimi": "Kuurakoppi",
+      "leveysaste": 67.562776,
+      "pituusaste": 24.226168,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 114,
+      "nimi": "Kärjenkallion lintutorni",
+      "leveysaste": 61.275568,
+      "pituusaste": 22.556992,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 115,
+      "nimi": "Lammassaaren lankkupolun eteläinen katselutasanne",
+      "leveysaste": 60.20878,
+      "pituusaste": 24.995292,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 116,
+      "nimi": "Lammassaaren lankkupolun pohjoinen katselutasanne",
+      "leveysaste": 60.210675,
+      "pituusaste": 24.991061,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 117,
+      "nimi": "Lappeenranta",
+      "leveysaste": 61.077096,
+      "pituusaste": 28.202423,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 118,
+      "nimi": "Lappeenranta",
+      "leveysaste": 61.077112,
+      "pituusaste": 28.202478,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 119,
+      "nimi": "Laturinkallion näköalapaikka",
+      "leveysaste": 60.224068,
+      "pituusaste": 24.816412,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 120,
+      "nimi": "Laukkakallio",
+      "leveysaste": 60.367882,
+      "pituusaste": 24.261027,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 121,
+      "nimi": "Lekstuguberget",
+      "leveysaste": 60.216595,
+      "pituusaste": 25.61023,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 122,
+      "nimi": "Lemminkäisen kalliot",
+      "leveysaste": 60.338555,
+      "pituusaste": 24.994725,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 123,
+      "nimi": "Levonkallio",
+      "leveysaste": 61.02623,
+      "pituusaste": 24.48295,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 124,
+      "nimi": "Lillsandviken",
+      "leveysaste": 63.375953,
+      "pituusaste": 21.984855,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 125,
+      "nimi": "Linnavuori",
+      "leveysaste": 60.422952,
+      "pituusaste": 22.551359,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 126,
+      "nimi": "Linnavuori",
+      "leveysaste": 62.116349,
+      "pituusaste": 28.471286,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 127,
+      "nimi": "Linnavuori (Kuuvanvuori)",
+      "leveysaste": 60.596013,
+      "pituusaste": 21.990387,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 128,
+      "nimi": "Linnoitusniemen paviljonki",
+      "leveysaste": 61.069249,
+      "pituusaste": 28.187459,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 129,
+      "nimi": "Linnunlaulu",
+      "leveysaste": 60.181682,
+      "pituusaste": 24.938417,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 130,
+      "nimi": "Lintujen tarkkailukukkula",
+      "leveysaste": 60.441004,
+      "pituusaste": 25.028793,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 131,
+      "nimi": "Littoistenjärven lintutorni",
+      "leveysaste": 60.46016,
+      "pituusaste": 22.385333,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 132,
+      "nimi": "Loukkuvuori",
+      "leveysaste": 62.583231,
+      "pituusaste": 26.657243,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 133,
+      "nimi": "Luolalanjärven itäinen lintutorni",
+      "leveysaste": 60.469475,
+      "pituusaste": 22.050449,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 134,
+      "nimi": "Luolalanjärven läntinen lintutorni",
+      "leveysaste": 60.467317,
+      "pituusaste": 22.04373,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 135,
+      "nimi": "Luomusjärvi näköalapaikka",
+      "leveysaste": 69.4342,
+      "pituusaste": 26.232097,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 136,
+      "nimi": "Luotolahdenvuori",
+      "leveysaste": 61.297542,
+      "pituusaste": 27.610981,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 137,
+      "nimi": "Långmossaberget",
+      "leveysaste": 60.055075,
+      "pituusaste": 24.263607,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 138,
+      "nimi": "Maahisenkierroksen näköalatasanne",
+      "leveysaste": 60.28964,
+      "pituusaste": 24.567719,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 139,
+      "nimi": "Maalpurinojan vesiputous",
+      "leveysaste": 68.27888,
+      "pituusaste": 28.440412,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 140,
+      "nimi": "Maisema Pötsönlahdelle",
+      "leveysaste": 62.24273,
+      "pituusaste": 29.587491,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 141,
+      "nimi": "Martinkylän Högberg",
+      "leveysaste": 60.280211,
+      "pituusaste": 24.873742,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 142,
+      "nimi": "Meikon näköalapaikka",
+      "leveysaste": 60.141422,
+      "pituusaste": 24.354061,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 143,
+      "nimi": "Midnight Sun Admire",
+      "leveysaste": 67.499342,
+      "pituusaste": 24.301143,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 144,
+      "nimi": "Mika",
+      "leveysaste": 59.943673,
+      "pituusaste": 20.952591,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 145,
+      "nimi": "Molkoköngäs",
+      "leveysaste": 67.061704,
+      "pituusaste": 25.080858,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 146,
+      "nimi": "Monikko",
+      "leveysaste": 60.234581,
+      "pituusaste": 24.793017,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 147,
+      "nimi": "Mudaistenperä",
+      "leveysaste": 61.104184,
+      "pituusaste": 21.459826,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 148,
+      "nimi": "Murjanvuori",
+      "leveysaste": 61.209664,
+      "pituusaste": 26.7927,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 149,
+      "nimi": "Musslaxbergenin näköalapaikka",
+      "leveysaste": 60.176094,
+      "pituusaste": 24.59237,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 150,
+      "nimi": "Mustakellari",
+      "leveysaste": 60.380556,
+      "pituusaste": 24.269944,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 151,
+      "nimi": "Mustolanmäki",
+      "leveysaste": 62.717227,
+      "pituusaste": 27.016126,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 152,
+      "nimi": "Myrskykallio",
+      "leveysaste": 60.153668,
+      "pituusaste": 25.126587,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 153,
+      "nimi": "Mölylän kallio",
+      "leveysaste": 60.211499,
+      "pituusaste": 25.018695,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 154,
+      "nimi": "Naapurinlouhi",
+      "leveysaste": 64.183695,
+      "pituusaste": 28.203374,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 155,
+      "nimi": "Naarkoski",
+      "leveysaste": 60.6411,
+      "pituusaste": 25.588664,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 156,
+      "nimi": "Nenustannokka",
+      "leveysaste": 60.257518,
+      "pituusaste": 23.02722,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 157,
+      "nimi": "Nimikallio",
+      "leveysaste": 61.495102,
+      "pituusaste": 23.726676,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 158,
+      "nimi": "Nupurin lintutorni",
+      "leveysaste": 60.23444,
+      "pituusaste": 24.589524,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 159,
+      "nimi": "Näköala- ja levähdyspaikka",
+      "leveysaste": 60.449614,
+      "pituusaste": 26.235214,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 160,
+      "nimi": "Näköalapaikka",
+      "leveysaste": 62.346543,
+      "pituusaste": 25.742072,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 161,
+      "nimi": "Näköalapaikka",
+      "leveysaste": 64.046519,
+      "pituusaste": 29.123249,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 162,
+      "nimi": "Näköalapaikka",
+      "leveysaste": 65.512379,
+      "pituusaste": 29.303009,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 163,
+      "nimi": "Näköalapaikka",
+      "leveysaste": 68.72813,
+      "pituusaste": 27.467186,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 164,
+      "nimi": "Näköalapaikka I",
+      "leveysaste": 60.781831,
+      "pituusaste": 26.342887,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 165,
+      "nimi": "Näköalapaikka I",
+      "leveysaste": 60.781846,
+      "pituusaste": 26.342847,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 166,
+      "nimi": "Näköalapaikka II",
+      "leveysaste": 60.779333,
+      "pituusaste": 26.342715,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 167,
+      "nimi": "Näköalatasanne",
+      "leveysaste": 60.15611,
+      "pituusaste": 24.920892,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 168,
+      "nimi": "Näköalatasanne",
+      "leveysaste": 60.990058,
+      "pituusaste": 25.511342,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 169,
+      "nimi": "Näköalaterassi",
+      "leveysaste": 60.316931,
+      "pituusaste": 24.965208,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 170,
+      "nimi": "Näset",
+      "leveysaste": 63.056446,
+      "pituusaste": 21.599725,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 171,
+      "nimi": "Olhavanvuori",
+      "leveysaste": 61.185159,
+      "pituusaste": 26.839967,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 172,
+      "nimi": "Optisen lennättimen muistomerkki",
+      "leveysaste": 60.493451,
+      "pituusaste": 22.142274,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 173,
+      "nimi": "Otajärven lintulava",
+      "leveysaste": 60.999651,
+      "pituusaste": 21.654459,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 174,
+      "nimi": "Paimenten kirkko",
+      "leveysaste": 60.436796,
+      "pituusaste": 23.892736,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 175,
+      "nimi": "Pakattulanvuori",
+      "leveysaste": 60.488882,
+      "pituusaste": 22.006573,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 176,
+      "nimi": "Pallistajan Näkötorni",
+      "leveysaste": 66.736102,
+      "pituusaste": 24.422523,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 177,
+      "nimi": "Pallistajan Näkötorni",
+      "leveysaste": 66.736105,
+      "pituusaste": 24.422531,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 178,
+      "nimi": "Paltanvuori",
+      "leveysaste": 60.748446,
+      "pituusaste": 22.345567,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 179,
+      "nimi": "Papinkarin lintutorni",
+      "leveysaste": 64.908728,
+      "pituusaste": 25.380892,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 180,
+      "nimi": "Patteriniemi",
+      "leveysaste": 63.069623,
+      "pituusaste": 21.654155,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 181,
+      "nimi": "Pellilänsuon näköalatorni",
+      "leveysaste": 60.800469,
+      "pituusaste": 23.537453,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 182,
+      "nimi": "Pepunniemi",
+      "leveysaste": 62.279445,
+      "pituusaste": 25.355471,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 183,
+      "nimi": "Perälänmäki",
+      "leveysaste": 60.356553,
+      "pituusaste": 22.687628,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 184,
+      "nimi": "Pikkusaukkosuvannonvaara näköalapaikka",
+      "leveysaste": 67.950406,
+      "pituusaste": 29.367903,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 185,
+      "nimi": "Pirunkirnu",
+      "leveysaste": 63.179532,
+      "pituusaste": 29.091655,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 186,
+      "nimi": "Pirunpelto",
+      "leveysaste": 60.571404,
+      "pituusaste": 25.056569,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 187,
+      "nimi": "Pirunpelto",
+      "leveysaste": 60.571432,
+      "pituusaste": 25.056526,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 188,
+      "nimi": "Pirunpelto",
+      "leveysaste": 60.72745,
+      "pituusaste": 25.436892,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 189,
+      "nimi": "Pohtiolampi",
+      "leveysaste": 61.449153,
+      "pituusaste": 24.124776,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 190,
+      "nimi": "Puijonnokka",
+      "leveysaste": 62.934141,
+      "pituusaste": 27.640211,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 191,
+      "nimi": "Pumpulikirkko",
+      "leveysaste": 63.629392,
+      "pituusaste": 28.466139,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 192,
+      "nimi": "Pyhäkasteenlampi katselutasanne",
+      "leveysaste": 67.020913,
+      "pituusaste": 27.194574,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 193,
+      "nimi": "Pälkkimäpään vesiputous",
+      "leveysaste": 68.262057,
+      "pituusaste": 28.091184,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 194,
+      "nimi": "Raavuori",
+      "leveysaste": 60.772516,
+      "pituusaste": 26.575477,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 195,
+      "nimi": "Rantapromenadin lintulava",
+      "leveysaste": 60.434803,
+      "pituusaste": 22.200518,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 196,
+      "nimi": "Risön lintutorni",
+      "leveysaste": 63.050053,
+      "pituusaste": 21.683688,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 197,
+      "nimi": "Runtelinharju",
+      "leveysaste": 65.161054,
+      "pituusaste": 25.235886,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 198,
+      "nimi": "Ryläyksen kiviputous",
+      "leveysaste": 63.04461,
+      "pituusaste": 29.828251,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 199,
+      "nimi": "Ryssänluola",
+      "leveysaste": 60.329505,
+      "pituusaste": 23.601898,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 200,
+      "nimi": "Rännärinkallio",
+      "leveysaste": 61.51926,
+      "pituusaste": 21.841185,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 201,
+      "nimi": "Räsbådaviken",
+      "leveysaste": 63.344338,
+      "pituusaste": 21.948896,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 202,
+      "nimi": "Räskin lintutorni",
+      "leveysaste": 60.468775,
+      "pituusaste": 26.844889,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 203,
+      "nimi": "Saana 747 näköalatasanne 2",
+      "leveysaste": 69.054248,
+      "pituusaste": 20.807812,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 204,
+      "nimi": "Saari-Soljasen luonnontarkkailulava",
+      "leveysaste": 61.903703,
+      "pituusaste": 23.47457,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 205,
+      "nimi": "Salpa-Suppa",
+      "leveysaste": 60.989851,
+      "pituusaste": 25.512157,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 206,
+      "nimi": "Saraakallio",
+      "leveysaste": 62.417555,
+      "pituusaste": 25.99789,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 207,
+      "nimi": "Sarvikallio",
+      "leveysaste": 60.429462,
+      "pituusaste": 25.042243,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 208,
+      "nimi": "Savivuoren näkötorni",
+      "leveysaste": 63.0889,
+      "pituusaste": 25.837749,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 209,
+      "nimi": "Savivuoren näkötorni",
+      "leveysaste": 63.088905,
+      "pituusaste": 25.837795,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 210,
+      "nimi": "Siipyyn näkötorni",
+      "leveysaste": 62.013993,
+      "pituusaste": 21.292998,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 211,
+      "nimi": "Sinisen huvilan kahvila",
+      "leveysaste": 60.181307,
+      "pituusaste": 24.936942,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 212,
+      "nimi": "Skinnaråkern",
+      "leveysaste": 60.216019,
+      "pituusaste": 25.611686,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 213,
+      "nimi": "Soininmäki",
+      "leveysaste": 61.849812,
+      "pituusaste": 28.757359,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 214,
+      "nimi": "Soljastensuo luonnontarkkailulava",
+      "leveysaste": 61.896719,
+      "pituusaste": 23.475671,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 215,
+      "nimi": "Soljastensuo luonnontarkkailulava",
+      "leveysaste": 61.896724,
+      "pituusaste": 23.475685,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 216,
+      "nimi": "Sourun näkötorni",
+      "leveysaste": 62.860357,
+      "pituusaste": 27.120392,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 217,
+      "nimi": "Stagsundsdammen",
+      "leveysaste": 59.922815,
+      "pituusaste": 23.203677,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 218,
+      "nimi": "Sudenkuoppa",
+      "leveysaste": 62.522737,
+      "pituusaste": 21.723021,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 219,
+      "nimi": "Suomenlinnan kuivatelakan katseluterassi",
+      "leveysaste": 60.144714,
+      "pituusaste": 24.984344,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 220,
+      "nimi": "Suomenojan lintutorni",
+      "leveysaste": 60.151191,
+      "pituusaste": 24.718558,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 221,
+      "nimi": "Suomenojan lintutorni",
+      "leveysaste": 60.152892,
+      "pituusaste": 24.722278,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 222,
+      "nimi": "Suomunsuu",
+      "leveysaste": 68.444657,
+      "pituusaste": 28.308484,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 223,
+      "nimi": "Susivuori",
+      "leveysaste": 61.141057,
+      "pituusaste": 21.540627,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 224,
+      "nimi": "Söderskataträsket",
+      "leveysaste": 63.338586,
+      "pituusaste": 21.956853,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 225,
+      "nimi": "Taivaanpankon näköalapaikka",
+      "leveysaste": 62.908292,
+      "pituusaste": 27.637663,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 226,
+      "nimi": "Tarkkailulava",
+      "leveysaste": 61.278416,
+      "pituusaste": 22.559245,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 227,
+      "nimi": "Tarkkailulava",
+      "leveysaste": 63.373465,
+      "pituusaste": 23.51445,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 228,
+      "nimi": "Tarkkailulava",
+      "leveysaste": 63.378417,
+      "pituusaste": 23.527503,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 229,
+      "nimi": "Telekallion näköalatorni",
+      "leveysaste": 60.355596,
+      "pituusaste": 25.625766,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 230,
+      "nimi": "Toivontorni",
+      "leveysaste": 63.508661,
+      "pituusaste": 29.285887,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 231,
+      "nimi": "Tornikallio",
+      "leveysaste": 60.704991,
+      "pituusaste": 26.003741,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 232,
+      "nimi": "Tuhkauuni",
+      "leveysaste": 60.69803,
+      "pituusaste": 25.79655,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 233,
+      "nimi": "Tuhnunvuori",
+      "leveysaste": 61.340438,
+      "pituusaste": 23.555017,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 234,
+      "nimi": "Tunturit",
+      "leveysaste": 67.588782,
+      "pituusaste": 24.204542,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 235,
+      "nimi": "Uhriharjun katselulava",
+      "leveysaste": 67.021228,
+      "pituusaste": 27.184737,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 236,
+      "nimi": "Ukko-Luosto",
+      "leveysaste": 67.138953,
+      "pituusaste": 26.894689,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 237,
+      "nimi": "Unajanlahden lintutorni",
+      "leveysaste": 61.076948,
+      "pituusaste": 21.492286,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 238,
+      "nimi": "Ursa Mikkeli Näkötorni",
+      "leveysaste": 61.684252,
+      "pituusaste": 27.239458,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 239,
+      "nimi": "Vaarniemenkallion näkötorni",
+      "leveysaste": 60.399383,
+      "pituusaste": 22.288246,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 240,
+      "nimi": "Vanttikallio",
+      "leveysaste": 60.21674,
+      "pituusaste": 25.126088,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 241,
+      "nimi": "Verkkovaara",
+      "leveysaste": 63.062328,
+      "pituusaste": 29.787019,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 242,
+      "nimi": "Vesilinnan näkötorni",
+      "leveysaste": 62.243173,
+      "pituusaste": 25.739548,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 243,
+      "nimi": "Vesiputous",
+      "leveysaste": 69.57805,
+      "pituusaste": 26.763724,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 244,
+      "nimi": "View to Yllästunturi",
+      "leveysaste": 67.64947,
+      "pituusaste": 24.213113,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 245,
+      "nimi": "View tower",
+      "leveysaste": 60.303279,
+      "pituusaste": 20.742093,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 246,
+      "nimi": "View tower",
+      "leveysaste": 60.303285,
+      "pituusaste": 20.742081,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 247,
+      "nimi": "Viewpoimt",
+      "leveysaste": 60.733964,
+      "pituusaste": 23.585802,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 248,
+      "nimi": "Vuohivuori",
+      "leveysaste": 60.939017,
+      "pituusaste": 26.591506,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 249,
+      "nimi": "Yhdeksänsylenkallio",
+      "leveysaste": 65.642874,
+      "pituusaste": 29.666513,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 250,
+      "nimi": "Ylimmäinen Palotunturi",
+      "leveysaste": 66.625184,
+      "pituusaste": 28.857587,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 251,
+      "nimi": "kallio",
+      "leveysaste": 60.575994,
+      "pituusaste": 25.845858,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 252,
+      "nimi": "maisemapenkit",
+      "leveysaste": 61.723888,
+      "pituusaste": 22.922276,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 253,
+      "nimi": "näkymä Ruuhilammelle",
+      "leveysaste": 60.529203,
+      "pituusaste": 24.176378,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 254,
+      "nimi": "Äijälänsalmen vanha silta",
+      "leveysaste": 62.229486,
+      "pituusaste": 25.80475,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 255,
+      "nimi": "Öjberget",
+      "leveysaste": 63.035892,
+      "pituusaste": 21.573405,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    },
+    {
+      "id": 256,
+      "nimi": "Вид на ГЭС и Вуоксу",
+      "leveysaste": 61.208841,
+      "pituusaste": 28.783011,
+      "osm_avain": "tourism",
+      "osm_arvo": "viewpoint",
+      "osm_luokka": "tourism=viewpoint"
+    }
+  ],
+  "meta": {
+    "title": "Näköalapaikat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Näköalapaikat Suomessa — 256 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=viewpoint`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 5. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 256 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Näköalapaikat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Näköalapaikat – Suomi (OpenStreetMap) — 256 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 256 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

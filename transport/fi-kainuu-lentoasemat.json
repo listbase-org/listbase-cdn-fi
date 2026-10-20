@@ -1,0 +1,142 @@
+{
+  "id": "fi-kainuu-lentoasemat",
+  "name": "Finland / Kainuu — Airports (lentoasemat)",
+  "title": "Finland / Kainuu — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Kainuu (Kainuu), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Kainuu'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFKH",
+      "iata": "",
+      "name": "Kuhmo Airport",
+      "city": "",
+      "subdivision": "Kainuu",
+      "subdivision_name_fi": "Kainuu",
+      "country": "FI",
+      "elevation_ft": 571,
+      "latitude": 64.1125,
+      "longitude": 29.4386,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKI",
+      "iata": "KAJ",
+      "name": "Kajaani Airport",
+      "city": "Kajaani",
+      "subdivision": "Kainuu",
+      "subdivision_name_fi": "Kainuu",
+      "country": "FI",
+      "elevation_ft": 483,
+      "latitude": 64.2855,
+      "longitude": 27.6924,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFSU",
+      "iata": "",
+      "name": "Suomussalmi Airport",
+      "city": "",
+      "subdivision": "Kainuu",
+      "subdivision_name_fi": "Kainuu",
+      "country": "FI",
+      "elevation_ft": 541,
+      "latitude": 64.8219,
+      "longitude": 28.7103,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFVL",
+      "iata": "",
+      "name": "Vaala Airport",
+      "city": "",
+      "subdivision": "Kainuu",
+      "subdivision_name_fi": "Kainuu",
+      "country": "FI",
+      "elevation_ft": 443,
+      "latitude": 64.5019,
+      "longitude": 26.76,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Kainuu — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Kainuu (Kainuu), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Kainuu'. Sisältää 4 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Kainuu — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Kainuu — Airports (lentoasemat) — 4 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 4 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

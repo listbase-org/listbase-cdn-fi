@@ -1,0 +1,6910 @@
+{
+  "id": "fi-osm-leisure-fitness-centre",
+  "name": "Kuntosalit – Suomi (OpenStreetMap)",
+  "title": "Kuntosalit – Suomi (OpenStreetMap)",
+  "description": "Kuntosalit Suomessa — 761 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `leisure=fitness_centre`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 761,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "100Syke",
+      "leveysaste": 61.484183,
+      "pituusaste": 21.799918,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 2,
+      "nimi": "24/7 Arctic Gym",
+      "leveysaste": 66.493725,
+      "pituusaste": 25.707599,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 3,
+      "nimi": "360 kuntostudio",
+      "leveysaste": 60.160001,
+      "pituusaste": 24.92024,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 4,
+      "nimi": "Aava Lapland",
+      "leveysaste": 67.550907,
+      "pituusaste": 24.256416,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 5,
+      "nimi": "Acive sport club",
+      "leveysaste": 59.980397,
+      "pituusaste": 23.439102,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 6,
+      "nimi": "Actilife",
+      "leveysaste": 63.826238,
+      "pituusaste": 23.070001,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 7,
+      "nimi": "Actilife",
+      "leveysaste": 63.835346,
+      "pituusaste": 23.133679,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 8,
+      "nimi": "Actilife Lady",
+      "leveysaste": 63.836656,
+      "pituusaste": 23.133409,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 9,
+      "nimi": "Ahjo Training Center",
+      "leveysaste": 60.395829,
+      "pituusaste": 25.108317,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 10,
+      "nimi": "Aliento hyvinvointikeskus",
+      "leveysaste": 64.070587,
+      "pituusaste": 24.536869,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 11,
+      "nimi": "Alive - Training & Therapy",
+      "leveysaste": 62.136343,
+      "pituusaste": 25.670952,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 12,
+      "nimi": "Amazing Family Gym",
+      "leveysaste": 63.114313,
+      "pituusaste": 21.687924,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 13,
+      "nimi": "Amazing Family Gym, Runsor",
+      "leveysaste": 63.062469,
+      "pituusaste": 21.729146,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 14,
+      "nimi": "Anastacium kuntoilukeskus",
+      "leveysaste": 60.995637,
+      "pituusaste": 24.464216,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 15,
+      "nimi": "Aquarius Sporting Club",
+      "leveysaste": 60.043405,
+      "pituusaste": 24.006628,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 16,
+      "nimi": "Arctic Gym",
+      "leveysaste": 60.237746,
+      "pituusaste": 25.052508,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 17,
+      "nimi": "Asikkalan liikuntahallin kuntosali",
+      "leveysaste": 61.177841,
+      "pituusaste": 25.523727,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 18,
+      "nimi": "Aslakin liike",
+      "leveysaste": 67.657655,
+      "pituusaste": 24.90537,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 19,
+      "nimi": "Auki Joogakoulu",
+      "leveysaste": 61.500539,
+      "pituusaste": 23.791232,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 20,
+      "nimi": "Aura Alavuden kuntokeskus",
+      "leveysaste": 62.585225,
+      "pituusaste": 23.616073,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 21,
+      "nimi": "Avancia",
+      "leveysaste": 60.09799,
+      "pituusaste": 19.942162,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 22,
+      "nimi": "Avancia",
+      "leveysaste": 60.105341,
+      "pituusaste": 19.927238,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 23,
+      "nimi": "BB-Gym",
+      "leveysaste": 62.611739,
+      "pituusaste": 29.734431,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 24,
+      "nimi": "Balance Kajaani",
+      "leveysaste": 64.220862,
+      "pituusaste": 27.744127,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 25,
+      "nimi": "Bay Studios",
+      "leveysaste": 60.158497,
+      "pituusaste": 24.933733,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 26,
+      "nimi": "Bay Studios",
+      "leveysaste": 60.169022,
+      "pituusaste": 24.960072,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 27,
+      "nimi": "Become",
+      "leveysaste": 60.154116,
+      "pituusaste": 24.636009,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 28,
+      "nimi": "Biitsihalli",
+      "leveysaste": 63.02526,
+      "pituusaste": 21.895535,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 29,
+      "nimi": "Biitsihalli",
+      "leveysaste": 63.025313,
+      "pituusaste": 21.895491,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 30,
+      "nimi": "Bodimimmit",
+      "leveysaste": 60.23721,
+      "pituusaste": 25.116674,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 31,
+      "nimi": "Body Building Club",
+      "leveysaste": 60.244136,
+      "pituusaste": 24.898993,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 32,
+      "nimi": "Boost",
+      "leveysaste": 60.430254,
+      "pituusaste": 22.246193,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 33,
+      "nimi": "Boost",
+      "leveysaste": 60.430264,
+      "pituusaste": 22.246264,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 34,
+      "nimi": "Boost Sports Club",
+      "leveysaste": 60.430597,
+      "pituusaste": 22.246294,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 35,
+      "nimi": "Boost Sports Club",
+      "leveysaste": 60.430619,
+      "pituusaste": 22.246346,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 36,
+      "nimi": "CampusSport",
+      "leveysaste": 60.462669,
+      "pituusaste": 22.287704,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 37,
+      "nimi": "CampusSport Aurum",
+      "leveysaste": 60.454938,
+      "pituusaste": 22.282354,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 38,
+      "nimi": "CampusSport Educarium",
+      "leveysaste": 60.458546,
+      "pituusaste": 22.285042,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 39,
+      "nimi": "CampusSport Educarium",
+      "leveysaste": 60.458557,
+      "pituusaste": 22.285053,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 40,
+      "nimi": "Campussport SportSirkka",
+      "leveysaste": 60.447729,
+      "pituusaste": 22.282268,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 41,
+      "nimi": "Cardio gym",
+      "leveysaste": 60.450591,
+      "pituusaste": 22.254445,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 42,
+      "nimi": "City-voimailusali",
+      "leveysaste": 60.403867,
+      "pituusaste": 25.100466,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 43,
+      "nimi": "Classic Gym",
+      "leveysaste": 65.018772,
+      "pituusaste": 25.502527,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 44,
+      "nimi": "Cocoi Jooga & Retriitit",
+      "leveysaste": 60.05029,
+      "pituusaste": 24.50283,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 45,
+      "nimi": "Colyseum",
+      "leveysaste": 60.277961,
+      "pituusaste": 24.97431,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 46,
+      "nimi": "Core",
+      "leveysaste": 65.131503,
+      "pituusaste": 25.357095,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 47,
+      "nimi": "Core",
+      "leveysaste": 65.131503,
+      "pituusaste": 25.357185,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 48,
+      "nimi": "CrossFit",
+      "leveysaste": 60.15253,
+      "pituusaste": 24.5355,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 49,
+      "nimi": "CrossFit",
+      "leveysaste": 60.158726,
+      "pituusaste": 24.640854,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 50,
+      "nimi": "CrossFit",
+      "leveysaste": 60.167916,
+      "pituusaste": 24.804408,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 51,
+      "nimi": "CrossFit",
+      "leveysaste": 60.185165,
+      "pituusaste": 24.962838,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 52,
+      "nimi": "CrossFit",
+      "leveysaste": 60.188036,
+      "pituusaste": 24.963802,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 53,
+      "nimi": "CrossFit",
+      "leveysaste": 60.191273,
+      "pituusaste": 24.978269,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 54,
+      "nimi": "CrossFit",
+      "leveysaste": 60.21289,
+      "pituusaste": 25.048206,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 55,
+      "nimi": "CrossFit",
+      "leveysaste": 60.221777,
+      "pituusaste": 24.992856,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 56,
+      "nimi": "CrossFit",
+      "leveysaste": 60.222819,
+      "pituusaste": 24.854295,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 57,
+      "nimi": "CrossFit",
+      "leveysaste": 60.238797,
+      "pituusaste": 24.856856,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 58,
+      "nimi": "CrossFit",
+      "leveysaste": 60.33793,
+      "pituusaste": 25.129412,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 59,
+      "nimi": "CrossFit",
+      "leveysaste": 60.382497,
+      "pituusaste": 25.100328,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 60,
+      "nimi": "CrossFit",
+      "leveysaste": 60.398474,
+      "pituusaste": 25.109164,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 61,
+      "nimi": "CrossFit",
+      "leveysaste": 60.466646,
+      "pituusaste": 22.282753,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 62,
+      "nimi": "CrossFit",
+      "leveysaste": 60.613895,
+      "pituusaste": 24.855562,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 63,
+      "nimi": "CrossFit",
+      "leveysaste": 62.269752,
+      "pituusaste": 25.782744,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 64,
+      "nimi": "CrossFit",
+      "leveysaste": 62.778269,
+      "pituusaste": 22.817498,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 65,
+      "nimi": "CrossFit",
+      "leveysaste": 62.896074,
+      "pituusaste": 27.715879,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 66,
+      "nimi": "CrossFit",
+      "leveysaste": 63.073976,
+      "pituusaste": 27.636549,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 67,
+      "nimi": "CrossFit",
+      "leveysaste": 63.100482,
+      "pituusaste": 21.625443,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 68,
+      "nimi": "CrossFit",
+      "leveysaste": 65.035444,
+      "pituusaste": 25.466364,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 69,
+      "nimi": "CrossFit 40100",
+      "leveysaste": 62.2494,
+      "pituusaste": 25.761478,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 70,
+      "nimi": "CrossFit Harju",
+      "leveysaste": 62.241753,
+      "pituusaste": 25.706395,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 71,
+      "nimi": "CrossFit Kehä",
+      "leveysaste": 60.280749,
+      "pituusaste": 24.82474,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 72,
+      "nimi": "CrossFit Lohja",
+      "leveysaste": 60.241934,
+      "pituusaste": 24.053606,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 73,
+      "nimi": "CrossFit Nummela",
+      "leveysaste": 60.356321,
+      "pituusaste": 24.325615,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 74,
+      "nimi": "CrossFit Paja",
+      "leveysaste": 62.628584,
+      "pituusaste": 29.805561,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 75,
+      "nimi": "Crossfit 60100",
+      "leveysaste": 62.788456,
+      "pituusaste": 22.873399,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 76,
+      "nimi": "Crossfit Box100",
+      "leveysaste": 60.465757,
+      "pituusaste": 22.248999,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 77,
+      "nimi": "Crossfit Hämeenlinna",
+      "leveysaste": 60.984142,
+      "pituusaste": 24.491773,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 78,
+      "nimi": "Crossfit Vantaa",
+      "leveysaste": 60.292241,
+      "pituusaste": 24.974237,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 79,
+      "nimi": "Crossing Piippokeskus",
+      "leveysaste": 61.315373,
+      "pituusaste": 23.756906,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 80,
+      "nimi": "Duudsonit Activity Park",
+      "leveysaste": 65.851226,
+      "pituusaste": 24.152754,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 81,
+      "nimi": "ELIXIA",
+      "leveysaste": 60.21729,
+      "pituusaste": 24.815333,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 82,
+      "nimi": "ELIXIA",
+      "leveysaste": 61.493767,
+      "pituusaste": 23.820898,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 83,
+      "nimi": "ELIXIA Linnainmaa",
+      "leveysaste": 61.495899,
+      "pituusaste": 23.893518,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 84,
+      "nimi": "ELIXIA Länsiväylä",
+      "leveysaste": 60.164021,
+      "pituusaste": 24.735833,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 85,
+      "nimi": "ELIXIA Suomenoja",
+      "leveysaste": 60.164329,
+      "pituusaste": 24.701056,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 86,
+      "nimi": "ELIXIA Tapiola",
+      "leveysaste": 60.17486,
+      "pituusaste": 24.804136,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 87,
+      "nimi": "EasyFit",
+      "leveysaste": 60.203913,
+      "pituusaste": 25.048188,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 88,
+      "nimi": "EasyFit",
+      "leveysaste": 60.209794,
+      "pituusaste": 24.824372,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 89,
+      "nimi": "EasyFit",
+      "leveysaste": 60.237313,
+      "pituusaste": 24.892216,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 90,
+      "nimi": "EasyFit",
+      "leveysaste": 60.867381,
+      "pituusaste": 26.69696,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 91,
+      "nimi": "EasyFit",
+      "leveysaste": 60.962892,
+      "pituusaste": 25.657131,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 92,
+      "nimi": "EasyFit",
+      "leveysaste": 61.363464,
+      "pituusaste": 23.795022,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 93,
+      "nimi": "EasyFit",
+      "leveysaste": 62.601915,
+      "pituusaste": 29.766385,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 94,
+      "nimi": "EasyFit",
+      "leveysaste": 63.09961,
+      "pituusaste": 21.629787,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 95,
+      "nimi": "EasyFit Kerava",
+      "leveysaste": 60.389424,
+      "pituusaste": 25.113539,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 96,
+      "nimi": "EasyFit Kotka",
+      "leveysaste": 60.456245,
+      "pituusaste": 26.931862,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 97,
+      "nimi": "EasyFit Porvoo",
+      "leveysaste": 60.39499,
+      "pituusaste": 25.663772,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 98,
+      "nimi": "EasyFit Raisio",
+      "leveysaste": 60.487255,
+      "pituusaste": 22.166133,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 99,
+      "nimi": "EasyFit Seinäjoki",
+      "leveysaste": 62.791944,
+      "pituusaste": 22.834472,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 100,
+      "nimi": "EasyFit Sepänkylä",
+      "leveysaste": 63.115779,
+      "pituusaste": 21.687248,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 101,
+      "nimi": "EasyFit Vuosaari",
+      "leveysaste": 60.195316,
+      "pituusaste": 25.115398,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 102,
+      "nimi": "EasyFit Vuosaari",
+      "leveysaste": 60.195321,
+      "pituusaste": 25.115385,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 103,
+      "nimi": "Easyfit",
+      "leveysaste": 61.46729,
+      "pituusaste": 23.51351,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 104,
+      "nimi": "Easyfit",
+      "leveysaste": 63.827071,
+      "pituusaste": 23.160229,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 105,
+      "nimi": "Easyfit Järvenpää",
+      "leveysaste": 60.456923,
+      "pituusaste": 25.109168,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 106,
+      "nimi": "Elefit Naisten Liikuntakeskus",
+      "leveysaste": 62.243586,
+      "pituusaste": 25.749542,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 107,
+      "nimi": "Element Studio",
+      "leveysaste": 62.893109,
+      "pituusaste": 27.68767,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 108,
+      "nimi": "Elixia",
+      "leveysaste": 60.169295,
+      "pituusaste": 24.929622,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 109,
+      "nimi": "Elixia",
+      "leveysaste": 60.170136,
+      "pituusaste": 24.941258,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 110,
+      "nimi": "Elixia",
+      "leveysaste": 60.170619,
+      "pituusaste": 24.934735,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 111,
+      "nimi": "Elixia",
+      "leveysaste": 60.187409,
+      "pituusaste": 24.980242,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 112,
+      "nimi": "Elixia",
+      "leveysaste": 60.210687,
+      "pituusaste": 25.08031,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 113,
+      "nimi": "Elixia",
+      "leveysaste": 60.21839,
+      "pituusaste": 24.810557,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 114,
+      "nimi": "Elixia",
+      "leveysaste": 60.263087,
+      "pituusaste": 24.851926,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 115,
+      "nimi": "Elixia",
+      "leveysaste": 60.290383,
+      "pituusaste": 24.970262,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 116,
+      "nimi": "Elixia",
+      "leveysaste": 60.429577,
+      "pituusaste": 22.319799,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 117,
+      "nimi": "Elixia",
+      "leveysaste": 61.518912,
+      "pituusaste": 23.671644,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 118,
+      "nimi": "Elixia Centrum",
+      "leveysaste": 60.450028,
+      "pituusaste": 22.262754,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 119,
+      "nimi": "Elixia Iso Omena",
+      "leveysaste": 60.162119,
+      "pituusaste": 24.736323,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 120,
+      "nimi": "Elixia Iso Omena",
+      "leveysaste": 60.162147,
+      "pituusaste": 24.736285,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 121,
+      "nimi": "Elixia Jokivarsi",
+      "leveysaste": 60.439827,
+      "pituusaste": 22.248151,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 122,
+      "nimi": "Elixia Jokivarsi",
+      "leveysaste": 60.439841,
+      "pituusaste": 22.248136,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 123,
+      "nimi": "Elixia Pitäjänmäki",
+      "leveysaste": 60.2147,
+      "pituusaste": 24.875266,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 124,
+      "nimi": "Elixia Ruoholahti",
+      "leveysaste": 60.163504,
+      "pituusaste": 24.909724,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 125,
+      "nimi": "Elixia Tikkurila",
+      "leveysaste": 60.288048,
+      "pituusaste": 25.034063,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 126,
+      "nimi": "Elixia Vallila",
+      "leveysaste": 60.194967,
+      "pituusaste": 24.948616,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 127,
+      "nimi": "Elonaskel",
+      "leveysaste": 60.18926,
+      "pituusaste": 25.005941,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 128,
+      "nimi": "Energy",
+      "leveysaste": 62.613436,
+      "pituusaste": 29.546847,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 129,
+      "nimi": "Energy Puls Wellness Center",
+      "leveysaste": 61.475931,
+      "pituusaste": 21.817588,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 130,
+      "nimi": "Epic Gym",
+      "leveysaste": 63.753572,
+      "pituusaste": 22.74552,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 131,
+      "nimi": "Espoonlahden uimahallin kuntosalit",
+      "leveysaste": 60.14672,
+      "pituusaste": 24.659645,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 132,
+      "nimi": "Esport Bristol",
+      "leveysaste": 60.16936,
+      "pituusaste": 24.944348,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 133,
+      "nimi": "Esport Express",
+      "leveysaste": 60.158924,
+      "pituusaste": 24.693056,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 134,
+      "nimi": "Esport Express Mankkaa",
+      "leveysaste": 60.205521,
+      "pituusaste": 24.767055,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 135,
+      "nimi": "Etelä-Karjalan liikuntakeskus",
+      "leveysaste": 61.055744,
+      "pituusaste": 28.143739,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 136,
+      "nimi": "Etelä-Karjalan liikuntakeskus",
+      "leveysaste": 61.055767,
+      "pituusaste": 28.143786,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 137,
+      "nimi": "Excite gym & wellness",
+      "leveysaste": 59.981174,
+      "pituusaste": 23.453836,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 138,
+      "nimi": "FPC GYM",
+      "leveysaste": 60.568494,
+      "pituusaste": 27.195098,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 139,
+      "nimi": "FUN",
+      "leveysaste": 65.044596,
+      "pituusaste": 25.583713,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 140,
+      "nimi": "FUN Oulu Keskusta",
+      "leveysaste": 65.015359,
+      "pituusaste": 25.466518,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 141,
+      "nimi": "FeelWell",
+      "leveysaste": 60.229778,
+      "pituusaste": 24.967962,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 142,
+      "nimi": "FemiFIT",
+      "leveysaste": 64.683765,
+      "pituusaste": 24.5131,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 143,
+      "nimi": "Fhl Yli-Kunto Oy",
+      "leveysaste": 64.0706,
+      "pituusaste": 24.537434,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 144,
+      "nimi": "Figure FitClub",
+      "leveysaste": 65.00237,
+      "pituusaste": 25.469931,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 145,
+      "nimi": "Fiiliksellä",
+      "leveysaste": 61.495193,
+      "pituusaste": 23.776862,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 146,
+      "nimi": "Finfighters' gym",
+      "leveysaste": 60.446396,
+      "pituusaste": 22.236918,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 147,
+      "nimi": "Fit Haaga",
+      "leveysaste": 60.218714,
+      "pituusaste": 24.907157,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 148,
+      "nimi": "Fit Hyrylä",
+      "leveysaste": 60.400971,
+      "pituusaste": 25.023224,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 149,
+      "nimi": "Fit Karhula",
+      "leveysaste": 60.516645,
+      "pituusaste": 26.933313,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 150,
+      "nimi": "Fit Lieto",
+      "leveysaste": 60.502569,
+      "pituusaste": 22.459251,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 151,
+      "nimi": "Fit Malminkartano",
+      "leveysaste": 60.247356,
+      "pituusaste": 24.862015,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 152,
+      "nimi": "Fit Meri-Lappi",
+      "leveysaste": 65.799211,
+      "pituusaste": 24.504525,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 153,
+      "nimi": "Fit Naantali",
+      "leveysaste": 60.474026,
+      "pituusaste": 22.061079,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 154,
+      "nimi": "Fit Oulunsalo",
+      "leveysaste": 64.934579,
+      "pituusaste": 25.401586,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 155,
+      "nimi": "Fit Pihlajisto",
+      "leveysaste": 60.231318,
+      "pituusaste": 25.000482,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 156,
+      "nimi": "Fit Seinäjoki",
+      "leveysaste": 62.796693,
+      "pituusaste": 22.808113,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 157,
+      "nimi": "Fit Tervakoski",
+      "leveysaste": 60.815266,
+      "pituusaste": 24.626548,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 158,
+      "nimi": "Fit Viherlaakso",
+      "leveysaste": 60.227065,
+      "pituusaste": 24.741509,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 159,
+      "nimi": "Fit Wasa",
+      "leveysaste": 63.118603,
+      "pituusaste": 21.659907,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 160,
+      "nimi": "FitClub Nummela",
+      "leveysaste": 60.349501,
+      "pituusaste": 24.338491,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 161,
+      "nimi": "FitStation",
+      "leveysaste": 60.994851,
+      "pituusaste": 24.467273,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 162,
+      "nimi": "FitVantaa",
+      "leveysaste": 60.274701,
+      "pituusaste": 24.974796,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 163,
+      "nimi": "Fitmill Studio",
+      "leveysaste": 60.804408,
+      "pituusaste": 25.731929,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 164,
+      "nimi": "Fitness 24 Seven",
+      "leveysaste": 60.47319,
+      "pituusaste": 22.249486,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 165,
+      "nimi": "Fitness Femme",
+      "leveysaste": 60.994813,
+      "pituusaste": 24.459482,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 166,
+      "nimi": "Fitness Gym Ylläs",
+      "leveysaste": 67.533015,
+      "pituusaste": 24.290639,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 167,
+      "nimi": "Fitness Village",
+      "leveysaste": 60.171753,
+      "pituusaste": 24.947891,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 168,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.164763,
+      "pituusaste": 24.932931,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 169,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.165504,
+      "pituusaste": 24.730027,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 170,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.169127,
+      "pituusaste": 24.948575,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 171,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.176102,
+      "pituusaste": 24.803668,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 172,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.176949,
+      "pituusaste": 24.949058,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 173,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.179797,
+      "pituusaste": 25.051506,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 174,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.179802,
+      "pituusaste": 25.051467,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 175,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.182735,
+      "pituusaste": 24.959948,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 176,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.188133,
+      "pituusaste": 24.960181,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 177,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.194548,
+      "pituusaste": 25.032864,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 178,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.198921,
+      "pituusaste": 24.933069,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 179,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.202774,
+      "pituusaste": 24.783856,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 180,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.209193,
+      "pituusaste": 24.946421,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 181,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.209542,
+      "pituusaste": 25.087612,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 182,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.217348,
+      "pituusaste": 24.868816,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 183,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.223019,
+      "pituusaste": 24.949198,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 184,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.238838,
+      "pituusaste": 24.84921,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 185,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.23959,
+      "pituusaste": 25.112181,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 186,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.250907,
+      "pituusaste": 24.069251,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 187,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.259744,
+      "pituusaste": 24.852677,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 188,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.278152,
+      "pituusaste": 24.854292,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 189,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.292006,
+      "pituusaste": 25.043574,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 190,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.313296,
+      "pituusaste": 24.847209,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 191,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.394263,
+      "pituusaste": 25.661909,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 192,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.400137,
+      "pituusaste": 25.020568,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 193,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.443148,
+      "pituusaste": 22.234249,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 194,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.443602,
+      "pituusaste": 22.359531,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 195,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.450548,
+      "pituusaste": 22.260777,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 196,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.452613,
+      "pituusaste": 22.273995,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 197,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.465929,
+      "pituusaste": 26.943915,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 198,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.472738,
+      "pituusaste": 25.088652,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 199,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.867429,
+      "pituusaste": 26.704578,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 200,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.984205,
+      "pituusaste": 25.663913,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 201,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 60.995244,
+      "pituusaste": 24.461527,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 202,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 61.057005,
+      "pituusaste": 28.194654,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 203,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 61.057957,
+      "pituusaste": 28.184296,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 204,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 61.450686,
+      "pituusaste": 23.850267,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 205,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 61.49404,
+      "pituusaste": 23.813367,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 206,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 61.496949,
+      "pituusaste": 23.776896,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 207,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 61.500169,
+      "pituusaste": 23.755806,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 208,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 62.243291,
+      "pituusaste": 25.751229,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 209,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 62.2474,
+      "pituusaste": 25.737324,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 210,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 62.287584,
+      "pituusaste": 25.713734,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 211,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 62.790336,
+      "pituusaste": 22.841732,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 212,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 63.096912,
+      "pituusaste": 21.616823,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 213,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 63.096926,
+      "pituusaste": 21.616863,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 214,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 63.837084,
+      "pituusaste": 23.132145,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 215,
+      "nimi": "Fitness24Seven",
+      "leveysaste": 64.994887,
+      "pituusaste": 25.465547,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 216,
+      "nimi": "Fittari",
+      "leveysaste": 62.609467,
+      "pituusaste": 29.774645,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 217,
+      "nimi": "Fittari",
+      "leveysaste": 62.609501,
+      "pituusaste": 29.774592,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 218,
+      "nimi": "Fittari - Lehmo",
+      "leveysaste": 62.667308,
+      "pituusaste": 29.796284,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 219,
+      "nimi": "Foibekartanon kuntosali",
+      "leveysaste": 60.332763,
+      "pituusaste": 25.061929,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 220,
+      "nimi": "Force Training Camp",
+      "leveysaste": 60.446975,
+      "pituusaste": 22.236908,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 221,
+      "nimi": "Forefer Lite Klemetinkatu",
+      "leveysaste": 63.091803,
+      "pituusaste": 21.629673,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 222,
+      "nimi": "Forever Hiekkaharju",
+      "leveysaste": 60.303075,
+      "pituusaste": 25.052483,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 223,
+      "nimi": "Forever Järvenpää",
+      "leveysaste": 60.48036,
+      "pituusaste": 25.080175,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 224,
+      "nimi": "Forever Järvenpää",
+      "leveysaste": 60.480425,
+      "pituusaste": 25.080321,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 225,
+      "nimi": "Forever LITE",
+      "leveysaste": 60.210249,
+      "pituusaste": 24.658861,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 226,
+      "nimi": "Forever LITE Omena",
+      "leveysaste": 60.163275,
+      "pituusaste": 24.739293,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 227,
+      "nimi": "Forever LITE Tampella",
+      "leveysaste": 61.505421,
+      "pituusaste": 23.762808,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 228,
+      "nimi": "Forever Lite",
+      "leveysaste": 62.865546,
+      "pituusaste": 27.612985,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 229,
+      "nimi": "Forever Lite Sepänkyläntie",
+      "leveysaste": 63.098192,
+      "pituusaste": 21.626909,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 230,
+      "nimi": "Forever kuntoklubi",
+      "leveysaste": 60.192706,
+      "pituusaste": 25.028362,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 231,
+      "nimi": "Fressi",
+      "leveysaste": 60.146048,
+      "pituusaste": 24.656825,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 232,
+      "nimi": "Fressi",
+      "leveysaste": 60.146075,
+      "pituusaste": 24.656883,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 233,
+      "nimi": "Fressi",
+      "leveysaste": 60.160271,
+      "pituusaste": 24.882078,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 234,
+      "nimi": "Fressi",
+      "leveysaste": 60.164332,
+      "pituusaste": 24.736317,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 235,
+      "nimi": "Fressi",
+      "leveysaste": 60.168436,
+      "pituusaste": 24.935009,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 236,
+      "nimi": "Fressi",
+      "leveysaste": 60.192069,
+      "pituusaste": 24.909627,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 237,
+      "nimi": "Fressi",
+      "leveysaste": 60.20826,
+      "pituusaste": 25.145421,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 238,
+      "nimi": "Fressi",
+      "leveysaste": 60.208376,
+      "pituusaste": 24.977256,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 239,
+      "nimi": "Fressi",
+      "leveysaste": 60.217889,
+      "pituusaste": 24.814349,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 240,
+      "nimi": "Fressi",
+      "leveysaste": 60.226983,
+      "pituusaste": 24.956564,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 241,
+      "nimi": "Fressi",
+      "leveysaste": 60.257766,
+      "pituusaste": 24.718114,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 242,
+      "nimi": "Fressi",
+      "leveysaste": 60.283799,
+      "pituusaste": 24.969646,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 243,
+      "nimi": "Fressi",
+      "leveysaste": 60.291349,
+      "pituusaste": 25.044778,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 244,
+      "nimi": "Fressi",
+      "leveysaste": 60.968218,
+      "pituusaste": 25.657489,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 245,
+      "nimi": "Fressi",
+      "leveysaste": 60.983591,
+      "pituusaste": 25.660164,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 246,
+      "nimi": "Fressi",
+      "leveysaste": 62.601929,
+      "pituusaste": 29.759983,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 247,
+      "nimi": "Fressi",
+      "leveysaste": 62.839357,
+      "pituusaste": 27.65727,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 248,
+      "nimi": "Fressi",
+      "leveysaste": 62.839455,
+      "pituusaste": 27.65729,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 249,
+      "nimi": "Fressi",
+      "leveysaste": 62.881234,
+      "pituusaste": 27.667228,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 250,
+      "nimi": "Fressi",
+      "leveysaste": 62.891961,
+      "pituusaste": 27.683237,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 251,
+      "nimi": "Fressi",
+      "leveysaste": 65.01493,
+      "pituusaste": 25.479529,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 252,
+      "nimi": "Fressi",
+      "leveysaste": 65.076331,
+      "pituusaste": 25.451051,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 253,
+      "nimi": "Fressi",
+      "leveysaste": 66.503891,
+      "pituusaste": 25.723013,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 254,
+      "nimi": "Fressi 24h",
+      "leveysaste": 60.223817,
+      "pituusaste": 25.073003,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 255,
+      "nimi": "Fressi 24h",
+      "leveysaste": 61.123146,
+      "pituusaste": 21.502014,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 256,
+      "nimi": "Fressi 24h Ankkuri",
+      "leveysaste": 60.996524,
+      "pituusaste": 25.656506,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 257,
+      "nimi": "Fressi 24h Kuntosali Pori",
+      "leveysaste": 61.4767,
+      "pituusaste": 21.788973,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 258,
+      "nimi": "Fressi 24h Matinkylä-Olari",
+      "leveysaste": 60.16469,
+      "pituusaste": 24.736254,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 259,
+      "nimi": "Fressi 24h Niittykumpu",
+      "leveysaste": 60.169426,
+      "pituusaste": 24.780352,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 260,
+      "nimi": "Fressi 24h Savilahti",
+      "leveysaste": 62.886499,
+      "pituusaste": 27.630508,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 261,
+      "nimi": "Fressi 24h Tapiola",
+      "leveysaste": 60.174935,
+      "pituusaste": 24.801538,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 262,
+      "nimi": "Fressi Clubhouse Vuosaari",
+      "leveysaste": 60.206906,
+      "pituusaste": 25.13571,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 263,
+      "nimi": "Fressi Kaarina",
+      "leveysaste": 60.407298,
+      "pituusaste": 22.367001,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 264,
+      "nimi": "Fressi Kilo",
+      "leveysaste": 60.218218,
+      "pituusaste": 24.779708,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 265,
+      "nimi": "Fressi Kuntosali",
+      "leveysaste": 62.228204,
+      "pituusaste": 25.772388,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 266,
+      "nimi": "Fressi Leppävaara",
+      "leveysaste": 60.216976,
+      "pituusaste": 24.818519,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 267,
+      "nimi": "Fressi Liikunta- ja hyvinvointikeskus",
+      "leveysaste": 61.497042,
+      "pituusaste": 23.76793,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 268,
+      "nimi": "Fressi Loviisa",
+      "leveysaste": 60.455766,
+      "pituusaste": 26.228393,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 269,
+      "nimi": "Fressi Syke",
+      "leveysaste": 61.503149,
+      "pituusaste": 23.774749,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 270,
+      "nimi": "Fressi24",
+      "leveysaste": 63.072606,
+      "pituusaste": 27.656796,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 271,
+      "nimi": "Fressi24",
+      "leveysaste": 63.072648,
+      "pituusaste": 27.656732,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 272,
+      "nimi": "Fressi24 Suomenoja",
+      "leveysaste": 60.163895,
+      "pituusaste": 24.701791,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 273,
+      "nimi": "Friskis&Svettis Helsinki",
+      "leveysaste": 60.198909,
+      "pituusaste": 24.964392,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 274,
+      "nimi": "Fysiokipinä",
+      "leveysaste": 63.054968,
+      "pituusaste": 22.10898,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 275,
+      "nimi": "Fysiomotion",
+      "leveysaste": 64.074455,
+      "pituusaste": 24.537746,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 276,
+      "nimi": "Fysios Mehiläinen Seinäjoki Pulssi",
+      "leveysaste": 62.803977,
+      "pituusaste": 22.865986,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 277,
+      "nimi": "GAIA Studios",
+      "leveysaste": 61.496737,
+      "pituusaste": 23.770321,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 278,
+      "nimi": "GOGO Express",
+      "leveysaste": 60.971065,
+      "pituusaste": 25.656523,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 279,
+      "nimi": "GOGO Express Hyvinkää",
+      "leveysaste": 60.629308,
+      "pituusaste": 24.856825,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 280,
+      "nimi": "GOGO Express Lohja",
+      "leveysaste": 60.2208,
+      "pituusaste": 24.022642,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 281,
+      "nimi": "GOGO Express Mukkula",
+      "leveysaste": 61.00495,
+      "pituusaste": 25.664231,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 282,
+      "nimi": "GOGO Express Olari",
+      "leveysaste": 60.162051,
+      "pituusaste": 24.720332,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 283,
+      "nimi": "GOGO Express Palokka",
+      "leveysaste": 62.287939,
+      "pituusaste": 25.714273,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 284,
+      "nimi": "GOGO Express Savela",
+      "leveysaste": 62.24224,
+      "pituusaste": 25.708519,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 285,
+      "nimi": "GOGO Express Savela",
+      "leveysaste": 62.242275,
+      "pituusaste": 25.708438,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 286,
+      "nimi": "GOGO Express Seppälä",
+      "leveysaste": 62.262687,
+      "pituusaste": 25.77251,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 287,
+      "nimi": "GOGO Express Skanssi",
+      "leveysaste": 60.432185,
+      "pituusaste": 22.329114,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 288,
+      "nimi": "GoGo Express",
+      "leveysaste": 61.478226,
+      "pituusaste": 23.521445,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 289,
+      "nimi": "GoGo Express Arena",
+      "leveysaste": 61.494726,
+      "pituusaste": 23.773847,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 290,
+      "nimi": "GoGo Express Gym",
+      "leveysaste": 61.494224,
+      "pituusaste": 23.882335,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 291,
+      "nimi": "GoGoExpress",
+      "leveysaste": 60.473891,
+      "pituusaste": 22.224407,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 292,
+      "nimi": "Gogo Express Keljo",
+      "leveysaste": 62.21517,
+      "pituusaste": 25.717457,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 293,
+      "nimi": "Gym Anytime",
+      "leveysaste": 61.455317,
+      "pituusaste": 23.855148,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 294,
+      "nimi": "Gym Anytime",
+      "leveysaste": 61.455325,
+      "pituusaste": 23.85514,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 295,
+      "nimi": "Gym Balance",
+      "leveysaste": 60.456252,
+      "pituusaste": 26.225961,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 296,
+      "nimi": "Gym Ironia",
+      "leveysaste": 62.243095,
+      "pituusaste": 25.744569,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 297,
+      "nimi": "Gym Puls och Träning",
+      "leveysaste": 60.279883,
+      "pituusaste": 25.012611,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 298,
+      "nimi": "Gym23",
+      "leveysaste": 60.801451,
+      "pituusaste": 25.735226,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 299,
+      "nimi": "GymBox Hyvinkää",
+      "leveysaste": 60.61727,
+      "pituusaste": 24.882714,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 300,
+      "nimi": "Gymmet",
+      "leveysaste": 60.238369,
+      "pituusaste": 19.541377,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 301,
+      "nimi": "Gymnastics Åland",
+      "leveysaste": 60.111627,
+      "pituusaste": 19.912899,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 302,
+      "nimi": "Gymppikunto",
+      "leveysaste": 61.13449,
+      "pituusaste": 21.492858,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 303,
+      "nimi": "Hakkarin Kuntosalit",
+      "leveysaste": 61.339605,
+      "pituusaste": 23.746276,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 304,
+      "nimi": "Hanhivaaran liikuntakeskus",
+      "leveysaste": 60.391687,
+      "pituusaste": 23.109793,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 305,
+      "nimi": "Health Club Nummela",
+      "leveysaste": 60.335516,
+      "pituusaste": 24.321372,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 306,
+      "nimi": "Heart Space",
+      "leveysaste": 60.17424,
+      "pituusaste": 24.919936,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 307,
+      "nimi": "Heat Gym Lohja",
+      "leveysaste": 60.186141,
+      "pituusaste": 23.994703,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 308,
+      "nimi": "Helsingin miekkailijat",
+      "leveysaste": 60.200277,
+      "pituusaste": 24.925159,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 309,
+      "nimi": "Hietalahden kuntotalo",
+      "leveysaste": 63.085997,
+      "pituusaste": 21.642908,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 310,
+      "nimi": "Hollolan Kuntokeidas",
+      "leveysaste": 60.992237,
+      "pituusaste": 25.509796,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 311,
+      "nimi": "Hovigym",
+      "leveysaste": 60.449594,
+      "pituusaste": 22.280194,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 312,
+      "nimi": "Hovigym",
+      "leveysaste": 60.449611,
+      "pituusaste": 22.280228,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 313,
+      "nimi": "Hukka Xpress",
+      "leveysaste": 65.02964,
+      "pituusaste": 25.449647,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 314,
+      "nimi": "Hukka Xpress",
+      "leveysaste": 65.035566,
+      "pituusaste": 25.465522,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 315,
+      "nimi": "Hukka Xpress Rotuaari",
+      "leveysaste": 65.011888,
+      "pituusaste": 25.46947,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 316,
+      "nimi": "Hyllykallion kuntoradan ulkokuntosali",
+      "leveysaste": 62.802007,
+      "pituusaste": 22.895656,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 317,
+      "nimi": "Hyllykallion kuntoradan ulkokuntosali",
+      "leveysaste": 62.802017,
+      "pituusaste": 22.895664,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 318,
+      "nimi": "Hypoxi",
+      "leveysaste": 60.445474,
+      "pituusaste": 22.255435,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 319,
+      "nimi": "Hypoxi Herttoniemi",
+      "leveysaste": 60.194786,
+      "pituusaste": 25.027665,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 320,
+      "nimi": "Hyvinkään Liikuntakeskus",
+      "leveysaste": 60.621035,
+      "pituusaste": 24.878683,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 321,
+      "nimi": "Hyvinkään Liikuntakeskus",
+      "leveysaste": 60.621048,
+      "pituusaste": 24.878706,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 322,
+      "nimi": "Hyvinkään kehonrakentajat ry.",
+      "leveysaste": 60.641498,
+      "pituusaste": 24.847696,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 323,
+      "nimi": "Hyvä Fiilis",
+      "leveysaste": 65.851365,
+      "pituusaste": 24.153794,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 324,
+      "nimi": "Hyvä Kunto",
+      "leveysaste": 60.552709,
+      "pituusaste": 24.965735,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 325,
+      "nimi": "Hämeen ammattikorkeakoulu kuntosali",
+      "leveysaste": 60.979036,
+      "pituusaste": 24.478676,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 326,
+      "nimi": "Hämeenlinnan uimahallin kuntosali",
+      "leveysaste": 60.991555,
+      "pituusaste": 24.465803,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 327,
+      "nimi": "Härmän Kuntokeidas, kuntosali",
+      "leveysaste": 63.242976,
+      "pituusaste": 22.855028,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 328,
+      "nimi": "Härmän Kuntokeidas, ryhmäliikunta",
+      "leveysaste": 63.242499,
+      "pituusaste": 22.85258,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 329,
+      "nimi": "IDEALfit",
+      "leveysaste": 60.159976,
+      "pituusaste": 24.94245,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 330,
+      "nimi": "ILMA HELSINKI",
+      "leveysaste": 60.169044,
+      "pituusaste": 24.960403,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 331,
+      "nimi": "Iivarin kuntosali",
+      "leveysaste": 62.645106,
+      "pituusaste": 23.815947,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 332,
+      "nimi": "Ikigaijooga",
+      "leveysaste": 64.687133,
+      "pituusaste": 24.499592,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 333,
+      "nimi": "Ilona Liikunta",
+      "leveysaste": 60.332843,
+      "pituusaste": 24.321871,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 334,
+      "nimi": "Ilopisaran kuntosali",
+      "leveysaste": 62.312396,
+      "pituusaste": 27.890398,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 335,
+      "nimi": "Imperial health club",
+      "leveysaste": 60.179174,
+      "pituusaste": 24.926308,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 336,
+      "nimi": "Ingman Solbacka",
+      "leveysaste": 60.297876,
+      "pituusaste": 25.297888,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 337,
+      "nimi": "Inxa Gym",
+      "leveysaste": 60.693499,
+      "pituusaste": 26.840442,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 338,
+      "nimi": "JES! Training Center",
+      "leveysaste": 60.177124,
+      "pituusaste": 24.802565,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 339,
+      "nimi": "JSA Cheer Gym",
+      "leveysaste": 62.259169,
+      "pituusaste": 25.769788,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 340,
+      "nimi": "Joensuun Puntti-Pojat Ry",
+      "leveysaste": 62.625304,
+      "pituusaste": 29.694516,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 341,
+      "nimi": "Joogahuone",
+      "leveysaste": 60.185606,
+      "pituusaste": 24.961526,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 342,
+      "nimi": "Joogakoulu Kajo",
+      "leveysaste": 60.996318,
+      "pituusaste": 24.469175,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 343,
+      "nimi": "Joogantai",
+      "leveysaste": 60.335494,
+      "pituusaste": 24.319642,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 344,
+      "nimi": "Joogapaikka",
+      "leveysaste": 61.498135,
+      "pituusaste": 23.791169,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 345,
+      "nimi": "Joogasali Huili",
+      "leveysaste": 60.77022,
+      "pituusaste": 26.784917,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 346,
+      "nimi": "Joogasalonki Vääksy",
+      "leveysaste": 61.175078,
+      "pituusaste": 25.526156,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 347,
+      "nimi": "Jäkärlän kuntosali",
+      "leveysaste": 60.538432,
+      "pituusaste": 22.348553,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 348,
+      "nimi": "Jäkärlän kuntosali",
+      "leveysaste": 60.538435,
+      "pituusaste": 22.348558,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 349,
+      "nimi": "Järvenpään uimahallin kuntosali",
+      "leveysaste": 60.481616,
+      "pituusaste": 25.09076,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 350,
+      "nimi": "KP Gym",
+      "leveysaste": 60.480908,
+      "pituusaste": 22.315956,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 351,
+      "nimi": "Kaarinan Kuntosali",
+      "leveysaste": 60.408136,
+      "pituusaste": 22.374649,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 352,
+      "nimi": "Kaarinan Kuntosali",
+      "leveysaste": 60.408164,
+      "pituusaste": 22.374689,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 353,
+      "nimi": "Kaartinhalli kuntosali",
+      "leveysaste": 61.113859,
+      "pituusaste": 26.98365,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 354,
+      "nimi": "Kampus gymi",
+      "leveysaste": 61.311067,
+      "pituusaste": 23.769707,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 355,
+      "nimi": "Kanavan Kunto",
+      "leveysaste": 61.173384,
+      "pituusaste": 25.546583,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 356,
+      "nimi": "Kanavan liikuntahalli",
+      "leveysaste": 61.308802,
+      "pituusaste": 23.751816,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 357,
+      "nimi": "Kannusillanmäen väestönsuoja / Kuntosali 1-2",
+      "leveysaste": 60.206011,
+      "pituusaste": 24.652948,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 358,
+      "nimi": "Kantolan KunnonSali",
+      "leveysaste": 60.983944,
+      "pituusaste": 24.492187,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 359,
+      "nimi": "Karijoen kuntosali",
+      "leveysaste": 62.30582,
+      "pituusaste": 21.709122,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 360,
+      "nimi": "Karkkilan kuntokärpänen",
+      "leveysaste": 60.536171,
+      "pituusaste": 24.213952,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 361,
+      "nimi": "Karstulan Punttis",
+      "leveysaste": 62.879576,
+      "pituusaste": 24.809715,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 362,
+      "nimi": "Kauklahden K3",
+      "leveysaste": 60.1925,
+      "pituusaste": 24.602312,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 363,
+      "nimi": "Keminmaan Kuntosali",
+      "leveysaste": 65.805175,
+      "pituusaste": 24.542479,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 364,
+      "nimi": "Kerhis Gym Sastamala",
+      "leveysaste": 61.342184,
+      "pituusaste": 22.907302,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 365,
+      "nimi": "Keskusliikuntapuiston kuntosali",
+      "leveysaste": 60.41151,
+      "pituusaste": 22.359976,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 366,
+      "nimi": "Kihniön Kuntosali Gym 51",
+      "leveysaste": 62.210666,
+      "pituusaste": 23.178449,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 367,
+      "nimi": "Kimmoke",
+      "leveysaste": 65.122676,
+      "pituusaste": 25.746382,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 368,
+      "nimi": "Kimmoke",
+      "leveysaste": 65.1227,
+      "pituusaste": 25.746554,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 369,
+      "nimi": "King4Fit",
+      "leveysaste": 60.298817,
+      "pituusaste": 25.105223,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 370,
+      "nimi": "Kipinä Personal Training Studio",
+      "leveysaste": 62.256074,
+      "pituusaste": 25.696543,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 371,
+      "nimi": "Kirkkokadun voimailutila",
+      "leveysaste": 60.252833,
+      "pituusaste": 24.066494,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 372,
+      "nimi": "Kirkkonummen Liikuntakeskus",
+      "leveysaste": 60.118294,
+      "pituusaste": 24.440218,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 373,
+      "nimi": "Kisan Sali",
+      "leveysaste": 63.066403,
+      "pituusaste": 21.948993,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 374,
+      "nimi": "Kisan Sali",
+      "leveysaste": 63.066405,
+      "pituusaste": 21.948935,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 375,
+      "nimi": "Kitinvapari",
+      "leveysaste": 63.904237,
+      "pituusaste": 23.943298,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 376,
+      "nimi": "Kitinvapari",
+      "leveysaste": 63.904244,
+      "pituusaste": 23.943322,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 377,
+      "nimi": "Kivayoga",
+      "leveysaste": 60.229975,
+      "pituusaste": 24.971115,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 378,
+      "nimi": "Klubin kuntosali",
+      "leveysaste": 64.148321,
+      "pituusaste": 28.235319,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 379,
+      "nimi": "Kolhon kuntosali",
+      "leveysaste": 62.138673,
+      "pituusaste": 24.501077,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 380,
+      "nimi": "Kolhon kuntosali",
+      "leveysaste": 62.138719,
+      "pituusaste": 24.501102,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 381,
+      "nimi": "Kontti Valmennuskeskus",
+      "leveysaste": 61.475477,
+      "pituusaste": 23.837192,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 382,
+      "nimi": "Korpigymi",
+      "leveysaste": 64.886741,
+      "pituusaste": 28.915406,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 383,
+      "nimi": "Korso Gym",
+      "leveysaste": 60.34848,
+      "pituusaste": 25.074566,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 384,
+      "nimi": "KortteliGym",
+      "leveysaste": 60.506076,
+      "pituusaste": 22.457501,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 385,
+      "nimi": "Kotkankallion kuntosali",
+      "leveysaste": 62.893925,
+      "pituusaste": 27.6531,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 386,
+      "nimi": "Kraftverk",
+      "leveysaste": 60.398656,
+      "pituusaste": 25.639469,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 387,
+      "nimi": "Kraftverk",
+      "leveysaste": 60.398669,
+      "pituusaste": 25.639452,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 388,
+      "nimi": "Krav Maga Kirkkonummi",
+      "leveysaste": 60.176514,
+      "pituusaste": 24.547811,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 389,
+      "nimi": "Kumpareen Kuntosali ja Rosa&Rudolf Touhula",
+      "leveysaste": 66.166804,
+      "pituusaste": 29.137817,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 390,
+      "nimi": "Kundaliini joogaa",
+      "leveysaste": 60.175413,
+      "pituusaste": 24.956893,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 391,
+      "nimi": "Kunnolla kuntoon",
+      "leveysaste": 62.671246,
+      "pituusaste": 24.805734,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 392,
+      "nimi": "Kunnontila",
+      "leveysaste": 61.206575,
+      "pituusaste": 22.083434,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 393,
+      "nimi": "Kunto Aitta",
+      "leveysaste": 62.588849,
+      "pituusaste": 29.789303,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 394,
+      "nimi": "Kunto Helmix",
+      "leveysaste": 64.136565,
+      "pituusaste": 25.37085,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 395,
+      "nimi": "Kunto Tsemppi",
+      "leveysaste": 61.43466,
+      "pituusaste": 29.358787,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 396,
+      "nimi": "Kunto Ykkönen",
+      "leveysaste": 65.007659,
+      "pituusaste": 25.473054,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 397,
+      "nimi": "Kunto-Lutran kuntosalit",
+      "leveysaste": 62.592314,
+      "pituusaste": 23.615151,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 398,
+      "nimi": "Kunto-Rauma",
+      "leveysaste": 61.127497,
+      "pituusaste": 21.506924,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 399,
+      "nimi": "KuntoKruunu",
+      "leveysaste": 60.459086,
+      "pituusaste": 24.828304,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 400,
+      "nimi": "KuntoPeimari",
+      "leveysaste": 60.432668,
+      "pituusaste": 22.720295,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 401,
+      "nimi": "KuntoWerstas",
+      "leveysaste": 61.416228,
+      "pituusaste": 26.878192,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 402,
+      "nimi": "Kuntojani",
+      "leveysaste": 61.986049,
+      "pituusaste": 24.070814,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 403,
+      "nimi": "Kuntokeidas",
+      "leveysaste": 60.623093,
+      "pituusaste": 25.288036,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 404,
+      "nimi": "Kuntokeidas",
+      "leveysaste": 60.623126,
+      "pituusaste": 25.288148,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 405,
+      "nimi": "Kuntokeskus Balanssi",
+      "leveysaste": 60.26924,
+      "pituusaste": 24.443852,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 406,
+      "nimi": "Kuntokeskus Balanssi",
+      "leveysaste": 60.325386,
+      "pituusaste": 24.3088,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 407,
+      "nimi": "Kuntokeskus Balanssi",
+      "leveysaste": 60.534593,
+      "pituusaste": 24.209478,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 408,
+      "nimi": "Kuntokeskus Energy",
+      "leveysaste": 62.616364,
+      "pituusaste": 29.838784,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 409,
+      "nimi": "Kuntokeskus Energy Karhunmäki",
+      "leveysaste": 62.574139,
+      "pituusaste": 29.801006,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 410,
+      "nimi": "Kuntokeskus Energy Kumpusaari",
+      "leveysaste": 62.873254,
+      "pituusaste": 27.668481,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 411,
+      "nimi": "Kuntokeskus Fit Keilaniemi",
+      "leveysaste": 60.175087,
+      "pituusaste": 24.830481,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 412,
+      "nimi": "Kuntokeskus Forever Joensuu",
+      "leveysaste": 62.614328,
+      "pituusaste": 29.741017,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 413,
+      "nimi": "Kuntokeskus Forever Joensuu",
+      "leveysaste": 62.614336,
+      "pituusaste": 29.741186,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 414,
+      "nimi": "Kuntokeskus Fressi",
+      "leveysaste": 60.259612,
+      "pituusaste": 24.84082,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 415,
+      "nimi": "Kuntokeskus Fressi",
+      "leveysaste": 60.259622,
+      "pituusaste": 24.840826,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 416,
+      "nimi": "Kuntokeskus Juvans",
+      "leveysaste": 63.067829,
+      "pituusaste": 28.335766,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 417,
+      "nimi": "Kuntokeskus Kanava",
+      "leveysaste": 61.264455,
+      "pituusaste": 24.032153,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 418,
+      "nimi": "Kuntokeskus Kerhomaja",
+      "leveysaste": 61.27216,
+      "pituusaste": 24.032743,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 419,
+      "nimi": "Kuntokeskus Kerhomaja",
+      "leveysaste": 61.27219,
+      "pituusaste": 24.032785,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 420,
+      "nimi": "Kuntokeskus Korjaamo",
+      "leveysaste": 63.098559,
+      "pituusaste": 23.037949,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 421,
+      "nimi": "Kuntokeskus Let's Go",
+      "leveysaste": 60.256543,
+      "pituusaste": 24.824897,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 422,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 60.733531,
+      "pituusaste": 24.779356,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 423,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 60.808976,
+      "pituusaste": 23.630253,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 424,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 60.968363,
+      "pituusaste": 25.628502,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 425,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 60.981801,
+      "pituusaste": 25.737626,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 426,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 60.986539,
+      "pituusaste": 25.66517,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 427,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 60.988619,
+      "pituusaste": 25.514046,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 428,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 61.002953,
+      "pituusaste": 24.487681,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 429,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 61.008544,
+      "pituusaste": 24.412609,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 430,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 61.476359,
+      "pituusaste": 21.756831,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 431,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 62.245018,
+      "pituusaste": 25.751454,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 432,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 62.317486,
+      "pituusaste": 27.856038,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 433,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 62.770317,
+      "pituusaste": 22.876611,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 434,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 62.799184,
+      "pituusaste": 22.841903,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 435,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 63.83273,
+      "pituusaste": 23.133002,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 436,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 64.996072,
+      "pituusaste": 25.467954,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 437,
+      "nimi": "Kuntokeskus Liikku",
+      "leveysaste": 65.047612,
+      "pituusaste": 25.581916,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 438,
+      "nimi": "Kuntokeskus Loisto",
+      "leveysaste": 60.987114,
+      "pituusaste": 25.510231,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 439,
+      "nimi": "Kuntokeskus Positive",
+      "leveysaste": 62.243787,
+      "pituusaste": 25.747012,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 440,
+      "nimi": "Kuntokeskus Pro",
+      "leveysaste": 60.463723,
+      "pituusaste": 24.811228,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 441,
+      "nimi": "Kuntokeskus Prässi Oy",
+      "leveysaste": 64.809215,
+      "pituusaste": 25.411951,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 442,
+      "nimi": "Kuntokeskus Puntti",
+      "leveysaste": 64.072589,
+      "pituusaste": 24.534667,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 443,
+      "nimi": "Kuntokeskus Pyramidi",
+      "leveysaste": 62.863754,
+      "pituusaste": 27.622451,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 444,
+      "nimi": "Kuntokeskus Pyramidi",
+      "leveysaste": 62.863778,
+      "pituusaste": 27.622507,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 445,
+      "nimi": "Kuntokeskus Pyramidi",
+      "leveysaste": 62.980675,
+      "pituusaste": 27.701894,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 446,
+      "nimi": "Kuntokeskus Raahe",
+      "leveysaste": 64.683738,
+      "pituusaste": 24.480078,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 447,
+      "nimi": "Kuntokeskus Riihimäki",
+      "leveysaste": 60.725771,
+      "pituusaste": 24.766999,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 448,
+      "nimi": "Kuntokeskus Sporttikuja",
+      "leveysaste": 60.190167,
+      "pituusaste": 25.026986,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 449,
+      "nimi": "Kuntokeskus Sporttikuja",
+      "leveysaste": 60.190176,
+      "pituusaste": 25.026891,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 450,
+      "nimi": "Kuntokeskus Syke",
+      "leveysaste": 60.563967,
+      "pituusaste": 27.16264,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 451,
+      "nimi": "Kuntokeskus Timmi",
+      "leveysaste": 62.625825,
+      "pituusaste": 27.120487,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 452,
+      "nimi": "Kuntokeskus Ykkönen",
+      "leveysaste": 60.870116,
+      "pituusaste": 26.662423,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 453,
+      "nimi": "Kuntokikka Oy",
+      "leveysaste": 62.608583,
+      "pituusaste": 29.776087,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 454,
+      "nimi": "Kuntoklubi Lassila",
+      "leveysaste": 60.231279,
+      "pituusaste": 24.8831,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 455,
+      "nimi": "Kuntomaailma",
+      "leveysaste": 62.25487,
+      "pituusaste": 25.775298,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 456,
+      "nimi": "Kuntomo",
+      "leveysaste": 64.902678,
+      "pituusaste": 25.538481,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 457,
+      "nimi": "Kuntomo",
+      "leveysaste": 64.930713,
+      "pituusaste": 25.542255,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 458,
+      "nimi": "Kuntoparkki",
+      "leveysaste": 64.695168,
+      "pituusaste": 24.473193,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 459,
+      "nimi": "Kuntosali",
+      "leveysaste": 60.199475,
+      "pituusaste": 24.947736,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 460,
+      "nimi": "Kuntosali",
+      "leveysaste": 60.890612,
+      "pituusaste": 26.352851,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 461,
+      "nimi": "Kuntosali",
+      "leveysaste": 62.631466,
+      "pituusaste": 30.135099,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 462,
+      "nimi": "Kuntosali 10-Kunto",
+      "leveysaste": 61.002984,
+      "pituusaste": 24.491074,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 463,
+      "nimi": "Kuntosali Forever Hämeenlinna",
+      "leveysaste": 60.994588,
+      "pituusaste": 24.486853,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 464,
+      "nimi": "Kuntosali Forever Myllypuro",
+      "leveysaste": 60.22074,
+      "pituusaste": 25.079727,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 465,
+      "nimi": "Kuntosali GEBY",
+      "leveysaste": 60.767659,
+      "pituusaste": 26.781904,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 466,
+      "nimi": "Kuntosali KuntoCenter",
+      "leveysaste": 60.458022,
+      "pituusaste": 24.824133,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 467,
+      "nimi": "Kuntosali Movet",
+      "leveysaste": 60.46796,
+      "pituusaste": 22.245406,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 468,
+      "nimi": "Kuntosali Polte",
+      "leveysaste": 61.47664,
+      "pituusaste": 23.795074,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 469,
+      "nimi": "Kuntosali Puntti",
+      "leveysaste": 65.04166,
+      "pituusaste": 25.479258,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 470,
+      "nimi": "Kuntosali Sali",
+      "leveysaste": 62.550427,
+      "pituusaste": 24.070231,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 471,
+      "nimi": "Kuntosali Takomo",
+      "leveysaste": 60.530828,
+      "pituusaste": 25.106969,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 472,
+      "nimi": "Kuntosali Tiimi",
+      "leveysaste": 61.561605,
+      "pituusaste": 21.614227,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 473,
+      "nimi": "Kuntosali Zei's gym",
+      "leveysaste": 62.614793,
+      "pituusaste": 29.741809,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 474,
+      "nimi": "Kuntotalo",
+      "leveysaste": 60.028464,
+      "pituusaste": 24.35634,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 475,
+      "nimi": "Kuofit",
+      "leveysaste": 62.908676,
+      "pituusaste": 27.69391,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 476,
+      "nimi": "Kylmäkosken kuntosali",
+      "leveysaste": 61.153197,
+      "pituusaste": 23.690463,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 477,
+      "nimi": "Lady's Club",
+      "leveysaste": 60.228414,
+      "pituusaste": 24.964012,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 478,
+      "nimi": "LadyAtlas",
+      "leveysaste": 60.631716,
+      "pituusaste": 24.86005,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 479,
+      "nimi": "LadyFitness Espoo",
+      "leveysaste": 60.203868,
+      "pituusaste": 24.651762,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 480,
+      "nimi": "LadyLine",
+      "leveysaste": 60.853207,
+      "pituusaste": 23.046227,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 481,
+      "nimi": "LadyLine",
+      "leveysaste": 60.867413,
+      "pituusaste": 26.69688,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 482,
+      "nimi": "LadyLine",
+      "leveysaste": 60.987918,
+      "pituusaste": 25.667095,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 483,
+      "nimi": "LadyLine",
+      "leveysaste": 66.494392,
+      "pituusaste": 25.71309,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 484,
+      "nimi": "LadyLine Nihtisilta",
+      "leveysaste": 60.208281,
+      "pituusaste": 24.753912,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 485,
+      "nimi": "LadyLine Porvoo",
+      "leveysaste": 60.394564,
+      "pituusaste": 25.664265,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 486,
+      "nimi": "Ladyt Kuntokeskus",
+      "leveysaste": 60.238265,
+      "pituusaste": 24.875689,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 487,
+      "nimi": "Ladyt Myyrmäki",
+      "leveysaste": 60.261626,
+      "pituusaste": 24.855996,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 488,
+      "nimi": "Lahden Gentai",
+      "leveysaste": 60.963009,
+      "pituusaste": 25.657633,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 489,
+      "nimi": "LaiffiGym",
+      "leveysaste": 64.806875,
+      "pituusaste": 25.997903,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 490,
+      "nimi": "Lakshmi Yoga Club",
+      "leveysaste": 60.199636,
+      "pituusaste": 24.963272,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 491,
+      "nimi": "Lapinjärven kuntosali",
+      "leveysaste": 60.622646,
+      "pituusaste": 26.154841,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 492,
+      "nimi": "Legion Gym Hyvinkää",
+      "leveysaste": 60.622512,
+      "pituusaste": 24.873513,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 493,
+      "nimi": "Legion Gym Hyvinkää",
+      "leveysaste": 60.622522,
+      "pituusaste": 24.873534,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 494,
+      "nimi": "Legion Gym Riihimäki",
+      "leveysaste": 60.733493,
+      "pituusaste": 24.7759,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 495,
+      "nimi": "Lehmus",
+      "leveysaste": 61.059084,
+      "pituusaste": 28.195354,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 496,
+      "nimi": "Lehtimäen kuntosali",
+      "leveysaste": 62.820156,
+      "pituusaste": 23.94197,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 497,
+      "nimi": "Leivonmäen kuntosali",
+      "leveysaste": 61.917435,
+      "pituusaste": 26.123558,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 498,
+      "nimi": "Lempoisten kuntosali",
+      "leveysaste": 61.305102,
+      "pituusaste": 23.746158,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 499,
+      "nimi": "Lempoisten liikuntahalli",
+      "leveysaste": 61.305404,
+      "pituusaste": 23.745965,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 500,
+      "nimi": "Lepaan kuntosali",
+      "leveysaste": 61.116245,
+      "pituusaste": 24.326454,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 501,
+      "nimi": "Leskinen Training Oy",
+      "leveysaste": 60.210881,
+      "pituusaste": 24.708366,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 502,
+      "nimi": "Levi Wellness Club",
+      "leveysaste": 67.803636,
+      "pituusaste": 24.802898,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 503,
+      "nimi": "LiikeVoima",
+      "leveysaste": 63.826899,
+      "pituusaste": 23.149522,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 504,
+      "nimi": "Liikku",
+      "leveysaste": 60.194031,
+      "pituusaste": 24.948448,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 505,
+      "nimi": "Liikku",
+      "leveysaste": 60.197144,
+      "pituusaste": 24.928022,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 506,
+      "nimi": "Liikku",
+      "leveysaste": 60.286744,
+      "pituusaste": 24.973983,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 507,
+      "nimi": "Liikku",
+      "leveysaste": 60.395064,
+      "pituusaste": 23.126868,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 508,
+      "nimi": "Liikku",
+      "leveysaste": 60.395078,
+      "pituusaste": 23.126876,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 509,
+      "nimi": "Liikku",
+      "leveysaste": 60.408376,
+      "pituusaste": 22.359384,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 510,
+      "nimi": "Liikku",
+      "leveysaste": 60.443283,
+      "pituusaste": 22.223689,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 511,
+      "nimi": "Liikku",
+      "leveysaste": 60.450546,
+      "pituusaste": 22.267231,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 512,
+      "nimi": "Liikku",
+      "leveysaste": 60.466724,
+      "pituusaste": 22.246528,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 513,
+      "nimi": "Liikku",
+      "leveysaste": 61.476092,
+      "pituusaste": 23.840409,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 514,
+      "nimi": "Liikku",
+      "leveysaste": 64.062527,
+      "pituusaste": 24.556797,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 515,
+      "nimi": "Liikku",
+      "leveysaste": 64.218151,
+      "pituusaste": 27.732238,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 516,
+      "nimi": "Liikku",
+      "leveysaste": 64.218187,
+      "pituusaste": 27.732231,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 517,
+      "nimi": "Liikku",
+      "leveysaste": 65.034903,
+      "pituusaste": 25.433381,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 518,
+      "nimi": "Liikku Jyväskylä Seppälä",
+      "leveysaste": 62.2577,
+      "pituusaste": 25.779249,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 519,
+      "nimi": "Liikku Kuntokeskus",
+      "leveysaste": 60.184813,
+      "pituusaste": 24.825489,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 520,
+      "nimi": "Liikku Kuntokeskus",
+      "leveysaste": 63.110444,
+      "pituusaste": 21.650568,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 521,
+      "nimi": "Liikku Oulu Kaakkuri",
+      "leveysaste": 64.957186,
+      "pituusaste": 25.52885,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 522,
+      "nimi": "Liikku Pitäjänmäki",
+      "leveysaste": 60.215091,
+      "pituusaste": 24.877682,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 523,
+      "nimi": "Liikku Vantaa Porttipuisto",
+      "leveysaste": 60.281112,
+      "pituusaste": 25.08122,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 524,
+      "nimi": "Liikunta- ja hyvinvointikeskus Aplico",
+      "leveysaste": 60.253833,
+      "pituusaste": 24.096107,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 525,
+      "nimi": "Liikunta- ja hyvinvointikeskus Aplico",
+      "leveysaste": 60.253842,
+      "pituusaste": 24.096054,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 526,
+      "nimi": "Liikuntakeskus Balanssi",
+      "leveysaste": 60.37921,
+      "pituusaste": 24.756391,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 527,
+      "nimi": "Liikuntakeskus Buusti",
+      "leveysaste": 64.138267,
+      "pituusaste": 25.367601,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 528,
+      "nimi": "Liikuntakeskus Fun",
+      "leveysaste": 65.077616,
+      "pituusaste": 25.450349,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 529,
+      "nimi": "Liikuntakeskus Kunnonsali",
+      "leveysaste": 62.890802,
+      "pituusaste": 27.675828,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 530,
+      "nimi": "Liikuntakeskus KuntoKulma",
+      "leveysaste": 60.851906,
+      "pituusaste": 23.055956,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 531,
+      "nimi": "Liikuntakeskus Parkki",
+      "leveysaste": 61.36204,
+      "pituusaste": 23.803625,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 532,
+      "nimi": "Liikuntakeskus Parkki",
+      "leveysaste": 61.362056,
+      "pituusaste": 23.803715,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 533,
+      "nimi": "Liikuntakeskus Vire",
+      "leveysaste": 60.395957,
+      "pituusaste": 23.128095,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 534,
+      "nimi": "Liikuntakeskus Voitto",
+      "leveysaste": 64.993124,
+      "pituusaste": 25.45752,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 535,
+      "nimi": "Liikuntakeskus vida",
+      "leveysaste": 60.350866,
+      "pituusaste": 25.074514,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 536,
+      "nimi": "Liikuntastudio Beat",
+      "leveysaste": 61.495275,
+      "pituusaste": 23.77685,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 537,
+      "nimi": "Liikuntastudio Luhtavilla",
+      "leveysaste": 60.223088,
+      "pituusaste": 24.813108,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 538,
+      "nimi": "Liikuntatalon kuntosali",
+      "leveysaste": 61.193784,
+      "pituusaste": 27.697082,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 539,
+      "nimi": "Locomotion",
+      "leveysaste": 60.739314,
+      "pituusaste": 24.772566,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 540,
+      "nimi": "Loft Gym",
+      "leveysaste": 60.215481,
+      "pituusaste": 24.759802,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 541,
+      "nimi": "Loviisan Syke",
+      "leveysaste": 60.454706,
+      "pituusaste": 26.193172,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 542,
+      "nimi": "Luja",
+      "leveysaste": 60.456079,
+      "pituusaste": 22.232806,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 543,
+      "nimi": "Lukion kuntosali",
+      "leveysaste": 60.339143,
+      "pituusaste": 24.313733,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 544,
+      "nimi": "Lylyn Pisara, kuntosali",
+      "leveysaste": 63.61221,
+      "pituusaste": 24.30634,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 545,
+      "nimi": "M&M Kuntotalo",
+      "leveysaste": 60.454444,
+      "pituusaste": 22.246665,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 546,
+      "nimi": "M&M Kuntotalo",
+      "leveysaste": 60.485726,
+      "pituusaste": 22.166159,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 547,
+      "nimi": "M3V Center",
+      "leveysaste": 63.826374,
+      "pituusaste": 23.156625,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 548,
+      "nimi": "MOOVE kuntokeskus",
+      "leveysaste": 61.050237,
+      "pituusaste": 24.367422,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 549,
+      "nimi": "Mahtisali",
+      "leveysaste": 60.884101,
+      "pituusaste": 26.389403,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 550,
+      "nimi": "Maija Oksa - V",
+      "leveysaste": 60.167082,
+      "pituusaste": 24.948993,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 551,
+      "nimi": "Malmin Piukat Paikat",
+      "leveysaste": 60.252321,
+      "pituusaste": 25.005205,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 552,
+      "nimi": "Malmin kuntosali",
+      "leveysaste": 60.250966,
+      "pituusaste": 25.016127,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 553,
+      "nimi": "Manipura",
+      "leveysaste": 60.168597,
+      "pituusaste": 24.927858,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 554,
+      "nimi": "Martinlaakson kuntosali",
+      "leveysaste": 60.276023,
+      "pituusaste": 24.845239,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 555,
+      "nimi": "Masku Gym",
+      "leveysaste": 60.553059,
+      "pituusaste": 22.11591,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 556,
+      "nimi": "Matinkylän rantapunttis",
+      "leveysaste": 60.151097,
+      "pituusaste": 24.757719,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 557,
+      "nimi": "Medirex",
+      "leveysaste": 63.845927,
+      "pituusaste": 23.131705,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 558,
+      "nimi": "Mentor",
+      "leveysaste": 60.390475,
+      "pituusaste": 22.219231,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 559,
+      "nimi": "Mentor",
+      "leveysaste": 60.390536,
+      "pituusaste": 22.219245,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 560,
+      "nimi": "Metsämaan kuntosali",
+      "leveysaste": 60.940597,
+      "pituusaste": 23.154241,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 561,
+      "nimi": "Moision liikuntahalli",
+      "leveysaste": 61.34652,
+      "pituusaste": 23.758692,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 562,
+      "nimi": "Monofix",
+      "leveysaste": 62.287265,
+      "pituusaste": 27.078872,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 563,
+      "nimi": "Motivus Centrum",
+      "leveysaste": 60.4526,
+      "pituusaste": 22.271531,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 564,
+      "nimi": "Motivus Vallila",
+      "leveysaste": 60.194316,
+      "pituusaste": 24.945523,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 565,
+      "nimi": "Mountain Pose",
+      "leveysaste": 60.204251,
+      "pituusaste": 25.054576,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 566,
+      "nimi": "Move Wellness Center",
+      "leveysaste": 60.206452,
+      "pituusaste": 24.712214,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 567,
+      "nimi": "My Hub",
+      "leveysaste": 60.160957,
+      "pituusaste": 24.930091,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 568,
+      "nimi": "Myllytien hieronta ja jooga",
+      "leveysaste": 60.965498,
+      "pituusaste": 25.644526,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 569,
+      "nimi": "Myrskylä Gym",
+      "leveysaste": 60.666365,
+      "pituusaste": 25.843847,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 570,
+      "nimi": "Myyrin Kuntokeskus",
+      "leveysaste": 60.262691,
+      "pituusaste": 24.850039,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 571,
+      "nimi": "Myyrmäen urheilutalon kuntosali",
+      "leveysaste": 60.265376,
+      "pituusaste": 24.85137,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 572,
+      "nimi": "Nasta Gym",
+      "leveysaste": 60.937027,
+      "pituusaste": 25.961476,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 573,
+      "nimi": "Nest for Soul",
+      "leveysaste": 60.160701,
+      "pituusaste": 24.938579,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 574,
+      "nimi": "Nousiaisten kuntosali",
+      "leveysaste": 60.613242,
+      "pituusaste": 22.065447,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 575,
+      "nimi": "Nummituvan kuntosali",
+      "leveysaste": 60.523734,
+      "pituusaste": 24.549316,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 576,
+      "nimi": "OCR Factory",
+      "leveysaste": 60.165501,
+      "pituusaste": 24.706273,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 577,
+      "nimi": "Olarium Fitness Club",
+      "leveysaste": 60.1735,
+      "pituusaste": 24.725889,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 578,
+      "nimi": "Ole Fit",
+      "leveysaste": 60.201466,
+      "pituusaste": 24.671696,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 579,
+      "nimi": "Ole.Fit",
+      "leveysaste": 60.167042,
+      "pituusaste": 24.93347,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 580,
+      "nimi": "Ole.Fit",
+      "leveysaste": 60.982918,
+      "pituusaste": 25.653854,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 581,
+      "nimi": "Ole.Fit Kallio",
+      "leveysaste": 60.184473,
+      "pituusaste": 24.960785,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 582,
+      "nimi": "Ole.Fit Kerava Kauppakaari",
+      "leveysaste": 60.403905,
+      "pituusaste": 25.098655,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 583,
+      "nimi": "Ole.Fit Urkka",
+      "leveysaste": 60.39147,
+      "pituusaste": 25.033374,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 584,
+      "nimi": "Ole.fit",
+      "leveysaste": 60.167686,
+      "pituusaste": 24.765848,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 585,
+      "nimi": "Ole.fit",
+      "leveysaste": 60.446234,
+      "pituusaste": 22.283471,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 586,
+      "nimi": "Ole.fit",
+      "leveysaste": 60.44671,
+      "pituusaste": 22.236985,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 587,
+      "nimi": "Ole.fit",
+      "leveysaste": 60.626076,
+      "pituusaste": 24.853207,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 588,
+      "nimi": "Ole.fit",
+      "leveysaste": 61.503592,
+      "pituusaste": 23.7642,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 589,
+      "nimi": "Ole.fit",
+      "leveysaste": 64.259721,
+      "pituusaste": 23.951086,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 590,
+      "nimi": "Om Yoga -koulu",
+      "leveysaste": 61.496729,
+      "pituusaste": 23.778659,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 591,
+      "nimi": "Origym",
+      "leveysaste": 61.676844,
+      "pituusaste": 24.356741,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 592,
+      "nimi": "Orimattila Areenan kuntosali",
+      "leveysaste": 60.815978,
+      "pituusaste": 25.737554,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 593,
+      "nimi": "Ortofysio",
+      "leveysaste": 63.316103,
+      "pituusaste": 30.030578,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 594,
+      "nimi": "OtaVoima",
+      "leveysaste": 60.390957,
+      "pituusaste": 24.515538,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 595,
+      "nimi": "OtaVoima",
+      "leveysaste": 60.390987,
+      "pituusaste": 24.515497,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 596,
+      "nimi": "Oulun PT Studio",
+      "leveysaste": 65.026815,
+      "pituusaste": 25.422676,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 597,
+      "nimi": "Oulunkylän liikuntapuisto / Kuntosali",
+      "leveysaste": 60.234631,
+      "pituusaste": 24.959886,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 598,
+      "nimi": "P&P fitness center",
+      "leveysaste": 60.452717,
+      "pituusaste": 22.272208,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 599,
+      "nimi": "PT-Gym",
+      "leveysaste": 65.004401,
+      "pituusaste": 25.465066,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 600,
+      "nimi": "PT-Studio Korpicoach",
+      "leveysaste": 64.884054,
+      "pituusaste": 28.910475,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 601,
+      "nimi": "PTV Gym",
+      "leveysaste": 62.261768,
+      "pituusaste": 25.771599,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 602,
+      "nimi": "PTV Gym",
+      "leveysaste": 62.610717,
+      "pituusaste": 29.774254,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 603,
+      "nimi": "PTV Gym, Roihupelto",
+      "leveysaste": 60.209531,
+      "pituusaste": 25.053342,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 604,
+      "nimi": "PTVGYM",
+      "leveysaste": 60.456014,
+      "pituusaste": 22.233611,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 605,
+      "nimi": "PTVGYM Lahti",
+      "leveysaste": 60.967054,
+      "pituusaste": 25.627319,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 606,
+      "nimi": "PWR",
+      "leveysaste": 60.988464,
+      "pituusaste": 25.661701,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 607,
+      "nimi": "PaavoGym",
+      "leveysaste": 60.543398,
+      "pituusaste": 22.343301,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 608,
+      "nimi": "Padel Tampere",
+      "leveysaste": 61.524415,
+      "pituusaste": 23.654551,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 609,
+      "nimi": "Padma Joogastudiot",
+      "leveysaste": 60.396961,
+      "pituusaste": 25.110756,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 610,
+      "nimi": "Painikämppä",
+      "leveysaste": 63.005664,
+      "pituusaste": 22.136589,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 611,
+      "nimi": "Palauttamo",
+      "leveysaste": 65.015594,
+      "pituusaste": 25.478824,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 612,
+      "nimi": "Palokan Kuntokeskus",
+      "leveysaste": 62.287742,
+      "pituusaste": 25.74102,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 613,
+      "nimi": "Parkour Akatemia",
+      "leveysaste": 60.459112,
+      "pituusaste": 22.274126,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 614,
+      "nimi": "Parkour Akatemia Espoo",
+      "leveysaste": 60.178774,
+      "pituusaste": 24.760552,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 615,
+      "nimi": "Parkour Akatemia Lauttasaari",
+      "leveysaste": 60.154153,
+      "pituusaste": 24.883067,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 616,
+      "nimi": "Parkour Akatemia Vallila",
+      "leveysaste": 60.192782,
+      "pituusaste": 24.948109,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 617,
+      "nimi": "Perheliikuntakeskus Hippa",
+      "leveysaste": 61.482122,
+      "pituusaste": 23.907783,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 618,
+      "nimi": "Personal Best Athletics",
+      "leveysaste": 60.159305,
+      "pituusaste": 24.943431,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 619,
+      "nimi": "Personal training studio",
+      "leveysaste": 60.176666,
+      "pituusaste": 24.930181,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 620,
+      "nimi": "Pilates Helsinki",
+      "leveysaste": 60.169039,
+      "pituusaste": 24.926589,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 621,
+      "nimi": "Pilates Mari Jääskeläinen",
+      "leveysaste": 60.631552,
+      "pituusaste": 24.850588,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 622,
+      "nimi": "Pirkkolan liikuntapuisto / Uimahallin kuntosali",
+      "leveysaste": 60.232402,
+      "pituusaste": 24.912205,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 623,
+      "nimi": "Piukat paikat & Kovat kundit",
+      "leveysaste": 61.003168,
+      "pituusaste": 24.490614,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 624,
+      "nimi": "Polar Gym",
+      "leveysaste": 67.416428,
+      "pituusaste": 26.59486,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 625,
+      "nimi": "Porihalli & LadyLine",
+      "leveysaste": 61.48807,
+      "pituusaste": 21.808024,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 626,
+      "nimi": "Power Center",
+      "leveysaste": 60.398118,
+      "pituusaste": 25.110904,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 627,
+      "nimi": "Power Center",
+      "leveysaste": 60.398167,
+      "pituusaste": 25.110922,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 628,
+      "nimi": "Power Gym Kouvola",
+      "leveysaste": 60.87266,
+      "pituusaste": 26.663786,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 629,
+      "nimi": "Power4Life",
+      "leveysaste": 62.291988,
+      "pituusaste": 27.151427,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 630,
+      "nimi": "Powerfit Vantaa",
+      "leveysaste": 60.292895,
+      "pituusaste": 24.998826,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 631,
+      "nimi": "Powergym",
+      "leveysaste": 60.568993,
+      "pituusaste": 27.191747,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 632,
+      "nimi": "Powergym Lady",
+      "leveysaste": 60.568224,
+      "pituusaste": 27.193852,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 633,
+      "nimi": "Powerhouse Gym",
+      "leveysaste": 61.511384,
+      "pituusaste": 23.774321,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 634,
+      "nimi": "Puistolan Kunto Areena",
+      "leveysaste": 60.274615,
+      "pituusaste": 25.044711,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 635,
+      "nimi": "Puls & Träning",
+      "leveysaste": 60.159637,
+      "pituusaste": 24.917183,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 636,
+      "nimi": "Puls & Träning",
+      "leveysaste": 60.233933,
+      "pituusaste": 25.033448,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 637,
+      "nimi": "Puls & Träning",
+      "leveysaste": 60.314665,
+      "pituusaste": 24.846574,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 638,
+      "nimi": "Puls & Träning Kaleva",
+      "leveysaste": 61.496046,
+      "pituusaste": 23.803706,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 639,
+      "nimi": "Puls Sports Club",
+      "leveysaste": 62.274256,
+      "pituusaste": 21.377928,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 640,
+      "nimi": "Punttis Töölö",
+      "leveysaste": 60.173713,
+      "pituusaste": 24.924489,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 641,
+      "nimi": "Punttisali",
+      "leveysaste": 62.211891,
+      "pituusaste": 24.794394,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 642,
+      "nimi": "Punttisali.com",
+      "leveysaste": 60.241155,
+      "pituusaste": 24.844768,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 643,
+      "nimi": "Pure Move",
+      "leveysaste": 60.4525,
+      "pituusaste": 22.271499,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 644,
+      "nimi": "Purmo Träningsverk",
+      "leveysaste": 63.484291,
+      "pituusaste": 23.003848,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 645,
+      "nimi": "ROK Kuntokeskus",
+      "leveysaste": 63.836498,
+      "pituusaste": 23.128775,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 646,
+      "nimi": "Raahen kuntoklubi",
+      "leveysaste": 64.686555,
+      "pituusaste": 24.51333,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 647,
+      "nimi": "Raatin kuntosali",
+      "leveysaste": 65.019943,
+      "pituusaste": 25.464379,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 648,
+      "nimi": "Rajalan väestönsuoja",
+      "leveysaste": 62.901684,
+      "pituusaste": 27.641403,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 649,
+      "nimi": "Rautaranta Outdoor Gym",
+      "leveysaste": 60.182717,
+      "pituusaste": 24.963492,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 650,
+      "nimi": "Rebel Lifters",
+      "leveysaste": 60.219192,
+      "pituusaste": 24.937677,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 651,
+      "nimi": "Rentukan sali",
+      "leveysaste": 62.248467,
+      "pituusaste": 25.709627,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 652,
+      "nimi": "Reserved Gym",
+      "leveysaste": 62.238881,
+      "pituusaste": 25.753902,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 653,
+      "nimi": "Roots Helsinki Munkkiniemi",
+      "leveysaste": 60.19509,
+      "pituusaste": 24.875463,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 654,
+      "nimi": "Roots Helsinki Punavuori",
+      "leveysaste": 60.161106,
+      "pituusaste": 24.940178,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 655,
+      "nimi": "Roots Helsinki Töölö",
+      "leveysaste": 60.175182,
+      "pituusaste": 24.925242,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 656,
+      "nimi": "Roots Tampere",
+      "leveysaste": 61.502756,
+      "pituusaste": 23.779946,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 657,
+      "nimi": "Ruokatauko Sorosuo Oy",
+      "leveysaste": 60.492394,
+      "pituusaste": 22.064158,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 658,
+      "nimi": "Ryhmäkoti Mereon kuntosali",
+      "leveysaste": 60.160824,
+      "pituusaste": 24.892512,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 659,
+      "nimi": "SWEAT ryhmäliikuntastudio",
+      "leveysaste": 61.503776,
+      "pituusaste": 23.636161,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 660,
+      "nimi": "SYKEplus",
+      "leveysaste": 64.126372,
+      "pituusaste": 29.516744,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 661,
+      "nimi": "Sagayoga",
+      "leveysaste": 60.158403,
+      "pituusaste": 24.941546,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 662,
+      "nimi": "Sahaja Yoga",
+      "leveysaste": 60.168656,
+      "pituusaste": 24.926225,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 663,
+      "nimi": "Saimaanharjun kuntosali",
+      "leveysaste": 61.133643,
+      "pituusaste": 28.096162,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 664,
+      "nimi": "Salipiste",
+      "leveysaste": 61.313995,
+      "pituusaste": 23.756449,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 665,
+      "nimi": "Salon Gym & Fitness Center",
+      "leveysaste": 60.386502,
+      "pituusaste": 23.127734,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 666,
+      "nimi": "Salus Pakila",
+      "leveysaste": 60.239254,
+      "pituusaste": 24.928594,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 667,
+      "nimi": "Sandstrand Wellness Club",
+      "leveysaste": 63.207919,
+      "pituusaste": 21.519731,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 668,
+      "nimi": "Shakta joogakoulu Turku",
+      "leveysaste": 60.446725,
+      "pituusaste": 22.247512,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 669,
+      "nimi": "Silta",
+      "leveysaste": 60.158187,
+      "pituusaste": 24.878019,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 670,
+      "nimi": "Siltamäki Gym",
+      "leveysaste": 60.274714,
+      "pituusaste": 24.98962,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 671,
+      "nimi": "Sipoon Syke",
+      "leveysaste": 60.378435,
+      "pituusaste": 25.269958,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 672,
+      "nimi": "Sipoon Syke",
+      "leveysaste": 60.378482,
+      "pituusaste": 25.270045,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 673,
+      "nimi": "Sisu kuntokeskus",
+      "leveysaste": 64.677549,
+      "pituusaste": 24.486994,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 674,
+      "nimi": "Sport Talli",
+      "leveysaste": 60.992516,
+      "pituusaste": 24.436314,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 675,
+      "nimi": "Sportello Fit",
+      "leveysaste": 65.041248,
+      "pituusaste": 25.46832,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 676,
+      "nimi": "Sportello Fit City Oulu",
+      "leveysaste": 65.008204,
+      "pituusaste": 25.473999,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 677,
+      "nimi": "SporttiMekka",
+      "leveysaste": 60.984957,
+      "pituusaste": 24.491221,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 678,
+      "nimi": "Stadi Fit",
+      "leveysaste": 60.16155,
+      "pituusaste": 24.931219,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 679,
+      "nimi": "StepUp Espoo",
+      "leveysaste": 60.163983,
+      "pituusaste": 24.736299,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 680,
+      "nimi": "SuperPark Kalajoki",
+      "leveysaste": 64.231429,
+      "pituusaste": 23.818508,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 681,
+      "nimi": "Syke Gym",
+      "leveysaste": 61.047994,
+      "pituusaste": 28.175633,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 682,
+      "nimi": "Syke Gym",
+      "leveysaste": 61.048039,
+      "pituusaste": 28.175566,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 683,
+      "nimi": "Söderkulla Gym",
+      "leveysaste": 60.293989,
+      "pituusaste": 25.348857,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 684,
+      "nimi": "Söderkulla Gym",
+      "leveysaste": 60.294023,
+      "pituusaste": 25.348686,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 685,
+      "nimi": "T-talo",
+      "leveysaste": 60.455187,
+      "pituusaste": 22.305748,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 686,
+      "nimi": "TFW Helsinki Oy",
+      "leveysaste": 60.199015,
+      "pituusaste": 24.965221,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 687,
+      "nimi": "TFW Kerava",
+      "leveysaste": 60.395742,
+      "pituusaste": 25.109061,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 688,
+      "nimi": "TFW Kilo",
+      "leveysaste": 60.207649,
+      "pituusaste": 24.767367,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 689,
+      "nimi": "TFW Konala",
+      "leveysaste": 60.247513,
+      "pituusaste": 24.844018,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 690,
+      "nimi": "TFW Vantaa",
+      "leveysaste": 60.293758,
+      "pituusaste": 25.004551,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 691,
+      "nimi": "TH Gym",
+      "leveysaste": 63.318881,
+      "pituusaste": 30.025817,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 692,
+      "nimi": "THEGYM.Lauttasaari",
+      "leveysaste": 60.152026,
+      "pituusaste": 24.885876,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 693,
+      "nimi": "TaMi",
+      "leveysaste": 60.461106,
+      "pituusaste": 22.290253,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 694,
+      "nimi": "Taf Gym",
+      "leveysaste": 61.04992,
+      "pituusaste": 28.199123,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 695,
+      "nimi": "Talent Training Center",
+      "leveysaste": 60.452473,
+      "pituusaste": 22.22481,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 696,
+      "nimi": "Talent Training Center",
+      "leveysaste": 60.452478,
+      "pituusaste": 22.224722,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 697,
+      "nimi": "Talli Gym Suurpelto",
+      "leveysaste": 60.186226,
+      "pituusaste": 24.747148,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 698,
+      "nimi": "Target Gym",
+      "leveysaste": 60.479447,
+      "pituusaste": 22.057082,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 699,
+      "nimi": "Tatsi",
+      "leveysaste": 64.23141,
+      "pituusaste": 23.810414,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 700,
+      "nimi": "Teknopalatsi",
+      "leveysaste": 65.058218,
+      "pituusaste": 25.449203,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 701,
+      "nimi": "Teknopalatsi",
+      "leveysaste": 65.058237,
+      "pituusaste": 25.449261,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 702,
+      "nimi": "Tempaus-Areena",
+      "leveysaste": 60.179522,
+      "pituusaste": 24.952607,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 703,
+      "nimi": "Tempaus-Areena Espoo",
+      "leveysaste": 60.214822,
+      "pituusaste": 24.762461,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 704,
+      "nimi": "The Clubhouse Helsinki",
+      "leveysaste": 60.193576,
+      "pituusaste": 24.956514,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 705,
+      "nimi": "Tiger taekwondo",
+      "leveysaste": 60.201495,
+      "pituusaste": 24.921247,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 706,
+      "nimi": "Trainium",
+      "leveysaste": 59.982789,
+      "pituusaste": 23.463973,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 707,
+      "nimi": "Treenihuone Energinen",
+      "leveysaste": 60.456388,
+      "pituusaste": 26.221261,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 708,
+      "nimi": "Tuiskulan kuntosali",
+      "leveysaste": 64.859768,
+      "pituusaste": 25.464553,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 709,
+      "nimi": "Tulijooga",
+      "leveysaste": 60.160718,
+      "pituusaste": 24.936086,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 710,
+      "nimi": "Turku Muay Thai",
+      "leveysaste": 60.492882,
+      "pituusaste": 22.285485,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 711,
+      "nimi": "Turun Atleettiklubi",
+      "leveysaste": 60.49197,
+      "pituusaste": 22.287272,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 712,
+      "nimi": "Turun sirkuskoulu",
+      "leveysaste": 60.45276,
+      "pituusaste": 22.272152,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 713,
+      "nimi": "Tuulissuon kuntosali",
+      "leveysaste": 60.46354,
+      "pituusaste": 22.423005,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 714,
+      "nimi": "Töölö Gym",
+      "leveysaste": 60.1775,
+      "pituusaste": 24.924693,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 715,
+      "nimi": "Uikko Kuntokeskus",
+      "leveysaste": 63.922722,
+      "pituusaste": 24.980887,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 716,
+      "nimi": "Uittamon kuntosali",
+      "leveysaste": 60.422818,
+      "pituusaste": 22.264811,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 717,
+      "nimi": "Ulkoilu Fitness",
+      "leveysaste": 64.884907,
+      "pituusaste": 28.912824,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 718,
+      "nimi": "Ulkona oleva kuntosali",
+      "leveysaste": 60.411112,
+      "pituusaste": 22.361944,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 719,
+      "nimi": "Ulpukan kuntosali",
+      "leveysaste": 60.477713,
+      "pituusaste": 22.161676,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 720,
+      "nimi": "Urheilukeskuksen kuntosali",
+      "leveysaste": 60.847387,
+      "pituusaste": 23.050423,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 721,
+      "nimi": "Urheilukeskuksen kuntosali",
+      "leveysaste": 60.847409,
+      "pituusaste": 23.050456,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 722,
+      "nimi": "Urheilukeskus Elo",
+      "leveysaste": 62.06411,
+      "pituusaste": 27.718153,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 723,
+      "nimi": "Urheilutalo Raahela",
+      "leveysaste": 64.684543,
+      "pituusaste": 24.484073,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 724,
+      "nimi": "Urheilutalon kuntosali",
+      "leveysaste": 62.18254,
+      "pituusaste": 27.834434,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 725,
+      "nimi": "VVS KivaSali",
+      "leveysaste": 60.270729,
+      "pituusaste": 24.877858,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 726,
+      "nimi": "Vaalan Fysioterapia",
+      "leveysaste": 64.558557,
+      "pituusaste": 26.835532,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 727,
+      "nimi": "Vaalan Fysioterapia",
+      "leveysaste": 64.558562,
+      "pituusaste": 26.835635,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 728,
+      "nimi": "Vallilan Holvi",
+      "leveysaste": 60.196941,
+      "pituusaste": 24.955333,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 729,
+      "nimi": "Valmennuskeskus Newton / CrossFit Nuijala",
+      "leveysaste": 60.206818,
+      "pituusaste": 24.775623,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 730,
+      "nimi": "Vantaa Gym Club",
+      "leveysaste": 60.317526,
+      "pituusaste": 25.061977,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 731,
+      "nimi": "Vastavoima Fitness",
+      "leveysaste": 61.500874,
+      "pituusaste": 23.778394,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 732,
+      "nimi": "Vauhtisammakko Liikuntapalvelut",
+      "leveysaste": 60.447785,
+      "pituusaste": 22.28279,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 733,
+      "nimi": "Virgiinia",
+      "leveysaste": 60.190794,
+      "pituusaste": 24.947182,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 734,
+      "nimi": "Virta-kampuksen liikuntahalli",
+      "leveysaste": 61.310943,
+      "pituusaste": 23.769578,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 735,
+      "nimi": "Visa",
+      "leveysaste": 64.132425,
+      "pituusaste": 28.390505,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 736,
+      "nimi": "Viva! Wellness club",
+      "leveysaste": 60.388365,
+      "pituusaste": 25.022915,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 737,
+      "nimi": "Vocatum",
+      "leveysaste": 64.92339,
+      "pituusaste": 25.530065,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 738,
+      "nimi": "Vocatum",
+      "leveysaste": 64.923462,
+      "pituusaste": 25.530281,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 739,
+      "nimi": "Voimailusali",
+      "leveysaste": 61.082245,
+      "pituusaste": 24.141717,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 740,
+      "nimi": "Voimailusali",
+      "leveysaste": 61.082274,
+      "pituusaste": 24.141773,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 741,
+      "nimi": "Voimailusali",
+      "leveysaste": 63.088357,
+      "pituusaste": 25.859511,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 742,
+      "nimi": "Voimakas Sali",
+      "leveysaste": 60.45607,
+      "pituusaste": 22.68741,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 743,
+      "nimi": "Voimakas Sali",
+      "leveysaste": 60.456096,
+      "pituusaste": 22.687454,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 744,
+      "nimi": "Voimakellari Novapolis",
+      "leveysaste": 62.888715,
+      "pituusaste": 27.629799,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 745,
+      "nimi": "Voimala",
+      "leveysaste": 60.854019,
+      "pituusaste": 23.062624,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 746,
+      "nimi": "Voimala",
+      "leveysaste": 60.854032,
+      "pituusaste": 23.062641,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 747,
+      "nimi": "Voimalaitos Roba",
+      "leveysaste": 60.163914,
+      "pituusaste": 24.943672,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 748,
+      "nimi": "Voimalaitos Roba",
+      "leveysaste": 60.16441,
+      "pituusaste": 24.945068,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 749,
+      "nimi": "Vuores Gym",
+      "leveysaste": 61.430315,
+      "pituusaste": 23.81276,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 750,
+      "nimi": "Wasa Gym House",
+      "leveysaste": 63.09843,
+      "pituusaste": 21.630169,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 751,
+      "nimi": "Wasa Sports Club",
+      "leveysaste": 63.10397,
+      "pituusaste": 21.59654,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 752,
+      "nimi": "Wasamove",
+      "leveysaste": 63.102211,
+      "pituusaste": 21.635095,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 753,
+      "nimi": "Well Gym",
+      "leveysaste": 61.508022,
+      "pituusaste": 23.808126,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 754,
+      "nimi": "WellGym Turku",
+      "leveysaste": 60.475194,
+      "pituusaste": 22.283315,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 755,
+      "nimi": "Wellness Center",
+      "leveysaste": 61.04805,
+      "pituusaste": 22.348726,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 756,
+      "nimi": "Wellness sentteri",
+      "leveysaste": 66.774379,
+      "pituusaste": 23.964357,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 757,
+      "nimi": "WoimaWirta",
+      "leveysaste": 60.584139,
+      "pituusaste": 27.708682,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 758,
+      "nimi": "Xtreme Fitness Club Kauhava",
+      "leveysaste": 63.100382,
+      "pituusaste": 23.045046,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 759,
+      "nimi": "Ylistaron Urheilupuiston ulkokuntosali",
+      "leveysaste": 62.954773,
+      "pituusaste": 22.537224,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 760,
+      "nimi": "Yoggylife",
+      "leveysaste": 60.160794,
+      "pituusaste": 24.938001,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    },
+    {
+      "id": 761,
+      "nimi": "Бассейн Uimahallin kuntosali",
+      "leveysaste": 62.894603,
+      "pituusaste": 27.665741,
+      "osm_avain": "leisure",
+      "osm_arvo": "fitness_centre",
+      "osm_luokka": "leisure=fitness_centre"
+    }
+  ],
+  "meta": {
+    "title": "Kuntosalit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kuntosalit Suomessa — 761 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `leisure=fitness_centre`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 761 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kuntosalit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kuntosalit – Suomi (OpenStreetMap) — 761 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 761 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

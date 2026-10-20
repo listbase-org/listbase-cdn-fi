@@ -1,0 +1,3292 @@
+{
+  "id": "fi-osm-amenity-atm",
+  "name": "Pankkiautomaatit – Suomi (OpenStreetMap)",
+  "title": "Pankkiautomaatit – Suomi (OpenStreetMap)",
+  "description": "Pankkiautomaatit Suomessa — 359 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=atm`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 359,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "ATM (hole in the wall)",
+      "leveysaste": 62.257989,
+      "pituusaste": 24.709522,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 2,
+      "nimi": "Bittimaatti",
+      "leveysaste": 60.293438,
+      "pituusaste": 25.044163,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 3,
+      "nimi": "Bittimaatti",
+      "leveysaste": 60.42969,
+      "pituusaste": 22.320549,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 4,
+      "nimi": "Bittimaatti",
+      "leveysaste": 62.242915,
+      "pituusaste": 25.74745,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 5,
+      "nimi": "Bittimaatti Two-Way",
+      "leveysaste": 61.497555,
+      "pituusaste": 23.777177,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 6,
+      "nimi": "Forex",
+      "leveysaste": 60.314192,
+      "pituusaste": 24.95727,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 7,
+      "nimi": "Forex",
+      "leveysaste": 60.315748,
+      "pituusaste": 24.962047,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 8,
+      "nimi": "Forex",
+      "leveysaste": 60.315896,
+      "pituusaste": 24.961786,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 9,
+      "nimi": "Forex",
+      "leveysaste": 60.317793,
+      "pituusaste": 24.96726,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 10,
+      "nimi": "Forex",
+      "leveysaste": 60.317794,
+      "pituusaste": 24.967285,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 11,
+      "nimi": "Forex",
+      "leveysaste": 60.317806,
+      "pituusaste": 24.967257,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 12,
+      "nimi": "Forex",
+      "leveysaste": 60.317806,
+      "pituusaste": 24.967279,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 13,
+      "nimi": "Forex",
+      "leveysaste": 60.318387,
+      "pituusaste": 24.966514,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 14,
+      "nimi": "Forex",
+      "leveysaste": 60.318728,
+      "pituusaste": 24.96908,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 15,
+      "nimi": "Forex",
+      "leveysaste": 60.319437,
+      "pituusaste": 24.968339,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 16,
+      "nimi": "Nosto",
+      "leveysaste": 60.164024,
+      "pituusaste": 24.913847,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 17,
+      "nimi": "Nosto",
+      "leveysaste": 60.167644,
+      "pituusaste": 24.616602,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 18,
+      "nimi": "Nosto",
+      "leveysaste": 60.189785,
+      "pituusaste": 24.952403,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 19,
+      "nimi": "Nosto",
+      "leveysaste": 60.192937,
+      "pituusaste": 24.930326,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 20,
+      "nimi": "Nosto",
+      "leveysaste": 60.193234,
+      "pituusaste": 25.031894,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 21,
+      "nimi": "Nosto",
+      "leveysaste": 60.205307,
+      "pituusaste": 25.155513,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 22,
+      "nimi": "Nosto",
+      "leveysaste": 60.226828,
+      "pituusaste": 24.740389,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 23,
+      "nimi": "Nosto",
+      "leveysaste": 60.24779,
+      "pituusaste": 24.923231,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 24,
+      "nimi": "Nosto",
+      "leveysaste": 60.256526,
+      "pituusaste": 24.998599,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 25,
+      "nimi": "Nosto",
+      "leveysaste": 60.323054,
+      "pituusaste": 25.056085,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 26,
+      "nimi": "Nosto",
+      "leveysaste": 60.374362,
+      "pituusaste": 24.759096,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 27,
+      "nimi": "Nosto",
+      "leveysaste": 60.386922,
+      "pituusaste": 25.651566,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 28,
+      "nimi": "Nosto",
+      "leveysaste": 60.402815,
+      "pituusaste": 25.031074,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 29,
+      "nimi": "Nosto",
+      "leveysaste": 60.44614,
+      "pituusaste": 22.226008,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 30,
+      "nimi": "Nosto",
+      "leveysaste": 60.553503,
+      "pituusaste": 24.967022,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 31,
+      "nimi": "Nosto",
+      "leveysaste": 60.608541,
+      "pituusaste": 24.836604,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 32,
+      "nimi": "Nosto",
+      "leveysaste": 60.935529,
+      "pituusaste": 25.962237,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 33,
+      "nimi": "Nosto",
+      "leveysaste": 60.993414,
+      "pituusaste": 24.459294,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 34,
+      "nimi": "Nosto",
+      "leveysaste": 60.995899,
+      "pituusaste": 24.463549,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 35,
+      "nimi": "Nosto",
+      "leveysaste": 61.006564,
+      "pituusaste": 24.506462,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 36,
+      "nimi": "Nosto",
+      "leveysaste": 61.011392,
+      "pituusaste": 24.41367,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 37,
+      "nimi": "Nosto",
+      "leveysaste": 61.011553,
+      "pituusaste": 24.413078,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 38,
+      "nimi": "Nosto",
+      "leveysaste": 61.013833,
+      "pituusaste": 24.41697,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 39,
+      "nimi": "Nosto",
+      "leveysaste": 61.360086,
+      "pituusaste": 23.795652,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 40,
+      "nimi": "Nosto",
+      "leveysaste": 61.420439,
+      "pituusaste": 23.613881,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 41,
+      "nimi": "Nosto",
+      "leveysaste": 61.490613,
+      "pituusaste": 23.821667,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 42,
+      "nimi": "Nosto",
+      "leveysaste": 61.492011,
+      "pituusaste": 23.821256,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 43,
+      "nimi": "Nosto",
+      "leveysaste": 61.499247,
+      "pituusaste": 23.756172,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 44,
+      "nimi": "Nosto",
+      "leveysaste": 61.582738,
+      "pituusaste": 27.650648,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 45,
+      "nimi": "Nosto",
+      "leveysaste": 62.243021,
+      "pituusaste": 25.706833,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 46,
+      "nimi": "Nosto",
+      "leveysaste": 62.517508,
+      "pituusaste": 25.689509,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 47,
+      "nimi": "Nosto",
+      "leveysaste": 62.887105,
+      "pituusaste": 27.632664,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 48,
+      "nimi": "Nosto",
+      "leveysaste": 62.888148,
+      "pituusaste": 27.632862,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 49,
+      "nimi": "Nosto",
+      "leveysaste": 62.897923,
+      "pituusaste": 27.681008,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 50,
+      "nimi": "Nosto",
+      "leveysaste": 63.677787,
+      "pituusaste": 22.716397,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 51,
+      "nimi": "Nosto",
+      "leveysaste": 63.677893,
+      "pituusaste": 22.716326,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 52,
+      "nimi": "Nosto",
+      "leveysaste": 63.754662,
+      "pituusaste": 22.745147,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 53,
+      "nimi": "Nosto",
+      "leveysaste": 63.83204,
+      "pituusaste": 23.128144,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 54,
+      "nimi": "Nosto",
+      "leveysaste": 64.218978,
+      "pituusaste": 27.677736,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 55,
+      "nimi": "Nosto",
+      "leveysaste": 65.007978,
+      "pituusaste": 25.526711,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 56,
+      "nimi": "Nosto 3415 S-market Pitäjänmäki",
+      "leveysaste": 60.217635,
+      "pituusaste": 24.869505,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 57,
+      "nimi": "Nosto Automaatti",
+      "leveysaste": 60.401588,
+      "pituusaste": 25.102959,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 58,
+      "nimi": "Nosto Automaatti",
+      "leveysaste": 60.401593,
+      "pituusaste": 25.102961,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 59,
+      "nimi": "Nosto K-Supermarket Vieremä",
+      "leveysaste": 60.633014,
+      "pituusaste": 24.850423,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 60,
+      "nimi": "Nosto Sale Talvikangas",
+      "leveysaste": 65.045048,
+      "pituusaste": 25.58628,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 61,
+      "nimi": "Nosto Uudenmaankatu 67 Hyvinkää",
+      "leveysaste": 60.620048,
+      "pituusaste": 24.844591,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 62,
+      "nimi": "Nosto automaatti",
+      "leveysaste": 60.534284,
+      "pituusaste": 24.2317,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 63,
+      "nimi": "OP",
+      "leveysaste": 60.646248,
+      "pituusaste": 22.591195,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 64,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.29284,
+      "pituusaste": 28.812155,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 65,
+      "nimi": "Otto",
+      "leveysaste": 60.158746,
+      "pituusaste": 24.934463,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 66,
+      "nimi": "Otto",
+      "leveysaste": 60.160315,
+      "pituusaste": 24.919482,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 67,
+      "nimi": "Otto",
+      "leveysaste": 60.162862,
+      "pituusaste": 24.914261,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 68,
+      "nimi": "Otto",
+      "leveysaste": 60.165341,
+      "pituusaste": 24.730313,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 69,
+      "nimi": "Otto",
+      "leveysaste": 60.16805,
+      "pituusaste": 24.942379,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 70,
+      "nimi": "Otto",
+      "leveysaste": 60.168147,
+      "pituusaste": 24.942329,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 71,
+      "nimi": "Otto",
+      "leveysaste": 60.168436,
+      "pituusaste": 24.941562,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 72,
+      "nimi": "Otto",
+      "leveysaste": 60.171592,
+      "pituusaste": 24.940683,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 73,
+      "nimi": "Otto",
+      "leveysaste": 60.175229,
+      "pituusaste": 24.921435,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 74,
+      "nimi": "Otto",
+      "leveysaste": 60.17573,
+      "pituusaste": 24.80436,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 75,
+      "nimi": "Otto",
+      "leveysaste": 60.180176,
+      "pituusaste": 24.949261,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 76,
+      "nimi": "Otto",
+      "leveysaste": 60.183328,
+      "pituusaste": 24.952819,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 77,
+      "nimi": "Otto",
+      "leveysaste": 60.18501,
+      "pituusaste": 24.825235,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 78,
+      "nimi": "Otto",
+      "leveysaste": 60.185084,
+      "pituusaste": 24.921768,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 79,
+      "nimi": "Otto",
+      "leveysaste": 60.186141,
+      "pituusaste": 24.746569,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 80,
+      "nimi": "Otto",
+      "leveysaste": 60.186723,
+      "pituusaste": 24.948248,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 81,
+      "nimi": "Otto",
+      "leveysaste": 60.187798,
+      "pituusaste": 24.960108,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 82,
+      "nimi": "Otto",
+      "leveysaste": 60.191407,
+      "pituusaste": 24.90695,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 83,
+      "nimi": "Otto",
+      "leveysaste": 60.197521,
+      "pituusaste": 24.900223,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 84,
+      "nimi": "Otto",
+      "leveysaste": 60.200385,
+      "pituusaste": 24.670061,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 85,
+      "nimi": "Otto",
+      "leveysaste": 60.201679,
+      "pituusaste": 24.877853,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 86,
+      "nimi": "Otto",
+      "leveysaste": 60.202806,
+      "pituusaste": 24.968131,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 87,
+      "nimi": "Otto",
+      "leveysaste": 60.204035,
+      "pituusaste": 24.657194,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 88,
+      "nimi": "Otto",
+      "leveysaste": 60.20451,
+      "pituusaste": 24.656742,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 89,
+      "nimi": "Otto",
+      "leveysaste": 60.216825,
+      "pituusaste": 24.899963,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 90,
+      "nimi": "Otto",
+      "leveysaste": 60.230509,
+      "pituusaste": 24.998415,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 91,
+      "nimi": "Otto",
+      "leveysaste": 60.236947,
+      "pituusaste": 24.893721,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 92,
+      "nimi": "Otto",
+      "leveysaste": 60.23699,
+      "pituusaste": 25.083251,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 93,
+      "nimi": "Otto",
+      "leveysaste": 60.244467,
+      "pituusaste": 23.732072,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 94,
+      "nimi": "Otto",
+      "leveysaste": 60.247557,
+      "pituusaste": 24.86246,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 95,
+      "nimi": "Otto",
+      "leveysaste": 60.251256,
+      "pituusaste": 25.012836,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 96,
+      "nimi": "Otto",
+      "leveysaste": 60.268631,
+      "pituusaste": 24.442531,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 97,
+      "nimi": "Otto",
+      "leveysaste": 60.27492,
+      "pituusaste": 24.989144,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 98,
+      "nimi": "Otto",
+      "leveysaste": 60.278132,
+      "pituusaste": 25.105594,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 99,
+      "nimi": "Otto",
+      "leveysaste": 60.278453,
+      "pituusaste": 25.103968,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 100,
+      "nimi": "Otto",
+      "leveysaste": 60.290469,
+      "pituusaste": 24.968854,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 101,
+      "nimi": "Otto",
+      "leveysaste": 60.293781,
+      "pituusaste": 25.031795,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 102,
+      "nimi": "Otto",
+      "leveysaste": 60.30953,
+      "pituusaste": 25.031544,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 103,
+      "nimi": "Otto",
+      "leveysaste": 60.316973,
+      "pituusaste": 24.970768,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 104,
+      "nimi": "Otto",
+      "leveysaste": 60.319145,
+      "pituusaste": 24.967484,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 105,
+      "nimi": "Otto",
+      "leveysaste": 60.324066,
+      "pituusaste": 25.056441,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 106,
+      "nimi": "Otto",
+      "leveysaste": 60.416064,
+      "pituusaste": 22.326292,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 107,
+      "nimi": "Otto",
+      "leveysaste": 60.421518,
+      "pituusaste": 22.264167,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 108,
+      "nimi": "Otto",
+      "leveysaste": 60.422362,
+      "pituusaste": 22.284274,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 109,
+      "nimi": "Otto",
+      "leveysaste": 60.427024,
+      "pituusaste": 22.268942,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 110,
+      "nimi": "Otto",
+      "leveysaste": 60.441904,
+      "pituusaste": 22.285192,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 111,
+      "nimi": "Otto",
+      "leveysaste": 60.442782,
+      "pituusaste": 22.257518,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 112,
+      "nimi": "Otto",
+      "leveysaste": 60.445793,
+      "pituusaste": 22.323989,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 113,
+      "nimi": "Otto",
+      "leveysaste": 60.448502,
+      "pituusaste": 22.236729,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 114,
+      "nimi": "Otto",
+      "leveysaste": 60.473443,
+      "pituusaste": 23.981961,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 115,
+      "nimi": "Otto",
+      "leveysaste": 60.501528,
+      "pituusaste": 26.869142,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 116,
+      "nimi": "Otto",
+      "leveysaste": 60.540913,
+      "pituusaste": 22.221117,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 117,
+      "nimi": "Otto",
+      "leveysaste": 60.618264,
+      "pituusaste": 24.806257,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 118,
+      "nimi": "Otto",
+      "leveysaste": 60.630084,
+      "pituusaste": 24.865002,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 119,
+      "nimi": "Otto",
+      "leveysaste": 60.631129,
+      "pituusaste": 24.860775,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 120,
+      "nimi": "Otto",
+      "leveysaste": 60.631749,
+      "pituusaste": 24.863799,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 121,
+      "nimi": "Otto",
+      "leveysaste": 60.633955,
+      "pituusaste": 24.86498,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 122,
+      "nimi": "Otto",
+      "leveysaste": 60.868322,
+      "pituusaste": 22.987449,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 123,
+      "nimi": "Otto",
+      "leveysaste": 60.984064,
+      "pituusaste": 25.653736,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 124,
+      "nimi": "Otto",
+      "leveysaste": 60.984507,
+      "pituusaste": 25.650602,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 125,
+      "nimi": "Otto",
+      "leveysaste": 60.992822,
+      "pituusaste": 24.45723,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 126,
+      "nimi": "Otto",
+      "leveysaste": 60.993401,
+      "pituusaste": 24.456645,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 127,
+      "nimi": "Otto",
+      "leveysaste": 61.059638,
+      "pituusaste": 28.185175,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 128,
+      "nimi": "Otto",
+      "leveysaste": 61.167914,
+      "pituusaste": 23.86663,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 129,
+      "nimi": "Otto",
+      "leveysaste": 61.172054,
+      "pituusaste": 25.55139,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 130,
+      "nimi": "Otto",
+      "leveysaste": 61.172734,
+      "pituusaste": 25.546201,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 131,
+      "nimi": "Otto",
+      "leveysaste": 61.28555,
+      "pituusaste": 22.69759,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 132,
+      "nimi": "Otto",
+      "leveysaste": 61.361224,
+      "pituusaste": 23.796235,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 133,
+      "nimi": "Otto",
+      "leveysaste": 61.37955,
+      "pituusaste": 23.781656,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 134,
+      "nimi": "Otto",
+      "leveysaste": 61.451322,
+      "pituusaste": 23.847834,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 135,
+      "nimi": "Otto",
+      "leveysaste": 61.475854,
+      "pituusaste": 23.839541,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 136,
+      "nimi": "Otto",
+      "leveysaste": 61.478057,
+      "pituusaste": 21.802031,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 137,
+      "nimi": "Otto",
+      "leveysaste": 61.482803,
+      "pituusaste": 21.796613,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 138,
+      "nimi": "Otto",
+      "leveysaste": 61.482862,
+      "pituusaste": 23.511136,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 139,
+      "nimi": "Otto",
+      "leveysaste": 61.483787,
+      "pituusaste": 21.797587,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 140,
+      "nimi": "Otto",
+      "leveysaste": 61.484935,
+      "pituusaste": 21.797529,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 141,
+      "nimi": "Otto",
+      "leveysaste": 61.485144,
+      "pituusaste": 21.79991,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 142,
+      "nimi": "Otto",
+      "leveysaste": 61.497726,
+      "pituusaste": 23.757022,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 143,
+      "nimi": "Otto",
+      "leveysaste": 61.497728,
+      "pituusaste": 23.757021,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 144,
+      "nimi": "Otto",
+      "leveysaste": 61.499289,
+      "pituusaste": 23.756222,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 145,
+      "nimi": "Otto",
+      "leveysaste": 61.582987,
+      "pituusaste": 27.649861,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 146,
+      "nimi": "Otto",
+      "leveysaste": 61.641019,
+      "pituusaste": 26.775458,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 147,
+      "nimi": "Otto",
+      "leveysaste": 61.677087,
+      "pituusaste": 24.357595,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 148,
+      "nimi": "Otto",
+      "leveysaste": 61.729311,
+      "pituusaste": 24.788619,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 149,
+      "nimi": "Otto",
+      "leveysaste": 61.757425,
+      "pituusaste": 29.389298,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 150,
+      "nimi": "Otto",
+      "leveysaste": 61.869585,
+      "pituusaste": 28.922303,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 151,
+      "nimi": "Otto",
+      "leveysaste": 61.885967,
+      "pituusaste": 28.795711,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 152,
+      "nimi": "Otto",
+      "leveysaste": 62.030581,
+      "pituusaste": 24.622622,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 153,
+      "nimi": "Otto",
+      "leveysaste": 62.031656,
+      "pituusaste": 24.623406,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 154,
+      "nimi": "Otto",
+      "leveysaste": 62.28757,
+      "pituusaste": 25.714095,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 155,
+      "nimi": "Otto",
+      "leveysaste": 62.38496,
+      "pituusaste": 21.223067,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 156,
+      "nimi": "Otto",
+      "leveysaste": 62.558576,
+      "pituusaste": 30.175916,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 157,
+      "nimi": "Otto",
+      "leveysaste": 62.586399,
+      "pituusaste": 23.618225,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 158,
+      "nimi": "Otto",
+      "leveysaste": 62.602223,
+      "pituusaste": 23.728019,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 159,
+      "nimi": "Otto",
+      "leveysaste": 62.603031,
+      "pituusaste": 23.726394,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 160,
+      "nimi": "Otto",
+      "leveysaste": 62.614603,
+      "pituusaste": 29.814157,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 161,
+      "nimi": "Otto",
+      "leveysaste": 62.625058,
+      "pituusaste": 29.69433,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 162,
+      "nimi": "Otto",
+      "leveysaste": 62.656633,
+      "pituusaste": 29.812455,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 163,
+      "nimi": "Otto",
+      "leveysaste": 62.68615,
+      "pituusaste": 21.982754,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 164,
+      "nimi": "Otto",
+      "leveysaste": 62.772187,
+      "pituusaste": 22.877301,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 165,
+      "nimi": "Otto",
+      "leveysaste": 62.791748,
+      "pituusaste": 22.834474,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 166,
+      "nimi": "Otto",
+      "leveysaste": 62.892402,
+      "pituusaste": 27.679935,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 167,
+      "nimi": "Otto",
+      "leveysaste": 63.074223,
+      "pituusaste": 25.860593,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 168,
+      "nimi": "Otto",
+      "leveysaste": 63.101693,
+      "pituusaste": 23.055638,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 169,
+      "nimi": "Otto",
+      "leveysaste": 63.202883,
+      "pituusaste": 28.085268,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 170,
+      "nimi": "Otto",
+      "leveysaste": 63.307457,
+      "pituusaste": 22.386024,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 171,
+      "nimi": "Otto",
+      "leveysaste": 63.521771,
+      "pituusaste": 22.52929,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 172,
+      "nimi": "Otto",
+      "leveysaste": 63.543115,
+      "pituusaste": 29.137432,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 173,
+      "nimi": "Otto",
+      "leveysaste": 63.573716,
+      "pituusaste": 27.179719,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 174,
+      "nimi": "Otto",
+      "leveysaste": 63.632933,
+      "pituusaste": 22.856928,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 175,
+      "nimi": "Otto",
+      "leveysaste": 63.666953,
+      "pituusaste": 22.704774,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 176,
+      "nimi": "Otto",
+      "leveysaste": 63.674236,
+      "pituusaste": 22.702625,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 177,
+      "nimi": "Otto",
+      "leveysaste": 63.67437,
+      "pituusaste": 22.70121,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 178,
+      "nimi": "Otto",
+      "leveysaste": 63.677346,
+      "pituusaste": 22.714636,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 179,
+      "nimi": "Otto",
+      "leveysaste": 63.677539,
+      "pituusaste": 22.714492,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 180,
+      "nimi": "Otto",
+      "leveysaste": 63.750395,
+      "pituusaste": 25.319499,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 181,
+      "nimi": "Otto",
+      "leveysaste": 63.828981,
+      "pituusaste": 23.155624,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 182,
+      "nimi": "Otto",
+      "leveysaste": 63.835721,
+      "pituusaste": 23.112244,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 183,
+      "nimi": "Otto",
+      "leveysaste": 63.836386,
+      "pituusaste": 23.131299,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 184,
+      "nimi": "Otto",
+      "leveysaste": 63.836601,
+      "pituusaste": 23.141455,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 185,
+      "nimi": "Otto",
+      "leveysaste": 63.860304,
+      "pituusaste": 23.452964,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 186,
+      "nimi": "Otto",
+      "leveysaste": 64.06361,
+      "pituusaste": 24.553594,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 187,
+      "nimi": "Otto",
+      "leveysaste": 64.130976,
+      "pituusaste": 28.38296,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 188,
+      "nimi": "Otto",
+      "leveysaste": 64.131069,
+      "pituusaste": 28.385452,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 189,
+      "nimi": "Otto",
+      "leveysaste": 64.222711,
+      "pituusaste": 27.735689,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 190,
+      "nimi": "Otto",
+      "leveysaste": 64.9029,
+      "pituusaste": 25.538456,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 191,
+      "nimi": "Otto",
+      "leveysaste": 65.842553,
+      "pituusaste": 24.187101,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 192,
+      "nimi": "Otto",
+      "leveysaste": 65.843103,
+      "pituusaste": 24.14432,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 193,
+      "nimi": "Otto",
+      "leveysaste": 65.844148,
+      "pituusaste": 24.188408,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 194,
+      "nimi": "Otto",
+      "leveysaste": 65.84595,
+      "pituusaste": 24.149131,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 195,
+      "nimi": "Otto",
+      "leveysaste": 65.846162,
+      "pituusaste": 24.149663,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 196,
+      "nimi": "Otto",
+      "leveysaste": 65.846544,
+      "pituusaste": 24.150387,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 197,
+      "nimi": "Otto",
+      "leveysaste": 65.857052,
+      "pituusaste": 24.171433,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 198,
+      "nimi": "Otto",
+      "leveysaste": 66.090223,
+      "pituusaste": 24.811205,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 199,
+      "nimi": "Otto",
+      "leveysaste": 67.803894,
+      "pituusaste": 24.800465,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 200,
+      "nimi": "Otto",
+      "leveysaste": 67.956022,
+      "pituusaste": 23.679979,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 201,
+      "nimi": "Otto - Talletus automaatti",
+      "leveysaste": 60.907688,
+      "pituusaste": 26.627873,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 202,
+      "nimi": "Otto ATM",
+      "leveysaste": 61.483887,
+      "pituusaste": 21.797014,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 203,
+      "nimi": "Otto ATM",
+      "leveysaste": 67.605533,
+      "pituusaste": 24.154407,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 204,
+      "nimi": "Otto Horninkatu Salo",
+      "leveysaste": 60.384953,
+      "pituusaste": 23.129969,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 205,
+      "nimi": "Otto K-Citymarket Salo",
+      "leveysaste": 60.390248,
+      "pituusaste": 23.127501,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 206,
+      "nimi": "Otto Kannuksen Osuuspankki",
+      "leveysaste": 63.902271,
+      "pituusaste": 23.91562,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 207,
+      "nimi": "Otto Kannuskuja 2",
+      "leveysaste": 60.279983,
+      "pituusaste": 25.109309,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 208,
+      "nimi": "Otto Kotka Karhulantie 36",
+      "leveysaste": 60.514874,
+      "pituusaste": 26.930695,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 209,
+      "nimi": "Otto Käteisnosto",
+      "leveysaste": 62.136698,
+      "pituusaste": 25.6736,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 210,
+      "nimi": "Otto Matkakeidas Hollola",
+      "leveysaste": 60.982846,
+      "pituusaste": 25.494562,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 211,
+      "nimi": "Otto Plus",
+      "leveysaste": 60.099051,
+      "pituusaste": 19.941944,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 212,
+      "nimi": "Otto Plus",
+      "leveysaste": 60.430105,
+      "pituusaste": 22.322718,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 213,
+      "nimi": "Otto Plus",
+      "leveysaste": 61.31342,
+      "pituusaste": 23.759056,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 214,
+      "nimi": "Otto Plus",
+      "leveysaste": 62.238782,
+      "pituusaste": 25.753716,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 215,
+      "nimi": "Otto Plus",
+      "leveysaste": 62.8919,
+      "pituusaste": 27.678458,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 216,
+      "nimi": "Otto Plus Maxinge",
+      "leveysaste": 60.131211,
+      "pituusaste": 19.933899,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 217,
+      "nimi": "Otto Porin Puuvilla",
+      "leveysaste": 61.495634,
+      "pituusaste": 21.80126,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 218,
+      "nimi": "Otto Talletus",
+      "leveysaste": 62.491484,
+      "pituusaste": 27.790113,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 219,
+      "nimi": "Otto Talletus",
+      "leveysaste": 63.57398,
+      "pituusaste": 27.179998,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 220,
+      "nimi": "Otto Turku Hämeentie 24",
+      "leveysaste": 60.455873,
+      "pituusaste": 22.297718,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 221,
+      "nimi": "Otto Vieremä",
+      "leveysaste": 63.742826,
+      "pituusaste": 27.001573,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 222,
+      "nimi": "Otto talletusautomaatti",
+      "leveysaste": 60.400783,
+      "pituusaste": 25.100829,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 223,
+      "nimi": "Otto-automaatti",
+      "leveysaste": 60.218798,
+      "pituusaste": 24.810973,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 224,
+      "nimi": "Otto-automaatti",
+      "leveysaste": 64.934861,
+      "pituusaste": 25.402213,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 225,
+      "nimi": "Otto-pankkiautomaatti",
+      "leveysaste": 61.498177,
+      "pituusaste": 21.807937,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 226,
+      "nimi": "Otto.",
+      "leveysaste": 60.187301,
+      "pituusaste": 24.953409,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 227,
+      "nimi": "Otto.",
+      "leveysaste": 60.206801,
+      "pituusaste": 25.145865,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 228,
+      "nimi": "Otto.",
+      "leveysaste": 60.207308,
+      "pituusaste": 25.144687,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 229,
+      "nimi": "Otto.",
+      "leveysaste": 60.226455,
+      "pituusaste": 24.853622,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 230,
+      "nimi": "Otto.",
+      "leveysaste": 60.380405,
+      "pituusaste": 25.09588,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 231,
+      "nimi": "Otto.",
+      "leveysaste": 60.404928,
+      "pituusaste": 25.105794,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 232,
+      "nimi": "Otto.",
+      "leveysaste": 60.472121,
+      "pituusaste": 25.088711,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 233,
+      "nimi": "Otto.",
+      "leveysaste": 60.492241,
+      "pituusaste": 25.092503,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 234,
+      "nimi": "Otto.",
+      "leveysaste": 60.552578,
+      "pituusaste": 24.966735,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 235,
+      "nimi": "Otto.",
+      "leveysaste": 60.688438,
+      "pituusaste": 26.805577,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 236,
+      "nimi": "Otto.",
+      "leveysaste": 60.693116,
+      "pituusaste": 26.839023,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 237,
+      "nimi": "Otto.",
+      "leveysaste": 60.732192,
+      "pituusaste": 24.778661,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 238,
+      "nimi": "Otto.",
+      "leveysaste": 60.732992,
+      "pituusaste": 24.778747,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 239,
+      "nimi": "Otto.",
+      "leveysaste": 60.765622,
+      "pituusaste": 26.786244,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 240,
+      "nimi": "Otto.",
+      "leveysaste": 60.866188,
+      "pituusaste": 26.705274,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 241,
+      "nimi": "Otto.",
+      "leveysaste": 60.868212,
+      "pituusaste": 25.274805,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 242,
+      "nimi": "Otto.",
+      "leveysaste": 60.874467,
+      "pituusaste": 26.740693,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 243,
+      "nimi": "Otto.",
+      "leveysaste": 60.876849,
+      "pituusaste": 26.65207,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 244,
+      "nimi": "Otto.",
+      "leveysaste": 60.950642,
+      "pituusaste": 25.812441,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 245,
+      "nimi": "Otto.",
+      "leveysaste": 60.982682,
+      "pituusaste": 25.662733,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 246,
+      "nimi": "Otto.",
+      "leveysaste": 60.983068,
+      "pituusaste": 25.657842,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 247,
+      "nimi": "Otto.",
+      "leveysaste": 60.985739,
+      "pituusaste": 25.578493,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 248,
+      "nimi": "Otto.",
+      "leveysaste": 61.165838,
+      "pituusaste": 23.871036,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 249,
+      "nimi": "Otto.",
+      "leveysaste": 61.497237,
+      "pituusaste": 23.758311,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 250,
+      "nimi": "Otto.",
+      "leveysaste": 61.498873,
+      "pituusaste": 23.756545,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 251,
+      "nimi": "Otto.",
+      "leveysaste": 61.500591,
+      "pituusaste": 23.779358,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 252,
+      "nimi": "Otto.",
+      "leveysaste": 61.578753,
+      "pituusaste": 26.021509,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 253,
+      "nimi": "Otto.",
+      "leveysaste": 61.86098,
+      "pituusaste": 24.828437,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 254,
+      "nimi": "Otto.",
+      "leveysaste": 61.863926,
+      "pituusaste": 25.18926,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 255,
+      "nimi": "Otto.",
+      "leveysaste": 61.864823,
+      "pituusaste": 25.193224,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 256,
+      "nimi": "Otto.",
+      "leveysaste": 61.867106,
+      "pituusaste": 25.200334,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 257,
+      "nimi": "Otto.",
+      "leveysaste": 62.09589,
+      "pituusaste": 26.079309,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 258,
+      "nimi": "Otto.",
+      "leveysaste": 62.215668,
+      "pituusaste": 25.72013,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 259,
+      "nimi": "Otto.",
+      "leveysaste": 62.217373,
+      "pituusaste": 25.721512,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 260,
+      "nimi": "Otto.",
+      "leveysaste": 62.227955,
+      "pituusaste": 25.771498,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 261,
+      "nimi": "Otto.",
+      "leveysaste": 62.229152,
+      "pituusaste": 25.680489,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 262,
+      "nimi": "Otto.",
+      "leveysaste": 62.241586,
+      "pituusaste": 25.745403,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 263,
+      "nimi": "Otto.",
+      "leveysaste": 62.242423,
+      "pituusaste": 25.747142,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 264,
+      "nimi": "Otto.",
+      "leveysaste": 62.242655,
+      "pituusaste": 25.746674,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 265,
+      "nimi": "Otto.",
+      "leveysaste": 62.242753,
+      "pituusaste": 25.747908,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 266,
+      "nimi": "Otto.",
+      "leveysaste": 62.243294,
+      "pituusaste": 25.7121,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 267,
+      "nimi": "Otto.",
+      "leveysaste": 62.243401,
+      "pituusaste": 25.748608,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 268,
+      "nimi": "Otto.",
+      "leveysaste": 62.247834,
+      "pituusaste": 25.876493,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 269,
+      "nimi": "Otto.",
+      "leveysaste": 62.251762,
+      "pituusaste": 25.769288,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 270,
+      "nimi": "Otto.",
+      "leveysaste": 62.252657,
+      "pituusaste": 24.453711,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 271,
+      "nimi": "Otto.",
+      "leveysaste": 62.254078,
+      "pituusaste": 25.764819,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 272,
+      "nimi": "Otto.",
+      "leveysaste": 62.255699,
+      "pituusaste": 25.18275,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 273,
+      "nimi": "Otto.",
+      "leveysaste": 62.259483,
+      "pituusaste": 25.779476,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 274,
+      "nimi": "Otto.",
+      "leveysaste": 62.260929,
+      "pituusaste": 26.195282,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 275,
+      "nimi": "Otto.",
+      "leveysaste": 62.264387,
+      "pituusaste": 25.775944,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 276,
+      "nimi": "Otto.",
+      "leveysaste": 62.270737,
+      "pituusaste": 25.799796,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 277,
+      "nimi": "Otto.",
+      "leveysaste": 62.287494,
+      "pituusaste": 27.080051,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 278,
+      "nimi": "Otto.",
+      "leveysaste": 62.300011,
+      "pituusaste": 27.161313,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 279,
+      "nimi": "Otto.",
+      "leveysaste": 62.301732,
+      "pituusaste": 25.712359,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 280,
+      "nimi": "Otto.",
+      "leveysaste": 62.302127,
+      "pituusaste": 26.480417,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 281,
+      "nimi": "Otto.",
+      "leveysaste": 62.41443,
+      "pituusaste": 25.954153,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 282,
+      "nimi": "Otto.",
+      "leveysaste": 62.564127,
+      "pituusaste": 25.851548,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 283,
+      "nimi": "Otto.",
+      "leveysaste": 62.597992,
+      "pituusaste": 29.758705,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 284,
+      "nimi": "Otto.",
+      "leveysaste": 62.602866,
+      "pituusaste": 25.72421,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 285,
+      "nimi": "Otto.",
+      "leveysaste": 62.603807,
+      "pituusaste": 25.72588,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 286,
+      "nimi": "Otto.",
+      "leveysaste": 62.604447,
+      "pituusaste": 25.725065,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 287,
+      "nimi": "Otto.",
+      "leveysaste": 62.779984,
+      "pituusaste": 25.806305,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 288,
+      "nimi": "Otto.",
+      "leveysaste": 63.317106,
+      "pituusaste": 30.031892,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 289,
+      "nimi": "Otto.",
+      "leveysaste": 63.318444,
+      "pituusaste": 30.0239,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 290,
+      "nimi": "Otto.",
+      "leveysaste": 63.548074,
+      "pituusaste": 23.693684,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 291,
+      "nimi": "Otto.",
+      "leveysaste": 66.040504,
+      "pituusaste": 24.018725,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 292,
+      "nimi": "Otto.",
+      "leveysaste": 66.500715,
+      "pituusaste": 25.714783,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 293,
+      "nimi": "Otto. Mankkaa",
+      "leveysaste": 60.194795,
+      "pituusaste": 24.767283,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 294,
+      "nimi": "Otto. Sahalahti",
+      "leveysaste": 61.475925,
+      "pituusaste": 24.329003,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 295,
+      "nimi": "Otto. Tähtihovi",
+      "leveysaste": 61.218615,
+      "pituusaste": 26.013088,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 296,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.17114,
+      "pituusaste": 24.938594,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 297,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.178823,
+      "pituusaste": 24.949647,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 298,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.179417,
+      "pituusaste": 24.949334,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 299,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.194125,
+      "pituusaste": 25.033591,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 300,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.202084,
+      "pituusaste": 25.058815,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 301,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.209509,
+      "pituusaste": 25.082143,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 302,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.218608,
+      "pituusaste": 25.103127,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 303,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.2729,
+      "pituusaste": 24.971976,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 304,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.293276,
+      "pituusaste": 24.062984,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 305,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.375333,
+      "pituusaste": 25.268385,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 306,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.380343,
+      "pituusaste": 23.616177,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 307,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.465361,
+      "pituusaste": 25.119356,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 308,
+      "nimi": "Otto. automaatti",
+      "leveysaste": 60.93496,
+      "pituusaste": 25.634318,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 309,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.170498,
+      "pituusaste": 24.945503,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 310,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.174033,
+      "pituusaste": 24.953417,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 311,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.187913,
+      "pituusaste": 24.961147,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 312,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.206011,
+      "pituusaste": 24.877054,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 313,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.211179,
+      "pituusaste": 25.082387,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 314,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.215939,
+      "pituusaste": 24.958249,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 315,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.221596,
+      "pituusaste": 25.139167,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 316,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.221965,
+      "pituusaste": 24.948544,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 317,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.224084,
+      "pituusaste": 25.074553,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 318,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.228747,
+      "pituusaste": 24.963435,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 319,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.230139,
+      "pituusaste": 24.882861,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 320,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.240832,
+      "pituusaste": 24.740356,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 321,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.29098,
+      "pituusaste": 24.964947,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 322,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.472633,
+      "pituusaste": 25.089397,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 323,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.476744,
+      "pituusaste": 25.102329,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 324,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 60.477899,
+      "pituusaste": 25.105004,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 325,
+      "nimi": "Otto. automaatti (ATM)",
+      "leveysaste": 61.131537,
+      "pituusaste": 21.538888,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 326,
+      "nimi": "OttoPlus",
+      "leveysaste": 60.179666,
+      "pituusaste": 25.051945,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 327,
+      "nimi": "OttoPlus",
+      "leveysaste": 60.278673,
+      "pituusaste": 24.854095,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 328,
+      "nimi": "OttoPlus",
+      "leveysaste": 60.313177,
+      "pituusaste": 24.846982,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 329,
+      "nimi": "OttoPlus",
+      "leveysaste": 60.453052,
+      "pituusaste": 22.286901,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 330,
+      "nimi": "OttoPlus",
+      "leveysaste": 60.850622,
+      "pituusaste": 23.055723,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 331,
+      "nimi": "OttoPlus",
+      "leveysaste": 61.001732,
+      "pituusaste": 24.484242,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 332,
+      "nimi": "OttoPlus",
+      "leveysaste": 61.769969,
+      "pituusaste": 23.064431,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 333,
+      "nimi": "OttoPlus",
+      "leveysaste": 62.274969,
+      "pituusaste": 21.380646,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 334,
+      "nimi": "OttoPlus",
+      "leveysaste": 62.287077,
+      "pituusaste": 25.720068,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 335,
+      "nimi": "OttoPlus",
+      "leveysaste": 63.556105,
+      "pituusaste": 29.10698,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 336,
+      "nimi": "OttoPlus automaatti",
+      "leveysaste": 61.985813,
+      "pituusaste": 24.070836,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 337,
+      "nimi": "OttoPlus-automaatti",
+      "leveysaste": 63.840455,
+      "pituusaste": 23.104067,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 338,
+      "nimi": "Saldopiste",
+      "leveysaste": 60.195958,
+      "pituusaste": 24.960314,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 339,
+      "nimi": "Talletus Otto",
+      "leveysaste": 62.303116,
+      "pituusaste": 27.165713,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 340,
+      "nimi": "Talletus Otto",
+      "leveysaste": 63.555758,
+      "pituusaste": 27.190365,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 341,
+      "nimi": "Talletus Otto.",
+      "leveysaste": 62.24235,
+      "pituusaste": 25.747548,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 342,
+      "nimi": "Talletus-Otto -automaatti",
+      "leveysaste": 62.731106,
+      "pituusaste": 22.599232,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 343,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.163666,
+      "pituusaste": 24.910874,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 344,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.175638,
+      "pituusaste": 24.804433,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 345,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.231219,
+      "pituusaste": 24.934263,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 346,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.260067,
+      "pituusaste": 24.853224,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 347,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.381223,
+      "pituusaste": 24.749081,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 348,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.456309,
+      "pituusaste": 26.22762,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 349,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.733357,
+      "pituusaste": 24.778721,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 350,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.851972,
+      "pituusaste": 23.056952,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 351,
+      "nimi": "TalletusOtto",
+      "leveysaste": 60.993943,
+      "pituusaste": 24.456539,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 352,
+      "nimi": "TalletusOtto",
+      "leveysaste": 61.172138,
+      "pituusaste": 25.548227,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 353,
+      "nimi": "TalletusOtto",
+      "leveysaste": 62.287792,
+      "pituusaste": 25.714011,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 354,
+      "nimi": "TalletusOtto",
+      "leveysaste": 62.288355,
+      "pituusaste": 25.717261,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 355,
+      "nimi": "TalletusOtto",
+      "leveysaste": 63.318518,
+      "pituusaste": 30.025295,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 356,
+      "nimi": "TalletusOtto",
+      "leveysaste": 64.901843,
+      "pituusaste": 25.539015,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 357,
+      "nimi": "TalletusOtto",
+      "leveysaste": 65.012917,
+      "pituusaste": 25.471435,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 358,
+      "nimi": "TalletusOtto",
+      "leveysaste": 65.077686,
+      "pituusaste": 25.447366,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    },
+    {
+      "id": 359,
+      "nimi": "TalletusOtto.automaatti (ATM)",
+      "leveysaste": 60.469986,
+      "pituusaste": 25.085728,
+      "osm_avain": "amenity",
+      "osm_arvo": "atm",
+      "osm_luokka": "amenity=atm"
+    }
+  ],
+  "meta": {
+    "title": "Pankkiautomaatit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Pankkiautomaatit Suomessa — 359 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=atm`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 359 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Pankkiautomaatit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Pankkiautomaatit – Suomi (OpenStreetMap) — 359 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 359 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

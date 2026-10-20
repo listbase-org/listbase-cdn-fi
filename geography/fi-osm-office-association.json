@@ -1,0 +1,2626 @@
+{
+  "id": "fi-osm-office-association",
+  "name": "Yhdistysten toimipisteet – Suomi (OpenStreetMap)",
+  "title": "Yhdistysten toimipisteet – Suomi (OpenStreetMap)",
+  "description": "Yhdistysten toimipisteet Suomessa — 285 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=association`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 3. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "ABC Nuorisotoiminta Yhdistys Ry",
+      "leveysaste": 60.450677,
+      "pituusaste": 22.352419,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 2,
+      "nimi": "ADHD-liitto",
+      "leveysaste": 60.243438,
+      "pituusaste": 24.86346,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 3,
+      "nimi": "Aalto-yliopiston Sähköinsinöörikilta",
+      "leveysaste": 60.187052,
+      "pituusaste": 24.817539,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 4,
+      "nimi": "Aalto-yliopiston ylioppilaskunta",
+      "leveysaste": 60.18468,
+      "pituusaste": 24.830381,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 5,
+      "nimi": "Aalto-yliopiston ylioppilaskunta",
+      "leveysaste": 60.184694,
+      "pituusaste": 24.830357,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 6,
+      "nimi": "Actors academy Finland",
+      "leveysaste": 60.158265,
+      "pituusaste": 24.933919,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 7,
+      "nimi": "Adamas ry",
+      "leveysaste": 60.455606,
+      "pituusaste": 22.285565,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 8,
+      "nimi": "Affekti",
+      "leveysaste": 60.454743,
+      "pituusaste": 22.287212,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 9,
+      "nimi": "Aivovammayhdistys AVY",
+      "leveysaste": 60.249074,
+      "pituusaste": 25.008422,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 10,
+      "nimi": "Akademiska Sångföreningen",
+      "leveysaste": 60.174146,
+      "pituusaste": 24.959101,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 11,
+      "nimi": "Allianssin nuorisovaihto",
+      "leveysaste": 60.199328,
+      "pituusaste": 24.942946,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 12,
+      "nimi": "Allun mökki",
+      "leveysaste": 60.299362,
+      "pituusaste": 25.054745,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 13,
+      "nimi": "Allun mökki",
+      "leveysaste": 60.299371,
+      "pituusaste": 25.054769,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 14,
+      "nimi": "Anglica",
+      "leveysaste": 60.4569,
+      "pituusaste": 22.28641,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 15,
+      "nimi": "Arboretum Mustila - Mustilan kotikunnassäätiö",
+      "leveysaste": 60.730389,
+      "pituusaste": 26.423749,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 16,
+      "nimi": "Arcada studerandekår (ASK)",
+      "leveysaste": 60.20225,
+      "pituusaste": 24.968412,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 17,
+      "nimi": "Arcus ry",
+      "leveysaste": 60.4826,
+      "pituusaste": 22.252296,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 18,
+      "nimi": "Aseman lapset RY",
+      "leveysaste": 60.167248,
+      "pituusaste": 24.936137,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 19,
+      "nimi": "Asteriski ry",
+      "leveysaste": 60.455603,
+      "pituusaste": 22.285692,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 20,
+      "nimi": "Automaatio- ja systeemitekniikan kilta ry",
+      "leveysaste": 60.187279,
+      "pituusaste": 24.818445,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 21,
+      "nimi": "Avartti - säätiö",
+      "leveysaste": 60.172982,
+      "pituusaste": 24.948225,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 22,
+      "nimi": "BMOL RY",
+      "leveysaste": 60.172456,
+      "pituusaste": 24.92021,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 23,
+      "nimi": "Bunsen ry",
+      "leveysaste": 62.604035,
+      "pituusaste": 29.738201,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 24,
+      "nimi": "Cor-huset",
+      "leveysaste": 60.202479,
+      "pituusaste": 24.968191,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 25,
+      "nimi": "Data Guild ry",
+      "leveysaste": 60.186833,
+      "pituusaste": 24.821454,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 26,
+      "nimi": "Delta",
+      "leveysaste": 60.454763,
+      "pituusaste": 22.285718,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 27,
+      "nimi": "Design Forum Finland",
+      "leveysaste": 60.166569,
+      "pituusaste": 24.950962,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 28,
+      "nimi": "Digit ry",
+      "leveysaste": 60.455676,
+      "pituusaste": 22.285759,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 29,
+      "nimi": "ESN Uni Turku",
+      "leveysaste": 60.45473,
+      "pituusaste": 22.28725,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 30,
+      "nimi": "Eettisen kaupan puolesta Eetti ry",
+      "leveysaste": 60.17744,
+      "pituusaste": 24.949632,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 31,
+      "nimi": "Ehkäisevä päihdetyö EHYT ry",
+      "leveysaste": 60.197166,
+      "pituusaste": 24.948106,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 32,
+      "nimi": "Elämä ja valo",
+      "leveysaste": 63.668669,
+      "pituusaste": 27.522071,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 33,
+      "nimi": "Epilepsialiitto ry",
+      "leveysaste": 60.254239,
+      "pituusaste": 25.014476,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 34,
+      "nimi": "Epsilon ry",
+      "leveysaste": 62.604555,
+      "pituusaste": 29.740689,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 35,
+      "nimi": "Espoon Metallityöväen ammattiosasto 271 ry",
+      "leveysaste": 60.152792,
+      "pituusaste": 24.634171,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 36,
+      "nimi": "Espoon mielenterveysyhdistys EMY",
+      "leveysaste": 60.205593,
+      "pituusaste": 24.650269,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 37,
+      "nimi": "Espoon ympäristöyhdistys",
+      "leveysaste": 60.205302,
+      "pituusaste": 24.650872,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 38,
+      "nimi": "Etelä-Karjalan Muisti ry / Etelä-Karjalan Muistiluotsi",
+      "leveysaste": 61.060006,
+      "pituusaste": 28.197558,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 39,
+      "nimi": "Etelä-Pohjanmaan aivovammayhdistys ry",
+      "leveysaste": 62.934294,
+      "pituusaste": 22.51699,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 40,
+      "nimi": "Eteläkymen Työttömät Ry",
+      "leveysaste": 60.566038,
+      "pituusaste": 27.193474,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 41,
+      "nimi": "Eurooppanuoret ry",
+      "leveysaste": 60.177412,
+      "pituusaste": 24.949586,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 42,
+      "nimi": "European Youth Parliament Finland – EYP Finland ry",
+      "leveysaste": 60.199329,
+      "pituusaste": 24.942751,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 43,
+      "nimi": "Fanttimarina",
+      "leveysaste": 64.685641,
+      "pituusaste": 24.458413,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 44,
+      "nimi": "Fida International",
+      "leveysaste": 60.211895,
+      "pituusaste": 25.050473,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 45,
+      "nimi": "Fingo ry",
+      "leveysaste": 60.197126,
+      "pituusaste": 24.948063,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 46,
+      "nimi": "Finlands Svenska Scouter rf",
+      "leveysaste": 60.18487,
+      "pituusaste": 24.91884,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 47,
+      "nimi": "Finlands Svenska Ungdomsförbund FSU",
+      "leveysaste": 60.165672,
+      "pituusaste": 24.9416,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 48,
+      "nimi": "Finnet-liitto ry",
+      "leveysaste": 60.162183,
+      "pituusaste": 24.934666,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 49,
+      "nimi": "Fortis ry",
+      "leveysaste": 62.895716,
+      "pituusaste": 27.640744,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 50,
+      "nimi": "Fyysikkokilta ry",
+      "leveysaste": 60.186733,
+      "pituusaste": 24.828177,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 51,
+      "nimi": "Gramex",
+      "leveysaste": 60.16406,
+      "pituusaste": 24.944872,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 52,
+      "nimi": "Helsingin Kauppakamari",
+      "leveysaste": 60.166989,
+      "pituusaste": 24.937307,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 53,
+      "nimi": "Helsingin Riistanhoitoyhdistys",
+      "leveysaste": 60.263512,
+      "pituusaste": 25.028542,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 54,
+      "nimi": "Helsingin Tarmo",
+      "leveysaste": 60.178572,
+      "pituusaste": 24.947274,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 55,
+      "nimi": "Helsingin kaupunki, Gerontologinen sosiaalityö, ...",
+      "leveysaste": 60.185747,
+      "pituusaste": 24.962365,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 56,
+      "nimi": "Helsingin liikenneturvallisuusyhdistys",
+      "leveysaste": 60.194777,
+      "pituusaste": 24.965059,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 57,
+      "nimi": "Helsingin metallityöväen ammattiosasto",
+      "leveysaste": 60.178034,
+      "pituusaste": 24.946675,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 58,
+      "nimi": "Helsingin seudun teollisuusasentajat Ry",
+      "leveysaste": 60.211464,
+      "pituusaste": 25.081411,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 59,
+      "nimi": "Helsingin yliopiston ylioppilaskunta",
+      "leveysaste": 60.169405,
+      "pituusaste": 24.939831,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 60,
+      "nimi": "Helsinki Think Tank",
+      "leveysaste": 60.210883,
+      "pituusaste": 24.719474,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 61,
+      "nimi": "Hengitysliitto",
+      "leveysaste": 60.223385,
+      "pituusaste": 24.946197,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 62,
+      "nimi": "Hnmky",
+      "leveysaste": 60.172666,
+      "pituusaste": 24.948197,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 63,
+      "nimi": "Humanitas",
+      "leveysaste": 60.456911,
+      "pituusaste": 22.286409,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 64,
+      "nimi": "Hyeena ry",
+      "leveysaste": 62.892349,
+      "pituusaste": 27.633422,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 65,
+      "nimi": "Hämeen Lastenliitto ry",
+      "leveysaste": 60.996518,
+      "pituusaste": 24.456284,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 66,
+      "nimi": "Hämeen Partiopiiri ry, Tampereen Partiotoimisto",
+      "leveysaste": 61.495273,
+      "pituusaste": 23.779508,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 67,
+      "nimi": "Hämeenlinnan Härmä ry",
+      "leveysaste": 61.000112,
+      "pituusaste": 24.47792,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 68,
+      "nimi": "Hämeenlinnan Kaupunkikeskustayhdistys ry",
+      "leveysaste": 60.995914,
+      "pituusaste": 24.46501,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 69,
+      "nimi": "Hämeenlinnan Uimaseura ry",
+      "leveysaste": 60.99171,
+      "pituusaste": 24.466267,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 70,
+      "nimi": "ISYY",
+      "leveysaste": 62.893714,
+      "pituusaste": 27.63927,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 71,
+      "nimi": "ITU",
+      "leveysaste": 60.448752,
+      "pituusaste": 22.273107,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 72,
+      "nimi": "Iitin Pyrintö ry",
+      "leveysaste": 60.889309,
+      "pituusaste": 26.340386,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 73,
+      "nimi": "Index",
+      "leveysaste": 60.458578,
+      "pituusaste": 22.286301,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 74,
+      "nimi": "Informaatioverkostojen kilta Athene ry",
+      "leveysaste": 60.186804,
+      "pituusaste": 24.821695,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 75,
+      "nimi": "Infå vid Åbo Akademi r.f.",
+      "leveysaste": 60.455524,
+      "pituusaste": 22.285619,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 76,
+      "nimi": "Inkubio ry",
+      "leveysaste": 60.186635,
+      "pituusaste": 24.828119,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 77,
+      "nimi": "Inkubio ry",
+      "leveysaste": 60.186728,
+      "pituusaste": 24.828185,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 78,
+      "nimi": "Into Etsivä nuorisotyö ja työpajatoiminta ry",
+      "leveysaste": 60.200827,
+      "pituusaste": 24.937349,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 79,
+      "nimi": "Invalidiliitto",
+      "leveysaste": 60.205189,
+      "pituusaste": 24.899749,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 80,
+      "nimi": "Iso Kirja ry",
+      "leveysaste": 62.211911,
+      "pituusaste": 24.794527,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 81,
+      "nimi": "JHL",
+      "leveysaste": 60.185936,
+      "pituusaste": 24.960561,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 82,
+      "nimi": "Joensuun Metsäylioppilaat ry",
+      "leveysaste": 62.605289,
+      "pituusaste": 29.740602,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 83,
+      "nimi": "Jyvässeudun työllistämisyhdistys ry",
+      "leveysaste": 62.247808,
+      "pituusaste": 25.758771,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 84,
+      "nimi": "JäPS toimisto",
+      "leveysaste": 60.497106,
+      "pituusaste": 25.074385,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 85,
+      "nimi": "JäPS toimisto",
+      "leveysaste": 60.497124,
+      "pituusaste": 25.074386,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 86,
+      "nimi": "Järvi-Suomen Lastenliitto",
+      "leveysaste": 62.2388,
+      "pituusaste": 25.739354,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 87,
+      "nimi": "Järvi-Suomen partiolaiset ry",
+      "leveysaste": 62.247258,
+      "pituusaste": 25.749641,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 88,
+      "nimi": "KY Espilä",
+      "leveysaste": 60.187501,
+      "pituusaste": 24.822401,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 89,
+      "nimi": "KY Espilä",
+      "leveysaste": 60.187507,
+      "pituusaste": 24.822421,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 90,
+      "nimi": "Kaakkois-Suomen Sydänpiiri ry",
+      "leveysaste": 61.059993,
+      "pituusaste": 28.197428,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 91,
+      "nimi": "Kalevan Rastin toimisto",
+      "leveysaste": 62.605935,
+      "pituusaste": 29.756823,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 92,
+      "nimi": "Kansainvälinen vapaaehtoistyö ry",
+      "leveysaste": 60.199905,
+      "pituusaste": 24.936168,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 93,
+      "nimi": "Kansan arkisto",
+      "leveysaste": 60.181214,
+      "pituusaste": 24.954221,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 94,
+      "nimi": "Kanta",
+      "leveysaste": 60.454567,
+      "pituusaste": 22.286931,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 95,
+      "nimi": "Kanta-Hämeen Muistiyhdistys ry",
+      "leveysaste": 60.996794,
+      "pituusaste": 24.461266,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 96,
+      "nimi": "Kanteleliitto ry",
+      "leveysaste": 60.184189,
+      "pituusaste": 24.959186,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 97,
+      "nimi": "Kantolanniemen siirtolapuutarhayhdistys ry",
+      "leveysaste": 60.989501,
+      "pituusaste": 24.477226,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 98,
+      "nimi": "Karjalainen Nuorisoliitto ry",
+      "leveysaste": 60.239295,
+      "pituusaste": 24.875298,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 99,
+      "nimi": "Karjalaisen kulttuurin edistämissäätiö",
+      "leveysaste": 62.602094,
+      "pituusaste": 29.758954,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 100,
+      "nimi": "Kassos ry",
+      "leveysaste": 62.604015,
+      "pituusaste": 29.738428,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 101,
+      "nimi": "Kasvatuksen ja nuorisotyön asiantuntijat KNT ry",
+      "leveysaste": 60.200818,
+      "pituusaste": 24.937232,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 102,
+      "nimi": "Kehittämiskeskus Opinkirjo",
+      "leveysaste": 60.171792,
+      "pituusaste": 24.956796,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 103,
+      "nimi": "Kehitysvammaisten Tukiliitto, Tulppaanitalo keskustoimisto",
+      "leveysaste": 61.496565,
+      "pituusaste": 23.778503,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 104,
+      "nimi": "Keliakialiitto",
+      "leveysaste": 61.497377,
+      "pituusaste": 23.777911,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 105,
+      "nimi": "Keski-Pohjanmaan liikunta ry.",
+      "leveysaste": 63.839006,
+      "pituusaste": 23.13112,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 106,
+      "nimi": "Keski-Suomen Näkövammaiset ry",
+      "leveysaste": 62.250409,
+      "pituusaste": 25.739881,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 107,
+      "nimi": "Keski-Suomen aivovammahdistys ry",
+      "leveysaste": 62.244035,
+      "pituusaste": 25.74627,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 108,
+      "nimi": "Kivenlahden Venekerho Ry",
+      "leveysaste": 60.156307,
+      "pituusaste": 24.624142,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 109,
+      "nimi": "Kriisikeskus Osviitta",
+      "leveysaste": 61.494428,
+      "pituusaste": 23.772785,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 110,
+      "nimi": "Kristikka",
+      "leveysaste": 60.450949,
+      "pituusaste": 22.253252,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 111,
+      "nimi": "Kristityt Yhdessä",
+      "leveysaste": 60.204298,
+      "pituusaste": 24.899534,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 112,
+      "nimi": "Kritiikki",
+      "leveysaste": 60.454571,
+      "pituusaste": 22.286911,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 113,
+      "nimi": "Kuhmon Peurat",
+      "leveysaste": 64.127693,
+      "pituusaste": 29.517259,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 114,
+      "nimi": "Kulti ry",
+      "leveysaste": 62.89179,
+      "pituusaste": 27.633976,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 115,
+      "nimi": "Kumppanuuskeskuksen neuvontapiste",
+      "leveysaste": 65.005998,
+      "pituusaste": 25.470692,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 116,
+      "nimi": "Kumppanuuskeskuksen sivutoimipaikka",
+      "leveysaste": 65.008961,
+      "pituusaste": 25.469165,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 117,
+      "nimi": "Kumppanuustalo Kulma",
+      "leveysaste": 60.456402,
+      "pituusaste": 26.220931,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 118,
+      "nimi": "Kuopion Biljardiklubi",
+      "leveysaste": 62.897411,
+      "pituusaste": 27.701608,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 119,
+      "nimi": "Kuopion Ensikotiyhdistys Ry",
+      "leveysaste": 62.892397,
+      "pituusaste": 27.69048,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 120,
+      "nimi": "Kuopion Reumayhdistys ry",
+      "leveysaste": 62.894722,
+      "pituusaste": 27.658065,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 121,
+      "nimi": "Kupittaan Henrikinpojat",
+      "leveysaste": 60.436498,
+      "pituusaste": 22.296114,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 122,
+      "nimi": "Kutu",
+      "leveysaste": 60.456899,
+      "pituusaste": 22.286386,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 123,
+      "nimi": "Kuudestaan",
+      "leveysaste": 62.570086,
+      "pituusaste": 23.602938,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 124,
+      "nimi": "Kynnys ry",
+      "leveysaste": 60.177771,
+      "pituusaste": 24.949694,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 125,
+      "nimi": "Kynnys ry Aluetoiminta Jyväskylä",
+      "leveysaste": 62.881048,
+      "pituusaste": 27.681717,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 126,
+      "nimi": "Kynnys ry Itsenäisen Elämän Keskus Kuopio",
+      "leveysaste": 62.881071,
+      "pituusaste": 27.68167,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 127,
+      "nimi": "Kynnys ry Itsenäisen Elämän Keskus Oulu",
+      "leveysaste": 65.006105,
+      "pituusaste": 25.470722,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 128,
+      "nimi": "Kynnys ry Itsenäisen Elämän Keskus Turku",
+      "leveysaste": 60.453923,
+      "pituusaste": 22.270943,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 129,
+      "nimi": "Kynnys ry Itsenäisen elämän keskus Tampere",
+      "leveysaste": 61.498205,
+      "pituusaste": 23.804464,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 130,
+      "nimi": "Käsillä ry",
+      "leveysaste": 62.889162,
+      "pituusaste": 27.683506,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 131,
+      "nimi": "Lastenliitto Helsinki",
+      "leveysaste": 60.167387,
+      "pituusaste": 24.934079,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 132,
+      "nimi": "Leader Pohjoisin Lappi",
+      "leveysaste": 67.418874,
+      "pituusaste": 26.592445,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 133,
+      "nimi": "Leader Tornedalen",
+      "leveysaste": 66.386604,
+      "pituusaste": 23.657798,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 134,
+      "nimi": "Leikkiväki ry Kallio",
+      "leveysaste": 60.183491,
+      "pituusaste": 24.948657,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 135,
+      "nimi": "Leikkiväki ry Malmi",
+      "leveysaste": 60.251892,
+      "pituusaste": 25.008933,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 136,
+      "nimi": "Lepaan Oppilaskunta ry",
+      "leveysaste": 61.114437,
+      "pituusaste": 24.327664,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 137,
+      "nimi": "Lex",
+      "leveysaste": 60.454664,
+      "pituusaste": 22.287197,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 138,
+      "nimi": "Lounais-Suomen Partiopiiri ry",
+      "leveysaste": 60.456307,
+      "pituusaste": 22.264081,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 139,
+      "nimi": "Luomupiiri",
+      "leveysaste": 60.454763,
+      "pituusaste": 22.287268,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 140,
+      "nimi": "Luustoliitto",
+      "leveysaste": 60.163517,
+      "pituusaste": 24.923042,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 141,
+      "nimi": "Länsi-Uudenmaan vesi ja ympäristö ry",
+      "leveysaste": 60.242084,
+      "pituusaste": 24.053907,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 142,
+      "nimi": "Machina",
+      "leveysaste": 60.45568,
+      "pituusaste": 22.28562,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 143,
+      "nimi": "Makli Ry",
+      "leveysaste": 60.17499,
+      "pituusaste": 24.956619,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 144,
+      "nimi": "Mannerheimin lastensuojeluliiton Varissuon paikallisyhdistys",
+      "leveysaste": 60.448985,
+      "pituusaste": 22.359663,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 145,
+      "nimi": "Martha-förbundet",
+      "leveysaste": 60.158423,
+      "pituusaste": 24.914828,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 146,
+      "nimi": "Matarankatu 6 B doors",
+      "leveysaste": 62.247846,
+      "pituusaste": 25.758771,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 147,
+      "nimi": "Merimieseläkekassa",
+      "leveysaste": 60.169057,
+      "pituusaste": 24.961397,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 148,
+      "nimi": "Metsänhoitoyhdistys Kanta-Häme ry",
+      "leveysaste": 60.718615,
+      "pituusaste": 24.440948,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 149,
+      "nimi": "Mikrovillus ry",
+      "leveysaste": 62.603585,
+      "pituusaste": 29.739516,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 150,
+      "nimi": "MyPa kerhotalo",
+      "leveysaste": 60.77249,
+      "pituusaste": 26.787388,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 151,
+      "nimi": "MyPa kerhotalo",
+      "leveysaste": 60.772509,
+      "pituusaste": 26.787481,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 152,
+      "nimi": "Mynämäen Maahiset ry",
+      "leveysaste": 60.678694,
+      "pituusaste": 21.994043,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 153,
+      "nimi": "Natur och Miljö",
+      "leveysaste": 60.167255,
+      "pituusaste": 24.936125,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 154,
+      "nimi": "Nicehearts ry",
+      "leveysaste": 60.295172,
+      "pituusaste": 25.043175,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 155,
+      "nimi": "Nuorisotutkimusseura ry",
+      "leveysaste": 60.199296,
+      "pituusaste": 24.942861,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 156,
+      "nimi": "Oidipus ry",
+      "leveysaste": 62.604146,
+      "pituusaste": 29.738754,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 157,
+      "nimi": "Opiskelijakunta TUO",
+      "leveysaste": 60.447905,
+      "pituusaste": 22.29905,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 158,
+      "nimi": "Opossumi ry",
+      "leveysaste": 62.604108,
+      "pituusaste": 29.738564,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 159,
+      "nimi": "Osakuntien kerhohuone",
+      "leveysaste": 60.454907,
+      "pituusaste": 22.287359,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 160,
+      "nimi": "Osakuntien olohuone",
+      "leveysaste": 60.454831,
+      "pituusaste": 22.287305,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 161,
+      "nimi": "P-klubi",
+      "leveysaste": 60.454611,
+      "pituusaste": 22.286939,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 162,
+      "nimi": "PHT palkansaajien hyvinvointi ja terveys ry",
+      "leveysaste": 60.184256,
+      "pituusaste": 24.96145,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 163,
+      "nimi": "POHUn toimisto",
+      "leveysaste": 60.23379,
+      "pituusaste": 24.875871,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 164,
+      "nimi": "Padasjoen Yrittäjät ry",
+      "leveysaste": 61.350925,
+      "pituusaste": 25.279733,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 165,
+      "nimi": "Partiopoikalippukunta Turun Sinikotkat ry",
+      "leveysaste": 60.453993,
+      "pituusaste": 22.274269,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 166,
+      "nimi": "Pelastusarmeija",
+      "leveysaste": 60.16251,
+      "pituusaste": 24.936862,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 167,
+      "nimi": "Peräseinäjoen Toive ry",
+      "leveysaste": 62.564869,
+      "pituusaste": 23.05989,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 168,
+      "nimi": "Pirkanmaan Lastensuojeluliitto",
+      "leveysaste": 61.500017,
+      "pituusaste": 23.756617,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 169,
+      "nimi": "Pirkanmaan Syöpäyhdistys",
+      "leveysaste": 61.498138,
+      "pituusaste": 23.76946,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 170,
+      "nimi": "Pixelache",
+      "leveysaste": 60.186913,
+      "pituusaste": 24.973922,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 171,
+      "nimi": "Pohjois-Karjalan Liikunta ry",
+      "leveysaste": 62.598418,
+      "pituusaste": 29.744387,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 172,
+      "nimi": "Pohjois-Karjalan kirjailijayhdistys Ukri ry",
+      "leveysaste": 62.604165,
+      "pituusaste": 29.755012,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 173,
+      "nimi": "Pohjois-Karjalan näkövammaiset Ry",
+      "leveysaste": 62.598692,
+      "pituusaste": 29.758579,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 174,
+      "nimi": "Pohjois-Karjalan seurakoirat poks Ry",
+      "leveysaste": 62.616106,
+      "pituusaste": 29.747926,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 175,
+      "nimi": "Pohjois-Pohjanmaan Lastenliitto",
+      "leveysaste": 65.006194,
+      "pituusaste": 25.471602,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 176,
+      "nimi": "Poikkeus ry",
+      "leveysaste": 62.604053,
+      "pituusaste": 29.738616,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 177,
+      "nimi": "Ponnistus jk",
+      "leveysaste": 60.185545,
+      "pituusaste": 24.960516,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 178,
+      "nimi": "Praxis ry",
+      "leveysaste": 62.604487,
+      "pituusaste": 29.740746,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 179,
+      "nimi": "Preemio ry",
+      "leveysaste": 62.895703,
+      "pituusaste": 27.641897,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 180,
+      "nimi": "Presto Paloturvallisuus",
+      "leveysaste": 65.043282,
+      "pituusaste": 25.549892,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 181,
+      "nimi": "Pro Lapinlahti mielenterveysseura ry",
+      "leveysaste": 60.167625,
+      "pituusaste": 24.912183,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 182,
+      "nimi": "ProAgria Etelä-Pohjanmaa",
+      "leveysaste": 63.100396,
+      "pituusaste": 23.063099,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 183,
+      "nimi": "Prometheus-leirin tuki ry",
+      "leveysaste": 60.172246,
+      "pituusaste": 24.930435,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 184,
+      "nimi": "Pulterit ry",
+      "leveysaste": 60.451177,
+      "pituusaste": 22.278795,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 185,
+      "nimi": "Punainen Risti",
+      "leveysaste": 62.889856,
+      "pituusaste": 27.680598,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 186,
+      "nimi": "Päijät-Hämeen Yrittäjien toimisto",
+      "leveysaste": 60.982873,
+      "pituusaste": 25.660716,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 187,
+      "nimi": "Pääkaupunkiseudun Partiolaiset ry",
+      "leveysaste": 60.184824,
+      "pituusaste": 24.918903,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 188,
+      "nimi": "Raamatunkäännösinstituutti",
+      "leveysaste": 60.182519,
+      "pituusaste": 24.947148,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 189,
+      "nimi": "Rajamäen Metsänkävijät r.y.",
+      "leveysaste": 60.531321,
+      "pituusaste": 24.753735,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 190,
+      "nimi": "Rajaseutuliitto ry",
+      "leveysaste": 60.174057,
+      "pituusaste": 24.926824,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 191,
+      "nimi": "Rakennusliiton Raahen os.222",
+      "leveysaste": 64.684837,
+      "pituusaste": 24.48094,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 192,
+      "nimi": "Rakennusliitto",
+      "leveysaste": 60.177495,
+      "pituusaste": 24.949654,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 193,
+      "nimi": "Rakennusliitto",
+      "leveysaste": 60.44996,
+      "pituusaste": 22.279046,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 194,
+      "nimi": "Rakennusliitto Ry",
+      "leveysaste": 62.886827,
+      "pituusaste": 27.690857,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 195,
+      "nimi": "Rakennustarkastusyhdistys RTY ry",
+      "leveysaste": 60.204516,
+      "pituusaste": 25.033757,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 196,
+      "nimi": "Retikka ry",
+      "leveysaste": 62.895654,
+      "pituusaste": 27.641853,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 197,
+      "nimi": "Ristin Tuki",
+      "leveysaste": 60.186419,
+      "pituusaste": 24.966911,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 198,
+      "nimi": "SAK:n Loimaan Seudun Ammatillinen Paikallisjärjestö",
+      "leveysaste": 60.852241,
+      "pituusaste": 23.058244,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 199,
+      "nimi": "SAMHA ry - Substance Abuse and Mental Health Association",
+      "leveysaste": 60.20865,
+      "pituusaste": 25.083019,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 200,
+      "nimi": "SAMS",
+      "leveysaste": 60.158813,
+      "pituusaste": 24.915794,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 201,
+      "nimi": "SF-C Jokiranta",
+      "leveysaste": 62.178582,
+      "pituusaste": 27.785119,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 202,
+      "nimi": "SF-Caravan Helsinki",
+      "leveysaste": 60.20967,
+      "pituusaste": 24.964312,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 203,
+      "nimi": "SLS Svenska litteratursällskapet i Finland",
+      "leveysaste": 60.170799,
+      "pituusaste": 24.955806,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 204,
+      "nimi": "SPR Herttoniemi Korttelitupa",
+      "leveysaste": 60.210245,
+      "pituusaste": 25.041453,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 205,
+      "nimi": "Sahateollisuus",
+      "leveysaste": 60.179247,
+      "pituusaste": 24.948128,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 206,
+      "nimi": "Sampaala",
+      "leveysaste": 60.319161,
+      "pituusaste": 23.821518,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 207,
+      "nimi": "Satakunnan Lastensuojeluliitto",
+      "leveysaste": 61.485238,
+      "pituusaste": 21.784332,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 208,
+      "nimi": "Sateenkaariperheet ry",
+      "leveysaste": 60.17963,
+      "pituusaste": 24.960133,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 209,
+      "nimi": "Serveri ry",
+      "leveysaste": 62.888563,
+      "pituusaste": 27.627853,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 210,
+      "nimi": "Seurasaarensäätiö",
+      "leveysaste": 60.177089,
+      "pituusaste": 24.882382,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 211,
+      "nimi": "Seurasaarensäätiö",
+      "leveysaste": 60.177103,
+      "pituusaste": 24.882422,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 212,
+      "nimi": "Sexpo-säätiö",
+      "leveysaste": 60.188431,
+      "pituusaste": 24.960514,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 213,
+      "nimi": "Sirkuskoulu Bravuuri",
+      "leveysaste": 60.892911,
+      "pituusaste": 26.623909,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 214,
+      "nimi": "Siuntion Koskikarat",
+      "leveysaste": 60.175809,
+      "pituusaste": 24.206239,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 215,
+      "nimi": "Snellu",
+      "leveysaste": 60.211478,
+      "pituusaste": 25.079612,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 216,
+      "nimi": "Solu, Suomen biotaiteen seura ry",
+      "leveysaste": 60.168096,
+      "pituusaste": 24.968102,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 217,
+      "nimi": "Sopimusvuori ry",
+      "leveysaste": 61.521566,
+      "pituusaste": 23.687793,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 218,
+      "nimi": "Sosiaalipedagogiikan säätiö",
+      "leveysaste": 60.197206,
+      "pituusaste": 24.948149,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 219,
+      "nimi": "Sotkamon Jymy",
+      "leveysaste": 64.130132,
+      "pituusaste": 28.379308,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 220,
+      "nimi": "Stadga",
+      "leveysaste": 60.454658,
+      "pituusaste": 22.278984,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 221,
+      "nimi": "Stiftelsen Pro Juventute Nostra",
+      "leveysaste": 60.157449,
+      "pituusaste": 24.93449,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 222,
+      "nimi": "StudioRajatieto",
+      "leveysaste": 60.173836,
+      "pituusaste": 24.955913,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 223,
+      "nimi": "Sulo ry",
+      "leveysaste": 62.60407,
+      "pituusaste": 29.738376,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 224,
+      "nimi": "Suomalaisuuden liitto",
+      "leveysaste": 60.173731,
+      "pituusaste": 24.932053,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 225,
+      "nimi": "Suomen Cheerleadingliitto",
+      "leveysaste": 60.19989,
+      "pituusaste": 24.963531,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 226,
+      "nimi": "Suomen Kissaliitto",
+      "leveysaste": 60.196157,
+      "pituusaste": 24.924823,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 227,
+      "nimi": "Suomen Kuntaliitto",
+      "leveysaste": 60.183943,
+      "pituusaste": 24.940741,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 228,
+      "nimi": "Suomen Lääkäriliitto",
+      "leveysaste": 60.190227,
+      "pituusaste": 24.962223,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 229,
+      "nimi": "Suomen Numismaattinen Yhdistys",
+      "leveysaste": 60.173326,
+      "pituusaste": 24.960945,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 230,
+      "nimi": "Suomen Partiolaiset – Finlands Scouter ry",
+      "leveysaste": 60.184916,
+      "pituusaste": 24.918777,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 231,
+      "nimi": "Suomen Punainen Risti",
+      "leveysaste": 60.995281,
+      "pituusaste": 24.465335,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 232,
+      "nimi": "Suomen Punainen Risti, Ensiapu",
+      "leveysaste": 60.168958,
+      "pituusaste": 24.928817,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 233,
+      "nimi": "Suomen Rauhanliitto - Finlands Fredsförbund ry",
+      "leveysaste": 60.199935,
+      "pituusaste": 24.936185,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 234,
+      "nimi": "Suomen Somalia-verkosto",
+      "leveysaste": 60.184092,
+      "pituusaste": 24.962042,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 235,
+      "nimi": "Suomen Sydänliitto ry",
+      "leveysaste": 60.223505,
+      "pituusaste": 24.946025,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 236,
+      "nimi": "Suomen hammaslääkäriliitto",
+      "leveysaste": 60.167797,
+      "pituusaste": 24.927018,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 237,
+      "nimi": "Suomen kuvanveistäjäliitto",
+      "leveysaste": 60.166036,
+      "pituusaste": 24.952271,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 238,
+      "nimi": "Suomen satamaliitto",
+      "leveysaste": 60.163737,
+      "pituusaste": 24.924028,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 239,
+      "nimi": "Suomi-Australia yhdistysten liitto ry",
+      "leveysaste": 60.166431,
+      "pituusaste": 24.933315,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 240,
+      "nimi": "Sydkusten",
+      "leveysaste": 60.158781,
+      "pituusaste": 24.915826,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 241,
+      "nimi": "Syke",
+      "leveysaste": 61.166602,
+      "pituusaste": 23.868532,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 242,
+      "nimi": "Synapsi ry",
+      "leveysaste": 60.454891,
+      "pituusaste": 22.285268,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 243,
+      "nimi": "TFiF&TEK Lounge",
+      "leveysaste": 60.454985,
+      "pituusaste": 22.282731,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 244,
+      "nimi": "TIEKE",
+      "leveysaste": 60.188346,
+      "pituusaste": 24.975747,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 245,
+      "nimi": "TYEMYY ry",
+      "leveysaste": 60.459101,
+      "pituusaste": 22.273936,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 246,
+      "nimi": "Talkoorengas / Vapaaehtoisen hyvinvointityön keskus",
+      "leveysaste": 60.400885,
+      "pituusaste": 25.095385,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 247,
+      "nimi": "Tampereen Partiolaiset ry",
+      "leveysaste": 61.49529,
+      "pituusaste": 23.779552,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 248,
+      "nimi": "Tarratalli",
+      "leveysaste": 65.043169,
+      "pituusaste": 25.549504,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 249,
+      "nimi": "Tekstin talo",
+      "leveysaste": 60.184054,
+      "pituusaste": 24.961176,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 250,
+      "nimi": "Tietokilta ry",
+      "leveysaste": 60.186962,
+      "pituusaste": 24.822384,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 251,
+      "nimi": "Tombolo ry",
+      "leveysaste": 62.604452,
+      "pituusaste": 29.740546,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 252,
+      "nimi": "Tribe Tampere",
+      "leveysaste": 61.49624,
+      "pituusaste": 23.776791,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 253,
+      "nimi": "Tukipilari",
+      "leveysaste": 62.892832,
+      "pituusaste": 27.684046,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 254,
+      "nimi": "Tulestupa",
+      "leveysaste": 61.061216,
+      "pituusaste": 28.200389,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 255,
+      "nimi": "Tuotantotalouden kilta Prodeko ry",
+      "leveysaste": 60.187196,
+      "pituusaste": 24.818115,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 256,
+      "nimi": "Turun Avantouimarit ry",
+      "leveysaste": 60.414997,
+      "pituusaste": 22.259233,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 257,
+      "nimi": "Turun Journalistiyhdistys",
+      "leveysaste": 60.441646,
+      "pituusaste": 22.253307,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 258,
+      "nimi": "Turun Siivoustekninen Yhdistys ry",
+      "leveysaste": 60.450942,
+      "pituusaste": 22.228845,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 259,
+      "nimi": "Turun Teollisuustyöntekijät ry",
+      "leveysaste": 60.450169,
+      "pituusaste": 22.262548,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 260,
+      "nimi": "Turun Urheiluautoilijat ry",
+      "leveysaste": 60.494295,
+      "pituusaste": 22.268655,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 261,
+      "nimi": "Turun Yliopiston Kemistit ry",
+      "leveysaste": 60.454979,
+      "pituusaste": 22.28318,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 262,
+      "nimi": "Tähtitieteellinen yhdistys Ursa ry",
+      "leveysaste": 60.161981,
+      "pituusaste": 24.951318,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 263,
+      "nimi": "Töölön Siniset ry.",
+      "leveysaste": 60.179726,
+      "pituusaste": 24.925114,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 264,
+      "nimi": "Töölön Sinisten eräkämppä",
+      "leveysaste": 60.110716,
+      "pituusaste": 24.603645,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 265,
+      "nimi": "Töölön Sinisten eräkämppä",
+      "leveysaste": 60.110728,
+      "pituusaste": 24.603678,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 266,
+      "nimi": "United Vision",
+      "leveysaste": 60.213039,
+      "pituusaste": 24.825086,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 267,
+      "nimi": "Uttarakhand Association Finland",
+      "leveysaste": 60.221313,
+      "pituusaste": 24.626107,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 268,
+      "nimi": "Uudenmaan Partiolaiset ry",
+      "leveysaste": 60.184778,
+      "pituusaste": 24.918966,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 269,
+      "nimi": "Vaasan yliopiston ylioppilaskunnan palvelutoimisto",
+      "leveysaste": 63.102785,
+      "pituusaste": 21.59368,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 270,
+      "nimi": "Vantaan Rotaryklubi ry",
+      "leveysaste": 60.295355,
+      "pituusaste": 25.043221,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 271,
+      "nimi": "Vantaan Talli ry",
+      "leveysaste": 60.830758,
+      "pituusaste": 24.819587,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 272,
+      "nimi": "Vapaa-ajattelijain liitto",
+      "leveysaste": 60.181889,
+      "pituusaste": 24.954007,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 273,
+      "nimi": "Vare ry",
+      "leveysaste": 60.451116,
+      "pituusaste": 22.278848,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 274,
+      "nimi": "Varnitsa ry",
+      "leveysaste": 62.604519,
+      "pituusaste": 29.740489,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 275,
+      "nimi": "Varsinais-Suomen Lastensuojeluliitto",
+      "leveysaste": 60.446,
+      "pituusaste": 22.283838,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 276,
+      "nimi": "Verso",
+      "leveysaste": 60.639843,
+      "pituusaste": 24.851917,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 277,
+      "nimi": "ViaDia Outokumpu",
+      "leveysaste": 62.72831,
+      "pituusaste": 29.013376,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 278,
+      "nimi": "Viheri NMKY",
+      "leveysaste": 62.041197,
+      "pituusaste": 25.759302,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 279,
+      "nimi": "Vihreä Keidas ry",
+      "leveysaste": 60.186962,
+      "pituusaste": 24.965591,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 280,
+      "nimi": "Väentupa",
+      "leveysaste": 60.166435,
+      "pituusaste": 24.936563,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 281,
+      "nimi": "Väestöliiton Terapiapalvelut",
+      "leveysaste": 60.166607,
+      "pituusaste": 24.936231,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 282,
+      "nimi": "Väestöliiton kotisisar",
+      "leveysaste": 60.166606,
+      "pituusaste": 24.936241,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 283,
+      "nimi": "Väestöliitto",
+      "leveysaste": 60.16661,
+      "pituusaste": 24.936241,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 284,
+      "nimi": "Ylioppilaskunta, Joensuun toimisto",
+      "leveysaste": 62.598703,
+      "pituusaste": 29.760772,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    },
+    {
+      "id": 285,
+      "nimi": "Yrityskylä Pohjois-Pohjanmaa Alakoulu",
+      "leveysaste": 65.033182,
+      "pituusaste": 25.452315,
+      "osm_avain": "office",
+      "osm_arvo": "association",
+      "osm_luokka": "office=association"
+    }
+  ],
+  "meta": {
+    "title": "Yhdistysten toimipisteet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Yhdistysten toimipisteet Suomessa — 285 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=association`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 3. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 285 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Yhdistysten toimipisteet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Yhdistysten toimipisteet – Suomi (OpenStreetMap) — 285 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 285 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

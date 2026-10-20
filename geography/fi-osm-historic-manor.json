@@ -1,0 +1,4039 @@
+{
+  "id": "fi-osm-historic-manor",
+  "name": "Kartanot – Suomi (OpenStreetMap)",
+  "title": "Kartanot – Suomi (OpenStreetMap)",
+  "description": "Kartanot Suomessa — 442 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=manor`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 93. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 442,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Ahlbackan kartano",
+      "leveysaste": 61.052035,
+      "pituusaste": 24.433306,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 2,
+      "nimi": "Ala-Lemun kartano",
+      "leveysaste": 60.388159,
+      "pituusaste": 22.306212,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 3,
+      "nimi": "Alapihan kartano",
+      "leveysaste": 62.496244,
+      "pituusaste": 27.793975,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 4,
+      "nimi": "Alapihan kartano",
+      "leveysaste": 62.496269,
+      "pituusaste": 27.794062,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 5,
+      "nimi": "Albergan kartano",
+      "leveysaste": 60.214204,
+      "pituusaste": 24.813929,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 6,
+      "nimi": "Albergan kartano",
+      "leveysaste": 60.214205,
+      "pituusaste": 24.813893,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 7,
+      "nimi": "Alhaisten kartano",
+      "leveysaste": 61.062414,
+      "pituusaste": 24.393083,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 8,
+      "nimi": "Alikartano",
+      "leveysaste": 60.552682,
+      "pituusaste": 25.275627,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 9,
+      "nimi": "Anjalan kartano",
+      "leveysaste": 60.696288,
+      "pituusaste": 26.813819,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 10,
+      "nimi": "Annalan huvila",
+      "leveysaste": 60.21313,
+      "pituusaste": 24.976331,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 11,
+      "nimi": "Annilan kartano",
+      "leveysaste": 61.649394,
+      "pituusaste": 27.281686,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 12,
+      "nimi": "Annilan kartano",
+      "leveysaste": 61.649417,
+      "pituusaste": 27.2817,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 13,
+      "nimi": "Backaksen kartano",
+      "leveysaste": 60.284158,
+      "pituusaste": 24.95275,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 14,
+      "nimi": "Backaksen kartano",
+      "leveysaste": 60.284171,
+      "pituusaste": 24.952761,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 15,
+      "nimi": "Backbyn kartano",
+      "leveysaste": 60.276193,
+      "pituusaste": 24.666354,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 16,
+      "nimi": "Backbyn kartano",
+      "leveysaste": 60.276226,
+      "pituusaste": 24.666367,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 17,
+      "nimi": "Bastvikin kartano",
+      "leveysaste": 60.162992,
+      "pituusaste": 24.611328,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 18,
+      "nimi": "Bergvikin kartano",
+      "leveysaste": 60.343303,
+      "pituusaste": 23.415064,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 19,
+      "nimi": "Bergvikin kartano",
+      "leveysaste": 60.343303,
+      "pituusaste": 23.415134,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 20,
+      "nimi": "Bodomin kartano",
+      "leveysaste": 60.261538,
+      "pituusaste": 24.682406,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 21,
+      "nimi": "Boe",
+      "leveysaste": 60.393965,
+      "pituusaste": 25.492483,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 22,
+      "nimi": "Boe",
+      "leveysaste": 60.393995,
+      "pituusaste": 25.492417,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 23,
+      "nimi": "Bosgård Manor house",
+      "leveysaste": 60.406117,
+      "pituusaste": 25.835576,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 24,
+      "nimi": "Brinkhallin kartano",
+      "leveysaste": 60.369743,
+      "pituusaste": 22.240652,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 25,
+      "nimi": "Brinkhallin kartano",
+      "leveysaste": 60.369755,
+      "pituusaste": 22.240743,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 26,
+      "nimi": "Danielson-Kalmarin huvila",
+      "leveysaste": 61.173858,
+      "pituusaste": 25.535242,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 27,
+      "nimi": "Danielson-Kalmarin huvila",
+      "leveysaste": 61.173888,
+      "pituusaste": 25.535245,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 28,
+      "nimi": "Degerön kartano",
+      "leveysaste": 60.173184,
+      "pituusaste": 25.058033,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 29,
+      "nimi": "Degerön kartano",
+      "leveysaste": 60.173187,
+      "pituusaste": 25.058039,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 30,
+      "nimi": "Domsin kartano",
+      "leveysaste": 60.20824,
+      "pituusaste": 24.65402,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 31,
+      "nimi": "Domsin kartano",
+      "leveysaste": 60.208248,
+      "pituusaste": 24.654037,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 32,
+      "nimi": "Ellilän kartano",
+      "leveysaste": 61.042533,
+      "pituusaste": 24.434928,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 33,
+      "nimi": "Ellilän kartano",
+      "leveysaste": 61.042585,
+      "pituusaste": 24.434866,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 34,
+      "nimi": "Erstan kartano",
+      "leveysaste": 60.949076,
+      "pituusaste": 25.82473,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 35,
+      "nimi": "Erstan kartano",
+      "leveysaste": 60.949089,
+      "pituusaste": 25.824737,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 36,
+      "nimi": "Espoon kartano",
+      "leveysaste": 60.199044,
+      "pituusaste": 24.582616,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 37,
+      "nimi": "Etukartano",
+      "leveysaste": 60.270745,
+      "pituusaste": 24.787342,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 38,
+      "nimi": "Etukartano",
+      "leveysaste": 60.270751,
+      "pituusaste": 24.787344,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 39,
+      "nimi": "Fagervikin kartano",
+      "leveysaste": 60.025055,
+      "pituusaste": 23.812797,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 40,
+      "nimi": "Friskalan kartano",
+      "leveysaste": 60.401089,
+      "pituusaste": 22.234352,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 41,
+      "nimi": "Friskalan kartano",
+      "leveysaste": 60.401105,
+      "pituusaste": 22.234267,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 42,
+      "nimi": "Furuvik",
+      "leveysaste": 60.290038,
+      "pituusaste": 22.300718,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 43,
+      "nimi": "Gerkin kartano",
+      "leveysaste": 60.198865,
+      "pituusaste": 24.741635,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 44,
+      "nimi": "Gerkin kartano",
+      "leveysaste": 60.198868,
+      "pituusaste": 24.741632,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 45,
+      "nimi": "Greggbölen kartano",
+      "leveysaste": 60.485595,
+      "pituusaste": 25.898846,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 46,
+      "nimi": "Gårdskulla Gård",
+      "leveysaste": 60.17975,
+      "pituusaste": 24.171387,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 47,
+      "nimi": "Hagaböle Gård",
+      "leveysaste": 60.462611,
+      "pituusaste": 26.020283,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 48,
+      "nimi": "Hagalundin kartano",
+      "leveysaste": 60.182383,
+      "pituusaste": 24.820107,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 49,
+      "nimi": "Hagalundin kartano",
+      "leveysaste": 60.182386,
+      "pituusaste": 24.820128,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 50,
+      "nimi": "Hakkarin kartano",
+      "leveysaste": 61.330562,
+      "pituusaste": 23.747476,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 51,
+      "nimi": "Hakkarin kartano",
+      "leveysaste": 61.330571,
+      "pituusaste": 23.747479,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 52,
+      "nimi": "Hakoisten kartano",
+      "leveysaste": 60.876143,
+      "pituusaste": 24.588837,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 53,
+      "nimi": "Hakoisten kartano",
+      "leveysaste": 60.876206,
+      "pituusaste": 24.588866,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 54,
+      "nimi": "Hakunilan kartano",
+      "leveysaste": 60.274756,
+      "pituusaste": 25.1142,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 55,
+      "nimi": "Haminalahden kartano",
+      "leveysaste": 62.85293,
+      "pituusaste": 27.541495,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 56,
+      "nimi": "Haminalahden kartano",
+      "leveysaste": 62.852948,
+      "pituusaste": 27.541536,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 57,
+      "nimi": "Harjattulan kartano",
+      "leveysaste": 60.3718,
+      "pituusaste": 22.291253,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 58,
+      "nimi": "Harvialan kartano",
+      "leveysaste": 60.955762,
+      "pituusaste": 24.584009,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 59,
+      "nimi": "Hatanpään kartano",
+      "leveysaste": 61.483385,
+      "pituusaste": 23.75085,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 60,
+      "nimi": "Hennala",
+      "leveysaste": 60.373856,
+      "pituusaste": 22.201724,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 61,
+      "nimi": "Hennala",
+      "leveysaste": 60.373857,
+      "pituusaste": 22.201726,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 62,
+      "nimi": "Herttoniemen kartano",
+      "leveysaste": 60.190075,
+      "pituusaste": 25.041758,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 63,
+      "nimi": "Herttoniemen kartano",
+      "leveysaste": 60.190081,
+      "pituusaste": 25.041754,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 64,
+      "nimi": "Hintsan kartano",
+      "leveysaste": 60.493812,
+      "pituusaste": 22.180604,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 65,
+      "nimi": "Hintsan kartano",
+      "leveysaste": 60.493824,
+      "pituusaste": 22.180649,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 66,
+      "nimi": "Hirvihaaran kartano",
+      "leveysaste": 60.608936,
+      "pituusaste": 25.250801,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 67,
+      "nimi": "Hotelli Ruusuhovi",
+      "leveysaste": 62.043827,
+      "pituusaste": 28.411136,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 68,
+      "nimi": "Hotelli Ruusuhovi",
+      "leveysaste": 62.043829,
+      "pituusaste": 28.411161,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 69,
+      "nimi": "Huhkon kartano",
+      "leveysaste": 60.475609,
+      "pituusaste": 22.193526,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 70,
+      "nimi": "Huhkon kartano",
+      "leveysaste": 60.475612,
+      "pituusaste": 22.193539,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 71,
+      "nimi": "Husön kartano",
+      "leveysaste": 60.241389,
+      "pituusaste": 25.19873,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 72,
+      "nimi": "Husön kartano",
+      "leveysaste": 60.241396,
+      "pituusaste": 25.198752,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 73,
+      "nimi": "Hämeenkylän Pääkartano",
+      "leveysaste": 60.270674,
+      "pituusaste": 24.784202,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 74,
+      "nimi": "Hämeenkylän Pääkartano",
+      "leveysaste": 60.270689,
+      "pituusaste": 24.7842,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 75,
+      "nimi": "Hämeenkylän kartano",
+      "leveysaste": 60.606647,
+      "pituusaste": 26.499473,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 76,
+      "nimi": "Hämeenkylän kartano",
+      "leveysaste": 60.606648,
+      "pituusaste": 26.499475,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 77,
+      "nimi": "Iisalmen pappila",
+      "leveysaste": 60.183526,
+      "pituusaste": 24.886232,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 78,
+      "nimi": "Iisalmen pappila",
+      "leveysaste": 60.183567,
+      "pituusaste": 24.88624,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 79,
+      "nimi": "Ikolan pappila",
+      "leveysaste": 64.128831,
+      "pituusaste": 29.504922,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 80,
+      "nimi": "Inhan kartano",
+      "leveysaste": 62.521898,
+      "pituusaste": 24.160776,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 81,
+      "nimi": "Inhan kartano",
+      "leveysaste": 62.521898,
+      "pituusaste": 24.160786,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 82,
+      "nimi": "Inkilän kartano",
+      "leveysaste": 61.758518,
+      "pituusaste": 27.627577,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 83,
+      "nimi": "Inkilän kartano",
+      "leveysaste": 61.75852,
+      "pituusaste": 27.627456,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 84,
+      "nimi": "Ispoisten kartano",
+      "leveysaste": 60.413772,
+      "pituusaste": 22.270252,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 85,
+      "nimi": "Joensuun kartano",
+      "leveysaste": 60.384107,
+      "pituusaste": 23.086866,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 86,
+      "nimi": "Joensuun kartano",
+      "leveysaste": 60.384108,
+      "pituusaste": 23.086837,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 87,
+      "nimi": "Jokelan kartano",
+      "leveysaste": 61.018909,
+      "pituusaste": 25.155878,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 88,
+      "nimi": "Jollaksen kartano",
+      "leveysaste": 60.164051,
+      "pituusaste": 25.083852,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 89,
+      "nimi": "Jupperin kartano",
+      "leveysaste": 60.261731,
+      "pituusaste": 24.769381,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 90,
+      "nimi": "Jupperin kartano",
+      "leveysaste": 60.26174,
+      "pituusaste": 24.769366,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 91,
+      "nimi": "Juun Gårdin kartano",
+      "leveysaste": 60.26263,
+      "pituusaste": 24.749703,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 92,
+      "nimi": "Juun Gårdin kartano",
+      "leveysaste": 60.26263,
+      "pituusaste": 24.749706,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 93,
+      "nimi": "Järppilän kartano",
+      "leveysaste": 60.600207,
+      "pituusaste": 21.51586,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 94,
+      "nimi": "Järppilän kartano",
+      "leveysaste": 60.600215,
+      "pituusaste": 21.515811,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 95,
+      "nimi": "Kahiluodon kartano",
+      "leveysaste": 60.182181,
+      "pituusaste": 24.886271,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 96,
+      "nimi": "Kantolan kartano",
+      "leveysaste": 61.405659,
+      "pituusaste": 24.727089,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 97,
+      "nimi": "Karhulan hovi",
+      "leveysaste": 60.511838,
+      "pituusaste": 26.928153,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 98,
+      "nimi": "Karlbergin kartano Kavaljeeriflyygeli",
+      "leveysaste": 61.022576,
+      "pituusaste": 24.446074,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 99,
+      "nimi": "Karolineburgin kartano",
+      "leveysaste": 64.231255,
+      "pituusaste": 27.730877,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 100,
+      "nimi": "Karolineburgin kartano",
+      "leveysaste": 64.231257,
+      "pituusaste": 27.73088,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 101,
+      "nimi": "Kartano",
+      "leveysaste": 60.41497,
+      "pituusaste": 25.801021,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 102,
+      "nimi": "Karunan kartano",
+      "leveysaste": 60.272094,
+      "pituusaste": 22.541091,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 103,
+      "nimi": "Karunan kartano",
+      "leveysaste": 60.27211,
+      "pituusaste": 22.541063,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 104,
+      "nimi": "Katajiston kartano",
+      "leveysaste": 61.027778,
+      "pituusaste": 24.443558,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 105,
+      "nimi": "Katajiston kartano",
+      "leveysaste": 61.0278,
+      "pituusaste": 24.443513,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 106,
+      "nimi": "Katisten kartano",
+      "leveysaste": 60.995874,
+      "pituusaste": 24.498842,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 107,
+      "nimi": "Katisten kartano",
+      "leveysaste": 60.995893,
+      "pituusaste": 24.498856,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 108,
+      "nimi": "Kelan kartano",
+      "leveysaste": 60.120725,
+      "pituusaste": 24.285956,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 109,
+      "nimi": "Kelan kartano",
+      "leveysaste": 60.120725,
+      "pituusaste": 24.285968,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 110,
+      "nimi": "Kemijoen kartano",
+      "leveysaste": 66.390487,
+      "pituusaste": 26.397604,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 111,
+      "nimi": "Kemijoen kartano",
+      "leveysaste": 66.390496,
+      "pituusaste": 26.397606,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 112,
+      "nimi": "Keravan kartano",
+      "leveysaste": 60.410101,
+      "pituusaste": 25.119665,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 113,
+      "nimi": "Keravan kartano",
+      "leveysaste": 60.410105,
+      "pituusaste": 25.119664,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 114,
+      "nimi": "Kiialan kartano",
+      "leveysaste": 60.408106,
+      "pituusaste": 25.617036,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 115,
+      "nimi": "Kilon kartano",
+      "leveysaste": 60.220153,
+      "pituusaste": 24.794444,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 116,
+      "nimi": "Kilon kartano",
+      "leveysaste": 60.220156,
+      "pituusaste": 24.794446,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 117,
+      "nimi": "Kinttulan kartano",
+      "leveysaste": 60.734821,
+      "pituusaste": 26.06037,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 118,
+      "nimi": "Kirjokiven kartano",
+      "leveysaste": 61.146066,
+      "pituusaste": 26.814644,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 119,
+      "nimi": "Kirjokiven kartano",
+      "leveysaste": 61.146078,
+      "pituusaste": 26.814637,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 120,
+      "nimi": "Kirkniemen kartano",
+      "leveysaste": 60.176584,
+      "pituusaste": 23.926128,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 121,
+      "nimi": "Kirstulan kartano",
+      "leveysaste": 61.028768,
+      "pituusaste": 24.423299,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 122,
+      "nimi": "Koiskalan kartano",
+      "leveysaste": 60.990542,
+      "pituusaste": 25.792659,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 123,
+      "nimi": "Koivikon kartano",
+      "leveysaste": 62.08248,
+      "pituusaste": 29.95282,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 124,
+      "nimi": "Koivumäen kartano",
+      "leveysaste": 62.812665,
+      "pituusaste": 27.620059,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 125,
+      "nimi": "Koivumäen kartano",
+      "leveysaste": 62.812667,
+      "pituusaste": 27.620055,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 126,
+      "nimi": "Koljonvirran kartano",
+      "leveysaste": 63.594543,
+      "pituusaste": 27.159955,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 127,
+      "nimi": "Koljonvirran kartano",
+      "leveysaste": 63.594549,
+      "pituusaste": 27.159962,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 128,
+      "nimi": "Kopun kartano",
+      "leveysaste": 60.346141,
+      "pituusaste": 24.300032,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 129,
+      "nimi": "Kortesuon Kartano",
+      "leveysaste": 62.248132,
+      "pituusaste": 25.717599,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 130,
+      "nimi": "Kortesuon Kartano",
+      "leveysaste": 62.248137,
+      "pituusaste": 25.717615,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 131,
+      "nimi": "Kosken ruukinkartano",
+      "leveysaste": 60.182422,
+      "pituusaste": 23.289702,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 132,
+      "nimi": "Kosken ruukinkartano",
+      "leveysaste": 60.182437,
+      "pituusaste": 23.289733,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 133,
+      "nimi": "Koskenkylän kartano",
+      "leveysaste": 60.499257,
+      "pituusaste": 25.944557,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 134,
+      "nimi": "Koskenmaan Kartano",
+      "leveysaste": 60.606732,
+      "pituusaste": 25.027429,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 135,
+      "nimi": "Koskenmaan Kartano",
+      "leveysaste": 60.606737,
+      "pituusaste": 25.027429,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 136,
+      "nimi": "Koskipään kartano",
+      "leveysaste": 61.568384,
+      "pituusaste": 26.016066,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 137,
+      "nimi": "Kotkaniemen päärakennus",
+      "leveysaste": 60.358268,
+      "pituusaste": 24.382179,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 138,
+      "nimi": "Kotkaniemen päärakennus",
+      "leveysaste": 60.358297,
+      "pituusaste": 24.382252,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 139,
+      "nimi": "Kourlan kartano",
+      "leveysaste": 60.440135,
+      "pituusaste": 24.354681,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 140,
+      "nimi": "Kourlan kartano",
+      "leveysaste": 60.440144,
+      "pituusaste": 24.3547,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 141,
+      "nimi": "Kouvolan kartano",
+      "leveysaste": 60.832454,
+      "pituusaste": 26.723503,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 142,
+      "nimi": "Kouvolan kartano",
+      "leveysaste": 60.832455,
+      "pituusaste": 26.72353,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 143,
+      "nimi": "Kruukkilan kotiseututalo",
+      "leveysaste": 62.878868,
+      "pituusaste": 24.799406,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 144,
+      "nimi": "Kruukkilan kotiseututalo",
+      "leveysaste": 62.878896,
+      "pituusaste": 24.799377,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 145,
+      "nimi": "Kruununvoudintalo",
+      "leveysaste": 63.843319,
+      "pituusaste": 23.135746,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 146,
+      "nimi": "Kruununvoudintalo",
+      "leveysaste": 63.843322,
+      "pituusaste": 23.135803,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 147,
+      "nimi": "Kulosaaren kartano",
+      "leveysaste": 60.193074,
+      "pituusaste": 25.014393,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 148,
+      "nimi": "Kumpulan kartano",
+      "leveysaste": 60.202043,
+      "pituusaste": 24.9571,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 149,
+      "nimi": "Kyminkartano",
+      "leveysaste": 60.511691,
+      "pituusaste": 26.879903,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 150,
+      "nimi": "Kyminkartano",
+      "leveysaste": 60.511695,
+      "pituusaste": 26.879907,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 151,
+      "nimi": "Kytäjän kartano",
+      "leveysaste": 60.612675,
+      "pituusaste": 24.665846,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 152,
+      "nimi": "Kytäjän kartano",
+      "leveysaste": 60.612682,
+      "pituusaste": 24.66585,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 153,
+      "nimi": "Kärsämäen kartano",
+      "leveysaste": 60.483861,
+      "pituusaste": 22.289172,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 154,
+      "nimi": "Kärsämäen kartano",
+      "leveysaste": 60.483863,
+      "pituusaste": 22.289177,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 155,
+      "nimi": "Köningstedtin kartano",
+      "leveysaste": 60.344865,
+      "pituusaste": 24.846004,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 156,
+      "nimi": "Köningstedtin kartano",
+      "leveysaste": 60.344871,
+      "pituusaste": 24.845992,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 157,
+      "nimi": "Laakspohjan kartano",
+      "leveysaste": 60.270069,
+      "pituusaste": 24.089816,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 158,
+      "nimi": "Labby Gård",
+      "leveysaste": 60.372633,
+      "pituusaste": 26.010297,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 159,
+      "nimi": "Labby Gård",
+      "leveysaste": 60.372638,
+      "pituusaste": 26.010298,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 160,
+      "nimi": "Lahdentaan kartano",
+      "leveysaste": 61.126414,
+      "pituusaste": 24.325369,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 161,
+      "nimi": "Laikan kartano",
+      "leveysaste": 61.306237,
+      "pituusaste": 23.786953,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 162,
+      "nimi": "Laikan kartano",
+      "leveysaste": 61.306247,
+      "pituusaste": 23.786969,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 163,
+      "nimi": "Lapilan kartano",
+      "leveysaste": 60.403741,
+      "pituusaste": 25.114438,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 164,
+      "nimi": "Lapilan kartano",
+      "leveysaste": 60.403757,
+      "pituusaste": 25.114465,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 165,
+      "nimi": "Lastusten kartano",
+      "leveysaste": 61.313411,
+      "pituusaste": 23.802237,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 166,
+      "nimi": "Lastusten kartano",
+      "leveysaste": 61.313423,
+      "pituusaste": 23.802263,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 167,
+      "nimi": "Laukon kartano",
+      "leveysaste": 61.331698,
+      "pituusaste": 23.513369,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 168,
+      "nimi": "Laukon kartano",
+      "leveysaste": 61.331713,
+      "pituusaste": 23.513373,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 169,
+      "nimi": "Lauritsalan kartano",
+      "leveysaste": 61.076594,
+      "pituusaste": 28.277474,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 170,
+      "nimi": "Lautsian kartano",
+      "leveysaste": 61.234892,
+      "pituusaste": 24.435824,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 171,
+      "nimi": "Lautsian kartano",
+      "leveysaste": 61.234896,
+      "pituusaste": 24.435827,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 172,
+      "nimi": "Lauttasaaren kartano",
+      "leveysaste": 60.159025,
+      "pituusaste": 24.879064,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 173,
+      "nimi": "Lauttasaaren kartano",
+      "leveysaste": 60.159042,
+      "pituusaste": 24.879088,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 174,
+      "nimi": "Lehtisten kartano",
+      "leveysaste": 60.618507,
+      "pituusaste": 21.880127,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 175,
+      "nimi": "Lehtisten kartano",
+      "leveysaste": 60.618517,
+      "pituusaste": 21.880074,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 176,
+      "nimi": "Leppävaaran kartano",
+      "leveysaste": 60.236956,
+      "pituusaste": 24.787436,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 177,
+      "nimi": "Leppävaaran kartano",
+      "leveysaste": 60.23696,
+      "pituusaste": 24.787387,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 178,
+      "nimi": "Liinaharjan kartano",
+      "leveysaste": 61.485142,
+      "pituusaste": 21.731131,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 179,
+      "nimi": "Liinaharjan kartano",
+      "leveysaste": 61.485152,
+      "pituusaste": 21.731152,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 180,
+      "nimi": "Lilla Karyll",
+      "leveysaste": 60.205607,
+      "pituusaste": 24.650271,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 181,
+      "nimi": "Lilla Karyll",
+      "leveysaste": 60.205614,
+      "pituusaste": 24.650285,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 182,
+      "nimi": "Linnaisten Kartano",
+      "leveysaste": 60.26321,
+      "pituusaste": 24.770196,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 183,
+      "nimi": "Louhisaaren Kartano",
+      "leveysaste": 60.570881,
+      "pituusaste": 21.831019,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 184,
+      "nimi": "Louhisaaren Kartano",
+      "leveysaste": 60.570907,
+      "pituusaste": 21.83094,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 185,
+      "nimi": "Lumnäsin kartano",
+      "leveysaste": 60.690039,
+      "pituusaste": 26.215121,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 186,
+      "nimi": "Lumnäsin kartano",
+      "leveysaste": 60.69005,
+      "pituusaste": 26.215122,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 187,
+      "nimi": "Luukin kartano",
+      "leveysaste": 60.316382,
+      "pituusaste": 24.692207,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 188,
+      "nimi": "Luukin kartano",
+      "leveysaste": 60.316382,
+      "pituusaste": 24.692214,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 189,
+      "nimi": "Maikkulan kartano",
+      "leveysaste": 64.982593,
+      "pituusaste": 25.599525,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 190,
+      "nimi": "Malmgårdin kartano",
+      "leveysaste": 60.543166,
+      "pituusaste": 25.928829,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 191,
+      "nimi": "Malmgårdin kartano",
+      "leveysaste": 60.543175,
+      "pituusaste": 25.928844,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 192,
+      "nimi": "Malminkartano",
+      "leveysaste": 60.249393,
+      "pituusaste": 24.868948,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 193,
+      "nimi": "Malminkartano",
+      "leveysaste": 60.249402,
+      "pituusaste": 24.86893,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 194,
+      "nimi": "Matinkartano",
+      "leveysaste": 60.161195,
+      "pituusaste": 24.748954,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 195,
+      "nimi": "Mattelmäen kartano",
+      "leveysaste": 60.399406,
+      "pituusaste": 22.363258,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 196,
+      "nimi": "Medvastin kartano",
+      "leveysaste": 60.108928,
+      "pituusaste": 24.629377,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 197,
+      "nimi": "Medvastin kartano",
+      "leveysaste": 60.108936,
+      "pituusaste": 24.629403,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 198,
+      "nimi": "Meilahden kartano",
+      "leveysaste": 60.191534,
+      "pituusaste": 24.883912,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 199,
+      "nimi": "Meilahden kartano",
+      "leveysaste": 60.191537,
+      "pituusaste": 24.883913,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 200,
+      "nimi": "Metsänkylän kartano",
+      "leveysaste": 61.040256,
+      "pituusaste": 24.446898,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 201,
+      "nimi": "Metsänkylän kartano",
+      "leveysaste": 61.040272,
+      "pituusaste": 24.44688,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 202,
+      "nimi": "Mikkolan kartano",
+      "leveysaste": 61.17112,
+      "pituusaste": 25.547974,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 203,
+      "nimi": "Mikkolan kartano",
+      "leveysaste": 61.171128,
+      "pituusaste": 25.54799,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 204,
+      "nimi": "Moision kartano",
+      "leveysaste": 60.724252,
+      "pituusaste": 26.479052,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 205,
+      "nimi": "Moision kartano",
+      "leveysaste": 60.724262,
+      "pituusaste": 26.478919,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 206,
+      "nimi": "Mukkulan kartano",
+      "leveysaste": 61.015401,
+      "pituusaste": 25.643544,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 207,
+      "nimi": "Mukkulan kartano",
+      "leveysaste": 61.01541,
+      "pituusaste": 25.643537,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 208,
+      "nimi": "Munkkiniemen kartano",
+      "leveysaste": 60.194353,
+      "pituusaste": 24.881208,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 209,
+      "nimi": "Mustilan kartano",
+      "leveysaste": 60.730162,
+      "pituusaste": 26.427354,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 210,
+      "nimi": "Mäntsälän kartano",
+      "leveysaste": 60.634254,
+      "pituusaste": 25.329937,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 211,
+      "nimi": "Mäntsälän kartano",
+      "leveysaste": 60.634274,
+      "pituusaste": 25.329994,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 212,
+      "nimi": "Navalan kartano",
+      "leveysaste": 60.254092,
+      "pituusaste": 24.444492,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 213,
+      "nimi": "Neitsytniemen Kartano",
+      "leveysaste": 61.20907,
+      "pituusaste": 28.787311,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 214,
+      "nimi": "Neitsytniemen Kartano",
+      "leveysaste": 61.209074,
+      "pituusaste": 28.787316,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 215,
+      "nimi": "Nikkilän kartano",
+      "leveysaste": 60.386058,
+      "pituusaste": 25.269294,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 216,
+      "nimi": "Nissbackan kartano",
+      "leveysaste": 60.281164,
+      "pituusaste": 25.125552,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 217,
+      "nimi": "Nissbackan kartano",
+      "leveysaste": 60.281164,
+      "pituusaste": 25.12559,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 218,
+      "nimi": "Nordenlund",
+      "leveysaste": 61.418521,
+      "pituusaste": 25.843731,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 219,
+      "nimi": "Nordenlund",
+      "leveysaste": 61.418565,
+      "pituusaste": 25.843774,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 220,
+      "nimi": "Nupurin kartano",
+      "leveysaste": 60.2376,
+      "pituusaste": 24.591829,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 221,
+      "nimi": "Nupurin kartano",
+      "leveysaste": 60.237602,
+      "pituusaste": 24.591821,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 222,
+      "nimi": "Näse Gård",
+      "leveysaste": 60.345253,
+      "pituusaste": 26.081284,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 223,
+      "nimi": "Näsin kartano",
+      "leveysaste": 60.393489,
+      "pituusaste": 25.655926,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 224,
+      "nimi": "Näsin kartano",
+      "leveysaste": 60.393533,
+      "pituusaste": 25.655882,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 225,
+      "nimi": "Oitbackan kartano",
+      "leveysaste": 60.206917,
+      "pituusaste": 24.507058,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 226,
+      "nimi": "Oitbackan kartano",
+      "leveysaste": 60.206918,
+      "pituusaste": 24.506987,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 227,
+      "nimi": "Oittaan kartano",
+      "leveysaste": 60.242598,
+      "pituusaste": 24.657416,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 228,
+      "nimi": "Oittaan kartano",
+      "leveysaste": 60.242601,
+      "pituusaste": 24.657429,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 229,
+      "nimi": "Ojamon kartano",
+      "leveysaste": 60.236062,
+      "pituusaste": 24.022644,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 230,
+      "nimi": "Ojamon kartano",
+      "leveysaste": 60.236087,
+      "pituusaste": 24.02266,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 231,
+      "nimi": "Ojanperän talo",
+      "leveysaste": 62.647453,
+      "pituusaste": 23.818935,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 232,
+      "nimi": "Ojanperän talo",
+      "leveysaste": 62.647473,
+      "pituusaste": 23.818933,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 233,
+      "nimi": "Ojoisten kartano",
+      "leveysaste": 61.00516,
+      "pituusaste": 24.449176,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 234,
+      "nimi": "Patruunan pytinki",
+      "leveysaste": 61.062569,
+      "pituusaste": 26.639734,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 235,
+      "nimi": "Patruunan pytinki",
+      "leveysaste": 61.062578,
+      "pituusaste": 26.639753,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 236,
+      "nimi": "Peippolan kartano",
+      "leveysaste": 60.722177,
+      "pituusaste": 26.471981,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 237,
+      "nimi": "Pernon kartano",
+      "leveysaste": 60.454634,
+      "pituusaste": 22.147615,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 238,
+      "nimi": "Pernon kartano",
+      "leveysaste": 60.454641,
+      "pituusaste": 22.147587,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 239,
+      "nimi": "Perttulan kartano",
+      "leveysaste": 60.966315,
+      "pituusaste": 24.495627,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 240,
+      "nimi": "Perttulan kartano",
+      "leveysaste": 60.966318,
+      "pituusaste": 24.495629,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 241,
+      "nimi": "Pieksämäen iso-pappila",
+      "leveysaste": 62.303144,
+      "pituusaste": 27.12104,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 242,
+      "nimi": "Pikkalan Kartano",
+      "leveysaste": 60.097118,
+      "pituusaste": 24.301909,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 243,
+      "nimi": "Pikkukartano",
+      "leveysaste": 60.270228,
+      "pituusaste": 24.786339,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 244,
+      "nimi": "Pirttisaaren huvila",
+      "leveysaste": 62.852747,
+      "pituusaste": 27.550138,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 245,
+      "nimi": "Poitsilan kartano",
+      "leveysaste": 60.560628,
+      "pituusaste": 27.167147,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 246,
+      "nimi": "Poitsilan kartano",
+      "leveysaste": 60.560637,
+      "pituusaste": 27.167151,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 247,
+      "nimi": "Porlammin kartano",
+      "leveysaste": 60.693465,
+      "pituusaste": 26.012858,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 248,
+      "nimi": "Porlammin kartano",
+      "leveysaste": 60.693496,
+      "pituusaste": 26.01284,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 249,
+      "nimi": "Pukaron kartano",
+      "leveysaste": 60.684819,
+      "pituusaste": 26.245835,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 250,
+      "nimi": "Pukaron kartano",
+      "leveysaste": 60.684835,
+      "pituusaste": 26.245858,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 251,
+      "nimi": "Pukinmäen kartano",
+      "leveysaste": 60.240606,
+      "pituusaste": 24.988249,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 252,
+      "nimi": "Punainen huvila",
+      "leveysaste": 60.159575,
+      "pituusaste": 24.879229,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 253,
+      "nimi": "Punainen huvila",
+      "leveysaste": 60.159575,
+      "pituusaste": 24.879239,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 254,
+      "nimi": "Puotilan kartano",
+      "leveysaste": 60.21187,
+      "pituusaste": 25.107091,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 255,
+      "nimi": "Puotilan kartano",
+      "leveysaste": 60.211887,
+      "pituusaste": 25.107111,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 256,
+      "nimi": "Pyhäniemen kartano",
+      "leveysaste": 61.05008,
+      "pituusaste": 25.467132,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 257,
+      "nimi": "Påkas",
+      "leveysaste": 60.287028,
+      "pituusaste": 25.045866,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 258,
+      "nimi": "Påkas",
+      "leveysaste": 60.287054,
+      "pituusaste": 25.045901,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 259,
+      "nimi": "Qvidja gård",
+      "leveysaste": 60.296584,
+      "pituusaste": 22.399698,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 260,
+      "nimi": "Qvidja gård",
+      "leveysaste": 60.296594,
+      "pituusaste": 22.399751,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 261,
+      "nimi": "Rabbelugnin kartano",
+      "leveysaste": 60.790082,
+      "pituusaste": 26.768965,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 262,
+      "nimi": "Rabbelugnin kartano",
+      "leveysaste": 60.790088,
+      "pituusaste": 26.768965,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 263,
+      "nimi": "Rahkolan kartano",
+      "leveysaste": 61.768912,
+      "pituusaste": 23.060092,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 264,
+      "nimi": "Rahmin talo",
+      "leveysaste": 63.840806,
+      "pituusaste": 23.130292,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 265,
+      "nimi": "Rahmin talo",
+      "leveysaste": 63.840809,
+      "pituusaste": 23.130278,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 266,
+      "nimi": "Rastilan kartano",
+      "leveysaste": 60.207619,
+      "pituusaste": 25.118213,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 267,
+      "nimi": "Rastilan kartano",
+      "leveysaste": 60.207622,
+      "pituusaste": 25.118188,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 268,
+      "nimi": "Ratulan kartano",
+      "leveysaste": 60.783759,
+      "pituusaste": 26.047106,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 269,
+      "nimi": "Ratulan kartano",
+      "leveysaste": 60.78376,
+      "pituusaste": 26.047108,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 270,
+      "nimi": "Rauhalahden kartano",
+      "leveysaste": 62.865368,
+      "pituusaste": 27.641471,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 271,
+      "nimi": "Rauhalahden kartano",
+      "leveysaste": 62.865369,
+      "pituusaste": 27.641534,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 272,
+      "nimi": "Rekolan kartano",
+      "leveysaste": 60.333365,
+      "pituusaste": 25.062162,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 273,
+      "nimi": "Rekolan kartano",
+      "leveysaste": 60.333376,
+      "pituusaste": 25.06217,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 274,
+      "nimi": "Ruissalon kartano",
+      "leveysaste": 60.43112,
+      "pituusaste": 22.186207,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 275,
+      "nimi": "Ruissalon kartano",
+      "leveysaste": 60.431123,
+      "pituusaste": 22.186198,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 276,
+      "nimi": "Rutumin kartano",
+      "leveysaste": 60.603367,
+      "pituusaste": 26.118804,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 277,
+      "nimi": "Rutumin kartano",
+      "leveysaste": 60.603416,
+      "pituusaste": 26.11882,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 278,
+      "nimi": "Röda Stugan",
+      "leveysaste": 60.25442,
+      "pituusaste": 24.444886,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 279,
+      "nimi": "Saaren kartano",
+      "leveysaste": 60.62929,
+      "pituusaste": 21.854209,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 280,
+      "nimi": "Saaren kartano",
+      "leveysaste": 60.734536,
+      "pituusaste": 25.42204,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 281,
+      "nimi": "Salahmin kartano",
+      "leveysaste": 63.804068,
+      "pituusaste": 26.933421,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 282,
+      "nimi": "Salahmin kartano",
+      "leveysaste": 63.804112,
+      "pituusaste": 26.933374,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 283,
+      "nimi": "Sannäsin Kartano",
+      "leveysaste": 60.415685,
+      "pituusaste": 25.799918,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 284,
+      "nimi": "Sannäsin Kartano",
+      "leveysaste": 60.415882,
+      "pituusaste": 25.799628,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 285,
+      "nimi": "Sanssinkartano",
+      "leveysaste": 62.425594,
+      "pituusaste": 22.174967,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 286,
+      "nimi": "Sanssinkartano",
+      "leveysaste": 62.425606,
+      "pituusaste": 22.17497,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 287,
+      "nimi": "Savijärven kartano",
+      "leveysaste": 60.363838,
+      "pituusaste": 25.322459,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 288,
+      "nimi": "Savijärven kartano",
+      "leveysaste": 60.36384,
+      "pituusaste": 25.322491,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 289,
+      "nimi": "Seestan kartano",
+      "leveysaste": 61.040178,
+      "pituusaste": 25.838811,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 290,
+      "nimi": "Segersby Gård",
+      "leveysaste": 60.466579,
+      "pituusaste": 26.007229,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 291,
+      "nimi": "Segersby Gård",
+      "leveysaste": 60.466595,
+      "pituusaste": 26.007274,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 292,
+      "nimi": "Silvolan kartano",
+      "leveysaste": 60.278909,
+      "pituusaste": 24.887697,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 293,
+      "nimi": "Sippolan kartano",
+      "leveysaste": 60.735825,
+      "pituusaste": 26.996745,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 294,
+      "nimi": "Sippolan kartano",
+      "leveysaste": 60.735839,
+      "pituusaste": 26.996847,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 295,
+      "nimi": "Siuntion Vanha Pappila",
+      "leveysaste": 60.180043,
+      "pituusaste": 24.218345,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 296,
+      "nimi": "Siuntion Vanha Pappila",
+      "leveysaste": 60.180064,
+      "pituusaste": 24.21838,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 297,
+      "nimi": "Sivukartano",
+      "leveysaste": 60.270143,
+      "pituusaste": 24.785482,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 298,
+      "nimi": "Sjökullan kartano",
+      "leveysaste": 60.622848,
+      "pituusaste": 26.157886,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 299,
+      "nimi": "Sjökullan kartano",
+      "leveysaste": 60.622862,
+      "pituusaste": 26.157892,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 300,
+      "nimi": "Sotavallan kartano",
+      "leveysaste": 61.294162,
+      "pituusaste": 23.838005,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 301,
+      "nimi": "Sotavallan kartano",
+      "leveysaste": 61.294167,
+      "pituusaste": 23.838016,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 302,
+      "nimi": "Spurilan kartano",
+      "leveysaste": 60.465515,
+      "pituusaste": 22.708946,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 303,
+      "nimi": "Stansvikin kartano",
+      "leveysaste": 60.163614,
+      "pituusaste": 25.030458,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 304,
+      "nimi": "Stensböle gård",
+      "leveysaste": 60.357787,
+      "pituusaste": 25.720703,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 305,
+      "nimi": "Strömsin kartano",
+      "leveysaste": 60.199065,
+      "pituusaste": 25.066133,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 306,
+      "nimi": "Strömsin kartano",
+      "leveysaste": 60.199067,
+      "pituusaste": 25.066135,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 307,
+      "nimi": "Suikkilan kartano",
+      "leveysaste": 60.471022,
+      "pituusaste": 22.226022,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 308,
+      "nimi": "Suikkilan kartano",
+      "leveysaste": 60.471029,
+      "pituusaste": 22.22603,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 309,
+      "nimi": "Suontaan kartano",
+      "leveysaste": 61.110199,
+      "pituusaste": 24.311753,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 310,
+      "nimi": "Suontaan kartano",
+      "leveysaste": 61.110229,
+      "pituusaste": 24.311792,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 311,
+      "nimi": "Suur-Sarvilahden kartano",
+      "leveysaste": 60.449401,
+      "pituusaste": 26.148722,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 312,
+      "nimi": "Svartå slott",
+      "leveysaste": 60.158029,
+      "pituusaste": 23.839115,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 313,
+      "nimi": "Sälinkään kartano",
+      "leveysaste": 60.709368,
+      "pituusaste": 25.227674,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 314,
+      "nimi": "Sälinkään kartano",
+      "leveysaste": 60.70939,
+      "pituusaste": 25.227696,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 315,
+      "nimi": "Sänkivaaran kartano",
+      "leveysaste": 62.727614,
+      "pituusaste": 29.008172,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 316,
+      "nimi": "Sänkivaaran kartano",
+      "leveysaste": 62.727617,
+      "pituusaste": 29.008183,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 317,
+      "nimi": "Söderkullan kartano",
+      "leveysaste": 60.2998,
+      "pituusaste": 25.306985,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 318,
+      "nimi": "Söderlångvik",
+      "leveysaste": 60.033193,
+      "pituusaste": 22.433855,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 319,
+      "nimi": "Taimisen huvila",
+      "leveysaste": 60.227329,
+      "pituusaste": 24.811998,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 320,
+      "nimi": "Taimisen huvila",
+      "leveysaste": 60.22733,
+      "pituusaste": 24.811998,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 321,
+      "nimi": "Talin kartano",
+      "leveysaste": 60.211998,
+      "pituusaste": 24.859682,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 322,
+      "nimi": "Talin kartano",
+      "leveysaste": 60.212002,
+      "pituusaste": 24.859689,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 323,
+      "nimi": "Teijon kartano",
+      "leveysaste": 60.25643,
+      "pituusaste": 22.957245,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 324,
+      "nimi": "Teijon kartano",
+      "leveysaste": 60.256478,
+      "pituusaste": 22.957194,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 325,
+      "nimi": "Tertin kartano",
+      "leveysaste": 61.706897,
+      "pituusaste": 27.381216,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 326,
+      "nimi": "Tertin kartano",
+      "leveysaste": 61.706902,
+      "pituusaste": 27.381212,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 327,
+      "nimi": "Tervalammen kartano",
+      "leveysaste": 60.328494,
+      "pituusaste": 24.42613,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 328,
+      "nimi": "Tervalammen kartano",
+      "leveysaste": 60.328532,
+      "pituusaste": 24.426201,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 329,
+      "nimi": "Tervikin kartano",
+      "leveysaste": 60.458678,
+      "pituusaste": 25.947612,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 330,
+      "nimi": "Tetom Gård",
+      "leveysaste": 60.53192,
+      "pituusaste": 25.940216,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 331,
+      "nimi": "Tetom Gård",
+      "leveysaste": 60.531943,
+      "pituusaste": 25.940197,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 332,
+      "nimi": "Thorstorp",
+      "leveysaste": 60.222103,
+      "pituusaste": 24.802134,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 333,
+      "nimi": "Thorsvikin kartano",
+      "leveysaste": 60.13849,
+      "pituusaste": 24.620396,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 334,
+      "nimi": "Tjusterbyn kartano",
+      "leveysaste": 60.43163,
+      "pituusaste": 25.989056,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 335,
+      "nimi": "Tortinlinna",
+      "leveysaste": 60.685756,
+      "pituusaste": 22.438157,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 336,
+      "nimi": "Träskändan kartano",
+      "leveysaste": 60.236955,
+      "pituusaste": 24.708837,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 337,
+      "nimi": "Träskändan kartano",
+      "leveysaste": 60.236981,
+      "pituusaste": 24.708803,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 338,
+      "nimi": "Tuohilammen kartano",
+      "leveysaste": 60.409428,
+      "pituusaste": 24.506971,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 339,
+      "nimi": "Tuohilammen kartano",
+      "leveysaste": 60.409452,
+      "pituusaste": 24.506987,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 340,
+      "nimi": "Tuomarinkylän kartano",
+      "leveysaste": 60.255175,
+      "pituusaste": 24.970239,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 341,
+      "nimi": "Tuomarinkylän kartano",
+      "leveysaste": 60.25519,
+      "pituusaste": 24.970309,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 342,
+      "nimi": "Tupala-Uudenkylän kartano",
+      "leveysaste": 60.239228,
+      "pituusaste": 24.162229,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 343,
+      "nimi": "Tuupalan kartano",
+      "leveysaste": 64.12518,
+      "pituusaste": 29.504159,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 344,
+      "nimi": "Tyyskylän Kartano",
+      "leveysaste": 60.175846,
+      "pituusaste": 24.200339,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 345,
+      "nimi": "Tyyskylän Kartano",
+      "leveysaste": 60.175857,
+      "pituusaste": 24.200389,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 346,
+      "nimi": "Törnävän kartano",
+      "leveysaste": 62.761715,
+      "pituusaste": 22.837313,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 347,
+      "nimi": "Töyrylän kartano",
+      "leveysaste": 60.73826,
+      "pituusaste": 26.098554,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 348,
+      "nimi": "Töyrylän kartano",
+      "leveysaste": 60.738269,
+      "pituusaste": 26.098549,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 349,
+      "nimi": "Uikunpesä",
+      "leveysaste": 60.20195,
+      "pituusaste": 24.823304,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 350,
+      "nimi": "Urajärven kartano",
+      "leveysaste": 61.138551,
+      "pituusaste": 25.793306,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 351,
+      "nimi": "Urajärven kartano",
+      "leveysaste": 61.13856,
+      "pituusaste": 25.793306,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 352,
+      "nimi": "Uusi-Olkkola",
+      "leveysaste": 61.434764,
+      "pituusaste": 25.844157,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 353,
+      "nimi": "Valkealan kartano",
+      "leveysaste": 60.940542,
+      "pituusaste": 26.784526,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 354,
+      "nimi": "Valkealan kartano",
+      "leveysaste": 60.94056,
+      "pituusaste": 26.784449,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 355,
+      "nimi": "Vanajan kartano",
+      "leveysaste": 60.975982,
+      "pituusaste": 24.559365,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 356,
+      "nimi": "Vanajan kartano",
+      "leveysaste": 60.976009,
+      "pituusaste": 24.559356,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 357,
+      "nimi": "Vanajanlinna",
+      "leveysaste": 60.975641,
+      "pituusaste": 24.559212,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 358,
+      "nimi": "Vanajanlinna",
+      "leveysaste": 60.975642,
+      "pituusaste": 24.559183,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 359,
+      "nimi": "Vanha pääkartano",
+      "leveysaste": 60.270746,
+      "pituusaste": 24.784624,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 360,
+      "nimi": "Vanha-Olkkola",
+      "leveysaste": 61.424538,
+      "pituusaste": 25.844338,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 361,
+      "nimi": "Vanhakartano",
+      "leveysaste": 61.437548,
+      "pituusaste": 25.750728,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 362,
+      "nimi": "Vanhakartano",
+      "leveysaste": 61.437565,
+      "pituusaste": 25.75062,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 363,
+      "nimi": "Vanhalinnan kartano",
+      "leveysaste": 60.486264,
+      "pituusaste": 22.379106,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 364,
+      "nimi": "Vanhankylän kartano",
+      "leveysaste": 60.455083,
+      "pituusaste": 25.062587,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 365,
+      "nimi": "Vanjärven kartano",
+      "leveysaste": 60.456654,
+      "pituusaste": 24.230588,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 366,
+      "nimi": "Vanjärven kartano",
+      "leveysaste": 60.45668,
+      "pituusaste": 24.230586,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 367,
+      "nimi": "Varpanrannan kartano",
+      "leveysaste": 61.998792,
+      "pituusaste": 28.757909,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 368,
+      "nimi": "Varpanrannan kartano",
+      "leveysaste": 61.998808,
+      "pituusaste": 28.757868,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 369,
+      "nimi": "Vehniän kartano",
+      "leveysaste": 62.429432,
+      "pituusaste": 25.682278,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 370,
+      "nimi": "Vehniän kartano",
+      "leveysaste": 62.42944,
+      "pituusaste": 25.682292,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 371,
+      "nimi": "Veikkolan kartano",
+      "leveysaste": 60.374578,
+      "pituusaste": 24.297956,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 372,
+      "nimi": "Veikkolan kartano",
+      "leveysaste": 60.374588,
+      "pituusaste": 24.298075,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 373,
+      "nimi": "Vesunnin kartano",
+      "leveysaste": 61.089997,
+      "pituusaste": 24.368067,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 374,
+      "nimi": "Viikin latokartano",
+      "leveysaste": 60.22649,
+      "pituusaste": 25.011126,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 375,
+      "nimi": "Viikin latokartano",
+      "leveysaste": 60.226491,
+      "pituusaste": 25.011125,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 376,
+      "nimi": "Villa Apteekki",
+      "leveysaste": 60.205348,
+      "pituusaste": 24.650811,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 377,
+      "nimi": "Villa Apteekki",
+      "leveysaste": 60.20535,
+      "pituusaste": 24.650821,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 378,
+      "nimi": "Villa Bensow",
+      "leveysaste": 60.208416,
+      "pituusaste": 24.735236,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 379,
+      "nimi": "Villa Bensow",
+      "leveysaste": 60.208422,
+      "pituusaste": 24.735245,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 380,
+      "nimi": "Villa Berghamra",
+      "leveysaste": 60.216288,
+      "pituusaste": 24.735575,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 381,
+      "nimi": "Villa Berghamra",
+      "leveysaste": 60.216296,
+      "pituusaste": 24.735579,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 382,
+      "nimi": "Villa Dalby",
+      "leveysaste": 60.245521,
+      "pituusaste": 24.659572,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 383,
+      "nimi": "Villa Eka",
+      "leveysaste": 60.215518,
+      "pituusaste": 24.773253,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 384,
+      "nimi": "Villa Eka",
+      "leveysaste": 60.215537,
+      "pituusaste": 24.77326,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 385,
+      "nimi": "Villa Ekebo",
+      "leveysaste": 60.214282,
+      "pituusaste": 24.717647,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 386,
+      "nimi": "Villa Elfvik",
+      "leveysaste": 60.201708,
+      "pituusaste": 24.822344,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 387,
+      "nimi": "Villa Furubacka",
+      "leveysaste": 60.199661,
+      "pituusaste": 24.654668,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 388,
+      "nimi": "Villa Furubacka",
+      "leveysaste": 60.199664,
+      "pituusaste": 24.654697,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 389,
+      "nimi": "Villa Granliden",
+      "leveysaste": 60.215402,
+      "pituusaste": 24.785301,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 390,
+      "nimi": "Villa Granliden",
+      "leveysaste": 60.215403,
+      "pituusaste": 24.785298,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 391,
+      "nimi": "Villa Hemgrund",
+      "leveysaste": 62.261487,
+      "pituusaste": 21.366918,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 392,
+      "nimi": "Villa Hemgrund",
+      "leveysaste": 62.261494,
+      "pituusaste": 21.366922,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 393,
+      "nimi": "Villa Junghans",
+      "leveysaste": 60.207054,
+      "pituusaste": 24.727996,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 394,
+      "nimi": "Villa Junghans",
+      "leveysaste": 60.207061,
+      "pituusaste": 24.728008,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 395,
+      "nimi": "Villa Koli",
+      "leveysaste": 60.152075,
+      "pituusaste": 24.764681,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 396,
+      "nimi": "Villa Koli",
+      "leveysaste": 60.15209,
+      "pituusaste": 24.764645,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 397,
+      "nimi": "Villa Odenvall",
+      "leveysaste": 60.213901,
+      "pituusaste": 24.72389,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 398,
+      "nimi": "Villa Pelander",
+      "leveysaste": 60.221531,
+      "pituusaste": 24.718053,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 399,
+      "nimi": "Villa Skogshyddan",
+      "leveysaste": 60.215201,
+      "pituusaste": 24.729369,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 400,
+      "nimi": "Villa Skogshyddan",
+      "leveysaste": 60.215213,
+      "pituusaste": 24.729369,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 401,
+      "nimi": "Villa Solhäll",
+      "leveysaste": 60.218809,
+      "pituusaste": 24.7223,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 402,
+      "nimi": "Villa Solhäll",
+      "leveysaste": 60.218815,
+      "pituusaste": 24.722316,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 403,
+      "nimi": "Villa Solkulla",
+      "leveysaste": 60.224515,
+      "pituusaste": 24.66024,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 404,
+      "nimi": "Villa Solvik",
+      "leveysaste": 60.202424,
+      "pituusaste": 25.152588,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 405,
+      "nimi": "Villa Solvik",
+      "leveysaste": 60.202424,
+      "pituusaste": 25.152599,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 406,
+      "nimi": "Villa Vallmogård",
+      "leveysaste": 60.213964,
+      "pituusaste": 24.732411,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 407,
+      "nimi": "Villa Vallmogård",
+      "leveysaste": 60.213972,
+      "pituusaste": 24.732414,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 408,
+      "nimi": "Villa Wulff",
+      "leveysaste": 60.207567,
+      "pituusaste": 24.720283,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 409,
+      "nimi": "Villa Åkerblom",
+      "leveysaste": 60.203809,
+      "pituusaste": 24.828562,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 410,
+      "nimi": "Villa Åkerblom",
+      "leveysaste": 60.203813,
+      "pituusaste": 24.828559,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 411,
+      "nimi": "Vuojoen kartano",
+      "leveysaste": 61.218021,
+      "pituusaste": 21.672969,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 412,
+      "nimi": "Vuojoen kartano",
+      "leveysaste": 61.218032,
+      "pituusaste": 21.672831,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 413,
+      "nimi": "Vuosaaren kartano",
+      "leveysaste": 60.210121,
+      "pituusaste": 25.16003,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 414,
+      "nimi": "Västerby Gård",
+      "leveysaste": 60.169658,
+      "pituusaste": 24.198262,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 415,
+      "nimi": "Västerby Gård",
+      "leveysaste": 60.169691,
+      "pituusaste": 24.198281,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 416,
+      "nimi": "Wastmäen kartano",
+      "leveysaste": 60.39241,
+      "pituusaste": 22.232007,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 417,
+      "nimi": "Wastmäen kartano",
+      "leveysaste": 60.392414,
+      "pituusaste": 22.23199,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 418,
+      "nimi": "Westerkullan kartano",
+      "leveysaste": 60.245868,
+      "pituusaste": 25.12538,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 419,
+      "nimi": "Westerkullan kartano",
+      "leveysaste": 60.245874,
+      "pituusaste": 25.125382,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 420,
+      "nimi": "Willebrandin huvila",
+      "leveysaste": 60.215673,
+      "pituusaste": 24.727079,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 421,
+      "nimi": "Willebrandin huvila",
+      "leveysaste": 60.215677,
+      "pituusaste": 24.727052,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 422,
+      "nimi": "Wohls gård",
+      "leveysaste": 60.170384,
+      "pituusaste": 24.399527,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 423,
+      "nimi": "Wredebyn kartano",
+      "leveysaste": 60.667443,
+      "pituusaste": 26.742881,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 424,
+      "nimi": "Wredebyn kartano",
+      "leveysaste": 60.667468,
+      "pituusaste": 26.742905,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 425,
+      "nimi": "Wuolteen kartano",
+      "leveysaste": 61.20274,
+      "pituusaste": 24.529259,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 426,
+      "nimi": "Wuolteen kartano",
+      "leveysaste": 61.202755,
+      "pituusaste": 24.529247,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 427,
+      "nimi": "Ylhä",
+      "leveysaste": 60.257628,
+      "pituusaste": 23.75472,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 428,
+      "nimi": "Yli-Lemun kartano",
+      "leveysaste": 60.392712,
+      "pituusaste": 22.318632,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 429,
+      "nimi": "Yli-Lemun kartano",
+      "leveysaste": 60.392719,
+      "pituusaste": 22.318633,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 430,
+      "nimi": "Ylisen kartano",
+      "leveysaste": 61.630768,
+      "pituusaste": 23.614983,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 431,
+      "nimi": "Ylähovi",
+      "leveysaste": 62.901928,
+      "pituusaste": 27.816926,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 432,
+      "nimi": "Yläkartano",
+      "leveysaste": 60.14019,
+      "pituusaste": 24.658427,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 433,
+      "nimi": "Yläkartano",
+      "leveysaste": 60.140195,
+      "pituusaste": 24.658424,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 434,
+      "nimi": "Yläneen kartano",
+      "leveysaste": 60.8721,
+      "pituusaste": 22.408531,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 435,
+      "nimi": "Åbergin talo",
+      "leveysaste": 60.225695,
+      "pituusaste": 24.813313,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 436,
+      "nimi": "Åby gård",
+      "leveysaste": 60.329533,
+      "pituusaste": 25.861394,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 437,
+      "nimi": "Åminne gård",
+      "leveysaste": 60.087044,
+      "pituusaste": 23.563805,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 438,
+      "nimi": "Åminne gård",
+      "leveysaste": 60.087064,
+      "pituusaste": 23.563787,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 439,
+      "nimi": "Åminnen kartano",
+      "leveysaste": 60.18225,
+      "pituusaste": 24.59367,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 440,
+      "nimi": "Åminnen kartano",
+      "leveysaste": 60.182259,
+      "pituusaste": 24.593705,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 441,
+      "nimi": "Östersundomin kartano",
+      "leveysaste": 60.258537,
+      "pituusaste": 25.193004,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    },
+    {
+      "id": 442,
+      "nimi": "Östersundomin kartano",
+      "leveysaste": 60.258545,
+      "pituusaste": 25.192986,
+      "osm_avain": "historic",
+      "osm_arvo": "manor",
+      "osm_luokka": "historic=manor"
+    }
+  ],
+  "meta": {
+    "title": "Kartanot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kartanot Suomessa — 442 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=manor`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 93. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 442 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kartanot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kartanot – Suomi (OpenStreetMap) — 442 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 442 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,1726 @@
+{
+  "id": "fi-osm-historic-ruins",
+  "name": "Rauniot – Suomi (OpenStreetMap)",
+  "title": "Rauniot – Suomi (OpenStreetMap)",
+  "description": "Rauniot Suomessa — 185 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=ruins`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 185,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aeron kaarihalli",
+      "leveysaste": 60.651258,
+      "pituusaste": 24.884456,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 2,
+      "nimi": "Ancient stone pile",
+      "leveysaste": 60.2851,
+      "pituusaste": 21.946691,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 3,
+      "nimi": "Anterin ylätukikohta",
+      "leveysaste": 68.268642,
+      "pituusaste": 28.559846,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 4,
+      "nimi": "Bastvikin höyrysaha",
+      "leveysaste": 60.159685,
+      "pituusaste": 24.609563,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 5,
+      "nimi": "Bembölen vanha mylly",
+      "leveysaste": 60.223927,
+      "pituusaste": 24.662093,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 6,
+      "nimi": "Brahelinna",
+      "leveysaste": 61.496914,
+      "pituusaste": 27.272116,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 7,
+      "nimi": "Brahelinna",
+      "leveysaste": 61.496931,
+      "pituusaste": 27.272149,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 8,
+      "nimi": "Bunkkeri",
+      "leveysaste": 60.149348,
+      "pituusaste": 24.335163,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 9,
+      "nimi": "Bunkkerin jäännökset",
+      "leveysaste": 60.146493,
+      "pituusaste": 24.348578,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 10,
+      "nimi": "Elomaan sahan jäännökset",
+      "leveysaste": 64.681598,
+      "pituusaste": 24.481623,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 11,
+      "nimi": "Eläintarhan hyppyrimäki",
+      "leveysaste": 60.189586,
+      "pituusaste": 24.938343,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 12,
+      "nimi": "Epilän kylpylä",
+      "leveysaste": 61.509802,
+      "pituusaste": 23.672226,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 13,
+      "nimi": "Haapaniemen linnanrauniot",
+      "leveysaste": 60.23897,
+      "pituusaste": 23.451267,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 14,
+      "nimi": "Haarla cellulose factory",
+      "leveysaste": 62.264451,
+      "pituusaste": 26.196161,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 15,
+      "nimi": "Halikon rautatieasema",
+      "leveysaste": 60.399782,
+      "pituusaste": 23.040517,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 16,
+      "nimi": "Halikon rautatieasema",
+      "leveysaste": 60.399792,
+      "pituusaste": 23.040529,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 17,
+      "nimi": "Halimaan saha",
+      "leveysaste": 61.499035,
+      "pituusaste": 23.987842,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 18,
+      "nimi": "Hallan Ukon terva- ja tärpättitehdas",
+      "leveysaste": 64.797278,
+      "pituusaste": 28.52855,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 19,
+      "nimi": "Harjun sarvilinna",
+      "leveysaste": 60.459079,
+      "pituusaste": 26.221426,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 20,
+      "nimi": "Hartikan kirkkomaa",
+      "leveysaste": 62.390264,
+      "pituusaste": 26.060148,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 21,
+      "nimi": "Haukilahden rauniot",
+      "leveysaste": 60.158652,
+      "pituusaste": 24.777155,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 22,
+      "nimi": "Helsingin ilmapuolustus talvi- & jatkosodassa",
+      "leveysaste": 60.159099,
+      "pituusaste": 24.864418,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 23,
+      "nimi": "Helsingin ilmapuolustus talvi- & jatkosodassa",
+      "leveysaste": 60.159727,
+      "pituusaste": 24.86544,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 24,
+      "nimi": "Hongasmossanin talon rauniot",
+      "leveysaste": 60.256508,
+      "pituusaste": 24.842136,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 25,
+      "nimi": "Hurulanniemen mökki",
+      "leveysaste": 67.928071,
+      "pituusaste": 24.076971,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 26,
+      "nimi": "Huutokoski Ironworks",
+      "leveysaste": 62.20458,
+      "pituusaste": 27.722774,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 27,
+      "nimi": "Huvilan kivijalka",
+      "leveysaste": 60.904928,
+      "pituusaste": 25.242161,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 28,
+      "nimi": "Huvilan kivijalka",
+      "leveysaste": 60.904929,
+      "pituusaste": 25.242222,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 29,
+      "nimi": "Huvimajan kivijalka",
+      "leveysaste": 60.171952,
+      "pituusaste": 25.011188,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 30,
+      "nimi": "Huvimajan kivijalka",
+      "leveysaste": 60.171953,
+      "pituusaste": 25.011185,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 31,
+      "nimi": "Hyppyrimäki",
+      "leveysaste": 60.189439,
+      "pituusaste": 24.892171,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 32,
+      "nimi": "Hyppyrimäki",
+      "leveysaste": 60.189469,
+      "pituusaste": 24.89318,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 33,
+      "nimi": "I ja II maailmansodan juoksuhautoja&panssariestekaivantoja",
+      "leveysaste": 61.068529,
+      "pituusaste": 27.799108,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 34,
+      "nimi": "Ilmavalvontatorni",
+      "leveysaste": 60.466349,
+      "pituusaste": 22.01661,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 35,
+      "nimi": "Isokosken voimalaitos",
+      "leveysaste": 63.811104,
+      "pituusaste": 23.290201,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 36,
+      "nimi": "J. V. Snellmanin nuoruudenkodin paikka",
+      "leveysaste": 63.277152,
+      "pituusaste": 22.833125,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 37,
+      "nimi": "Jarlsgårdin jatulintarha",
+      "leveysaste": 60.051294,
+      "pituusaste": 22.6489,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 38,
+      "nimi": "Jousan ryvin rauniot",
+      "leveysaste": 61.736873,
+      "pituusaste": 26.108342,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 39,
+      "nimi": "Jungfrudansen",
+      "leveysaste": 60.095702,
+      "pituusaste": 19.946551,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 40,
+      "nimi": "Jungfrudansen",
+      "leveysaste": 60.09571,
+      "pituusaste": 19.946564,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 41,
+      "nimi": "Junkers",
+      "leveysaste": 67.681447,
+      "pituusaste": 24.54248,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 42,
+      "nimi": "Juoksuhautoja",
+      "leveysaste": 64.260351,
+      "pituusaste": 25.874899,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 43,
+      "nimi": "Jääkärikämppä",
+      "leveysaste": 68.436549,
+      "pituusaste": 28.295509,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 44,
+      "nimi": "Kaarenneskosken masuuni",
+      "leveysaste": 66.646237,
+      "pituusaste": 24.433956,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 45,
+      "nimi": "Kaarenneskosken masuuni",
+      "leveysaste": 66.646241,
+      "pituusaste": 24.43396,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 46,
+      "nimi": "Kaivokselan viemärivesipuhdistamo",
+      "leveysaste": 60.26983,
+      "pituusaste": 24.862728,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 47,
+      "nimi": "Kammi",
+      "leveysaste": 69.899144,
+      "pituusaste": 28.035609,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 48,
+      "nimi": "Kankaanrinnan huvila",
+      "leveysaste": 62.599502,
+      "pituusaste": 29.720134,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 49,
+      "nimi": "Kapellbackenin kirkonpaikka",
+      "leveysaste": 60.139294,
+      "pituusaste": 24.267094,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 50,
+      "nimi": "Kapellbackenin kirkonpaikka",
+      "leveysaste": 60.139298,
+      "pituusaste": 24.267183,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 51,
+      "nimi": "Karunaslaavun korsu",
+      "leveysaste": 68.315769,
+      "pituusaste": 27.823738,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 52,
+      "nimi": "Kasarmin kivijalka",
+      "leveysaste": 60.10402,
+      "pituusaste": 25.047401,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 53,
+      "nimi": "Kaukajärven kartano, päärakennus",
+      "leveysaste": 61.471275,
+      "pituusaste": 23.918034,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 54,
+      "nimi": "Kaukajärven kartano, päärakennus",
+      "leveysaste": 61.471287,
+      "pituusaste": 23.918075,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 55,
+      "nimi": "Kaukajärven kartanon karjarakennus, myöhemmin painosali.",
+      "leveysaste": 61.471917,
+      "pituusaste": 23.919875,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 56,
+      "nimi": "Kaukajärven kartanon väentupa",
+      "leveysaste": 61.471903,
+      "pituusaste": 23.918931,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 57,
+      "nimi": "Kaukajärven kartanon väentupa",
+      "leveysaste": 61.471904,
+      "pituusaste": 23.918973,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 58,
+      "nimi": "Kaustinen ski jumping hill",
+      "leveysaste": 63.541669,
+      "pituusaste": 23.690098,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 59,
+      "nimi": "Keihäsjoen mylly",
+      "leveysaste": 62.856662,
+      "pituusaste": 27.149306,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 60,
+      "nimi": "Keinutuolikämppä",
+      "leveysaste": 68.313234,
+      "pituusaste": 28.54102,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 61,
+      "nimi": "Kiffenin ampumarata",
+      "leveysaste": 60.226498,
+      "pituusaste": 24.900596,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 62,
+      "nimi": "Kirvunlinna",
+      "leveysaste": 61.391642,
+      "pituusaste": 24.25101,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 63,
+      "nimi": "Kivijärven pato",
+      "leveysaste": 60.959642,
+      "pituusaste": 27.796834,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 64,
+      "nimi": "Kiviröykkiö",
+      "leveysaste": 59.969882,
+      "pituusaste": 21.774727,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 65,
+      "nimi": "Kiviröykkiö",
+      "leveysaste": 59.970366,
+      "pituusaste": 21.774816,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 66,
+      "nimi": "Kolkonjärven Hiiltämötyömaa",
+      "leveysaste": 63.736041,
+      "pituusaste": 29.401671,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 67,
+      "nimi": "Kuisma",
+      "leveysaste": 65.225861,
+      "pituusaste": 29.615546,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 68,
+      "nimi": "Kuuston Ruukki",
+      "leveysaste": 60.118544,
+      "pituusaste": 23.112756,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 69,
+      "nimi": "Kytäjän saha",
+      "leveysaste": 60.609072,
+      "pituusaste": 24.679208,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 70,
+      "nimi": "Kärkelän Ruukki",
+      "leveysaste": 60.260997,
+      "pituusaste": 23.611684,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 71,
+      "nimi": "Käräjäkivet",
+      "leveysaste": 61.128037,
+      "pituusaste": 22.140586,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 72,
+      "nimi": "Latokartanon myllyn rauniot",
+      "leveysaste": 60.129997,
+      "pituusaste": 23.159908,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 73,
+      "nimi": "Lempoisten sahan rauniot",
+      "leveysaste": 61.314545,
+      "pituusaste": 23.747799,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 74,
+      "nimi": "Lepaan kartanon navetta (Taltela)",
+      "leveysaste": 61.114352,
+      "pituusaste": 24.32417,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 75,
+      "nimi": "Liinaharjan palanut kuivaamo",
+      "leveysaste": 61.483895,
+      "pituusaste": 21.731578,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 76,
+      "nimi": "Linnakangas",
+      "leveysaste": 64.631378,
+      "pituusaste": 24.711626,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 77,
+      "nimi": "Linnamäki",
+      "leveysaste": 60.389116,
+      "pituusaste": 23.054064,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 78,
+      "nimi": "Linnan kivijalka",
+      "leveysaste": 60.904247,
+      "pituusaste": 25.245084,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 79,
+      "nimi": "Linnan kivijalka",
+      "leveysaste": 60.904254,
+      "pituusaste": 25.245087,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 80,
+      "nimi": "Linnavuori",
+      "leveysaste": 61.105584,
+      "pituusaste": 22.156009,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 81,
+      "nimi": "Linnavuori",
+      "leveysaste": 61.110232,
+      "pituusaste": 28.114289,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 82,
+      "nimi": "Linnoitus",
+      "leveysaste": 61.093958,
+      "pituusaste": 27.239174,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 83,
+      "nimi": "Lopetettu kauppa",
+      "leveysaste": 62.440871,
+      "pituusaste": 30.041651,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 84,
+      "nimi": "Lopetettu kauppa",
+      "leveysaste": 62.440882,
+      "pituusaste": 30.041641,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 85,
+      "nimi": "Luotsiaseman perustukset",
+      "leveysaste": 60.459648,
+      "pituusaste": 26.964618,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 86,
+      "nimi": "Lyöttilän kenttälinnoitus",
+      "leveysaste": 60.949104,
+      "pituusaste": 26.458177,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 87,
+      "nimi": "Maivaperän Roopenkki",
+      "leveysaste": 64.671496,
+      "pituusaste": 24.419673,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 88,
+      "nimi": "Mantereenlinna",
+      "leveysaste": 60.981461,
+      "pituusaste": 24.528699,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 89,
+      "nimi": "Mattilan kartanon työläisten asunnon rauniot",
+      "leveysaste": 60.712839,
+      "pituusaste": 24.755674,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 90,
+      "nimi": "Maunulan hyppyrimäki",
+      "leveysaste": 60.223492,
+      "pituusaste": 24.922908,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 91,
+      "nimi": "Metsänvartijan talo",
+      "leveysaste": 61.072775,
+      "pituusaste": 22.080477,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 92,
+      "nimi": "Meänteisen museoalue",
+      "leveysaste": 68.307463,
+      "pituusaste": 27.814165,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 93,
+      "nimi": "Muinaislinna",
+      "leveysaste": 61.161132,
+      "pituusaste": 24.760902,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 94,
+      "nimi": "Mullolan satama",
+      "leveysaste": 63.123582,
+      "pituusaste": 22.044749,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 95,
+      "nimi": "Museoitu raunio",
+      "leveysaste": 68.385014,
+      "pituusaste": 28.056358,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 96,
+      "nimi": "Mylly",
+      "leveysaste": 60.29894,
+      "pituusaste": 25.30854,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 97,
+      "nimi": "Navetta",
+      "leveysaste": 60.413646,
+      "pituusaste": 24.325091,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 98,
+      "nimi": "Notvikstornet",
+      "leveysaste": 60.221543,
+      "pituusaste": 20.237074,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 99,
+      "nimi": "Notvikstornet",
+      "leveysaste": 60.221555,
+      "pituusaste": 20.237092,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 100,
+      "nimi": "Näkötornin rauniot",
+      "leveysaste": 61.060449,
+      "pituusaste": 28.181209,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 101,
+      "nimi": "Näkötornin rauniot",
+      "leveysaste": 61.060451,
+      "pituusaste": 28.18121,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 102,
+      "nimi": "Olkkalan mäkihyppytorni",
+      "leveysaste": 60.447844,
+      "pituusaste": 24.338286,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 103,
+      "nimi": "Oskar Engbergin talo",
+      "leveysaste": 60.345576,
+      "pituusaste": 25.126005,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 104,
+      "nimi": "Oulun linna",
+      "leveysaste": 65.017234,
+      "pituusaste": 25.467309,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 105,
+      "nimi": "Padagova",
+      "leveysaste": 68.278777,
+      "pituusaste": 27.797708,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 106,
+      "nimi": "Parolankangas 1",
+      "leveysaste": 61.015882,
+      "pituusaste": 24.382671,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 107,
+      "nimi": "Perttulan kuppikivi",
+      "leveysaste": 60.965885,
+      "pituusaste": 24.501309,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 108,
+      "nimi": "Porkkala 1",
+      "leveysaste": 60.1538,
+      "pituusaste": 24.611411,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 109,
+      "nimi": "Prästö Tornet",
+      "leveysaste": 60.218682,
+      "pituusaste": 20.249036,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 110,
+      "nimi": "Prästö nya begravningsplatser",
+      "leveysaste": 60.210215,
+      "pituusaste": 20.269028,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 111,
+      "nimi": "Punainen mökki",
+      "leveysaste": 60.172753,
+      "pituusaste": 25.013416,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 112,
+      "nimi": "Punainen mökki",
+      "leveysaste": 60.172756,
+      "pituusaste": 25.013436,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 113,
+      "nimi": "Puutarhurin huvila",
+      "leveysaste": 60.174763,
+      "pituusaste": 25.016953,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 114,
+      "nimi": "Puutarhurin huvila",
+      "leveysaste": 60.174764,
+      "pituusaste": 25.016955,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 115,
+      "nimi": "Pyhäkeron matkailumajan rauniot",
+      "leveysaste": 68.329971,
+      "pituusaste": 23.760522,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 116,
+      "nimi": "Pyhän Birgitan kirkon rauniot",
+      "leveysaste": 60.416922,
+      "pituusaste": 24.309013,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 117,
+      "nimi": "Pyhän Birgitan kirkon rauniot",
+      "leveysaste": 60.416933,
+      "pituusaste": 24.309057,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 118,
+      "nimi": "Pyhän Kolminaisuuden kirkon rauniot",
+      "leveysaste": 61.126927,
+      "pituusaste": 21.516225,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 119,
+      "nimi": "Pyhän Kolminaisuuden kirkon rauniot",
+      "leveysaste": 61.126927,
+      "pituusaste": 21.516242,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 120,
+      "nimi": "Pyhän Laurin kirkon rauniot",
+      "leveysaste": 61.027792,
+      "pituusaste": 25.13715,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 121,
+      "nimi": "Pyhän Laurin kirkon rauniot",
+      "leveysaste": 61.027794,
+      "pituusaste": 25.13715,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 122,
+      "nimi": "Pääkaupunkiseudun I maailmansodan aikainen linnoite",
+      "leveysaste": 60.208888,
+      "pituusaste": 25.052022,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 123,
+      "nimi": "Raavuoren linnoitteet",
+      "leveysaste": 60.775845,
+      "pituusaste": 26.573923,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 124,
+      "nimi": "Rajaröykkiö",
+      "leveysaste": 60.292258,
+      "pituusaste": 25.193074,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 125,
+      "nimi": "Ratasilta",
+      "leveysaste": 60.609763,
+      "pituusaste": 24.680816,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 126,
+      "nimi": "Rauhoitettu",
+      "leveysaste": 60.502361,
+      "pituusaste": 26.470383,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 127,
+      "nimi": "Rautakosken ruukki",
+      "leveysaste": 60.681633,
+      "pituusaste": 24.160974,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 128,
+      "nimi": "Ravattulan keskiaikainen kirkko",
+      "leveysaste": 60.470344,
+      "pituusaste": 22.343044,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 129,
+      "nimi": "Ravattulan keskiaikainen kirkko",
+      "leveysaste": 60.470347,
+      "pituusaste": 22.343063,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 130,
+      "nimi": "Rounala kyrka",
+      "leveysaste": 68.807946,
+      "pituusaste": 21.153641,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 131,
+      "nimi": "Ruiner av tvätteri",
+      "leveysaste": 63.707296,
+      "pituusaste": 22.675949,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 132,
+      "nimi": "Ruins of windmill",
+      "leveysaste": 63.08905,
+      "pituusaste": 25.841369,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 133,
+      "nimi": "Ruskeasuon hyppyrimäki",
+      "leveysaste": 60.198334,
+      "pituusaste": 24.918478,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 134,
+      "nimi": "Russian fortifications",
+      "leveysaste": 59.927875,
+      "pituusaste": 20.860192,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 135,
+      "nimi": "Ruutikellari",
+      "leveysaste": 61.018028,
+      "pituusaste": 24.474753,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 136,
+      "nimi": "Ryssugn",
+      "leveysaste": 63.367213,
+      "pituusaste": 21.396394,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 137,
+      "nimi": "Saarikosken ruukki",
+      "leveysaste": 64.125451,
+      "pituusaste": 29.398968,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 138,
+      "nimi": "Sahan rauniot",
+      "leveysaste": 61.361215,
+      "pituusaste": 21.619645,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 139,
+      "nimi": "Salpalinja - Punkasen patteri",
+      "leveysaste": 61.029755,
+      "pituusaste": 27.73357,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 140,
+      "nimi": "Salpalinjan tukikohta",
+      "leveysaste": 63.556361,
+      "pituusaste": 29.13032,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 141,
+      "nimi": "Sauna",
+      "leveysaste": 65.876549,
+      "pituusaste": 29.327419,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 142,
+      "nimi": "Sauna",
+      "leveysaste": 65.876555,
+      "pituusaste": 29.327415,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 143,
+      "nimi": "Saunaharjun sauna",
+      "leveysaste": 68.267079,
+      "pituusaste": 28.552643,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 144,
+      "nimi": "Saunaharjun sauna",
+      "leveysaste": 68.267089,
+      "pituusaste": 28.552643,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 145,
+      "nimi": "Signilskärs kapellruin",
+      "leveysaste": 60.199096,
+      "pituusaste": 19.332507,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 146,
+      "nimi": "Skogby Bruk",
+      "leveysaste": 59.935895,
+      "pituusaste": 23.233144,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 147,
+      "nimi": "Skogby bruk",
+      "leveysaste": 59.929579,
+      "pituusaste": 23.225516,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 148,
+      "nimi": "Sourun ruukki",
+      "leveysaste": 62.859994,
+      "pituusaste": 27.120951,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 149,
+      "nimi": "Stenkrossen",
+      "leveysaste": 60.087591,
+      "pituusaste": 19.931026,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 150,
+      "nimi": "Stenkrossen",
+      "leveysaste": 60.087594,
+      "pituusaste": 19.931029,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 151,
+      "nimi": "Sunnanå Ironworks",
+      "leveysaste": 60.106848,
+      "pituusaste": 22.533458,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 152,
+      "nimi": "Taajoslaavu",
+      "leveysaste": 68.36676,
+      "pituusaste": 27.627933,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 153,
+      "nimi": "Tekorauniot",
+      "leveysaste": 61.010719,
+      "pituusaste": 24.448825,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 154,
+      "nimi": "Tekorauniot",
+      "leveysaste": 61.010726,
+      "pituusaste": 24.448818,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 155,
+      "nimi": "Tervahauta",
+      "leveysaste": 68.866426,
+      "pituusaste": 26.944146,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 156,
+      "nimi": "Tervatehtaan rauniot",
+      "leveysaste": 62.758167,
+      "pituusaste": 25.356646,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 157,
+      "nimi": "Torpanmäen kiviaita",
+      "leveysaste": 61.57729,
+      "pituusaste": 25.652422,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 158,
+      "nimi": "Torpanmäen kiviaita",
+      "leveysaste": 61.577292,
+      "pituusaste": 25.652419,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 159,
+      "nimi": "Trollshovda bruk",
+      "leveysaste": 60.058453,
+      "pituusaste": 23.084866,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 160,
+      "nimi": "Tukikohta XXVII:16 muinaisjäänne, suojarakennus",
+      "leveysaste": 60.225989,
+      "pituusaste": 24.84085,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 161,
+      "nimi": "Tupala-Nyby Masugn",
+      "leveysaste": 60.236633,
+      "pituusaste": 24.164387,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 162,
+      "nimi": "Turpaan ruutitehdas",
+      "leveysaste": 60.77755,
+      "pituusaste": 27.124015,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 163,
+      "nimi": "Tvätteri",
+      "leveysaste": 63.687587,
+      "pituusaste": 22.670216,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 164,
+      "nimi": "Uittamon ilmatorjuntapatteri",
+      "leveysaste": 60.426112,
+      "pituusaste": 22.260435,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 165,
+      "nimi": "Vaasan triviaalikoulu",
+      "leveysaste": 63.074345,
+      "pituusaste": 21.723198,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 166,
+      "nimi": "Vanha kivilouhimo",
+      "leveysaste": 61.835053,
+      "pituusaste": 23.801065,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 167,
+      "nimi": "Vanha laituri",
+      "leveysaste": 65.049556,
+      "pituusaste": 24.79442,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 168,
+      "nimi": "Vanha mylly",
+      "leveysaste": 61.800132,
+      "pituusaste": 24.380172,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 169,
+      "nimi": "Vanhan päälaiturin rauniot",
+      "leveysaste": 60.152181,
+      "pituusaste": 25.041802,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 170,
+      "nimi": "Vanhan päälaiturin rauniot",
+      "leveysaste": 60.152188,
+      "pituusaste": 25.041811,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 171,
+      "nimi": "Villa Hällebo",
+      "leveysaste": 60.173973,
+      "pituusaste": 25.014814,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 172,
+      "nimi": "Villa Hällebo",
+      "leveysaste": 60.173979,
+      "pituusaste": 25.014825,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 173,
+      "nimi": "Villa Kissinge",
+      "leveysaste": 60.174576,
+      "pituusaste": 25.015669,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 174,
+      "nimi": "Villa Kissinge",
+      "leveysaste": 60.174582,
+      "pituusaste": 25.015662,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 175,
+      "nimi": "Villa Schwiegermutter",
+      "leveysaste": 60.174934,
+      "pituusaste": 25.016269,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 176,
+      "nimi": "Villa Schwiegermutter",
+      "leveysaste": 60.174941,
+      "pituusaste": 25.016273,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 177,
+      "nimi": "Villa Walhelm",
+      "leveysaste": 60.174372,
+      "pituusaste": 25.017719,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 178,
+      "nimi": "Villa Walhelm",
+      "leveysaste": 60.174383,
+      "pituusaste": 25.01772,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 179,
+      "nimi": "Vähänkyrön Vanha Meijeri",
+      "leveysaste": 63.057373,
+      "pituusaste": 22.10846,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 180,
+      "nimi": "Ylisen Viipurintien silta",
+      "leveysaste": 61.173127,
+      "pituusaste": 25.535435,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 181,
+      "nimi": "Ylivieskan vanhan kirkon rauniot",
+      "leveysaste": 64.074934,
+      "pituusaste": 24.531714,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 182,
+      "nimi": "huvimaja",
+      "leveysaste": 61.471394,
+      "pituusaste": 23.919006,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 183,
+      "nimi": "kotitarvemyllyn rauniot",
+      "leveysaste": 60.59957,
+      "pituusaste": 25.03517,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 184,
+      "nimi": "mill",
+      "leveysaste": 60.701386,
+      "pituusaste": 27.701852,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    },
+    {
+      "id": 185,
+      "nimi": "old bridge",
+      "leveysaste": 60.698241,
+      "pituusaste": 27.287731,
+      "osm_avain": "historic",
+      "osm_arvo": "ruins",
+      "osm_luokka": "historic=ruins"
+    }
+  ],
+  "meta": {
+    "title": "Rauniot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Rauniot Suomessa — 185 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=ruins`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 185 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rauniot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Rauniot – Suomi (OpenStreetMap) — 185 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 185 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

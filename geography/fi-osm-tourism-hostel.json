@@ -1,0 +1,1402 @@
+{
+  "id": "fi-osm-tourism-hostel",
+  "name": "Retkeilymajat – Suomi (OpenStreetMap)",
+  "title": "Retkeilymajat – Suomi (OpenStreetMap)",
+  "description": "Retkeilymajat Suomessa — 149 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=hostel`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 18. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aalto",
+      "leveysaste": 61.223821,
+      "pituusaste": 28.831875,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 2,
+      "nimi": "AnnaCatharina",
+      "leveysaste": 61.998887,
+      "pituusaste": 28.757662,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 3,
+      "nimi": "Arctic River Resort",
+      "leveysaste": 68.643198,
+      "pituusaste": 27.525686,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 4,
+      "nimi": "Arctic River Resort",
+      "leveysaste": 68.643198,
+      "pituusaste": 27.525777,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 5,
+      "nimi": "Arkadia Hotel & Hostel",
+      "leveysaste": 60.259146,
+      "pituusaste": 25.062752,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 6,
+      "nimi": "Arkadia Hotel & Hostel",
+      "leveysaste": 60.259179,
+      "pituusaste": 25.062736,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 7,
+      "nimi": "Asuntohotelli Varahima",
+      "leveysaste": 60.25459,
+      "pituusaste": 24.870361,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 8,
+      "nimi": "B&B Grännäs",
+      "leveysaste": 60.177355,
+      "pituusaste": 21.867902,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 9,
+      "nimi": "B&B Grännäs",
+      "leveysaste": 60.177381,
+      "pituusaste": 21.867955,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 10,
+      "nimi": "Bar & Cafe Asema",
+      "leveysaste": 62.896909,
+      "pituusaste": 27.680384,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 11,
+      "nimi": "Bed&Breakfast Tuure",
+      "leveysaste": 60.455335,
+      "pituusaste": 22.265556,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 12,
+      "nimi": "Camp Norwide",
+      "leveysaste": 65.442485,
+      "pituusaste": 29.556144,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 13,
+      "nimi": "CheapSleep Hostel",
+      "leveysaste": 60.193792,
+      "pituusaste": 24.956026,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 14,
+      "nimi": "Dals Inn",
+      "leveysaste": 60.020282,
+      "pituusaste": 22.505631,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 15,
+      "nimi": "Divers bed & breakfast Rannankylä",
+      "leveysaste": 62.774934,
+      "pituusaste": 23.998345,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 16,
+      "nimi": "Dream Hostel",
+      "leveysaste": 61.496136,
+      "pituusaste": 23.77928,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 17,
+      "nimi": "E-City Bed and Breakfast",
+      "leveysaste": 65.855119,
+      "pituusaste": 24.148797,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 18,
+      "nimi": "E-City Bed and Breakfast",
+      "leveysaste": 65.855134,
+      "pituusaste": 24.148785,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 19,
+      "nimi": "Easy Housing Raahe",
+      "leveysaste": 64.692788,
+      "pituusaste": 24.576576,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 20,
+      "nimi": "Eurohostel",
+      "leveysaste": 60.165802,
+      "pituusaste": 24.969773,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 21,
+      "nimi": "Finnhostel Virtaniemi",
+      "leveysaste": 62.752176,
+      "pituusaste": 23.707345,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 22,
+      "nimi": "Finnhostel Virtaniemi",
+      "leveysaste": 62.7522,
+      "pituusaste": 23.707364,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 23,
+      "nimi": "Forenom Hostel Espoo Kilo",
+      "leveysaste": 60.213576,
+      "pituusaste": 24.750841,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 24,
+      "nimi": "Forenom Hostel Jyväskylä",
+      "leveysaste": 62.242111,
+      "pituusaste": 25.746502,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 25,
+      "nimi": "Forenom Hostel Kerava",
+      "leveysaste": 60.424908,
+      "pituusaste": 25.103739,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 26,
+      "nimi": "Forenom Hostel Röykkä",
+      "leveysaste": 60.501649,
+      "pituusaste": 24.647845,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 27,
+      "nimi": "Forenom Hostel Vantaa Airport",
+      "leveysaste": 60.307064,
+      "pituusaste": 24.972935,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 28,
+      "nimi": "Forenom Hostel Vantaa Airport",
+      "leveysaste": 60.307103,
+      "pituusaste": 24.972874,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 29,
+      "nimi": "Forenom Hostel Vantaa Airport",
+      "leveysaste": 60.308364,
+      "pituusaste": 24.972241,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 30,
+      "nimi": "Forenom Hostel Vantaa Airport",
+      "leveysaste": 60.308375,
+      "pituusaste": 24.972284,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 31,
+      "nimi": "Forenom Hostel Vantaa Seutula",
+      "leveysaste": 60.303592,
+      "pituusaste": 24.974365,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 32,
+      "nimi": "Frantsila Hyvän olon keskus",
+      "leveysaste": 61.620255,
+      "pituusaste": 23.161196,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 33,
+      "nimi": "Gasthaus Vanha-Merivartioasema",
+      "leveysaste": 60.45455,
+      "pituusaste": 26.949791,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 34,
+      "nimi": "GoRooms",
+      "leveysaste": 60.256457,
+      "pituusaste": 24.82512,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 35,
+      "nimi": "Godby Vandrarhem",
+      "leveysaste": 60.223829,
+      "pituusaste": 19.981123,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 36,
+      "nimi": "Guesthouse Arctic Heart",
+      "leveysaste": 66.504803,
+      "pituusaste": 25.718957,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 37,
+      "nimi": "Guesthouse Borealis",
+      "leveysaste": 66.500062,
+      "pituusaste": 25.704491,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 38,
+      "nimi": "Hostel Ahku",
+      "leveysaste": 69.292818,
+      "pituusaste": 26.724353,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 39,
+      "nimi": "Hostel Ahopää",
+      "leveysaste": 68.346671,
+      "pituusaste": 27.460077,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 40,
+      "nimi": "Hostel Ahopää",
+      "leveysaste": 68.346681,
+      "pituusaste": 27.460064,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 41,
+      "nimi": "Hostel Björkenheim",
+      "leveysaste": 62.770717,
+      "pituusaste": 22.830435,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 42,
+      "nimi": "Hostel Brusaby",
+      "leveysaste": 60.171204,
+      "pituusaste": 22.754987,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 43,
+      "nimi": "Hostel Buisto",
+      "leveysaste": 61.48602,
+      "pituusaste": 21.793334,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 44,
+      "nimi": "Hostel Cafe Huvila",
+      "leveysaste": 65.03295,
+      "pituusaste": 25.44407,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 45,
+      "nimi": "Hostel Café Koti",
+      "leveysaste": 66.501227,
+      "pituusaste": 25.734002,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 46,
+      "nimi": "Hostel Diana Park (Erottajanpuisto)",
+      "leveysaste": 60.164991,
+      "pituusaste": 24.941963,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 47,
+      "nimi": "Hostel Eduskunta",
+      "leveysaste": 62.427841,
+      "pituusaste": 22.177033,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 48,
+      "nimi": "Hostel Forenom Otaniemi",
+      "leveysaste": 60.179317,
+      "pituusaste": 24.8282,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 49,
+      "nimi": "Hostel Forenom Otaniemi",
+      "leveysaste": 60.179322,
+      "pituusaste": 24.828227,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 50,
+      "nimi": "Hostel Forenom Otaniemi",
+      "leveysaste": 60.180028,
+      "pituusaste": 24.827679,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 51,
+      "nimi": "Hostel Forenom Otaniemi",
+      "leveysaste": 60.180047,
+      "pituusaste": 24.827667,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 52,
+      "nimi": "Hostel Kemijärvi",
+      "leveysaste": 66.716808,
+      "pituusaste": 27.411091,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 53,
+      "nimi": "Hostel Mansikka",
+      "leveysaste": 61.167554,
+      "pituusaste": 28.127799,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 54,
+      "nimi": "Hostel Reeti",
+      "leveysaste": 61.796682,
+      "pituusaste": 25.704571,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 55,
+      "nimi": "Hostel Retkeilijä",
+      "leveysaste": 64.258033,
+      "pituusaste": 23.937078,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 56,
+      "nimi": "Hostel River",
+      "leveysaste": 61.489299,
+      "pituusaste": 21.77738,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 57,
+      "nimi": "Hostel Sofia",
+      "leveysaste": 61.502181,
+      "pituusaste": 23.768486,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 58,
+      "nimi": "Hostel Suomenlinna",
+      "leveysaste": 60.148466,
+      "pituusaste": 24.984102,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 59,
+      "nimi": "Hostel Suomenlinna",
+      "leveysaste": 60.148482,
+      "pituusaste": 24.984112,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 60,
+      "nimi": "Hostel Teopolis",
+      "leveysaste": 61.49415,
+      "pituusaste": 23.785164,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 61,
+      "nimi": "Hostel Teopolis",
+      "leveysaste": 61.494171,
+      "pituusaste": 23.785157,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 62,
+      "nimi": "Hostel Tikka",
+      "leveysaste": 66.531097,
+      "pituusaste": 25.825695,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 63,
+      "nimi": "Hostel Tikka",
+      "leveysaste": 66.53111,
+      "pituusaste": 25.8257,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 64,
+      "nimi": "Hostel Vanha Koulu",
+      "leveysaste": 60.904708,
+      "pituusaste": 28.133166,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 65,
+      "nimi": "Hostel Vanha Koulu",
+      "leveysaste": 60.904755,
+      "pituusaste": 28.133214,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 66,
+      "nimi": "Hostel400Kokkola",
+      "leveysaste": 63.835744,
+      "pituusaste": 23.122479,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 67,
+      "nimi": "Hostel400KokkolaExtend",
+      "leveysaste": 63.838986,
+      "pituusaste": 23.130786,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 68,
+      "nimi": "Hostelli Karvia",
+      "leveysaste": 62.136056,
+      "pituusaste": 22.560889,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 69,
+      "nimi": "Hostelli Vanha Navetta",
+      "leveysaste": 61.863516,
+      "pituusaste": 21.63929,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 70,
+      "nimi": "Hyvärilä Matkailu- ja nuorisokeskus",
+      "leveysaste": 63.531813,
+      "pituusaste": 29.198109,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 71,
+      "nimi": "ISLO Hostel",
+      "leveysaste": 62.595421,
+      "pituusaste": 29.748641,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 72,
+      "nimi": "InnTourist",
+      "leveysaste": 60.179506,
+      "pituusaste": 24.958892,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 73,
+      "nimi": "Jurmo Vandrarhem",
+      "leveysaste": 60.517549,
+      "pituusaste": 21.07646,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 74,
+      "nimi": "Jurmo Vandrarhem",
+      "leveysaste": 60.517922,
+      "pituusaste": 21.076279,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 75,
+      "nimi": "Karesuando Vandrarhem",
+      "leveysaste": 68.440295,
+      "pituusaste": 22.484901,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 76,
+      "nimi": "Karjalan Lomahovi",
+      "leveysaste": 61.529139,
+      "pituusaste": 29.515746,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 77,
+      "nimi": "Karjalan Lomahovi",
+      "leveysaste": 61.529152,
+      "pituusaste": 29.515779,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 78,
+      "nimi": "Kelotin rantamajat",
+      "leveysaste": 68.509387,
+      "pituusaste": 23.320542,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 79,
+      "nimi": "Kelotin rantamajat",
+      "leveysaste": 68.509394,
+      "pituusaste": 23.320543,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 80,
+      "nimi": "Kesähostelli Karavaani",
+      "leveysaste": 60.208728,
+      "pituusaste": 25.124715,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 81,
+      "nimi": "Kesähotelli",
+      "leveysaste": 61.128665,
+      "pituusaste": 21.48928,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 82,
+      "nimi": "Kievarin Hostell",
+      "leveysaste": 60.878718,
+      "pituusaste": 21.691781,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 83,
+      "nimi": "Kokous- ja Lomatalo Airola",
+      "leveysaste": 61.497938,
+      "pituusaste": 25.695857,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 84,
+      "nimi": "Kokous- ja Lomatalo Airola (Camping sysmä)",
+      "leveysaste": 61.497958,
+      "pituusaste": 25.695835,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 85,
+      "nimi": "Korholan kartano",
+      "leveysaste": 62.637463,
+      "pituusaste": 26.811709,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 86,
+      "nimi": "Koskelon lomamökit",
+      "leveysaste": 62.244594,
+      "pituusaste": 29.567612,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 87,
+      "nimi": "Koski-Tuurin Kammarit",
+      "leveysaste": 62.59728,
+      "pituusaste": 23.75084,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 88,
+      "nimi": "Kotimaailma Aparthotel Kamppi",
+      "leveysaste": 60.165028,
+      "pituusaste": 24.932555,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 89,
+      "nimi": "Kotimaailma Aparthotel Villa Hortus",
+      "leveysaste": 60.453887,
+      "pituusaste": 22.282279,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 90,
+      "nimi": "Kotimaailma Rooms Ankkuri",
+      "leveysaste": 60.473152,
+      "pituusaste": 26.927561,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 91,
+      "nimi": "Kotimaailma Rooms Kivikkotie",
+      "leveysaste": 60.334911,
+      "pituusaste": 25.017861,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 92,
+      "nimi": "Kotimaailma Rooms Kokkola",
+      "leveysaste": 63.826939,
+      "pituusaste": 23.165998,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 93,
+      "nimi": "Kotimaailma Rooms Little Tundra",
+      "leveysaste": 60.975792,
+      "pituusaste": 25.662239,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 94,
+      "nimi": "Kronan Gästhem",
+      "leveysaste": 60.093387,
+      "pituusaste": 19.931734,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 95,
+      "nimi": "Kuopas Student Housing Apartment",
+      "leveysaste": 62.86748,
+      "pituusaste": 27.643339,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 96,
+      "nimi": "Kuopas Student Housing Apartment",
+      "leveysaste": 62.867569,
+      "pituusaste": 27.644237,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 97,
+      "nimi": "Kuopas Student Housing Apartment",
+      "leveysaste": 62.86783,
+      "pituusaste": 27.644269,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 98,
+      "nimi": "Kuopas Student Housing Apartment (Katiskaniementie 6)",
+      "leveysaste": 62.867677,
+      "pituusaste": 27.642562,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 99,
+      "nimi": "Kuopas Student Housing Apartment (Katiskaniementie 6)",
+      "leveysaste": 62.867684,
+      "pituusaste": 27.642581,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 100,
+      "nimi": "Laivahotelli S/S Bore",
+      "leveysaste": 60.435004,
+      "pituusaste": 22.233466,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 101,
+      "nimi": "Lakehouse Saimaa",
+      "leveysaste": 61.214569,
+      "pituusaste": 27.95378,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 102,
+      "nimi": "Linnansaaren Ekohostelli",
+      "leveysaste": 62.101559,
+      "pituusaste": 28.515808,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 103,
+      "nimi": "Maatilamajoitus Heikin Tupa",
+      "leveysaste": 62.712384,
+      "pituusaste": 23.898117,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 104,
+      "nimi": "Maatilamajoitus Heikin Tupa",
+      "leveysaste": 62.712394,
+      "pituusaste": 23.898115,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 105,
+      "nimi": "Majatalo Kupittaa",
+      "leveysaste": 60.444996,
+      "pituusaste": 22.303135,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 106,
+      "nimi": "Majatalo Rautalampi",
+      "leveysaste": 62.619155,
+      "pituusaste": 26.883454,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 107,
+      "nimi": "Matkamajoitus Traveller's Home",
+      "leveysaste": 60.165001,
+      "pituusaste": 24.935098,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 108,
+      "nimi": "Matkustajakoti Rauhala Inn",
+      "leveysaste": 60.769745,
+      "pituusaste": 26.789021,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 109,
+      "nimi": "Novia Hostel",
+      "leveysaste": 59.974769,
+      "pituusaste": 23.452638,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 110,
+      "nimi": "Nuoriso- ja luontomatkailukeskus Vasatokka",
+      "leveysaste": 68.942287,
+      "pituusaste": 26.804436,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 111,
+      "nimi": "Nuoriso- ja luontomatkailukeskus Vasatokka",
+      "leveysaste": 68.9423,
+      "pituusaste": 26.804445,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 112,
+      "nimi": "Nuuksio Hostel and Camping",
+      "leveysaste": 60.291667,
+      "pituusaste": 24.45039,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 113,
+      "nimi": "OuluHostel AlliMaria",
+      "leveysaste": 64.996631,
+      "pituusaste": 25.487909,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 114,
+      "nimi": "OuluHostel AlliMaria",
+      "leveysaste": 64.996648,
+      "pituusaste": 25.487871,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 115,
+      "nimi": "Ounasvaaran Pirtit",
+      "leveysaste": 66.508658,
+      "pituusaste": 25.787933,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 116,
+      "nimi": "Outdoor Hostel Laajis",
+      "leveysaste": 62.256583,
+      "pituusaste": 25.696235,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 117,
+      "nimi": "Pensionat Solhem",
+      "leveysaste": 60.073768,
+      "pituusaste": 19.942055,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 118,
+      "nimi": "Pororajan Majoitus",
+      "leveysaste": 64.874483,
+      "pituusaste": 27.643862,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 119,
+      "nimi": "Porvoon retkeilymaja",
+      "leveysaste": 60.389119,
+      "pituusaste": 25.673844,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 120,
+      "nimi": "Reissumaja",
+      "leveysaste": 61.539235,
+      "pituusaste": 28.15934,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 121,
+      "nimi": "Retkeilymaja Syöte",
+      "leveysaste": 65.633559,
+      "pituusaste": 27.700868,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 122,
+      "nimi": "Retkeilymaja Syöte",
+      "leveysaste": 65.633585,
+      "pituusaste": 27.70086,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 123,
+      "nimi": "Retkikeskus Peuranpolku",
+      "leveysaste": 64.376824,
+      "pituusaste": 30.028451,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 124,
+      "nimi": "SKI HOSTEL RUKA",
+      "leveysaste": 66.170521,
+      "pituusaste": 29.166653,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 125,
+      "nimi": "Savottakahvila",
+      "leveysaste": 68.391388,
+      "pituusaste": 27.400727,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 126,
+      "nimi": "Scouts' Youth Hostel - Partiotalon Retkeilymaja",
+      "leveysaste": 62.612612,
+      "pituusaste": 29.751416,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 127,
+      "nimi": "Selli majoitus",
+      "leveysaste": 60.417425,
+      "pituusaste": 24.3228,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 128,
+      "nimi": "Sjömansro",
+      "leveysaste": 59.899637,
+      "pituusaste": 23.254424,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 129,
+      "nimi": "Sky Hostel",
+      "leveysaste": 60.179611,
+      "pituusaste": 24.958865,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 130,
+      "nimi": "Suviranta",
+      "leveysaste": 64.444803,
+      "pituusaste": 26.831995,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 131,
+      "nimi": "Talarin Loma",
+      "leveysaste": 67.012903,
+      "pituusaste": 23.753489,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 132,
+      "nimi": "Teemahostel",
+      "leveysaste": 62.097553,
+      "pituusaste": 26.087969,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 133,
+      "nimi": "Teemahostel",
+      "leveysaste": 62.097557,
+      "pituusaste": 26.08798,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 134,
+      "nimi": "The YARD Hostel",
+      "leveysaste": 60.168066,
+      "pituusaste": 24.939625,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 135,
+      "nimi": "Time Hostel & Apartments",
+      "leveysaste": 62.238625,
+      "pituusaste": 25.736671,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 136,
+      "nimi": "Timitra Hostel",
+      "leveysaste": 63.305676,
+      "pituusaste": 30.025837,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 137,
+      "nimi": "Topin tuvat",
+      "leveysaste": 62.344759,
+      "pituusaste": 29.573828,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 138,
+      "nimi": "Tredun Helmi",
+      "leveysaste": 61.498435,
+      "pituusaste": 23.734425,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 139,
+      "nimi": "Tuntsan Tunturilomat",
+      "leveysaste": 67.364391,
+      "pituusaste": 29.356742,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 140,
+      "nimi": "Tuuri Resorts",
+      "leveysaste": 62.595413,
+      "pituusaste": 23.809666,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 141,
+      "nimi": "Törmäslompolon maatilamatkailu",
+      "leveysaste": 67.947579,
+      "pituusaste": 23.989756,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 142,
+      "nimi": "Vain Hostels Vääksy",
+      "leveysaste": 61.174252,
+      "pituusaste": 25.541086,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 143,
+      "nimi": "Valkialammen matkailukeskus",
+      "leveysaste": 62.776369,
+      "pituusaste": 23.865449,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 144,
+      "nimi": "Vasikkaluoto",
+      "leveysaste": 60.585975,
+      "pituusaste": 21.450186,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 145,
+      "nimi": "Villa Saimaan Sydän",
+      "leveysaste": 61.527029,
+      "pituusaste": 28.17239,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 146,
+      "nimi": "Villa Svan",
+      "leveysaste": 62.315796,
+      "pituusaste": 29.580614,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 147,
+      "nimi": "Villa Svan",
+      "leveysaste": 62.315799,
+      "pituusaste": 29.58067,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 148,
+      "nimi": "Vivamon lomakeskus",
+      "leveysaste": 60.230062,
+      "pituusaste": 24.012268,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    },
+    {
+      "id": 149,
+      "nimi": "Wisahovi",
+      "leveysaste": 60.980303,
+      "pituusaste": 24.467273,
+      "osm_avain": "tourism",
+      "osm_arvo": "hostel",
+      "osm_luokka": "tourism=hostel"
+    }
+  ],
+  "meta": {
+    "title": "Retkeilymajat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Retkeilymajat Suomessa — 149 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=hostel`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 18. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 149 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Retkeilymajat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Retkeilymajat – Suomi (OpenStreetMap) — 149 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 149 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

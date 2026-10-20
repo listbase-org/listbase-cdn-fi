@@ -1,0 +1,2536 @@
+{
+  "id": "fi-osm-tourism-caravan-site",
+  "name": "Karavaanialueet – Suomi (OpenStreetMap)",
+  "title": "Karavaanialueet – Suomi (OpenStreetMap)",
+  "description": "Karavaanialueet Suomessa — 275 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=caravan_site`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 31. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 275,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aavasaksa experience",
+      "leveysaste": 66.374566,
+      "pituusaste": 23.690709,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 2,
+      "nimi": "Aavasaksa experience",
+      "leveysaste": 66.37458,
+      "pituusaste": 23.690744,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 3,
+      "nimi": "Ahkun tupa",
+      "leveysaste": 68.75857,
+      "pituusaste": 26.233928,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 4,
+      "nimi": "Aneen Loma",
+      "leveysaste": 65.928277,
+      "pituusaste": 27.984433,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 5,
+      "nimi": "Ankkalampi Caravan",
+      "leveysaste": 60.369357,
+      "pituusaste": 24.879094,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 6,
+      "nimi": "Ankkalampi Caravan",
+      "leveysaste": 60.369439,
+      "pituusaste": 24.878991,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 7,
+      "nimi": "Arctic River Resort",
+      "leveysaste": 68.643321,
+      "pituusaste": 27.523332,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 8,
+      "nimi": "Asuntovaunualue",
+      "leveysaste": 60.229594,
+      "pituusaste": 24.009048,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 9,
+      "nimi": "Asuntovaunualue",
+      "leveysaste": 60.229625,
+      "pituusaste": 24.009138,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 10,
+      "nimi": "Best Caravan Oy Matkaparkki Hyvinkäällä",
+      "leveysaste": 60.613313,
+      "pituusaste": 24.812149,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 11,
+      "nimi": "BestPark Akaa Toijalan Satama",
+      "leveysaste": 61.190644,
+      "pituusaste": 23.901768,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 12,
+      "nimi": "BestPark Arctic Circle",
+      "leveysaste": 66.545861,
+      "pituusaste": 25.850051,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 13,
+      "nimi": "BestPark Ideapark Lempäälä",
+      "leveysaste": 61.357581,
+      "pituusaste": 23.794207,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 14,
+      "nimi": "BestPark Ideapark Lempäälä",
+      "leveysaste": 61.357604,
+      "pituusaste": 23.794313,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 15,
+      "nimi": "BestPark Ikaalinen Spa",
+      "leveysaste": 61.776082,
+      "pituusaste": 23.01844,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 16,
+      "nimi": "BestPark Kontiomäki",
+      "leveysaste": 64.320958,
+      "pituusaste": 28.045182,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 17,
+      "nimi": "BestPark Loviisa",
+      "leveysaste": 60.459423,
+      "pituusaste": 26.191278,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 18,
+      "nimi": "BestPark Ylivieska",
+      "leveysaste": 64.074904,
+      "pituusaste": 24.579863,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 19,
+      "nimi": "BestPark Ylivieska",
+      "leveysaste": 64.074928,
+      "pituusaste": 24.579862,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 20,
+      "nimi": "Bjurs",
+      "leveysaste": 59.961683,
+      "pituusaste": 23.889973,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 21,
+      "nimi": "Camping Karvio",
+      "leveysaste": 62.512655,
+      "pituusaste": 28.637633,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 22,
+      "nimi": "Camping Laakasalo",
+      "leveysaste": 60.735829,
+      "pituusaste": 24.171025,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 23,
+      "nimi": "Camping Solliden",
+      "leveysaste": 60.31763,
+      "pituusaste": 22.299803,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 24,
+      "nimi": "Camping Solliden",
+      "leveysaste": 60.31764,
+      "pituusaste": 22.299807,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 25,
+      "nimi": "Camping Tornio",
+      "leveysaste": 65.831414,
+      "pituusaste": 24.20345,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 26,
+      "nimi": "Camping Tornio",
+      "leveysaste": 65.831421,
+      "pituusaste": 24.203449,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 27,
+      "nimi": "Caravan & Camping Tanhuvaara",
+      "leveysaste": 61.810404,
+      "pituusaste": 29.074534,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 28,
+      "nimi": "Caravan Storage Area",
+      "leveysaste": 60.832145,
+      "pituusaste": 24.819316,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 29,
+      "nimi": "Caravan Storage Area",
+      "leveysaste": 60.83217,
+      "pituusaste": 24.819341,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 30,
+      "nimi": "Caravan-Kalajärvi",
+      "leveysaste": 62.574945,
+      "pituusaste": 23.108996,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 31,
+      "nimi": "Emolahti Camping Pyhäjärvi",
+      "leveysaste": 63.664001,
+      "pituusaste": 25.897257,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 32,
+      "nimi": "Eteläpää",
+      "leveysaste": 61.887283,
+      "pituusaste": 21.83902,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 33,
+      "nimi": "Eteläpää",
+      "leveysaste": 61.887294,
+      "pituusaste": 21.839027,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 34,
+      "nimi": "Gasthaus-Camping Koskenniemi",
+      "leveysaste": 61.563291,
+      "pituusaste": 25.9933,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 35,
+      "nimi": "Gasthaus-Camping Koskenniemi",
+      "leveysaste": 61.563304,
+      "pituusaste": 25.993301,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 36,
+      "nimi": "Giellajohka",
+      "leveysaste": 69.292867,
+      "pituusaste": 26.724237,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 37,
+      "nimi": "Giellajohka",
+      "leveysaste": 69.292885,
+      "pituusaste": 26.724161,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 38,
+      "nimi": "Hakojärven Matkaparkki",
+      "leveysaste": 62.605108,
+      "pituusaste": 23.906479,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 39,
+      "nimi": "Hakojärven Matkaparkki",
+      "leveysaste": 62.605866,
+      "pituusaste": 23.908236,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 40,
+      "nimi": "Hiilimutka",
+      "leveysaste": 63.835034,
+      "pituusaste": 26.911166,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 41,
+      "nimi": "Hiilimutka",
+      "leveysaste": 63.835091,
+      "pituusaste": 26.91112,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 42,
+      "nimi": "Himos länsirinne asuntovaunualue",
+      "leveysaste": 61.877515,
+      "pituusaste": 25.295339,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 43,
+      "nimi": "Hopeaperä",
+      "leveysaste": 65.873033,
+      "pituusaste": 25.559421,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 44,
+      "nimi": "Hopeaperä",
+      "leveysaste": 65.873042,
+      "pituusaste": 25.559462,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 45,
+      "nimi": "Hotelli Pikku-Syöte Caravan",
+      "leveysaste": 65.635526,
+      "pituusaste": 27.706933,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 46,
+      "nimi": "Hotelli Pikku-Syöte Caravan",
+      "leveysaste": 65.635528,
+      "pituusaste": 27.706958,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 47,
+      "nimi": "Hällö husbilscamping",
+      "leveysaste": 60.368185,
+      "pituusaste": 19.774192,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 48,
+      "nimi": "Hämeensaaren matkaparkki",
+      "leveysaste": 60.991605,
+      "pituusaste": 24.463455,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 49,
+      "nimi": "Hämeensaaren matkaparkki",
+      "leveysaste": 60.991623,
+      "pituusaste": 24.463917,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 50,
+      "nimi": "Hännilänsalmi Camping",
+      "leveysaste": 63.038262,
+      "pituusaste": 25.814547,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 51,
+      "nimi": "Hännilänsalmi Camping",
+      "leveysaste": 63.038292,
+      "pituusaste": 25.814593,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 52,
+      "nimi": "Iisakki Village camping",
+      "leveysaste": 66.130788,
+      "pituusaste": 29.231689,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 53,
+      "nimi": "Joensuun Tila Camping",
+      "leveysaste": 60.28568,
+      "pituusaste": 25.318988,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 54,
+      "nimi": "Joensuun Tila Camping",
+      "leveysaste": 60.285681,
+      "pituusaste": 25.318845,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 55,
+      "nimi": "Jokiasema",
+      "leveysaste": 62.591231,
+      "pituusaste": 29.739818,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 56,
+      "nimi": "Jokiasema",
+      "leveysaste": 62.591243,
+      "pituusaste": 29.739955,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 57,
+      "nimi": "Juojärven Helmi",
+      "leveysaste": 62.802505,
+      "pituusaste": 28.497368,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 58,
+      "nimi": "Juojärven Helmi",
+      "leveysaste": 62.802539,
+      "pituusaste": 28.497195,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 59,
+      "nimi": "Kairijoen Eräkeskus",
+      "leveysaste": 67.71271,
+      "pituusaste": 28.32423,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 60,
+      "nimi": "KaksCaravan",
+      "leveysaste": 68.335563,
+      "pituusaste": 27.330239,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 61,
+      "nimi": "KaksCaravan",
+      "leveysaste": 68.335624,
+      "pituusaste": 27.330327,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 62,
+      "nimi": "Kalevala Camping",
+      "leveysaste": 64.115618,
+      "pituusaste": 29.589914,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 63,
+      "nimi": "Kalevala Camping",
+      "leveysaste": 64.115632,
+      "pituusaste": 29.589917,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 64,
+      "nimi": "Kallionokka",
+      "leveysaste": 60.899293,
+      "pituusaste": 22.365914,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 65,
+      "nimi": "Karavaanarialue Onnela",
+      "leveysaste": 62.605144,
+      "pituusaste": 23.709543,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 66,
+      "nimi": "Karavaaniparkki",
+      "leveysaste": 61.926519,
+      "pituusaste": 25.102934,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 67,
+      "nimi": "Karavaaniparkki",
+      "leveysaste": 61.926734,
+      "pituusaste": 25.102762,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 68,
+      "nimi": "Karavan-Alue",
+      "leveysaste": 70.081598,
+      "pituusaste": 27.865459,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 69,
+      "nimi": "Karavan-Alue",
+      "leveysaste": 70.081611,
+      "pituusaste": 27.865451,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 70,
+      "nimi": "Karhunkainalon leirintäalue",
+      "leveysaste": 65.46881,
+      "pituusaste": 29.52384,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 71,
+      "nimi": "Kasnäs Caravan",
+      "leveysaste": 59.923442,
+      "pituusaste": 22.407921,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 72,
+      "nimi": "Kasnäs Caravan",
+      "leveysaste": 59.923487,
+      "pituusaste": 22.40801,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 73,
+      "nimi": "Katiskanmäki",
+      "leveysaste": 60.164393,
+      "pituusaste": 22.997764,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 74,
+      "nimi": "Kattivankkuri",
+      "leveysaste": 64.132942,
+      "pituusaste": 28.285814,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 75,
+      "nimi": "Kattivankkuri",
+      "leveysaste": 64.132968,
+      "pituusaste": 28.285943,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 76,
+      "nimi": "Kesäniemi",
+      "leveysaste": 60.593748,
+      "pituusaste": 21.735857,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 77,
+      "nimi": "Kesäniemi",
+      "leveysaste": 60.593774,
+      "pituusaste": 21.735972,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 78,
+      "nimi": "Kevätti",
+      "leveysaste": 60.966285,
+      "pituusaste": 26.89112,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 79,
+      "nimi": "Kevätti",
+      "leveysaste": 60.966323,
+      "pituusaste": 26.891148,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 80,
+      "nimi": "Kiilopään leirintä",
+      "leveysaste": 68.347829,
+      "pituusaste": 27.462575,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 81,
+      "nimi": "Kiilopään leirintä",
+      "leveysaste": 68.347895,
+      "pituusaste": 27.46259,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 82,
+      "nimi": "Kilpisjärven Lomakeskus Tundrea",
+      "leveysaste": 69.013473,
+      "pituusaste": 20.879029,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 83,
+      "nimi": "Koira-aitaus",
+      "leveysaste": 60.75777,
+      "pituusaste": 26.063604,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 84,
+      "nimi": "Krouvin Camping",
+      "leveysaste": 61.465475,
+      "pituusaste": 25.905079,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 85,
+      "nimi": "Krouvin Camping",
+      "leveysaste": 61.465485,
+      "pituusaste": 25.904898,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 86,
+      "nimi": "Kultahiekka Caravan",
+      "leveysaste": 60.386653,
+      "pituusaste": 24.084405,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 87,
+      "nimi": "Kultahiekka Caravan",
+      "leveysaste": 60.386748,
+      "pituusaste": 24.084133,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 88,
+      "nimi": "Kylmäluoman leirintäalue",
+      "leveysaste": 65.585732,
+      "pituusaste": 28.904193,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 89,
+      "nimi": "Kylmäluoman leirintäalue",
+      "leveysaste": 65.585755,
+      "pituusaste": 28.904158,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 90,
+      "nimi": "Kyrön Loma",
+      "leveysaste": 68.150354,
+      "pituusaste": 24.120492,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 91,
+      "nimi": "Kyrön Loma",
+      "leveysaste": 68.150384,
+      "pituusaste": 24.1209,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 92,
+      "nimi": "Laajis Urban Caravan",
+      "leveysaste": 62.255131,
+      "pituusaste": 25.696366,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 93,
+      "nimi": "Laajis Urban Caravan",
+      "leveysaste": 62.255178,
+      "pituusaste": 25.696416,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 94,
+      "nimi": "Laiskan Kartano",
+      "leveysaste": 63.234045,
+      "pituusaste": 22.842734,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 95,
+      "nimi": "Laiskan Kartano",
+      "leveysaste": 63.23411,
+      "pituusaste": 22.842785,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 96,
+      "nimi": "Lallu, Riihimäen seudun karavaanarit ry",
+      "leveysaste": 60.698172,
+      "pituusaste": 24.911,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 97,
+      "nimi": "Lampinsaari Camping",
+      "leveysaste": 64.408324,
+      "pituusaste": 25.134769,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 98,
+      "nimi": "Lampinsaari Camping",
+      "leveysaste": 64.408366,
+      "pituusaste": 25.134925,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 99,
+      "nimi": "Lapin Rinki",
+      "leveysaste": 65.658134,
+      "pituusaste": 25.069436,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 100,
+      "nimi": "Lapin Rinki",
+      "leveysaste": 65.658205,
+      "pituusaste": 25.06947,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 101,
+      "nimi": "Lapland Hotel Luostotunturi Caravan puisto",
+      "leveysaste": 67.157315,
+      "pituusaste": 26.904169,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 102,
+      "nimi": "Lemmi-Caravan",
+      "leveysaste": 60.805259,
+      "pituusaste": 21.954176,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 103,
+      "nimi": "Lemmi-Caravan",
+      "leveysaste": 60.805282,
+      "pituusaste": 21.95416,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 104,
+      "nimi": "Levilehto apartments",
+      "leveysaste": 67.807688,
+      "pituusaste": 24.799224,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 105,
+      "nimi": "Levilehto apartments",
+      "leveysaste": 67.807778,
+      "pituusaste": 24.799066,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 106,
+      "nimi": "Livonsaari Caravan RV Park",
+      "leveysaste": 60.523366,
+      "pituusaste": 21.783552,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 107,
+      "nimi": "Lohiranta",
+      "leveysaste": 68.025829,
+      "pituusaste": 24.645853,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 108,
+      "nimi": "Lomakeskus Himmerki",
+      "leveysaste": 66.081149,
+      "pituusaste": 28.283551,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 109,
+      "nimi": "Lomakeskus Huhmari",
+      "leveysaste": 62.775885,
+      "pituusaste": 29.550009,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 110,
+      "nimi": "Lomakylä Inari",
+      "leveysaste": 68.902847,
+      "pituusaste": 27.038699,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 111,
+      "nimi": "Lomakylä Korpirämäkkä",
+      "leveysaste": 61.748771,
+      "pituusaste": 22.008734,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 112,
+      "nimi": "Lomakylä Korpirämäkkä",
+      "leveysaste": 61.748773,
+      "pituusaste": 22.008696,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 113,
+      "nimi": "Lomakylä Kultahiekat",
+      "leveysaste": 64.34114,
+      "pituusaste": 27.090066,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 114,
+      "nimi": "Lomakylä Kultahiekat",
+      "leveysaste": 64.341461,
+      "pituusaste": 27.090394,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 115,
+      "nimi": "Lomakylä Tulppion Majat",
+      "leveysaste": 67.770688,
+      "pituusaste": 29.20797,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 116,
+      "nimi": "Lomakylä Tulppion Majat",
+      "leveysaste": 67.770769,
+      "pituusaste": 29.208003,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 117,
+      "nimi": "Lomamaja Pekonen",
+      "leveysaste": 67.954186,
+      "pituusaste": 23.673862,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 118,
+      "nimi": "Lomamaja Pekonen",
+      "leveysaste": 67.954193,
+      "pituusaste": 23.673871,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 119,
+      "nimi": "Lomatrio Camping",
+      "leveysaste": 62.275667,
+      "pituusaste": 27.045571,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 120,
+      "nimi": "Lovisa Caravan",
+      "leveysaste": 60.441609,
+      "pituusaste": 26.237022,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 121,
+      "nimi": "Luukki",
+      "leveysaste": 60.318062,
+      "pituusaste": 24.690397,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 122,
+      "nimi": "Luukki",
+      "leveysaste": 60.318076,
+      "pituusaste": 24.690395,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 123,
+      "nimi": "Lähilampi caravan",
+      "leveysaste": 60.420744,
+      "pituusaste": 24.76561,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 124,
+      "nimi": "Lähilampi caravan",
+      "leveysaste": 60.420768,
+      "pituusaste": 24.765361,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 125,
+      "nimi": "Löydön Kartano",
+      "leveysaste": 61.554676,
+      "pituusaste": 27.258989,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 126,
+      "nimi": "Mainiemi Caravan",
+      "leveysaste": 61.373957,
+      "pituusaste": 25.287898,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 127,
+      "nimi": "Mainiemi Caravan",
+      "leveysaste": 61.373967,
+      "pituusaste": 25.287881,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 128,
+      "nimi": "Majlidens ställplats",
+      "leveysaste": 59.920247,
+      "pituusaste": 20.905738,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 129,
+      "nimi": "Manamansalon Portti",
+      "leveysaste": 64.398197,
+      "pituusaste": 27.128364,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 130,
+      "nimi": "Manamansalon Portti",
+      "leveysaste": 64.39823,
+      "pituusaste": 27.128239,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 131,
+      "nimi": "Manamansalon leirintäalue",
+      "leveysaste": 64.388925,
+      "pituusaste": 27.026604,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 132,
+      "nimi": "Mansikkanokan matkailuvaunualue",
+      "leveysaste": 65.726336,
+      "pituusaste": 24.569365,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 133,
+      "nimi": "Mansikkanokan matkailuvaunualue",
+      "leveysaste": 65.726423,
+      "pituusaste": 24.569483,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 134,
+      "nimi": "Matkaparkki",
+      "leveysaste": 62.759103,
+      "pituusaste": 26.688623,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 135,
+      "nimi": "Matkaparkki Hotelli Tallukka",
+      "leveysaste": 61.165831,
+      "pituusaste": 25.563322,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 136,
+      "nimi": "Matkaparkki Kivitippu",
+      "leveysaste": 63.250032,
+      "pituusaste": 23.640901,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 137,
+      "nimi": "Matkaparkki Parikkala",
+      "leveysaste": 61.555846,
+      "pituusaste": 29.497568,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 138,
+      "nimi": "Meri-Caravan",
+      "leveysaste": 60.321764,
+      "pituusaste": 23.044114,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 139,
+      "nimi": "Meri-Caravan",
+      "leveysaste": 60.321851,
+      "pituusaste": 23.044482,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 140,
+      "nimi": "Mossala Island Resort",
+      "leveysaste": 60.285911,
+      "pituusaste": 21.440215,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 141,
+      "nimi": "Mossala Island Resort",
+      "leveysaste": 60.285912,
+      "pituusaste": 21.440031,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 142,
+      "nimi": "Mustaniemen Leirintä",
+      "leveysaste": 60.741485,
+      "pituusaste": 27.355718,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 143,
+      "nimi": "Mustaniemen Leirintä",
+      "leveysaste": 60.741603,
+      "pituusaste": 27.356017,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 144,
+      "nimi": "Muumari",
+      "leveysaste": 67.803852,
+      "pituusaste": 24.788699,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 145,
+      "nimi": "Mylly-Mäkelä",
+      "leveysaste": 61.391834,
+      "pituusaste": 25.110272,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 146,
+      "nimi": "Mylly-Mäkelä",
+      "leveysaste": 61.391841,
+      "pituusaste": 25.110471,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 147,
+      "nimi": "Mäkipirtti",
+      "leveysaste": 62.026283,
+      "pituusaste": 22.426016,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 148,
+      "nimi": "Mäntyranta Caravan",
+      "leveysaste": 61.942663,
+      "pituusaste": 29.756192,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 149,
+      "nimi": "Niemenharjun Matkailukeskus",
+      "leveysaste": 63.346742,
+      "pituusaste": 25.606635,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 150,
+      "nimi": "Nivajoen camping",
+      "leveysaste": 70.070472,
+      "pituusaste": 27.606041,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 151,
+      "nimi": "Nummenkylän matkaparkki",
+      "leveysaste": 60.846486,
+      "pituusaste": 24.17316,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 152,
+      "nimi": "Närvijoen vapaa-ajan alue",
+      "leveysaste": 62.659258,
+      "pituusaste": 21.753981,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 153,
+      "nimi": "Old Harbor Park & Camping",
+      "leveysaste": 63.687471,
+      "pituusaste": 22.698766,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 154,
+      "nimi": "Orakoski",
+      "leveysaste": 67.337785,
+      "pituusaste": 26.656881,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 155,
+      "nimi": "Oulujärvi Active camping",
+      "leveysaste": 64.453602,
+      "pituusaste": 26.788718,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 156,
+      "nimi": "Ounaskoski Camping",
+      "leveysaste": 66.497916,
+      "pituusaste": 25.742414,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 157,
+      "nimi": "Ounaskoski Camping",
+      "leveysaste": 66.49799,
+      "pituusaste": 25.742538,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 158,
+      "nimi": "Outokummun karavaanarit",
+      "leveysaste": 62.751392,
+      "pituusaste": 28.92828,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 159,
+      "nimi": "Paalasmaa",
+      "leveysaste": 63.286397,
+      "pituusaste": 29.480493,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 160,
+      "nimi": "Paija",
+      "leveysaste": 60.782147,
+      "pituusaste": 23.309186,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 161,
+      "nimi": "Paltamo Caravan",
+      "leveysaste": 64.400194,
+      "pituusaste": 27.861731,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 162,
+      "nimi": "Parran Matkaparkki",
+      "leveysaste": 62.42705,
+      "pituusaste": 21.826888,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 163,
+      "nimi": "Parran Matkaparkki",
+      "leveysaste": 62.427059,
+      "pituusaste": 21.826885,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 164,
+      "nimi": "Pellinge Caravan",
+      "leveysaste": 60.231149,
+      "pituusaste": 25.869368,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 165,
+      "nimi": "Pellinge Caravan",
+      "leveysaste": 60.231216,
+      "pituusaste": 25.869575,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 166,
+      "nimi": "Peltomäen retkeilyalue",
+      "leveysaste": 61.639883,
+      "pituusaste": 23.582781,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 167,
+      "nimi": "Petäjäskosken matkaparkki",
+      "leveysaste": 64.258348,
+      "pituusaste": 24.608072,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 168,
+      "nimi": "Petäjäveden matkaparkki",
+      "leveysaste": 62.256759,
+      "pituusaste": 25.178466,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 169,
+      "nimi": "Pikkuhiekan matkaparkki",
+      "leveysaste": 63.667254,
+      "pituusaste": 22.550114,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 170,
+      "nimi": "Pistohiekka",
+      "leveysaste": 61.559351,
+      "pituusaste": 28.009564,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 171,
+      "nimi": "Pitkäjärvi, SFC",
+      "leveysaste": 61.219784,
+      "pituusaste": 22.273648,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 172,
+      "nimi": "Pumppari Camping",
+      "leveysaste": 61.193127,
+      "pituusaste": 23.738532,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 173,
+      "nimi": "Puolanka Camping",
+      "leveysaste": 64.867207,
+      "pituusaste": 27.648523,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 174,
+      "nimi": "Puolanka Camping",
+      "leveysaste": 64.867223,
+      "pituusaste": 27.648535,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 175,
+      "nimi": "Purho Caravan",
+      "leveysaste": 60.805086,
+      "pituusaste": 27.423984,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 176,
+      "nimi": "Pyhätunturin Matkailuvaunualue",
+      "leveysaste": 67.021251,
+      "pituusaste": 27.253091,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 177,
+      "nimi": "Pyhätunturin Matkailuvaunualue",
+      "leveysaste": 67.02133,
+      "pituusaste": 27.2532,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 178,
+      "nimi": "Pääkslahti Caravan",
+      "leveysaste": 60.376314,
+      "pituusaste": 24.239276,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 179,
+      "nimi": "Rairanta",
+      "leveysaste": 60.76241,
+      "pituusaste": 21.422835,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 180,
+      "nimi": "Rairanta",
+      "leveysaste": 60.762455,
+      "pituusaste": 21.422784,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 181,
+      "nimi": "Rantasalo",
+      "leveysaste": 59.935995,
+      "pituusaste": 22.397019,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 182,
+      "nimi": "Ranuanjärven leirintäalue",
+      "leveysaste": 65.920259,
+      "pituusaste": 26.576535,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 183,
+      "nimi": "Ranuanjärven leirintäalue",
+      "leveysaste": 65.92029,
+      "pituusaste": 26.576582,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 184,
+      "nimi": "Riihijärven Matkaparkki",
+      "leveysaste": 61.941656,
+      "pituusaste": 30.195514,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 185,
+      "nimi": "Riihijärven Matkaparkki",
+      "leveysaste": 61.941754,
+      "pituusaste": 30.195359,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 186,
+      "nimi": "Rokuanhovi Caravan",
+      "leveysaste": 64.582272,
+      "pituusaste": 26.499891,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 187,
+      "nimi": "Rokuanhovi Caravan",
+      "leveysaste": 64.582294,
+      "pituusaste": 26.500222,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 188,
+      "nimi": "Ruhkarannan lomakylä",
+      "leveysaste": 62.652689,
+      "pituusaste": 31.062966,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 189,
+      "nimi": "Ruka Caravan",
+      "leveysaste": 66.160578,
+      "pituusaste": 29.171539,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 190,
+      "nimi": "Ruka Caravan",
+      "leveysaste": 66.160642,
+      "pituusaste": 29.171464,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 191,
+      "nimi": "Ruka Caravan laajennusosa",
+      "leveysaste": 66.161207,
+      "pituusaste": 29.175356,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 192,
+      "nimi": "Ruka Caravan laajennusosa",
+      "leveysaste": 66.161422,
+      "pituusaste": 29.175266,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 193,
+      "nimi": "Runni Spa",
+      "leveysaste": 63.589197,
+      "pituusaste": 26.856997,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 194,
+      "nimi": "Ruskorannan leirintä",
+      "leveysaste": 63.276472,
+      "pituusaste": 22.962585,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 195,
+      "nimi": "Ryynäsenniemi",
+      "leveysaste": 66.172346,
+      "pituusaste": 25.269209,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 196,
+      "nimi": "Ryynäsenniemi",
+      "leveysaste": 66.172393,
+      "pituusaste": 25.269285,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 197,
+      "nimi": "SF Caravan Krapuranta",
+      "leveysaste": 60.840772,
+      "pituusaste": 22.702922,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 198,
+      "nimi": "SF Caravan Krapuranta",
+      "leveysaste": 60.840816,
+      "pituusaste": 22.703102,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 199,
+      "nimi": "SF Caravan Rantasarka",
+      "leveysaste": 65.129933,
+      "pituusaste": 25.239089,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 200,
+      "nimi": "SF-C Espoo matkailuajoneuvojen säilytysalue",
+      "leveysaste": 60.245124,
+      "pituusaste": 24.53977,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 201,
+      "nimi": "SF-C Espoo matkailuajoneuvojen säilytysalue",
+      "leveysaste": 60.245197,
+      "pituusaste": 24.539768,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 202,
+      "nimi": "SF-C Jokiranta",
+      "leveysaste": 62.178926,
+      "pituusaste": 27.784693,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 203,
+      "nimi": "SF-C Valasranta",
+      "leveysaste": 60.895174,
+      "pituusaste": 22.351632,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 204,
+      "nimi": "SF-Caravan",
+      "leveysaste": 61.056487,
+      "pituusaste": 24.873367,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 205,
+      "nimi": "SF-Caravan",
+      "leveysaste": 61.056527,
+      "pituusaste": 24.873411,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 206,
+      "nimi": "SF-Caravan Etelälahti Säilytysalue",
+      "leveysaste": 60.357953,
+      "pituusaste": 24.512453,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 207,
+      "nimi": "SF-Caravan Kopparö ry",
+      "leveysaste": 59.909776,
+      "pituusaste": 23.525275,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 208,
+      "nimi": "SF-Caravan Lintulahti",
+      "leveysaste": 62.822959,
+      "pituusaste": 25.802472,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 209,
+      "nimi": "SF-Caravan Lintulahti",
+      "leveysaste": 62.822972,
+      "pituusaste": 25.802481,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 210,
+      "nimi": "SF-Caravan Lohenpyrstö",
+      "leveysaste": 64.712156,
+      "pituusaste": 24.520706,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 211,
+      "nimi": "SF-Caravan Pargas Nejden rf",
+      "leveysaste": 60.257947,
+      "pituusaste": 22.189937,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 212,
+      "nimi": "SFC Etuniemi",
+      "leveysaste": 61.671692,
+      "pituusaste": 26.748326,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 213,
+      "nimi": "SFC Etuniemi",
+      "leveysaste": 61.671706,
+      "pituusaste": 26.7484,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 214,
+      "nimi": "SFC Hakalanranta",
+      "leveysaste": 61.184246,
+      "pituusaste": 24.115142,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 215,
+      "nimi": "SFC Hakalanranta",
+      "leveysaste": 61.184461,
+      "pituusaste": 24.115581,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 216,
+      "nimi": "SFC Hämeenhelmi",
+      "leveysaste": 60.839167,
+      "pituusaste": 24.692588,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 217,
+      "nimi": "SFC Palvaanjarvi",
+      "leveysaste": 60.824198,
+      "pituusaste": 27.451765,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 218,
+      "nimi": "SFC Palvaanjarvi",
+      "leveysaste": 60.824243,
+      "pituusaste": 27.451715,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 219,
+      "nimi": "SFC Sexsjö",
+      "leveysaste": 63.472915,
+      "pituusaste": 23.16565,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 220,
+      "nimi": "SFC Sääksi Caravanalue",
+      "leveysaste": 60.510106,
+      "pituusaste": 24.694002,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 221,
+      "nimi": "SFC Sääksi Caravanalue",
+      "leveysaste": 60.510254,
+      "pituusaste": 24.694091,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 222,
+      "nimi": "SFC Vankkurimännikkö",
+      "leveysaste": 62.193957,
+      "pituusaste": 23.839348,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 223,
+      "nimi": "SFC Vantaan Talli ry",
+      "leveysaste": 60.831554,
+      "pituusaste": 24.818471,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 224,
+      "nimi": "SFC Vantaan Talli ry",
+      "leveysaste": 60.831588,
+      "pituusaste": 24.818597,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 225,
+      "nimi": "SFC-Harvaluoto",
+      "leveysaste": 60.371115,
+      "pituusaste": 22.514183,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 226,
+      "nimi": "SFC-kohtauspaikka",
+      "leveysaste": 64.127649,
+      "pituusaste": 27.255641,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 227,
+      "nimi": "SFC-kohtauspaikka",
+      "leveysaste": 64.127658,
+      "pituusaste": 27.255754,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 228,
+      "nimi": "Sallaiset",
+      "leveysaste": 66.76472,
+      "pituusaste": 28.761972,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 229,
+      "nimi": "Sallaiset",
+      "leveysaste": 66.764741,
+      "pituusaste": 28.761982,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 230,
+      "nimi": "Salmen matkailuvaunualue",
+      "leveysaste": 60.37705,
+      "pituusaste": 24.504136,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 231,
+      "nimi": "Salmen matkailuvaunualue",
+      "leveysaste": 60.377071,
+      "pituusaste": 24.503978,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 232,
+      "nimi": "Saloranta Caravan",
+      "leveysaste": 60.419994,
+      "pituusaste": 21.832261,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 233,
+      "nimi": "Santalahti camping",
+      "leveysaste": 60.438013,
+      "pituusaste": 26.861143,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 234,
+      "nimi": "Sappee Caravan",
+      "leveysaste": 61.387481,
+      "pituusaste": 24.502096,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 235,
+      "nimi": "Sappee Caravan",
+      "leveysaste": 61.387493,
+      "pituusaste": 24.502108,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 236,
+      "nimi": "Sarapisto",
+      "leveysaste": 60.252272,
+      "pituusaste": 22.744996,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 237,
+      "nimi": "Savikoski Caravan",
+      "leveysaste": 61.176537,
+      "pituusaste": 23.592735,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 238,
+      "nimi": "Sepänniemi karavaanialue",
+      "leveysaste": 62.648677,
+      "pituusaste": 23.845018,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 239,
+      "nimi": "Sierravuori Caravan",
+      "leveysaste": 60.991223,
+      "pituusaste": 22.234369,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 240,
+      "nimi": "Siiponkoski",
+      "leveysaste": 63.781265,
+      "pituusaste": 25.297205,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 241,
+      "nimi": "SonkaMökit",
+      "leveysaste": 66.629956,
+      "pituusaste": 25.263831,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 242,
+      "nimi": "SonkaMökit",
+      "leveysaste": 66.629995,
+      "pituusaste": 25.264015,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 243,
+      "nimi": "Sun Camping Imatra",
+      "leveysaste": 61.196555,
+      "pituusaste": 28.734677,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 244,
+      "nimi": "Sun Camping Imatra",
+      "leveysaste": 61.196574,
+      "pituusaste": 28.734674,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 245,
+      "nimi": "Syöte Camping",
+      "leveysaste": 65.632076,
+      "pituusaste": 27.615391,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 246,
+      "nimi": "Tammiston Matkaparkki",
+      "leveysaste": 60.479242,
+      "pituusaste": 22.069704,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 247,
+      "nimi": "Tampere Camping Härmälä",
+      "leveysaste": 61.471984,
+      "pituusaste": 23.73879,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 248,
+      "nimi": "Tapion tuvan caravanpuisto",
+      "leveysaste": 64.240729,
+      "pituusaste": 23.838722,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 249,
+      "nimi": "Tapion tuvan caravanpuisto",
+      "leveysaste": 64.240767,
+      "pituusaste": 23.838738,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 250,
+      "nimi": "Tunturikylä Muotkan Ruoktu",
+      "leveysaste": 69.252182,
+      "pituusaste": 26.815448,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 251,
+      "nimi": "Tuuri resorts karavaani-alue",
+      "leveysaste": 62.595121,
+      "pituusaste": 23.806343,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 252,
+      "nimi": "Vankkurivehmas",
+      "leveysaste": 60.61418,
+      "pituusaste": 21.7004,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 253,
+      "nimi": "Vankkurivehmas",
+      "leveysaste": 60.614197,
+      "pituusaste": 21.70044,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 254,
+      "nimi": "Venesillan leirintäalue",
+      "leveysaste": 60.792696,
+      "pituusaste": 23.813979,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 255,
+      "nimi": "Vieresniemen karavaanarialue",
+      "leveysaste": 63.205125,
+      "pituusaste": 23.755615,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 256,
+      "nimi": "Vieresniemen karavaanarialue",
+      "leveysaste": 63.205187,
+      "pituusaste": 23.755639,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 257,
+      "nimi": "VihtiPark",
+      "leveysaste": 60.528841,
+      "pituusaste": 24.600233,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 258,
+      "nimi": "VihtiPark",
+      "leveysaste": 60.528843,
+      "pituusaste": 24.600042,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 259,
+      "nimi": "Viihdekeskus Hojo Hojo",
+      "leveysaste": 62.799766,
+      "pituusaste": 28.503727,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 260,
+      "nimi": "Vuokatinranta",
+      "leveysaste": 64.138749,
+      "pituusaste": 28.257445,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 261,
+      "nimi": "Vuokatinranta",
+      "leveysaste": 64.138823,
+      "pituusaste": 28.257531,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 262,
+      "nimi": "Vuokatinrinteiden caravan-alue",
+      "leveysaste": 64.135485,
+      "pituusaste": 28.276962,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 263,
+      "nimi": "Vuorenmäen leirintäalue",
+      "leveysaste": 60.758866,
+      "pituusaste": 26.064193,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 264,
+      "nimi": "Vuorenmäen leirintäalue",
+      "leveysaste": 60.758913,
+      "pituusaste": 26.06414,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 265,
+      "nimi": "Väransbyn leirintäalue",
+      "leveysaste": 60.060908,
+      "pituusaste": 24.574544,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 266,
+      "nimi": "Yittilä",
+      "leveysaste": 61.421678,
+      "pituusaste": 26.785006,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 267,
+      "nimi": "Yittilä",
+      "leveysaste": 61.421697,
+      "pituusaste": 26.785014,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 268,
+      "nimi": "Ylläksen Ykkös Caravan",
+      "leveysaste": 67.607372,
+      "pituusaste": 24.14425,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 269,
+      "nimi": "Ylläksen Ykkös Caravan",
+      "leveysaste": 67.607449,
+      "pituusaste": 24.144523,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 270,
+      "nimi": "Ylläs Ski Resort Ylläsjärvi asuntovaunualue",
+      "leveysaste": 67.54974,
+      "pituusaste": 24.258,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 271,
+      "nimi": "Ylläs Ski Resort Ylläsjärvi asuntovaunualue",
+      "leveysaste": 67.549804,
+      "pituusaste": 24.257885,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 272,
+      "nimi": "Yyteri Resort & Camping",
+      "leveysaste": 61.570509,
+      "pituusaste": 21.526317,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 273,
+      "nimi": "Yyteri Resort & Camping",
+      "leveysaste": 61.57055,
+      "pituusaste": 21.526434,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 274,
+      "nimi": "Zoolandian leirintäalue",
+      "leveysaste": 60.56852,
+      "pituusaste": 22.43462,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    },
+    {
+      "id": 275,
+      "nimi": "Юлия",
+      "leveysaste": 67.343842,
+      "pituusaste": 26.88347,
+      "osm_avain": "tourism",
+      "osm_arvo": "caravan_site",
+      "osm_luokka": "tourism=caravan_site"
+    }
+  ],
+  "meta": {
+    "title": "Karavaanialueet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Karavaanialueet Suomessa — 275 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=caravan_site`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 31. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 275 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Karavaanialueet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Karavaanialueet – Suomi (OpenStreetMap) — 275 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 275 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

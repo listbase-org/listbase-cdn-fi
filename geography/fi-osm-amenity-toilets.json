@@ -1,0 +1,2896 @@
+{
+  "id": "fi-osm-amenity-toilets",
+  "name": "Yleiset käymälät – Suomi (OpenStreetMap)",
+  "title": "Yleiset käymälät – Suomi (OpenStreetMap)",
+  "description": "Yleiset käymälät Suomessa — 315 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=toilets`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 315,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "number"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "404",
+      "leveysaste": 60.154855,
+      "pituusaste": 24.85438,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 2,
+      "nimi": "404",
+      "leveysaste": 60.154868,
+      "pituusaste": 24.854381,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 3,
+      "nimi": "ABC",
+      "leveysaste": 60.827583,
+      "pituusaste": 23.57156,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 4,
+      "nimi": "ABC Kolmenkulma",
+      "leveysaste": 61.50185,
+      "pituusaste": 23.567396,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 5,
+      "nimi": "Aatsinginhauta käymälä",
+      "leveysaste": 66.834583,
+      "pituusaste": 28.894201,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 6,
+      "nimi": "Aihkipetsi liiteri käymälä",
+      "leveysaste": 66.67845,
+      "pituusaste": 28.760904,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 7,
+      "nimi": "Ailanganlahti tulipaikka + liiteri + käymälä",
+      "leveysaste": 66.571789,
+      "pituusaste": 27.455183,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 8,
+      "nimi": "Aittalahti kuivakäymälä",
+      "leveysaste": 68.012681,
+      "pituusaste": 24.248822,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 9,
+      "nimi": "Alempi Vasaoja käymälä",
+      "leveysaste": 67.742486,
+      "pituusaste": 28.304868,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 10,
+      "nimi": "Alimmainen Hirvashauta kota liiteri-käymälä",
+      "leveysaste": 67.932128,
+      "pituusaste": 29.323267,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 11,
+      "nimi": "Alimmainen Hirvashauta tulipaikka käymälä",
+      "leveysaste": 67.930902,
+      "pituusaste": 29.322838,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 12,
+      "nimi": "Bisajärven kuivakäymälä",
+      "leveysaste": 60.306884,
+      "pituusaste": 25.148624,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 13,
+      "nimi": "Bisajärven kuivakäymälä",
+      "leveysaste": 60.30689,
+      "pituusaste": 25.148613,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 14,
+      "nimi": "Dallapénpuiston yleisövessa",
+      "leveysaste": 60.189847,
+      "pituusaste": 24.958998,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 15,
+      "nimi": "Designhuussi",
+      "leveysaste": 61.30484,
+      "pituusaste": 26.821852,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 16,
+      "nimi": "Disa's Fish",
+      "leveysaste": 61.148288,
+      "pituusaste": 28.811724,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 17,
+      "nimi": "Dixi",
+      "leveysaste": 60.293058,
+      "pituusaste": 25.043792,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 18,
+      "nimi": "Eläintarhan skeittipuiston yleisövessa",
+      "leveysaste": 60.191497,
+      "pituusaste": 24.92874,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 19,
+      "nimi": "Evon leirialue kuivakäymälä",
+      "leveysaste": 61.204446,
+      "pituusaste": 25.122559,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 20,
+      "nimi": "Evon leirialue kuivakäymälä",
+      "leveysaste": 61.204489,
+      "pituusaste": 25.122568,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 21,
+      "nimi": "Fiellujohka",
+      "leveysaste": 69.526905,
+      "pituusaste": 26.621955,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 22,
+      "nimi": "Forum 2 floor wc",
+      "leveysaste": 62.242,
+      "pituusaste": 25.748295,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 23,
+      "nimi": "Gamajotnjalmmeluobbal käymälä",
+      "leveysaste": 69.591197,
+      "pituusaste": 26.80811,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 24,
+      "nimi": "Gaskkamus Suohppasaja",
+      "leveysaste": 69.505881,
+      "pituusaste": 26.549139,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 25,
+      "nimi": "Geavvogeasladdot käymälä",
+      "leveysaste": 69.464261,
+      "pituusaste": 26.349761,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 26,
+      "nimi": "Halkolammenoja",
+      "leveysaste": 60.333193,
+      "pituusaste": 24.668158,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 27,
+      "nimi": "Halkolampi",
+      "leveysaste": 60.328678,
+      "pituusaste": 24.665257,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 28,
+      "nimi": "Hammaskuru",
+      "leveysaste": 68.165713,
+      "pituusaste": 28.298157,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 29,
+      "nimi": "Hannukuru liiteri ja kuivakäymälä",
+      "leveysaste": 68.218026,
+      "pituusaste": 23.949524,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 30,
+      "nimi": "Hannukuru sauna kuivakäymälä",
+      "leveysaste": 68.21943,
+      "pituusaste": 23.944089,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 31,
+      "nimi": "Harakka",
+      "leveysaste": 60.15175,
+      "pituusaste": 24.957175,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 32,
+      "nimi": "Haukanholman varastokäymälä",
+      "leveysaste": 60.310111,
+      "pituusaste": 24.507857,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 33,
+      "nimi": "Haukijärvenoja P-paikka käymälä",
+      "leveysaste": 67.858746,
+      "pituusaste": 29.187486,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 34,
+      "nimi": "Haukijärvenoja käymälä",
+      "leveysaste": 67.862637,
+      "pituusaste": 29.190303,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 35,
+      "nimi": "Haukilammen käymälä",
+      "leveysaste": 61.922088,
+      "pituusaste": 23.395814,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 36,
+      "nimi": "Haukkalammen uusi käymälä",
+      "leveysaste": 60.309267,
+      "pituusaste": 24.514397,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 37,
+      "nimi": "Hautausmaan huoltorakennus",
+      "leveysaste": 60.91875,
+      "pituusaste": 26.614176,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 38,
+      "nimi": "Helsinki-huussi",
+      "leveysaste": 60.200785,
+      "pituusaste": 25.180278,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 39,
+      "nimi": "Helsinki-huussi",
+      "leveysaste": 60.20079,
+      "pituusaste": 25.180293,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 40,
+      "nimi": "Helsinki-huussi",
+      "leveysaste": 60.214531,
+      "pituusaste": 24.986256,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 41,
+      "nimi": "Helsinki-huussi",
+      "leveysaste": 60.255937,
+      "pituusaste": 25.045445,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 42,
+      "nimi": "Helsinki-huussi",
+      "leveysaste": 60.255956,
+      "pituusaste": 25.045446,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 43,
+      "nimi": "Hesburger WC",
+      "leveysaste": 60.263038,
+      "pituusaste": 24.841686,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 44,
+      "nimi": "Hesperian puiston yleisövessa",
+      "leveysaste": 60.178511,
+      "pituusaste": 24.929749,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 45,
+      "nimi": "Heurekan tiedekeskus WC",
+      "leveysaste": 60.287821,
+      "pituusaste": 25.040476,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 46,
+      "nimi": "Hietajärvi kuivakäymälä",
+      "leveysaste": 68.255221,
+      "pituusaste": 23.992976,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 47,
+      "nimi": "Hietajärvi kuivakäymälä",
+      "leveysaste": 68.255232,
+      "pituusaste": 23.992996,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 48,
+      "nimi": "Hiilestäjä",
+      "leveysaste": 61.204904,
+      "pituusaste": 25.12498,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 49,
+      "nimi": "Hirvashauta liiteri-käymälä",
+      "leveysaste": 67.897785,
+      "pituusaste": 29.261639,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 50,
+      "nimi": "Holinpuro",
+      "leveysaste": 63.934125,
+      "pituusaste": 28.305722,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 51,
+      "nimi": "Holma-Saarijärven läntinen käymälä",
+      "leveysaste": 60.302187,
+      "pituusaste": 24.49137,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 52,
+      "nimi": "Holma-Saarijärvi käymälä",
+      "leveysaste": 60.30133,
+      "pituusaste": 24.495604,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 53,
+      "nimi": "Holma-Saarijärvi käymälä",
+      "leveysaste": 60.30134,
+      "pituusaste": 24.49562,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 54,
+      "nimi": "Hotikaisenmukka liiteri käymälä",
+      "leveysaste": 67.809625,
+      "pituusaste": 29.141001,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 55,
+      "nimi": "Huussi",
+      "leveysaste": 62.522306,
+      "pituusaste": 25.598451,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 56,
+      "nimi": "Härkätunturi liiteri-käymälä",
+      "leveysaste": 67.669063,
+      "pituusaste": 29.453469,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 57,
+      "nimi": "Iso-Holma käymälä",
+      "leveysaste": 60.312324,
+      "pituusaste": 24.48576,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 58,
+      "nimi": "Iso-Holma käymälä",
+      "leveysaste": 60.312335,
+      "pituusaste": 24.485761,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 59,
+      "nimi": "Iso-Melkuttimen kuivakäymälät",
+      "leveysaste": 60.736873,
+      "pituusaste": 24.086725,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 60,
+      "nimi": "Iso-Melkuttimen kuivakäymälät",
+      "leveysaste": 60.738754,
+      "pituusaste": 24.059367,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 61,
+      "nimi": "Jaakonniemi",
+      "leveysaste": 60.928057,
+      "pituusaste": 26.914793,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 62,
+      "nimi": "Jokiristin kuivakäymälä",
+      "leveysaste": 61.912956,
+      "pituusaste": 23.445402,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 63,
+      "nimi": "Jounin Kauppa wc",
+      "leveysaste": 67.605431,
+      "pituusaste": 24.154509,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 64,
+      "nimi": "Jussinmurusta liiteri-käymälä",
+      "leveysaste": 68.083875,
+      "pituusaste": 28.85044,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 65,
+      "nimi": "Juuanrova kuivakäymälä",
+      "leveysaste": 67.880224,
+      "pituusaste": 23.868649,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 66,
+      "nimi": "K-Citymarket, asiakas WC",
+      "leveysaste": 60.991746,
+      "pituusaste": 24.460314,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 67,
+      "nimi": "Kaakurinkonelo liiteri-käymälä",
+      "leveysaste": 67.844352,
+      "pituusaste": 28.808807,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 68,
+      "nimi": "Kaitalammenlahti",
+      "leveysaste": 60.31981,
+      "pituusaste": 24.664361,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 69,
+      "nimi": "Kaitalammensuo",
+      "leveysaste": 60.317709,
+      "pituusaste": 24.663993,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 70,
+      "nimi": "Kaitalampi",
+      "leveysaste": 60.322687,
+      "pituusaste": 24.664993,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 71,
+      "nimi": "Karapulju",
+      "leveysaste": 68.149645,
+      "pituusaste": 27.978727,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 72,
+      "nimi": "Karhukota käymälä",
+      "leveysaste": 67.636012,
+      "pituusaste": 24.33178,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 73,
+      "nimi": "Karhuoja liiteri käymälä",
+      "leveysaste": 67.915594,
+      "pituusaste": 29.22483,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 74,
+      "nimi": "Karhutunturi liiteri käymälä",
+      "leveysaste": 67.205374,
+      "pituusaste": 29.139111,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 75,
+      "nimi": "Karigasniemi Ailigas",
+      "leveysaste": 69.424963,
+      "pituusaste": 25.933467,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 76,
+      "nimi": "Karppisenpirtti käymälä",
+      "leveysaste": 67.721981,
+      "pituusaste": 28.309172,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 77,
+      "nimi": "Kattilan kammin käymälä",
+      "leveysaste": 60.32545,
+      "pituusaste": 24.494356,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 78,
+      "nimi": "Kattilan uusi käymälä",
+      "leveysaste": 60.325675,
+      "pituusaste": 24.493534,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 79,
+      "nimi": "Keimiöjärvi kuivakäymälä",
+      "leveysaste": 67.955422,
+      "pituusaste": 24.145593,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 80,
+      "nimi": "Kenesjärvi käymälä",
+      "leveysaste": 69.68355,
+      "pituusaste": 27.076548,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 81,
+      "nimi": "Kesänkijärvi kuivakäymälä",
+      "leveysaste": 67.599211,
+      "pituusaste": 24.25748,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 82,
+      "nimi": "Ketokoski kuivakäymälä",
+      "leveysaste": 68.264079,
+      "pituusaste": 24.037161,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 83,
+      "nimi": "Ketunkangas käymälä",
+      "leveysaste": 67.836044,
+      "pituusaste": 28.796428,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 84,
+      "nimi": "Kiertämäjärvi",
+      "leveysaste": 68.369932,
+      "pituusaste": 28.4286,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 85,
+      "nimi": "Kirjaston esteetön wc",
+      "leveysaste": 60.205204,
+      "pituusaste": 24.962257,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 86,
+      "nimi": "Kirjaston yleisövessa",
+      "leveysaste": 62.238832,
+      "pituusaste": 25.74288,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 87,
+      "nimi": "Kirkkopuiston vessa",
+      "leveysaste": 61.690743,
+      "pituusaste": 27.275053,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 88,
+      "nimi": "Kirvessaaren ulkohuussi",
+      "leveysaste": 62.264395,
+      "pituusaste": 26.15849,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 89,
+      "nimi": "Kolmoislammenranta kuivakäymälä",
+      "leveysaste": 60.294644,
+      "pituusaste": 24.502986,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 90,
+      "nimi": "Kolsakoskenoja käymälä",
+      "leveysaste": 67.967799,
+      "pituusaste": 29.36099,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 91,
+      "nimi": "Kopinlahti käymälä",
+      "leveysaste": 60.6715,
+      "pituusaste": 23.85279,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 92,
+      "nimi": "Korsolammen kuivakäymälä",
+      "leveysaste": 60.152724,
+      "pituusaste": 24.366046,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 93,
+      "nimi": "Kortesalo käymälä 2",
+      "leveysaste": 61.906762,
+      "pituusaste": 23.397604,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 94,
+      "nimi": "Kortesalo käymälä 2",
+      "leveysaste": 61.906771,
+      "pituusaste": 23.397612,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 95,
+      "nimi": "Korvatunturinmurusta käymälä",
+      "leveysaste": 68.047084,
+      "pituusaste": 29.259109,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 96,
+      "nimi": "Koskikarapuro käymälä",
+      "leveysaste": 69.671749,
+      "pituusaste": 26.950798,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 97,
+      "nimi": "Kotamaja kuivakäymälä",
+      "leveysaste": 67.658605,
+      "pituusaste": 24.251962,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 98,
+      "nimi": "Koveron pysäköintialueen käymälä 2",
+      "leveysaste": 61.913579,
+      "pituusaste": 23.380384,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 99,
+      "nimi": "Koveron pysäköintialueen käymälä 2",
+      "leveysaste": 61.913585,
+      "pituusaste": 23.380392,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 100,
+      "nimi": "Kuivakäymälä",
+      "leveysaste": 67.633309,
+      "pituusaste": 24.254597,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 101,
+      "nimi": "Kuivi",
+      "leveysaste": 69.611484,
+      "pituusaste": 26.517956,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 102,
+      "nimi": "Kulottaja",
+      "leveysaste": 61.205603,
+      "pituusaste": 25.118925,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 103,
+      "nimi": "Kummalehdonoja käymälä",
+      "leveysaste": 67.927525,
+      "pituusaste": 29.305197,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 104,
+      "nimi": "Kummalehdonsuvanto käymälä",
+      "leveysaste": 67.921253,
+      "pituusaste": 29.297218,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 105,
+      "nimi": "Kuovinkallio",
+      "leveysaste": 60.64132,
+      "pituusaste": 26.756402,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 106,
+      "nimi": "Kuritsa käymälä",
+      "leveysaste": 67.675876,
+      "pituusaste": 28.413105,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 107,
+      "nimi": "Kurtsinniska käymälä",
+      "leveysaste": 67.893219,
+      "pituusaste": 29.179409,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 108,
+      "nimi": "Kuttusoja liiteri käymälä",
+      "leveysaste": 67.820908,
+      "pituusaste": 28.797993,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 109,
+      "nimi": "Kuusikonmaa kuivakäymälä",
+      "leveysaste": 67.855496,
+      "pituusaste": 23.907831,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 110,
+      "nimi": "Kuutin WC",
+      "leveysaste": 61.174021,
+      "pituusaste": 26.866706,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 111,
+      "nimi": "Kymppi",
+      "leveysaste": 61.202898,
+      "pituusaste": 25.1205,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 112,
+      "nimi": "Käpylän kirjaston asiakas WC",
+      "leveysaste": 60.210884,
+      "pituusaste": 24.947138,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 113,
+      "nimi": "Kärekelehto liiteri käymälä",
+      "leveysaste": 67.83572,
+      "pituusaste": 29.149962,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 114,
+      "nimi": "Kärekeoja käymälä",
+      "leveysaste": 67.864503,
+      "pituusaste": 29.197863,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 115,
+      "nimi": "Käymälä",
+      "leveysaste": 62.990227,
+      "pituusaste": 29.920519,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 116,
+      "nimi": "Käymälä",
+      "leveysaste": 63.013216,
+      "pituusaste": 29.925974,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 117,
+      "nimi": "Könkäänkonelo käymälä",
+      "leveysaste": 67.859362,
+      "pituusaste": 28.81446,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 118,
+      "nimi": "Latu Miilu / Ladun maja",
+      "leveysaste": 60.649968,
+      "pituusaste": 24.766662,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 119,
+      "nimi": "Liemusuvanto käymälä",
+      "leveysaste": 67.873117,
+      "pituusaste": 29.187756,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 120,
+      "nimi": "Linkujärvi kuivakäymälä",
+      "leveysaste": 67.783581,
+      "pituusaste": 24.267858,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 121,
+      "nimi": "Loganjárga",
+      "leveysaste": 69.912805,
+      "pituusaste": 27.034405,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 122,
+      "nimi": "Loganjárga",
+      "leveysaste": 69.912819,
+      "pituusaste": 27.034502,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 123,
+      "nimi": "Luomusjoki",
+      "leveysaste": 69.404919,
+      "pituusaste": 26.144859,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 124,
+      "nimi": "Luontokeskuksen käymälä 2",
+      "leveysaste": 61.969089,
+      "pituusaste": 23.360881,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 125,
+      "nimi": "Majavasokka käymälä",
+      "leveysaste": 67.713334,
+      "pituusaste": 28.314317,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 126,
+      "nimi": "Manto-oja käymälä",
+      "leveysaste": 68.044128,
+      "pituusaste": 28.969352,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 127,
+      "nimi": "Massunlastenpuiston yleinen WC",
+      "leveysaste": 61.507988,
+      "pituusaste": 23.766406,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 128,
+      "nimi": "Massunlastenpuiston yleinen WC",
+      "leveysaste": 61.507995,
+      "pituusaste": 23.766406,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 129,
+      "nimi": "Matti Heleniuksen puiston yleisövessa",
+      "leveysaste": 60.183815,
+      "pituusaste": 24.953482,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 130,
+      "nimi": "Merisatamanrannan yleisövessa",
+      "leveysaste": 60.154319,
+      "pituusaste": 24.942574,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 131,
+      "nimi": "Mettopalo käymälä",
+      "leveysaste": 67.900244,
+      "pituusaste": 29.209727,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 132,
+      "nimi": "Ministerikota käymälä",
+      "leveysaste": 67.353092,
+      "pituusaste": 29.349736,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 133,
+      "nimi": "Molnviken",
+      "leveysaste": 63.769655,
+      "pituusaste": 22.770481,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 134,
+      "nimi": "Moskova",
+      "leveysaste": 62.232745,
+      "pituusaste": 24.684999,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 135,
+      "nimi": "Multiharju käymälä",
+      "leveysaste": 61.905524,
+      "pituusaste": 23.409708,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 136,
+      "nimi": "Muorravaarakka",
+      "leveysaste": 68.258163,
+      "pituusaste": 28.259673,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 137,
+      "nimi": "Muorravaarakka",
+      "leveysaste": 68.25817,
+      "pituusaste": 28.259682,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 138,
+      "nimi": "Murhahaara käymälä",
+      "leveysaste": 67.614559,
+      "pituusaste": 29.571609,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 139,
+      "nimi": "Murkinahauta liiteri käymälä",
+      "leveysaste": 67.735265,
+      "pituusaste": 28.310195,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 140,
+      "nimi": "Museokadun yleisövessa",
+      "leveysaste": 60.174357,
+      "pituusaste": 24.930163,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 141,
+      "nimi": "Museokadun yleisövessa",
+      "leveysaste": 60.174361,
+      "pituusaste": 24.930172,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 142,
+      "nimi": "Mustalammen pieni käymälä",
+      "leveysaste": 60.305852,
+      "pituusaste": 24.512663,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 143,
+      "nimi": "Mustalammen varastokäymälä",
+      "leveysaste": 60.306238,
+      "pituusaste": 24.509394,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 144,
+      "nimi": "Mustalammen varastokäymälä",
+      "leveysaste": 60.306244,
+      "pituusaste": 24.509375,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 145,
+      "nimi": "Mustavaara kuivakäymälä",
+      "leveysaste": 67.989945,
+      "pituusaste": 24.127733,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 146,
+      "nimi": "Mustikkamaan yleisövessa",
+      "leveysaste": 60.180246,
+      "pituusaste": 24.989605,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 147,
+      "nimi": "Myyrmäen urheilutalo",
+      "leveysaste": 60.26538,
+      "pituusaste": 24.851257,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 148,
+      "nimi": "Myyrmäkitalo",
+      "leveysaste": 60.261375,
+      "pituusaste": 24.85345,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 149,
+      "nimi": "Mäntymäentien yleisövessa",
+      "leveysaste": 60.184299,
+      "pituusaste": 24.930838,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 150,
+      "nimi": "Naltiojoki käymälä",
+      "leveysaste": 67.97561,
+      "pituusaste": 29.06484,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 151,
+      "nimi": "Naruskan tammi käymälä",
+      "leveysaste": 67.388177,
+      "pituusaste": 29.345738,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 152,
+      "nimi": "Neitsytpuiston yleisövessa",
+      "leveysaste": 60.158747,
+      "pituusaste": 24.950003,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 153,
+      "nimi": "Njaggaleapmi käymälä",
+      "leveysaste": 69.638183,
+      "pituusaste": 26.904104,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 154,
+      "nimi": "Nuoluskuru käymälä",
+      "leveysaste": 67.51913,
+      "pituusaste": 29.698546,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 155,
+      "nimi": "Ojanlatva kuivakäymälä",
+      "leveysaste": 67.564662,
+      "pituusaste": 24.298438,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 156,
+      "nimi": "Olhava WC",
+      "leveysaste": 61.18369,
+      "pituusaste": 26.841701,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 157,
+      "nimi": "Olosvuoman laavun kuivakäymälä",
+      "leveysaste": 67.910251,
+      "pituusaste": 23.780087,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 158,
+      "nimi": "Pahakurun liiteri ja kuivakäymälä",
+      "leveysaste": 68.225387,
+      "pituusaste": 23.919329,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 159,
+      "nimi": "Pahtavaara / Kuivakäymälä",
+      "leveysaste": 67.79053,
+      "pituusaste": 24.02479,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 160,
+      "nimi": "Pahtavuoma autiotuvan kuivakäymälä",
+      "leveysaste": 67.802175,
+      "pituusaste": 24.194864,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 161,
+      "nimi": "Pakasaivon kuivakäymälä",
+      "leveysaste": 67.617197,
+      "pituusaste": 23.800416,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 162,
+      "nimi": "Pakasaivon kuivakäymälä",
+      "leveysaste": 67.6172,
+      "pituusaste": 23.800449,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 163,
+      "nimi": "Pallasjärvi alaniitty kuivakäymälä",
+      "leveysaste": 68.022961,
+      "pituusaste": 24.164423,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 164,
+      "nimi": "Peuraselkä",
+      "leveysaste": 68.128036,
+      "pituusaste": 28.702669,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 165,
+      "nimi": "Pihtijoki liiteri-käymälä",
+      "leveysaste": 67.966085,
+      "pituusaste": 28.471175,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 166,
+      "nimi": "Piilola autiotupa kuivakäymälä",
+      "leveysaste": 69.119078,
+      "pituusaste": 28.732095,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 167,
+      "nimi": "Pikku-Särkijärvi kuivakäymälä",
+      "leveysaste": 67.717255,
+      "pituusaste": 23.812798,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 168,
+      "nimi": "Pitkälampi",
+      "leveysaste": 61.337656,
+      "pituusaste": 26.858515,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 169,
+      "nimi": "Pitkälänkoski, huussi",
+      "leveysaste": 60.521628,
+      "pituusaste": 24.228429,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 170,
+      "nimi": "Pohjoislahti kuivakäymälä",
+      "leveysaste": 63.678309,
+      "pituusaste": 28.244678,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 171,
+      "nimi": "Porvoonkadun yleisövessa",
+      "leveysaste": 60.190813,
+      "pituusaste": 24.945547,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 172,
+      "nimi": "Porvoonkadun yleisövessa",
+      "leveysaste": 60.190817,
+      "pituusaste": 24.945536,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 173,
+      "nimi": "Puikkokämppä kompostikäymälä",
+      "leveysaste": 66.409853,
+      "pituusaste": 29.153879,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 174,
+      "nimi": "Pulmankijärvi kuivakäymälä",
+      "leveysaste": 69.931862,
+      "pituusaste": 28.028529,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 175,
+      "nimi": "Punainenhiekka kuivakäymälä",
+      "leveysaste": 68.008304,
+      "pituusaste": 24.232688,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 176,
+      "nimi": "Puolitailpaleen autiotuvan käymälä",
+      "leveysaste": 68.206659,
+      "pituusaste": 23.641495,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 177,
+      "nimi": "Puolukkamaan pirtit",
+      "leveysaste": 66.739185,
+      "pituusaste": 24.473625,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 178,
+      "nimi": "Puolukkamaan pirtit ulkohuussi",
+      "leveysaste": 66.739367,
+      "pituusaste": 24.472499,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 179,
+      "nimi": "Puu-cee",
+      "leveysaste": 60.450591,
+      "pituusaste": 24.360272,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 180,
+      "nimi": "Puucee",
+      "leveysaste": 61.29327,
+      "pituusaste": 25.674282,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 181,
+      "nimi": "Puuvaja/WC",
+      "leveysaste": 64.808725,
+      "pituusaste": 28.572176,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 182,
+      "nimi": "Puuvaja/WC",
+      "leveysaste": 64.815651,
+      "pituusaste": 28.572953,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 183,
+      "nimi": "Pyhäjärvi  kuivakäymälä",
+      "leveysaste": 67.679451,
+      "pituusaste": 24.375373,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 184,
+      "nimi": "Pystökoski käymälä",
+      "leveysaste": 67.285007,
+      "pituusaste": 29.204663,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 185,
+      "nimi": "Rakitsanoja liiteri - käymälä",
+      "leveysaste": 68.046283,
+      "pituusaste": 29.189046,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 186,
+      "nimi": "Ratakadun yleisövessa",
+      "leveysaste": 60.163308,
+      "pituusaste": 24.945064,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 187,
+      "nimi": "Rautatientorin yleisövessa",
+      "leveysaste": 60.171683,
+      "pituusaste": 24.944633,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 188,
+      "nimi": "Repojoki",
+      "leveysaste": 68.45001,
+      "pituusaste": 25.95488,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 189,
+      "nimi": "Rihmakuru liiteri ja kuivakäymälä",
+      "leveysaste": 68.108682,
+      "pituusaste": 24.05024,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 190,
+      "nimi": "Riihimäen Kellari",
+      "leveysaste": 60.732931,
+      "pituusaste": 24.77129,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 191,
+      "nimi": "Ristikallio käymälä",
+      "leveysaste": 66.400672,
+      "pituusaste": 29.119,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 192,
+      "nimi": "Ruoholahdentorin yleisövessa",
+      "leveysaste": 60.162354,
+      "pituusaste": 24.912842,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 193,
+      "nimi": "Rykimäkero imutyhjennyskäymälä",
+      "leveysaste": 67.113818,
+      "pituusaste": 26.983371,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 194,
+      "nimi": "Rytiniva käymälä",
+      "leveysaste": 66.520082,
+      "pituusaste": 29.06397,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 195,
+      "nimi": "Saari-Soljasen käymälä",
+      "leveysaste": 61.901448,
+      "pituusaste": 23.46752,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 196,
+      "nimi": "Saari-Soljasen käymälä",
+      "leveysaste": 61.90145,
+      "pituusaste": 23.467525,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 197,
+      "nimi": "Saarijärvi",
+      "leveysaste": 60.332136,
+      "pituusaste": 24.607991,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 198,
+      "nimi": "Saarilammmen käymälä",
+      "leveysaste": 60.321286,
+      "pituusaste": 24.455156,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 199,
+      "nimi": "Saiho käymälä",
+      "leveysaste": 67.966167,
+      "pituusaste": 29.435134,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 200,
+      "nimi": "Saivonkierros kuivakäymälä",
+      "leveysaste": 67.697906,
+      "pituusaste": 24.139837,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 201,
+      "nimi": "Salmi",
+      "leveysaste": 60.374783,
+      "pituusaste": 24.505201,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 202,
+      "nimi": "Sammakkotammi kuivakäymälä",
+      "leveysaste": 63.622062,
+      "pituusaste": 28.327498,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 203,
+      "nimi": "Sammalinen",
+      "leveysaste": 61.374387,
+      "pituusaste": 26.841019,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 204,
+      "nimi": "Sammuntupa",
+      "leveysaste": 67.780657,
+      "pituusaste": 24.941159,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 205,
+      "nimi": "Sarvijärvi kuivakäymälä",
+      "leveysaste": 68.101465,
+      "pituusaste": 24.092808,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 206,
+      "nimi": "Saukkosuvannonvaara käymälä",
+      "leveysaste": 67.952383,
+      "pituusaste": 29.399303,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 207,
+      "nimi": "Saunavaara käymälä",
+      "leveysaste": 67.657544,
+      "pituusaste": 28.445202,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 208,
+      "nimi": "Savilahti käymälä",
+      "leveysaste": 60.675378,
+      "pituusaste": 23.862528,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 209,
+      "nimi": "Savilampi liiteri ja kuivakäymälä",
+      "leveysaste": 68.328348,
+      "pituusaste": 23.879632,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 210,
+      "nimi": "Seitainoja käymälä",
+      "leveysaste": 67.930119,
+      "pituusaste": 28.912623,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 211,
+      "nimi": "Seurasaaren yleisövessa",
+      "leveysaste": 60.185451,
+      "pituusaste": 24.885653,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 212,
+      "nimi": "Seurasaaren yleisövessa",
+      "leveysaste": 60.185466,
+      "pituusaste": 24.885667,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 213,
+      "nimi": "Sevettijärvi perinnetalo käymälä",
+      "leveysaste": 69.509458,
+      "pituusaste": 28.596635,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 214,
+      "nimi": "Sibeliuksen puiston yleisövessa",
+      "leveysaste": 60.181226,
+      "pituusaste": 24.913108,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 215,
+      "nimi": "Sibeliuksen puiston yleisövessa",
+      "leveysaste": 60.181239,
+      "pituusaste": 24.91311,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 216,
+      "nimi": "Sibeliuksen puiston yleisövessa",
+      "leveysaste": 60.18333,
+      "pituusaste": 24.915022,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 217,
+      "nimi": "Siepinvaaran kuivakäymälä",
+      "leveysaste": 67.944065,
+      "pituusaste": 23.894709,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 218,
+      "nimi": "Silkeaja käymälä",
+      "leveysaste": 69.675015,
+      "pituusaste": 27.022949,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 219,
+      "nimi": "Silpakurunsuu liiteri käymälä",
+      "leveysaste": 67.878575,
+      "pituusaste": 29.189412,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 220,
+      "nimi": "Siltalahti käymälä",
+      "leveysaste": 60.687962,
+      "pituusaste": 23.843695,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 221,
+      "nimi": "Sinebrychoffinpuiston yleisövessa",
+      "leveysaste": 60.162108,
+      "pituusaste": 24.933919,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 222,
+      "nimi": "Sininen Tupa",
+      "leveysaste": 61.106693,
+      "pituusaste": 21.751057,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 223,
+      "nimi": "Siosjoen käymälä",
+      "leveysaste": 68.303719,
+      "pituusaste": 23.870131,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 224,
+      "nimi": "Sioskoski Day Trip Hut toilet",
+      "leveysaste": 68.316977,
+      "pituusaste": 23.976192,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 225,
+      "nimi": "Sioskurun liiteri kuivakäymälä",
+      "leveysaste": 68.298068,
+      "pituusaste": 23.817535,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 226,
+      "nimi": "Sittkoff",
+      "leveysaste": 60.099271,
+      "pituusaste": 19.94266,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 227,
+      "nimi": "Siulanruoktu",
+      "leveysaste": 68.12844,
+      "pituusaste": 28.462315,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 228,
+      "nimi": "Sormijoensuu käymälä",
+      "leveysaste": 67.688787,
+      "pituusaste": 28.398697,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 229,
+      "nimi": "Sorsa liiteri käymälä",
+      "leveysaste": 67.415077,
+      "pituusaste": 29.611402,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 230,
+      "nimi": "Sorvortansuu liiteri - käymälä",
+      "leveysaste": 67.838426,
+      "pituusaste": 28.788098,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 231,
+      "nimi": "Sotajoki 1 käymälä",
+      "leveysaste": 67.803897,
+      "pituusaste": 29.116886,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 232,
+      "nimi": "Storfossen",
+      "leveysaste": 70.073996,
+      "pituusaste": 27.708861,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 233,
+      "nimi": "Storträskin pohjoinen esteetön käymälä",
+      "leveysaste": 60.272664,
+      "pituusaste": 25.158146,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 234,
+      "nimi": "Sturenkadun yleisövessa",
+      "leveysaste": 60.186206,
+      "pituusaste": 24.941692,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 235,
+      "nimi": "Suaskuru liiteri kuivakäymälä",
+      "leveysaste": 68.185737,
+      "pituusaste": 23.993389,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 236,
+      "nimi": "Suoltijoki liiteri käymälä",
+      "leveysaste": 67.273882,
+      "pituusaste": 29.177373,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 237,
+      "nimi": "Söderskär luotsisaari puusee",
+      "leveysaste": 60.10794,
+      "pituusaste": 25.405069,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 238,
+      "nimi": "Söderskär luotsisaari puusee",
+      "leveysaste": 60.107946,
+      "pituusaste": 25.405068,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 239,
+      "nimi": "Söderskär luotsisaari puusee",
+      "leveysaste": 60.108046,
+      "pituusaste": 25.405066,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 240,
+      "nimi": "Söderskär vanha puucee",
+      "leveysaste": 60.108516,
+      "pituusaste": 25.409948,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 241,
+      "nimi": "Tahkokuru kuivakäymälä",
+      "leveysaste": 67.615385,
+      "pituusaste": 24.254314,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 242,
+      "nimi": "Taivalköngäs autiotupa käymälä",
+      "leveysaste": 66.408986,
+      "pituusaste": 29.190129,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 243,
+      "nimi": "Taivalköngäs telttailualueen käymälä",
+      "leveysaste": 66.409701,
+      "pituusaste": 29.187421,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 244,
+      "nimi": "Takalan käymälä",
+      "leveysaste": 60.336643,
+      "pituusaste": 24.500696,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 245,
+      "nimi": "Takamaa",
+      "leveysaste": 60.741064,
+      "pituusaste": 27.705802,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 246,
+      "nimi": "Takkaselkä liiteri käymälä",
+      "leveysaste": 67.457836,
+      "pituusaste": 29.693979,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 247,
+      "nimi": "Talas",
+      "leveysaste": 61.158821,
+      "pituusaste": 26.877537,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 248,
+      "nimi": "Tammelantorin yleinen WC",
+      "leveysaste": 61.501166,
+      "pituusaste": 23.778322,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 249,
+      "nimi": "Tammelantorin yleinen WC",
+      "leveysaste": 61.501169,
+      "pituusaste": 23.778321,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 250,
+      "nimi": "Tammikämpän autiotuvan kuivakäymälä",
+      "leveysaste": 67.900418,
+      "pituusaste": 23.863237,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 251,
+      "nimi": "Tapiola goahti käymälä",
+      "leveysaste": 69.643497,
+      "pituusaste": 26.911875,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 252,
+      "nimi": "Teboil Tähtihovi",
+      "leveysaste": 61.217918,
+      "pituusaste": 26.014726,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 253,
+      "nimi": "Teboil Tähtihovi",
+      "leveysaste": 61.218439,
+      "pituusaste": 26.013336,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 254,
+      "nimi": "Teeren kieppi, huussi",
+      "leveysaste": 62.594466,
+      "pituusaste": 23.798754,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 255,
+      "nimi": "Tehtaanpuiston yleisövessa",
+      "leveysaste": 60.159421,
+      "pituusaste": 24.941847,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 256,
+      "nimi": "Temporary toilet",
+      "leveysaste": 60.146472,
+      "pituusaste": 24.882363,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 257,
+      "nimi": "Tervajärvi P",
+      "leveysaste": 61.156076,
+      "pituusaste": 26.886001,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 258,
+      "nimi": "Tervasaaren yleisövessa",
+      "leveysaste": 60.173819,
+      "pituusaste": 24.968778,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 259,
+      "nimi": "Tiekirkko WC-tilat",
+      "leveysaste": 61.214007,
+      "pituusaste": 25.4842,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 260,
+      "nimi": "Toikets",
+      "leveysaste": 60.288076,
+      "pituusaste": 25.318382,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 261,
+      "nimi": "Toilets",
+      "leveysaste": 60.242245,
+      "pituusaste": 22.210297,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 262,
+      "nimi": "Toiletten",
+      "leveysaste": 62.166134,
+      "pituusaste": 22.863387,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 263,
+      "nimi": "Toivonkadun yleisö-WC",
+      "leveysaste": 60.184752,
+      "pituusaste": 24.925431,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 264,
+      "nimi": "Toivonkadun yleisö-WC",
+      "leveysaste": 60.184755,
+      "pituusaste": 24.92544,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 265,
+      "nimi": "Tokoinrannan yleisövessa",
+      "leveysaste": 60.180737,
+      "pituusaste": 24.944704,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 266,
+      "nimi": "Topeliuksen puiston yleisövessa",
+      "leveysaste": 60.181494,
+      "pituusaste": 24.920076,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 267,
+      "nimi": "Torisevan kahvimaja",
+      "leveysaste": 62.209792,
+      "pituusaste": 23.812635,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 268,
+      "nimi": "Tove Janssonin puiston yleisövessa",
+      "leveysaste": 60.167627,
+      "pituusaste": 24.961708,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 269,
+      "nimi": "Tuntsa käymälä",
+      "leveysaste": 67.57577,
+      "pituusaste": 29.775426,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 270,
+      "nimi": "Tunturijärven kuivakäymälä Olos",
+      "leveysaste": 67.918681,
+      "pituusaste": 23.844844,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 271,
+      "nimi": "Tunturijärven laavun kuivakäymälä",
+      "leveysaste": 67.554639,
+      "pituusaste": 24.155935,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 272,
+      "nimi": "Tuomikurun kota kuivakäymälä",
+      "leveysaste": 67.567348,
+      "pituusaste": 24.262915,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 273,
+      "nimi": "Töölön kisahallin yleisövessa",
+      "leveysaste": 60.182596,
+      "pituusaste": 24.927123,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 274,
+      "nimi": "Töölön kisahallin yleisövessa",
+      "leveysaste": 60.1826,
+      "pituusaste": 24.927112,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 275,
+      "nimi": "Uittaja",
+      "leveysaste": 61.201684,
+      "pituusaste": 25.121049,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 276,
+      "nimi": "Ulko-Tammio valvontatuvan käymälä",
+      "leveysaste": 60.349441,
+      "pituusaste": 27.456381,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 277,
+      "nimi": "Ulkohuussi Iivari",
+      "leveysaste": 62.645726,
+      "pituusaste": 23.8155,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 278,
+      "nimi": "Ulkohuussi Lääkärinranta",
+      "leveysaste": 62.637111,
+      "pituusaste": 23.826549,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 279,
+      "nimi": "Ulkohuussi Vuorenmaan ranta",
+      "leveysaste": 62.633838,
+      "pituusaste": 23.839469,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 280,
+      "nimi": "Ulkohuussi Vähä Vuorenjärvi",
+      "leveysaste": 62.707876,
+      "pituusaste": 23.777877,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 281,
+      "nimi": "Urjan käymälä",
+      "leveysaste": 60.296833,
+      "pituusaste": 24.593909,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 282,
+      "nimi": "Uusi kuivakäymälä",
+      "leveysaste": 60.109241,
+      "pituusaste": 25.410344,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 283,
+      "nimi": "Uusipalon kuivakäymälä",
+      "leveysaste": 67.983083,
+      "pituusaste": 23.926599,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 284,
+      "nimi": "Valkialampi",
+      "leveysaste": 62.709736,
+      "pituusaste": 23.867182,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 285,
+      "nimi": "Varkaanjärvi Lapp hut toilet",
+      "leveysaste": 68.180763,
+      "pituusaste": 24.055472,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 286,
+      "nimi": "Varsapuistikon yleisövessa",
+      "leveysaste": 60.173145,
+      "pituusaste": 24.949579,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 287,
+      "nimi": "Varuboden City",
+      "leveysaste": 60.099904,
+      "pituusaste": 19.941573,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 288,
+      "nimi": "Vasasuvanto liiteri-käymälä",
+      "leveysaste": 67.753168,
+      "pituusaste": 28.362418,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 289,
+      "nimi": "Veneilykeskus",
+      "leveysaste": 65.039871,
+      "pituusaste": 24.556549,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 290,
+      "nimi": "Venäjänhiekka kuivakäymä",
+      "leveysaste": 63.647885,
+      "pituusaste": 28.30201,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 291,
+      "nimi": "Villenkämpä  kuivakäymälä",
+      "leveysaste": 67.597224,
+      "pituusaste": 24.450497,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 292,
+      "nimi": "Voittinköngäs liiteri käymälä",
+      "leveysaste": 67.942999,
+      "pituusaste": 29.345048,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 293,
+      "nimi": "Vuontisjärven kuivakäymälä",
+      "leveysaste": 68.038377,
+      "pituusaste": 23.854931,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 294,
+      "nimi": "Väinö Tannerin kentän yleisövessa",
+      "leveysaste": 60.182009,
+      "pituusaste": 24.956899,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 295,
+      "nimi": "WC",
+      "leveysaste": 62.239109,
+      "pituusaste": 25.753401,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 296,
+      "nimi": "WC & Shower",
+      "leveysaste": 60.285285,
+      "pituusaste": 25.31845,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 297,
+      "nimi": "WC & Shower",
+      "leveysaste": 60.285286,
+      "pituusaste": 25.318463,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 298,
+      "nimi": "WC Lemströms Kanal",
+      "leveysaste": 60.096917,
+      "pituusaste": 20.015299,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 299,
+      "nimi": "WC Långnäs färjfäste skärgårdfärjorna",
+      "leveysaste": 60.117029,
+      "pituusaste": 20.295816,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 300,
+      "nimi": "WC Maxinge",
+      "leveysaste": 60.12999,
+      "pituusaste": 19.933383,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 301,
+      "nimi": "WC Maxinge",
+      "leveysaste": 60.129991,
+      "pituusaste": 19.933384,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 302,
+      "nimi": "WC Torggallerian",
+      "leveysaste": 60.098241,
+      "pituusaste": 19.941483,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 303,
+      "nimi": "WC Veljekset Keskinen Ruokapuoti",
+      "leveysaste": 62.603941,
+      "pituusaste": 23.722552,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 304,
+      "nimi": "WC- ja huoltorakennus",
+      "leveysaste": 60.174183,
+      "pituusaste": 25.116198,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 305,
+      "nimi": "WC- ja huoltorakennus",
+      "leveysaste": 60.174193,
+      "pituusaste": 25.116197,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 306,
+      "nimi": "Wc Mattssons",
+      "leveysaste": 60.23021,
+      "pituusaste": 19.98982,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 307,
+      "nimi": "Yleisö-WC",
+      "leveysaste": 60.407925,
+      "pituusaste": 25.012446,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 308,
+      "nimi": "Yleisö-WC",
+      "leveysaste": 60.410848,
+      "pituusaste": 25.009989,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 309,
+      "nimi": "Ylempi Vasaoja käymälä",
+      "leveysaste": 67.768583,
+      "pituusaste": 28.384095,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 310,
+      "nimi": "Yli-Julma puucee",
+      "leveysaste": 64.96661,
+      "pituusaste": 28.384386,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 311,
+      "nimi": "Ylämaja",
+      "leveysaste": 60.723727,
+      "pituusaste": 24.695739,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 312,
+      "nimi": "Ylämaja",
+      "leveysaste": 60.723743,
+      "pituusaste": 24.695702,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 313,
+      "nimi": "Äitipetäjänlampi",
+      "leveysaste": 67.355806,
+      "pituusaste": 27.93302,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 314,
+      "nimi": "Туалет",
+      "leveysaste": 61.093246,
+      "pituusaste": 24.801102,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    },
+    {
+      "id": 315,
+      "nimi": "Туалет",
+      "leveysaste": 61.093897,
+      "pituusaste": 24.801022,
+      "osm_avain": "amenity",
+      "osm_arvo": "toilets",
+      "osm_luokka": "amenity=toilets"
+    }
+  ],
+  "meta": {
+    "title": "Yleiset käymälät – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Yleiset käymälät Suomessa — 315 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=toilets`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 315 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Yleiset käymälät – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Yleiset käymälät – Suomi (OpenStreetMap) — 315 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 315 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

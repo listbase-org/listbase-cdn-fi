@@ -1,0 +1,2977 @@
+{
+  "id": "fi-osm-shop-bakery",
+  "name": "Leipomot – Suomi (OpenStreetMap)",
+  "title": "Leipomot – Suomi (OpenStreetMap)",
+  "description": "Leipomot Suomessa — 324 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=bakery`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 19. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 324,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "AM Herkut",
+      "leveysaste": 60.179898,
+      "pituusaste": 24.951673,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 2,
+      "nimi": "Aitolahti",
+      "leveysaste": 60.565776,
+      "pituusaste": 27.195504,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 3,
+      "nimi": "Aitoleipä",
+      "leveysaste": 61.361359,
+      "pituusaste": 23.795401,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 4,
+      "nimi": "Aitoleipä",
+      "leveysaste": 61.361362,
+      "pituusaste": 23.795408,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 5,
+      "nimi": "Anderssons Gårdsbageri",
+      "leveysaste": 60.215069,
+      "pituusaste": 19.605372,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 6,
+      "nimi": "Aroma",
+      "leveysaste": 63.160643,
+      "pituusaste": 21.837618,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 7,
+      "nimi": "Aroma Vaasa",
+      "leveysaste": 63.095864,
+      "pituusaste": 21.611341,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 8,
+      "nimi": "Arvilan kotileipomo",
+      "leveysaste": 61.139026,
+      "pituusaste": 26.597981,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 9,
+      "nimi": "Askiston Leipomo",
+      "leveysaste": 60.28687,
+      "pituusaste": 24.785571,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 10,
+      "nimi": "Askondi",
+      "leveysaste": 60.681271,
+      "pituusaste": 21.706186,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 11,
+      "nimi": "BAKA!",
+      "leveysaste": 60.230453,
+      "pituusaste": 20.090342,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 12,
+      "nimi": "Bakeisti",
+      "leveysaste": 60.375462,
+      "pituusaste": 21.956844,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 13,
+      "nimi": "Bakerika",
+      "leveysaste": 60.162485,
+      "pituusaste": 24.939809,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 14,
+      "nimi": "Bakery",
+      "leveysaste": 60.161426,
+      "pituusaste": 21.563215,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 15,
+      "nimi": "Bakery Manteli",
+      "leveysaste": 60.198793,
+      "pituusaste": 24.930853,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 16,
+      "nimi": "Bergwalls Bageri",
+      "leveysaste": 63.65509,
+      "pituusaste": 22.725807,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 17,
+      "nimi": "Bolle",
+      "leveysaste": 60.204723,
+      "pituusaste": 25.034464,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 18,
+      "nimi": "Bon Bon",
+      "leveysaste": 60.21091,
+      "pituusaste": 25.081425,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 19,
+      "nimi": "Bon Marian Haaga",
+      "leveysaste": 60.215842,
+      "pituusaste": 24.897018,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 20,
+      "nimi": "Boströms Bageri",
+      "leveysaste": 63.671439,
+      "pituusaste": 22.889271,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 21,
+      "nimi": "Brander",
+      "leveysaste": 61.496889,
+      "pituusaste": 23.758862,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 22,
+      "nimi": "Brander",
+      "leveysaste": 61.498269,
+      "pituusaste": 23.773153,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 23,
+      "nimi": "Brander",
+      "leveysaste": 61.498278,
+      "pituusaste": 23.773152,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 24,
+      "nimi": "Brooklyn Baking Co.",
+      "leveysaste": 60.162311,
+      "pituusaste": 24.940065,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 25,
+      "nimi": "Brödhörnet",
+      "leveysaste": 63.675243,
+      "pituusaste": 22.703369,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 26,
+      "nimi": "Bulleriina",
+      "leveysaste": 60.540529,
+      "pituusaste": 22.220582,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 27,
+      "nimi": "Caffitella",
+      "leveysaste": 62.60173,
+      "pituusaste": 25.723522,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 28,
+      "nimi": "Carl de Mumma",
+      "leveysaste": 59.974626,
+      "pituusaste": 23.434908,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 29,
+      "nimi": "Chez Flo Pâtisserie",
+      "leveysaste": 64.996947,
+      "pituusaste": 25.46776,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 30,
+      "nimi": "Chictastic Baking",
+      "leveysaste": 60.158014,
+      "pituusaste": 24.699315,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 31,
+      "nimi": "Choklad Konditori & Bageri",
+      "leveysaste": 60.126833,
+      "pituusaste": 19.944915,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 32,
+      "nimi": "Cloud Patisserie",
+      "leveysaste": 60.237471,
+      "pituusaste": 24.846148,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 33,
+      "nimi": "Deli Bakers",
+      "leveysaste": 60.293283,
+      "pituusaste": 24.063108,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 34,
+      "nimi": "Diwan Bagdad",
+      "leveysaste": 60.213386,
+      "pituusaste": 25.081205,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 35,
+      "nimi": "Eevan Herkut",
+      "leveysaste": 61.203741,
+      "pituusaste": 26.031184,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 36,
+      "nimi": "Ehon leipomonmyymälä",
+      "leveysaste": 60.200049,
+      "pituusaste": 25.041202,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 37,
+      "nimi": "Ehon leipomonmyymälä",
+      "leveysaste": 60.200055,
+      "pituusaste": 25.041182,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 38,
+      "nimi": "Elonen",
+      "leveysaste": 61.864035,
+      "pituusaste": 25.192908,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 39,
+      "nimi": "Elonen Oy",
+      "leveysaste": 60.982046,
+      "pituusaste": 25.738769,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 40,
+      "nimi": "Elonen leipomo myymälä",
+      "leveysaste": 61.86409,
+      "pituusaste": 25.224594,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 41,
+      "nimi": "Enchanté Café",
+      "leveysaste": 60.16708,
+      "pituusaste": 24.934649,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 42,
+      "nimi": "Fagerudds bakeri",
+      "leveysaste": 63.72553,
+      "pituusaste": 22.750135,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 43,
+      "nimi": "Fazer",
+      "leveysaste": 61.038698,
+      "pituusaste": 28.204579,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 44,
+      "nimi": "Fazer Leipomo",
+      "leveysaste": 60.259781,
+      "pituusaste": 24.854437,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 45,
+      "nimi": "Fazer Leipurit",
+      "leveysaste": 64.665924,
+      "pituusaste": 24.482648,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 46,
+      "nimi": "Fazer Shop Lahti",
+      "leveysaste": 60.977636,
+      "pituusaste": 25.602583,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 47,
+      "nimi": "Fridan Tori",
+      "leveysaste": 60.208627,
+      "pituusaste": 24.658878,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 48,
+      "nimi": "Gateau",
+      "leveysaste": 60.169981,
+      "pituusaste": 24.941746,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 49,
+      "nimi": "Gateau",
+      "leveysaste": 60.174011,
+      "pituusaste": 24.953622,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 50,
+      "nimi": "Gateau",
+      "leveysaste": 60.183323,
+      "pituusaste": 24.952762,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 51,
+      "nimi": "Gateau",
+      "leveysaste": 60.210097,
+      "pituusaste": 24.728888,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 52,
+      "nimi": "Gateau Iso Omena",
+      "leveysaste": 60.162029,
+      "pituusaste": 24.738293,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 53,
+      "nimi": "Gateau Lippulaiva",
+      "leveysaste": 60.149513,
+      "pituusaste": 24.655317,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 54,
+      "nimi": "Gateau Töölö",
+      "leveysaste": 60.178723,
+      "pituusaste": 24.923287,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 55,
+      "nimi": "Gateau artisaanileipomo",
+      "leveysaste": 60.160782,
+      "pituusaste": 24.946329,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 56,
+      "nimi": "Gateu",
+      "leveysaste": 60.210421,
+      "pituusaste": 25.079548,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 57,
+      "nimi": "Gemini Cakes: Kreivilän koulun leipomo",
+      "leveysaste": 60.582862,
+      "pituusaste": 22.354574,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 58,
+      "nimi": "Gina Bakery",
+      "leveysaste": 60.169055,
+      "pituusaste": 24.946074,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 59,
+      "nimi": "Gluteeniton Leipomo ILONA",
+      "leveysaste": 61.422298,
+      "pituusaste": 23.754869,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 60,
+      "nimi": "Gluteeniton Leipomo ILONA",
+      "leveysaste": 61.422309,
+      "pituusaste": 23.754808,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 61,
+      "nimi": "Haagan Leipä",
+      "leveysaste": 60.211123,
+      "pituusaste": 24.893304,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 62,
+      "nimi": "Haagan Pullakauppa",
+      "leveysaste": 60.222148,
+      "pituusaste": 24.903175,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 63,
+      "nimi": "Haapasalon Hatsapuri- leipomo",
+      "leveysaste": 61.533314,
+      "pituusaste": 28.18192,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 64,
+      "nimi": "Haapasen Kotileipomo",
+      "leveysaste": 61.644318,
+      "pituusaste": 27.07756,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 65,
+      "nimi": "Hakasen Leipomo",
+      "leveysaste": 61.475788,
+      "pituusaste": 23.796191,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 66,
+      "nimi": "Hakasen Leipomo",
+      "leveysaste": 61.475797,
+      "pituusaste": 23.796191,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 67,
+      "nimi": "Hakasen Leipomo",
+      "leveysaste": 61.497006,
+      "pituusaste": 23.758858,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 68,
+      "nimi": "Hakomäen Leipomo",
+      "leveysaste": 63.042271,
+      "pituusaste": 22.114286,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 69,
+      "nimi": "Hakomäen Leipomo",
+      "leveysaste": 63.042329,
+      "pituusaste": 22.114281,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 70,
+      "nimi": "Hallin kotileipomo",
+      "leveysaste": 61.860559,
+      "pituusaste": 24.831483,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 71,
+      "nimi": "Halmeen leipomo",
+      "leveysaste": 60.192697,
+      "pituusaste": 24.602253,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 72,
+      "nimi": "Hanki",
+      "leveysaste": 61.557728,
+      "pituusaste": 25.170809,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 73,
+      "nimi": "Hardomin Leipä",
+      "leveysaste": 60.458519,
+      "pituusaste": 26.192904,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 74,
+      "nimi": "Harjun Leipomo",
+      "leveysaste": 63.831408,
+      "pituusaste": 23.119597,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 75,
+      "nimi": "Heinosen Leipomo Oy",
+      "leveysaste": 62.619937,
+      "pituusaste": 29.760224,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 76,
+      "nimi": "Heinosen Leipomo Oy",
+      "leveysaste": 62.619947,
+      "pituusaste": 29.760314,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 77,
+      "nimi": "Helinin Leipomo",
+      "leveysaste": 62.030545,
+      "pituusaste": 24.620511,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 78,
+      "nimi": "Herkkumestarit",
+      "leveysaste": 62.696692,
+      "pituusaste": 25.293629,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 79,
+      "nimi": "Hermannin piirakkaleipomo",
+      "leveysaste": 60.234254,
+      "pituusaste": 25.074846,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 80,
+      "nimi": "Hermannin piirakkaleipomo",
+      "leveysaste": 60.234289,
+      "pituusaste": 25.074878,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 81,
+      "nimi": "Hiltunen & Savolainen avoin yhtiö",
+      "leveysaste": 60.402959,
+      "pituusaste": 25.097886,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 82,
+      "nimi": "Huovisen Leipomo",
+      "leveysaste": 64.977709,
+      "pituusaste": 25.58373,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 83,
+      "nimi": "Huovisen Leipomo",
+      "leveysaste": 64.977771,
+      "pituusaste": 25.583803,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 84,
+      "nimi": "Huovisen Leipomo",
+      "leveysaste": 65.001208,
+      "pituusaste": 25.468326,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 85,
+      "nimi": "Huovisen Leipomo",
+      "leveysaste": 65.004175,
+      "pituusaste": 25.530749,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 86,
+      "nimi": "Hyvän Olon Mestari",
+      "leveysaste": 60.935066,
+      "pituusaste": 25.63456,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 87,
+      "nimi": "Häggman",
+      "leveysaste": 63.749705,
+      "pituusaste": 25.316083,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 88,
+      "nimi": "Jaanan puoti",
+      "leveysaste": 65.012981,
+      "pituusaste": 25.466255,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 89,
+      "nimi": "Joen Leipurit",
+      "leveysaste": 62.617792,
+      "pituusaste": 29.829074,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 90,
+      "nimi": "Johannas Hembakta",
+      "leveysaste": 60.234939,
+      "pituusaste": 19.967557,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 91,
+      "nimi": "Jokioisten Leipä",
+      "leveysaste": 60.804814,
+      "pituusaste": 23.525717,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 92,
+      "nimi": "Julkulan leipomo",
+      "leveysaste": 62.926243,
+      "pituusaste": 27.632061,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 93,
+      "nimi": "Junno's Cakes",
+      "leveysaste": 60.303998,
+      "pituusaste": 24.99753,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 94,
+      "nimi": "Jussinhannan Leipä Oy Kahvila-Myymälä",
+      "leveysaste": 61.507711,
+      "pituusaste": 23.662377,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 95,
+      "nimi": "Jyskän Hovileipurit",
+      "leveysaste": 62.241903,
+      "pituusaste": 25.842531,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 96,
+      "nimi": "Jyskän Hovileipurit",
+      "leveysaste": 62.241906,
+      "pituusaste": 25.842502,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 97,
+      "nimi": "Jyväs pakari",
+      "leveysaste": 62.292022,
+      "pituusaste": 25.809964,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 98,
+      "nimi": "K. Leivon Leipomo",
+      "leveysaste": 63.373865,
+      "pituusaste": 23.819255,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 99,
+      "nimi": "K. Leivon Leipomo",
+      "leveysaste": 63.373889,
+      "pituusaste": 23.819234,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 100,
+      "nimi": "Kaesan kotileipomo",
+      "leveysaste": 64.127866,
+      "pituusaste": 29.519172,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 101,
+      "nimi": "Kaijan kotileipä",
+      "leveysaste": 61.17359,
+      "pituusaste": 25.987263,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 102,
+      "nimi": "Kakkumo Anna",
+      "leveysaste": 60.196417,
+      "pituusaste": 24.710952,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 103,
+      "nimi": "Kakkutalo Gilan",
+      "leveysaste": 60.470316,
+      "pituusaste": 25.119492,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 104,
+      "nimi": "Kalakukkoleipomo Hanna Partanen",
+      "leveysaste": 62.892426,
+      "pituusaste": 27.66902,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 105,
+      "nimi": "Kalakukkoleipomo Hanna Partanen",
+      "leveysaste": 62.892635,
+      "pituusaste": 27.668797,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 106,
+      "nimi": "Kanavan Kotileipomo",
+      "leveysaste": 61.170529,
+      "pituusaste": 25.554495,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 107,
+      "nimi": "Kanniston Leipomo",
+      "leveysaste": 60.196771,
+      "pituusaste": 24.884144,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 108,
+      "nimi": "Kanniston Leipomo",
+      "leveysaste": 60.218125,
+      "pituusaste": 24.813518,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 109,
+      "nimi": "Kanniston Leipomo Hakaniemi",
+      "leveysaste": 60.180771,
+      "pituusaste": 24.949898,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 110,
+      "nimi": "Kanniston leipomo",
+      "leveysaste": 60.159268,
+      "pituusaste": 24.936885,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 111,
+      "nimi": "Kanniston leipomo",
+      "leveysaste": 60.169901,
+      "pituusaste": 24.946456,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 112,
+      "nimi": "Kanniston leipomo",
+      "leveysaste": 60.175947,
+      "pituusaste": 24.921811,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 113,
+      "nimi": "Karjalanpiirakkaleipomo Arffman",
+      "leveysaste": 60.15922,
+      "pituusaste": 24.920004,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 114,
+      "nimi": "KartVeli",
+      "leveysaste": 62.89236,
+      "pituusaste": 27.679635,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 115,
+      "nimi": "Katri Antell Oy",
+      "leveysaste": 64.996315,
+      "pituusaste": 25.481297,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 116,
+      "nimi": "Katri Antell Oy",
+      "leveysaste": 64.996326,
+      "pituusaste": 25.481292,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 117,
+      "nimi": "Kauhajoen Laatuleipurit Oy",
+      "leveysaste": 62.459679,
+      "pituusaste": 22.200788,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 118,
+      "nimi": "Keskitalon Maatilaleipomo",
+      "leveysaste": 61.034821,
+      "pituusaste": 26.341662,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 119,
+      "nimi": "Kesti-Paakari",
+      "leveysaste": 61.171158,
+      "pituusaste": 24.562615,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 120,
+      "nimi": "Kesämäen leipomo",
+      "leveysaste": 61.049562,
+      "pituusaste": 28.134234,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 121,
+      "nimi": "Kettusen Leipomo",
+      "leveysaste": 62.852822,
+      "pituusaste": 29.368993,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 122,
+      "nimi": "Ketunleipä",
+      "leveysaste": 61.123789,
+      "pituusaste": 21.511053,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 123,
+      "nimi": "Kiireen raja",
+      "leveysaste": 65.93263,
+      "pituusaste": 26.511299,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 124,
+      "nimi": "Kiteen Kotileipomo - myymälä",
+      "leveysaste": 62.114261,
+      "pituusaste": 30.159777,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 125,
+      "nimi": "Koiviston kotileipomo",
+      "leveysaste": 61.760435,
+      "pituusaste": 23.069971,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 126,
+      "nimi": "Konditori Mazarin",
+      "leveysaste": 60.162165,
+      "pituusaste": 22.731335,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 127,
+      "nimi": "Konditoria Bebe",
+      "leveysaste": 62.921944,
+      "pituusaste": 27.685919,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 128,
+      "nimi": "Konditoria Coco",
+      "leveysaste": 60.466972,
+      "pituusaste": 26.945208,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 129,
+      "nimi": "Konditoria Sammalniemi",
+      "leveysaste": 65.843125,
+      "pituusaste": 24.171553,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 130,
+      "nimi": "Konditoria Vehnänen",
+      "leveysaste": 63.065578,
+      "pituusaste": 28.330708,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 131,
+      "nimi": "Konditoria-Leipomo Linkosuonio Ky",
+      "leveysaste": 60.994163,
+      "pituusaste": 25.75358,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 132,
+      "nimi": "Konditoria-Leipomo Linkosuonio Ky",
+      "leveysaste": 60.994185,
+      "pituusaste": 25.753614,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 133,
+      "nimi": "Kontion leipomo",
+      "leveysaste": 61.132413,
+      "pituusaste": 21.509366,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 134,
+      "nimi": "Kontion leipomo",
+      "leveysaste": 61.132416,
+      "pituusaste": 21.509359,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 135,
+      "nimi": "Kosken leipomo",
+      "leveysaste": 60.436898,
+      "pituusaste": 22.249125,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 136,
+      "nimi": "Kosken leipomo",
+      "leveysaste": 60.442208,
+      "pituusaste": 22.270028,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 137,
+      "nimi": "Kosken leipomo",
+      "leveysaste": 60.447693,
+      "pituusaste": 22.246509,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 138,
+      "nimi": "Kosken leipomo",
+      "leveysaste": 60.451138,
+      "pituusaste": 22.280492,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 139,
+      "nimi": "Kotileipomo Hämäläinen",
+      "leveysaste": 63.114832,
+      "pituusaste": 21.71383,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 140,
+      "nimi": "Kotileipomo Hämäläinen",
+      "leveysaste": 63.114848,
+      "pituusaste": 21.713801,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 141,
+      "nimi": "Kotileipomo Kari Ryynänen",
+      "leveysaste": 62.57943,
+      "pituusaste": 29.790471,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 142,
+      "nimi": "Kotileipomo Keidas",
+      "leveysaste": 60.270036,
+      "pituusaste": 25.280747,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 143,
+      "nimi": "Kotileipomo Paula Kahra",
+      "leveysaste": 62.805174,
+      "pituusaste": 23.506431,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 144,
+      "nimi": "Kotileipomo Siiskonen",
+      "leveysaste": 61.770087,
+      "pituusaste": 27.588215,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 145,
+      "nimi": "Kotileipomo Sorsa",
+      "leveysaste": 62.533509,
+      "pituusaste": 29.383699,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 146,
+      "nimi": "Kotileipomo Taina Vuorio",
+      "leveysaste": 60.957991,
+      "pituusaste": 21.351412,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 147,
+      "nimi": "Kuivaksen Leipomo",
+      "leveysaste": 65.073583,
+      "pituusaste": 25.411836,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 148,
+      "nimi": "Kylänpään leipomo",
+      "leveysaste": 61.236292,
+      "pituusaste": 21.7902,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 149,
+      "nimi": "Kymen Wiener",
+      "leveysaste": 60.867898,
+      "pituusaste": 26.670776,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 150,
+      "nimi": "Laihian Kotipulla",
+      "leveysaste": 62.981191,
+      "pituusaste": 22.006418,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 151,
+      "nimi": "Laitilan Leipä",
+      "leveysaste": 60.879749,
+      "pituusaste": 21.693097,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 152,
+      "nimi": "Laitilan Leipä",
+      "leveysaste": 60.879796,
+      "pituusaste": 21.693177,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 153,
+      "nimi": "Lapin Leipomo",
+      "leveysaste": 66.493067,
+      "pituusaste": 25.653156,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 154,
+      "nimi": "Le Grenier",
+      "leveysaste": 60.192193,
+      "pituusaste": 24.906723,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 155,
+      "nimi": "Leipomo Ankat",
+      "leveysaste": 62.429001,
+      "pituusaste": 29.954351,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 156,
+      "nimi": "Leipomo Ankat",
+      "leveysaste": 62.429015,
+      "pituusaste": 29.954368,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 157,
+      "nimi": "Leipomo Eena",
+      "leveysaste": 60.353127,
+      "pituusaste": 24.324779,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 158,
+      "nimi": "Leipomo Eilamari",
+      "leveysaste": 60.878447,
+      "pituusaste": 22.410644,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 159,
+      "nimi": "Leipomo Emilia",
+      "leveysaste": 63.843704,
+      "pituusaste": 23.124081,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 160,
+      "nimi": "Leipomo Gryn",
+      "leveysaste": 60.450671,
+      "pituusaste": 22.268922,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 161,
+      "nimi": "Leipomo J. Martin",
+      "leveysaste": 60.920131,
+      "pituusaste": 26.788336,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 162,
+      "nimi": "Leipomo J. W. Virtanen",
+      "leveysaste": 60.268266,
+      "pituusaste": 24.126823,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 163,
+      "nimi": "Leipomo Juuri",
+      "leveysaste": 60.202952,
+      "pituusaste": 24.967784,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 164,
+      "nimi": "Leipomo Keisari",
+      "leveysaste": 60.163066,
+      "pituusaste": 24.91381,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 165,
+      "nimi": "Leipomo Koppanen Ky",
+      "leveysaste": 60.912852,
+      "pituusaste": 26.772608,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 166,
+      "nimi": "Leipomo Lähimmäinen",
+      "leveysaste": 60.630183,
+      "pituusaste": 25.309358,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 167,
+      "nimi": "Leipomo Manna",
+      "leveysaste": 60.43539,
+      "pituusaste": 22.259683,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 168,
+      "nimi": "Leipomo Nisu-Nikkarit",
+      "leveysaste": 61.513428,
+      "pituusaste": 23.632388,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 169,
+      "nimi": "Leipomo Rosten tehtaanmyymälä",
+      "leveysaste": 60.448074,
+      "pituusaste": 22.309265,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 170,
+      "nimi": "Leipomo Rosten tehtaanmyymälä",
+      "leveysaste": 60.474171,
+      "pituusaste": 22.284294,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 171,
+      "nimi": "Leipomo Ståhlberg",
+      "leveysaste": 61.320238,
+      "pituusaste": 23.75467,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 172,
+      "nimi": "Leipomo Ståhlberg",
+      "leveysaste": 61.361169,
+      "pituusaste": 23.795496,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 173,
+      "nimi": "Leipomo Ståhlberg",
+      "leveysaste": 61.361191,
+      "pituusaste": 23.795493,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 174,
+      "nimi": "Leipomo Toivonen",
+      "leveysaste": 61.204007,
+      "pituusaste": 28.765942,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 175,
+      "nimi": "Leipomo Toivonen",
+      "leveysaste": 61.204028,
+      "pituusaste": 28.765964,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 176,
+      "nimi": "Leipomo ja konditoria Pirjon Pakari",
+      "leveysaste": 60.472589,
+      "pituusaste": 22.161177,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 177,
+      "nimi": "Leipomo-Kahvila Körkkö",
+      "leveysaste": 62.55006,
+      "pituusaste": 24.056628,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 178,
+      "nimi": "Leipomo-Kahvila Nallenpesä",
+      "leveysaste": 62.586792,
+      "pituusaste": 23.617028,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 179,
+      "nimi": "Leipomo-konditoria Hento",
+      "leveysaste": 61.131695,
+      "pituusaste": 21.57248,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 180,
+      "nimi": "Leipomo-konditoria KakkuAnne",
+      "leveysaste": 60.484968,
+      "pituusaste": 22.398351,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 181,
+      "nimi": "Leipomoliike K.E. Avikainen",
+      "leveysaste": 60.186068,
+      "pituusaste": 24.955837,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 182,
+      "nimi": "Leipomomyymälä Leipomo Väyrynen",
+      "leveysaste": 60.19057,
+      "pituusaste": 24.970511,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 183,
+      "nimi": "LeipurinKulma",
+      "leveysaste": 60.804651,
+      "pituusaste": 25.731773,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 184,
+      "nimi": "Leipätalo Oy",
+      "leveysaste": 60.559392,
+      "pituusaste": 24.970503,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 185,
+      "nimi": "Leistin leipomo",
+      "leveysaste": 60.505237,
+      "pituusaste": 26.871592,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 186,
+      "nimi": "Leivon Leipomo",
+      "leveysaste": 61.497121,
+      "pituusaste": 23.831822,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 187,
+      "nimi": "Levain",
+      "leveysaste": 60.173031,
+      "pituusaste": 24.923152,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 188,
+      "nimi": "Lieksan Leipomo",
+      "leveysaste": 63.319193,
+      "pituusaste": 30.025148,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 189,
+      "nimi": "Lieksan Leipomo",
+      "leveysaste": 63.319199,
+      "pituusaste": 30.025164,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 190,
+      "nimi": "Liepuska",
+      "leveysaste": 63.203212,
+      "pituusaste": 28.085644,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 191,
+      "nimi": "Liisan Leipomo",
+      "leveysaste": 61.361637,
+      "pituusaste": 23.795083,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 192,
+      "nimi": "Liki Lounaskahvila-Catering",
+      "leveysaste": 63.066034,
+      "pituusaste": 28.328517,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 193,
+      "nimi": "Lilla Skärgårdsbageriet Sommaröstrand",
+      "leveysaste": 59.900231,
+      "pituusaste": 23.41249,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 194,
+      "nimi": "Lilla hembageriet",
+      "leveysaste": 60.071978,
+      "pituusaste": 23.66436,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 195,
+      "nimi": "Linkosuo",
+      "leveysaste": 61.482956,
+      "pituusaste": 23.937762,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 196,
+      "nimi": "Linkosuo",
+      "leveysaste": 61.483003,
+      "pituusaste": 23.937737,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 197,
+      "nimi": "Luukkonens bageri",
+      "leveysaste": 63.643701,
+      "pituusaste": 22.736852,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 198,
+      "nimi": "Lörtsypojat Oy",
+      "leveysaste": 61.869486,
+      "pituusaste": 28.922864,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 199,
+      "nimi": "M Bakery",
+      "leveysaste": 60.399439,
+      "pituusaste": 22.363544,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 200,
+      "nimi": "Malahvin Kotileipomo",
+      "leveysaste": 62.686158,
+      "pituusaste": 30.974722,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 201,
+      "nimi": "Malinka leipomo",
+      "leveysaste": 60.054079,
+      "pituusaste": 24.016938,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 202,
+      "nimi": "Malviala Oy",
+      "leveysaste": 62.917155,
+      "pituusaste": 27.707629,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 203,
+      "nimi": "Marian Konditoria",
+      "leveysaste": 60.204258,
+      "pituusaste": 24.656542,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 204,
+      "nimi": "Marian Konditoria - Leipomon myymälä",
+      "leveysaste": 60.269254,
+      "pituusaste": 25.073644,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 205,
+      "nimi": "Marian konditoria",
+      "leveysaste": 60.238876,
+      "pituusaste": 24.84933,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 206,
+      "nimi": "Markun Pakari",
+      "leveysaste": 60.812938,
+      "pituusaste": 23.615987,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 207,
+      "nimi": "Maskun leipomo",
+      "leveysaste": 60.570889,
+      "pituusaste": 22.095999,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 208,
+      "nimi": "Mattilan leipomo",
+      "leveysaste": 60.502756,
+      "pituusaste": 22.459112,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 209,
+      "nimi": "Maxmo hembageri",
+      "leveysaste": 63.270854,
+      "pituusaste": 22.125404,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 210,
+      "nimi": "Meriläisen leipomo",
+      "leveysaste": 64.978363,
+      "pituusaste": 25.563845,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 211,
+      "nimi": "Merinta Kotileipomo Oy",
+      "leveysaste": 60.341337,
+      "pituusaste": 25.080436,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 212,
+      "nimi": "Merinta Kotileipomo Oy",
+      "leveysaste": 60.341348,
+      "pituusaste": 25.080432,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 213,
+      "nimi": "Moilas",
+      "leveysaste": 62.286486,
+      "pituusaste": 27.08382,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 214,
+      "nimi": "Moision Kotipakari",
+      "leveysaste": 61.649516,
+      "pituusaste": 23.189385,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 215,
+      "nimi": "Momochi",
+      "leveysaste": 60.210662,
+      "pituusaste": 25.081513,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 216,
+      "nimi": "Mummin pullapuoti",
+      "leveysaste": 62.26278,
+      "pituusaste": 25.77952,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 217,
+      "nimi": "Mytäjäisten kotileipomo",
+      "leveysaste": 61.021234,
+      "pituusaste": 25.678347,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 218,
+      "nimi": "Mytäjäisten kotileipomo",
+      "leveysaste": 61.021248,
+      "pituusaste": 25.678338,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 219,
+      "nimi": "Mytäjäisten kotileipomon myyntipiste",
+      "leveysaste": 60.988178,
+      "pituusaste": 25.514554,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 220,
+      "nimi": "Mytäjäisten leipomo myymälä",
+      "leveysaste": 60.935628,
+      "pituusaste": 25.962456,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 221,
+      "nimi": "Mäkilän leipomo",
+      "leveysaste": 61.50332,
+      "pituusaste": 21.723081,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 222,
+      "nimi": "Mäkilän leipomo",
+      "leveysaste": 61.503537,
+      "pituusaste": 21.723253,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 223,
+      "nimi": "Mäkilän leipomo",
+      "leveysaste": 61.503568,
+      "pituusaste": 21.723306,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 224,
+      "nimi": "NAMI",
+      "leveysaste": 60.179966,
+      "pituusaste": 24.951518,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 225,
+      "nimi": "Ne Keksit",
+      "leveysaste": 60.163298,
+      "pituusaste": 24.918663,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 226,
+      "nimi": "Niemipellon leipomo",
+      "leveysaste": 61.169185,
+      "pituusaste": 23.870992,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 227,
+      "nimi": "Nisutiina",
+      "leveysaste": 61.58991,
+      "pituusaste": 24.018475,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 228,
+      "nimi": "Nykä-Mummon Piirakka",
+      "leveysaste": 62.138466,
+      "pituusaste": 25.767391,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 229,
+      "nimi": "Närpes Bageri",
+      "leveysaste": 62.48016,
+      "pituusaste": 21.337308,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 230,
+      "nimi": "Oriveden Leipomo",
+      "leveysaste": 61.688485,
+      "pituusaste": 24.356134,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 231,
+      "nimi": "P&H:n Piirakoita",
+      "leveysaste": 62.6409,
+      "pituusaste": 29.351926,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 232,
+      "nimi": "PRIMO",
+      "leveysaste": 60.168797,
+      "pituusaste": 24.912274,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 233,
+      "nimi": "Paakari",
+      "leveysaste": 61.46478,
+      "pituusaste": 24.071174,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 234,
+      "nimi": "Paakari",
+      "leveysaste": 61.46479,
+      "pituusaste": 24.071194,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 235,
+      "nimi": "Paakari Puusti",
+      "leveysaste": 60.633796,
+      "pituusaste": 24.858806,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 236,
+      "nimi": "Paakari puusti",
+      "leveysaste": 60.648896,
+      "pituusaste": 22.586466,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 237,
+      "nimi": "Pekan Leipä",
+      "leveysaste": 61.21279,
+      "pituusaste": 26.042799,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 238,
+      "nimi": "Pekka Heikkinen & kumpp",
+      "leveysaste": 64.226122,
+      "pituusaste": 27.733198,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 239,
+      "nimi": "Pesolan leipomo",
+      "leveysaste": 63.55164,
+      "pituusaste": 23.69034,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 240,
+      "nimi": "Pettas",
+      "leveysaste": 60.369244,
+      "pituusaste": 19.800194,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 241,
+      "nimi": "Petäjälammen Herkku",
+      "leveysaste": 65.998894,
+      "pituusaste": 29.157562,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 242,
+      "nimi": "Petäjälammen Herkku",
+      "leveysaste": 65.998903,
+      "pituusaste": 29.157582,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 243,
+      "nimi": "Picnic",
+      "leveysaste": 65.011502,
+      "pituusaste": 25.471933,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 244,
+      "nimi": "Pielispakari leipomomyymälä",
+      "leveysaste": 63.555128,
+      "pituusaste": 29.106681,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 245,
+      "nimi": "Piiras Kartano",
+      "leveysaste": 60.646321,
+      "pituusaste": 25.32837,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 246,
+      "nimi": "Piiras Kartano",
+      "leveysaste": 60.646362,
+      "pituusaste": 25.328388,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 247,
+      "nimi": "Pika-Pulla",
+      "leveysaste": 61.558567,
+      "pituusaste": 29.504864,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 248,
+      "nimi": "Pirjon Pakari",
+      "leveysaste": 61.991736,
+      "pituusaste": 22.261401,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 249,
+      "nimi": "Pirjon Pakari",
+      "leveysaste": 62.796657,
+      "pituusaste": 22.805869,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 250,
+      "nimi": "Pirjon Pakari",
+      "leveysaste": 62.79666,
+      "pituusaste": 22.805921,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 251,
+      "nimi": "Pirjon Pakari – Kauhajoen gluteeniton leipomo",
+      "leveysaste": 62.469081,
+      "pituusaste": 22.027313,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 252,
+      "nimi": "Pitopalvelu Hukka",
+      "leveysaste": 64.207065,
+      "pituusaste": 23.765782,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 253,
+      "nimi": "Porokylän Kahvila-leipomomyymälä",
+      "leveysaste": 63.544203,
+      "pituusaste": 29.164918,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 254,
+      "nimi": "Porokylän Leipäpuoti",
+      "leveysaste": 63.324786,
+      "pituusaste": 29.990466,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 255,
+      "nimi": "Porvoon Paakari-Kahvila",
+      "leveysaste": 60.393267,
+      "pituusaste": 25.662251,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 256,
+      "nimi": "Pulla-Pirtti",
+      "leveysaste": 64.951293,
+      "pituusaste": 25.504442,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 257,
+      "nimi": "Pulla-Pirtti",
+      "leveysaste": 64.951299,
+      "pituusaste": 25.504398,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 258,
+      "nimi": "Pulla-Pirtti Pattijoki",
+      "leveysaste": 64.687472,
+      "pituusaste": 24.570415,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 259,
+      "nimi": "Pulla-Pojat",
+      "leveysaste": 60.987446,
+      "pituusaste": 25.537016,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 260,
+      "nimi": "Pullapaja",
+      "leveysaste": 61.12395,
+      "pituusaste": 21.510578,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 261,
+      "nimi": "Pullapuoti",
+      "leveysaste": 62.601542,
+      "pituusaste": 29.752564,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 262,
+      "nimi": "Pullapuoti Wilenius",
+      "leveysaste": 61.497036,
+      "pituusaste": 23.75874,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 263,
+      "nimi": "Puolangan leipomo",
+      "leveysaste": 64.87341,
+      "pituusaste": 27.640067,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 264,
+      "nimi": "Pusan Bakari",
+      "leveysaste": 61.016872,
+      "pituusaste": 26.312399,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 265,
+      "nimi": "Putaan Pulla",
+      "leveysaste": 65.207897,
+      "pituusaste": 25.331423,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 266,
+      "nimi": "Putaan Pulla",
+      "leveysaste": 65.207915,
+      "pituusaste": 25.331436,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 267,
+      "nimi": "Raka's kotileipomo Vallila",
+      "leveysaste": 60.197674,
+      "pituusaste": 24.947097,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 268,
+      "nimi": "Ramin Konditoria",
+      "leveysaste": 61.715402,
+      "pituusaste": 27.337472,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 269,
+      "nimi": "Reikäleipä",
+      "leveysaste": 60.457537,
+      "pituusaste": 26.202611,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 270,
+      "nimi": "Ruthin Leipomo",
+      "leveysaste": 61.503227,
+      "pituusaste": 23.778206,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 271,
+      "nimi": "Ruthin Leipomo Seppälä",
+      "leveysaste": 62.25277,
+      "pituusaste": 25.773263,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 272,
+      "nimi": "Ruthin leipomo Oy",
+      "leveysaste": 62.21661,
+      "pituusaste": 25.778006,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 273,
+      "nimi": "Ruukin leipomo",
+      "leveysaste": 62.976173,
+      "pituusaste": 28.478965,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 274,
+      "nimi": "Räihän Leipomo",
+      "leveysaste": 66.166396,
+      "pituusaste": 25.15762,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 275,
+      "nimi": "Saariston Leipä",
+      "leveysaste": 60.680088,
+      "pituusaste": 21.578296,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 276,
+      "nimi": "Sepänkatu yrityspaja",
+      "leveysaste": 62.247639,
+      "pituusaste": 25.739838,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 277,
+      "nimi": "Sinuhe leipomon myymälä",
+      "leveysaste": 61.004518,
+      "pituusaste": 25.660998,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 278,
+      "nimi": "Sirkiän Leipomo Oy",
+      "leveysaste": 60.497001,
+      "pituusaste": 22.264904,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 279,
+      "nimi": "Sokuriina",
+      "leveysaste": 60.947611,
+      "pituusaste": 25.928501,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 280,
+      "nimi": "St george bakery",
+      "leveysaste": 60.166694,
+      "pituusaste": 24.94079,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 281,
+      "nimi": "Sumiaispiiras",
+      "leveysaste": 62.284332,
+      "pituusaste": 25.755909,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 282,
+      "nimi": "Sundells Bageri",
+      "leveysaste": 63.407879,
+      "pituusaste": 22.653728,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 283,
+      "nimi": "Suoramyynti Nestori",
+      "leveysaste": 63.073431,
+      "pituusaste": 25.858032,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 284,
+      "nimi": "Tarmolan Kotileipomo",
+      "leveysaste": 60.4029,
+      "pituusaste": 25.678664,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 285,
+      "nimi": "Tervakosken Kahvila-Konditoria",
+      "leveysaste": 60.816357,
+      "pituusaste": 24.629347,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 286,
+      "nimi": "Tunturi-Lapin Leipä",
+      "leveysaste": 68.385468,
+      "pituusaste": 23.619578,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 287,
+      "nimi": "Tuorilan Kotileipomo",
+      "leveysaste": 60.396711,
+      "pituusaste": 25.659062,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 288,
+      "nimi": "Tuorilan kotileipomo",
+      "leveysaste": 60.495071,
+      "pituusaste": 25.551779,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 289,
+      "nimi": "Tuulosrievä Oy",
+      "leveysaste": 61.113319,
+      "pituusaste": 24.839108,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 290,
+      "nimi": "Tuulosrievä Oy",
+      "leveysaste": 61.11333,
+      "pituusaste": 24.839136,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 291,
+      "nimi": "Töysäläinen Oy tehtaanmyymälä",
+      "leveysaste": 62.605919,
+      "pituusaste": 23.747762,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 292,
+      "nimi": "Uli bakery",
+      "leveysaste": 60.341539,
+      "pituusaste": 25.096261,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 293,
+      "nimi": "Ullan Pakari",
+      "leveysaste": 60.450133,
+      "pituusaste": 22.265677,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 294,
+      "nimi": "Ullan Pakari",
+      "leveysaste": 60.716842,
+      "pituusaste": 24.734591,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 295,
+      "nimi": "Ullan Pakari",
+      "leveysaste": 60.716865,
+      "pituusaste": 24.734597,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 296,
+      "nimi": "Ullan Pakari",
+      "leveysaste": 61.485839,
+      "pituusaste": 21.747973,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 297,
+      "nimi": "Ullan Pakari",
+      "leveysaste": 61.485846,
+      "pituusaste": 21.748026,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 298,
+      "nimi": "UniPulla",
+      "leveysaste": 62.081439,
+      "pituusaste": 29.945887,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 299,
+      "nimi": "Uudenmaan Herkku",
+      "leveysaste": 60.407334,
+      "pituusaste": 25.11788,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 300,
+      "nimi": "Uudenmaan Herkku",
+      "leveysaste": 60.407336,
+      "pituusaste": 25.117888,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 301,
+      "nimi": "Uudenmaan Leipä",
+      "leveysaste": 60.385868,
+      "pituusaste": 24.744936,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 302,
+      "nimi": "VAASAN Leipomomyymälä",
+      "leveysaste": 60.73025,
+      "pituusaste": 24.778167,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 303,
+      "nimi": "Vaasan Leipomomyymälä",
+      "leveysaste": 60.282525,
+      "pituusaste": 24.968831,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 304,
+      "nimi": "Vaasan Myymälä",
+      "leveysaste": 62.2709,
+      "pituusaste": 25.783983,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 305,
+      "nimi": "Vaasan leipomomyymälä",
+      "leveysaste": 60.464114,
+      "pituusaste": 26.94022,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 306,
+      "nimi": "Vaasan leipomomyymälä",
+      "leveysaste": 62.628592,
+      "pituusaste": 29.750921,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 307,
+      "nimi": "Vaasan leipomomyymälä Turku",
+      "leveysaste": 60.464653,
+      "pituusaste": 22.270896,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 308,
+      "nimi": "Vantaan leipomo",
+      "leveysaste": 60.2721,
+      "pituusaste": 24.806507,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 309,
+      "nimi": "Victoria’s Cafe & Bakery",
+      "leveysaste": 60.168744,
+      "pituusaste": 24.935797,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 310,
+      "nimi": "Vieremän leipomo",
+      "leveysaste": 63.741362,
+      "pituusaste": 27.002416,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 311,
+      "nimi": "Viialan leipomo",
+      "leveysaste": 60.736765,
+      "pituusaste": 24.770543,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 312,
+      "nimi": "Viipurilainen kotileipomo",
+      "leveysaste": 61.161796,
+      "pituusaste": 25.57947,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 313,
+      "nimi": "Viipurilainen kotileipomo",
+      "leveysaste": 61.161804,
+      "pituusaste": 25.579481,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 314,
+      "nimi": "Villähteen Leipä",
+      "leveysaste": 60.949128,
+      "pituusaste": 25.874512,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 315,
+      "nimi": "Vilmusen Leipomo",
+      "leveysaste": 60.502154,
+      "pituusaste": 22.314387,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 316,
+      "nimi": "Vääksyn Mylly",
+      "leveysaste": 61.177568,
+      "pituusaste": 25.53254,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 317,
+      "nimi": "Vääksyn Mylly",
+      "leveysaste": 61.177574,
+      "pituusaste": 25.532568,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 318,
+      "nimi": "Wi-Box Bageri",
+      "leveysaste": 60.004412,
+      "pituusaste": 23.53797,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 319,
+      "nimi": "Wi-box Café & Konditori",
+      "leveysaste": 59.975106,
+      "pituusaste": 23.436828,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 320,
+      "nimi": "Wilhelmiina Leipomomyymälä",
+      "leveysaste": 62.129739,
+      "pituusaste": 25.670737,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 321,
+      "nimi": "gateau",
+      "leveysaste": 60.160066,
+      "pituusaste": 24.881411,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 322,
+      "nimi": "kotileipomo tuula",
+      "leveysaste": 62.6266,
+      "pituusaste": 29.798103,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 323,
+      "nimi": "Äijäsen kotileipomo",
+      "leveysaste": 62.709559,
+      "pituusaste": 25.219193,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    },
+    {
+      "id": 324,
+      "nimi": "Хлебозавод",
+      "leveysaste": 62.186452,
+      "pituusaste": 30.687663,
+      "osm_avain": "shop",
+      "osm_arvo": "bakery",
+      "osm_luokka": "shop=bakery"
+    }
+  ],
+  "meta": {
+    "title": "Leipomot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Leipomot Suomessa — 324 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=bakery`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 19. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 324 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Leipomot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Leipomot – Suomi (OpenStreetMap) — 324 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 324 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

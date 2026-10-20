@@ -1,0 +1,1879 @@
+{
+  "id": "fi-osm-historic-monument",
+  "name": "Monumentit – Suomi (OpenStreetMap)",
+  "title": "Monumentit – Suomi (OpenStreetMap)",
+  "description": "Monumentit Suomessa — 202 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=monument`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 202,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "1939-1944 Talvi- ja jatkosodan sankarien muistomerkki",
+      "leveysaste": 62.563038,
+      "pituusaste": 23.062683,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 2,
+      "nimi": "3. armeijakunnan muistomerkki",
+      "leveysaste": 65.95595,
+      "pituusaste": 29.158197,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 3,
+      "nimi": "906986",
+      "leveysaste": 64.2274,
+      "pituusaste": 27.724566,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 4,
+      "nimi": "A. A. Levón",
+      "leveysaste": 63.104356,
+      "pituusaste": 21.593092,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 5,
+      "nimi": "Alkuvoima",
+      "leveysaste": 62.705631,
+      "pituusaste": 25.259365,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 6,
+      "nimi": "Alttarikivi",
+      "leveysaste": 60.648846,
+      "pituusaste": 24.887091,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 7,
+      "nimi": "Andreas Alarieston muistomerkki",
+      "leveysaste": 67.817668,
+      "pituusaste": 27.739582,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 8,
+      "nimi": "Ankkuri",
+      "leveysaste": 60.457267,
+      "pituusaste": 26.226608,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 9,
+      "nimi": "Arc de Triomphe",
+      "leveysaste": 62.697795,
+      "pituusaste": 25.284008,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 10,
+      "nimi": "Arkhimedeen ruuvi - Tampereen vesilaitoksen 100-vuotismonumentti",
+      "leveysaste": 61.487915,
+      "pituusaste": 23.769022,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 11,
+      "nimi": "Biogenesis",
+      "leveysaste": 60.175164,
+      "pituusaste": 24.837545,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 12,
+      "nimi": "De Geer",
+      "leveysaste": 63.085947,
+      "pituusaste": 21.624583,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 13,
+      "nimi": "Decapitation Monument",
+      "leveysaste": 64.784596,
+      "pituusaste": 26.196649,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 14,
+      "nimi": "Donnerin obeliski",
+      "leveysaste": 60.633322,
+      "pituusaste": 24.864927,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 15,
+      "nimi": "Donnerin obeliski",
+      "leveysaste": 60.633332,
+      "pituusaste": 24.864909,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 16,
+      "nimi": "E.N. Setälä",
+      "leveysaste": 61.256598,
+      "pituusaste": 22.347536,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 17,
+      "nimi": "Eeron patsas",
+      "leveysaste": 66.776549,
+      "pituusaste": 23.96602,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 18,
+      "nimi": "Elämän Voima",
+      "leveysaste": 61.987952,
+      "pituusaste": 26.646346,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 19,
+      "nimi": "Elämän pursi",
+      "leveysaste": 63.827125,
+      "pituusaste": 23.130149,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 20,
+      "nimi": "Elämän tie",
+      "leveysaste": 63.106996,
+      "pituusaste": 21.603139,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 21,
+      "nimi": "Evakkoonlähteneiden muistomerkki",
+      "leveysaste": 62.899394,
+      "pituusaste": 27.664497,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 22,
+      "nimi": "Flygartstenen",
+      "leveysaste": 60.083221,
+      "pituusaste": 22.596022,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 23,
+      "nimi": "Fredrika Runeberg",
+      "leveysaste": 60.395226,
+      "pituusaste": 25.661554,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 24,
+      "nimi": "H. G. Paloheimon muistomerkki",
+      "leveysaste": 60.734798,
+      "pituusaste": 24.779671,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 25,
+      "nimi": "Hammasratas",
+      "leveysaste": 64.128085,
+      "pituusaste": 29.515706,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 26,
+      "nimi": "Hanomag höyryveturi",
+      "leveysaste": 61.922467,
+      "pituusaste": 25.161166,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 27,
+      "nimi": "Haupitsi",
+      "leveysaste": 60.872306,
+      "pituusaste": 23.066002,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 28,
+      "nimi": "Heikki Savolainen 1907-1997",
+      "leveysaste": 64.228033,
+      "pituusaste": 27.732906,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 29,
+      "nimi": "Hiihtäjäpatsas",
+      "leveysaste": 64.763551,
+      "pituusaste": 25.652299,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 30,
+      "nimi": "Hirviveistos",
+      "leveysaste": 61.243958,
+      "pituusaste": 26.051111,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 31,
+      "nimi": "Historik Båk",
+      "leveysaste": 62.895476,
+      "pituusaste": 21.080507,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 32,
+      "nimi": "Hugo Standertskjöldin muistokivi",
+      "leveysaste": 61.02078,
+      "pituusaste": 24.447461,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 33,
+      "nimi": "Hukkuneiden kalastajien muistomerkki",
+      "leveysaste": 64.089401,
+      "pituusaste": 23.409532,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 34,
+      "nimi": "Härkämänty",
+      "leveysaste": 62.704285,
+      "pituusaste": 25.257469,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 35,
+      "nimi": "Höyrylaiva Kurun haaksirikon muistomerkki",
+      "leveysaste": 61.504302,
+      "pituusaste": 23.751001,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 36,
+      "nimi": "Höyryvasara",
+      "leveysaste": 61.702128,
+      "pituusaste": 23.80169,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 37,
+      "nimi": "Idän ja lännen kulttuuriperintö ja kohtaaminen",
+      "leveysaste": 63.314564,
+      "pituusaste": 30.037672,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 38,
+      "nimi": "Ikuisen teekkarin muistomerkki",
+      "leveysaste": 61.449502,
+      "pituusaste": 23.859206,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 39,
+      "nimi": "Ilkan patsas",
+      "leveysaste": 62.732628,
+      "pituusaste": 22.57059,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 40,
+      "nimi": "Ilmailumuistomerkit",
+      "leveysaste": 61.860613,
+      "pituusaste": 24.827906,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 41,
+      "nimi": "Ilmailumuistomerkki DO-10",
+      "leveysaste": 60.893092,
+      "pituusaste": 26.912736,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 42,
+      "nimi": "Ilmailumuistomerkki Kotkapatsas",
+      "leveysaste": 60.893002,
+      "pituusaste": 26.911625,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 43,
+      "nimi": "Ilmailumuistomerkki MT-452",
+      "leveysaste": 60.892897,
+      "pituusaste": 26.910533,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 44,
+      "nimi": "Iso strutsi",
+      "leveysaste": 60.180408,
+      "pituusaste": 24.939568,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 45,
+      "nimi": "J. L. Runebergin muistomerkki",
+      "leveysaste": 61.985619,
+      "pituusaste": 24.074931,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 46,
+      "nimi": "Johan Peter Bladh:in hauta",
+      "leveysaste": 62.410579,
+      "pituusaste": 21.24869,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 47,
+      "nimi": "Joukkohaudan muistomerkki",
+      "leveysaste": 60.274724,
+      "pituusaste": 25.015665,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 48,
+      "nimi": "Jääkäripatsas",
+      "leveysaste": 63.093126,
+      "pituusaste": 21.603791,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 49,
+      "nimi": "Jääkäripatteriston tykkimuistomerkki",
+      "leveysaste": 60.993916,
+      "pituusaste": 24.453443,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 50,
+      "nimi": "Jääkäripatteriston tykkimuistomerkki",
+      "leveysaste": 60.993922,
+      "pituusaste": 24.453467,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 51,
+      "nimi": "Kanuuna",
+      "leveysaste": 64.138168,
+      "pituusaste": 28.270761,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 52,
+      "nimi": "Karjalaisten patsas",
+      "leveysaste": 66.500045,
+      "pituusaste": 25.728386,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 53,
+      "nimi": "Karjalan patsas",
+      "leveysaste": 60.492585,
+      "pituusaste": 25.105257,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 54,
+      "nimi": "Kasvukäytävä",
+      "leveysaste": 60.570248,
+      "pituusaste": 25.199144,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 55,
+      "nimi": "Kaukopartio-osasto Marttinan muistomerkki",
+      "leveysaste": 64.094491,
+      "pituusaste": 29.434789,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 56,
+      "nimi": "Kekkosteiden muistomerkki",
+      "leveysaste": 64.13757,
+      "pituusaste": 29.454933,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 57,
+      "nimi": "Kiekinkosken suunnan taisteluiden muistomerkki",
+      "leveysaste": 64.095184,
+      "pituusaste": 29.790817,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 58,
+      "nimi": "Kirveskansan kirkon muistomerkki",
+      "leveysaste": 64.381514,
+      "pituusaste": 29.806966,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 59,
+      "nimi": "Koivulahden lentoturman muistomerkki",
+      "leveysaste": 63.140504,
+      "pituusaste": 21.832942,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 60,
+      "nimi": "Kolkin Sahan Vauhtipyörä",
+      "leveysaste": 63.064836,
+      "pituusaste": 21.969842,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 61,
+      "nimi": "Kolmikehrä",
+      "leveysaste": 63.071736,
+      "pituusaste": 21.701557,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 62,
+      "nimi": "Kolmisointu",
+      "leveysaste": 60.465787,
+      "pituusaste": 25.083727,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 63,
+      "nimi": "Konecranesin nosturi",
+      "leveysaste": 60.625157,
+      "pituusaste": 24.825216,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 64,
+      "nimi": "Koneen kiertoliittymän tilataideteos",
+      "leveysaste": 60.620965,
+      "pituusaste": 24.81764,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 65,
+      "nimi": "Korttitalo",
+      "leveysaste": 63.076194,
+      "pituusaste": 21.645959,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 66,
+      "nimi": "Kostamus-rautatien rakentamisen muistomerkki",
+      "leveysaste": 64.449908,
+      "pituusaste": 29.020577,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 67,
+      "nimi": "Kotiseudun henki",
+      "leveysaste": 62.705166,
+      "pituusaste": 25.267885,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 68,
+      "nimi": "Kubistinen Aleksis Kivi",
+      "leveysaste": 62.028163,
+      "pituusaste": 24.623533,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 69,
+      "nimi": "Kummel",
+      "leveysaste": 60.2969,
+      "pituusaste": 22.303825,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 70,
+      "nimi": "Kuralan porttipylväät - Amurin työläiskorttelin muistomerkki",
+      "leveysaste": 61.501307,
+      "pituusaste": 23.747223,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 71,
+      "nimi": "Kuralan porttipylväät - Amurin työläiskorttelin muistomerkki",
+      "leveysaste": 61.501311,
+      "pituusaste": 23.747221,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 72,
+      "nimi": "Laitikkalan taistelun muistomerkki",
+      "leveysaste": 61.253677,
+      "pituusaste": 24.350394,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 73,
+      "nimi": "Laiturityömaa",
+      "leveysaste": 60.434602,
+      "pituusaste": 22.222321,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 74,
+      "nimi": "Laukunkantaja",
+      "leveysaste": 64.128223,
+      "pituusaste": 29.520997,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 75,
+      "nimi": "Leijonapaasi (1918 vapaussodan sankarien muistomerkki)",
+      "leveysaste": 62.633972,
+      "pituusaste": 23.817698,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 76,
+      "nimi": "Lentokentän muistomerkki",
+      "leveysaste": 62.128864,
+      "pituusaste": 24.505457,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 77,
+      "nimi": "Liikenneyhteyksien kehittäjien muistomerkki",
+      "leveysaste": 63.07395,
+      "pituusaste": 27.654967,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 78,
+      "nimi": "Lokomon höyryvasara",
+      "leveysaste": 61.486149,
+      "pituusaste": 23.764769,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 79,
+      "nimi": "Maailman suurin keihäs",
+      "leveysaste": 62.429797,
+      "pituusaste": 21.824993,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 80,
+      "nimi": "Maailman suurin potkukelkka",
+      "leveysaste": 60.896137,
+      "pituusaste": 23.119119,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 81,
+      "nimi": "Mannerheimin muistokivi (1944)",
+      "leveysaste": 59.940353,
+      "pituusaste": 23.295732,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 82,
+      "nimi": "Maria Sophia Kappel",
+      "leveysaste": 59.953444,
+      "pituusaste": 21.742106,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 83,
+      "nimi": "Martta ja Hollo",
+      "leveysaste": 60.914923,
+      "pituusaste": 25.622987,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 84,
+      "nimi": "Matti Nykäsen muistomerkki",
+      "leveysaste": 62.234412,
+      "pituusaste": 25.721523,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 85,
+      "nimi": "Matti Pohdon muistomerkki",
+      "leveysaste": 62.950045,
+      "pituusaste": 22.528936,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 86,
+      "nimi": "Merenkulkijoiden ja mereen menehtyneiden muistomerkki",
+      "leveysaste": 60.154091,
+      "pituusaste": 24.938432,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 87,
+      "nimi": "Merimiina",
+      "leveysaste": 60.531146,
+      "pituusaste": 24.261553,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 88,
+      "nimi": "Muistolaatta",
+      "leveysaste": 62.43053,
+      "pituusaste": 29.072375,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 89,
+      "nimi": "Muistopylväät",
+      "leveysaste": 62.758318,
+      "pituusaste": 22.852182,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 90,
+      "nimi": "Mustilan Tigerstedtien sukuhauta",
+      "leveysaste": 60.732432,
+      "pituusaste": 26.413479,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 91,
+      "nimi": "Mustion sähkörautatien veturi",
+      "leveysaste": 60.160096,
+      "pituusaste": 23.840016,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 92,
+      "nimi": "Muualle haudattujen muistomerkki",
+      "leveysaste": 63.107855,
+      "pituusaste": 21.622771,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 93,
+      "nimi": "Mäntyharju 1595-1995",
+      "leveysaste": 61.419245,
+      "pituusaste": 26.87877,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 94,
+      "nimi": "Napapiiri",
+      "leveysaste": 66.543593,
+      "pituusaste": 25.84638,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 95,
+      "nimi": "Napapiiri",
+      "leveysaste": 66.543594,
+      "pituusaste": 25.846381,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 96,
+      "nimi": "Neuvostoliittolaisten sotavankien muistomerkki",
+      "leveysaste": 61.703556,
+      "pituusaste": 24.592011,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 97,
+      "nimi": "Nuijasodan Muistomerkki",
+      "leveysaste": 63.057046,
+      "pituusaste": 22.107406,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 98,
+      "nimi": "Nälkävuosien muistoristi",
+      "leveysaste": 64.12675,
+      "pituusaste": 28.404964,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 99,
+      "nimi": "Opinportti",
+      "leveysaste": 60.867655,
+      "pituusaste": 22.984144,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 100,
+      "nimi": "Otto Mannisen synnyin koti",
+      "leveysaste": 61.909143,
+      "pituusaste": 26.704516,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 101,
+      "nimi": "Paavon patsas",
+      "leveysaste": 62.705276,
+      "pituusaste": 25.264695,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 102,
+      "nimi": "Pala Teboilin öljysäiliön suojamuuria",
+      "leveysaste": 60.187193,
+      "pituusaste": 25.032962,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 103,
+      "nimi": "Panssarit",
+      "leveysaste": 61.114532,
+      "pituusaste": 26.981889,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 104,
+      "nimi": "Panssarivaunu",
+      "leveysaste": 65.024606,
+      "pituusaste": 25.604084,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 105,
+      "nimi": "Panssarivaunu",
+      "leveysaste": 65.024611,
+      "pituusaste": 25.602598,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 106,
+      "nimi": "Paperikoneen kivitela",
+      "leveysaste": 61.850591,
+      "pituusaste": 25.175273,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 107,
+      "nimi": "Parrun Synty",
+      "leveysaste": 61.102681,
+      "pituusaste": 21.843922,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 108,
+      "nimi": "Partisaanien uhrien muistomerkki",
+      "leveysaste": 64.519792,
+      "pituusaste": 29.453205,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 109,
+      "nimi": "Petsamon siirtoväkeä",
+      "leveysaste": 66.132379,
+      "pituusaste": 24.716562,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 110,
+      "nimi": "Piispankivi",
+      "leveysaste": 65.69219,
+      "pituusaste": 24.280364,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 111,
+      "nimi": "Pikkalan neuvostoaikainen riemukaari",
+      "leveysaste": 60.095599,
+      "pituusaste": 24.311983,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 112,
+      "nimi": "Pikkalan neuvostoaikainen riemukaari",
+      "leveysaste": 60.095617,
+      "pituusaste": 24.312038,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 113,
+      "nimi": "Pitkämäen pooki",
+      "leveysaste": 64.943122,
+      "pituusaste": 25.382945,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 114,
+      "nimi": "Planeetta",
+      "leveysaste": 60.226918,
+      "pituusaste": 24.918754,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 115,
+      "nimi": "Porvoon tykistömuistomerkki",
+      "leveysaste": 60.396305,
+      "pituusaste": 25.654615,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 116,
+      "nimi": "Presidentti J. K. Paasikiven syntymäpaikan muistomerkki",
+      "leveysaste": 61.004051,
+      "pituusaste": 25.194764,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 117,
+      "nimi": "Pullotuskoneen runko",
+      "leveysaste": 60.527381,
+      "pituusaste": 24.749925,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 118,
+      "nimi": "Punaisten hautamuistomerkki",
+      "leveysaste": 62.612784,
+      "pituusaste": 29.727935,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 119,
+      "nimi": "Punavankien muistomerkki",
+      "leveysaste": 60.984151,
+      "pituusaste": 25.644551,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 120,
+      "nimi": "Puolesta Heimon ja Isänmaan 1939-1945",
+      "leveysaste": 62.607605,
+      "pituusaste": 29.769036,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 121,
+      "nimi": "Ragnar Nordström",
+      "leveysaste": 60.457495,
+      "pituusaste": 26.227409,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 122,
+      "nimi": "Raivaajapatsas",
+      "leveysaste": 62.78506,
+      "pituusaste": 25.455686,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 123,
+      "nimi": "Rakentajat",
+      "leveysaste": 60.992309,
+      "pituusaste": 24.455479,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 124,
+      "nimi": "Rannikkotykistön muistomerkki",
+      "leveysaste": 63.162655,
+      "pituusaste": 21.301691,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 125,
+      "nimi": "Rauhanpaalu",
+      "leveysaste": 68.046904,
+      "pituusaste": 29.257891,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 126,
+      "nimi": "Reimari",
+      "leveysaste": 63.097449,
+      "pituusaste": 21.620815,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 127,
+      "nimi": "Riihimäen kenttätykistöperinteiden muistomerkki",
+      "leveysaste": 60.740009,
+      "pituusaste": 24.772844,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 128,
+      "nimi": "Riihimäen-Lopen rautatien muistomerkki",
+      "leveysaste": 60.731749,
+      "pituusaste": 24.765302,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 129,
+      "nimi": "Rillankivi",
+      "leveysaste": 63.457629,
+      "pituusaste": 26.138544,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 130,
+      "nimi": "Rukoileva sotilas",
+      "leveysaste": 62.759406,
+      "pituusaste": 22.852099,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 131,
+      "nimi": "Ruotsinsalmen taistelun muistomerkki",
+      "leveysaste": 60.445387,
+      "pituusaste": 26.955412,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 132,
+      "nimi": "Rutas-Matin Maapallopatsas",
+      "leveysaste": 62.64459,
+      "pituusaste": 25.043043,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 133,
+      "nimi": "Ryhmä suden veteraaneille",
+      "leveysaste": 65.154537,
+      "pituusaste": 28.939525,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 134,
+      "nimi": "S/s John Grafton minnesmärke",
+      "leveysaste": 63.833829,
+      "pituusaste": 22.646471,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 135,
+      "nimi": "Sandelsin muistomerkki",
+      "leveysaste": 62.973949,
+      "pituusaste": 27.701699,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 136,
+      "nimi": "Sankarihaudat",
+      "leveysaste": 64.131024,
+      "pituusaste": 29.522599,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 137,
+      "nimi": "Sankarihauta - Pro Patria 1939-1945",
+      "leveysaste": 60.216964,
+      "pituusaste": 24.69976,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 138,
+      "nimi": "Sankarimuistomerkki",
+      "leveysaste": 61.479499,
+      "pituusaste": 23.531079,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 139,
+      "nimi": "Sankariristi",
+      "leveysaste": 60.433078,
+      "pituusaste": 22.311397,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 140,
+      "nimi": "Sankarivainajien muistomerkki",
+      "leveysaste": 62.787958,
+      "pituusaste": 30.160348,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 141,
+      "nimi": "Savon radan 100-vuotismuistomerkki",
+      "leveysaste": 60.865889,
+      "pituusaste": 26.702299,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 142,
+      "nimi": "Seinäjoen ilmapuolustusmuistomerkki",
+      "leveysaste": 62.78726,
+      "pituusaste": 22.83412,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 143,
+      "nimi": "Sibelius-monumentti",
+      "leveysaste": 60.182027,
+      "pituusaste": 24.913417,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 144,
+      "nimi": "Siikajokipatsas",
+      "leveysaste": 64.815866,
+      "pituusaste": 24.767489,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 145,
+      "nimi": "Sisällisodassa kaatuneet",
+      "leveysaste": 61.556813,
+      "pituusaste": 23.593219,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 146,
+      "nimi": "Slaget vid Rilax",
+      "leveysaste": 59.938241,
+      "pituusaste": 23.066501,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 147,
+      "nimi": "Sodankylästä talvisotaan lähteneille",
+      "leveysaste": 67.414084,
+      "pituusaste": 26.593216,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 148,
+      "nimi": "Sotamuistomerkki",
+      "leveysaste": 60.458149,
+      "pituusaste": 26.964903,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 149,
+      "nimi": "Suomen Vapaudenpatsas",
+      "leveysaste": 63.096184,
+      "pituusaste": 21.615551,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 150,
+      "nimi": "Suomen ilmailun muistomerkki",
+      "leveysaste": 63.091993,
+      "pituusaste": 21.60031,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 151,
+      "nimi": "Suomen sodan vartiopaikka",
+      "leveysaste": 62.917892,
+      "pituusaste": 27.694522,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 152,
+      "nimi": "Suomenlinnan pommituksen uhrien muistomerkki",
+      "leveysaste": 60.154765,
+      "pituusaste": 25.054885,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 153,
+      "nimi": "Surumarssi",
+      "leveysaste": 62.704914,
+      "pituusaste": 25.25746,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 154,
+      "nimi": "TTKY:n 25-vuotismuistomerkki",
+      "leveysaste": 61.449479,
+      "pituusaste": 23.859113,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 155,
+      "nimi": "Talvi- ja jatkosodan muistomerkki",
+      "leveysaste": 62.838893,
+      "pituusaste": 22.907241,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 156,
+      "nimi": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
+      "leveysaste": 61.060152,
+      "pituusaste": 28.174942,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 157,
+      "nimi": "Talvisodassa Kuhmossa kaatuneiden sankarivainajien muistomerkki",
+      "leveysaste": 63.91267,
+      "pituusaste": 30.192904,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 158,
+      "nimi": "Talvisodassa kaatuneiden neuvostosotilaiden muistomerkki",
+      "leveysaste": 63.930433,
+      "pituusaste": 29.974456,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 159,
+      "nimi": "Teekkarilakki 100 vuotta",
+      "leveysaste": 61.449289,
+      "pituusaste": 23.858583,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 160,
+      "nimi": "Tervansoutaja",
+      "leveysaste": 64.128598,
+      "pituusaste": 29.514863,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 161,
+      "nimi": "Tiipii",
+      "leveysaste": 62.774584,
+      "pituusaste": 25.368374,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 162,
+      "nimi": "Tillaripatsas",
+      "leveysaste": 63.929715,
+      "pituusaste": 24.959681,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 163,
+      "nimi": "Toisen mailmansodan muistomerkki",
+      "leveysaste": 62.562672,
+      "pituusaste": 27.568551,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 164,
+      "nimi": "Torikuningas",
+      "leveysaste": 62.24474,
+      "pituusaste": 25.746042,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 165,
+      "nimi": "Tukinuittaja",
+      "leveysaste": 60.514756,
+      "pituusaste": 26.92348,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 166,
+      "nimi": "Tuolta se tulloo",
+      "leveysaste": 62.790871,
+      "pituusaste": 22.84382,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 167,
+      "nimi": "Työsäs sun mittas",
+      "leveysaste": 61.474822,
+      "pituusaste": 23.33012,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 168,
+      "nimi": "Uittomiehet",
+      "leveysaste": 61.114729,
+      "pituusaste": 25.92664,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 169,
+      "nimi": "Uittomuistomerkki",
+      "leveysaste": 65.774543,
+      "pituusaste": 24.504229,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 170,
+      "nimi": "Uittomuistomerkki",
+      "leveysaste": 65.774547,
+      "pituusaste": 24.504231,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 171,
+      "nimi": "Urho Kekkosen muistolaatta",
+      "leveysaste": 69.149509,
+      "pituusaste": 21.386904,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 172,
+      "nimi": "Urho Kekkosen muistomerkki - Suuri aika",
+      "leveysaste": 64.224469,
+      "pituusaste": 27.727506,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 173,
+      "nimi": "Urho Kekkosen muistomerkki - Suuri aika",
+      "leveysaste": 64.224469,
+      "pituusaste": 27.727509,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 174,
+      "nimi": "Vaasan Jaakkoo",
+      "leveysaste": 63.098595,
+      "pituusaste": 21.617044,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 175,
+      "nimi": "Valhalla-pylväikkö",
+      "leveysaste": 61.135935,
+      "pituusaste": 25.789932,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 176,
+      "nimi": "Valhalla-pylväikkö",
+      "leveysaste": 61.135943,
+      "pituusaste": 25.789935,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 177,
+      "nimi": "Valliherra",
+      "leveysaste": 61.197933,
+      "pituusaste": 26.003491,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 178,
+      "nimi": "Valon tuoja - Talvisodan kansallinen muistomerkki",
+      "leveysaste": 60.165005,
+      "pituusaste": 24.948973,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 179,
+      "nimi": "Valtatien 4:n päällystämistyön valmistumisen muistoksi 5.9.1978",
+      "leveysaste": 68.329356,
+      "pituusaste": 27.329166,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 180,
+      "nimi": "Vanhan kirkon muistomerkki",
+      "leveysaste": 64.128133,
+      "pituusaste": 29.568609,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 181,
+      "nimi": "Vanhan turbiinin siipipyörä",
+      "leveysaste": 66.410168,
+      "pituusaste": 27.332872,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 182,
+      "nimi": "Vapaudenpatsas",
+      "leveysaste": 61.130624,
+      "pituusaste": 21.501859,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 183,
+      "nimi": "Vapaudenpatsas",
+      "leveysaste": 61.497442,
+      "pituusaste": 23.752082,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 184,
+      "nimi": "Vapaudenpatsas",
+      "leveysaste": 63.838634,
+      "pituusaste": 23.130391,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 185,
+      "nimi": "Vapaudenpatsas",
+      "leveysaste": 65.009708,
+      "pituusaste": 25.467612,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 186,
+      "nimi": "Vapaussodan muistomerkki",
+      "leveysaste": 62.759439,
+      "pituusaste": 22.851135,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 187,
+      "nimi": "Vapaussodan sankarien muistomerkki",
+      "leveysaste": 62.838825,
+      "pituusaste": 22.907268,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 188,
+      "nimi": "Vapaussodassa kaatuneiden muistomerkki",
+      "leveysaste": 60.996669,
+      "pituusaste": 24.466965,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 189,
+      "nimi": "Veera",
+      "leveysaste": 63.104352,
+      "pituusaste": 21.601139,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 190,
+      "nimi": "Veera",
+      "leveysaste": 63.104355,
+      "pituusaste": 21.601148,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 191,
+      "nimi": "Veteraanien muistomerkki",
+      "leveysaste": 64.129814,
+      "pituusaste": 29.519017,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 192,
+      "nimi": "Veteraanipaasi",
+      "leveysaste": 60.290326,
+      "pituusaste": 25.042661,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 193,
+      "nimi": "Viaporin kapinassa 1906 hallituksen puolella kaatuneiden muistomerkki",
+      "leveysaste": 60.151175,
+      "pituusaste": 25.042318,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 194,
+      "nimi": "Viiksimon partisaaniuhrien muistomerkki",
+      "leveysaste": 64.255754,
+      "pituusaste": 30.372823,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 195,
+      "nimi": "Viäntö",
+      "leveysaste": 62.894518,
+      "pituusaste": 27.647,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 196,
+      "nimi": "Vuoden 1918 muistomerkki",
+      "leveysaste": 62.707984,
+      "pituusaste": 25.254198,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 197,
+      "nimi": "Vuoden maisemateko Kainuu 2016",
+      "leveysaste": 64.128604,
+      "pituusaste": 29.502587,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 198,
+      "nimi": "Walter Parviaisen muistokivi",
+      "leveysaste": 62.140939,
+      "pituusaste": 25.76853,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 199,
+      "nimi": "Zacharias Topelius",
+      "leveysaste": 63.09558,
+      "pituusaste": 21.609376,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 200,
+      "nimi": "vaivaisukko",
+      "leveysaste": 64.674983,
+      "pituusaste": 25.597493,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 201,
+      "nimi": "Ämmänpäre",
+      "leveysaste": 64.88503,
+      "pituusaste": 28.920363,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    },
+    {
+      "id": 202,
+      "nimi": "Ämmänpäre",
+      "leveysaste": 64.885032,
+      "pituusaste": 28.920362,
+      "osm_avain": "historic",
+      "osm_arvo": "monument",
+      "osm_luokka": "historic=monument"
+    }
+  ],
+  "meta": {
+    "title": "Monumentit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Monumentit Suomessa — 202 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=monument`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 202 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Monumentit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Monumentit – Suomi (OpenStreetMap) — 202 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 202 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

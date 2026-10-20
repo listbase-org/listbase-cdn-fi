@@ -1,0 +1,5308 @@
+{
+  "id": "fi-osm-shop-kiosk",
+  "name": "Kioskit – Suomi (OpenStreetMap)",
+  "title": "Kioskit – Suomi (OpenStreetMap)",
+  "description": "Kioskit Suomessa — 583 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=kiosk`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 32. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 583,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "247 Shop",
+      "leveysaste": 64.928555,
+      "pituusaste": 25.373569,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 2,
+      "nimi": "Ahjon grilli",
+      "leveysaste": 60.400936,
+      "pituusaste": 25.146051,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 3,
+      "nimi": "Ahjon grilli",
+      "leveysaste": 60.400951,
+      "pituusaste": 25.146079,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 4,
+      "nimi": "Aholan Tuoretori",
+      "leveysaste": 61.353379,
+      "pituusaste": 25.023702,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 5,
+      "nimi": "Aikalisä",
+      "leveysaste": 63.751284,
+      "pituusaste": 25.316526,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 6,
+      "nimi": "Aittakioski paunetti",
+      "leveysaste": 62.433988,
+      "pituusaste": 25.487643,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 7,
+      "nimi": "Annelin Kioski",
+      "leveysaste": 62.305251,
+      "pituusaste": 25.726244,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 8,
+      "nimi": "Aronsalmen Kioski",
+      "leveysaste": 63.484549,
+      "pituusaste": 29.045633,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 9,
+      "nimi": "Aronsalmen Kioski",
+      "leveysaste": 63.484559,
+      "pituusaste": 29.045641,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 10,
+      "nimi": "Aurankulma",
+      "leveysaste": 60.405703,
+      "pituusaste": 25.013407,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 11,
+      "nimi": "Aurlahden automaattikioski",
+      "leveysaste": 60.248803,
+      "pituusaste": 24.053211,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 12,
+      "nimi": "Autuaankannaksen kioski",
+      "leveysaste": 62.809405,
+      "pituusaste": 27.039698,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 13,
+      "nimi": "Beach bar",
+      "leveysaste": 60.154505,
+      "pituusaste": 19.595836,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 14,
+      "nimi": "Beach bar",
+      "leveysaste": 60.154506,
+      "pituusaste": 19.595848,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 15,
+      "nimi": "Berghamn",
+      "leveysaste": 60.054493,
+      "pituusaste": 21.801667,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 16,
+      "nimi": "Cafe Hamnen",
+      "leveysaste": 60.389268,
+      "pituusaste": 25.662268,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 17,
+      "nimi": "Cafe Hepo-Katti",
+      "leveysaste": 60.187453,
+      "pituusaste": 24.941064,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 18,
+      "nimi": "Café Promenade",
+      "leveysaste": 60.393187,
+      "pituusaste": 25.658651,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 19,
+      "nimi": "Chilla",
+      "leveysaste": 60.913369,
+      "pituusaste": 26.618074,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 20,
+      "nimi": "Eiran Kukkakioski",
+      "leveysaste": 60.158157,
+      "pituusaste": 24.940711,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 21,
+      "nimi": "Elintarvikekioski",
+      "leveysaste": 60.995845,
+      "pituusaste": 24.469405,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 22,
+      "nimi": "Elintarvikekioski Kuksa",
+      "leveysaste": 65.430467,
+      "pituusaste": 27.53937,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 23,
+      "nimi": "Elintarvikekioski Kuksa",
+      "leveysaste": 65.430489,
+      "pituusaste": 27.539382,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 24,
+      "nimi": "Elintarvikekioski Tuhkimo",
+      "leveysaste": 60.19548,
+      "pituusaste": 25.053017,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 25,
+      "nimi": "Emman kioski",
+      "leveysaste": 60.473486,
+      "pituusaste": 22.006103,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 26,
+      "nimi": "Fellmanninpuiston Kioski",
+      "leveysaste": 60.984406,
+      "pituusaste": 25.647321,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 27,
+      "nimi": "Fiskarsin kioski",
+      "leveysaste": 60.130523,
+      "pituusaste": 23.544342,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 28,
+      "nimi": "Friisilän Grillikioski",
+      "leveysaste": 60.162982,
+      "pituusaste": 24.721419,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 29,
+      "nimi": "Friisilän Grillikioski",
+      "leveysaste": 60.162983,
+      "pituusaste": 24.721393,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 30,
+      "nimi": "Godby grill & kiosk",
+      "leveysaste": 60.23118,
+      "pituusaste": 19.989528,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 31,
+      "nimi": "Green Grass Cafe",
+      "leveysaste": 60.989774,
+      "pituusaste": 25.648119,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 32,
+      "nimi": "Grilli Pikkirilli",
+      "leveysaste": 63.080889,
+      "pituusaste": 27.678269,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 33,
+      "nimi": "Grilli Pikkirilli",
+      "leveysaste": 63.080901,
+      "pituusaste": 27.678258,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 34,
+      "nimi": "Grilli-kioski",
+      "leveysaste": 63.087973,
+      "pituusaste": 21.632686,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 35,
+      "nimi": "Grillikioski Pallopoika",
+      "leveysaste": 61.515044,
+      "pituusaste": 23.622568,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 36,
+      "nimi": "Gröna Uddens café & pizzeria",
+      "leveysaste": 60.091341,
+      "pituusaste": 19.950839,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 37,
+      "nimi": "Gudas",
+      "leveysaste": 60.631155,
+      "pituusaste": 25.300563,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 38,
+      "nimi": "HH Kioski ja Tilipiste",
+      "leveysaste": 61.328081,
+      "pituusaste": 22.933822,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 39,
+      "nimi": "HH Kioski ja Tilipiste",
+      "leveysaste": 61.328097,
+      "pituusaste": 22.933782,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 40,
+      "nimi": "Haapaniemen Elintarvikekioski",
+      "leveysaste": 62.223042,
+      "pituusaste": 25.852039,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 41,
+      "nimi": "Hakkarin kioski",
+      "leveysaste": 61.340099,
+      "pituusaste": 23.748724,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 42,
+      "nimi": "Harpin kiska",
+      "leveysaste": 60.370336,
+      "pituusaste": 22.51535,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 43,
+      "nimi": "Haverön Lohi",
+      "leveysaste": 60.220091,
+      "pituusaste": 22.096148,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 44,
+      "nimi": "Haverön Lohi",
+      "leveysaste": 60.220102,
+      "pituusaste": 22.096161,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 45,
+      "nimi": "Hebun",
+      "leveysaste": 61.493919,
+      "pituusaste": 23.914394,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 46,
+      "nimi": "Hebun",
+      "leveysaste": 61.493929,
+      "pituusaste": 23.914435,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 47,
+      "nimi": "Helin kioski",
+      "leveysaste": 61.473351,
+      "pituusaste": 23.84963,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 48,
+      "nimi": "Helmi simpukka express",
+      "leveysaste": 60.344085,
+      "pituusaste": 25.0994,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 49,
+      "nimi": "Herkkukioski",
+      "leveysaste": 60.210679,
+      "pituusaste": 25.081149,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 50,
+      "nimi": "Herkkukioski",
+      "leveysaste": 60.23614,
+      "pituusaste": 25.084146,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 51,
+      "nimi": "Himmaanmäen kioski",
+      "leveysaste": 62.20677,
+      "pituusaste": 24.371874,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 52,
+      "nimi": "Holgers kiosk",
+      "leveysaste": 60.058697,
+      "pituusaste": 23.30593,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 53,
+      "nimi": "Holgers kiosk",
+      "leveysaste": 60.058697,
+      "pituusaste": 23.305946,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 54,
+      "nimi": "Hollolan Kirkonkylän kioski",
+      "leveysaste": 61.051104,
+      "pituusaste": 25.432575,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 55,
+      "nimi": "Hötorgs kiosken",
+      "leveysaste": 63.674357,
+      "pituusaste": 22.699735,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 56,
+      "nimi": "Iitin käsityöläisten suvipuoti",
+      "leveysaste": 60.938247,
+      "pituusaste": 26.402976,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 57,
+      "nimi": "Iivari Kentän Kioski",
+      "leveysaste": 62.645498,
+      "pituusaste": 23.81628,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 58,
+      "nimi": "Il Becco Lippakioski",
+      "leveysaste": 60.168004,
+      "pituusaste": 24.962157,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 59,
+      "nimi": "Il Becco Lippakioski",
+      "leveysaste": 60.168005,
+      "pituusaste": 24.962162,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 60,
+      "nimi": "Ingman",
+      "leveysaste": 60.167623,
+      "pituusaste": 24.949809,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 61,
+      "nimi": "Ingman jäätelökioski",
+      "leveysaste": 60.467295,
+      "pituusaste": 22.02209,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 62,
+      "nimi": "Inspis",
+      "leveysaste": 61.115716,
+      "pituusaste": 24.32429,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 63,
+      "nimi": "IraStop",
+      "leveysaste": 61.988448,
+      "pituusaste": 26.642058,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 64,
+      "nimi": "Järvenkylä",
+      "leveysaste": 60.856343,
+      "pituusaste": 23.045419,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 65,
+      "nimi": "Järvenkylä",
+      "leveysaste": 60.85635,
+      "pituusaste": 23.045401,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 66,
+      "nimi": "Jäsmän Keskuskioski",
+      "leveysaste": 61.864367,
+      "pituusaste": 25.190101,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 67,
+      "nimi": "Jäsmän Keskuskioski",
+      "leveysaste": 61.864387,
+      "pituusaste": 25.190079,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 68,
+      "nimi": "Jäärti",
+      "leveysaste": 67.604929,
+      "pituusaste": 24.153699,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 69,
+      "nimi": "Jäärti",
+      "leveysaste": 67.604938,
+      "pituusaste": 24.153709,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 70,
+      "nimi": "Jäätelökioski",
+      "leveysaste": 62.865987,
+      "pituusaste": 27.678864,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 71,
+      "nimi": "Jäätelökioski",
+      "leveysaste": 62.886735,
+      "pituusaste": 27.68407,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 72,
+      "nimi": "Jäätelökioski",
+      "leveysaste": 62.891933,
+      "pituusaste": 27.685225,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 73,
+      "nimi": "Kaah express",
+      "leveysaste": 60.1992,
+      "pituusaste": 24.938225,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 74,
+      "nimi": "Kahvila",
+      "leveysaste": 60.67807,
+      "pituusaste": 27.576279,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 75,
+      "nimi": "Kahvila Munkki-Kammio",
+      "leveysaste": 61.776186,
+      "pituusaste": 29.336903,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 76,
+      "nimi": "Kahvila Munkki-Kammio",
+      "leveysaste": 61.7762,
+      "pituusaste": 29.336904,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 77,
+      "nimi": "Kahvila-Ravintola Susanna",
+      "leveysaste": 60.816235,
+      "pituusaste": 23.630225,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 78,
+      "nimi": "Kaisaniemen kesäkioski",
+      "leveysaste": 60.175666,
+      "pituusaste": 24.949943,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 79,
+      "nimi": "Karkkikioski",
+      "leveysaste": 63.842845,
+      "pituusaste": 23.118347,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 80,
+      "nimi": "Kasnäs hamnkontor",
+      "leveysaste": 59.920861,
+      "pituusaste": 22.409252,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 81,
+      "nimi": "Katin Kioski",
+      "leveysaste": 61.49854,
+      "pituusaste": 23.837923,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 82,
+      "nimi": "Kausalan torin jäätelökioski",
+      "leveysaste": 60.88904,
+      "pituusaste": 26.338504,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 83,
+      "nimi": "Kejsarhamnen",
+      "leveysaste": 59.960846,
+      "pituusaste": 22.362508,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 84,
+      "nimi": "Keltainen puoti",
+      "leveysaste": 60.546305,
+      "pituusaste": 21.359184,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 85,
+      "nimi": "Keltainen puoti",
+      "leveysaste": 60.546315,
+      "pituusaste": 21.359205,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 86,
+      "nimi": "Kermankosken Kioski",
+      "leveysaste": 62.396352,
+      "pituusaste": 28.743684,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 87,
+      "nimi": "Kermankosken Kioski",
+      "leveysaste": 62.396359,
+      "pituusaste": 28.743688,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 88,
+      "nimi": "Keskustorin Ellari",
+      "leveysaste": 61.497343,
+      "pituusaste": 23.759831,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 89,
+      "nimi": "Kesäkauppa",
+      "leveysaste": 60.143618,
+      "pituusaste": 24.984702,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 90,
+      "nimi": "Kesäkioski",
+      "leveysaste": 60.242643,
+      "pituusaste": 21.965777,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 91,
+      "nimi": "Kesäkioski",
+      "leveysaste": 61.172581,
+      "pituusaste": 22.694139,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 92,
+      "nimi": "Kesäkioski",
+      "leveysaste": 62.686787,
+      "pituusaste": 23.866018,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 93,
+      "nimi": "Kesäkioski",
+      "leveysaste": 63.559849,
+      "pituusaste": 27.190719,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 94,
+      "nimi": "Kilon Grilli-Kahvila",
+      "leveysaste": 60.217102,
+      "pituusaste": 24.780319,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 95,
+      "nimi": "Kilon Grilli-Kahvila",
+      "leveysaste": 60.217105,
+      "pituusaste": 24.780323,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 96,
+      "nimi": "Kiosk Björkholm",
+      "leveysaste": 60.18545,
+      "pituusaste": 22.237498,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 97,
+      "nimi": "Kiosk Björkholm",
+      "leveysaste": 60.185457,
+      "pituusaste": 22.23749,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 98,
+      "nimi": "Kioski",
+      "leveysaste": 60.386128,
+      "pituusaste": 23.110016,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 99,
+      "nimi": "Kioski",
+      "leveysaste": 60.958563,
+      "pituusaste": 22.904813,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 100,
+      "nimi": "Kioski",
+      "leveysaste": 62.722973,
+      "pituusaste": 27.752321,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 101,
+      "nimi": "Kioski",
+      "leveysaste": 65.832958,
+      "pituusaste": 29.257097,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 102,
+      "nimi": "Kioski Centre 24h",
+      "leveysaste": 61.497469,
+      "pituusaste": 23.760127,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 103,
+      "nimi": "Kioski Herkku",
+      "leveysaste": 60.188114,
+      "pituusaste": 24.94181,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 104,
+      "nimi": "Kioski Kahvikuppi",
+      "leveysaste": 60.188847,
+      "pituusaste": 24.940205,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 105,
+      "nimi": "Kioski Kulmagrilli",
+      "leveysaste": 60.188049,
+      "pituusaste": 24.941615,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 106,
+      "nimi": "Kioski Launeenkulma",
+      "leveysaste": 60.963014,
+      "pituusaste": 25.651664,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 107,
+      "nimi": "Kioski Puhakka",
+      "leveysaste": 61.86954,
+      "pituusaste": 28.922552,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 108,
+      "nimi": "Kioski Sirkus",
+      "leveysaste": 60.187215,
+      "pituusaste": 24.939774,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 109,
+      "nimi": "Kioski Strösseli",
+      "leveysaste": 60.187926,
+      "pituusaste": 24.940912,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 110,
+      "nimi": "Kioski Strösseli",
+      "leveysaste": 60.187933,
+      "pituusaste": 24.940893,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 111,
+      "nimi": "Kioski Vekkula",
+      "leveysaste": 60.18827,
+      "pituusaste": 24.939736,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 112,
+      "nimi": "Kioski-kahvila C&A Kesähaka",
+      "leveysaste": 62.605643,
+      "pituusaste": 23.909206,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 113,
+      "nimi": "Kipa",
+      "leveysaste": 60.202778,
+      "pituusaste": 25.058984,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 114,
+      "nimi": "Kirkkis kioski",
+      "leveysaste": 64.264472,
+      "pituusaste": 27.749442,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 115,
+      "nimi": "Kirkonkylän jäätelökioski",
+      "leveysaste": 60.937425,
+      "pituusaste": 26.403826,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 116,
+      "nimi": "Koivulan kioski",
+      "leveysaste": 60.810097,
+      "pituusaste": 25.724571,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 117,
+      "nimi": "Koivulan kioski",
+      "leveysaste": 60.81011,
+      "pituusaste": 25.72457,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 118,
+      "nimi": "Koivulehdon kesäkioski",
+      "leveysaste": 63.07533,
+      "pituusaste": 23.671678,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 119,
+      "nimi": "Koskenselän kioski & kesävastaanotto",
+      "leveysaste": 61.539516,
+      "pituusaste": 28.159072,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 120,
+      "nimi": "Koskiaukion Hodari",
+      "leveysaste": 61.504478,
+      "pituusaste": 23.743134,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 121,
+      "nimi": "Koskiaukion Hodari",
+      "leveysaste": 61.504483,
+      "pituusaste": 23.743138,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 122,
+      "nimi": "Koskiaukion jäätelökioski",
+      "leveysaste": 61.504621,
+      "pituusaste": 23.743084,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 123,
+      "nimi": "Koskiaukion jäätelökioski",
+      "leveysaste": 61.504633,
+      "pituusaste": 23.743085,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 124,
+      "nimi": "KuloKioski",
+      "leveysaste": 60.188772,
+      "pituusaste": 25.006892,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 125,
+      "nimi": "Kunkkukioski",
+      "leveysaste": 61.776025,
+      "pituusaste": 22.526662,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 126,
+      "nimi": "Kurkiniemen Kioski",
+      "leveysaste": 62.271882,
+      "pituusaste": 24.711775,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 127,
+      "nimi": "Kutalan Kasino",
+      "leveysaste": 61.418865,
+      "pituusaste": 23.150143,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 128,
+      "nimi": "Kymppi Satomäki",
+      "leveysaste": 60.297081,
+      "pituusaste": 25.061521,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 129,
+      "nimi": "Käpylän kiska",
+      "leveysaste": 60.217133,
+      "pituusaste": 24.954825,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 130,
+      "nimi": "Käsityökioski Villa",
+      "leveysaste": 61.579972,
+      "pituusaste": 26.019559,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 131,
+      "nimi": "Käyrämön keidas",
+      "leveysaste": 66.956398,
+      "pituusaste": 26.296048,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 132,
+      "nimi": "Lastubuoti",
+      "leveysaste": 63.204655,
+      "pituusaste": 28.279923,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 133,
+      "nimi": "Lemun Portti (Kumputien Grilli ja Elintarvikioski Oy)",
+      "leveysaste": 60.565311,
+      "pituusaste": 22.003085,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 134,
+      "nimi": "Lepolan kioski",
+      "leveysaste": 61.000187,
+      "pituusaste": 25.661025,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 135,
+      "nimi": "Lillmälö Port",
+      "leveysaste": 60.236112,
+      "pituusaste": 22.112779,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 136,
+      "nimi": "Linjurikioski",
+      "leveysaste": 60.332527,
+      "pituusaste": 24.326488,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 137,
+      "nimi": "Lintulan kioski",
+      "leveysaste": 61.203371,
+      "pituusaste": 26.04217,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 138,
+      "nimi": "Lintulan kioski",
+      "leveysaste": 61.203384,
+      "pituusaste": 26.042171,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 139,
+      "nimi": "Lippakioski",
+      "leveysaste": 61.866823,
+      "pituusaste": 28.887074,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 140,
+      "nimi": "Lippakioski",
+      "leveysaste": 61.866827,
+      "pituusaste": 28.887063,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 141,
+      "nimi": "Lotta Kioski",
+      "leveysaste": 61.800167,
+      "pituusaste": 29.321201,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 142,
+      "nimi": "Lotta Kioski",
+      "leveysaste": 61.800173,
+      "pituusaste": 29.32119,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 143,
+      "nimi": "Lucky kioski",
+      "leveysaste": 60.188309,
+      "pituusaste": 25.037128,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 144,
+      "nimi": "Lucky kioski",
+      "leveysaste": 60.1888,
+      "pituusaste": 25.036925,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 145,
+      "nimi": "Lähteela kioski",
+      "leveysaste": 59.980279,
+      "pituusaste": 24.438442,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 146,
+      "nimi": "Länsi-grilli",
+      "leveysaste": 60.47206,
+      "pituusaste": 22.21547,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 147,
+      "nimi": "MV-kuvat",
+      "leveysaste": 60.251783,
+      "pituusaste": 25.010277,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 148,
+      "nimi": "Madekosken kioski",
+      "leveysaste": 64.954645,
+      "pituusaste": 25.666572,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 149,
+      "nimi": "Madekosken kioski",
+      "leveysaste": 64.954657,
+      "pituusaste": 25.6666,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 150,
+      "nimi": "Maisaaren kioski",
+      "leveysaste": 60.329806,
+      "pituusaste": 21.891375,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 151,
+      "nimi": "Mamman munkki",
+      "leveysaste": 60.472884,
+      "pituusaste": 22.005685,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 152,
+      "nimi": "Marianne",
+      "leveysaste": 61.507828,
+      "pituusaste": 21.853494,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 153,
+      "nimi": "Matildan Vohveli",
+      "leveysaste": 60.219873,
+      "pituusaste": 22.900921,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 154,
+      "nimi": "Matildan vohveli",
+      "leveysaste": 60.217965,
+      "pituusaste": 22.905907,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 155,
+      "nimi": "Merijakamo",
+      "leveysaste": 61.140616,
+      "pituusaste": 21.472742,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 156,
+      "nimi": "Merijakamo",
+      "leveysaste": 61.140636,
+      "pituusaste": 21.47278,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 157,
+      "nimi": "Miksu",
+      "leveysaste": 61.688861,
+      "pituusaste": 27.271636,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 158,
+      "nimi": "Mini Golf",
+      "leveysaste": 60.152376,
+      "pituusaste": 24.651403,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 159,
+      "nimi": "Mini Golf",
+      "leveysaste": 60.152383,
+      "pituusaste": 24.651418,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 160,
+      "nimi": "Munkkiniemen uimaranta",
+      "leveysaste": 60.200987,
+      "pituusaste": 24.857306,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 161,
+      "nimi": "Munkkiniemenranta",
+      "leveysaste": 60.194941,
+      "pituusaste": 24.870537,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 162,
+      "nimi": "Murskan Paratiisi",
+      "leveysaste": 60.766531,
+      "pituusaste": 23.324617,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 163,
+      "nimi": "Mustikkamaan kaffela",
+      "leveysaste": 60.181764,
+      "pituusaste": 24.992209,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 164,
+      "nimi": "Mutteri",
+      "leveysaste": 62.210994,
+      "pituusaste": 24.799911,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 165,
+      "nimi": "Mutteri",
+      "leveysaste": 62.210997,
+      "pituusaste": 24.799915,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 166,
+      "nimi": "Naantali Camping",
+      "leveysaste": 60.461881,
+      "pituusaste": 22.028518,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 167,
+      "nimi": "Naantalin rantakioski",
+      "leveysaste": 60.46927,
+      "pituusaste": 22.015172,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 168,
+      "nimi": "Napakymppi",
+      "leveysaste": 65.78032,
+      "pituusaste": 24.417315,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 169,
+      "nimi": "Nattes och Adeles Boda",
+      "leveysaste": 59.921254,
+      "pituusaste": 22.409325,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 170,
+      "nimi": "Neste Janakkala Turenki myymälä",
+      "leveysaste": 60.923737,
+      "pituusaste": 24.648623,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 171,
+      "nimi": "Neste-myymälä",
+      "leveysaste": 62.627167,
+      "pituusaste": 29.698202,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 172,
+      "nimi": "Nikin Kioski",
+      "leveysaste": 61.240364,
+      "pituusaste": 26.053768,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 173,
+      "nimi": "Nikoteca",
+      "leveysaste": 61.450666,
+      "pituusaste": 23.850129,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 174,
+      "nimi": "Nuottijärvi",
+      "leveysaste": 64.158768,
+      "pituusaste": 27.521417,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 175,
+      "nimi": "Nåtö kiosk",
+      "leveysaste": 60.040863,
+      "pituusaste": 19.969856,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 176,
+      "nimi": "OVS Court Cafe",
+      "leveysaste": 65.02001,
+      "pituusaste": 25.452364,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 177,
+      "nimi": "OVS Court Cafe",
+      "leveysaste": 65.02001,
+      "pituusaste": 25.45238,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 178,
+      "nimi": "Oitin Taukokioski",
+      "leveysaste": 60.796042,
+      "pituusaste": 25.023531,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 179,
+      "nimi": "Orimuskioski",
+      "leveysaste": 61.485956,
+      "pituusaste": 23.929053,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 180,
+      "nimi": "OulunBaari",
+      "leveysaste": 64.978204,
+      "pituusaste": 25.56116,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 181,
+      "nimi": "OulunBaari",
+      "leveysaste": 64.978221,
+      "pituusaste": 25.561192,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 182,
+      "nimi": "Ouluntien kioski",
+      "leveysaste": 63.844955,
+      "pituusaste": 23.169279,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 183,
+      "nimi": "Pajamäen kioski",
+      "leveysaste": 60.43529,
+      "pituusaste": 22.259922,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 184,
+      "nimi": "Panda Bowl",
+      "leveysaste": 63.096086,
+      "pituusaste": 21.615023,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 185,
+      "nimi": "Parkanon Tuurinpaikka",
+      "leveysaste": 62.009782,
+      "pituusaste": 23.024948,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 186,
+      "nimi": "Pelionni",
+      "leveysaste": 65.373489,
+      "pituusaste": 25.843761,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 187,
+      "nimi": "Perhepuiston Softis & Café",
+      "leveysaste": 60.968954,
+      "pituusaste": 25.64575,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 188,
+      "nimi": "Perhepuiston Softis & Café",
+      "leveysaste": 60.968965,
+      "pituusaste": 25.645754,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 189,
+      "nimi": "Pietolan kioski",
+      "leveysaste": 60.803732,
+      "pituusaste": 21.396178,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 190,
+      "nimi": "Pikantti",
+      "leveysaste": 60.164784,
+      "pituusaste": 22.996461,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 191,
+      "nimi": "Pingviini jäätelökioski",
+      "leveysaste": 60.447278,
+      "pituusaste": 22.288822,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 192,
+      "nimi": "Pizza Vegas",
+      "leveysaste": 60.279331,
+      "pituusaste": 24.840303,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 193,
+      "nimi": "Playa Rantakiska",
+      "leveysaste": 60.177174,
+      "pituusaste": 25.063076,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 194,
+      "nimi": "Pontuksen Puoti",
+      "leveysaste": 61.078724,
+      "pituusaste": 28.316573,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 195,
+      "nimi": "Pontuksen Puoti",
+      "leveysaste": 61.078725,
+      "pituusaste": 28.316577,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 196,
+      "nimi": "Popparitehdas",
+      "leveysaste": 60.188356,
+      "pituusaste": 24.940093,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 197,
+      "nimi": "Porlammin Kyläkioski",
+      "leveysaste": 60.681328,
+      "pituusaste": 26.031565,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 198,
+      "nimi": "Pukinsaaren leirintäalueen kioski",
+      "leveysaste": 62.264503,
+      "pituusaste": 21.362929,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 199,
+      "nimi": "Puttes Camping Kiosk",
+      "leveysaste": 60.212515,
+      "pituusaste": 20.234925,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 200,
+      "nimi": "R-Kioski",
+      "leveysaste": 59.828676,
+      "pituusaste": 22.965173,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 201,
+      "nimi": "R-Kioski",
+      "leveysaste": 59.979214,
+      "pituusaste": 23.442141,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 202,
+      "nimi": "R-Kioski",
+      "leveysaste": 59.979232,
+      "pituusaste": 23.442139,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 203,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.119824,
+      "pituusaste": 24.438732,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 204,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.123759,
+      "pituusaste": 24.438723,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 205,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.150246,
+      "pituusaste": 24.653839,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 206,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.158119,
+      "pituusaste": 24.871751,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 207,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.158347,
+      "pituusaste": 24.945641,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 208,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.15855,
+      "pituusaste": 24.91483,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 209,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.160199,
+      "pituusaste": 24.88116,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 210,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.160371,
+      "pituusaste": 24.739616,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 211,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.160842,
+      "pituusaste": 24.941681,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 212,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.161756,
+      "pituusaste": 22.729119,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 213,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.169333,
+      "pituusaste": 25.016447,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 214,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.169383,
+      "pituusaste": 24.933717,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 215,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.169546,
+      "pituusaste": 24.933215,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 216,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.169891,
+      "pituusaste": 24.9462,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 217,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.170549,
+      "pituusaste": 24.940995,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 218,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.171097,
+      "pituusaste": 24.941871,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 219,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.171262,
+      "pituusaste": 24.940747,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 220,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.172182,
+      "pituusaste": 24.94041,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 221,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.172194,
+      "pituusaste": 24.938339,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 222,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.172764,
+      "pituusaste": 24.942059,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 223,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.174184,
+      "pituusaste": 24.952846,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 224,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.175221,
+      "pituusaste": 24.804857,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 225,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.175664,
+      "pituusaste": 24.922351,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 226,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.176142,
+      "pituusaste": 24.829772,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 227,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.183272,
+      "pituusaste": 24.952893,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 228,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.184778,
+      "pituusaste": 24.825563,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 229,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.186684,
+      "pituusaste": 24.948219,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 230,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.187351,
+      "pituusaste": 25.035827,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 231,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.187446,
+      "pituusaste": 24.960322,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 232,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.189614,
+      "pituusaste": 24.60019,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 233,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.191102,
+      "pituusaste": 24.948861,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 234,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.191433,
+      "pituusaste": 24.906872,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 235,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.191935,
+      "pituusaste": 25.034369,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 236,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.194921,
+      "pituusaste": 25.030977,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 237,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.194923,
+      "pituusaste": 24.766982,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 238,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.197738,
+      "pituusaste": 24.876404,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 239,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.198746,
+      "pituusaste": 24.932632,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 240,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.198858,
+      "pituusaste": 24.934066,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 241,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.200402,
+      "pituusaste": 24.670143,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 242,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.20278,
+      "pituusaste": 25.136672,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 243,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.204417,
+      "pituusaste": 24.656685,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 244,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.205688,
+      "pituusaste": 24.877586,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 245,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.206073,
+      "pituusaste": 25.044989,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 246,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.207311,
+      "pituusaste": 25.144773,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 247,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.208346,
+      "pituusaste": 24.966128,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 248,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.209884,
+      "pituusaste": 25.076967,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 249,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.210407,
+      "pituusaste": 25.079504,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 250,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.210718,
+      "pituusaste": 24.976628,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 251,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.212768,
+      "pituusaste": 25.096562,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 252,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.216936,
+      "pituusaste": 24.953455,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 253,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.21803,
+      "pituusaste": 24.813613,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 254,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.218795,
+      "pituusaste": 24.813011,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 255,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.221597,
+      "pituusaste": 24.685161,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 256,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.221641,
+      "pituusaste": 25.138743,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 257,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.224139,
+      "pituusaste": 25.074743,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 258,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.224213,
+      "pituusaste": 25.076491,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 259,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.227411,
+      "pituusaste": 25.012981,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 260,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.230041,
+      "pituusaste": 24.895549,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 261,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.230103,
+      "pituusaste": 24.881703,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 262,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.23414,
+      "pituusaste": 25.011024,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 263,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.236162,
+      "pituusaste": 25.084605,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 264,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.236861,
+      "pituusaste": 24.890448,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 265,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.237262,
+      "pituusaste": 25.083337,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 266,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.238191,
+      "pituusaste": 24.927854,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 267,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.238751,
+      "pituusaste": 25.109579,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 268,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.239449,
+      "pituusaste": 24.846084,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 269,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.239569,
+      "pituusaste": 24.74059,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 270,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.251413,
+      "pituusaste": 25.011423,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 271,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.2609,
+      "pituusaste": 24.853463,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 272,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.260984,
+      "pituusaste": 25.076519,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 273,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.261919,
+      "pituusaste": 24.855406,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 274,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.262889,
+      "pituusaste": 25.026733,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 275,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.272367,
+      "pituusaste": 24.121188,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 276,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.277925,
+      "pituusaste": 24.853707,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 277,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.278292,
+      "pituusaste": 25.104384,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 278,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.291162,
+      "pituusaste": 24.964665,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 279,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.293101,
+      "pituusaste": 25.043919,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 280,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.293169,
+      "pituusaste": 25.043331,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 281,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.293547,
+      "pituusaste": 25.035731,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 282,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.298589,
+      "pituusaste": 25.331103,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 283,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.298704,
+      "pituusaste": 25.328371,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 284,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.300471,
+      "pituusaste": 22.302185,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 285,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.309481,
+      "pituusaste": 25.031554,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 286,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.316431,
+      "pituusaste": 24.971192,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 287,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.317123,
+      "pituusaste": 24.968079,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 288,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.317871,
+      "pituusaste": 24.967884,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 289,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.318018,
+      "pituusaste": 24.965004,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 290,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.320818,
+      "pituusaste": 25.073029,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 291,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.323027,
+      "pituusaste": 25.062587,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 292,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.33535,
+      "pituusaste": 24.319737,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 293,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.34998,
+      "pituusaste": 25.084348,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 294,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.350068,
+      "pituusaste": 25.075089,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 295,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.378622,
+      "pituusaste": 24.75473,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 296,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.380404,
+      "pituusaste": 25.095731,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 297,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.380661,
+      "pituusaste": 24.752335,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 298,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.385647,
+      "pituusaste": 23.129137,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 299,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.386949,
+      "pituusaste": 25.648268,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 300,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.387324,
+      "pituusaste": 25.695698,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 301,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.392663,
+      "pituusaste": 25.666016,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 302,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.39675,
+      "pituusaste": 23.077404,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 303,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.396784,
+      "pituusaste": 25.020085,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 304,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.402093,
+      "pituusaste": 25.098249,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 305,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.402097,
+      "pituusaste": 25.09826,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 306,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.40431,
+      "pituusaste": 25.105676,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 307,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.404322,
+      "pituusaste": 25.1057,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 308,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.404873,
+      "pituusaste": 25.104654,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 309,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.407335,
+      "pituusaste": 22.366346,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 310,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.412433,
+      "pituusaste": 22.235919,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 311,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.416553,
+      "pituusaste": 24.324934,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 312,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.417454,
+      "pituusaste": 22.30119,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 313,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.439124,
+      "pituusaste": 22.260177,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 314,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.443558,
+      "pituusaste": 22.359698,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 315,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.446967,
+      "pituusaste": 22.245214,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 316,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.448779,
+      "pituusaste": 22.255845,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 317,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.450665,
+      "pituusaste": 22.264434,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 318,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.450798,
+      "pituusaste": 22.267381,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 319,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.455732,
+      "pituusaste": 22.296825,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 320,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.457136,
+      "pituusaste": 22.268014,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 321,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.457197,
+      "pituusaste": 26.227896,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 322,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.457344,
+      "pituusaste": 22.687173,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 323,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.460817,
+      "pituusaste": 22.290606,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 324,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.462547,
+      "pituusaste": 24.807273,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 325,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.463965,
+      "pituusaste": 26.939879,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 326,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.466679,
+      "pituusaste": 26.945791,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 327,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.470932,
+      "pituusaste": 25.090099,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 328,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.473513,
+      "pituusaste": 25.090488,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 329,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.475858,
+      "pituusaste": 22.162539,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 330,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.485839,
+      "pituusaste": 22.166499,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 331,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.512207,
+      "pituusaste": 26.901518,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 332,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.516365,
+      "pituusaste": 26.929722,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 333,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.528099,
+      "pituusaste": 24.755397,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 334,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.53555,
+      "pituusaste": 24.213964,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 335,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.564341,
+      "pituusaste": 27.16308,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 336,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.56832,
+      "pituusaste": 27.190689,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 337,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.584857,
+      "pituusaste": 27.709855,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 338,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.61997,
+      "pituusaste": 24.844447,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 339,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.635811,
+      "pituusaste": 25.319689,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 340,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.640614,
+      "pituusaste": 24.875653,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 341,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.735063,
+      "pituusaste": 24.781074,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 342,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.747213,
+      "pituusaste": 24.768695,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 343,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.787429,
+      "pituusaste": 25.02851,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 344,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.802488,
+      "pituusaste": 23.627103,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 345,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.80416,
+      "pituusaste": 23.487145,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 346,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.804354,
+      "pituusaste": 25.732209,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 347,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.805407,
+      "pituusaste": 21.424324,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 348,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.816462,
+      "pituusaste": 23.62891,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 349,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.866138,
+      "pituusaste": 26.704925,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 350,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.868062,
+      "pituusaste": 26.686211,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 351,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.868352,
+      "pituusaste": 25.275384,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 352,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.872809,
+      "pituusaste": 26.733708,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 353,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.888918,
+      "pituusaste": 26.339725,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 354,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.911011,
+      "pituusaste": 26.634705,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 355,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.92113,
+      "pituusaste": 24.649419,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 356,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.936417,
+      "pituusaste": 25.962463,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 357,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.976878,
+      "pituusaste": 25.657336,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 358,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.978637,
+      "pituusaste": 25.683442,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 359,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.980722,
+      "pituusaste": 25.593332,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 360,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.982745,
+      "pituusaste": 25.661869,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 361,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.982959,
+      "pituusaste": 25.655821,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 362,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.984128,
+      "pituusaste": 25.656861,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 363,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.988509,
+      "pituusaste": 25.514604,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 364,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.989942,
+      "pituusaste": 25.681665,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 365,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.990225,
+      "pituusaste": 24.439902,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 366,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.996153,
+      "pituusaste": 24.464521,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 367,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.996166,
+      "pituusaste": 24.464589,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 368,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.996412,
+      "pituusaste": 25.656003,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 369,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.997869,
+      "pituusaste": 24.458477,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 370,
+      "nimi": "R-Kioski",
+      "leveysaste": 60.998742,
+      "pituusaste": 25.757307,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 371,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.002319,
+      "pituusaste": 24.478221,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 372,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.006579,
+      "pituusaste": 24.506602,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 373,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.0165,
+      "pituusaste": 25.661737,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 374,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.045995,
+      "pituusaste": 22.345179,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 375,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.050618,
+      "pituusaste": 28.194634,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 376,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.050629,
+      "pituusaste": 28.194665,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 377,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.054271,
+      "pituusaste": 24.369611,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 378,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.055,
+      "pituusaste": 28.17964,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 379,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.059875,
+      "pituusaste": 28.23403,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 380,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.068894,
+      "pituusaste": 28.28456,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 381,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.070402,
+      "pituusaste": 28.262834,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 382,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.078348,
+      "pituusaste": 25.010566,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 383,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.080173,
+      "pituusaste": 23.547972,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 384,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.091575,
+      "pituusaste": 24.13312,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 385,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.107135,
+      "pituusaste": 26.0056,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 386,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.120173,
+      "pituusaste": 28.504942,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 387,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.128759,
+      "pituusaste": 21.512144,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 388,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.129524,
+      "pituusaste": 21.498287,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 389,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.141088,
+      "pituusaste": 21.482819,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 390,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.165568,
+      "pituusaste": 23.867691,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 391,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.171224,
+      "pituusaste": 28.766499,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 392,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.171487,
+      "pituusaste": 24.564016,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 393,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.171623,
+      "pituusaste": 23.865807,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 394,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.173143,
+      "pituusaste": 25.546519,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 395,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.192436,
+      "pituusaste": 28.694222,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 396,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.197812,
+      "pituusaste": 27.681991,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 397,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.202923,
+      "pituusaste": 26.030428,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 398,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.209747,
+      "pituusaste": 23.7678,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 399,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.222827,
+      "pituusaste": 28.830158,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 400,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.255091,
+      "pituusaste": 22.347078,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 401,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.266591,
+      "pituusaste": 24.029391,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 402,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.314294,
+      "pituusaste": 22.144121,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 403,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.315969,
+      "pituusaste": 23.751723,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 404,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.340297,
+      "pituusaste": 24.269199,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 405,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.34242,
+      "pituusaste": 22.906962,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 406,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.366161,
+      "pituusaste": 22.008158,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 407,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.415812,
+      "pituusaste": 26.881127,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 408,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.450752,
+      "pituusaste": 23.850928,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 409,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.45092,
+      "pituusaste": 23.848134,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 410,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.464929,
+      "pituusaste": 24.056396,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 411,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.470287,
+      "pituusaste": 21.853682,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 412,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.470832,
+      "pituusaste": 23.731831,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 413,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.472902,
+      "pituusaste": 21.781196,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 414,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.473416,
+      "pituusaste": 23.874011,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 415,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.478239,
+      "pituusaste": 23.508111,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 416,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.483152,
+      "pituusaste": 21.763089,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 417,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.486588,
+      "pituusaste": 21.796384,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 418,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.493391,
+      "pituusaste": 23.769341,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 419,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.497019,
+      "pituusaste": 23.798109,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 420,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.497189,
+      "pituusaste": 23.890509,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 421,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.497339,
+      "pituusaste": 23.766586,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 422,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.497614,
+      "pituusaste": 23.743021,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 423,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.497636,
+      "pituusaste": 23.757403,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 424,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.497689,
+      "pituusaste": 23.762318,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 425,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.498075,
+      "pituusaste": 23.76792,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 426,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.498436,
+      "pituusaste": 23.773136,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 427,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.498462,
+      "pituusaste": 23.773135,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 428,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.498899,
+      "pituusaste": 21.804791,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 429,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.50221,
+      "pituusaste": 25.686227,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 430,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.502502,
+      "pituusaste": 23.779176,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 431,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.50484,
+      "pituusaste": 23.814215,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 432,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.507983,
+      "pituusaste": 23.670195,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 433,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.510994,
+      "pituusaste": 23.773526,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 434,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.54842,
+      "pituusaste": 23.595736,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 435,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.557417,
+      "pituusaste": 29.501424,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 436,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.665456,
+      "pituusaste": 23.182761,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 437,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.676695,
+      "pituusaste": 24.356842,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 438,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.687742,
+      "pituusaste": 27.273931,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 439,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.691186,
+      "pituusaste": 27.276161,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 440,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.701137,
+      "pituusaste": 27.305119,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 441,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.86565,
+      "pituusaste": 25.188183,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 442,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.868545,
+      "pituusaste": 28.886628,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 443,
+      "nimi": "R-Kioski",
+      "leveysaste": 61.988636,
+      "pituusaste": 26.640235,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 444,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.008877,
+      "pituusaste": 23.02512,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 445,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.026525,
+      "pituusaste": 24.648171,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 446,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.224603,
+      "pituusaste": 30.329448,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 447,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.229231,
+      "pituusaste": 25.680215,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 448,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.239812,
+      "pituusaste": 25.725799,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 449,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.239832,
+      "pituusaste": 25.7258,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 450,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.241087,
+      "pituusaste": 23.771128,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 451,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.241635,
+      "pituusaste": 25.748942,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 452,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.241792,
+      "pituusaste": 25.754506,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 453,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.258696,
+      "pituusaste": 24.708593,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 454,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.274277,
+      "pituusaste": 21.3797,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 455,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.287568,
+      "pituusaste": 27.080465,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 456,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.303601,
+      "pituusaste": 27.172708,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 457,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.414595,
+      "pituusaste": 25.953981,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 458,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.428565,
+      "pituusaste": 22.179232,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 459,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.477807,
+      "pituusaste": 21.33813,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 460,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.488287,
+      "pituusaste": 22.763679,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 461,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.550201,
+      "pituusaste": 24.070341,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 462,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.564023,
+      "pituusaste": 25.851978,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 463,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.599734,
+      "pituusaste": 29.761992,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 464,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.601275,
+      "pituusaste": 29.776307,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 465,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.61756,
+      "pituusaste": 22.39683,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 466,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.626837,
+      "pituusaste": 29.797977,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 467,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.705481,
+      "pituusaste": 25.258716,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 468,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.726132,
+      "pituusaste": 29.016647,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 469,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.731194,
+      "pituusaste": 22.580263,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 470,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.77096,
+      "pituusaste": 22.878378,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 471,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.790818,
+      "pituusaste": 22.836954,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 472,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.791182,
+      "pituusaste": 22.844914,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 473,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.834553,
+      "pituusaste": 27.666657,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 474,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.88997,
+      "pituusaste": 27.66891,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 475,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.892958,
+      "pituusaste": 27.676524,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 476,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.894378,
+      "pituusaste": 27.661421,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 477,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.897003,
+      "pituusaste": 27.680867,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 478,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.901642,
+      "pituusaste": 27.703677,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 479,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.902523,
+      "pituusaste": 27.6489,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 480,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.969046,
+      "pituusaste": 23.007883,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 481,
+      "nimi": "R-Kioski",
+      "leveysaste": 62.981111,
+      "pituusaste": 22.006596,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 482,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.000894,
+      "pituusaste": 23.81601,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 483,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.065995,
+      "pituusaste": 28.330217,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 484,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.074568,
+      "pituusaste": 27.658696,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 485,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.098841,
+      "pituusaste": 23.040345,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 486,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.115463,
+      "pituusaste": 21.618701,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 487,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.160266,
+      "pituusaste": 23.824244,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 488,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.202206,
+      "pituusaste": 28.087366,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 489,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.202238,
+      "pituusaste": 28.087395,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 490,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.366477,
+      "pituusaste": 27.398046,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 491,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.547277,
+      "pituusaste": 23.693545,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 492,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.557685,
+      "pituusaste": 27.189935,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 493,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.750727,
+      "pituusaste": 25.318638,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 494,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.838888,
+      "pituusaste": 23.108895,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 495,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.838891,
+      "pituusaste": 23.108925,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 496,
+      "nimi": "R-Kioski",
+      "leveysaste": 63.928955,
+      "pituusaste": 24.963713,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 497,
+      "nimi": "R-Kioski",
+      "leveysaste": 64.072141,
+      "pituusaste": 24.535501,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 498,
+      "nimi": "R-Kioski",
+      "leveysaste": 64.148173,
+      "pituusaste": 28.234503,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 499,
+      "nimi": "R-Kioski",
+      "leveysaste": 64.209654,
+      "pituusaste": 27.753508,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 500,
+      "nimi": "R-Kioski",
+      "leveysaste": 64.666545,
+      "pituusaste": 25.099303,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 501,
+      "nimi": "R-Kioski",
+      "leveysaste": 64.683752,
+      "pituusaste": 24.480444,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 502,
+      "nimi": "R-Kioski",
+      "leveysaste": 64.88377,
+      "pituusaste": 28.912507,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 503,
+      "nimi": "R-Kioski",
+      "leveysaste": 64.883784,
+      "pituusaste": 28.912327,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 504,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.0073,
+      "pituusaste": 25.515163,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 505,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.007417,
+      "pituusaste": 25.466814,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 506,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.009123,
+      "pituusaste": 25.485006,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 507,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.010916,
+      "pituusaste": 25.472008,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 508,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.011289,
+      "pituusaste": 25.480767,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 509,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.024626,
+      "pituusaste": 25.470297,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 510,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.176064,
+      "pituusaste": 25.351529,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 511,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.735111,
+      "pituusaste": 24.561336,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 512,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.843163,
+      "pituusaste": 24.170872,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 513,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.845633,
+      "pituusaste": 24.149521,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 514,
+      "nimi": "R-Kioski",
+      "leveysaste": 65.927418,
+      "pituusaste": 26.513581,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 515,
+      "nimi": "R-Kioski",
+      "leveysaste": 66.001502,
+      "pituusaste": 29.166472,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 516,
+      "nimi": "R-Kioski",
+      "leveysaste": 66.487094,
+      "pituusaste": 25.698027,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 517,
+      "nimi": "R-Kioski",
+      "leveysaste": 66.497797,
+      "pituusaste": 25.753926,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 518,
+      "nimi": "R-Kioski",
+      "leveysaste": 66.501519,
+      "pituusaste": 25.713281,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 519,
+      "nimi": "R-Kioski",
+      "leveysaste": 66.502958,
+      "pituusaste": 25.728977,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 520,
+      "nimi": "R-Kioski",
+      "leveysaste": 66.71416,
+      "pituusaste": 27.430827,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 521,
+      "nimi": "R-Kioski",
+      "leveysaste": 67.021712,
+      "pituusaste": 27.242374,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 522,
+      "nimi": "R-Kioski",
+      "leveysaste": 68.658656,
+      "pituusaste": 27.538787,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 523,
+      "nimi": "R-Kioski Kattilansilta",
+      "leveysaste": 61.672326,
+      "pituusaste": 27.275694,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 524,
+      "nimi": "R-Kioski Lielahti",
+      "leveysaste": 61.517972,
+      "pituusaste": 23.662669,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 525,
+      "nimi": "R-kioski",
+      "leveysaste": 62.097791,
+      "pituusaste": 30.141098,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 526,
+      "nimi": "R-kioski",
+      "leveysaste": 62.300674,
+      "pituusaste": 27.159932,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 527,
+      "nimi": "R-kioski Petonen",
+      "leveysaste": 62.838788,
+      "pituusaste": 27.638206,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 528,
+      "nimi": "R-kioski Sulkava",
+      "leveysaste": 61.787625,
+      "pituusaste": 28.370931,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 529,
+      "nimi": "R-kioski Sulkava",
+      "leveysaste": 61.787637,
+      "pituusaste": 28.370946,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 530,
+      "nimi": "Raijan Kioski",
+      "leveysaste": 60.799809,
+      "pituusaste": 21.408453,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 531,
+      "nimi": "RantaKiska",
+      "leveysaste": 60.195302,
+      "pituusaste": 25.005824,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 532,
+      "nimi": "Rantakahvila",
+      "leveysaste": 64.130206,
+      "pituusaste": 28.375542,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 533,
+      "nimi": "Rantapihan kioski",
+      "leveysaste": 60.74329,
+      "pituusaste": 22.389198,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 534,
+      "nimi": "Rauhaniemen Kansankylpylä",
+      "leveysaste": 61.515173,
+      "pituusaste": 23.786016,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 535,
+      "nimi": "Rekkakioski",
+      "leveysaste": 60.187638,
+      "pituusaste": 24.939254,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 536,
+      "nimi": "Ro No Rent",
+      "leveysaste": 60.09859,
+      "pituusaste": 19.947529,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 537,
+      "nimi": "Robin Hood Pizza & Grilli",
+      "leveysaste": 60.250444,
+      "pituusaste": 25.022073,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 538,
+      "nimi": "Ruissalo Camping",
+      "leveysaste": 60.425878,
+      "pituusaste": 22.097906,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 539,
+      "nimi": "Salonsaaren kioski",
+      "leveysaste": 61.192131,
+      "pituusaste": 25.612003,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 540,
+      "nimi": "Satamakahvila",
+      "leveysaste": 62.23636,
+      "pituusaste": 25.757705,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 541,
+      "nimi": "Sauvon RajaPuoti",
+      "leveysaste": 60.370414,
+      "pituusaste": 22.672482,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 542,
+      "nimi": "Sauvon RajaPuoti",
+      "leveysaste": 60.370421,
+      "pituusaste": 22.672452,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 543,
+      "nimi": "Seurasaaren jäätelökioski",
+      "leveysaste": 60.188322,
+      "pituusaste": 24.884634,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 544,
+      "nimi": "Seurasaaren jäätelökioski",
+      "leveysaste": 60.188325,
+      "pituusaste": 24.884645,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 545,
+      "nimi": "Sihvakan kesäkioski",
+      "leveysaste": 60.689876,
+      "pituusaste": 26.804919,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 546,
+      "nimi": "Sihvakan kesäkioski",
+      "leveysaste": 60.689883,
+      "pituusaste": 26.804923,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 547,
+      "nimi": "Silvasti",
+      "leveysaste": 61.643484,
+      "pituusaste": 27.254258,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 548,
+      "nimi": "Sjukhuskiosken",
+      "leveysaste": 60.114918,
+      "pituusaste": 19.934887,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 549,
+      "nimi": "Skansen - Maj´s glasscafé",
+      "leveysaste": 63.686995,
+      "pituusaste": 22.68859,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 550,
+      "nimi": "Souvenirs",
+      "leveysaste": 61.700938,
+      "pituusaste": 27.34363,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 551,
+      "nimi": "Strandboden",
+      "leveysaste": 60.110671,
+      "pituusaste": 21.599099,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 552,
+      "nimi": "Strandkiosken",
+      "leveysaste": 62.971821,
+      "pituusaste": 21.159878,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 553,
+      "nimi": "Strandkiosken",
+      "leveysaste": 65.9631,
+      "pituusaste": 24.038139,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 554,
+      "nimi": "Suinonsalmen Laiturikioski",
+      "leveysaste": 60.128119,
+      "pituusaste": 24.696254,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 555,
+      "nimi": "Suinonsalmen Laiturikioski",
+      "leveysaste": 60.128123,
+      "pituusaste": 24.696275,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 556,
+      "nimi": "Suinutupa",
+      "leveysaste": 61.913754,
+      "pituusaste": 24.777952,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 557,
+      "nimi": "Suurpeltoseura.fi",
+      "leveysaste": 60.186326,
+      "pituusaste": 24.73238,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 558,
+      "nimi": "Suurpeltoseura.fi",
+      "leveysaste": 60.18633,
+      "pituusaste": 24.732382,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 559,
+      "nimi": "Säikän Kesäkioski",
+      "leveysaste": 64.889104,
+      "pituusaste": 24.809697,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 560,
+      "nimi": "Säikän Kesäkioski",
+      "leveysaste": 64.88911,
+      "pituusaste": 24.809705,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 561,
+      "nimi": "Tallilan kioski",
+      "leveysaste": 62.235399,
+      "pituusaste": 25.811446,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 562,
+      "nimi": "Terassi kioski",
+      "leveysaste": 60.80735,
+      "pituusaste": 24.610246,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 563,
+      "nimi": "Terhin kioski",
+      "leveysaste": 61.454189,
+      "pituusaste": 23.483054,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 564,
+      "nimi": "Tikkatupa",
+      "leveysaste": 62.388972,
+      "pituusaste": 25.6471,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 565,
+      "nimi": "Toms Shop",
+      "leveysaste": 63.129765,
+      "pituusaste": 22.252607,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 566,
+      "nimi": "Torgkiosken",
+      "leveysaste": 60.031095,
+      "pituusaste": 20.386643,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 567,
+      "nimi": "Torikadun kioski",
+      "leveysaste": 63.838478,
+      "pituusaste": 23.134943,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 568,
+      "nimi": "Toripakan Kioski",
+      "leveysaste": 65.013439,
+      "pituusaste": 25.469531,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 569,
+      "nimi": "Tuomiojärven rantakahvila",
+      "leveysaste": 62.255174,
+      "pituusaste": 25.745223,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 570,
+      "nimi": "Törnävän Pallo",
+      "leveysaste": 62.764233,
+      "pituusaste": 22.839205,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 571,
+      "nimi": "Uhkolan grillikioski",
+      "leveysaste": 60.733821,
+      "pituusaste": 24.810484,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 572,
+      "nimi": "Uimarannan kesäkioski",
+      "leveysaste": 60.198692,
+      "pituusaste": 25.076241,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 573,
+      "nimi": "Vaalimaa Camping",
+      "leveysaste": 60.581272,
+      "pituusaste": 27.769507,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 574,
+      "nimi": "Vaiveronkadun kioski",
+      "leveysaste": 60.639807,
+      "pituusaste": 24.833327,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 575,
+      "nimi": "Valkeisen kioski",
+      "leveysaste": 64.864848,
+      "pituusaste": 26.747568,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 576,
+      "nimi": "Vesitornin kioski",
+      "leveysaste": 60.877798,
+      "pituusaste": 26.751394,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 577,
+      "nimi": "Veskun kioski",
+      "leveysaste": 60.980639,
+      "pituusaste": 25.66017,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 578,
+      "nimi": "Vetokannas",
+      "leveysaste": 60.269845,
+      "pituusaste": 24.880057,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 579,
+      "nimi": "Väätäiskylän kioski",
+      "leveysaste": 62.588239,
+      "pituusaste": 24.594974,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 580,
+      "nimi": "Vågens glasskiosk",
+      "leveysaste": 59.971406,
+      "pituusaste": 23.430958,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 581,
+      "nimi": "Yliopiston paperikauppa",
+      "leveysaste": 65.060866,
+      "pituusaste": 25.466633,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 582,
+      "nimi": "Ysipirtti",
+      "leveysaste": 62.67732,
+      "pituusaste": 27.401883,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    },
+    {
+      "id": 583,
+      "nimi": "a'la Kioski",
+      "leveysaste": 60.920347,
+      "pituusaste": 24.645318,
+      "osm_avain": "shop",
+      "osm_arvo": "kiosk",
+      "osm_luokka": "shop=kiosk"
+    }
+  ],
+  "meta": {
+    "title": "Kioskit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kioskit Suomessa — 583 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=kiosk`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 32. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 583 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kioskit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kioskit – Suomi (OpenStreetMap) — 583 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 583 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

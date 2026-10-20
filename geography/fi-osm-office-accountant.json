@@ -1,0 +1,1501 @@
+{
+  "id": "fi-osm-office-accountant",
+  "name": "Tilitoimistot – Suomi (OpenStreetMap)",
+  "title": "Tilitoimistot – Suomi (OpenStreetMap)",
+  "description": "Tilitoimistot Suomessa — 160 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=accountant`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A. Karppinen",
+      "leveysaste": 65.127873,
+      "pituusaste": 25.35886,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 2,
+      "nimi": "AJ-Laskenta Oy",
+      "leveysaste": 62.24867,
+      "pituusaste": 25.750068,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 3,
+      "nimi": "AJ-Tili Oy",
+      "leveysaste": 60.979174,
+      "pituusaste": 25.657039,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 4,
+      "nimi": "Accountor",
+      "leveysaste": 60.850801,
+      "pituusaste": 23.052445,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 5,
+      "nimi": "Accountor",
+      "leveysaste": 65.009725,
+      "pituusaste": 25.50875,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 6,
+      "nimi": "Accountor Kauhajoki",
+      "leveysaste": 62.422697,
+      "pituusaste": 22.186525,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 7,
+      "nimi": "Administer Espoo",
+      "leveysaste": 60.212188,
+      "pituusaste": 24.752345,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 8,
+      "nimi": "Airiston tili",
+      "leveysaste": 61.176058,
+      "pituusaste": 22.697505,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 9,
+      "nimi": "Airue Tilit",
+      "leveysaste": 60.567445,
+      "pituusaste": 27.190003,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 10,
+      "nimi": "Aktiva",
+      "leveysaste": 60.153501,
+      "pituusaste": 24.634146,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 11,
+      "nimi": "Alexandria Pankkiiriliike",
+      "leveysaste": 60.452815,
+      "pituusaste": 22.266488,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 12,
+      "nimi": "Annotilit Oy",
+      "leveysaste": 60.254967,
+      "pituusaste": 24.72927,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 13,
+      "nimi": "Arvo-laskenta",
+      "leveysaste": 62.890317,
+      "pituusaste": 27.679817,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 14,
+      "nimi": "Axel Tilit Oy",
+      "leveysaste": 60.240901,
+      "pituusaste": 24.849075,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 15,
+      "nimi": "Azets",
+      "leveysaste": 62.602123,
+      "pituusaste": 29.759262,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 16,
+      "nimi": "Balart Oy - tilitoimisto",
+      "leveysaste": 60.295811,
+      "pituusaste": 25.049644,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 17,
+      "nimi": "CaFo Advisory",
+      "leveysaste": 60.458997,
+      "pituusaste": 26.22635,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 18,
+      "nimi": "Danisma Ky",
+      "leveysaste": 60.293654,
+      "pituusaste": 25.023955,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 19,
+      "nimi": "EcoBooks Bookkeeping & Financial Services",
+      "leveysaste": 60.216106,
+      "pituusaste": 24.868585,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 20,
+      "nimi": "Entille",
+      "leveysaste": 60.211508,
+      "pituusaste": 25.083456,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 21,
+      "nimi": "Etelän Kirjanpitotalo Oy",
+      "leveysaste": 60.212763,
+      "pituusaste": 25.082921,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 22,
+      "nimi": "Festum Accounting Oy",
+      "leveysaste": 60.225682,
+      "pituusaste": 24.894382,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 23,
+      "nimi": "FinBill",
+      "leveysaste": 60.289602,
+      "pituusaste": 25.03411,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 24,
+      "nimi": "Gallant",
+      "leveysaste": 61.497502,
+      "pituusaste": 23.755022,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 25,
+      "nimi": "Gradateam Oy",
+      "leveysaste": 60.277833,
+      "pituusaste": 24.865363,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 26,
+      "nimi": "Heritos Oy",
+      "leveysaste": 60.342552,
+      "pituusaste": 24.833261,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 27,
+      "nimi": "Honkimaan tilitoimisto",
+      "leveysaste": 60.533834,
+      "pituusaste": 24.210426,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 28,
+      "nimi": "JTT Audit Oy",
+      "leveysaste": 62.60212,
+      "pituusaste": 29.758975,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 29,
+      "nimi": "Joensuun tili ja laskenta",
+      "leveysaste": 62.61076,
+      "pituusaste": 29.775072,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 30,
+      "nimi": "KP Tili ja Konsultointi Ky",
+      "leveysaste": 60.462894,
+      "pituusaste": 24.804568,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 31,
+      "nimi": "KPMG",
+      "leveysaste": 60.983152,
+      "pituusaste": 25.65849,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 32,
+      "nimi": "KPMG",
+      "leveysaste": 61.49801,
+      "pituusaste": 23.768114,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 33,
+      "nimi": "KTI laskutus",
+      "leveysaste": 60.45569,
+      "pituusaste": 22.237035,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 34,
+      "nimi": "Kaija Lempiäinen",
+      "leveysaste": 60.567901,
+      "pituusaste": 27.188162,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 35,
+      "nimi": "Kanavan Tilipalvelu",
+      "leveysaste": 61.311229,
+      "pituusaste": 23.752349,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 36,
+      "nimi": "Karjalan tilitoimisto",
+      "leveysaste": 61.052105,
+      "pituusaste": 28.203671,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 37,
+      "nimi": "Kauhajoen Tilikeskus Oy",
+      "leveysaste": 62.423135,
+      "pituusaste": 22.178343,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 38,
+      "nimi": "Kellon laskenta",
+      "leveysaste": 65.127817,
+      "pituusaste": 25.358875,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 39,
+      "nimi": "Kirjanpito FW Riska",
+      "leveysaste": 60.153995,
+      "pituusaste": 24.638928,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 40,
+      "nimi": "Kirjanpito Karttunen",
+      "leveysaste": 62.726216,
+      "pituusaste": 29.016485,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 41,
+      "nimi": "Kirjanpitotoimisto Kaleva",
+      "leveysaste": 61.499192,
+      "pituusaste": 23.78557,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 42,
+      "nimi": "Kirjanpitotoimisto Memo",
+      "leveysaste": 60.455726,
+      "pituusaste": 26.228256,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 43,
+      "nimi": "Kittilän tilipalvelu",
+      "leveysaste": 67.65766,
+      "pituusaste": 24.906144,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 44,
+      "nimi": "Kontiolahden tilitoimisto Oy",
+      "leveysaste": 62.635084,
+      "pituusaste": 29.804101,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 45,
+      "nimi": "Kontor Helsinki oy",
+      "leveysaste": 60.157097,
+      "pituusaste": 24.947126,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 46,
+      "nimi": "Kuhmon laskentapalvelut",
+      "leveysaste": 64.12632,
+      "pituusaste": 29.525762,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 47,
+      "nimi": "Kuortaneen tilitoimisto",
+      "leveysaste": 62.806534,
+      "pituusaste": 23.507534,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 48,
+      "nimi": "Kuuomena Oy",
+      "leveysaste": 61.083577,
+      "pituusaste": 26.136835,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 49,
+      "nimi": "L&S",
+      "leveysaste": 60.454713,
+      "pituusaste": 22.274471,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 50,
+      "nimi": "Lahden Lisälehti Oy",
+      "leveysaste": 60.980512,
+      "pituusaste": 25.631102,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 51,
+      "nimi": "Lapin Talous",
+      "leveysaste": 67.418055,
+      "pituusaste": 26.592342,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 52,
+      "nimi": "Lapin tilitoimisto",
+      "leveysaste": 66.519551,
+      "pituusaste": 25.753833,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 53,
+      "nimi": "Laskenta",
+      "leveysaste": 67.649931,
+      "pituusaste": 24.91748,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 54,
+      "nimi": "Laskentapalvelu Oy Vantaa",
+      "leveysaste": 60.298753,
+      "pituusaste": 24.997486,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 55,
+      "nimi": "Liquidita Ab",
+      "leveysaste": 60.164468,
+      "pituusaste": 22.728726,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 56,
+      "nimi": "Loimaan Tili ja Kiinteistö",
+      "leveysaste": 60.867915,
+      "pituusaste": 22.987192,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 57,
+      "nimi": "MTK-Kaakko Maatalouden Tilitoimisto",
+      "leveysaste": 60.566241,
+      "pituusaste": 27.193898,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 58,
+      "nimi": "Mar Tax",
+      "leveysaste": 60.56697,
+      "pituusaste": 27.194664,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 59,
+      "nimi": "Maraton oy",
+      "leveysaste": 65.012398,
+      "pituusaste": 25.48435,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 60,
+      "nimi": "Mynämäen Tilikeskus Oy",
+      "leveysaste": 60.678791,
+      "pituusaste": 21.988122,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 61,
+      "nimi": "Männistön Tilipalvelu Ky",
+      "leveysaste": 60.293654,
+      "pituusaste": 25.024212,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 62,
+      "nimi": "Noble Services",
+      "leveysaste": 60.229992,
+      "pituusaste": 24.965687,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 63,
+      "nimi": "Nordic C-Management",
+      "leveysaste": 60.292375,
+      "pituusaste": 25.043773,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 64,
+      "nimi": "Norm-Esko Consulting",
+      "leveysaste": 60.167471,
+      "pituusaste": 24.923983,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 65,
+      "nimi": "Nousiaisten Tilikeskus Oy",
+      "leveysaste": 60.598666,
+      "pituusaste": 22.082546,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 66,
+      "nimi": "Ordent Oy",
+      "leveysaste": 60.396866,
+      "pituusaste": 25.110885,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 67,
+      "nimi": "PWC",
+      "leveysaste": 61.870076,
+      "pituusaste": 28.877372,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 68,
+      "nimi": "Pielaveden Tilipalvelu",
+      "leveysaste": 63.232292,
+      "pituusaste": 26.757978,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 69,
+      "nimi": "Pirkka-Laskenta",
+      "leveysaste": 61.467005,
+      "pituusaste": 23.513206,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 70,
+      "nimi": "Pohjolan Tilivoima",
+      "leveysaste": 62.975488,
+      "pituusaste": 28.47886,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 71,
+      "nimi": "RS-Tili Ky",
+      "leveysaste": 62.427028,
+      "pituusaste": 22.176484,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 72,
+      "nimi": "Raahen Tilitiimi",
+      "leveysaste": 64.685034,
+      "pituusaste": 24.490454,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 73,
+      "nimi": "Rantalainen Oy",
+      "leveysaste": 60.462161,
+      "pituusaste": 24.807195,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 74,
+      "nimi": "Ratios bokföring & företagstjänster",
+      "leveysaste": 59.977603,
+      "pituusaste": 23.441288,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 75,
+      "nimi": "Redovisning Torckell",
+      "leveysaste": 60.45477,
+      "pituusaste": 26.228568,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 76,
+      "nimi": "Revisium Oy",
+      "leveysaste": 61.498621,
+      "pituusaste": 23.768622,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 77,
+      "nimi": "Riihon tilitoimisto",
+      "leveysaste": 62.635751,
+      "pituusaste": 23.821041,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 78,
+      "nimi": "Rätinki",
+      "leveysaste": 64.90259,
+      "pituusaste": 25.54169,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 79,
+      "nimi": "Rätinki",
+      "leveysaste": 64.952417,
+      "pituusaste": 25.511512,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 80,
+      "nimi": "Serdotim Oy",
+      "leveysaste": 60.199321,
+      "pituusaste": 24.941027,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 81,
+      "nimi": "Siilin laskenta ky",
+      "leveysaste": 63.074744,
+      "pituusaste": 27.659431,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 82,
+      "nimi": "Siilinjärven tilikeskus",
+      "leveysaste": 63.075733,
+      "pituusaste": 27.66156,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 83,
+      "nimi": "Siilinjärven tilitoimisto ky",
+      "leveysaste": 63.073377,
+      "pituusaste": 27.65992,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 84,
+      "nimi": "StarCount Oy",
+      "leveysaste": 61.492525,
+      "pituusaste": 21.798911,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 85,
+      "nimi": "Summan Toimistpalvelut",
+      "leveysaste": 60.568461,
+      "pituusaste": 27.190184,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 86,
+      "nimi": "TEB Talous ja hallintopalvelut",
+      "leveysaste": 60.222703,
+      "pituusaste": 24.783248,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 87,
+      "nimi": "Taitotalous",
+      "leveysaste": 60.160978,
+      "pituusaste": 24.88594,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 88,
+      "nimi": "Talenom",
+      "leveysaste": 62.414379,
+      "pituusaste": 25.95408,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 89,
+      "nimi": "Talenom",
+      "leveysaste": 64.258597,
+      "pituusaste": 23.946566,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 90,
+      "nimi": "Talenom Kuopio",
+      "leveysaste": 62.889712,
+      "pituusaste": 27.693897,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 91,
+      "nimi": "Taloasema",
+      "leveysaste": 60.335361,
+      "pituusaste": 24.321541,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 92,
+      "nimi": "TalousOraakkelit Oy",
+      "leveysaste": 62.801134,
+      "pituusaste": 23.525949,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 93,
+      "nimi": "Tase-Koivu",
+      "leveysaste": 60.44119,
+      "pituusaste": 22.245621,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 94,
+      "nimi": "TietoAkseli",
+      "leveysaste": 62.24469,
+      "pituusaste": 25.750821,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 95,
+      "nimi": "Tilexman",
+      "leveysaste": 60.212548,
+      "pituusaste": 25.082648,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 96,
+      "nimi": "Tili & Talous",
+      "leveysaste": 60.161299,
+      "pituusaste": 24.88983,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 97,
+      "nimi": "Tili Hamina Oy",
+      "leveysaste": 60.569472,
+      "pituusaste": 27.194263,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 98,
+      "nimi": "Tili Meistamo Ky",
+      "leveysaste": 64.687151,
+      "pituusaste": 24.503727,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 99,
+      "nimi": "Tili-Arla Oy",
+      "leveysaste": 62.586262,
+      "pituusaste": 23.613868,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 100,
+      "nimi": "Tili-Assari",
+      "leveysaste": 63.074835,
+      "pituusaste": 27.658515,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 101,
+      "nimi": "Tili-Bang",
+      "leveysaste": 60.46967,
+      "pituusaste": 22.206017,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 102,
+      "nimi": "Tili-Koivu",
+      "leveysaste": 60.441274,
+      "pituusaste": 22.245808,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 103,
+      "nimi": "Tili-Summa Ky",
+      "leveysaste": 60.564153,
+      "pituusaste": 27.162674,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 104,
+      "nimi": "Tili-Tekno Pelttari",
+      "leveysaste": 65.36037,
+      "pituusaste": 26.993521,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 105,
+      "nimi": "Tilikaija Oy",
+      "leveysaste": 60.615824,
+      "pituusaste": 22.546207,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 106,
+      "nimi": "Tilikiha Oy",
+      "leveysaste": 62.726286,
+      "pituusaste": 29.015683,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 107,
+      "nimi": "Tilikunta Oy",
+      "leveysaste": 60.497292,
+      "pituusaste": 22.298678,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 108,
+      "nimi": "Tilimylly",
+      "leveysaste": 65.128087,
+      "pituusaste": 25.358854,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 109,
+      "nimi": "Tilinova",
+      "leveysaste": 60.441254,
+      "pituusaste": 22.245513,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 110,
+      "nimi": "Tilintarkastus Poutanen Oy",
+      "leveysaste": 60.252459,
+      "pituusaste": 24.85034,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 111,
+      "nimi": "Tilintarkastus Saarimäki Oy",
+      "leveysaste": 60.242363,
+      "pituusaste": 24.9924,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 112,
+      "nimi": "Tilipalvelu Hänninen Oy",
+      "leveysaste": 60.293144,
+      "pituusaste": 25.03193,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 113,
+      "nimi": "Tilipalvelu Olkkola",
+      "leveysaste": 64.257479,
+      "pituusaste": 23.929543,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 114,
+      "nimi": "Tilipalvelu Olkkola",
+      "leveysaste": 64.257496,
+      "pituusaste": 23.929506,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 115,
+      "nimi": "Tilipalvelu Profitas",
+      "leveysaste": 60.630651,
+      "pituusaste": 24.853046,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 116,
+      "nimi": "Tilipalvelu Sirpa Koponen Oy",
+      "leveysaste": 62.897611,
+      "pituusaste": 27.705699,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 117,
+      "nimi": "Tilisatama",
+      "leveysaste": 61.312647,
+      "pituusaste": 23.757571,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 118,
+      "nimi": "Tilitaitajat",
+      "leveysaste": 62.548957,
+      "pituusaste": 24.073386,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 119,
+      "nimi": "Tiliteema",
+      "leveysaste": 60.44983,
+      "pituusaste": 22.260762,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 120,
+      "nimi": "Tilitoimisto A-Viisi ky",
+      "leveysaste": 60.568095,
+      "pituusaste": 27.190708,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 121,
+      "nimi": "Tilitoimisto Ahjoniemi Oy",
+      "leveysaste": 60.289122,
+      "pituusaste": 25.031304,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 122,
+      "nimi": "Tilitoimisto Eila Säkkinen",
+      "leveysaste": 64.882625,
+      "pituusaste": 28.918945,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 123,
+      "nimi": "Tilitoimisto Euromite Ky",
+      "leveysaste": 60.245672,
+      "pituusaste": 24.856108,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 124,
+      "nimi": "Tilitoimisto Haapala",
+      "leveysaste": 61.180153,
+      "pituusaste": 22.696182,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 125,
+      "nimi": "Tilitoimisto Helmitupa",
+      "leveysaste": 61.055109,
+      "pituusaste": 28.187558,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 126,
+      "nimi": "Tilitoimisto Kaarto Oy",
+      "leveysaste": 61.488227,
+      "pituusaste": 21.799155,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 127,
+      "nimi": "Tilitoimisto Konnektor",
+      "leveysaste": 62.598671,
+      "pituusaste": 29.758329,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 128,
+      "nimi": "Tilitoimisto Kuosmanen ky",
+      "leveysaste": 63.075654,
+      "pituusaste": 27.661552,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 129,
+      "nimi": "Tilitoimisto Kärnä Oy",
+      "leveysaste": 64.226159,
+      "pituusaste": 27.731183,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 130,
+      "nimi": "Tilitoimisto Luotsi",
+      "leveysaste": 60.19053,
+      "pituusaste": 24.915115,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 131,
+      "nimi": "Tilitoimisto Mandaatti",
+      "leveysaste": 64.861921,
+      "pituusaste": 25.525439,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 132,
+      "nimi": "Tilitoimisto Marine",
+      "leveysaste": 64.252707,
+      "pituusaste": 23.954313,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 133,
+      "nimi": "Tilitoimisto Mint oy",
+      "leveysaste": 60.156606,
+      "pituusaste": 24.948304,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 134,
+      "nimi": "Tilitoimisto Mårten Henriksson Oy",
+      "leveysaste": 60.456667,
+      "pituusaste": 26.226709,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 135,
+      "nimi": "Tilitoimisto Numero",
+      "leveysaste": 63.930286,
+      "pituusaste": 24.962376,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 136,
+      "nimi": "Tilitoimisto P. Räsänen",
+      "leveysaste": 60.567873,
+      "pituusaste": 27.188241,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 137,
+      "nimi": "Tilitoimisto Pehr Brahe Oy",
+      "leveysaste": 64.684147,
+      "pituusaste": 24.477667,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 138,
+      "nimi": "Tilitoimisto Raahen Tase",
+      "leveysaste": 64.683319,
+      "pituusaste": 24.476353,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 139,
+      "nimi": "Tilitoimisto Rantalainen",
+      "leveysaste": 62.597124,
+      "pituusaste": 29.759173,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 140,
+      "nimi": "Tilitoimisto Reino Mäkinen",
+      "leveysaste": 62.550253,
+      "pituusaste": 24.070512,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 141,
+      "nimi": "Tilitoimisto Tilikatti",
+      "leveysaste": 64.060476,
+      "pituusaste": 23.65099,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 142,
+      "nimi": "Tilitoimisto Tilimaisteri",
+      "leveysaste": 63.07624,
+      "pituusaste": 27.668339,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 143,
+      "nimi": "Tilitoimisto Tiliässät",
+      "leveysaste": 60.457744,
+      "pituusaste": 26.222417,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 144,
+      "nimi": "Tilitoimisto Tosite Oy",
+      "leveysaste": 60.448643,
+      "pituusaste": 22.238845,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 145,
+      "nimi": "Tilitoimisto Tynilä Oy",
+      "leveysaste": 63.242122,
+      "pituusaste": 22.854302,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 146,
+      "nimi": "Tilitoimisto Uusitalo",
+      "leveysaste": 60.630606,
+      "pituusaste": 24.852983,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 147,
+      "nimi": "Tilitoimisto Vahtivuori",
+      "leveysaste": 62.880297,
+      "pituusaste": 27.661053,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 148,
+      "nimi": "Tilitoimisto Yli-Rahko Oy",
+      "leveysaste": 60.288694,
+      "pituusaste": 25.033258,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 149,
+      "nimi": "Tiliärrät",
+      "leveysaste": 62.892004,
+      "pituusaste": 27.672062,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 150,
+      "nimi": "Tulevaisuuden Tilitoimisto",
+      "leveysaste": 60.676557,
+      "pituusaste": 21.994529,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 151,
+      "nimi": "Tuokko Tampere",
+      "leveysaste": 61.498023,
+      "pituusaste": 23.768331,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 152,
+      "nimi": "Turun Tilitalo Oy",
+      "leveysaste": 60.477366,
+      "pituusaste": 22.283897,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 153,
+      "nimi": "Turun Tilitalo Oy",
+      "leveysaste": 60.494801,
+      "pituusaste": 22.255642,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 154,
+      "nimi": "VIEW Group",
+      "leveysaste": 63.099642,
+      "pituusaste": 23.045106,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 155,
+      "nimi": "VIEW Group",
+      "leveysaste": 63.24217,
+      "pituusaste": 22.852946,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 156,
+      "nimi": "Vehka-tili Ky",
+      "leveysaste": 60.566924,
+      "pituusaste": 27.194608,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 157,
+      "nimi": "Videns.fi - Konsultoiva tilitoimisto",
+      "leveysaste": 62.596851,
+      "pituusaste": 29.77193,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 158,
+      "nimi": "Viitili",
+      "leveysaste": 62.690458,
+      "pituusaste": 21.981685,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 159,
+      "nimi": "YKP",
+      "leveysaste": 60.451173,
+      "pituusaste": 22.255906,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    },
+    {
+      "id": 160,
+      "nimi": "YPL Palvelu",
+      "leveysaste": 60.852021,
+      "pituusaste": 23.055078,
+      "osm_avain": "office",
+      "osm_arvo": "accountant",
+      "osm_luokka": "office=accountant"
+    }
+  ],
+  "meta": {
+    "title": "Tilitoimistot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Tilitoimistot Suomessa — 160 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=accountant`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 160 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Tilitoimistot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Tilitoimistot – Suomi (OpenStreetMap) — 160 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 160 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

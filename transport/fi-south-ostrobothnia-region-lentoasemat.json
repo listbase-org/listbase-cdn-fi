@@ -1,0 +1,156 @@
+{
+  "id": "fi-south-ostrobothnia-region-lentoasemat",
+  "name": "Finland / Etelä-Pohjanmaa — Airports (lentoasemat)",
+  "title": "Finland / Etelä-Pohjanmaa — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Etelä-Pohjanmaa (Southern Ostrobothnia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Southern Ostrobothnia'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFAL",
+      "iata": "",
+      "name": "Alavus Airport",
+      "city": "Alavus",
+      "subdivision": "Southern Ostrobothnia",
+      "subdivision_name_fi": "Etelä-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 407,
+      "latitude": 62.5547,
+      "longitude": 23.5733,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKA",
+      "iata": "KAU",
+      "name": "Kauhava Airport",
+      "city": "Kauhava",
+      "subdivision": "Southern Ostrobothnia",
+      "subdivision_name_fi": "Etelä-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 151,
+      "latitude": 63.1271,
+      "longitude": 23.0514,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKJ",
+      "iata": "KHJ",
+      "name": "Kauhajoki Airport",
+      "city": "",
+      "subdivision": "Southern Ostrobothnia",
+      "subdivision_name_fi": "Etelä-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 407,
+      "latitude": 62.4625,
+      "longitude": 22.3931,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFME",
+      "iata": "",
+      "name": "Menkijarvi Airport",
+      "city": "",
+      "subdivision": "Southern Ostrobothnia",
+      "subdivision_name_fi": "Etelä-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 331,
+      "latitude": 62.9467,
+      "longitude": 23.5189,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFSI",
+      "iata": "SJY",
+      "name": "Seinajoki Airport",
+      "city": "Seinajoki / Ilmajoki",
+      "subdivision": "Southern Ostrobothnia",
+      "subdivision_name_fi": "Etelä-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 302,
+      "latitude": 62.6921,
+      "longitude": 22.8323,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Etelä-Pohjanmaa — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Etelä-Pohjanmaa (Southern Ostrobothnia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Southern Ostrobothnia'. Sisältää 5 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Etelä-Pohjanmaa — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Etelä-Pohjanmaa — Airports (lentoasemat) — 5 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 5 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

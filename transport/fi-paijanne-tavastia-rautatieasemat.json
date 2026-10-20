@@ -1,0 +1,292 @@
+{
+  "id": "fi-paijanne-tavastia-rautatieasemat",
+  "name": "Rautatieasemat — Päijänne Tavastia",
+  "title": "Rautatieasemat — Päijänne Tavastia",
+  "description": "Rautatieasemat ja seisakkeet Päijänne Tavastian maakunnassa, Suomessa (7 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28745,
+      "name": "Herrala",
+      "slug": "herrala",
+      "uic": "1000096",
+      "latitude": 60.897256,
+      "longitude": 25.476272,
+      "maakunta": "Päijänne Tavastia",
+      "maakunta_slug": "paijanne-tavastia",
+      "maakunta_code": "07",
+      "lahin_postitoimipaikka": "Herrala",
+      "etaisyys_km": 2.951,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28768,
+      "name": "Järvelä",
+      "slug": "jarvela",
+      "uic": "1000095",
+      "latitude": 60.867629,
+      "longitude": 25.275232,
+      "maakunta": "Päijänne Tavastia",
+      "maakunta_slug": "paijanne-tavastia",
+      "maakunta_code": "07",
+      "lahin_postitoimipaikka": "Järvelä",
+      "etaisyys_km": 0.449,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28811,
+      "name": "Lahti",
+      "slug": "lahti",
+      "uic": "1000100",
+      "latitude": 60.976817,
+      "longitude": 25.657992,
+      "maakunta": "Päijänne Tavastia",
+      "maakunta_slug": "paijanne-tavastia",
+      "maakunta_code": "07",
+      "lahin_postitoimipaikka": "Lahti",
+      "etaisyys_km": 0.293,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28815,
+      "name": "Lappila",
+      "slug": "lappila",
+      "uic": "1000094",
+      "latitude": 60.849249,
+      "longitude": 25.174766,
+      "maakunta": "Päijänne Tavastia",
+      "maakunta_slug": "paijanne-tavastia",
+      "maakunta_code": "07",
+      "lahin_postitoimipaikka": "Lappila",
+      "etaisyys_km": 0.798,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28844,
+      "name": "Nastola",
+      "slug": "nastola",
+      "uic": "1000595",
+      "latitude": 60.935888,
+      "longitude": 25.936305,
+      "maakunta": "Päijänne Tavastia",
+      "maakunta_slug": "paijanne-tavastia",
+      "maakunta_code": "07",
+      "lahin_postitoimipaikka": "Nastola",
+      "etaisyys_km": 1.578,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28914,
+      "name": "Uusikylä",
+      "slug": "uusikyla",
+      "uic": "1000105",
+      "latitude": 60.928121,
+      "longitude": 26.017813,
+      "maakunta": "Päijänne Tavastia",
+      "maakunta_slug": "paijanne-tavastia",
+      "maakunta_code": "07",
+      "lahin_postitoimipaikka": "Uusikylä",
+      "etaisyys_km": 1.83,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 7,
+      "station_id": 28927,
+      "name": "Villähde",
+      "slug": "villahde",
+      "uic": "1000104",
+      "latitude": 60.962431,
+      "longitude": 25.797731,
+      "maakunta": "Päijänne Tavastia",
+      "maakunta_slug": "paijanne-tavastia",
+      "maakunta_code": "07",
+      "lahin_postitoimipaikka": "Villähde",
+      "etaisyys_km": 2.557,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — Päijänne Tavastia - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet Päijänne Tavastian maakunnassa, Suomessa (7 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 7 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — Päijänne Tavastia | ListBase",
+    "seo_description": "Lataa Rautatieasemat — Päijänne Tavastia — 7 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 7 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

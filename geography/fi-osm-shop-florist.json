@@ -1,0 +1,4255 @@
+{
+  "id": "fi-osm-shop-florist",
+  "name": "Kukkakaupat – Suomi (OpenStreetMap)",
+  "title": "Kukkakaupat – Suomi (OpenStreetMap)",
+  "description": "Kukkakaupat Suomessa — 466 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=florist`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 466,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A. Kova",
+      "leveysaste": 65.323355,
+      "pituusaste": 25.377541,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 2,
+      "nimi": "A. Tiaisen Kukkakauppa ja Hautaustoimisto",
+      "leveysaste": 63.55554,
+      "pituusaste": 29.110357,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 3,
+      "nimi": "AR-Kukka",
+      "leveysaste": 62.794082,
+      "pituusaste": 22.875131,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 4,
+      "nimi": "Ahlströms Trädgård",
+      "leveysaste": 63.662766,
+      "pituusaste": 22.710839,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 5,
+      "nimi": "Alavuden kukka- ja hautauspalvelu Floristiina",
+      "leveysaste": 62.586933,
+      "pituusaste": 23.615156,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 6,
+      "nimi": "Amalia",
+      "leveysaste": 63.299817,
+      "pituusaste": 22.379068,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 7,
+      "nimi": "Amalias Blommor",
+      "leveysaste": 63.521777,
+      "pituusaste": 22.529169,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 8,
+      "nimi": "Anemone",
+      "leveysaste": 63.095951,
+      "pituusaste": 21.611804,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 9,
+      "nimi": "Anna-Lenas Blombutik",
+      "leveysaste": 60.161924,
+      "pituusaste": 21.563529,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 10,
+      "nimi": "Annan Kukka",
+      "leveysaste": 66.716411,
+      "pituusaste": 27.42891,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 11,
+      "nimi": "Arctic Garden",
+      "leveysaste": 66.388819,
+      "pituusaste": 23.657437,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 12,
+      "nimi": "Asta Blomster och Presentaffär",
+      "leveysaste": 63.523024,
+      "pituusaste": 22.530363,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 13,
+      "nimi": "Ateljé Verbena",
+      "leveysaste": 60.160542,
+      "pituusaste": 24.942277,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 14,
+      "nimi": "Aulin kukka ja sidonta",
+      "leveysaste": 60.739033,
+      "pituusaste": 24.771776,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 15,
+      "nimi": "Bieder Kukkapiha Espoo Bemböle",
+      "leveysaste": 60.222944,
+      "pituusaste": 24.676437,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 16,
+      "nimi": "Bieder Kukkapiha Espoo Bemböle",
+      "leveysaste": 60.222944,
+      "pituusaste": 24.676462,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 17,
+      "nimi": "Blombergs Blomsterhandel",
+      "leveysaste": 60.098615,
+      "pituusaste": 19.94234,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 18,
+      "nimi": "Blomma",
+      "leveysaste": 60.449658,
+      "pituusaste": 22.275733,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 19,
+      "nimi": "Blomster Companiet",
+      "leveysaste": 62.273869,
+      "pituusaste": 21.376942,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 20,
+      "nimi": "Blomsteraffär Romantica",
+      "leveysaste": 59.978038,
+      "pituusaste": 23.442485,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 21,
+      "nimi": "Blomsteraffär Tusensköna",
+      "leveysaste": 59.975659,
+      "pituusaste": 23.437093,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 22,
+      "nimi": "Blomsterhörnan",
+      "leveysaste": 59.976127,
+      "pituusaste": 23.438408,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 23,
+      "nimi": "Bloom",
+      "leveysaste": 60.175798,
+      "pituusaste": 24.803733,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 24,
+      "nimi": "Bronco",
+      "leveysaste": 60.449032,
+      "pituusaste": 22.291975,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 25,
+      "nimi": "Bukee",
+      "leveysaste": 60.982757,
+      "pituusaste": 25.661758,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 26,
+      "nimi": "City blommor",
+      "leveysaste": 60.100073,
+      "pituusaste": 19.941977,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 27,
+      "nimi": "City-Kukka",
+      "leveysaste": 61.132794,
+      "pituusaste": 21.507064,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 28,
+      "nimi": "Convaljens blommor",
+      "leveysaste": 60.131263,
+      "pituusaste": 19.932151,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 29,
+      "nimi": "Delite Flowers & Design",
+      "leveysaste": 60.183608,
+      "pituusaste": 24.918739,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 30,
+      "nimi": "Desapi, kukkasidontaa & hautauspalvelu",
+      "leveysaste": 61.180648,
+      "pituusaste": 22.69748,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 31,
+      "nimi": "Desiree",
+      "leveysaste": 60.160565,
+      "pituusaste": 24.881821,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 32,
+      "nimi": "Eeva-Maijan Kukka",
+      "leveysaste": 62.553274,
+      "pituusaste": 24.065845,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 33,
+      "nimi": "Ellan kukka",
+      "leveysaste": 60.244093,
+      "pituusaste": 23.731268,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 34,
+      "nimi": "Eronen",
+      "leveysaste": 62.60029,
+      "pituusaste": 29.759032,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 35,
+      "nimi": "FLÖR Kukka & Puutarha",
+      "leveysaste": 60.430218,
+      "pituusaste": 22.32273,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 36,
+      "nimi": "Fantasea",
+      "leveysaste": 60.640619,
+      "pituusaste": 24.87509,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 37,
+      "nimi": "Fiori di Anita",
+      "leveysaste": 60.217181,
+      "pituusaste": 24.953698,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 38,
+      "nimi": "Floranita",
+      "leveysaste": 60.298703,
+      "pituusaste": 25.32852,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 39,
+      "nimi": "Floranna Garden – Konepaja",
+      "leveysaste": 60.193107,
+      "pituusaste": 24.94711,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 40,
+      "nimi": "Florea",
+      "leveysaste": 60.451658,
+      "pituusaste": 22.280987,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 41,
+      "nimi": "Floretta",
+      "leveysaste": 62.891345,
+      "pituusaste": 27.671314,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 42,
+      "nimi": "Floriina",
+      "leveysaste": 60.468183,
+      "pituusaste": 22.026075,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 43,
+      "nimi": "Flowers & Fantasy",
+      "leveysaste": 60.302025,
+      "pituusaste": 22.307966,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 44,
+      "nimi": "Flör",
+      "leveysaste": 60.432031,
+      "pituusaste": 22.301672,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 45,
+      "nimi": "Garden Rose Kukka ja Sisustus",
+      "leveysaste": 60.189798,
+      "pituusaste": 24.91557,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 46,
+      "nimi": "Gugga",
+      "leveysaste": 60.446304,
+      "pituusaste": 22.402631,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 47,
+      "nimi": "Haapajärven kukkakauppa ja hautaustoimisto E&P Ranua",
+      "leveysaste": 63.749436,
+      "pituusaste": 25.316855,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 48,
+      "nimi": "Haarajoen Kukka",
+      "leveysaste": 60.50952,
+      "pituusaste": 25.169942,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 49,
+      "nimi": "Hallin kukka",
+      "leveysaste": 60.179962,
+      "pituusaste": 24.950832,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 50,
+      "nimi": "Halosen puutarha",
+      "leveysaste": 62.207472,
+      "pituusaste": 29.699779,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 51,
+      "nimi": "Hantulan kukkakauppa",
+      "leveysaste": 62.969093,
+      "pituusaste": 23.005307,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 52,
+      "nimi": "Happy flower",
+      "leveysaste": 60.071677,
+      "pituusaste": 23.658299,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 53,
+      "nimi": "Hautaus- ja Kukkapalvelu Kahl",
+      "leveysaste": 62.685552,
+      "pituusaste": 21.978863,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 54,
+      "nimi": "Hautaus- ja Kukkapalvelu Kahl",
+      "leveysaste": 62.685554,
+      "pituusaste": 21.978877,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 55,
+      "nimi": "Hautaus- ja Kukkapalvelu Ky L. Laakso",
+      "leveysaste": 61.210856,
+      "pituusaste": 23.766657,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 56,
+      "nimi": "Hautaus- ja Kukkapalvelu Nooa",
+      "leveysaste": 62.240615,
+      "pituusaste": 25.748445,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 57,
+      "nimi": "Hautaus- ja Kukkapalvelu Räisänen",
+      "leveysaste": 65.359363,
+      "pituusaste": 26.994218,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 58,
+      "nimi": "Hautauspalvelu Matero",
+      "leveysaste": 63.074616,
+      "pituusaste": 27.658874,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 59,
+      "nimi": "Helkavuoren kukka",
+      "leveysaste": 61.262916,
+      "pituusaste": 24.032651,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 60,
+      "nimi": "Helleborgin kukka",
+      "leveysaste": 60.403537,
+      "pituusaste": 25.100515,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 61,
+      "nimi": "Helmi",
+      "leveysaste": 60.153709,
+      "pituusaste": 24.881095,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 62,
+      "nimi": "Helmi",
+      "leveysaste": 66.50045,
+      "pituusaste": 25.727285,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 63,
+      "nimi": "Helmi Kukkakauppa",
+      "leveysaste": 60.170419,
+      "pituusaste": 24.763549,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 64,
+      "nimi": "Helmi Kukkakauppa",
+      "leveysaste": 60.170425,
+      "pituusaste": 24.763542,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 65,
+      "nimi": "Herkun kukka",
+      "leveysaste": 65.011351,
+      "pituusaste": 25.472788,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 66,
+      "nimi": "Herttoniemen kukka- ja hautauspalvelu",
+      "leveysaste": 60.193905,
+      "pituusaste": 25.033982,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 67,
+      "nimi": "Hiitolan Kukkatalo ja hautaustoimisto",
+      "leveysaste": 64.267057,
+      "pituusaste": 24.815441,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 68,
+      "nimi": "Hollolan kukka ja hautauspalvelu",
+      "leveysaste": 60.987267,
+      "pituusaste": 25.514408,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 69,
+      "nimi": "Home In Garden Kauniainen",
+      "leveysaste": 60.211004,
+      "pituusaste": 24.728433,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 70,
+      "nimi": "Huhtalan Kukkakauppa",
+      "leveysaste": 61.166211,
+      "pituusaste": 23.867718,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 71,
+      "nimi": "Hyvinkään Kehäkukka",
+      "leveysaste": 60.631487,
+      "pituusaste": 24.852009,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 72,
+      "nimi": "Hävikkikukkakauppa Kukkis",
+      "leveysaste": 60.166824,
+      "pituusaste": 24.914137,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 73,
+      "nimi": "Ihana Kukkanen",
+      "leveysaste": 60.210193,
+      "pituusaste": 24.728106,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 74,
+      "nimi": "Ikikukka",
+      "leveysaste": 62.010803,
+      "pituusaste": 23.025739,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 75,
+      "nimi": "Ilkon kukka",
+      "leveysaste": 61.472531,
+      "pituusaste": 23.974523,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 76,
+      "nimi": "Ilkon kukka",
+      "leveysaste": 61.472542,
+      "pituusaste": 23.974525,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 77,
+      "nimi": "Interflora",
+      "leveysaste": 60.167293,
+      "pituusaste": 24.93587,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 78,
+      "nimi": "Interflora",
+      "leveysaste": 60.380726,
+      "pituusaste": 24.752169,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 79,
+      "nimi": "Interflora",
+      "leveysaste": 60.464609,
+      "pituusaste": 26.941459,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 80,
+      "nimi": "Irjan kukka",
+      "leveysaste": 60.187483,
+      "pituusaste": 24.956944,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 81,
+      "nimi": "Ixia tuliaiskioski",
+      "leveysaste": 60.457453,
+      "pituusaste": 22.687341,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 82,
+      "nimi": "Jaalan Metsämaria",
+      "leveysaste": 61.053359,
+      "pituusaste": 26.515929,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 83,
+      "nimi": "Jennin Kukkapuoti",
+      "leveysaste": 61.4949,
+      "pituusaste": 23.793196,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 84,
+      "nimi": "Jennyn kukka",
+      "leveysaste": 60.451169,
+      "pituusaste": 22.283077,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 85,
+      "nimi": "Joutsan Kukka-Sari",
+      "leveysaste": 61.741943,
+      "pituusaste": 26.113186,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 86,
+      "nimi": "Juankosken Kukkasidonta",
+      "leveysaste": 63.065635,
+      "pituusaste": 28.33085,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 87,
+      "nimi": "Juhlakukat",
+      "leveysaste": 62.415562,
+      "pituusaste": 22.169544,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 88,
+      "nimi": "Jukolan Kukkatalo",
+      "leveysaste": 60.98516,
+      "pituusaste": 24.417691,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 89,
+      "nimi": "Kaijan kukka",
+      "leveysaste": 68.657156,
+      "pituusaste": 27.540721,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 90,
+      "nimi": "Kaisan Kukka",
+      "leveysaste": 60.997436,
+      "pituusaste": 24.467221,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 91,
+      "nimi": "Kaivo Kukka",
+      "leveysaste": 60.169593,
+      "pituusaste": 24.933554,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 92,
+      "nimi": "Kaivokukka",
+      "leveysaste": 60.162592,
+      "pituusaste": 24.737791,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 93,
+      "nimi": "Kaivokukka",
+      "leveysaste": 60.162598,
+      "pituusaste": 24.737814,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 94,
+      "nimi": "Kaivokukka",
+      "leveysaste": 60.170493,
+      "pituusaste": 24.940155,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 95,
+      "nimi": "Kaivokukka",
+      "leveysaste": 60.218402,
+      "pituusaste": 24.812921,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 96,
+      "nimi": "Kaivokukka",
+      "leveysaste": 60.237157,
+      "pituusaste": 24.89303,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 97,
+      "nimi": "Kaivokukka",
+      "leveysaste": 60.293149,
+      "pituusaste": 25.044058,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 98,
+      "nimi": "Kaivokukka",
+      "leveysaste": 60.31355,
+      "pituusaste": 24.846818,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 99,
+      "nimi": "Kaivokukka Loviisa",
+      "leveysaste": 60.459526,
+      "pituusaste": 26.231473,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 100,
+      "nimi": "Kaivokukka Tripla",
+      "leveysaste": 60.19864,
+      "pituusaste": 24.933737,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 101,
+      "nimi": "Kalajoen Kukkatalo ja Hautaustoimisto",
+      "leveysaste": 64.255316,
+      "pituusaste": 23.949216,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 102,
+      "nimi": "Kalajoen Kukkatalo ja Hautaustoimisto",
+      "leveysaste": 64.255325,
+      "pituusaste": 23.949156,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 103,
+      "nimi": "Kampin Kukka",
+      "leveysaste": 60.167538,
+      "pituusaste": 24.923737,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 104,
+      "nimi": "Kangaslammen Kukka ja Lahja",
+      "leveysaste": 62.270917,
+      "pituusaste": 25.799878,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 105,
+      "nimi": "Kankurin Kukka",
+      "leveysaste": 60.230941,
+      "pituusaste": 24.999488,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 106,
+      "nimi": "Karttulan kukka- ja hautauspalvelu",
+      "leveysaste": 62.895142,
+      "pituusaste": 26.970809,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 107,
+      "nimi": "Karvian Kukka ja Hautaustoimisto",
+      "leveysaste": 62.136825,
+      "pituusaste": 22.561757,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 108,
+      "nimi": "Kauhavan kukka- ja haustaustoimisto Niemi",
+      "leveysaste": 63.299977,
+      "pituusaste": 23.156283,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 109,
+      "nimi": "Kauklahden Kukka",
+      "leveysaste": 60.191189,
+      "pituusaste": 24.602589,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 110,
+      "nimi": "Kausalan Kukkakauppa",
+      "leveysaste": 60.888443,
+      "pituusaste": 26.34033,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 111,
+      "nimi": "Kaustisen Kukka- ja Hautaustoimisto",
+      "leveysaste": 63.547921,
+      "pituusaste": 23.697179,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 112,
+      "nimi": "Kaustisen Kukka- ja Hautaustoimisto",
+      "leveysaste": 63.547955,
+      "pituusaste": 23.697184,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 113,
+      "nimi": "Kehäkukka",
+      "leveysaste": 60.861066,
+      "pituusaste": 26.717865,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 114,
+      "nimi": "Keinupuiston Kukka",
+      "leveysaste": 61.450806,
+      "pituusaste": 23.847767,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 115,
+      "nimi": "Keinusaaren Kukkakioski",
+      "leveysaste": 60.999203,
+      "pituusaste": 24.477097,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 116,
+      "nimi": "Kellokosken kukka",
+      "leveysaste": 60.532599,
+      "pituusaste": 25.111192,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 117,
+      "nimi": "Keravan kukkakeskus",
+      "leveysaste": 60.413914,
+      "pituusaste": 25.094256,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 118,
+      "nimi": "Keravan kukkakeskus",
+      "leveysaste": 60.413915,
+      "pituusaste": 25.094202,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 119,
+      "nimi": "Keskus-Kukka",
+      "leveysaste": 63.152245,
+      "pituusaste": 27.303302,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 120,
+      "nimi": "Keskustan Kukkatalo ja Hautaustoimisto Sepponen",
+      "leveysaste": 62.584386,
+      "pituusaste": 23.61585,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 121,
+      "nimi": "Kikan Kukka ja Lahja",
+      "leveysaste": 60.386457,
+      "pituusaste": 23.138838,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 122,
+      "nimi": "Kimppu Kivaa",
+      "leveysaste": 62.422027,
+      "pituusaste": 22.1781,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 123,
+      "nimi": "Kimppu Kivaa",
+      "leveysaste": 62.422048,
+      "pituusaste": 22.178101,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 124,
+      "nimi": "Kimppu Kivaa",
+      "leveysaste": 62.732833,
+      "pituusaste": 22.581273,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 125,
+      "nimi": "Kimppu Kivaa",
+      "leveysaste": 62.96846,
+      "pituusaste": 23.009176,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 126,
+      "nimi": "Kirsin kukka- ja hautauspalvelu",
+      "leveysaste": 62.138561,
+      "pituusaste": 25.767828,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 127,
+      "nimi": "Kluuvin Kukka",
+      "leveysaste": 60.16923,
+      "pituusaste": 24.94826,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 128,
+      "nimi": "Koivuhaan Kukkakauppa",
+      "leveysaste": 60.288491,
+      "pituusaste": 24.999349,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 129,
+      "nimi": "Korsnäs Blomster och begravningstjänst",
+      "leveysaste": 62.785,
+      "pituusaste": 21.18462,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 130,
+      "nimi": "Kourulan kukka",
+      "leveysaste": 61.048662,
+      "pituusaste": 28.134203,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 131,
+      "nimi": "Kropsun kukkakauppa ja hautaustoimisto",
+      "leveysaste": 65.175317,
+      "pituusaste": 25.350789,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 132,
+      "nimi": "Kruunukukka",
+      "leveysaste": 60.309584,
+      "pituusaste": 25.031436,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 133,
+      "nimi": "Kuhmoisten kukkakauppa ja hautauspalvelu",
+      "leveysaste": 61.566068,
+      "pituusaste": 25.182364,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 134,
+      "nimi": "KukKivat",
+      "leveysaste": 61.469545,
+      "pituusaste": 24.03813,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 135,
+      "nimi": "Kukapuutarha Halonen Kari",
+      "leveysaste": 62.208163,
+      "pituusaste": 29.701756,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 136,
+      "nimi": "Kukittamo",
+      "leveysaste": 61.490822,
+      "pituusaste": 23.82087,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 137,
+      "nimi": "Kukka Elisa",
+      "leveysaste": 61.988904,
+      "pituusaste": 26.643616,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 138,
+      "nimi": "Kukka Emilia",
+      "leveysaste": 64.127716,
+      "pituusaste": 29.517509,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 139,
+      "nimi": "Kukka Garden",
+      "leveysaste": 60.206856,
+      "pituusaste": 25.145568,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 140,
+      "nimi": "Kukka Ja Lahja Saga",
+      "leveysaste": 60.269863,
+      "pituusaste": 25.066611,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 141,
+      "nimi": "Kukka Meripihka",
+      "leveysaste": 60.234158,
+      "pituusaste": 25.010911,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 142,
+      "nimi": "Kukka Piazza",
+      "leveysaste": 60.291016,
+      "pituusaste": 24.965951,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 143,
+      "nimi": "Kukka Plus",
+      "leveysaste": 62.978774,
+      "pituusaste": 25.26561,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 144,
+      "nimi": "Kukka Seija",
+      "leveysaste": 60.741926,
+      "pituusaste": 24.776972,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 145,
+      "nimi": "Kukka Vanamo",
+      "leveysaste": 61.482074,
+      "pituusaste": 23.797506,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 146,
+      "nimi": "Kukka ja Hautauspalvelu Havia",
+      "leveysaste": 64.684887,
+      "pituusaste": 24.478659,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 147,
+      "nimi": "Kukka ja Hautaustoimisto",
+      "leveysaste": 62.029394,
+      "pituusaste": 24.6227,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 148,
+      "nimi": "Kukka ja Lahja Ruusu",
+      "leveysaste": 64.934684,
+      "pituusaste": 25.402005,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 149,
+      "nimi": "Kukka ja Ruukku",
+      "leveysaste": 61.059205,
+      "pituusaste": 28.191534,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 150,
+      "nimi": "Kukka ja hautauspalvelu Mäklin",
+      "leveysaste": 63.667695,
+      "pituusaste": 27.523107,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 151,
+      "nimi": "Kukka ja hautaustoimisto Mutanen",
+      "leveysaste": 62.852647,
+      "pituusaste": 29.367259,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 152,
+      "nimi": "Kukka ja puoti",
+      "leveysaste": 62.48545,
+      "pituusaste": 30.618866,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 153,
+      "nimi": "Kukka ja taide",
+      "leveysaste": 65.011299,
+      "pituusaste": 25.476842,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 154,
+      "nimi": "Kukka- Ja Hautauspalvelu Saima Laurila Oy",
+      "leveysaste": 62.802545,
+      "pituusaste": 23.509486,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 155,
+      "nimi": "Kukka- ja Hautauspalvelu Päivänsini",
+      "leveysaste": 62.016189,
+      "pituusaste": 25.560399,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 156,
+      "nimi": "Kukka- ja Hautauspalvelu S. Kinnunen Ky",
+      "leveysaste": 62.48992,
+      "pituusaste": 27.792008,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 157,
+      "nimi": "Kukka- ja Hautaustoimisto Rissanen",
+      "leveysaste": 62.974612,
+      "pituusaste": 28.482326,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 158,
+      "nimi": "Kukka- ja hautauspalvelu Kyyhkynen",
+      "leveysaste": 63.100516,
+      "pituusaste": 23.056013,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 159,
+      "nimi": "Kukka- ja hautauspalvelu SatuKukka",
+      "leveysaste": 62.067961,
+      "pituusaste": 28.299158,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 160,
+      "nimi": "Kukka- ja hautauspalvelu Vehviläinen",
+      "leveysaste": 62.412233,
+      "pituusaste": 25.958301,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 161,
+      "nimi": "Kukka-Bukett",
+      "leveysaste": 65.024946,
+      "pituusaste": 25.470563,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 162,
+      "nimi": "Kukka-Henriikka",
+      "leveysaste": 60.80514,
+      "pituusaste": 25.72802,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 163,
+      "nimi": "Kukka-Katriina",
+      "leveysaste": 61.116347,
+      "pituusaste": 22.163259,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 164,
+      "nimi": "Kukka-Lea",
+      "leveysaste": 62.777552,
+      "pituusaste": 22.828748,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 165,
+      "nimi": "Kukka-Mia",
+      "leveysaste": 60.303258,
+      "pituusaste": 25.046665,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 166,
+      "nimi": "Kukka-Shop Rosa",
+      "leveysaste": 61.128474,
+      "pituusaste": 21.512537,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 167,
+      "nimi": "Kukka-Tuire",
+      "leveysaste": 60.435215,
+      "pituusaste": 22.316826,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 168,
+      "nimi": "Kukka-Tuulia",
+      "leveysaste": 62.704332,
+      "pituusaste": 25.256486,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 169,
+      "nimi": "Kukka-ja hautauspalvelu Kukka-Riitta",
+      "leveysaste": 62.240352,
+      "pituusaste": 23.771845,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 170,
+      "nimi": "Kukka-kahvila",
+      "leveysaste": 61.641677,
+      "pituusaste": 26.774168,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 171,
+      "nimi": "KukkaBox",
+      "leveysaste": 60.85167,
+      "pituusaste": 23.051007,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 172,
+      "nimi": "KukkaBox",
+      "leveysaste": 60.851679,
+      "pituusaste": 23.051021,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 173,
+      "nimi": "KukkaKaristo",
+      "leveysaste": 60.981791,
+      "pituusaste": 25.736768,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 174,
+      "nimi": "KukkaOlavi",
+      "leveysaste": 60.269836,
+      "pituusaste": 24.442695,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 175,
+      "nimi": "KukkaUnelma",
+      "leveysaste": 60.598454,
+      "pituusaste": 22.084645,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 176,
+      "nimi": "Kukkacity",
+      "leveysaste": 60.442,
+      "pituusaste": 22.285577,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 177,
+      "nimi": "Kukkacity",
+      "leveysaste": 60.472488,
+      "pituusaste": 22.232472,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 178,
+      "nimi": "Kukkahuone Augusta",
+      "leveysaste": 60.679,
+      "pituusaste": 21.988032,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 179,
+      "nimi": "Kukkahuone Finer Oy",
+      "leveysaste": 60.332625,
+      "pituusaste": 24.325795,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 180,
+      "nimi": "Kukkahuone Henri Johan art",
+      "leveysaste": 60.399567,
+      "pituusaste": 25.021773,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 181,
+      "nimi": "Kukkahuone Hortensia",
+      "leveysaste": 60.452202,
+      "pituusaste": 22.256755,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 182,
+      "nimi": "Kukkaikkuna",
+      "leveysaste": 61.499216,
+      "pituusaste": 23.769592,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 183,
+      "nimi": "Kukkakaari",
+      "leveysaste": 60.13579,
+      "pituusaste": 24.50838,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 184,
+      "nimi": "Kukkakaari",
+      "leveysaste": 60.135807,
+      "pituusaste": 24.508476,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 185,
+      "nimi": "Kukkakaari",
+      "leveysaste": 60.150393,
+      "pituusaste": 24.6541,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 186,
+      "nimi": "Kukkakaari",
+      "leveysaste": 60.15998,
+      "pituusaste": 24.881457,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 187,
+      "nimi": "Kukkakauppa Ahkeraliisa",
+      "leveysaste": 64.130516,
+      "pituusaste": 28.386388,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 188,
+      "nimi": "Kukkakauppa Annansilmä",
+      "leveysaste": 60.994338,
+      "pituusaste": 24.46288,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 189,
+      "nimi": "Kukkakauppa Castanum Oy",
+      "leveysaste": 60.177157,
+      "pituusaste": 24.92747,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 190,
+      "nimi": "Kukkakauppa Ch. Barck",
+      "leveysaste": 60.165587,
+      "pituusaste": 24.934992,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 191,
+      "nimi": "Kukkakauppa Cosmos",
+      "leveysaste": 62.892368,
+      "pituusaste": 27.690591,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 192,
+      "nimi": "Kukkakauppa Crocus",
+      "leveysaste": 60.245044,
+      "pituusaste": 24.846304,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 193,
+      "nimi": "Kukkakauppa Elsa",
+      "leveysaste": 60.438666,
+      "pituusaste": 22.291911,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 194,
+      "nimi": "Kukkakauppa Heliä",
+      "leveysaste": 61.021841,
+      "pituusaste": 25.154727,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 195,
+      "nimi": "Kukkakauppa Hohde-Kukka",
+      "leveysaste": 64.005478,
+      "pituusaste": 23.537235,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 196,
+      "nimi": "Kukkakauppa Inbloom",
+      "leveysaste": 60.163254,
+      "pituusaste": 24.937603,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 197,
+      "nimi": "Kukkakauppa Kalevi Laine",
+      "leveysaste": 60.811347,
+      "pituusaste": 23.623915,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 198,
+      "nimi": "Kukkakauppa Kastanja",
+      "leveysaste": 60.467012,
+      "pituusaste": 22.027743,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 199,
+      "nimi": "Kukkakauppa Kirsikankukka",
+      "leveysaste": 60.213281,
+      "pituusaste": 24.959403,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 200,
+      "nimi": "Kukkakauppa Kulkurin Kimppu",
+      "leveysaste": 60.228632,
+      "pituusaste": 24.92356,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 201,
+      "nimi": "Kukkakauppa Kultamuratti",
+      "leveysaste": 61.312878,
+      "pituusaste": 23.752351,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 202,
+      "nimi": "Kukkakauppa Leinikki",
+      "leveysaste": 62.603578,
+      "pituusaste": 29.763237,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 203,
+      "nimi": "Kukkakauppa Liatris",
+      "leveysaste": 60.299786,
+      "pituusaste": 22.301356,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 204,
+      "nimi": "Kukkakauppa Lilium",
+      "leveysaste": 60.161444,
+      "pituusaste": 24.891389,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 205,
+      "nimi": "Kukkakauppa Lutukka",
+      "leveysaste": 60.187467,
+      "pituusaste": 24.960815,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 206,
+      "nimi": "Kukkakauppa Mari Havia",
+      "leveysaste": 63.838577,
+      "pituusaste": 23.134706,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 207,
+      "nimi": "Kukkakauppa Markkanen",
+      "leveysaste": 60.169291,
+      "pituusaste": 24.941433,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 208,
+      "nimi": "Kukkakauppa Merissa",
+      "leveysaste": 61.50221,
+      "pituusaste": 23.80063,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 209,
+      "nimi": "Kukkakauppa Mia-Maria",
+      "leveysaste": 65.013082,
+      "pituusaste": 25.468955,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 210,
+      "nimi": "Kukkakauppa MiljaInkeri",
+      "leveysaste": 62.486009,
+      "pituusaste": 21.746887,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 211,
+      "nimi": "Kukkakauppa Miraflora",
+      "leveysaste": 60.402647,
+      "pituusaste": 25.099194,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 212,
+      "nimi": "Kukkakauppa Miraflora",
+      "leveysaste": 60.402654,
+      "pituusaste": 25.099183,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 213,
+      "nimi": "Kukkakauppa Nyssykkä",
+      "leveysaste": 62.586957,
+      "pituusaste": 23.619658,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 214,
+      "nimi": "Kukkakauppa Olivia",
+      "leveysaste": 65.842858,
+      "pituusaste": 24.175889,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 215,
+      "nimi": "Kukkakauppa Opuntia",
+      "leveysaste": 61.496979,
+      "pituusaste": 23.752862,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 216,
+      "nimi": "Kukkakauppa Pikkukilpi",
+      "leveysaste": 61.496605,
+      "pituusaste": 23.770356,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 217,
+      "nimi": "Kukkakauppa Pioni",
+      "leveysaste": 60.9963,
+      "pituusaste": 24.46649,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 218,
+      "nimi": "Kukkakauppa Puntti",
+      "leveysaste": 60.348865,
+      "pituusaste": 25.076105,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 219,
+      "nimi": "Kukkakauppa Rentukka",
+      "leveysaste": 61.175746,
+      "pituusaste": 22.696973,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 220,
+      "nimi": "Kukkakauppa Rose Vendela",
+      "leveysaste": 61.496641,
+      "pituusaste": 23.80058,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 221,
+      "nimi": "Kukkakauppa Rose-Marie",
+      "leveysaste": 60.159086,
+      "pituusaste": 24.946232,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 222,
+      "nimi": "Kukkakauppa Ruusunen",
+      "leveysaste": 63.900877,
+      "pituusaste": 23.916538,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 223,
+      "nimi": "Kukkakauppa Ruusupuu",
+      "leveysaste": 62.249967,
+      "pituusaste": 25.744404,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 224,
+      "nimi": "Kukkakauppa Sakura",
+      "leveysaste": 60.205688,
+      "pituusaste": 24.877458,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 225,
+      "nimi": "Kukkakauppa Soili Kalluinen",
+      "leveysaste": 60.685747,
+      "pituusaste": 22.000265,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 226,
+      "nimi": "Kukkakauppa Soukan sydän",
+      "leveysaste": 60.141193,
+      "pituusaste": 24.670072,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 227,
+      "nimi": "Kukkakauppa Tellaria",
+      "leveysaste": 60.192673,
+      "pituusaste": 24.96114,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 228,
+      "nimi": "Kukkakauppa To you",
+      "leveysaste": 60.47026,
+      "pituusaste": 25.084816,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 229,
+      "nimi": "Kukkakauppa Tolvanen",
+      "leveysaste": 61.055905,
+      "pituusaste": 28.188005,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 230,
+      "nimi": "Kukkakauppa Tuulensuun Kukka",
+      "leveysaste": 60.50582,
+      "pituusaste": 22.45543,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 231,
+      "nimi": "Kukkakauppa Valla Fiini",
+      "leveysaste": 61.127279,
+      "pituusaste": 21.505331,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 232,
+      "nimi": "Kukkakauppa Vihersydän",
+      "leveysaste": 62.636446,
+      "pituusaste": 23.821964,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 233,
+      "nimi": "Kukkakauppa ja hautaustoimisto Jacaranda",
+      "leveysaste": 62.257887,
+      "pituusaste": 24.708008,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 234,
+      "nimi": "Kukkakauppa ja hautaustoimisto Ruusunen",
+      "leveysaste": 62.626993,
+      "pituusaste": 27.118054,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 235,
+      "nimi": "Kukkakauppa ja puutarhamyymälä Rose",
+      "leveysaste": 60.35404,
+      "pituusaste": 25.052121,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 236,
+      "nimi": "Kukkakauppa kukkatalo.fi",
+      "leveysaste": 60.401143,
+      "pituusaste": 25.106551,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 237,
+      "nimi": "Kukkakauppa-hautaustoimisto Marjatta Ryynänen",
+      "leveysaste": 62.248774,
+      "pituusaste": 25.749354,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 238,
+      "nimi": "Kukkakeidas",
+      "leveysaste": 65.844398,
+      "pituusaste": 24.143538,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 239,
+      "nimi": "Kukkakimara",
+      "leveysaste": 61.10603,
+      "pituusaste": 24.864946,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 240,
+      "nimi": "Kukkakontti",
+      "leveysaste": 64.226167,
+      "pituusaste": 27.732424,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 241,
+      "nimi": "Kukkakulma",
+      "leveysaste": 62.704081,
+      "pituusaste": 25.25746,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 242,
+      "nimi": "Kukkakulma Larpi",
+      "leveysaste": 60.809213,
+      "pituusaste": 23.763063,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 243,
+      "nimi": "Kukkalinja",
+      "leveysaste": 60.691273,
+      "pituusaste": 26.839181,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 244,
+      "nimi": "Kukkalinja",
+      "leveysaste": 60.693013,
+      "pituusaste": 26.838711,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 245,
+      "nimi": "Kukkalinja",
+      "leveysaste": 60.907083,
+      "pituusaste": 26.626684,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 246,
+      "nimi": "Kukkamaakari",
+      "leveysaste": 60.07193,
+      "pituusaste": 23.664181,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 247,
+      "nimi": "Kukkamarkkinat",
+      "leveysaste": 64.901888,
+      "pituusaste": 25.538442,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 248,
+      "nimi": "Kukkamarkkinat",
+      "leveysaste": 65.077133,
+      "pituusaste": 25.446173,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 249,
+      "nimi": "Kukkamyynti Piilola Oy",
+      "leveysaste": 60.170137,
+      "pituusaste": 24.941608,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 250,
+      "nimi": "Kukkamyynti Piilola Oy",
+      "leveysaste": 60.209847,
+      "pituusaste": 24.889413,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 251,
+      "nimi": "Kukkaniitty",
+      "leveysaste": 62.588993,
+      "pituusaste": 29.789152,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 252,
+      "nimi": "Kukkaniitty",
+      "leveysaste": 62.594797,
+      "pituusaste": 29.782926,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 253,
+      "nimi": "Kukkapalvelu Calla",
+      "leveysaste": 62.388946,
+      "pituusaste": 25.64684,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 254,
+      "nimi": "Kukkapalvelu Vehkanna Oy",
+      "leveysaste": 62.25902,
+      "pituusaste": 25.778997,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 255,
+      "nimi": "Kukkapiste Muratti",
+      "leveysaste": 61.812901,
+      "pituusaste": 22.377949,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 256,
+      "nimi": "Kukkapiste Rosa",
+      "leveysaste": 61.471136,
+      "pituusaste": 24.012813,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 257,
+      "nimi": "Kukkapuoti",
+      "leveysaste": 60.619909,
+      "pituusaste": 24.844336,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 258,
+      "nimi": "Kukkapuoti Johanna",
+      "leveysaste": 61.506009,
+      "pituusaste": 21.850736,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 259,
+      "nimi": "Kukkapysäkki",
+      "leveysaste": 60.162903,
+      "pituusaste": 24.721172,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 260,
+      "nimi": "Kukkasali Floretta",
+      "leveysaste": 62.892341,
+      "pituusaste": 27.674709,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 261,
+      "nimi": "Kukkasalonki Jelinda",
+      "leveysaste": 60.460435,
+      "pituusaste": 24.802867,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 262,
+      "nimi": "Kukkaskulma Sáriina",
+      "leveysaste": 60.991182,
+      "pituusaste": 25.662972,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 263,
+      "nimi": "Kukkastudio Lempi",
+      "leveysaste": 61.362378,
+      "pituusaste": 21.620268,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 264,
+      "nimi": "Kukkataikurit",
+      "leveysaste": 60.633002,
+      "pituusaste": 24.860674,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 265,
+      "nimi": "Kukkatalo",
+      "leveysaste": 60.981551,
+      "pituusaste": 25.590492,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 266,
+      "nimi": "Kukkatalo",
+      "leveysaste": 60.981573,
+      "pituusaste": 25.590432,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 267,
+      "nimi": "Kukkatalo",
+      "leveysaste": 61.458804,
+      "pituusaste": 23.786621,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 268,
+      "nimi": "Kukkatalo Helmililja",
+      "leveysaste": 60.633984,
+      "pituusaste": 25.313256,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 269,
+      "nimi": "Kukkatalo Kaija K",
+      "leveysaste": 60.204037,
+      "pituusaste": 24.660635,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 270,
+      "nimi": "Kukkatalo Korhonen",
+      "leveysaste": 64.686593,
+      "pituusaste": 24.478382,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 271,
+      "nimi": "Kukkatalo Kosmos",
+      "leveysaste": 60.289545,
+      "pituusaste": 25.081974,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 272,
+      "nimi": "Kukkatalo ja Hautaustoimisto Petri Kouhia Ky",
+      "leveysaste": 60.935546,
+      "pituusaste": 24.633817,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 273,
+      "nimi": "Kukkatarha Koskinen Oy",
+      "leveysaste": 60.98516,
+      "pituusaste": 25.689792,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 274,
+      "nimi": "Kukkatori",
+      "leveysaste": 66.716384,
+      "pituusaste": 27.429248,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 275,
+      "nimi": "Kukkatuulia",
+      "leveysaste": 62.705904,
+      "pituusaste": 25.259889,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 276,
+      "nimi": "Kukkavarpukka",
+      "leveysaste": 61.769538,
+      "pituusaste": 23.066869,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 277,
+      "nimi": "Kukkia",
+      "leveysaste": 60.44371,
+      "pituusaste": 22.277127,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 278,
+      "nimi": "Kukkia ja hautaustoimisto",
+      "leveysaste": 65.176486,
+      "pituusaste": 25.350517,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 279,
+      "nimi": "Kulosaaren kukka",
+      "leveysaste": 60.186503,
+      "pituusaste": 25.007785,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 280,
+      "nimi": "Kurikan Kukkakontti",
+      "leveysaste": 62.616617,
+      "pituusaste": 22.400328,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 281,
+      "nimi": "Kurtin kukkakauppa",
+      "leveysaste": 62.704097,
+      "pituusaste": 25.257706,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 282,
+      "nimi": "La Reine",
+      "leveysaste": 60.171326,
+      "pituusaste": 24.956912,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 283,
+      "nimi": "Laajasalon Kukkapalvelu",
+      "leveysaste": 60.179641,
+      "pituusaste": 25.051486,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 284,
+      "nimi": "Laajasalon Kukkapalvelu",
+      "leveysaste": 60.179651,
+      "pituusaste": 25.051482,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 285,
+      "nimi": "Laajasalon kukkakioski",
+      "leveysaste": 60.177399,
+      "pituusaste": 25.048378,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 286,
+      "nimi": "Laajasalon kukkakioski",
+      "leveysaste": 60.177407,
+      "pituusaste": 25.048376,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 287,
+      "nimi": "Laaksonkukka",
+      "leveysaste": 60.193876,
+      "pituusaste": 24.906361,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 288,
+      "nimi": "Lahja- ja Kukkakauppa Nostalgia",
+      "leveysaste": 60.206959,
+      "pituusaste": 24.650199,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 289,
+      "nimi": "Lahtinen",
+      "leveysaste": 63.318243,
+      "pituusaste": 30.026586,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 290,
+      "nimi": "Lamingon Kukka ja Hautauspalvelu",
+      "leveysaste": 64.407848,
+      "pituusaste": 27.836327,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 291,
+      "nimi": "Lamingon Kukka ja Hautauspalvelu",
+      "leveysaste": 64.40788,
+      "pituusaste": 27.836374,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 292,
+      "nimi": "Lapinvuokko",
+      "leveysaste": 67.331186,
+      "pituusaste": 23.782314,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 293,
+      "nimi": "Lassilan Kukka",
+      "leveysaste": 60.230247,
+      "pituusaste": 24.883398,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 294,
+      "nimi": "Laukkosen Kukka",
+      "leveysaste": 63.001297,
+      "pituusaste": 23.817582,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 295,
+      "nimi": "Laurilan kukka ja hautaustoimisto",
+      "leveysaste": 63.928825,
+      "pituusaste": 24.962756,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 296,
+      "nimi": "Leppävaaran kukka",
+      "leveysaste": 60.214774,
+      "pituusaste": 24.810777,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 297,
+      "nimi": "Leskisen Kukkakauppa ja Hautaustoimisto",
+      "leveysaste": 63.14663,
+      "pituusaste": 22.794418,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 298,
+      "nimi": "Lillin puoti",
+      "leveysaste": 61.171766,
+      "pituusaste": 24.56212,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 299,
+      "nimi": "Lindell Flowers",
+      "leveysaste": 63.827205,
+      "pituusaste": 23.15118,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 300,
+      "nimi": "Lindell Flowers City Shop",
+      "leveysaste": 63.837186,
+      "pituusaste": 23.134308,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 301,
+      "nimi": "Lindell flowers",
+      "leveysaste": 63.770004,
+      "pituusaste": 23.332992,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 302,
+      "nimi": "Linjurin Kukka",
+      "leveysaste": 62.898072,
+      "pituusaste": 27.681105,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 303,
+      "nimi": "Lintumetsän kukkatalo",
+      "leveysaste": 60.233531,
+      "pituusaste": 24.813294,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 304,
+      "nimi": "Little Bouquet Factory",
+      "leveysaste": 60.175628,
+      "pituusaste": 24.804838,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 305,
+      "nimi": "Living Room",
+      "leveysaste": 60.163968,
+      "pituusaste": 24.943195,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 306,
+      "nimi": "Lopen Kukka ja Lahja",
+      "leveysaste": 60.717883,
+      "pituusaste": 24.442335,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 307,
+      "nimi": "Lumo",
+      "leveysaste": 61.432134,
+      "pituusaste": 29.350386,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 308,
+      "nimi": "Luvian Kukka",
+      "leveysaste": 61.36067,
+      "pituusaste": 21.623746,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 309,
+      "nimi": "Lähderannan kukka",
+      "leveysaste": 60.239893,
+      "pituusaste": 24.741621,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 310,
+      "nimi": "Malmin kukka",
+      "leveysaste": 60.251877,
+      "pituusaste": 25.006777,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 311,
+      "nimi": "Marian Kauppa",
+      "leveysaste": 60.297886,
+      "pituusaste": 25.103983,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 312,
+      "nimi": "Marjan kukka",
+      "leveysaste": 62.287571,
+      "pituusaste": 27.08023,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 313,
+      "nimi": "Martinlaakson Kukka-aitta",
+      "leveysaste": 60.277994,
+      "pituusaste": 24.853768,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 314,
+      "nimi": "MemoRòsa",
+      "leveysaste": 61.201902,
+      "pituusaste": 26.031323,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 315,
+      "nimi": "Meriheinä",
+      "leveysaste": 61.859018,
+      "pituusaste": 21.502071,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 316,
+      "nimi": "Meriporin kukka",
+      "leveysaste": 61.5617,
+      "pituusaste": 21.614308,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 317,
+      "nimi": "Mervin kukka ja lahja",
+      "leveysaste": 65.176285,
+      "pituusaste": 25.350716,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 318,
+      "nimi": "Mestarin Kukka",
+      "leveysaste": 62.242635,
+      "pituusaste": 25.748467,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 319,
+      "nimi": "Mia's Blomsterhandel",
+      "leveysaste": 63.54451,
+      "pituusaste": 23.512062,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 320,
+      "nimi": "Miccishop",
+      "leveysaste": 60.453746,
+      "pituusaste": 22.265798,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 321,
+      "nimi": "Mikaelin kukka",
+      "leveysaste": 60.448056,
+      "pituusaste": 22.24842,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 322,
+      "nimi": "Mimosan Kukka",
+      "leveysaste": 60.554291,
+      "pituusaste": 22.115433,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 323,
+      "nimi": "Minna Skön Kukkia",
+      "leveysaste": 62.299188,
+      "pituusaste": 27.159565,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 324,
+      "nimi": "Mirjamin Kukka",
+      "leveysaste": 61.059402,
+      "pituusaste": 28.188665,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 325,
+      "nimi": "Misis Flora",
+      "leveysaste": 60.379725,
+      "pituusaste": 25.270714,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 326,
+      "nimi": "Misis Flora",
+      "leveysaste": 60.379739,
+      "pituusaste": 25.270723,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 327,
+      "nimi": "Monosen kukkakauppa",
+      "leveysaste": 62.311723,
+      "pituusaste": 29.628659,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 328,
+      "nimi": "Mookis",
+      "leveysaste": 62.61102,
+      "pituusaste": 21.471089,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 329,
+      "nimi": "Munkkivuoren Puutarhakeidas",
+      "leveysaste": 60.203691,
+      "pituusaste": 24.873949,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 330,
+      "nimi": "My Garden",
+      "leveysaste": 60.164131,
+      "pituusaste": 24.946926,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 331,
+      "nimi": "Mäkelän Kukka",
+      "leveysaste": 61.3127,
+      "pituusaste": 23.753136,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 332,
+      "nimi": "Mäkelän Kukka",
+      "leveysaste": 61.312703,
+      "pituusaste": 23.753138,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 333,
+      "nimi": "Nevalaisen puutarhan kukkamyynti",
+      "leveysaste": 64.125598,
+      "pituusaste": 29.512627,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 334,
+      "nimi": "Nummen Narsissi",
+      "leveysaste": 60.455453,
+      "pituusaste": 22.305444,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 335,
+      "nimi": "Nuottalahden Puutarha",
+      "leveysaste": 62.975268,
+      "pituusaste": 28.479827,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 336,
+      "nimi": "Onkkaalan kukkahuone",
+      "leveysaste": 61.336391,
+      "pituusaste": 24.270318,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 337,
+      "nimi": "Onnenpensas",
+      "leveysaste": 60.505842,
+      "pituusaste": 26.901165,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 338,
+      "nimi": "Onnenpensas",
+      "leveysaste": 60.505867,
+      "pituusaste": 26.901156,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 339,
+      "nimi": "Paimion Kukkapalvelu",
+      "leveysaste": 60.457101,
+      "pituusaste": 22.689649,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 340,
+      "nimi": "Pakilan Kukkatalo",
+      "leveysaste": 60.242731,
+      "pituusaste": 24.926784,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 341,
+      "nimi": "Palokan Keskuskulman kukka ja hautaus",
+      "leveysaste": 62.288295,
+      "pituusaste": 25.743811,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 342,
+      "nimi": "Panelian Kukka- ja Hautauspalvelu",
+      "leveysaste": 61.224909,
+      "pituusaste": 21.97519,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 343,
+      "nimi": "Parkanon Kukka",
+      "leveysaste": 62.010573,
+      "pituusaste": 23.022292,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 344,
+      "nimi": "Parolan kukkakauppa",
+      "leveysaste": 61.054192,
+      "pituusaste": 24.369832,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 345,
+      "nimi": "Parolantien Kukkapalvelu",
+      "leveysaste": 60.994676,
+      "pituusaste": 24.450186,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 346,
+      "nimi": "Partasen puutarha",
+      "leveysaste": 60.429133,
+      "pituusaste": 24.372239,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 347,
+      "nimi": "Pasadena",
+      "leveysaste": 60.44838,
+      "pituusaste": 22.263705,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 348,
+      "nimi": "Paula-Stiina",
+      "leveysaste": 62.819098,
+      "pituusaste": 23.944561,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 349,
+      "nimi": "Peikonkämmen",
+      "leveysaste": 60.631797,
+      "pituusaste": 24.860991,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 350,
+      "nimi": "Pekosten kukka",
+      "leveysaste": 60.982179,
+      "pituusaste": 25.656187,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 351,
+      "nimi": "Petterssons trädgård",
+      "leveysaste": 63.606681,
+      "pituusaste": 23.024818,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 352,
+      "nimi": "Pian Kukka",
+      "leveysaste": 60.16066,
+      "pituusaste": 24.941152,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 353,
+      "nimi": "Pietét",
+      "leveysaste": 60.448626,
+      "pituusaste": 22.260147,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 354,
+      "nimi": "Piia Jaala",
+      "leveysaste": 60.450356,
+      "pituusaste": 22.269661,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 355,
+      "nimi": "Piikkiön Kukkakauppa",
+      "leveysaste": 60.424933,
+      "pituusaste": 22.517896,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 356,
+      "nimi": "Pinsiön Taimisto",
+      "leveysaste": 61.580436,
+      "pituusaste": 23.460976,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 357,
+      "nimi": "Pioni",
+      "leveysaste": 60.435457,
+      "pituusaste": 22.311423,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 358,
+      "nimi": "Pirilän Kukkatalo",
+      "leveysaste": 60.257673,
+      "pituusaste": 24.94441,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 359,
+      "nimi": "Pirilän Kukkatalo",
+      "leveysaste": 60.746496,
+      "pituusaste": 24.762349,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 360,
+      "nimi": "Pomarkun Kukka- ja Hautauspalvelu",
+      "leveysaste": 61.69243,
+      "pituusaste": 22.006381,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 361,
+      "nimi": "Portsan kukka",
+      "leveysaste": 60.446923,
+      "pituusaste": 22.251588,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 362,
+      "nimi": "Porvoon Kukkapalvelu",
+      "leveysaste": 60.392474,
+      "pituusaste": 25.666232,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 363,
+      "nimi": "Posion Kukka- ja Hautaustoimisto",
+      "leveysaste": 66.11039,
+      "pituusaste": 28.169832,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 364,
+      "nimi": "Pudasjärven puutarha kukkahuone oy",
+      "leveysaste": 65.355847,
+      "pituusaste": 26.97715,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 365,
+      "nimi": "Puistokukka",
+      "leveysaste": 61.690604,
+      "pituusaste": 27.276533,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 366,
+      "nimi": "Punakukka",
+      "leveysaste": 60.161685,
+      "pituusaste": 24.939884,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 367,
+      "nimi": "Puntti",
+      "leveysaste": 60.20261,
+      "pituusaste": 24.968004,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 368,
+      "nimi": "Purran Kukka ja Hautauspalvelu",
+      "leveysaste": 62.240624,
+      "pituusaste": 23.775944,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 369,
+      "nimi": "Puuvillan Kukka",
+      "leveysaste": 61.49474,
+      "pituusaste": 21.801034,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 370,
+      "nimi": "Päivikin Kukka Kukkakauppa Nummela",
+      "leveysaste": 60.333933,
+      "pituusaste": 24.319827,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 371,
+      "nimi": "Raahen Kukka ja Hautaustoimisto A. Paldanius",
+      "leveysaste": 64.68479,
+      "pituusaste": 24.478477,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 372,
+      "nimi": "Raija Raunemaa",
+      "leveysaste": 60.420957,
+      "pituusaste": 25.027787,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 373,
+      "nimi": "Raision Kukkapalvelu",
+      "leveysaste": 60.486981,
+      "pituusaste": 22.166266,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 374,
+      "nimi": "Raision Kukkatukku",
+      "leveysaste": 60.463531,
+      "pituusaste": 22.154805,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 375,
+      "nimi": "Rantakukka",
+      "leveysaste": 63.091487,
+      "pituusaste": 21.61925,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 376,
+      "nimi": "Rantakylän kukka",
+      "leveysaste": 61.677255,
+      "pituusaste": 27.207811,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 377,
+      "nimi": "Rantasalmen kukka- ja hautauspalvelu",
+      "leveysaste": 62.063629,
+      "pituusaste": 28.303196,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 378,
+      "nimi": "Rantavaaran kukkakauppa",
+      "leveysaste": 61.769811,
+      "pituusaste": 23.069366,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 379,
+      "nimi": "Ratilainen",
+      "leveysaste": 62.097509,
+      "pituusaste": 30.140101,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 380,
+      "nimi": "Rekolan kukkatalo",
+      "leveysaste": 60.329838,
+      "pituusaste": 25.075051,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 381,
+      "nimi": "Relay Kukka",
+      "leveysaste": 60.171205,
+      "pituusaste": 24.942189,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 382,
+      "nimi": "Riistaveden kukkakauppa",
+      "leveysaste": 62.913881,
+      "pituusaste": 28.162439,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 383,
+      "nimi": "Roihuvuoren Kukka",
+      "leveysaste": 60.202726,
+      "pituusaste": 25.058984,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 384,
+      "nimi": "Rosenblads BlomsterTing",
+      "leveysaste": 60.131253,
+      "pituusaste": 19.933808,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 385,
+      "nimi": "Rosenblads BlomsterTing",
+      "leveysaste": 60.131253,
+      "pituusaste": 19.933821,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 386,
+      "nimi": "Rositta",
+      "leveysaste": 65.846346,
+      "pituusaste": 24.146657,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 387,
+      "nimi": "Runebergin Kukka Dan Ward",
+      "leveysaste": 60.181241,
+      "pituusaste": 24.926593,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 388,
+      "nimi": "Ruolan kukka",
+      "leveysaste": 60.97854,
+      "pituusaste": 25.683551,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 389,
+      "nimi": "Ruonalan kukka",
+      "leveysaste": 60.479427,
+      "pituusaste": 26.867022,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 390,
+      "nimi": "Ruoveden Kukka ja Hautauspalvelu",
+      "leveysaste": 61.98532,
+      "pituusaste": 24.070975,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 391,
+      "nimi": "Ruusu-Aula",
+      "leveysaste": 60.443654,
+      "pituusaste": 22.256225,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 392,
+      "nimi": "Ruusunmarja",
+      "leveysaste": 67.417824,
+      "pituusaste": 26.592625,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 393,
+      "nimi": "S-kukka",
+      "leveysaste": 60.501232,
+      "pituusaste": 26.869144,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 394,
+      "nimi": "Saaran Kukka-Kioski",
+      "leveysaste": 66.506939,
+      "pituusaste": 25.677916,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 395,
+      "nimi": "Salmelan kukka",
+      "leveysaste": 62.491599,
+      "pituusaste": 22.757961,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 396,
+      "nimi": "Salon Kukka",
+      "leveysaste": 60.386759,
+      "pituusaste": 23.127057,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 397,
+      "nimi": "SariAnna",
+      "leveysaste": 62.975824,
+      "pituusaste": 22.011714,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 398,
+      "nimi": "Siilinjärven Kukka ja Hautauspalvelu Eija Markkanen ky",
+      "leveysaste": 63.077102,
+      "pituusaste": 27.658529,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 399,
+      "nimi": "Siivosen Kukkapirtti",
+      "leveysaste": 60.800955,
+      "pituusaste": 21.419281,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 400,
+      "nimi": "Siljamaan Puutarha",
+      "leveysaste": 63.942037,
+      "pituusaste": 24.977587,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 401,
+      "nimi": "Silmu",
+      "leveysaste": 64.884081,
+      "pituusaste": 28.906733,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 402,
+      "nimi": "Sipoon Kukka- ja Hautauspalvelu P. Borg",
+      "leveysaste": 60.37741,
+      "pituusaste": 25.26969,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 403,
+      "nimi": "Sitomo",
+      "leveysaste": 60.160553,
+      "pituusaste": 24.739599,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 404,
+      "nimi": "Sitomo",
+      "leveysaste": 60.160554,
+      "pituusaste": 24.739584,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 405,
+      "nimi": "Sokos Herkku Kukkakauppa",
+      "leveysaste": 65.011372,
+      "pituusaste": 25.472538,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 406,
+      "nimi": "Stenius",
+      "leveysaste": 60.160687,
+      "pituusaste": 24.880425,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 407,
+      "nimi": "Sundin kukkakauppa",
+      "leveysaste": 63.837384,
+      "pituusaste": 23.106478,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 408,
+      "nimi": "Sunds Blommor Kukkia",
+      "leveysaste": 63.675616,
+      "pituusaste": 22.696641,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 409,
+      "nimi": "Suodenniemen kukkakauppa",
+      "leveysaste": 61.557263,
+      "pituusaste": 22.781567,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 410,
+      "nimi": "Suvin kukkapaja",
+      "leveysaste": 60.584237,
+      "pituusaste": 27.707957,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 411,
+      "nimi": "Suviruusu",
+      "leveysaste": 60.46376,
+      "pituusaste": 26.93938,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 412,
+      "nimi": "Sweet Things - Elovainion kukka",
+      "leveysaste": 61.55624,
+      "pituusaste": 23.563841,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 413,
+      "nimi": "Syväsen Kukka",
+      "leveysaste": 60.182998,
+      "pituusaste": 24.952513,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 414,
+      "nimi": "Syväsen kukka",
+      "leveysaste": 60.182876,
+      "pituusaste": 24.952829,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 415,
+      "nimi": "Taavetin Kukka- ja hautauspalvelu",
+      "leveysaste": 60.921852,
+      "pituusaste": 27.566054,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 416,
+      "nimi": "Taikakukka",
+      "leveysaste": 60.251865,
+      "pituusaste": 25.013635,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 417,
+      "nimi": "Taimimyymälä Tepponen",
+      "leveysaste": 60.513287,
+      "pituusaste": 26.945127,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 418,
+      "nimi": "Taimipiste",
+      "leveysaste": 61.501467,
+      "pituusaste": 25.684445,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 419,
+      "nimi": "Tepposen Kukka ja Hautaus",
+      "leveysaste": 60.567576,
+      "pituusaste": 27.189638,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 420,
+      "nimi": "Terjen Kukkapuoti",
+      "leveysaste": 60.817288,
+      "pituusaste": 23.627751,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 421,
+      "nimi": "Tervakosken kukkakauppa",
+      "leveysaste": 60.815973,
+      "pituusaste": 24.623419,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 422,
+      "nimi": "TiiaMarian Kukka",
+      "leveysaste": 60.964799,
+      "pituusaste": 25.657485,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 423,
+      "nimi": "Tiinan Kukka",
+      "leveysaste": 60.851874,
+      "pituusaste": 23.058531,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 424,
+      "nimi": "Tuijan Kukkis",
+      "leveysaste": 60.569499,
+      "pituusaste": 27.193959,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 425,
+      "nimi": "Tuiku design",
+      "leveysaste": 60.218873,
+      "pituusaste": 25.106465,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 426,
+      "nimi": "Tulikukka",
+      "leveysaste": 60.269656,
+      "pituusaste": 24.849815,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 427,
+      "nimi": "Tuomarilan Kukka",
+      "leveysaste": 60.204147,
+      "pituusaste": 24.680758,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 428,
+      "nimi": "Tyrnävän Kukka-Tupa",
+      "leveysaste": 64.762719,
+      "pituusaste": 25.646792,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 429,
+      "nimi": "Tähkä",
+      "leveysaste": 60.453346,
+      "pituusaste": 22.273647,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 430,
+      "nimi": "Tähkä",
+      "leveysaste": 60.454472,
+      "pituusaste": 22.273449,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 431,
+      "nimi": "Tähtililja",
+      "leveysaste": 60.211865,
+      "pituusaste": 24.940007,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 432,
+      "nimi": "Unioninkukka",
+      "leveysaste": 60.174213,
+      "pituusaste": 24.950776,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 433,
+      "nimi": "Urban Green",
+      "leveysaste": 60.187249,
+      "pituusaste": 24.978512,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 434,
+      "nimi": "Urosen kukkakauppa, Hautaustoimisto",
+      "leveysaste": 61.865634,
+      "pituusaste": 25.187129,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 435,
+      "nimi": "Vakkurin kukka",
+      "leveysaste": 63.838397,
+      "pituusaste": 23.130788,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 436,
+      "nimi": "Valtakukka",
+      "leveysaste": 60.625671,
+      "pituusaste": 24.45954,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 437,
+      "nimi": "Verso",
+      "leveysaste": 60.210997,
+      "pituusaste": 25.081431,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 438,
+      "nimi": "Vesterby Handelsträdgård",
+      "leveysaste": 59.984032,
+      "pituusaste": 23.412069,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 439,
+      "nimi": "Vesterby Handelsträdgård",
+      "leveysaste": 59.984069,
+      "pituusaste": 23.412059,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 440,
+      "nimi": "Vieremän kukka ja hautauspalvelu",
+      "leveysaste": 63.742131,
+      "pituusaste": 27.003203,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 441,
+      "nimi": "Viherpalvelu Ruusupuu",
+      "leveysaste": 60.906076,
+      "pituusaste": 26.624291,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 442,
+      "nimi": "Viherpeukalot",
+      "leveysaste": 60.876079,
+      "pituusaste": 26.652698,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 443,
+      "nimi": "Viherpeukalot",
+      "leveysaste": 60.876089,
+      "pituusaste": 26.652723,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 444,
+      "nimi": "Vihersisustuspalvelu O. Valo",
+      "leveysaste": 60.163969,
+      "pituusaste": 24.931369,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 445,
+      "nimi": "Vihertalo Lintumäki",
+      "leveysaste": 60.251799,
+      "pituusaste": 25.007187,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 446,
+      "nimi": "Vihertalo Varpula",
+      "leveysaste": 60.977749,
+      "pituusaste": 25.662246,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 447,
+      "nimi": "Vihertalo Varpula",
+      "leveysaste": 60.977757,
+      "pituusaste": 25.662252,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 448,
+      "nimi": "Viidakkorumpu",
+      "leveysaste": 60.173423,
+      "pituusaste": 24.919012,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 449,
+      "nimi": "Viipurin Kukka",
+      "leveysaste": 60.190775,
+      "pituusaste": 24.946618,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 450,
+      "nimi": "Viipurintien kukka",
+      "leveysaste": 61.003542,
+      "pituusaste": 24.490972,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 451,
+      "nimi": "Viitasaaren Kukka",
+      "leveysaste": 63.074118,
+      "pituusaste": 25.858771,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 452,
+      "nimi": "Villikaisla",
+      "leveysaste": 60.41748,
+      "pituusaste": 24.32303,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 453,
+      "nimi": "Viola Orvokki",
+      "leveysaste": 62.63732,
+      "pituusaste": 29.354775,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 454,
+      "nimi": "Viola Orvokki",
+      "leveysaste": 62.637337,
+      "pituusaste": 29.354772,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 455,
+      "nimi": "Virkkalan Kukkapuoti",
+      "leveysaste": 60.248619,
+      "pituusaste": 24.061608,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 456,
+      "nimi": "Voi Kukka!",
+      "leveysaste": 60.436934,
+      "pituusaste": 22.249316,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 457,
+      "nimi": "Vähärauman Kukka",
+      "leveysaste": 61.486486,
+      "pituusaste": 21.732829,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 458,
+      "nimi": "Vääksyn Viherkukka ja hautauspalvelu Oy",
+      "leveysaste": 61.172215,
+      "pituusaste": 25.550576,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 459,
+      "nimi": "Vörå Blomstertjänst:sv",
+      "leveysaste": 63.129847,
+      "pituusaste": 22.250741,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 460,
+      "nimi": "Wanhan Myllyn Kukka",
+      "leveysaste": 60.396572,
+      "pituusaste": 25.02027,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 461,
+      "nimi": "Wasa florist",
+      "leveysaste": 63.092508,
+      "pituusaste": 21.618377,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 462,
+      "nimi": "Wild Flowers",
+      "leveysaste": 60.188569,
+      "pituusaste": 24.917629,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 463,
+      "nimi": "Wild Thinks Helsinki Flower Studio",
+      "leveysaste": 60.157338,
+      "pituusaste": 24.94709,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 464,
+      "nimi": "Ylisen Kauppapuutarha",
+      "leveysaste": 61.630042,
+      "pituusaste": 23.612268,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 465,
+      "nimi": "Ähtärin Hautaustoimisto ja Kukkasitomo Oy",
+      "leveysaste": 62.550179,
+      "pituusaste": 24.070818,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    },
+    {
+      "id": 466,
+      "nimi": "Ölander",
+      "leveysaste": 60.159852,
+      "pituusaste": 24.946434,
+      "osm_avain": "shop",
+      "osm_arvo": "florist",
+      "osm_luokka": "shop=florist"
+    }
+  ],
+  "meta": {
+    "title": "Kukkakaupat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kukkakaupat Suomessa — 466 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=florist`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 466 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kukkakaupat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kukkakaupat – Suomi (OpenStreetMap) — 466 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 466 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

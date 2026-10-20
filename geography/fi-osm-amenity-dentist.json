@@ -1,0 +1,3301 @@
+{
+  "id": "fi-osm-amenity-dentist",
+  "name": "Hammaslääkärit – Suomi (OpenStreetMap)",
+  "title": "Hammaslääkärit – Suomi (OpenStreetMap)",
+  "description": "Hammaslääkärit Suomessa — 360 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=dentist`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 3. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 360,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "AAA-Aboadent Oy",
+      "leveysaste": 60.455655,
+      "pituusaste": 22.269208,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 2,
+      "nimi": "Aijan Hammas",
+      "leveysaste": 64.127677,
+      "pituusaste": 29.517422,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 3,
+      "nimi": "Alahärmän hammashoitola",
+      "leveysaste": 63.237192,
+      "pituusaste": 22.86146,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 4,
+      "nimi": "Alajärven hammashoitola",
+      "leveysaste": 62.997287,
+      "pituusaste": 23.828663,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 5,
+      "nimi": "Alastaron Hammashoitola",
+      "leveysaste": 60.950244,
+      "pituusaste": 22.861489,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 6,
+      "nimi": "Anesdent Oy Hammaslääkäri",
+      "leveysaste": 62.603785,
+      "pituusaste": 29.758402,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 7,
+      "nimi": "Anu Vakkila Erikoishammastekniikko",
+      "leveysaste": 60.16492,
+      "pituusaste": 24.932215,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 8,
+      "nimi": "Asikkalan hammashoitola",
+      "leveysaste": 61.172223,
+      "pituusaste": 25.541932,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 9,
+      "nimi": "Attendo Hammaslääkäri Kamppi",
+      "leveysaste": 60.169792,
+      "pituusaste": 24.924615,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 10,
+      "nimi": "Buldent",
+      "leveysaste": 60.164254,
+      "pituusaste": 24.936013,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 11,
+      "nimi": "Carisma Dent",
+      "leveysaste": 60.162024,
+      "pituusaste": 24.912427,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 12,
+      "nimi": "Coronaria Hammasklinikka Hyrylä",
+      "leveysaste": 60.4,
+      "pituusaste": 25.02222,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 13,
+      "nimi": "Coronaria Hammasklinikka Kotka",
+      "leveysaste": 60.463615,
+      "pituusaste": 26.936092,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 14,
+      "nimi": "Coronaria hammasklinikka",
+      "leveysaste": 60.959597,
+      "pituusaste": 25.656467,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 15,
+      "nimi": "Coronaria hammasklinikka",
+      "leveysaste": 64.902672,
+      "pituusaste": 25.5378,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 16,
+      "nimi": "Densens",
+      "leveysaste": 62.246164,
+      "pituusaste": 25.748223,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 17,
+      "nimi": "DentHouse",
+      "leveysaste": 60.983176,
+      "pituusaste": 25.659222,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 18,
+      "nimi": "Dentaalipalvelu",
+      "leveysaste": 62.893037,
+      "pituusaste": 27.679834,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 19,
+      "nimi": "Dentalia",
+      "leveysaste": 60.450124,
+      "pituusaste": 22.292129,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 20,
+      "nimi": "Dentalia",
+      "leveysaste": 60.450128,
+      "pituusaste": 22.292115,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 21,
+      "nimi": "Dentaurus",
+      "leveysaste": 60.197804,
+      "pituusaste": 24.896543,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 22,
+      "nimi": "Dentifex Oy",
+      "leveysaste": 61.0652,
+      "pituusaste": 28.229851,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 23,
+      "nimi": "Dentå",
+      "leveysaste": 60.450773,
+      "pituusaste": 22.269232,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 24,
+      "nimi": "Dextra Hammasklinikka",
+      "leveysaste": 61.495579,
+      "pituusaste": 23.771957,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 25,
+      "nimi": "Dick Nova",
+      "leveysaste": 61.056283,
+      "pituusaste": 24.374833,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 26,
+      "nimi": "Duodens Hammaslaboratorio",
+      "leveysaste": 60.197485,
+      "pituusaste": 24.937473,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 27,
+      "nimi": "Ebeling Hammaslääkärit",
+      "leveysaste": 60.293726,
+      "pituusaste": 25.041471,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 28,
+      "nimi": "Eerikin hammas",
+      "leveysaste": 60.452575,
+      "pituusaste": 22.271839,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 29,
+      "nimi": "Erikoishammasteknikko",
+      "leveysaste": 60.237206,
+      "pituusaste": 24.928512,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 30,
+      "nimi": "Erikoishammasteknikko",
+      "leveysaste": 60.633038,
+      "pituusaste": 24.860784,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 31,
+      "nimi": "Erikoishammasteknikko Aijan Hammas",
+      "leveysaste": 64.127765,
+      "pituusaste": 29.517615,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 32,
+      "nimi": "Erikoishammasteknikko Hannu Sirviö",
+      "leveysaste": 61.065189,
+      "pituusaste": 28.229789,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 33,
+      "nimi": "Erikoishammasteknikko Jouko Hannuksela",
+      "leveysaste": 63.930232,
+      "pituusaste": 24.962559,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 34,
+      "nimi": "Erikoishammasteknikko Jouko Karppinen",
+      "leveysaste": 64.127031,
+      "pituusaste": 29.5257,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 35,
+      "nimi": "Erikoishammasteknikko Jyrki Hämäläinen",
+      "leveysaste": 62.706517,
+      "pituusaste": 25.258207,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 36,
+      "nimi": "Erikoishammasteknikko Jyrki Saarimaa",
+      "leveysaste": 60.287736,
+      "pituusaste": 25.032185,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 37,
+      "nimi": "Erikoishammasteknikko Kari Ilvonen",
+      "leveysaste": 60.4621,
+      "pituusaste": 24.807241,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 38,
+      "nimi": "Erikoishammasteknikko Mika Heino",
+      "leveysaste": 60.819342,
+      "pituusaste": 23.628207,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 39,
+      "nimi": "Erikoishammasteknikko Ossi Vallemaa",
+      "leveysaste": 60.33354,
+      "pituusaste": 24.319698,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 40,
+      "nimi": "Erikoishammasteknikko Satu Koskela",
+      "leveysaste": 62.89203,
+      "pituusaste": 27.672571,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 41,
+      "nimi": "Erikoishammasteknikko Tuula Komujärvi",
+      "leveysaste": 64.071366,
+      "pituusaste": 24.536008,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 42,
+      "nimi": "Esa Ontero",
+      "leveysaste": 65.176077,
+      "pituusaste": 25.35082,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 43,
+      "nimi": "Espoon hammaspalvelu",
+      "leveysaste": 60.175671,
+      "pituusaste": 24.733673,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 44,
+      "nimi": "Espoon keskuksen hammaslääkärit",
+      "leveysaste": 60.207322,
+      "pituusaste": 24.654454,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 45,
+      "nimi": "Etelä-Hervannan koulun hammashoitola",
+      "leveysaste": 61.443107,
+      "pituusaste": 23.850164,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 46,
+      "nimi": "Forssan Hammaslääkäriasema",
+      "leveysaste": 60.819286,
+      "pituusaste": 23.628105,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 47,
+      "nimi": "Fredent",
+      "leveysaste": 60.171818,
+      "pituusaste": 24.926975,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 48,
+      "nimi": "Gloss Laservalkaisu",
+      "leveysaste": 60.172723,
+      "pituusaste": 24.953412,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 49,
+      "nimi": "Granntanden",
+      "leveysaste": 60.100961,
+      "pituusaste": 19.939226,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 50,
+      "nimi": "Granntanden",
+      "leveysaste": 60.231022,
+      "pituusaste": 19.988229,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 51,
+      "nimi": "HUS",
+      "leveysaste": 60.1643,
+      "pituusaste": 24.937372,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 52,
+      "nimi": "Hakunilan Hammaslääkäriasema",
+      "leveysaste": 60.273921,
+      "pituusaste": 25.106463,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 53,
+      "nimi": "Haminan klaupuunki hammashoitola",
+      "leveysaste": 60.568213,
+      "pituusaste": 27.195305,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 54,
+      "nimi": "Hammas Hohde",
+      "leveysaste": 60.176673,
+      "pituusaste": 24.803358,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 55,
+      "nimi": "Hammas Mehiläinen",
+      "leveysaste": 60.160396,
+      "pituusaste": 24.739265,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 56,
+      "nimi": "Hammas Mehiläinen",
+      "leveysaste": 60.177369,
+      "pituusaste": 24.923756,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 57,
+      "nimi": "Hammas Mehiläinen",
+      "leveysaste": 60.452573,
+      "pituusaste": 22.265467,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 58,
+      "nimi": "Hammas Mehiläinen",
+      "leveysaste": 62.790083,
+      "pituusaste": 22.843834,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 59,
+      "nimi": "Hammas Mehiläinen",
+      "leveysaste": 63.558358,
+      "pituusaste": 27.186412,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 60,
+      "nimi": "Hammas Mehiläinen Helsinki Ympyrätalo",
+      "leveysaste": 60.180062,
+      "pituusaste": 24.949213,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 61,
+      "nimi": "Hammas Mehiläinen Hämeenlinna",
+      "leveysaste": 60.995624,
+      "pituusaste": 24.466797,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 62,
+      "nimi": "Hammas Mehiläinen Leanportti",
+      "leveysaste": 60.201704,
+      "pituusaste": 24.924431,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 63,
+      "nimi": "Hammas Mehiläinen Tampere Hämeenkatu",
+      "leveysaste": 61.498883,
+      "pituusaste": 23.769911,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 64,
+      "nimi": "Hammas Mehiläinen Tapiola",
+      "leveysaste": 60.175732,
+      "pituusaste": 24.803528,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 65,
+      "nimi": "HammasArena",
+      "leveysaste": 61.058133,
+      "pituusaste": 28.193215,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 66,
+      "nimi": "Hammasasema Aldente",
+      "leveysaste": 60.570775,
+      "pituusaste": 22.095859,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 67,
+      "nimi": "Hammasasema Otonpoli",
+      "leveysaste": 62.239874,
+      "pituusaste": 25.755535,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 68,
+      "nimi": "Hammashoitola",
+      "leveysaste": 60.389944,
+      "pituusaste": 23.118407,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 69,
+      "nimi": "Hammashoitola Megadent",
+      "leveysaste": 60.181749,
+      "pituusaste": 24.948347,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 70,
+      "nimi": "Hammashoiva",
+      "leveysaste": 61.465959,
+      "pituusaste": 23.643297,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 71,
+      "nimi": "Hammashoiva Kauhajoki",
+      "leveysaste": 62.426114,
+      "pituusaste": 22.178601,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 72,
+      "nimi": "Hammaskeskus Vilhelmi Leppävirta",
+      "leveysaste": 62.492374,
+      "pituusaste": 27.790725,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 73,
+      "nimi": "Hammaskeskus Vilhelmi Petonen",
+      "leveysaste": 62.838769,
+      "pituusaste": 27.637566,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 74,
+      "nimi": "Hammasklinikka Espa",
+      "leveysaste": 60.166747,
+      "pituusaste": 24.945047,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 75,
+      "nimi": "Hammasklinikka Kruunu",
+      "leveysaste": 61.497426,
+      "pituusaste": 23.759292,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 76,
+      "nimi": "Hammasklinikka Rytivaara",
+      "leveysaste": 63.838893,
+      "pituusaste": 23.129929,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 77,
+      "nimi": "Hammasklinikka Tuomi",
+      "leveysaste": 60.485052,
+      "pituusaste": 22.163701,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 78,
+      "nimi": "Hammaskulma",
+      "leveysaste": 60.449888,
+      "pituusaste": 22.257639,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 79,
+      "nimi": "Hammaskulma Pattijoki",
+      "leveysaste": 64.687075,
+      "pituusaste": 24.546038,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 80,
+      "nimi": "Hammaskulma oy",
+      "leveysaste": 62.89271,
+      "pituusaste": 27.681858,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 81,
+      "nimi": "Hammaslaboratorio Andrea Mineo",
+      "leveysaste": 60.172166,
+      "pituusaste": 24.926877,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 82,
+      "nimi": "Hammaslaboratorio Hammas-Laakso ky",
+      "leveysaste": 61.201943,
+      "pituusaste": 26.032525,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 83,
+      "nimi": "Hammaslaboratorio Kaj Sani",
+      "leveysaste": 60.207164,
+      "pituusaste": 25.080451,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 84,
+      "nimi": "Hammaslaboratorio P. Hemminki",
+      "leveysaste": 63.100203,
+      "pituusaste": 23.062315,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 85,
+      "nimi": "Hammaslaboratorio Veli Heikkinen",
+      "leveysaste": 65.011308,
+      "pituusaste": 25.482565,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 86,
+      "nimi": "Hammaslili",
+      "leveysaste": 63.075629,
+      "pituusaste": 27.661294,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 87,
+      "nimi": "Hammaslinja",
+      "leveysaste": 63.074407,
+      "pituusaste": 27.658286,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 88,
+      "nimi": "Hammaslääkäri",
+      "leveysaste": 62.979075,
+      "pituusaste": 22.009977,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 89,
+      "nimi": "Hammaslääkäri Ali Nawaz",
+      "leveysaste": 60.236388,
+      "pituusaste": 25.083109,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 90,
+      "nimi": "Hammaslääkäri Antero Suvela",
+      "leveysaste": 64.683445,
+      "pituusaste": 24.476852,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 91,
+      "nimi": "Hammaslääkäri Irmeli Korpi-Anttila",
+      "leveysaste": 60.128851,
+      "pituusaste": 24.47588,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 92,
+      "nimi": "Hammaslääkäri Kirsi Paloheimo",
+      "leveysaste": 60.278511,
+      "pituusaste": 25.103788,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 93,
+      "nimi": "Hammaslääkäri Leena Simola",
+      "leveysaste": 60.888202,
+      "pituusaste": 26.341819,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 94,
+      "nimi": "Hammaslääkäri Mehiläinen",
+      "leveysaste": 61.058616,
+      "pituusaste": 28.18311,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 95,
+      "nimi": "Hammaslääkäri Mika Mondolin",
+      "leveysaste": 61.170529,
+      "pituusaste": 25.554309,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 96,
+      "nimi": "Hammaslääkäri Pentti Calonius",
+      "leveysaste": 60.165161,
+      "pituusaste": 24.938982,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 97,
+      "nimi": "Hammaslääkäri Pirjo Heinonen",
+      "leveysaste": 61.201238,
+      "pituusaste": 26.03202,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 98,
+      "nimi": "Hammaslääkäri Plus Terveys",
+      "leveysaste": 63.930248,
+      "pituusaste": 24.959142,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 99,
+      "nimi": "Hammaslääkäri Timo Nieminen",
+      "leveysaste": 61.202255,
+      "pituusaste": 26.033439,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 100,
+      "nimi": "Hammaslääkäri Tuomas Parkkinen",
+      "leveysaste": 64.128062,
+      "pituusaste": 29.519985,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 101,
+      "nimi": "Hammaslääkäriasema",
+      "leveysaste": 61.056472,
+      "pituusaste": 28.186074,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 102,
+      "nimi": "Hammaslääkäriasema Fixora",
+      "leveysaste": 60.457011,
+      "pituusaste": 26.227285,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 103,
+      "nimi": "Hammaslääkäriasema Hammasvelho",
+      "leveysaste": 60.564067,
+      "pituusaste": 27.162658,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 104,
+      "nimi": "Hammaslääkäriasema Omppu Oy",
+      "leveysaste": 60.404544,
+      "pituusaste": 25.101985,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 105,
+      "nimi": "Hammaslääkäriasema Otso",
+      "leveysaste": 62.604108,
+      "pituusaste": 29.766022,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 106,
+      "nimi": "Hammaslääkäriasema Ruohonjuuri",
+      "leveysaste": 60.161059,
+      "pituusaste": 24.913795,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 107,
+      "nimi": "Hammaslääkärikeskus Jouheva",
+      "leveysaste": 64.072401,
+      "pituusaste": 24.536354,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 108,
+      "nimi": "Hammaslääkärikeskus Jouheva",
+      "leveysaste": 64.684868,
+      "pituusaste": 24.476439,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 109,
+      "nimi": "Hammaslääkärikeskus Pellavanhammas Oy",
+      "leveysaste": 61.505304,
+      "pituusaste": 23.764143,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 110,
+      "nimi": "Hammaslääkäriklinikka Huippu",
+      "leveysaste": 60.994792,
+      "pituusaste": 24.460537,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 111,
+      "nimi": "Hammaslääkärit Suominen Stranden Kalle, Kitti",
+      "leveysaste": 60.165594,
+      "pituusaste": 24.952319,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 112,
+      "nimi": "Hammaspalvelu Karelia Oy",
+      "leveysaste": 62.60042,
+      "pituusaste": 29.75395,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 113,
+      "nimi": "Hammassilta",
+      "leveysaste": 63.314238,
+      "pituusaste": 30.033055,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 114,
+      "nimi": "Hammassirkku",
+      "leveysaste": 62.245958,
+      "pituusaste": 25.744884,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 115,
+      "nimi": "Hammassirkku Palokka",
+      "leveysaste": 62.286906,
+      "pituusaste": 25.71169,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 116,
+      "nimi": "Hammasteknikko Heinonen Elina",
+      "leveysaste": 60.236367,
+      "pituusaste": 25.083015,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 117,
+      "nimi": "Hammastuttava Oy",
+      "leveysaste": 64.68476,
+      "pituusaste": 24.476447,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 118,
+      "nimi": "Hammasvelho",
+      "leveysaste": 60.623142,
+      "pituusaste": 26.198569,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 119,
+      "nimi": "Hammasvelho",
+      "leveysaste": 60.987115,
+      "pituusaste": 25.510497,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 120,
+      "nimi": "Hankasalmen hammashoitola",
+      "leveysaste": 62.395721,
+      "pituusaste": 26.432189,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 121,
+      "nimi": "Harrin Hammas",
+      "leveysaste": 62.625426,
+      "pituusaste": 27.122707,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 122,
+      "nimi": "Harrin hammas",
+      "leveysaste": 62.624567,
+      "pituusaste": 27.126834,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 123,
+      "nimi": "Haukilahden hammashoitola",
+      "leveysaste": 60.162296,
+      "pituusaste": 24.776673,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 124,
+      "nimi": "Haukiputaan Hammaslääkäriasema",
+      "leveysaste": 65.177104,
+      "pituusaste": 25.352654,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 125,
+      "nimi": "Heinolan Hammas",
+      "leveysaste": 61.203206,
+      "pituusaste": 26.031526,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 126,
+      "nimi": "Herttoniemen Hammaslääkärikeskus",
+      "leveysaste": 60.192861,
+      "pituusaste": 25.029253,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 127,
+      "nimi": "Herttoniemen hammaspaikka",
+      "leveysaste": 60.19501,
+      "pituusaste": 25.029921,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 128,
+      "nimi": "Herttoniemenrannan hammashoitola",
+      "leveysaste": 60.191041,
+      "pituusaste": 25.032374,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 129,
+      "nimi": "Hirvikosken hammashoitola",
+      "leveysaste": 60.868648,
+      "pituusaste": 22.984644,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 130,
+      "nimi": "Hohde",
+      "leveysaste": 60.154643,
+      "pituusaste": 24.634576,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 131,
+      "nimi": "Hohde",
+      "leveysaste": 60.161025,
+      "pituusaste": 24.739236,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 132,
+      "nimi": "Hohde",
+      "leveysaste": 60.161038,
+      "pituusaste": 24.73922,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 133,
+      "nimi": "Hohde",
+      "leveysaste": 60.45617,
+      "pituusaste": 22.686738,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 134,
+      "nimi": "Hohde",
+      "leveysaste": 62.242143,
+      "pituusaste": 25.752987,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 135,
+      "nimi": "Hohde Hietalahti",
+      "leveysaste": 60.16068,
+      "pituusaste": 24.930516,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 136,
+      "nimi": "Hohde Kangasniemi",
+      "leveysaste": 61.989972,
+      "pituusaste": 26.643039,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 137,
+      "nimi": "Hohde Palokka",
+      "leveysaste": 62.287581,
+      "pituusaste": 25.74142,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 138,
+      "nimi": "Hohde Vantaa",
+      "leveysaste": 60.294114,
+      "pituusaste": 25.032293,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 139,
+      "nimi": "Hohde erikoishammaslääkäriklinikka",
+      "leveysaste": 62.59703,
+      "pituusaste": 29.759303,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 140,
+      "nimi": "Hymyhammas",
+      "leveysaste": 60.449605,
+      "pituusaste": 22.267409,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 141,
+      "nimi": "Hymykeskus Ruoholahti",
+      "leveysaste": 60.161461,
+      "pituusaste": 24.91544,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 142,
+      "nimi": "Hyrylän hammas",
+      "leveysaste": 60.400249,
+      "pituusaste": 25.020475,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 143,
+      "nimi": "Hämeentien hammaskeskus 24h",
+      "leveysaste": 60.187522,
+      "pituusaste": 24.964105,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 144,
+      "nimi": "Hätilän hammashoitola",
+      "leveysaste": 61.002785,
+      "pituusaste": 24.488565,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 145,
+      "nimi": "Ihalan hammashoitola",
+      "leveysaste": 60.472483,
+      "pituusaste": 22.172856,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 146,
+      "nimi": "Iin hammashoitola",
+      "leveysaste": 65.323089,
+      "pituusaste": 25.375567,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 147,
+      "nimi": "Ilmajoen hammashoitola",
+      "leveysaste": 62.737052,
+      "pituusaste": 22.570547,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 148,
+      "nimi": "Itäväylän Hammaslääkärit",
+      "leveysaste": 60.210392,
+      "pituusaste": 25.08054,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 149,
+      "nimi": "Joensuun Hammaskeskus Oy",
+      "leveysaste": 62.598439,
+      "pituusaste": 29.761964,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 150,
+      "nimi": "Jokivarren hammashoitola",
+      "leveysaste": 60.80542,
+      "pituusaste": 25.74589,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 151,
+      "nimi": "Kaikukadun hammaslääkärit",
+      "leveysaste": 60.183093,
+      "pituusaste": 24.958948,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 152,
+      "nimi": "Kaivopuiston hammaslääkäriasema",
+      "leveysaste": 60.160553,
+      "pituusaste": 24.954988,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 153,
+      "nimi": "Kankaantaan hammashoitola",
+      "leveysaste": 61.484625,
+      "pituusaste": 23.518354,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 154,
+      "nimi": "Kantvikin koulun hammashoitola",
+      "leveysaste": 60.090494,
+      "pituusaste": 24.398119,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 155,
+      "nimi": "Karijoen hammashoitola",
+      "leveysaste": 62.306172,
+      "pituusaste": 21.707077,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 156,
+      "nimi": "Kasarmikadun Hammasklinikka",
+      "leveysaste": 60.99584,
+      "pituusaste": 24.461544,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 157,
+      "nimi": "Kauhajoen hammashoitola",
+      "leveysaste": 62.42544,
+      "pituusaste": 22.170335,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 158,
+      "nimi": "Kauklahden hammaslääkärit",
+      "leveysaste": 60.191532,
+      "pituusaste": 24.602415,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 159,
+      "nimi": "Kerttulin Vanhainkodin hammashoitola",
+      "leveysaste": 60.450552,
+      "pituusaste": 22.28065,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 160,
+      "nimi": "Keskusaukion hammashoitola",
+      "leveysaste": 60.250729,
+      "pituusaste": 24.065192,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 161,
+      "nimi": "Keskushammashoitola",
+      "leveysaste": 60.630572,
+      "pituusaste": 24.853617,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 162,
+      "nimi": "Keskushammashoitola",
+      "leveysaste": 61.129647,
+      "pituusaste": 21.523898,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 163,
+      "nimi": "Keskushammashoitola",
+      "leveysaste": 61.493747,
+      "pituusaste": 21.798981,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 164,
+      "nimi": "Kilon Hammaslääkärit",
+      "leveysaste": 60.21189,
+      "pituusaste": 24.767913,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 165,
+      "nimi": "Kimito tandvård",
+      "leveysaste": 60.16715,
+      "pituusaste": 22.715879,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 166,
+      "nimi": "Kirkkokadun hammaslääkärit",
+      "leveysaste": 62.601801,
+      "pituusaste": 29.760454,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 167,
+      "nimi": "Kirkonkylän hammashoitola",
+      "leveysaste": 61.45928,
+      "pituusaste": 23.592062,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 168,
+      "nimi": "Kivistön hammashoitola",
+      "leveysaste": 60.313563,
+      "pituusaste": 24.846962,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 169,
+      "nimi": "Kokko-Dent",
+      "leveysaste": 63.838401,
+      "pituusaste": 23.132795,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 170,
+      "nimi": "Korson hammas",
+      "leveysaste": 60.350994,
+      "pituusaste": 25.076592,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 171,
+      "nimi": "Korson keskustan hammashoitola",
+      "leveysaste": 60.349703,
+      "pituusaste": 25.074782,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 172,
+      "nimi": "Koskelan Hammas",
+      "leveysaste": 60.213912,
+      "pituusaste": 24.959208,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 173,
+      "nimi": "KotiHammas",
+      "leveysaste": 61.495621,
+      "pituusaste": 23.77684,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 174,
+      "nimi": "KotiHammas Munkkiniemi",
+      "leveysaste": 60.19773,
+      "pituusaste": 24.883872,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 175,
+      "nimi": "Kotihammas Myyrmäki",
+      "leveysaste": 60.25991,
+      "pituusaste": 24.850223,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 176,
+      "nimi": "Kouvolan Hammastiimi",
+      "leveysaste": 60.867595,
+      "pituusaste": 26.713483,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 177,
+      "nimi": "Kukontorin Hammaslääkärit",
+      "leveysaste": 60.168889,
+      "pituusaste": 24.93733,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 178,
+      "nimi": "Kultakartanon hammashoitola",
+      "leveysaste": 60.245418,
+      "pituusaste": 24.053351,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 179,
+      "nimi": "Kummun Hammas Oy",
+      "leveysaste": 62.726222,
+      "pituusaste": 29.016733,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 180,
+      "nimi": "Käsityöläiskadun hammashoitola",
+      "leveysaste": 60.448541,
+      "pituusaste": 22.259,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 181,
+      "nimi": "Lakeuden Hammaskulma",
+      "leveysaste": 62.788835,
+      "pituusaste": 22.846634,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 182,
+      "nimi": "Laukaan hammashoitola",
+      "leveysaste": 62.40895,
+      "pituusaste": 25.949893,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 183,
+      "nimi": "Launeen hammashoitola",
+      "leveysaste": 60.963551,
+      "pituusaste": 25.652945,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 184,
+      "nimi": "Lempäälän Hammaslääkäriasema",
+      "leveysaste": 61.313261,
+      "pituusaste": 23.753038,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 185,
+      "nimi": "Lempäälän hammashoitola",
+      "leveysaste": 61.31631,
+      "pituusaste": 23.749714,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 186,
+      "nimi": "Leppäkorven koulun hammashoitola",
+      "leveysaste": 60.357085,
+      "pituusaste": 25.083562,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 187,
+      "nimi": "Loimaan pääterveysaseman hammashoitola",
+      "leveysaste": 60.851863,
+      "pituusaste": 23.051534,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 188,
+      "nimi": "Loisto",
+      "leveysaste": 60.17176,
+      "pituusaste": 24.956292,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 189,
+      "nimi": "Loisto",
+      "leveysaste": 60.983124,
+      "pituusaste": 25.659208,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 190,
+      "nimi": "Loisto",
+      "leveysaste": 62.287454,
+      "pituusaste": 25.741282,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 191,
+      "nimi": "Lotilan hammashoitola",
+      "leveysaste": 60.978801,
+      "pituusaste": 25.666306,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 192,
+      "nimi": "Lyseonpuiston Hammasasema",
+      "leveysaste": 66.500507,
+      "pituusaste": 25.724524,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 193,
+      "nimi": "Länsikeskuksen hammaslääkärit",
+      "leveysaste": 60.473429,
+      "pituusaste": 22.230131,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 194,
+      "nimi": "Länsirannan hammaslääkärit",
+      "leveysaste": 60.3862,
+      "pituusaste": 23.12698,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 195,
+      "nimi": "Länsituulen hammaslääkäriasema",
+      "leveysaste": 60.17543,
+      "pituusaste": 24.802942,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 196,
+      "nimi": "Malminkartanon terveysaseman hammashoitola",
+      "leveysaste": 60.247328,
+      "pituusaste": 24.864393,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 197,
+      "nimi": "Mansikkapaikka",
+      "leveysaste": 62.60339,
+      "pituusaste": 29.76036,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 198,
+      "nimi": "MarjoDent",
+      "leveysaste": 60.093614,
+      "pituusaste": 24.410123,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 199,
+      "nimi": "MedGroup Espan Hammaslääkärikeskus",
+      "leveysaste": 60.165352,
+      "pituusaste": 24.942246,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 200,
+      "nimi": "MediSmile",
+      "leveysaste": 60.271551,
+      "pituusaste": 24.80647,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 201,
+      "nimi": "Megaklinikka",
+      "leveysaste": 60.168249,
+      "pituusaste": 24.930651,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 202,
+      "nimi": "Meriportin Hammaslääkärit",
+      "leveysaste": 60.565969,
+      "pituusaste": 27.194197,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 203,
+      "nimi": "Messukylän Hammaslääkäriasema",
+      "leveysaste": 61.489242,
+      "pituusaste": 23.854142,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 204,
+      "nimi": "Mikkolan hammashoitola",
+      "leveysaste": 60.342638,
+      "pituusaste": 25.09274,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 205,
+      "nimi": "Miun paikka hammasklinikka",
+      "leveysaste": 62.6017,
+      "pituusaste": 29.760943,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 206,
+      "nimi": "Moikoisten hammaslääkäri",
+      "leveysaste": 60.412051,
+      "pituusaste": 22.237173,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 207,
+      "nimi": "Mouhijärven hammashoitola",
+      "leveysaste": 61.512813,
+      "pituusaste": 23.001346,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 208,
+      "nimi": "Mullintien hammashoitola",
+      "leveysaste": 60.471591,
+      "pituusaste": 22.27362,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 209,
+      "nimi": "Mullintien hammashoitola",
+      "leveysaste": 60.471607,
+      "pituusaste": 22.273631,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 210,
+      "nimi": "Munkkiniemen Hammaslääkärit",
+      "leveysaste": 60.197606,
+      "pituusaste": 24.880509,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 211,
+      "nimi": "Myllypuron hammashoitola",
+      "leveysaste": 60.225871,
+      "pituusaste": 25.076529,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 212,
+      "nimi": "Mynämäen Hammaslääkärikeskus",
+      "leveysaste": 60.676607,
+      "pituusaste": 21.994656,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 213,
+      "nimi": "Myyrmäen Hammaslääkäriasema",
+      "leveysaste": 60.260869,
+      "pituusaste": 24.852695,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 214,
+      "nimi": "Mäntynummen hammashoitola",
+      "leveysaste": 60.271856,
+      "pituusaste": 24.128387,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 215,
+      "nimi": "Niinivaaran hammashoitola",
+      "leveysaste": 62.589302,
+      "pituusaste": 29.788832,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 216,
+      "nimi": "Nikkilän terveyskeskuksen hammaslääkäri",
+      "leveysaste": 60.377369,
+      "pituusaste": 25.26615,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 217,
+      "nimi": "Noormarkun hammaslääkäriasema",
+      "leveysaste": 61.591201,
+      "pituusaste": 21.87544,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 218,
+      "nimi": "Nurmijärven hammaslääkäriasema",
+      "leveysaste": 60.465084,
+      "pituusaste": 24.809567,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 219,
+      "nimi": "NyDent Hammasklinikka",
+      "leveysaste": 63.112305,
+      "pituusaste": 21.679558,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 220,
+      "nimi": "OK-Hammas",
+      "leveysaste": 60.229847,
+      "pituusaste": 24.96462,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 221,
+      "nimi": "OP-Talon Hammaslääkärikeskus",
+      "leveysaste": 60.853449,
+      "pituusaste": 23.054164,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 222,
+      "nimi": "Ogadent hammaslaboratori",
+      "leveysaste": 60.207642,
+      "pituusaste": 25.140216,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 223,
+      "nimi": "Onnellinen hymy",
+      "leveysaste": 61.865016,
+      "pituusaste": 28.897003,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 224,
+      "nimi": "Opushammas",
+      "leveysaste": 60.193331,
+      "pituusaste": 25.032907,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 225,
+      "nimi": "Oral",
+      "leveysaste": 59.978466,
+      "pituusaste": 23.437139,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 226,
+      "nimi": "Oral",
+      "leveysaste": 60.184872,
+      "pituusaste": 24.922049,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 227,
+      "nimi": "Oral",
+      "leveysaste": 60.237403,
+      "pituusaste": 24.891533,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 228,
+      "nimi": "Oral",
+      "leveysaste": 60.331229,
+      "pituusaste": 24.320369,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 229,
+      "nimi": "Oral",
+      "leveysaste": 60.450991,
+      "pituusaste": 22.256903,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 230,
+      "nimi": "Oral",
+      "leveysaste": 60.453011,
+      "pituusaste": 22.286441,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 231,
+      "nimi": "Oral",
+      "leveysaste": 60.63276,
+      "pituusaste": 24.86512,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 232,
+      "nimi": "Oral",
+      "leveysaste": 60.983198,
+      "pituusaste": 25.658501,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 233,
+      "nimi": "Oral",
+      "leveysaste": 62.301064,
+      "pituusaste": 27.161984,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 234,
+      "nimi": "Oral",
+      "leveysaste": 62.894244,
+      "pituusaste": 27.679457,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 235,
+      "nimi": "Oral",
+      "leveysaste": 63.836376,
+      "pituusaste": 23.130851,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 236,
+      "nimi": "Oral",
+      "leveysaste": 65.075383,
+      "pituusaste": 25.444827,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 237,
+      "nimi": "Oral Hammaslaboratorio Erikoishammasteknikko",
+      "leveysaste": 62.300421,
+      "pituusaste": 27.158797,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 238,
+      "nimi": "Oral Hammaslääkärit",
+      "leveysaste": 60.176335,
+      "pituusaste": 24.80472,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 239,
+      "nimi": "Oral Hammaslääkärit",
+      "leveysaste": 60.210649,
+      "pituusaste": 25.078894,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 240,
+      "nimi": "Oral Hammaslääkärit",
+      "leveysaste": 60.291431,
+      "pituusaste": 25.03612,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 241,
+      "nimi": "Oral Hammaslääkärit",
+      "leveysaste": 60.908231,
+      "pituusaste": 26.626041,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 242,
+      "nimi": "Oral Hammaslääkärit",
+      "leveysaste": 64.260299,
+      "pituusaste": 23.951735,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 243,
+      "nimi": "Oral Hammaslääkärit",
+      "leveysaste": 65.010007,
+      "pituusaste": 25.47731,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 244,
+      "nimi": "Oral Hammaslääkärit Hämeenlinna",
+      "leveysaste": 60.994765,
+      "pituusaste": 24.464033,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 245,
+      "nimi": "Oral Hammaslääkärit Jyväskylä Seppälä",
+      "leveysaste": 62.261153,
+      "pituusaste": 25.772389,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 246,
+      "nimi": "Oral Hammaslääkärit Niittykumpu",
+      "leveysaste": 60.170237,
+      "pituusaste": 24.763928,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 247,
+      "nimi": "Oral Hammaslääkärit Niittykumpu",
+      "leveysaste": 60.170244,
+      "pituusaste": 24.76392,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 248,
+      "nimi": "Oral Hammaslääkärit Viherlaakso",
+      "leveysaste": 60.228367,
+      "pituusaste": 24.742201,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 249,
+      "nimi": "Oral Korso",
+      "leveysaste": 60.349132,
+      "pituusaste": 25.074469,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 250,
+      "nimi": "Oral hammaslääkärit Vitadent",
+      "leveysaste": 60.125302,
+      "pituusaste": 24.436076,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 251,
+      "nimi": "Otavankadun Hammaslääkäriasema Oy",
+      "leveysaste": 61.487428,
+      "pituusaste": 21.791449,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 252,
+      "nimi": "Oulunkylän terveysaseman hammashoitola",
+      "leveysaste": 60.227657,
+      "pituusaste": 24.964344,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 253,
+      "nimi": "Oulunsalon Hammaslääkärikeskus Oy",
+      "leveysaste": 64.934482,
+      "pituusaste": 25.411832,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 254,
+      "nimi": "PR-Hammas Oy",
+      "leveysaste": 61.060273,
+      "pituusaste": 28.194029,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 255,
+      "nimi": "Pappilanpellon hammashoitola",
+      "leveysaste": 60.413591,
+      "pituusaste": 24.321822,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 256,
+      "nimi": "Parolan Kulmahammas",
+      "leveysaste": 61.055876,
+      "pituusaste": 24.375075,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 257,
+      "nimi": "Pasilan hammashoito",
+      "leveysaste": 60.198144,
+      "pituusaste": 24.941108,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 258,
+      "nimi": "Peräseinäjoen hammashoitola",
+      "leveysaste": 62.560547,
+      "pituusaste": 23.062936,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 259,
+      "nimi": "Pielisen Purenta",
+      "leveysaste": 63.542289,
+      "pituusaste": 29.138681,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 260,
+      "nimi": "Pihjlajanmäen hammaslääkäriasema",
+      "leveysaste": 60.236507,
+      "pituusaste": 25.007512,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 261,
+      "nimi": "Pihlajalinna",
+      "leveysaste": 60.168306,
+      "pituusaste": 24.942475,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 262,
+      "nimi": "Pihlajamäen terveysasema",
+      "leveysaste": 60.23423,
+      "pituusaste": 25.009972,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 263,
+      "nimi": "Pihlajanmäen Aurinkohammas",
+      "leveysaste": 60.236347,
+      "pituusaste": 25.007788,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 264,
+      "nimi": "Pikku Huopalahden Hammaslääkäriasema Tandex Oy",
+      "leveysaste": 60.20574,
+      "pituusaste": 24.892187,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 265,
+      "nimi": "PlusTerveys",
+      "leveysaste": 60.982315,
+      "pituusaste": 25.662425,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 266,
+      "nimi": "PlusTerveys",
+      "leveysaste": 61.314503,
+      "pituusaste": 22.145948,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 267,
+      "nimi": "PlusTerveys",
+      "leveysaste": 65.07559,
+      "pituusaste": 25.445545,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 268,
+      "nimi": "PlusTerveys - Aseman hammaslääkärit",
+      "leveysaste": 60.866777,
+      "pituusaste": 26.706133,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 269,
+      "nimi": "PlusTerveys Euran Hammas",
+      "leveysaste": 61.12998,
+      "pituusaste": 22.14112,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 270,
+      "nimi": "PlusTerveys Kallion Hammaslääkäriasema",
+      "leveysaste": 60.182015,
+      "pituusaste": 24.951539,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 271,
+      "nimi": "PlusTerveys Pukinmäen Hammas",
+      "leveysaste": 60.242318,
+      "pituusaste": 24.992248,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 272,
+      "nimi": "PlusTerveys TammiHammas",
+      "leveysaste": 63.000073,
+      "pituusaste": 23.818483,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 273,
+      "nimi": "Plusterveys Kirsi Karttunen",
+      "leveysaste": 62.88982,
+      "pituusaste": 27.680621,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 274,
+      "nimi": "Pohjois-Porin hammashoitola",
+      "leveysaste": 61.493295,
+      "pituusaste": 21.798929,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 275,
+      "nimi": "Pojo tandklinik",
+      "leveysaste": 60.097295,
+      "pituusaste": 23.523934,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 276,
+      "nimi": "Porolahden hammashoitola",
+      "leveysaste": 60.194676,
+      "pituusaste": 25.052888,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 277,
+      "nimi": "Postitalon Hammaslääkärit",
+      "leveysaste": 60.171986,
+      "pituusaste": 24.938419,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 278,
+      "nimi": "Pretty Smile Oy",
+      "leveysaste": 60.262549,
+      "pituusaste": 24.851907,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 279,
+      "nimi": "Puistolan hammashoitola",
+      "leveysaste": 60.275588,
+      "pituusaste": 25.034481,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 280,
+      "nimi": "Puumedi",
+      "leveysaste": 60.764411,
+      "pituusaste": 26.784091,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 281,
+      "nimi": "Pyynpään hammashoitola",
+      "leveysaste": 61.141587,
+      "pituusaste": 21.51631,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 282,
+      "nimi": "Raahen hammashoitola",
+      "leveysaste": 64.693706,
+      "pituusaste": 24.474427,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 283,
+      "nimi": "Rantakylän hammashoitola",
+      "leveysaste": 62.614305,
+      "pituusaste": 29.816544,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 284,
+      "nimi": "Rastilan Erikoishammasteknikot",
+      "leveysaste": 60.205377,
+      "pituusaste": 25.123256,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 285,
+      "nimi": "Rautalammin hammashoitola",
+      "leveysaste": 62.617529,
+      "pituusaste": 26.854031,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 286,
+      "nimi": "Royal Dent",
+      "leveysaste": 60.189145,
+      "pituusaste": 24.917736,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 287,
+      "nimi": "Ruskon Hammashoitola",
+      "leveysaste": 60.53993,
+      "pituusaste": 22.218666,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 288,
+      "nimi": "Ruusulinnan hammashoitola",
+      "leveysaste": 60.215091,
+      "pituusaste": 24.806589,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 289,
+      "nimi": "Saarenhammas",
+      "leveysaste": 65.848929,
+      "pituusaste": 24.1495,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 290,
+      "nimi": "Saarenputaa hammashoitola",
+      "leveysaste": 66.522718,
+      "pituusaste": 25.783463,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 291,
+      "nimi": "Salon aluesairaala, Hammashoitola",
+      "leveysaste": 60.374896,
+      "pituusaste": 23.127257,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 292,
+      "nimi": "Sampolan hammashoitola",
+      "leveysaste": 60.401774,
+      "pituusaste": 25.105939,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 293,
+      "nimi": "Sateenkaaren Hammas Karkkila",
+      "leveysaste": 60.535567,
+      "pituusaste": 24.213668,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 294,
+      "nimi": "Sateenkaaren Hammas Oy",
+      "leveysaste": 60.417425,
+      "pituusaste": 24.317876,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 295,
+      "nimi": "Satuhammas",
+      "leveysaste": 60.177748,
+      "pituusaste": 24.945989,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 296,
+      "nimi": "Satuhammas",
+      "leveysaste": 60.35035,
+      "pituusaste": 25.07451,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 297,
+      "nimi": "Saviniemen hammashoitola",
+      "leveysaste": 60.577417,
+      "pituusaste": 27.177304,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 298,
+      "nimi": "Seinäjoen hammashoitola",
+      "leveysaste": 62.790751,
+      "pituusaste": 22.844768,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 299,
+      "nimi": "Sibi hammas",
+      "leveysaste": 60.631507,
+      "pituusaste": 24.851731,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 300,
+      "nimi": "Siilin Hammas",
+      "leveysaste": 63.072899,
+      "pituusaste": 27.661154,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 301,
+      "nimi": "Siilin hammaslääkäripalvelu",
+      "leveysaste": 63.074773,
+      "pituusaste": 27.659541,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 302,
+      "nimi": "Siuntion hammashoito",
+      "leveysaste": 60.135877,
+      "pituusaste": 24.229975,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 303,
+      "nimi": "Siuntion hammashoito",
+      "leveysaste": 60.135887,
+      "pituusaste": 24.229995,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 304,
+      "nimi": "Spider med",
+      "leveysaste": 61.314451,
+      "pituusaste": 23.753323,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 305,
+      "nimi": "Stardent / Itiksen Hammaskeskus",
+      "leveysaste": 60.209145,
+      "pituusaste": 25.087702,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 306,
+      "nimi": "Stickdent",
+      "leveysaste": 60.208304,
+      "pituusaste": 24.979434,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 307,
+      "nimi": "Stickdent",
+      "leveysaste": 60.208316,
+      "pituusaste": 24.979444,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 308,
+      "nimi": "Suonenjoen hammaskeskus",
+      "leveysaste": 62.627183,
+      "pituusaste": 27.117704,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 309,
+      "nimi": "Suuhygienisti Tiina Jurvainen",
+      "leveysaste": 60.450988,
+      "pituusaste": 22.258246,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 310,
+      "nimi": "Söderkullan hammashoitola",
+      "leveysaste": 60.297842,
+      "pituusaste": 25.331963,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 311,
+      "nimi": "Tammelan Hammas",
+      "leveysaste": 61.500154,
+      "pituusaste": 23.779318,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 312,
+      "nimi": "Tammelan hammashoitola",
+      "leveysaste": 61.50085,
+      "pituusaste": 23.782058,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 313,
+      "nimi": "TammerDent",
+      "leveysaste": 61.498208,
+      "pituusaste": 23.769808,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 314,
+      "nimi": "Tandalaboratorium",
+      "leveysaste": 59.977588,
+      "pituusaste": 23.441753,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 315,
+      "nimi": "Tandklinik Marja",
+      "leveysaste": 63.680857,
+      "pituusaste": 22.723326,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 316,
+      "nimi": "Tandkliniken",
+      "leveysaste": 60.099983,
+      "pituusaste": 19.941999,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 317,
+      "nimi": "Tandläkarna",
+      "leveysaste": 60.098168,
+      "pituusaste": 19.936793,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 318,
+      "nimi": "Tannlege",
+      "leveysaste": 69.399197,
+      "pituusaste": 25.850853,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 319,
+      "nimi": "Teknologiakylän Hammaslääkärit",
+      "leveysaste": 65.058376,
+      "pituusaste": 25.455187,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 320,
+      "nimi": "Tennistien hammashoitola",
+      "leveysaste": 60.301665,
+      "pituusaste": 25.055551,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 321,
+      "nimi": "Teppanan hammashoitola",
+      "leveysaste": 64.228412,
+      "pituusaste": 27.74226,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 322,
+      "nimi": "Terveysristeyksen hammashoitola",
+      "leveysaste": 60.480835,
+      "pituusaste": 22.167346,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 323,
+      "nimi": "Terveystalo Hammaslääkäripalvelut",
+      "leveysaste": 60.457465,
+      "pituusaste": 26.229006,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 324,
+      "nimi": "Terveystalo Itäkeskus hammaslääkäripalvelut",
+      "leveysaste": 60.208372,
+      "pituusaste": 25.081248,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 325,
+      "nimi": "Terveystalo Leppävaara hammaslääkäripalvelut",
+      "leveysaste": 60.218219,
+      "pituusaste": 24.814309,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 326,
+      "nimi": "Terveystalo Myyrmäki hammaslääkäripalvelut",
+      "leveysaste": 60.262623,
+      "pituusaste": 24.849824,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 327,
+      "nimi": "Terveystalo Ogeli hammaslääkäripalv.",
+      "leveysaste": 60.228717,
+      "pituusaste": 24.963149,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 328,
+      "nimi": "Terveystalo Savonlinna hammaslääkäripalvelut",
+      "leveysaste": 61.870498,
+      "pituusaste": 28.878214,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 329,
+      "nimi": "Terveystalo Seinäjoki hammaslääkäripalvelut",
+      "leveysaste": 62.788396,
+      "pituusaste": 22.833887,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 330,
+      "nimi": "Terveystalo hammaslääkäripalvelut",
+      "leveysaste": 61.498555,
+      "pituusaste": 23.766702,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 331,
+      "nimi": "Teuvan hammashoitola",
+      "leveysaste": 62.48413,
+      "pituusaste": 21.751165,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 332,
+      "nimi": "Tikkurilan lukion hammashoitola",
+      "leveysaste": 60.299497,
+      "pituusaste": 25.050381,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 333,
+      "nimi": "Tixident Oy",
+      "leveysaste": 60.294336,
+      "pituusaste": 25.03076,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 334,
+      "nimi": "Torgdent",
+      "leveysaste": 59.975684,
+      "pituusaste": 23.439907,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 335,
+      "nimi": "Torkinmäen hammashoitola",
+      "leveysaste": 63.840033,
+      "pituusaste": 23.159227,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 336,
+      "nimi": "Tuiran hammas",
+      "leveysaste": 65.024594,
+      "pituusaste": 25.468882,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 337,
+      "nimi": "Tullinkulman hammashoitola",
+      "leveysaste": 61.497691,
+      "pituusaste": 23.777949,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 338,
+      "nimi": "Tupoksen Hammashoitola",
+      "leveysaste": 64.859148,
+      "pituusaste": 25.466397,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 339,
+      "nimi": "Turengin terveysasema hammashoitola",
+      "leveysaste": 60.927706,
+      "pituusaste": 24.64706,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 340,
+      "nimi": "Tuusulan Hammaslääkäriasema Oy",
+      "leveysaste": 60.401002,
+      "pituusaste": 25.022496,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 341,
+      "nimi": "Töysän hammashoitola",
+      "leveysaste": 62.635143,
+      "pituusaste": 23.823904,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 342,
+      "nimi": "Töölön hammaskeskus",
+      "leveysaste": 60.182262,
+      "pituusaste": 24.926075,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 343,
+      "nimi": "Töölöntorin Hammaslääkärit Oy",
+      "leveysaste": 60.179003,
+      "pituusaste": 24.925289,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 344,
+      "nimi": "Ukihammas",
+      "leveysaste": 60.800824,
+      "pituusaste": 21.411026,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 345,
+      "nimi": "Uudenmaan hammaspalvelu",
+      "leveysaste": 60.46235,
+      "pituusaste": 24.805948,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 346,
+      "nimi": "Vasaramäen hammas",
+      "leveysaste": 60.438348,
+      "pituusaste": 22.292281,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 347,
+      "nimi": "Vatialan hammashoitola",
+      "leveysaste": 61.474813,
+      "pituusaste": 23.946001,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 348,
+      "nimi": "Veikkolan hammashoitola",
+      "leveysaste": 60.271653,
+      "pituusaste": 24.445777,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 349,
+      "nimi": "Veikkolan hammaslääkäriasema",
+      "leveysaste": 60.269761,
+      "pituusaste": 24.442408,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 350,
+      "nimi": "Verkahovin Hammaslääkärit",
+      "leveysaste": 60.457583,
+      "pituusaste": 22.273008,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 351,
+      "nimi": "Vihannin hammashoitola",
+      "leveysaste": 64.486841,
+      "pituusaste": 24.991064,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 352,
+      "nimi": "Vironniemen hammashoitola",
+      "leveysaste": 60.172188,
+      "pituusaste": 24.958084,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 353,
+      "nimi": "Voikkaan hammashoitola",
+      "leveysaste": 60.941664,
+      "pituusaste": 26.620255,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 354,
+      "nimi": "Vuoreksen hammashoitola",
+      "leveysaste": 61.43161,
+      "pituusaste": 23.816149,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 355,
+      "nimi": "Ylioppilaiden terveydenhoitosäätiö",
+      "leveysaste": 61.449246,
+      "pituusaste": 23.85921,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 356,
+      "nimi": "Ylämyllyn hammashoitola",
+      "leveysaste": 62.612289,
+      "pituusaste": 29.540164,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 357,
+      "nimi": "eSmile",
+      "leveysaste": 60.16799,
+      "pituusaste": 24.940756,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 358,
+      "nimi": "eSmile Espoo",
+      "leveysaste": 60.176047,
+      "pituusaste": 24.804943,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 359,
+      "nimi": "Ähtärin Hammas ja Suu Oy",
+      "leveysaste": 62.548724,
+      "pituusaste": 24.076282,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    },
+    {
+      "id": 360,
+      "nimi": "Ålands hälso- och sjukvård tandenheten",
+      "leveysaste": 60.102323,
+      "pituusaste": 19.937401,
+      "osm_avain": "amenity",
+      "osm_arvo": "dentist",
+      "osm_luokka": "amenity=dentist"
+    }
+  ],
+  "meta": {
+    "title": "Hammaslääkärit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Hammaslääkärit Suomessa — 360 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=dentist`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 3. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 360 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Hammaslääkärit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Hammaslääkärit – Suomi (OpenStreetMap) — 360 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 360 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

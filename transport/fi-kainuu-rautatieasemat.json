@@ -1,0 +1,223 @@
+{
+  "id": "fi-kainuu-rautatieasemat",
+  "name": "Rautatieasemat — Kainuu",
+  "title": "Rautatieasemat — Kainuu",
+  "description": "Rautatieasemat ja seisakkeet Kainuun maakunnassa, Suomessa (4 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28770,
+      "name": "Kajaani",
+      "slug": "kajaani",
+      "uic": "1000387",
+      "latitude": 64.221348,
+      "longitude": 27.740375,
+      "maakunta": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_code": "18",
+      "lahin_postitoimipaikka": "Kajaani",
+      "etaisyys_km": 0.876,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Kajana",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28799,
+      "name": "Kontiomäki",
+      "slug": "kontiomaki",
+      "uic": "1000390",
+      "latitude": 64.339891,
+      "longitude": 28.116708,
+      "maakunta": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_code": "18",
+      "lahin_postitoimipaikka": "Kajaani",
+      "etaisyys_km": 2.637,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28857,
+      "name": "Paltamo",
+      "slug": "paltamo",
+      "uic": "1000379",
+      "latitude": 64.402314,
+      "longitude": 27.824056,
+      "maakunta": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_code": "18",
+      "lahin_postitoimipaikka": "Paltamo",
+      "etaisyys_km": 6.789,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28915,
+      "name": "Vaala",
+      "slug": "vaala",
+      "uic": "1000377",
+      "latitude": 64.559793,
+      "longitude": 26.844131,
+      "maakunta": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_code": "18",
+      "lahin_postitoimipaikka": "Vaala",
+      "etaisyys_km": 0.926,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — Kainuu - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet Kainuun maakunnassa, Suomessa (4 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 4 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — Kainuu | ListBase",
+    "seo_description": "Lataa Rautatieasemat — Kainuu — 4 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 4 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

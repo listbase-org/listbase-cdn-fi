@@ -1,0 +1,3211 @@
+{
+  "id": "fi-osm-office-estate-agent",
+  "name": "Kiinteistönvälittäjät – Suomi (OpenStreetMap)",
+  "title": "Kiinteistönvälittäjät – Suomi (OpenStreetMap)",
+  "description": "Kiinteistönvälittäjät Suomessa — 350 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=estate_agent`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 2. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 350,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "2nd Homes",
+      "leveysaste": 60.16794,
+      "pituusaste": 24.93703,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 2,
+      "nimi": "A-yhtiöt",
+      "leveysaste": 60.394952,
+      "pituusaste": 25.660372,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 3,
+      "nimi": "Aalto construction",
+      "leveysaste": 65.011849,
+      "pituusaste": 25.477461,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 4,
+      "nimi": "Ab Seaside Oy LKV",
+      "leveysaste": 60.164931,
+      "pituusaste": 22.729944,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 5,
+      "nimi": "Ahvalo Kodinsilta",
+      "leveysaste": 62.601762,
+      "pituusaste": 29.760663,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 6,
+      "nimi": "Aito LKV",
+      "leveysaste": 61.058316,
+      "pituusaste": 28.185456,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 7,
+      "nimi": "Aktia",
+      "leveysaste": 59.974281,
+      "pituusaste": 23.436229,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 8,
+      "nimi": "Aktia LKV Loviisa",
+      "leveysaste": 60.456611,
+      "pituusaste": 26.225697,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 9,
+      "nimi": "Aktia kiinteistövälitys",
+      "leveysaste": 59.822518,
+      "pituusaste": 22.971587,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 10,
+      "nimi": "Alavuden Vuokra-asunnot Oy",
+      "leveysaste": 62.587113,
+      "pituusaste": 23.618895,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 11,
+      "nimi": "Aninkainen.fi",
+      "leveysaste": 60.451476,
+      "pituusaste": 22.246643,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 12,
+      "nimi": "Annala & Kurtén",
+      "leveysaste": 63.098538,
+      "pituusaste": 21.607197,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 13,
+      "nimi": "Apartment Niittykatu",
+      "leveysaste": 64.684692,
+      "pituusaste": 24.489615,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 14,
+      "nimi": "Arttu asunnot",
+      "leveysaste": 60.196017,
+      "pituusaste": 24.924879,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 15,
+      "nimi": "Asumaan.fi",
+      "leveysaste": 60.163496,
+      "pituusaste": 24.94248,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 16,
+      "nimi": "Asunto Björndahl",
+      "leveysaste": 63.836466,
+      "pituusaste": 23.130808,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 17,
+      "nimi": "Asunto Björndahl Oy",
+      "leveysaste": 63.900336,
+      "pituusaste": 23.917411,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 18,
+      "nimi": "Asunto Mandaatti",
+      "leveysaste": 62.892645,
+      "pituusaste": 27.680027,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 19,
+      "nimi": "Asunto Ykkönen",
+      "leveysaste": 61.166418,
+      "pituusaste": 23.867581,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 20,
+      "nimi": "Asunto ja Osake A&O Oy",
+      "leveysaste": 60.238529,
+      "pituusaste": 24.888406,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 21,
+      "nimi": "Asunto-Lieksa",
+      "leveysaste": 63.317573,
+      "pituusaste": 30.028551,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 22,
+      "nimi": "Asuntoasiat",
+      "leveysaste": 62.299075,
+      "pituusaste": 27.160961,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 23,
+      "nimi": "Asuntohelppi",
+      "leveysaste": 60.454282,
+      "pituusaste": 22.271418,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 24,
+      "nimi": "Asuntokamari LKV Oy",
+      "leveysaste": 62.55003,
+      "pituusaste": 24.070791,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 25,
+      "nimi": "Asuntokerava Oy",
+      "leveysaste": 60.401289,
+      "pituusaste": 25.0976,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 26,
+      "nimi": "Asuntomarkkinointi Oy",
+      "leveysaste": 63.83894,
+      "pituusaste": 23.130114,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 27,
+      "nimi": "Asuntomesta",
+      "leveysaste": 61.058849,
+      "pituusaste": 28.188949,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 28,
+      "nimi": "Asuntopalvelu Karjalainen",
+      "leveysaste": 61.472831,
+      "pituusaste": 23.875787,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 29,
+      "nimi": "Asuntopalvelu Peurala LKV",
+      "leveysaste": 61.549227,
+      "pituusaste": 23.594932,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 30,
+      "nimi": "Asuntopalvelut",
+      "leveysaste": 60.99726,
+      "pituusaste": 24.463453,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 31,
+      "nimi": "Asuntosatama",
+      "leveysaste": 60.187387,
+      "pituusaste": 24.918865,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 32,
+      "nimi": "Asuntoverkko",
+      "leveysaste": 60.868855,
+      "pituusaste": 26.700834,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 33,
+      "nimi": "Asuntoverkko",
+      "leveysaste": 60.868857,
+      "pituusaste": 26.70084,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 34,
+      "nimi": "Asuntoverkko",
+      "leveysaste": 60.868897,
+      "pituusaste": 26.700795,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 35,
+      "nimi": "Asuntoverkko",
+      "leveysaste": 60.868898,
+      "pituusaste": 26.700795,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 36,
+      "nimi": "Aula",
+      "leveysaste": 60.450853,
+      "pituusaste": 22.255414,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 37,
+      "nimi": "Aula Lkv Oy",
+      "leveysaste": 62.240026,
+      "pituusaste": 25.741805,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 38,
+      "nimi": "Auratum",
+      "leveysaste": 60.449526,
+      "pituusaste": 22.267243,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 39,
+      "nimi": "Aurinkolahden Crape Oy",
+      "leveysaste": 60.201345,
+      "pituusaste": 25.15123,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 40,
+      "nimi": "Autiotalot LKV Oy",
+      "leveysaste": 60.994852,
+      "pituusaste": 24.463354,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 41,
+      "nimi": "Avain Asunnot",
+      "leveysaste": 60.980773,
+      "pituusaste": 25.659015,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 42,
+      "nimi": "Avara Oy",
+      "leveysaste": 60.167456,
+      "pituusaste": 24.933013,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 43,
+      "nimi": "Avori",
+      "leveysaste": 60.446205,
+      "pituusaste": 22.283638,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 44,
+      "nimi": "B&G",
+      "leveysaste": 61.058104,
+      "pituusaste": 28.189693,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 45,
+      "nimi": "BO LKV Vantaa",
+      "leveysaste": 60.288516,
+      "pituusaste": 25.036427,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 46,
+      "nimi": "Bellahaus lkv",
+      "leveysaste": 60.201482,
+      "pituusaste": 24.923361,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 47,
+      "nimi": "Bo LKV",
+      "leveysaste": 60.158876,
+      "pituusaste": 24.948688,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 48,
+      "nimi": "Bo LKV",
+      "leveysaste": 60.163935,
+      "pituusaste": 24.947821,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 49,
+      "nimi": "Bo LKV",
+      "leveysaste": 65.014522,
+      "pituusaste": 25.467285,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 50,
+      "nimi": "Bo LKV Jyväskylä",
+      "leveysaste": 62.243923,
+      "pituusaste": 25.746008,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 51,
+      "nimi": "Bonava",
+      "leveysaste": 60.454263,
+      "pituusaste": 22.26729,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 52,
+      "nimi": "Bulevardin Kotimeklarit",
+      "leveysaste": 60.159422,
+      "pituusaste": 24.946378,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 53,
+      "nimi": "Centro Casa",
+      "leveysaste": 60.158451,
+      "pituusaste": 24.946358,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 54,
+      "nimi": "Citykoti",
+      "leveysaste": 60.16817,
+      "pituusaste": 24.924705,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 55,
+      "nimi": "Cristal",
+      "leveysaste": 60.159989,
+      "pituusaste": 24.942929,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 56,
+      "nimi": "Enberg",
+      "leveysaste": 62.243111,
+      "pituusaste": 25.74672,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 57,
+      "nimi": "Erkkeri",
+      "leveysaste": 60.160249,
+      "pituusaste": 24.881794,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 58,
+      "nimi": "Estacon Oy LKV",
+      "leveysaste": 60.223824,
+      "pituusaste": 25.093902,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 59,
+      "nimi": "Etelä-Hämeen OP-Kiinteistökeskus Oy LKV",
+      "leveysaste": 60.995567,
+      "pituusaste": 24.463339,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 60,
+      "nimi": "Etta LKV",
+      "leveysaste": 60.453391,
+      "pituusaste": 22.264891,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 61,
+      "nimi": "Euran Asuntopalvelu",
+      "leveysaste": 61.130444,
+      "pituusaste": 22.137809,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 62,
+      "nimi": "Euran Kiinteistönvälitys LKV",
+      "leveysaste": 61.129234,
+      "pituusaste": 22.129825,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 63,
+      "nimi": "Forenom Serviced Apartments Espoo Nupuri",
+      "leveysaste": 60.228405,
+      "pituusaste": 24.60683,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 64,
+      "nimi": "Forssan Kiinteistökauppiaat Oy",
+      "leveysaste": 60.815558,
+      "pituusaste": 23.625227,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 65,
+      "nimi": "Genesta",
+      "leveysaste": 60.182816,
+      "pituusaste": 24.959609,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 66,
+      "nimi": "Grand house OY",
+      "leveysaste": 60.445466,
+      "pituusaste": 22.281187,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 67,
+      "nimi": "HOPS",
+      "leveysaste": 60.995608,
+      "pituusaste": 24.464387,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 68,
+      "nimi": "Haagan Kiinteistötoimisto Oy LKV",
+      "leveysaste": 60.225195,
+      "pituusaste": 24.895169,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 69,
+      "nimi": "Habita",
+      "leveysaste": 60.159946,
+      "pituusaste": 24.946778,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 70,
+      "nimi": "Habita",
+      "leveysaste": 60.236615,
+      "pituusaste": 24.928796,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 71,
+      "nimi": "Habita",
+      "leveysaste": 60.291718,
+      "pituusaste": 25.03639,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 72,
+      "nimi": "Habita",
+      "leveysaste": 60.393539,
+      "pituusaste": 25.663546,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 73,
+      "nimi": "Habita",
+      "leveysaste": 60.445371,
+      "pituusaste": 22.255048,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 74,
+      "nimi": "Habita",
+      "leveysaste": 60.868122,
+      "pituusaste": 26.705537,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 75,
+      "nimi": "Habita",
+      "leveysaste": 60.996169,
+      "pituusaste": 24.461301,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 76,
+      "nimi": "Habita",
+      "leveysaste": 61.476011,
+      "pituusaste": 23.840032,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 77,
+      "nimi": "Habita",
+      "leveysaste": 64.685419,
+      "pituusaste": 24.478494,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 78,
+      "nimi": "Habita",
+      "leveysaste": 65.843141,
+      "pituusaste": 24.143631,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 79,
+      "nimi": "Habita",
+      "leveysaste": 66.504048,
+      "pituusaste": 25.729827,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 80,
+      "nimi": "Haven",
+      "leveysaste": 60.19699,
+      "pituusaste": 24.88329,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 81,
+      "nimi": "Heinolan Kodit LKV",
+      "leveysaste": 61.203197,
+      "pituusaste": 26.032287,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 82,
+      "nimi": "Heinolan Tili ja Isännöinti Oy",
+      "leveysaste": 61.203102,
+      "pituusaste": 26.03029,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 83,
+      "nimi": "Helsingin Asuntovälitys Lkv",
+      "leveysaste": 60.283378,
+      "pituusaste": 25.004583,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 84,
+      "nimi": "Helsingin Koti",
+      "leveysaste": 60.164091,
+      "pituusaste": 24.94537,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 85,
+      "nimi": "Huoltolinja Oy",
+      "leveysaste": 60.38454,
+      "pituusaste": 25.107639,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 86,
+      "nimi": "Huom! Kiinteistönvälitys",
+      "leveysaste": 60.67764,
+      "pituusaste": 21.993257,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 87,
+      "nimi": "Huom! Kiinteistövälitys",
+      "leveysaste": 60.403605,
+      "pituusaste": 25.100177,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 88,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.157541,
+      "pituusaste": 24.945714,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 89,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.158356,
+      "pituusaste": 24.945778,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 90,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.175455,
+      "pituusaste": 24.921668,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 91,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.210945,
+      "pituusaste": 24.729714,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 92,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.250746,
+      "pituusaste": 25.012119,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 93,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.393183,
+      "pituusaste": 25.661971,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 94,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.633876,
+      "pituusaste": 24.864604,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 95,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.868782,
+      "pituusaste": 26.702101,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 96,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.868787,
+      "pituusaste": 26.702119,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 97,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 60.982847,
+      "pituusaste": 25.653962,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 98,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 61.496473,
+      "pituusaste": 23.760062,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 99,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 61.497823,
+      "pituusaste": 23.756958,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 100,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 62.597101,
+      "pituusaste": 29.759497,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 101,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 62.791336,
+      "pituusaste": 22.839417,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 102,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 64.072799,
+      "pituusaste": 24.537003,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 103,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 64.225036,
+      "pituusaste": 27.73281,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 104,
+      "nimi": "Huoneistokeskus",
+      "leveysaste": 64.231919,
+      "pituusaste": 23.809222,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 105,
+      "nimi": "Huoneistokeskus Hämeenlinna",
+      "leveysaste": 60.997302,
+      "pituusaste": 24.465562,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 106,
+      "nimi": "Huoneistokeskus Imatra",
+      "leveysaste": 61.171149,
+      "pituusaste": 28.767257,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 107,
+      "nimi": "Huoneistokeskus Tapiola",
+      "leveysaste": 60.174363,
+      "pituusaste": 24.803078,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 108,
+      "nimi": "Huoneistokeskus Vantaa ja Keski-Uusimaa",
+      "leveysaste": 60.29349,
+      "pituusaste": 24.970764,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 109,
+      "nimi": "Huoneistoketju",
+      "leveysaste": 60.172795,
+      "pituusaste": 24.953376,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 110,
+      "nimi": "Huoneistomarkkinat",
+      "leveysaste": 60.449336,
+      "pituusaste": 22.258524,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 111,
+      "nimi": "Huoneistomyynti",
+      "leveysaste": 60.156613,
+      "pituusaste": 24.943125,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 112,
+      "nimi": "Huoneistosatama Ky LKV",
+      "leveysaste": 62.599068,
+      "pituusaste": 29.752636,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 113,
+      "nimi": "Huoneistoskeskus Itä-Helsinki ja Sipoo",
+      "leveysaste": 60.193033,
+      "pituusaste": 25.032679,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 114,
+      "nimi": "Hämeenlinnan Asunnot",
+      "leveysaste": 60.996767,
+      "pituusaste": 24.468706,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 115,
+      "nimi": "Hämeenlinnan Kotijoukkue Oy",
+      "leveysaste": 60.995297,
+      "pituusaste": 24.46524,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 116,
+      "nimi": "IN LKV",
+      "leveysaste": 60.445885,
+      "pituusaste": 22.243785,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 117,
+      "nimi": "In and Out Oy",
+      "leveysaste": 61.059123,
+      "pituusaste": 28.192298,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 118,
+      "nimi": "Isännöitsijä- ja tilipalvelu Irja Mällönen",
+      "leveysaste": 61.201973,
+      "pituusaste": 26.032498,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 119,
+      "nimi": "Itä-Uudenmaan Kiinteistövälitys Oy LKV",
+      "leveysaste": 60.455846,
+      "pituusaste": 26.225575,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 120,
+      "nimi": "JV Koti",
+      "leveysaste": 62.299725,
+      "pituusaste": 27.159,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 121,
+      "nimi": "JYA Housing",
+      "leveysaste": 62.625787,
+      "pituusaste": 27.114965,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 122,
+      "nimi": "JYA Housing LKV",
+      "leveysaste": 60.230191,
+      "pituusaste": 24.965328,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 123,
+      "nimi": "Jealha Asuntomyynti",
+      "leveysaste": 60.174474,
+      "pituusaste": 24.805973,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 124,
+      "nimi": "Johacon LKV",
+      "leveysaste": 60.631657,
+      "pituusaste": 24.852602,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 125,
+      "nimi": "Jokivarren OP-kiinteistökeskus Oy",
+      "leveysaste": 63.902099,
+      "pituusaste": 23.915739,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 126,
+      "nimi": "Joo Kodit",
+      "leveysaste": 60.210007,
+      "pituusaste": 24.730215,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 127,
+      "nimi": "Joo kodit",
+      "leveysaste": 60.444103,
+      "pituusaste": 22.237063,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 128,
+      "nimi": "Jya Housing LKV",
+      "leveysaste": 62.894175,
+      "pituusaste": 27.676382,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 129,
+      "nimi": "Jyväskylän Kiinteistömestarit",
+      "leveysaste": 62.238687,
+      "pituusaste": 25.739809,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 130,
+      "nimi": "Jyväskylän Kiinteistöpalvelu",
+      "leveysaste": 62.240674,
+      "pituusaste": 25.748552,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 131,
+      "nimi": "KK-Notariaatti Oy",
+      "leveysaste": 60.333169,
+      "pituusaste": 24.31958,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 132,
+      "nimi": "Kannustalo",
+      "leveysaste": 60.868717,
+      "pituusaste": 26.702079,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 133,
+      "nimi": "Kannustalo",
+      "leveysaste": 60.868718,
+      "pituusaste": 26.702093,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 134,
+      "nimi": "Karhupuiston isännöinti Oy",
+      "leveysaste": 60.183111,
+      "pituusaste": 24.952631,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 135,
+      "nimi": "Karjalan Kiinteistönvälitys",
+      "leveysaste": 61.058611,
+      "pituusaste": 28.1858,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 136,
+      "nimi": "Kiiinteistömaailma",
+      "leveysaste": 60.995023,
+      "pituusaste": 24.462716,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 137,
+      "nimi": "Kiinteistö & Notariaatti Ahtinen Ky",
+      "leveysaste": 60.554854,
+      "pituusaste": 22.116204,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 138,
+      "nimi": "Kiinteistö Etappi LKV",
+      "leveysaste": 60.47367,
+      "pituusaste": 22.313707,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 139,
+      "nimi": "Kiinteistö Myllärit Oy",
+      "leveysaste": 62.613159,
+      "pituusaste": 29.54325,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 140,
+      "nimi": "Kiinteistö Oy V-S Kauppapaikat",
+      "leveysaste": 60.473639,
+      "pituusaste": 22.313571,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 141,
+      "nimi": "Kiinteistö Oy V-S Kauppapaikat",
+      "leveysaste": 60.473709,
+      "pituusaste": 22.313582,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 142,
+      "nimi": "Kiinteistö Vesasto",
+      "leveysaste": 61.315863,
+      "pituusaste": 23.751734,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 143,
+      "nimi": "Kiinteistöhuolto Markku Varjonen Oy",
+      "leveysaste": 60.457709,
+      "pituusaste": 22.271736,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 144,
+      "nimi": "Kiinteistökanava",
+      "leveysaste": 64.68484,
+      "pituusaste": 24.479637,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 145,
+      "nimi": "Kiinteistökeidas",
+      "leveysaste": 63.928214,
+      "pituusaste": 24.964476,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 146,
+      "nimi": "Kiinteistökeidas",
+      "leveysaste": 64.072427,
+      "pituusaste": 24.53607,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 147,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 59.97514,
+      "pituusaste": 23.436645,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 148,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.158056,
+      "pituusaste": 24.944083,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 149,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.160652,
+      "pituusaste": 24.885964,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 150,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.161348,
+      "pituusaste": 24.738452,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 151,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.163089,
+      "pituusaste": 24.791064,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 152,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.165991,
+      "pituusaste": 24.949475,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 153,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.171847,
+      "pituusaste": 24.929134,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 154,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.172741,
+      "pituusaste": 24.920069,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 155,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.174075,
+      "pituusaste": 24.956078,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 156,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.178015,
+      "pituusaste": 24.947468,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 157,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.184268,
+      "pituusaste": 24.923913,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 158,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.19191,
+      "pituusaste": 24.943187,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 159,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.210846,
+      "pituusaste": 24.729115,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 160,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.211393,
+      "pituusaste": 25.082572,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 161,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.212367,
+      "pituusaste": 24.89812,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 162,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.220542,
+      "pituusaste": 24.812793,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 163,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.225187,
+      "pituusaste": 24.895314,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 164,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.229959,
+      "pituusaste": 24.964831,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 165,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.239739,
+      "pituusaste": 24.740579,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 166,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.246074,
+      "pituusaste": 24.924893,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 167,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.264522,
+      "pituusaste": 24.852366,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 168,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.290833,
+      "pituusaste": 24.967842,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 169,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.291861,
+      "pituusaste": 25.039786,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 170,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.298662,
+      "pituusaste": 25.349594,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 171,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.32409,
+      "pituusaste": 25.056794,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 172,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.449639,
+      "pituusaste": 22.260952,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 173,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.981886,
+      "pituusaste": 25.659622,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 174,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 60.996874,
+      "pituusaste": 24.460736,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 175,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 61.056072,
+      "pituusaste": 28.187789,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 176,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 61.362322,
+      "pituusaste": 23.796669,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 177,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 61.497906,
+      "pituusaste": 23.79261,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 178,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 62.240741,
+      "pituusaste": 25.743289,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 179,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 62.602143,
+      "pituusaste": 29.761965,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 180,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 62.788998,
+      "pituusaste": 22.839493,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 181,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 62.894047,
+      "pituusaste": 27.676874,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 182,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 63.837606,
+      "pituusaste": 23.133449,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 183,
+      "nimi": "Kiinteistömaailma",
+      "leveysaste": 64.23117,
+      "pituusaste": 23.817833,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 184,
+      "nimi": "Kiinteistömaailma Asuntoherttua LKV",
+      "leveysaste": 60.226426,
+      "pituusaste": 25.009004,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 185,
+      "nimi": "Kiinteistömaailma Helsinki Bulevardi",
+      "leveysaste": 60.164143,
+      "pituusaste": 24.936006,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 186,
+      "nimi": "Kiinteistömaailma Helsinki Herttoniemi",
+      "leveysaste": 60.193632,
+      "pituusaste": 25.035333,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 187,
+      "nimi": "Kiinteistömaailma Helsinki Munkkiniemi",
+      "leveysaste": 60.197913,
+      "pituusaste": 24.878752,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 188,
+      "nimi": "Kiinteistömaailma Kerava",
+      "leveysaste": 60.401356,
+      "pituusaste": 25.097778,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 189,
+      "nimi": "Kiinteistömaailma Puotila",
+      "leveysaste": 60.211294,
+      "pituusaste": 25.092712,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 190,
+      "nimi": "Kiinteistömaailma Ratina",
+      "leveysaste": 61.492804,
+      "pituusaste": 23.771403,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 191,
+      "nimi": "Kiinteistömaailma Seinäjoki asema",
+      "leveysaste": 62.791641,
+      "pituusaste": 22.843908,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 192,
+      "nimi": "Kiinteistömaailma Tapiola-Westend",
+      "leveysaste": 60.176387,
+      "pituusaste": 24.805558,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 193,
+      "nimi": "Kiinteistömaailma Tuusula",
+      "leveysaste": 60.401505,
+      "pituusaste": 25.022714,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 194,
+      "nimi": "Kiinteistömaailma Vantaa Leinelä",
+      "leveysaste": 60.323713,
+      "pituusaste": 25.03802,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 195,
+      "nimi": "Kiinteistömaailma pop-up",
+      "leveysaste": 60.155153,
+      "pituusaste": 24.773246,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 196,
+      "nimi": "Kiinteistöneliö",
+      "leveysaste": 65.360453,
+      "pituusaste": 26.993633,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 197,
+      "nimi": "Kiinteistönvälitys",
+      "leveysaste": 62.300295,
+      "pituusaste": 27.15645,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 198,
+      "nimi": "Kiinteistönvälitys Harmonia LKV Oy",
+      "leveysaste": 60.130297,
+      "pituusaste": 24.510903,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 199,
+      "nimi": "Kiinteistönvälitys Mäkelä",
+      "leveysaste": 62.981072,
+      "pituusaste": 22.006686,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 200,
+      "nimi": "Kiinteistönvälitys T. Erovaara",
+      "leveysaste": 63.555286,
+      "pituusaste": 29.111698,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 201,
+      "nimi": "Kiinteistöpiste Vuori",
+      "leveysaste": 60.451706,
+      "pituusaste": 22.254304,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 202,
+      "nimi": "Kiinteistöpörssi LKV",
+      "leveysaste": 60.450897,
+      "pituusaste": 22.279778,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 203,
+      "nimi": "Kiinteistötahkola",
+      "leveysaste": 61.449778,
+      "pituusaste": 23.848828,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 204,
+      "nimi": "Kodikas LKV",
+      "leveysaste": 61.203329,
+      "pituusaste": 26.030502,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 205,
+      "nimi": "Kodinaika",
+      "leveysaste": 64.683633,
+      "pituusaste": 24.476793,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 206,
+      "nimi": "Korson Koti LKV",
+      "leveysaste": 60.350264,
+      "pituusaste": 25.075181,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 207,
+      "nimi": "Kotikatu",
+      "leveysaste": 60.188321,
+      "pituusaste": 24.965148,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 208,
+      "nimi": "Kotikatu Oy",
+      "leveysaste": 60.964091,
+      "pituusaste": 25.691624,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 209,
+      "nimi": "Koto",
+      "leveysaste": 62.890561,
+      "pituusaste": 27.679991,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 210,
+      "nimi": "Kuopion opiskelija asunnot (Kuopas)",
+      "leveysaste": 62.892188,
+      "pituusaste": 27.672455,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 211,
+      "nimi": "Kymen Kiinteistöpörssi OY LKV",
+      "leveysaste": 60.566274,
+      "pituusaste": 27.193784,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 212,
+      "nimi": "Kymppi",
+      "leveysaste": 60.448841,
+      "pituusaste": 22.245978,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 213,
+      "nimi": "LKV Hemma Leena Lindroos Oy",
+      "leveysaste": 60.457406,
+      "pituusaste": 26.223927,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 214,
+      "nimi": "LKV Hildén",
+      "leveysaste": 62.247362,
+      "pituusaste": 25.749593,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 215,
+      "nimi": "LKV Koti-idea",
+      "leveysaste": 61.054249,
+      "pituusaste": 28.188674,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 216,
+      "nimi": "LKV Koti-idea",
+      "leveysaste": 61.059342,
+      "pituusaste": 28.186388,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 217,
+      "nimi": "LKV Kotimatti",
+      "leveysaste": 64.072154,
+      "pituusaste": 24.536014,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 218,
+      "nimi": "LKV Pohjanmaa",
+      "leveysaste": 64.071593,
+      "pituusaste": 24.535339,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 219,
+      "nimi": "LKV Roine Oy",
+      "leveysaste": 62.726367,
+      "pituusaste": 29.016917,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 220,
+      "nimi": "LKV-tiimi",
+      "leveysaste": 60.440606,
+      "pituusaste": 22.290583,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 221,
+      "nimi": "Lahden Huoneistohallinta Oy",
+      "leveysaste": 60.979166,
+      "pituusaste": 25.657078,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 222,
+      "nimi": "Lahden Talot Oy",
+      "leveysaste": 60.982498,
+      "pituusaste": 25.656302,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 223,
+      "nimi": "Lakea",
+      "leveysaste": 62.24566,
+      "pituusaste": 25.750869,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 224,
+      "nimi": "Lakiasiantoimisto M. Tamminen LKV",
+      "leveysaste": 60.201713,
+      "pituusaste": 25.150622,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 225,
+      "nimi": "Lappeenrannan Asuntopalvelu Oy",
+      "leveysaste": 61.058988,
+      "pituusaste": 28.190004,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 226,
+      "nimi": "Leuku LKV",
+      "leveysaste": 61.496802,
+      "pituusaste": 23.770774,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 227,
+      "nimi": "Listed LKV / Klaukkala",
+      "leveysaste": 60.379281,
+      "pituusaste": 24.756518,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 228,
+      "nimi": "Listed LKV / Vantaa",
+      "leveysaste": 60.315057,
+      "pituusaste": 24.848599,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 229,
+      "nimi": "Locus",
+      "leveysaste": 60.158703,
+      "pituusaste": 24.938141,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 230,
+      "nimi": "Loisto",
+      "leveysaste": 60.445217,
+      "pituusaste": 22.279364,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 231,
+      "nimi": "Lounaisrannikon OP-Kiinteistökeskus Oy LKV",
+      "leveysaste": 60.799407,
+      "pituusaste": 21.411675,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 232,
+      "nimi": "Loviisan Asuntopalvelu",
+      "leveysaste": 60.457678,
+      "pituusaste": 26.222139,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 233,
+      "nimi": "Lumo – Vuokra-asunnot",
+      "leveysaste": 60.202355,
+      "pituusaste": 24.898724,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 234,
+      "nimi": "Luxusm2 LKV",
+      "leveysaste": 60.167167,
+      "pituusaste": 24.951497,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 235,
+      "nimi": "Lyyskis fastigheter",
+      "leveysaste": 60.100949,
+      "pituusaste": 19.939042,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 236,
+      "nimi": "M. Pinta",
+      "leveysaste": 62.97936,
+      "pituusaste": 22.0098,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 237,
+      "nimi": "M. Tocklin",
+      "leveysaste": 60.450838,
+      "pituusaste": 22.258514,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 238,
+      "nimi": "M2-Kodit",
+      "leveysaste": 62.240814,
+      "pituusaste": 25.748851,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 239,
+      "nimi": "Maison Luumi LKV",
+      "leveysaste": 60.17615,
+      "pituusaste": 24.803738,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 240,
+      "nimi": "Mähönen & Mähönen",
+      "leveysaste": 60.126229,
+      "pituusaste": 24.476669,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 241,
+      "nimi": "Mäklarhuset",
+      "leveysaste": 60.102731,
+      "pituusaste": 19.941747,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 242,
+      "nimi": "NORD lkv",
+      "leveysaste": 60.293585,
+      "pituusaste": 25.035839,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 243,
+      "nimi": "Naantalin Laki- ja Kiinteistöpalvelu Oy",
+      "leveysaste": 60.467453,
+      "pituusaste": 22.026252,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 244,
+      "nimi": "Nipan Neliöt Oy",
+      "leveysaste": 64.66212,
+      "pituusaste": 24.467467,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 245,
+      "nimi": "Noble LKV",
+      "leveysaste": 60.230058,
+      "pituusaste": 24.965819,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 246,
+      "nimi": "Nova LKV",
+      "leveysaste": 60.981554,
+      "pituusaste": 25.655275,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 247,
+      "nimi": "OP Kiinteistökeskus",
+      "leveysaste": 60.850461,
+      "pituusaste": 23.055782,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 248,
+      "nimi": "OP Koti",
+      "leveysaste": 59.825767,
+      "pituusaste": 22.965926,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 249,
+      "nimi": "OP Koti Itä-Suomi Oy LKV",
+      "leveysaste": 62.599777,
+      "pituusaste": 29.759753,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 250,
+      "nimi": "OP Koti Länsi-Suomi Oy LKV",
+      "leveysaste": 61.129924,
+      "pituusaste": 22.140002,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 251,
+      "nimi": "OP Turun Seutu",
+      "leveysaste": 60.454061,
+      "pituusaste": 22.268758,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 252,
+      "nimi": "OP-Kiinteistökeskus",
+      "leveysaste": 60.157603,
+      "pituusaste": 24.945775,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 253,
+      "nimi": "OP-Koti",
+      "leveysaste": 63.836461,
+      "pituusaste": 23.13239,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 254,
+      "nimi": "OPKK",
+      "leveysaste": 59.976472,
+      "pituusaste": 23.439496,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 255,
+      "nimi": "OPKK",
+      "leveysaste": 60.867912,
+      "pituusaste": 26.702295,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 256,
+      "nimi": "OVV",
+      "leveysaste": 60.452277,
+      "pituusaste": 22.25375,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 257,
+      "nimi": "OVV Asuntopalvelut",
+      "leveysaste": 61.05965,
+      "pituusaste": 28.194681,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 258,
+      "nimi": "OVV Asuntopalvelut",
+      "leveysaste": 61.4961,
+      "pituusaste": 23.754496,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 259,
+      "nimi": "OVV Jyväskylä",
+      "leveysaste": 62.239583,
+      "pituusaste": 25.737396,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 260,
+      "nimi": "Open Market Kiinteistönvälitys",
+      "leveysaste": 61.487183,
+      "pituusaste": 21.79342,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 261,
+      "nimi": "OpenMarket",
+      "leveysaste": 60.452788,
+      "pituusaste": 22.255598,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 262,
+      "nimi": "PSOAS Studio",
+      "leveysaste": 65.017162,
+      "pituusaste": 25.478492,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 263,
+      "nimi": "Porin YH-Asunnot",
+      "leveysaste": 61.487418,
+      "pituusaste": 21.7888,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 264,
+      "nimi": "Pudasjärven Vuokratalot Oy",
+      "leveysaste": 65.360252,
+      "pituusaste": 26.997262,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 265,
+      "nimi": "Pursiheimo",
+      "leveysaste": 60.452036,
+      "pituusaste": 22.283369,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 266,
+      "nimi": "Qvadrat LKV",
+      "leveysaste": 60.156835,
+      "pituusaste": 24.944979,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 267,
+      "nimi": "RE/MAX",
+      "leveysaste": 60.178457,
+      "pituusaste": 24.928777,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 268,
+      "nimi": "RE/MAX",
+      "leveysaste": 60.179371,
+      "pituusaste": 24.924658,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 269,
+      "nimi": "RE/MAX",
+      "leveysaste": 60.183197,
+      "pituusaste": 24.794239,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 270,
+      "nimi": "RE/MAX",
+      "leveysaste": 60.209481,
+      "pituusaste": 25.087435,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 271,
+      "nimi": "RE/MAX",
+      "leveysaste": 60.295805,
+      "pituusaste": 25.039447,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 272,
+      "nimi": "RE/MAX",
+      "leveysaste": 60.348928,
+      "pituusaste": 25.075621,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 273,
+      "nimi": "RE/MAX",
+      "leveysaste": 60.981898,
+      "pituusaste": 25.656099,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 274,
+      "nimi": "RE/MAX",
+      "leveysaste": 61.497295,
+      "pituusaste": 23.796382,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 275,
+      "nimi": "RE/MAX Asuntoneliöt",
+      "leveysaste": 60.403695,
+      "pituusaste": 25.101859,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 276,
+      "nimi": "REIM Hämeenlinna Oy",
+      "leveysaste": 60.997085,
+      "pituusaste": 24.463595,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 277,
+      "nimi": "REIM Oulu Oy",
+      "leveysaste": 65.011475,
+      "pituusaste": 25.480055,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 278,
+      "nimi": "RFS-Kiinteistöt Oy",
+      "leveysaste": 60.473655,
+      "pituusaste": 22.313641,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 279,
+      "nimi": "RSA",
+      "leveysaste": 64.678223,
+      "pituusaste": 24.507671,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 280,
+      "nimi": "Raahen Isännöintityö",
+      "leveysaste": 64.684715,
+      "pituusaste": 24.476917,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 281,
+      "nimi": "Rautalammin kiinteistökeskus",
+      "leveysaste": 62.622412,
+      "pituusaste": 26.831879,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 282,
+      "nimi": "Re/Max Asuntomeklarit",
+      "leveysaste": 61.05919,
+      "pituusaste": 28.191047,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 283,
+      "nimi": "Realia",
+      "leveysaste": 60.172559,
+      "pituusaste": 24.94808,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 284,
+      "nimi": "Remax",
+      "leveysaste": 60.16092,
+      "pituusaste": 24.942392,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 285,
+      "nimi": "Remax",
+      "leveysaste": 60.466825,
+      "pituusaste": 26.945417,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 286,
+      "nimi": "Retta Asuntovuokraus",
+      "leveysaste": 60.448448,
+      "pituusaste": 22.238094,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 287,
+      "nimi": "Roof lkv",
+      "leveysaste": 59.977511,
+      "pituusaste": 23.441411,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 288,
+      "nimi": "SKV",
+      "leveysaste": 61.058062,
+      "pituusaste": 28.19245,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 289,
+      "nimi": "SKV Kiinteistönvälitys",
+      "leveysaste": 60.475366,
+      "pituusaste": 25.089111,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 290,
+      "nimi": "SKV Kiinteistönvälitys",
+      "leveysaste": 60.533599,
+      "pituusaste": 24.209933,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 291,
+      "nimi": "SKV Kiinteistönvälitys Kauppakeskus Iso Omena",
+      "leveysaste": 60.161915,
+      "pituusaste": 24.738463,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 292,
+      "nimi": "Saaren kiinteistövälitys",
+      "leveysaste": 60.157483,
+      "pituusaste": 24.879417,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 293,
+      "nimi": "Sanmark & Partners",
+      "leveysaste": 60.159126,
+      "pituusaste": 24.943362,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 294,
+      "nimi": "Satu Sainio LKV Oy",
+      "leveysaste": 60.450526,
+      "pituusaste": 22.26194,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 295,
+      "nimi": "Savon kiinteistö",
+      "leveysaste": 63.073431,
+      "pituusaste": 27.660485,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 296,
+      "nimi": "Sb-Hem",
+      "leveysaste": 59.977124,
+      "pituusaste": 23.44001,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 297,
+      "nimi": "Siilinjärven kotipolku",
+      "leveysaste": 63.073401,
+      "pituusaste": 27.659074,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 298,
+      "nimi": "Sofia LKV",
+      "leveysaste": 67.804931,
+      "pituusaste": 24.805358,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 299,
+      "nimi": "Solid House",
+      "leveysaste": 60.293993,
+      "pituusaste": 25.030681,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 300,
+      "nimi": "Solid House",
+      "leveysaste": 60.450467,
+      "pituusaste": 22.265635,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 301,
+      "nimi": "Solid House",
+      "leveysaste": 61.497649,
+      "pituusaste": 23.76192,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 302,
+      "nimi": "Solid House Helsinki",
+      "leveysaste": 60.164345,
+      "pituusaste": 24.944257,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 303,
+      "nimi": "Solid House Salo",
+      "leveysaste": 60.387104,
+      "pituusaste": 23.127267,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 304,
+      "nimi": "Sotheby's",
+      "leveysaste": 60.165004,
+      "pituusaste": 24.94767,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 305,
+      "nimi": "Sp-Koti",
+      "leveysaste": 59.824613,
+      "pituusaste": 22.964604,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 306,
+      "nimi": "Sp-Koti",
+      "leveysaste": 61.058931,
+      "pituusaste": 28.191201,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 307,
+      "nimi": "Sp-Koti",
+      "leveysaste": 61.202082,
+      "pituusaste": 26.03195,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 308,
+      "nimi": "Sp-Koti",
+      "leveysaste": 61.496068,
+      "pituusaste": 23.754262,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 309,
+      "nimi": "Sp-Koti Hämeenlinna WM Kiinteistönvälitys LKV",
+      "leveysaste": 60.995602,
+      "pituusaste": 24.461759,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 310,
+      "nimi": "Sp-Koti Kirkkonummi CMH",
+      "leveysaste": 60.130612,
+      "pituusaste": 24.513257,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 311,
+      "nimi": "Sp-Koti Lohja",
+      "leveysaste": 60.250867,
+      "pituusaste": 24.064592,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 312,
+      "nimi": "Sp-koti",
+      "leveysaste": 60.449226,
+      "pituusaste": 22.260715,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 313,
+      "nimi": "Suomala LKV",
+      "leveysaste": 62.245355,
+      "pituusaste": 25.746236,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 314,
+      "nimi": "Suomen Välitysliike",
+      "leveysaste": 60.171538,
+      "pituusaste": 24.956345,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 315,
+      "nimi": "Suominen",
+      "leveysaste": 60.44872,
+      "pituusaste": 22.289666,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 316,
+      "nimi": "Suomussalmen kiinteistökeskus",
+      "leveysaste": 64.884017,
+      "pituusaste": 28.907129,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 317,
+      "nimi": "Suonenjoen Kiinteistökeskus",
+      "leveysaste": 62.627108,
+      "pituusaste": 27.117908,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 318,
+      "nimi": "Suupohjan Kiinteistökeskus",
+      "leveysaste": 62.424039,
+      "pituusaste": 22.177953,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 319,
+      "nimi": "TA",
+      "leveysaste": 60.982907,
+      "pituusaste": 25.651169,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 320,
+      "nimi": "TOAS",
+      "leveysaste": 61.501629,
+      "pituusaste": 23.802476,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 321,
+      "nimi": "TVT",
+      "leveysaste": 60.449276,
+      "pituusaste": 22.258613,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 322,
+      "nimi": "TVT Asunnot",
+      "leveysaste": 60.449152,
+      "pituusaste": 22.258785,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 323,
+      "nimi": "Takuuvuokraus Oy",
+      "leveysaste": 60.160143,
+      "pituusaste": 24.939655,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 324,
+      "nimi": "Talliosake Kirkkonummi Abrasinmäki",
+      "leveysaste": 60.118875,
+      "pituusaste": 24.425183,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 325,
+      "nimi": "Talokulma",
+      "leveysaste": 60.443736,
+      "pituusaste": 22.276147,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 326,
+      "nimi": "Tampereen Kotijoukkue Oy",
+      "leveysaste": 61.500707,
+      "pituusaste": 23.757494,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 327,
+      "nimi": "Tarkat talot LKV",
+      "leveysaste": 60.47483,
+      "pituusaste": 22.226205,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 328,
+      "nimi": "Tiliaura",
+      "leveysaste": 60.457708,
+      "pituusaste": 22.271444,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 329,
+      "nimi": "Tuiran Isännöitsijätoimisto",
+      "leveysaste": 65.011527,
+      "pituusaste": 25.478535,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 330,
+      "nimi": "Tuomontupa Oy LKV",
+      "leveysaste": 60.209896,
+      "pituusaste": 24.888216,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 331,
+      "nimi": "Turun Keskusta-Asunnot",
+      "leveysaste": 60.447458,
+      "pituusaste": 22.282698,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 332,
+      "nimi": "Turun Seudun Vuokravälitys Oy",
+      "leveysaste": 60.450953,
+      "pituusaste": 22.279978,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 333,
+      "nimi": "Turun Vuokra-Asunnot",
+      "leveysaste": 60.450805,
+      "pituusaste": 22.258553,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 334,
+      "nimi": "Turun huoneistovälitys",
+      "leveysaste": 60.449915,
+      "pituusaste": 22.26927,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 335,
+      "nimi": "Tuttu Isännöinti",
+      "leveysaste": 65.176013,
+      "pituusaste": 25.350807,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 336,
+      "nimi": "Tuttu kiinteistövälittäjä",
+      "leveysaste": 65.176982,
+      "pituusaste": 25.352579,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 337,
+      "nimi": "Ummo",
+      "leveysaste": 60.445414,
+      "pituusaste": 22.255262,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 338,
+      "nimi": "VVO",
+      "leveysaste": 60.449608,
+      "pituusaste": 22.257518,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 339,
+      "nimi": "Vendo",
+      "leveysaste": 60.453535,
+      "pituusaste": 22.270761,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 340,
+      "nimi": "Vendo kiinteistönvälitys",
+      "leveysaste": 62.788615,
+      "pituusaste": 22.83862,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 341,
+      "nimi": "Volanen",
+      "leveysaste": 60.393139,
+      "pituusaste": 25.659361,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 342,
+      "nimi": "Vuokraturva",
+      "leveysaste": 60.194129,
+      "pituusaste": 24.948163,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 343,
+      "nimi": "Vuokraturva Oy LKV",
+      "leveysaste": 60.454166,
+      "pituusaste": 22.268015,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 344,
+      "nimi": "Westatus",
+      "leveysaste": 59.974067,
+      "pituusaste": 23.435634,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 345,
+      "nimi": "Westhouse",
+      "leveysaste": 60.164026,
+      "pituusaste": 24.774,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 346,
+      "nimi": "Wälitysliike",
+      "leveysaste": 60.157086,
+      "pituusaste": 24.947035,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 347,
+      "nimi": "YH Kodit",
+      "leveysaste": 60.451619,
+      "pituusaste": 22.257404,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 348,
+      "nimi": "YIT",
+      "leveysaste": 62.600532,
+      "pituusaste": 29.759781,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 349,
+      "nimi": "Ykkösvälitys",
+      "leveysaste": 63.077581,
+      "pituusaste": 27.658858,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    },
+    {
+      "id": 350,
+      "nimi": "Ylläksen kiinteistövälitys",
+      "leveysaste": 67.605399,
+      "pituusaste": 24.155067,
+      "osm_avain": "office",
+      "osm_arvo": "estate_agent",
+      "osm_luokka": "office=estate_agent"
+    }
+  ],
+  "meta": {
+    "title": "Kiinteistönvälittäjät – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kiinteistönvälittäjät Suomessa — 350 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=estate_agent`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 2. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 350 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kiinteistönvälittäjät – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kiinteistönvälittäjät – Suomi (OpenStreetMap) — 350 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 350 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

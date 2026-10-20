@@ -1,0 +1,1780 @@
+{
+  "id": "fi-osm-amenity-vehicle-inspection",
+  "name": "Katsastusasemat – Suomi (OpenStreetMap)",
+  "title": "Katsastusasemat – Suomi (OpenStreetMap)",
+  "description": "Katsastusasemat Suomessa — 191 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=vehicle_inspection`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 191,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A-Katsastus",
+      "leveysaste": 59.830408,
+      "pituusaste": 22.985996,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 2,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.005322,
+      "pituusaste": 23.542341,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 3,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.20323,
+      "pituusaste": 24.752925,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 4,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.222922,
+      "pituusaste": 24.99169,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 5,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.223778,
+      "pituusaste": 25.169182,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 6,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.273246,
+      "pituusaste": 24.122306,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 7,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.299822,
+      "pituusaste": 24.882646,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 8,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.402937,
+      "pituusaste": 25.692049,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 9,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.420126,
+      "pituusaste": 22.383462,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 10,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.454969,
+      "pituusaste": 22.228652,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 11,
+      "nimi": "A-Katsastus",
+      "leveysaste": 60.988361,
+      "pituusaste": 25.529345,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 12,
+      "nimi": "A-Katsastus",
+      "leveysaste": 62.100808,
+      "pituusaste": 30.118015,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 13,
+      "nimi": "A-Katsastus",
+      "leveysaste": 62.59132,
+      "pituusaste": 23.595288,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 14,
+      "nimi": "A-Katsastus",
+      "leveysaste": 62.607509,
+      "pituusaste": 22.38621,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 15,
+      "nimi": "A-Katsastus",
+      "leveysaste": 62.607529,
+      "pituusaste": 22.386252,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 16,
+      "nimi": "A-Katsastus",
+      "leveysaste": 62.67479,
+      "pituusaste": 30.932136,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 17,
+      "nimi": "A-Katsastus",
+      "leveysaste": 63.077379,
+      "pituusaste": 21.66979,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 18,
+      "nimi": "A-Katsastus",
+      "leveysaste": 63.077392,
+      "pituusaste": 21.669773,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 19,
+      "nimi": "A-Katsastus",
+      "leveysaste": 63.101995,
+      "pituusaste": 21.631905,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 20,
+      "nimi": "A-Katsastus",
+      "leveysaste": 63.106999,
+      "pituusaste": 21.650076,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 21,
+      "nimi": "A-Katsastus",
+      "leveysaste": 63.825245,
+      "pituusaste": 23.161027,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 22,
+      "nimi": "A-Katsastus",
+      "leveysaste": 64.894884,
+      "pituusaste": 28.848286,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 23,
+      "nimi": "A-Katsastus",
+      "leveysaste": 64.894897,
+      "pituusaste": 28.848298,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 24,
+      "nimi": "A-Katsastus",
+      "leveysaste": 64.950964,
+      "pituusaste": 25.520916,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 25,
+      "nimi": "A-Katsastus",
+      "leveysaste": 64.988249,
+      "pituusaste": 25.472948,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 26,
+      "nimi": "A-Katsastus",
+      "leveysaste": 64.988281,
+      "pituusaste": 25.473043,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 27,
+      "nimi": "A-Katsastus",
+      "leveysaste": 65.849471,
+      "pituusaste": 24.177987,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 28,
+      "nimi": "A-Katsastus Espoo",
+      "leveysaste": 60.157794,
+      "pituusaste": 24.69772,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 29,
+      "nimi": "A-Katsastus Espoo-Muurala",
+      "leveysaste": 60.210433,
+      "pituusaste": 24.642957,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 30,
+      "nimi": "A-Katsastus Hyrylä",
+      "leveysaste": 60.382536,
+      "pituusaste": 25.032237,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 31,
+      "nimi": "A-Katsastus Hyvinkää-Veikkari",
+      "leveysaste": 60.61078,
+      "pituusaste": 24.809648,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 32,
+      "nimi": "A-Katsastus Hyvinkää-Veikkari",
+      "leveysaste": 60.610805,
+      "pituusaste": 24.809677,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 33,
+      "nimi": "A-Katsastus Ikaalinen",
+      "leveysaste": 61.754229,
+      "pituusaste": 23.084444,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 34,
+      "nimi": "A-Katsastus Imatra",
+      "leveysaste": 61.171802,
+      "pituusaste": 28.791466,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 35,
+      "nimi": "A-Katsastus Imatra",
+      "leveysaste": 61.171809,
+      "pituusaste": 28.79147,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 36,
+      "nimi": "A-Katsastus Jakobstad Östra",
+      "leveysaste": 63.681098,
+      "pituusaste": 22.735128,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 37,
+      "nimi": "A-Katsastus Jakobstad-Depågatan",
+      "leveysaste": 63.691471,
+      "pituusaste": 22.708866,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 38,
+      "nimi": "A-Katsastus Joensuu-Voimatie",
+      "leveysaste": 62.618267,
+      "pituusaste": 29.775854,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 39,
+      "nimi": "A-Katsastus Joensuu-Voimatie",
+      "leveysaste": 62.618285,
+      "pituusaste": 29.775868,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 40,
+      "nimi": "A-Katsastus Kerava",
+      "leveysaste": 60.392249,
+      "pituusaste": 25.10794,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 41,
+      "nimi": "A-Katsastus Kuopio-Kallantie",
+      "leveysaste": 62.923619,
+      "pituusaste": 27.678083,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 42,
+      "nimi": "A-Katsastus Lahti-Hennala",
+      "leveysaste": 60.970672,
+      "pituusaste": 25.606462,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 43,
+      "nimi": "A-Katsastus Loviisa",
+      "leveysaste": 60.457123,
+      "pituusaste": 26.205838,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 44,
+      "nimi": "A-Katsastus Nurmes",
+      "leveysaste": 63.558057,
+      "pituusaste": 29.071727,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 45,
+      "nimi": "A-Katsastus Nurmijärvi-Klaukkala",
+      "leveysaste": 60.371656,
+      "pituusaste": 24.768208,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 46,
+      "nimi": "A-Katsastus Outokumpu",
+      "leveysaste": 62.71746,
+      "pituusaste": 29.013291,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 47,
+      "nimi": "A-Katsastus Tampere-Lielahti",
+      "leveysaste": 61.521132,
+      "pituusaste": 23.656377,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 48,
+      "nimi": "A-Katsastus Vammala",
+      "leveysaste": 61.330407,
+      "pituusaste": 22.915066,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 49,
+      "nimi": "A-Katsastus Vammala",
+      "leveysaste": 61.330424,
+      "pituusaste": 22.915113,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 50,
+      "nimi": "A-Katsastus Vantaa-Kaivoksela",
+      "leveysaste": 60.268988,
+      "pituusaste": 24.877637,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 51,
+      "nimi": "A-Katsastus Vantaa-Martinlaakso",
+      "leveysaste": 60.278264,
+      "pituusaste": 24.866008,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 52,
+      "nimi": "A-Katsastus Vihti-Nummela",
+      "leveysaste": 60.325638,
+      "pituusaste": 24.287172,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 53,
+      "nimi": "A-katsastus",
+      "leveysaste": 60.223092,
+      "pituusaste": 25.114782,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 54,
+      "nimi": "A-katsastus",
+      "leveysaste": 65.04197,
+      "pituusaste": 25.546453,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 55,
+      "nimi": "A-katsastus",
+      "leveysaste": 65.165774,
+      "pituusaste": 25.346082,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 56,
+      "nimi": "A-katsastus Helsinki - Pitäjänmäki",
+      "leveysaste": 60.222889,
+      "pituusaste": 24.854342,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 57,
+      "nimi": "A-katsastus Jämsä",
+      "leveysaste": 61.856931,
+      "pituusaste": 25.180471,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 58,
+      "nimi": "A-katsastus Niittykumpu",
+      "leveysaste": 60.172266,
+      "pituusaste": 24.766575,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 59,
+      "nimi": "Ajovarma",
+      "leveysaste": 60.402846,
+      "pituusaste": 25.691865,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 60,
+      "nimi": "Ajovarma",
+      "leveysaste": 61.131524,
+      "pituusaste": 21.542134,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 61,
+      "nimi": "Ajovarma Kuopio",
+      "leveysaste": 62.885648,
+      "pituusaste": 27.631427,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 62,
+      "nimi": "Ajovarma Nokia",
+      "leveysaste": 61.493263,
+      "pituusaste": 23.540766,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 63,
+      "nimi": "Alppilan katsastus",
+      "leveysaste": 65.03708,
+      "pituusaste": 25.463126,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 64,
+      "nimi": "BestDrive Turku",
+      "leveysaste": 60.454309,
+      "pituusaste": 22.231425,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 65,
+      "nimi": "CityKatsastus",
+      "leveysaste": 60.241797,
+      "pituusaste": 24.976774,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 66,
+      "nimi": "CityKatsastus",
+      "leveysaste": 60.292263,
+      "pituusaste": 24.996131,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 67,
+      "nimi": "CityKatsastus Espoo",
+      "leveysaste": 60.199795,
+      "pituusaste": 24.595108,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 68,
+      "nimi": "CityKatsastus Hyvinkää",
+      "leveysaste": 60.610011,
+      "pituusaste": 24.855708,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 69,
+      "nimi": "CityKatsastus Hyvinkää",
+      "leveysaste": 60.610058,
+      "pituusaste": 24.855712,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 70,
+      "nimi": "DEKRA Katsastus Kerava",
+      "leveysaste": 60.398362,
+      "pituusaste": 25.110241,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 71,
+      "nimi": "Dekra Industrial Oy",
+      "leveysaste": 64.686749,
+      "pituusaste": 24.504826,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 72,
+      "nimi": "Dekra Katsastus",
+      "leveysaste": 62.642911,
+      "pituusaste": 27.093369,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 73,
+      "nimi": "Dekra Katsastus Kangasniemi",
+      "leveysaste": 61.98794,
+      "pituusaste": 26.62772,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 74,
+      "nimi": "FinnKatsastus Oy",
+      "leveysaste": 63.020102,
+      "pituusaste": 23.80168,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 75,
+      "nimi": "Fordons myndigheten",
+      "leveysaste": 60.109063,
+      "pituusaste": 19.914021,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 76,
+      "nimi": "Go-Katsastus",
+      "leveysaste": 60.242056,
+      "pituusaste": 24.843964,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 77,
+      "nimi": "Harrin Katsastus Oy",
+      "leveysaste": 63.09453,
+      "pituusaste": 22.978998,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 78,
+      "nimi": "Harrin katsastus Oy",
+      "leveysaste": 63.239832,
+      "pituusaste": 22.855336,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 79,
+      "nimi": "Harrin katsastus Oy",
+      "leveysaste": 63.239844,
+      "pituusaste": 22.855382,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 80,
+      "nimi": "Helppo Katsastus",
+      "leveysaste": 63.827334,
+      "pituusaste": 23.15851,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 81,
+      "nimi": "Helppo katsastus",
+      "leveysaste": 60.186268,
+      "pituusaste": 23.994763,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 82,
+      "nimi": "HelppoKatsastus",
+      "leveysaste": 60.161492,
+      "pituusaste": 24.631299,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 83,
+      "nimi": "HelppoKatsastus",
+      "leveysaste": 60.244906,
+      "pituusaste": 25.04626,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 84,
+      "nimi": "HelppoKatsastus",
+      "leveysaste": 61.456775,
+      "pituusaste": 23.761678,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 85,
+      "nimi": "HelppoKatsastus Ideapark Lempäälä",
+      "leveysaste": 61.36558,
+      "pituusaste": 23.795883,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 86,
+      "nimi": "HelppoKatsastus Konala",
+      "leveysaste": 60.238424,
+      "pituusaste": 24.859817,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 87,
+      "nimi": "Herttoniemen autokatsastus",
+      "leveysaste": 60.206564,
+      "pituusaste": 25.052415,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 88,
+      "nimi": "Herttoniemen autokatsastus",
+      "leveysaste": 60.206576,
+      "pituusaste": 25.052383,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 89,
+      "nimi": "Hitsaajankadun katsastus",
+      "leveysaste": 60.192674,
+      "pituusaste": 25.028596,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 90,
+      "nimi": "Imatran Autokatsastus",
+      "leveysaste": 61.18401,
+      "pituusaste": 28.743427,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 91,
+      "nimi": "Imatrankosken Katsastus",
+      "leveysaste": 61.173181,
+      "pituusaste": 28.758337,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 92,
+      "nimi": "Itä-Savon Katsastus",
+      "leveysaste": 61.858759,
+      "pituusaste": 28.937089,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 93,
+      "nimi": "Itä-Savon Katsastus",
+      "leveysaste": 61.878016,
+      "pituusaste": 28.871452,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 94,
+      "nimi": "Joen Katsatus",
+      "leveysaste": 62.630257,
+      "pituusaste": 29.782328,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 95,
+      "nimi": "Joen Katsatus",
+      "leveysaste": 62.630273,
+      "pituusaste": 29.782332,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 96,
+      "nimi": "K1",
+      "leveysaste": 60.223258,
+      "pituusaste": 25.171488,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 97,
+      "nimi": "K1",
+      "leveysaste": 63.08007,
+      "pituusaste": 21.6606,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 98,
+      "nimi": "K1",
+      "leveysaste": 63.080076,
+      "pituusaste": 21.660569,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 99,
+      "nimi": "K1 Katsastajat",
+      "leveysaste": 60.242075,
+      "pituusaste": 24.846866,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 100,
+      "nimi": "K1 Katsastajat",
+      "leveysaste": 60.863806,
+      "pituusaste": 26.655932,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 101,
+      "nimi": "K1 Katsastajat",
+      "leveysaste": 64.991002,
+      "pituusaste": 25.458271,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 102,
+      "nimi": "K1 Katsastajat",
+      "leveysaste": 64.991013,
+      "pituusaste": 25.458256,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 103,
+      "nimi": "K1 Katsastajat Rauma Papinhaka",
+      "leveysaste": 61.139932,
+      "pituusaste": 21.497791,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 104,
+      "nimi": "K1 Katsastus",
+      "leveysaste": 60.163206,
+      "pituusaste": 24.702014,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 105,
+      "nimi": "K1 Katsastus",
+      "leveysaste": 62.288851,
+      "pituusaste": 25.71624,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 106,
+      "nimi": "K1 Katsastus",
+      "leveysaste": 62.592914,
+      "pituusaste": 23.606596,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 107,
+      "nimi": "K1 Katsastus",
+      "leveysaste": 64.991856,
+      "pituusaste": 25.46357,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 108,
+      "nimi": "K1 Katsastus Espoo Koskelo",
+      "leveysaste": 60.262618,
+      "pituusaste": 24.7246,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 109,
+      "nimi": "K1 Katsastus Jakobstad Nyvägen",
+      "leveysaste": 63.677407,
+      "pituusaste": 22.740395,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 110,
+      "nimi": "K1 Katsastus Lapua Alanko",
+      "leveysaste": 62.973109,
+      "pituusaste": 23.023436,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 111,
+      "nimi": "K1 Katsastus Lohja Tynninharju",
+      "leveysaste": 60.221747,
+      "pituusaste": 24.023598,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 112,
+      "nimi": "K1 Katsastus Loviisa",
+      "leveysaste": 60.457831,
+      "pituusaste": 26.201094,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 113,
+      "nimi": "K1 Katsastus Oulu Alppila",
+      "leveysaste": 65.033125,
+      "pituusaste": 25.465514,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 114,
+      "nimi": "K1 Katsastus Turku Itäharju",
+      "leveysaste": 60.440366,
+      "pituusaste": 22.323127,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 115,
+      "nimi": "K1 Katsastus Tuusula Hyrylä",
+      "leveysaste": 60.374522,
+      "pituusaste": 25.029781,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 116,
+      "nimi": "K1 Katsastus Vantaa Kaivoksela (Bilia)",
+      "leveysaste": 60.266814,
+      "pituusaste": 24.879115,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 117,
+      "nimi": "K1 Katsasus",
+      "leveysaste": 60.473035,
+      "pituusaste": 22.066865,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 118,
+      "nimi": "K1-Katsastajat",
+      "leveysaste": 63.832801,
+      "pituusaste": 23.129402,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 119,
+      "nimi": "Karhukatsastus",
+      "leveysaste": 61.477743,
+      "pituusaste": 21.755382,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 120,
+      "nimi": "Kasitien Katsastus Mynämäki",
+      "leveysaste": 60.660159,
+      "pituusaste": 22.032559,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 121,
+      "nimi": "Katsastus 10",
+      "leveysaste": 60.470323,
+      "pituusaste": 22.06236,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 122,
+      "nimi": "Katsastus Enola",
+      "leveysaste": 60.38754,
+      "pituusaste": 23.157013,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 123,
+      "nimi": "Katsastus Hiironen",
+      "leveysaste": 64.985101,
+      "pituusaste": 25.509204,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 124,
+      "nimi": "Katsastus Kinnunen Oy",
+      "leveysaste": 61.222697,
+      "pituusaste": 28.838475,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 125,
+      "nimi": "Katsastus Turku",
+      "leveysaste": 60.481861,
+      "pituusaste": 22.307583,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 126,
+      "nimi": "Katsastus Turku",
+      "leveysaste": 60.481889,
+      "pituusaste": 22.307609,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 127,
+      "nimi": "Katsastus kontti",
+      "leveysaste": 62.215979,
+      "pituusaste": 25.722456,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 128,
+      "nimi": "Katsastus kontti",
+      "leveysaste": 62.21599,
+      "pituusaste": 25.722457,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 129,
+      "nimi": "Katsastus-Ässä Oy",
+      "leveysaste": 61.509541,
+      "pituusaste": 21.804497,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 130,
+      "nimi": "KatsastusPark Oy",
+      "leveysaste": 61.478127,
+      "pituusaste": 23.837031,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 131,
+      "nimi": "Katsastusasema",
+      "leveysaste": 66.530597,
+      "pituusaste": 25.775101,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 132,
+      "nimi": "Katsastusasema GURU",
+      "leveysaste": 63.055679,
+      "pituusaste": 27.684921,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 133,
+      "nimi": "Katsastusasema GURU",
+      "leveysaste": 63.055709,
+      "pituusaste": 27.684965,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 134,
+      "nimi": "Katsastuskontti",
+      "leveysaste": 60.235047,
+      "pituusaste": 24.891344,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 135,
+      "nimi": "Katsastuskontti Ideapark Seinäjoki",
+      "leveysaste": 62.793868,
+      "pituusaste": 22.799691,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 136,
+      "nimi": "Katsastuspiste",
+      "leveysaste": 64.998107,
+      "pituusaste": 25.458988,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 137,
+      "nimi": "Kaus-Kantolan Autokatsastus Oy",
+      "leveysaste": 60.989749,
+      "pituusaste": 24.488305,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 138,
+      "nimi": "Kaus-Kantolan Autokatsastus Oy Turenki",
+      "leveysaste": 60.944434,
+      "pituusaste": 24.621773,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 139,
+      "nimi": "Kehän Autokatsastus Oy",
+      "leveysaste": 60.232492,
+      "pituusaste": 24.858444,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 140,
+      "nimi": "Kehän Autokatsastus Ylästö",
+      "leveysaste": 60.286524,
+      "pituusaste": 24.900946,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 141,
+      "nimi": "Kehän autokatsastus",
+      "leveysaste": 60.296862,
+      "pituusaste": 24.95235,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 142,
+      "nimi": "Kirkkonummen Autokatsastus Oy",
+      "leveysaste": 60.118507,
+      "pituusaste": 24.427095,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 143,
+      "nimi": "Koillismaan Autokatsastus Oy",
+      "leveysaste": 65.958305,
+      "pituusaste": 29.160825,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 144,
+      "nimi": "Koivuhaan Autokatsastus",
+      "leveysaste": 60.293904,
+      "pituusaste": 24.997255,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 145,
+      "nimi": "Konetien Katsastus Oy",
+      "leveysaste": 65.043181,
+      "pituusaste": 25.545305,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 146,
+      "nimi": "Kouvolan katsastusasema",
+      "leveysaste": 60.869408,
+      "pituusaste": 26.656445,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 147,
+      "nimi": "Kuhmon Autokatsastus Oy",
+      "leveysaste": 64.126845,
+      "pituusaste": 29.480186,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 148,
+      "nimi": "KymppiPlus Katsastus",
+      "leveysaste": 64.071947,
+      "pituusaste": 24.519659,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 149,
+      "nimi": "Lännen Autokatsastus",
+      "leveysaste": 62.801276,
+      "pituusaste": 22.845961,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 150,
+      "nimi": "Lännen Autokatsastus",
+      "leveysaste": 62.801301,
+      "pituusaste": 22.845972,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 151,
+      "nimi": "Mäntsälän autokatsastus",
+      "leveysaste": 60.624171,
+      "pituusaste": 25.287443,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 152,
+      "nimi": "Nokian Autokatsastus",
+      "leveysaste": 61.467195,
+      "pituusaste": 23.514116,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 153,
+      "nimi": "Nosi",
+      "leveysaste": 60.990576,
+      "pituusaste": 25.535831,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 154,
+      "nimi": "Pedersöre Bilbesiktning",
+      "leveysaste": 63.633974,
+      "pituusaste": 22.843094,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 155,
+      "nimi": "Perhonjokilaakson katsastus Oy",
+      "leveysaste": 63.477267,
+      "pituusaste": 23.798744,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 156,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 60.282004,
+      "pituusaste": 25.02688,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 157,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 60.874716,
+      "pituusaste": 21.692254,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 158,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 61.009891,
+      "pituusaste": 25.680258,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 159,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 61.099466,
+      "pituusaste": 21.503698,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 160,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 61.135352,
+      "pituusaste": 21.534596,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 161,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 63.103375,
+      "pituusaste": 21.63114,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 162,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 64.063876,
+      "pituusaste": 24.549251,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 163,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 64.063913,
+      "pituusaste": 24.54928,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 164,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 64.24703,
+      "pituusaste": 23.8922,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 165,
+      "nimi": "Plus Katsastus",
+      "leveysaste": 64.247058,
+      "pituusaste": 23.892194,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 166,
+      "nimi": "Plus Katsastus Kauhajoki",
+      "leveysaste": 62.431758,
+      "pituusaste": 22.197634,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 167,
+      "nimi": "Plus Katsastus Loimaa",
+      "leveysaste": 60.846477,
+      "pituusaste": 23.029299,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 168,
+      "nimi": "Plus Katsastus Pori Mikkola",
+      "leveysaste": 61.454882,
+      "pituusaste": 21.841929,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 169,
+      "nimi": "Plus katsastus",
+      "leveysaste": 61.478726,
+      "pituusaste": 23.521408,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 170,
+      "nimi": "Porvoon Autokatsastus",
+      "leveysaste": 60.404852,
+      "pituusaste": 25.68867,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 171,
+      "nimi": "Q-Katsastus Jyväskylä",
+      "leveysaste": 62.259105,
+      "pituusaste": 25.770102,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 172,
+      "nimi": "Ruka Katsastus",
+      "leveysaste": 60.201244,
+      "pituusaste": 24.712097,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 173,
+      "nimi": "Saloisten katsastus",
+      "leveysaste": 64.661173,
+      "pituusaste": 24.469174,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 174,
+      "nimi": "Seiska Katsastus Heikinlaakso",
+      "leveysaste": 60.270768,
+      "pituusaste": 25.075043,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 175,
+      "nimi": "Seiska Katsastus Herttoniemi",
+      "leveysaste": 60.208847,
+      "pituusaste": 25.056971,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 176,
+      "nimi": "Sulan Katsastus",
+      "leveysaste": 60.395665,
+      "pituusaste": 25.062252,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 177,
+      "nimi": "Sulantien Autokatsastus Oy",
+      "leveysaste": 60.380527,
+      "pituusaste": 25.035801,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 178,
+      "nimi": "Suomen laatukatsastus Oy",
+      "leveysaste": 64.683876,
+      "pituusaste": 24.512863,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 179,
+      "nimi": "TJ-Katsastus",
+      "leveysaste": 62.136288,
+      "pituusaste": 25.671425,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 180,
+      "nimi": "Tapanilan katsastus",
+      "leveysaste": 60.259297,
+      "pituusaste": 25.019212,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 181,
+      "nimi": "Tattarisuon autokatsastus",
+      "leveysaste": 60.253053,
+      "pituusaste": 25.055226,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 182,
+      "nimi": "Tattarisuon autokatsastus",
+      "leveysaste": 60.253071,
+      "pituusaste": 25.055292,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 183,
+      "nimi": "Telcar",
+      "leveysaste": 60.253424,
+      "pituusaste": 25.061828,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 184,
+      "nimi": "Tj-katsastus",
+      "leveysaste": 62.244515,
+      "pituusaste": 25.873071,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 185,
+      "nimi": "Top Katsastus",
+      "leveysaste": 65.033421,
+      "pituusaste": 25.452291,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 186,
+      "nimi": "Top Katsastus",
+      "leveysaste": 65.040935,
+      "pituusaste": 25.552654,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 187,
+      "nimi": "Top Katsastus",
+      "leveysaste": 65.117722,
+      "pituusaste": 25.739956,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 188,
+      "nimi": "Tuurin Autokatsastus Oy",
+      "leveysaste": 62.605389,
+      "pituusaste": 23.745914,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 189,
+      "nimi": "Visun Katsastus",
+      "leveysaste": 62.12452,
+      "pituusaste": 23.920066,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 190,
+      "nimi": "Vääksyn Katsastuspalvelu Oy",
+      "leveysaste": 61.155384,
+      "pituusaste": 25.602255,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    },
+    {
+      "id": 191,
+      "nimi": "Ylälohjan autokatsastus",
+      "leveysaste": 60.454937,
+      "pituusaste": 23.953514,
+      "osm_avain": "amenity",
+      "osm_arvo": "vehicle_inspection",
+      "osm_luokka": "amenity=vehicle_inspection"
+    }
+  ],
+  "meta": {
+    "title": "Katsastusasemat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Katsastusasemat Suomessa — 191 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=vehicle_inspection`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 191 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Katsastusasemat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Katsastusasemat – Suomi (OpenStreetMap) — 191 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 191 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

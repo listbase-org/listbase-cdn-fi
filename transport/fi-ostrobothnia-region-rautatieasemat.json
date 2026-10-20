@@ -1,0 +1,246 @@
+{
+  "id": "fi-ostrobothnia-region-rautatieasemat",
+  "name": "Rautatieasemat — Ostrobothnia Region",
+  "title": "Rautatieasemat — Ostrobothnia Region",
+  "description": "Rautatieasemat ja seisakkeet Ostrobothnia Regionn maakunnassa, Suomessa (5 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28760,
+      "name": "Isokyrö",
+      "slug": "isokyro",
+      "uic": "1000295",
+      "latitude": 62.95223,
+      "longitude": 22.39416,
+      "maakunta": "Ostrobothnia Region",
+      "maakunta_slug": "ostrobothnia-region",
+      "maakunta_code": "15",
+      "lahin_postitoimipaikka": "Orismala",
+      "etaisyys_km": 0.307,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Storkyro",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28812,
+      "name": "Laihia",
+      "slug": "laihia",
+      "uic": "1000293",
+      "latitude": 62.991305,
+      "longitude": 22.002631,
+      "maakunta": "Ostrobothnia Region",
+      "maakunta_slug": "ostrobothnia-region",
+      "maakunta_code": "15",
+      "lahin_postitoimipaikka": "Laihia",
+      "etaisyys_km": 1.675,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28876,
+      "name": "Pännäinen",
+      "slug": "pannainen",
+      "uic": "1000305",
+      "latitude": 63.596797,
+      "longitude": 22.789891,
+      "maakunta": "Ostrobothnia Region",
+      "maakunta_slug": "ostrobothnia-region",
+      "maakunta_code": "15",
+      "lahin_postitoimipaikka": "Pännäinen",
+      "etaisyys_km": 1.017,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28901,
+      "name": "Tervajoki",
+      "slug": "tervajoki",
+      "uic": "1000294",
+      "latitude": 63.001945,
+      "longitude": 22.170734,
+      "maakunta": "Ostrobothnia Region",
+      "maakunta_slug": "ostrobothnia-region",
+      "maakunta_code": "15",
+      "lahin_postitoimipaikka": "Tervajoki",
+      "etaisyys_km": 0.297,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28916,
+      "name": "Vaasa",
+      "slug": "vaasa",
+      "uic": "1000288",
+      "latitude": 63.09904,
+      "longitude": 21.620718,
+      "maakunta": "Ostrobothnia Region",
+      "maakunta_slug": "ostrobothnia-region",
+      "maakunta_code": "15",
+      "lahin_postitoimipaikka": "Vaasa",
+      "etaisyys_km": 0.419,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — Ostrobothnia Region - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet Ostrobothnia Regionn maakunnassa, Suomessa (5 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 5 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — Ostrobothnia Region | ListBase",
+    "seo_description": "Lataa Rautatieasemat — Ostrobothnia Region — 5 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 5 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

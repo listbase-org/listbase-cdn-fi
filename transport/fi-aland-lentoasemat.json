@@ -1,0 +1,100 @@
+{
+  "id": "fi-aland-lentoasemat",
+  "name": "Finland / Ahvenanmaa — Airports (lentoasemat)",
+  "title": "Finland / Ahvenanmaa — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Ahvenanmaa (Åland (Aland Islands)), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Mariehamns-stad'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFMA",
+      "iata": "MHQ",
+      "name": "Mariehamn Airport",
+      "city": "",
+      "subdivision": "Mariehamns-stad",
+      "subdivision_name_fi": "Ahvenanmaa",
+      "country": "FI",
+      "elevation_ft": 17,
+      "latitude": 60.1222,
+      "longitude": 19.8982,
+      "timezone": "Europe/Mariehamn",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Ahvenanmaa — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Ahvenanmaa (Åland (Aland Islands)), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Mariehamns-stad'. Sisältää 1 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Ahvenanmaa — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Ahvenanmaa — Airports (lentoasemat) — 1 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 1 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

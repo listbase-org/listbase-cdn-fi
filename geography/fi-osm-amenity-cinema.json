@@ -1,0 +1,1465 @@
+{
+  "id": "fi-osm-amenity-cinema",
+  "name": "Elokuvateatterit – Suomi (OpenStreetMap)",
+  "title": "Elokuvateatterit – Suomi (OpenStreetMap)",
+  "description": "Elokuvateatterit Suomessa — 156 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=cinema`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 10. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 156,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Alareksi",
+      "leveysaste": 62.999335,
+      "pituusaste": 23.81868,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 2,
+      "nimi": "Altin sali",
+      "leveysaste": 61.765394,
+      "pituusaste": 23.067985,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 3,
+      "nimi": "Arthouse Cinema Niagara",
+      "leveysaste": 61.495435,
+      "pituusaste": 23.763675,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 4,
+      "nimi": "Bio Dux",
+      "leveysaste": 62.277428,
+      "pituusaste": 21.380057,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 5,
+      "nimi": "Bio Fix",
+      "leveysaste": 60.163653,
+      "pituusaste": 22.731668,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 6,
+      "nimi": "Bio Forum",
+      "leveysaste": 59.973495,
+      "pituusaste": 23.435663,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 7,
+      "nimi": "Bio Grand",
+      "leveysaste": 60.289696,
+      "pituusaste": 25.036234,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 8,
+      "nimi": "Bio Grani",
+      "leveysaste": 60.21439,
+      "pituusaste": 24.725234,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 9,
+      "nimi": "Bio Marilyn",
+      "leveysaste": 62.968085,
+      "pituusaste": 23.017527,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 10,
+      "nimi": "Bio Marlon",
+      "leveysaste": 62.426889,
+      "pituusaste": 22.179885,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 11,
+      "nimi": "Bio Pallas",
+      "leveysaste": 60.069512,
+      "pituusaste": 23.658267,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 12,
+      "nimi": "Bio Pony",
+      "leveysaste": 60.019823,
+      "pituusaste": 22.506016,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 13,
+      "nimi": "Bio Rex",
+      "leveysaste": 60.388964,
+      "pituusaste": 25.65766,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 14,
+      "nimi": "Bio Rex",
+      "leveysaste": 63.837357,
+      "pituusaste": 23.133527,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 15,
+      "nimi": "Bio Rex Tornio",
+      "leveysaste": 65.84284,
+      "pituusaste": 24.143059,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 16,
+      "nimi": "Bio Rex Verkatehdas",
+      "leveysaste": 60.99719,
+      "pituusaste": 24.477747,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 17,
+      "nimi": "Bio Savoy",
+      "leveysaste": 60.100072,
+      "pituusaste": 19.937425,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 18,
+      "nimi": "Bio Säde",
+      "leveysaste": 62.031704,
+      "pituusaste": 24.626281,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 19,
+      "nimi": "Bio Vuoksi",
+      "leveysaste": 61.225873,
+      "pituusaste": 28.833082,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 20,
+      "nimi": "Bio-Salo",
+      "leveysaste": 60.386322,
+      "pituusaste": 23.134973,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 21,
+      "nimi": "Bio-kaari",
+      "leveysaste": 60.816086,
+      "pituusaste": 23.62795,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 22,
+      "nimi": "BioRex",
+      "leveysaste": 63.096662,
+      "pituusaste": 21.618143,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 23,
+      "nimi": "BioRex",
+      "leveysaste": 63.676234,
+      "pituusaste": 22.704151,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 24,
+      "nimi": "BioRex",
+      "leveysaste": 66.501933,
+      "pituusaste": 25.729154,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 25,
+      "nimi": "BioRex Kajaani",
+      "leveysaste": 64.227644,
+      "pituusaste": 27.726985,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 26,
+      "nimi": "BioRex Lasipalatsi",
+      "leveysaste": 60.17059,
+      "pituusaste": 24.936016,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 27,
+      "nimi": "BioRex Redi",
+      "leveysaste": 60.186832,
+      "pituusaste": 24.977725,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 28,
+      "nimi": "BioRex Seinäjoki",
+      "leveysaste": 62.789669,
+      "pituusaste": 22.843859,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 29,
+      "nimi": "BioRex Sveitsi",
+      "leveysaste": 60.632668,
+      "pituusaste": 24.832842,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 30,
+      "nimi": "BioRex Tripla",
+      "leveysaste": 60.198788,
+      "pituusaste": 24.931041,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 31,
+      "nimi": "Cine Atlas",
+      "leveysaste": 61.495769,
+      "pituusaste": 23.766236,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 32,
+      "nimi": "Cine Mäntsälä",
+      "leveysaste": 60.635048,
+      "pituusaste": 25.314708,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 33,
+      "nimi": "Cine Mäntsälä",
+      "leveysaste": 60.635063,
+      "pituusaste": 25.314665,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 34,
+      "nimi": "Cinema Keuda-talo",
+      "leveysaste": 60.405191,
+      "pituusaste": 25.101092,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 35,
+      "nimi": "Cinema Sheryl",
+      "leveysaste": 60.1866,
+      "pituusaste": 24.826482,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 36,
+      "nimi": "Davvenásti",
+      "leveysaste": 69.894623,
+      "pituusaste": 27.013756,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 37,
+      "nimi": "Elokuvasali",
+      "leveysaste": 60.028561,
+      "pituusaste": 24.355456,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 38,
+      "nimi": "Elokuvasali",
+      "leveysaste": 60.028566,
+      "pituusaste": 24.355438,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 39,
+      "nimi": "Elokuvateatteri Aslak",
+      "leveysaste": 68.654356,
+      "pituusaste": 27.54123,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 40,
+      "nimi": "Elokuvateatteri Kaarre",
+      "leveysaste": 68.662658,
+      "pituusaste": 27.549053,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 41,
+      "nimi": "Elokuvateatteri Kino Hirvi",
+      "leveysaste": 62.601517,
+      "pituusaste": 25.72161,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 42,
+      "nimi": "Elokuvateatteri Lumo",
+      "leveysaste": 60.395913,
+      "pituusaste": 23.127812,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 43,
+      "nimi": "Elokuvateatteri Marita",
+      "leveysaste": 62.72586,
+      "pituusaste": 29.016521,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 44,
+      "nimi": "Elokuvateatteri Matin-Tupa",
+      "leveysaste": 62.945652,
+      "pituusaste": 22.528419,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 45,
+      "nimi": "Elokuvateatteri Matin-Tupa",
+      "leveysaste": 62.94567,
+      "pituusaste": 22.528386,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 46,
+      "nimi": "Elokuvateatteri Maxim",
+      "leveysaste": 62.314913,
+      "pituusaste": 27.876064,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 47,
+      "nimi": "Elokuvateatteri Star",
+      "leveysaste": 65.024569,
+      "pituusaste": 25.48275,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 48,
+      "nimi": "Fantasia",
+      "leveysaste": 62.242543,
+      "pituusaste": 25.745735,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 49,
+      "nimi": "Finnkino",
+      "leveysaste": 60.490417,
+      "pituusaste": 22.197714,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 50,
+      "nimi": "Finnkino Flamingo",
+      "leveysaste": 60.290525,
+      "pituusaste": 24.968321,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 51,
+      "nimi": "Finnkino Itis",
+      "leveysaste": 60.211801,
+      "pituusaste": 25.083256,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 52,
+      "nimi": "Finnkino Kinopalatsi",
+      "leveysaste": 60.171529,
+      "pituusaste": 24.946326,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 53,
+      "nimi": "Finnkino Kuvapalatsi",
+      "leveysaste": 60.983585,
+      "pituusaste": 25.660234,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 54,
+      "nimi": "Finnkino Maxim",
+      "leveysaste": 60.168348,
+      "pituusaste": 24.947686,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 55,
+      "nimi": "Finnkino Omena",
+      "leveysaste": 60.160976,
+      "pituusaste": 24.737445,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 56,
+      "nimi": "Finnkino Omena",
+      "leveysaste": 60.160996,
+      "pituusaste": 24.7374,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 57,
+      "nimi": "Finnkino Scala",
+      "leveysaste": 62.89073,
+      "pituusaste": 27.67563,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 58,
+      "nimi": "Finnkino Sello",
+      "leveysaste": 60.21826,
+      "pituusaste": 24.808405,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 59,
+      "nimi": "Finnkino Tennispalatsi",
+      "leveysaste": 60.169444,
+      "pituusaste": 24.93069,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 60,
+      "nimi": "Flying Cinema",
+      "leveysaste": 60.167561,
+      "pituusaste": 24.958239,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 61,
+      "nimi": "Folkets Hus Övertorneå",
+      "leveysaste": 66.383139,
+      "pituusaste": 23.648319,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 62,
+      "nimi": "Forssan elävienkuvien teatteri",
+      "leveysaste": 60.812868,
+      "pituusaste": 23.62413,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 63,
+      "nimi": "Gilda",
+      "leveysaste": 60.169977,
+      "pituusaste": 24.935552,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 64,
+      "nimi": "Iso-Hannu",
+      "leveysaste": 61.128467,
+      "pituusaste": 21.508045,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 65,
+      "nimi": "Julia 1 & 2",
+      "leveysaste": 60.636281,
+      "pituusaste": 24.868087,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 66,
+      "nimi": "Järvelän Kino",
+      "leveysaste": 60.866443,
+      "pituusaste": 25.268115,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 67,
+      "nimi": "Kampus Kino",
+      "leveysaste": 62.234948,
+      "pituusaste": 25.730792,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 68,
+      "nimi": "Kauttuan Kuva",
+      "leveysaste": 61.114852,
+      "pituusaste": 22.167567,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 69,
+      "nimi": "Kesäkino Engel",
+      "leveysaste": 60.168744,
+      "pituusaste": 24.95177,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 70,
+      "nimi": "Killa",
+      "leveysaste": 61.866741,
+      "pituusaste": 28.898677,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 71,
+      "nimi": "Kinema Loimaa",
+      "leveysaste": 60.85288,
+      "pituusaste": 23.055499,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 72,
+      "nimi": "Kino",
+      "leveysaste": 61.417476,
+      "pituusaste": 26.865106,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 73,
+      "nimi": "Kino",
+      "leveysaste": 63.545218,
+      "pituusaste": 23.696342,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 74,
+      "nimi": "Kino",
+      "leveysaste": 63.545225,
+      "pituusaste": 23.696405,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 75,
+      "nimi": "Kino 123",
+      "leveysaste": 60.876906,
+      "pituusaste": 26.650304,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 76,
+      "nimi": "Kino 123",
+      "leveysaste": 60.876966,
+      "pituusaste": 26.650287,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 77,
+      "nimi": "Kino Akseli",
+      "leveysaste": 60.335451,
+      "pituusaste": 24.320274,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 78,
+      "nimi": "Kino Diana",
+      "leveysaste": 60.449794,
+      "pituusaste": 22.260878,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 79,
+      "nimi": "Kino Engel",
+      "leveysaste": 60.16865,
+      "pituusaste": 24.951993,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 80,
+      "nimi": "Kino Hakalinna",
+      "leveysaste": 61.70047,
+      "pituusaste": 22.018623,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 81,
+      "nimi": "Kino Hakalinna",
+      "leveysaste": 61.700472,
+      "pituusaste": 22.018652,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 82,
+      "nimi": "Kino Hannikainen",
+      "leveysaste": 63.549298,
+      "pituusaste": 29.12749,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 83,
+      "nimi": "Kino Hetta",
+      "leveysaste": 68.395249,
+      "pituusaste": 23.667925,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 84,
+      "nimi": "Kino Iiris",
+      "leveysaste": 60.982536,
+      "pituusaste": 25.666838,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 85,
+      "nimi": "Kino K13",
+      "leveysaste": 60.165319,
+      "pituusaste": 24.965842,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 86,
+      "nimi": "Kino Kellokas",
+      "leveysaste": 67.589719,
+      "pituusaste": 24.204695,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 87,
+      "nimi": "Kino Kilta",
+      "leveysaste": 60.450108,
+      "pituusaste": 22.276268,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 88,
+      "nimi": "Kino Kirkkonummi",
+      "leveysaste": 60.118524,
+      "pituusaste": 24.439211,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 89,
+      "nimi": "Kino Kirkkonummi",
+      "leveysaste": 60.118548,
+      "pituusaste": 24.439215,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 90,
+      "nimi": "Kino Konepaja",
+      "leveysaste": 60.193815,
+      "pituusaste": 24.945327,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 91,
+      "nimi": "Kino Kyntäjä",
+      "leveysaste": 62.585566,
+      "pituusaste": 23.615868,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 92,
+      "nimi": "Kino Laika",
+      "leveysaste": 60.531223,
+      "pituusaste": 24.203679,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 93,
+      "nimi": "Kino Mantsi",
+      "leveysaste": 62.672236,
+      "pituusaste": 30.942186,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 94,
+      "nimi": "Kino Mantsi",
+      "leveysaste": 62.672258,
+      "pituusaste": 30.94219,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 95,
+      "nimi": "Kino Marilyn",
+      "leveysaste": 60.458467,
+      "pituusaste": 26.225406,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 96,
+      "nimi": "Kino Myyri",
+      "leveysaste": 60.26131,
+      "pituusaste": 24.854139,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 97,
+      "nimi": "Kino Olympia",
+      "leveysaste": 59.8249,
+      "pituusaste": 22.967539,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 98,
+      "nimi": "Kino Piispanristi",
+      "leveysaste": 60.414849,
+      "pituusaste": 22.32768,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 99,
+      "nimi": "Kino Regina",
+      "leveysaste": 60.174186,
+      "pituusaste": 24.937867,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 100,
+      "nimi": "Kino Retikka",
+      "leveysaste": 64.885167,
+      "pituusaste": 28.908583,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 101,
+      "nimi": "Kino Rio",
+      "leveysaste": 62.626246,
+      "pituusaste": 27.126793,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 102,
+      "nimi": "Kino Saimaa",
+      "leveysaste": 61.526302,
+      "pituusaste": 28.174933,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 103,
+      "nimi": "Kino Tapiola",
+      "leveysaste": 60.178884,
+      "pituusaste": 24.811028,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 104,
+      "nimi": "Kino Tervakoski",
+      "leveysaste": 60.811383,
+      "pituusaste": 24.624457,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 105,
+      "nimi": "Kino Vaakuna",
+      "leveysaste": 60.250444,
+      "pituusaste": 24.067509,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 106,
+      "nimi": "Kino Vaakuna",
+      "leveysaste": 60.250472,
+      "pituusaste": 24.067478,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 107,
+      "nimi": "Kino Virta",
+      "leveysaste": 64.259867,
+      "pituusaste": 23.946979,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 108,
+      "nimi": "Kino Visio",
+      "leveysaste": 64.139732,
+      "pituusaste": 28.394747,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 109,
+      "nimi": "Kino Visio",
+      "leveysaste": 64.139736,
+      "pituusaste": 28.394772,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 110,
+      "nimi": "Kino-Hovi",
+      "leveysaste": 62.100686,
+      "pituusaste": 30.134329,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 111,
+      "nimi": "Kino-Hovi",
+      "leveysaste": 62.100699,
+      "pituusaste": 30.134357,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 112,
+      "nimi": "Kino-Kuva",
+      "leveysaste": 62.483731,
+      "pituusaste": 21.745631,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 113,
+      "nimi": "Kino-Sampo",
+      "leveysaste": 61.267585,
+      "pituusaste": 24.027222,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 114,
+      "nimi": "Kinokulma",
+      "leveysaste": 64.269778,
+      "pituusaste": 24.819202,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 115,
+      "nimi": "Kinolinna",
+      "leveysaste": 61.69131,
+      "pituusaste": 27.27261,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 116,
+      "nimi": "Kinoma",
+      "leveysaste": 60.637372,
+      "pituusaste": 24.870529,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 117,
+      "nimi": "Kinomania",
+      "leveysaste": 62.303642,
+      "pituusaste": 27.175999,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 118,
+      "nimi": "Kinopalatsi",
+      "leveysaste": 60.453105,
+      "pituusaste": 22.266836,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 119,
+      "nimi": "Kinopalatsi",
+      "leveysaste": 60.453199,
+      "pituusaste": 22.267311,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 120,
+      "nimi": "Kinopalatsi",
+      "leveysaste": 60.464416,
+      "pituusaste": 26.940987,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 121,
+      "nimi": "Kinopoli",
+      "leveysaste": 60.186635,
+      "pituusaste": 24.833569,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 122,
+      "nimi": "Kinoset Bio Sastamala",
+      "leveysaste": 61.338068,
+      "pituusaste": 22.917104,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 123,
+      "nimi": "Korjaamo Kino",
+      "leveysaste": 60.184283,
+      "pituusaste": 24.920043,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 124,
+      "nimi": "Kurikan Kino",
+      "leveysaste": 62.613796,
+      "pituusaste": 22.399228,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 125,
+      "nimi": "Kurikan Kino",
+      "leveysaste": 62.613818,
+      "pituusaste": 22.399228,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 126,
+      "nimi": "Kuvakukko",
+      "leveysaste": 62.89389,
+      "pituusaste": 27.682142,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 127,
+      "nimi": "Kuvala",
+      "leveysaste": 60.800592,
+      "pituusaste": 21.417702,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 128,
+      "nimi": "Kuvalinna",
+      "leveysaste": 61.866907,
+      "pituusaste": 28.896621,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 129,
+      "nimi": "Lapinsuu",
+      "leveysaste": 67.418646,
+      "pituusaste": 26.592834,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 130,
+      "nimi": "Levi Summit",
+      "leveysaste": 67.800269,
+      "pituusaste": 24.811167,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 131,
+      "nimi": "Manttu",
+      "leveysaste": 63.2025,
+      "pituusaste": 28.083442,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 132,
+      "nimi": "Orion",
+      "leveysaste": 60.166431,
+      "pituusaste": 24.93276,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 133,
+      "nimi": "Pajakkakino",
+      "leveysaste": 64.125727,
+      "pituusaste": 29.519523,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 134,
+      "nimi": "Plaza",
+      "leveysaste": 65.011166,
+      "pituusaste": 25.465257,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 135,
+      "nimi": "Plevna",
+      "leveysaste": 61.501184,
+      "pituusaste": 23.758498,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 136,
+      "nimi": "Promenadi",
+      "leveysaste": 61.483907,
+      "pituusaste": 21.796577,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 137,
+      "nimi": "Reel Lahti",
+      "leveysaste": 60.982376,
+      "pituusaste": 25.666605,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 138,
+      "nimi": "Rekolan Kino",
+      "leveysaste": 60.328834,
+      "pituusaste": 25.072149,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 139,
+      "nimi": "Ritz",
+      "leveysaste": 61.686786,
+      "pituusaste": 27.26905,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 140,
+      "nimi": "Riviera Kallio",
+      "leveysaste": 60.187746,
+      "pituusaste": 24.957698,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 141,
+      "nimi": "Riviera Punavuori",
+      "leveysaste": 60.158836,
+      "pituusaste": 24.933117,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 142,
+      "nimi": "Röda Kvarn",
+      "leveysaste": 66.388531,
+      "pituusaste": 23.658297,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 143,
+      "nimi": "Strand",
+      "leveysaste": 61.056968,
+      "pituusaste": 28.194419,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 144,
+      "nimi": "Studio 123",
+      "leveysaste": 60.906534,
+      "pituusaste": 26.627534,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 145,
+      "nimi": "Studio 123 Järvenpää",
+      "leveysaste": 60.471044,
+      "pituusaste": 25.088721,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 146,
+      "nimi": "Sun Kino",
+      "leveysaste": 62.55119,
+      "pituusaste": 24.077114,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 147,
+      "nimi": "Suojan Elokuvat",
+      "leveysaste": 62.87399,
+      "pituusaste": 24.802494,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 148,
+      "nimi": "Tapio",
+      "leveysaste": 62.602556,
+      "pituusaste": 29.762217,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 149,
+      "nimi": "Teatteri Kino Juha",
+      "leveysaste": 60.461583,
+      "pituusaste": 24.806042,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 150,
+      "nimi": "Toijalan Kino",
+      "leveysaste": 61.169169,
+      "pituusaste": 23.861699,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 151,
+      "nimi": "Vihdin Kino",
+      "leveysaste": 60.419193,
+      "pituusaste": 24.316843,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 152,
+      "nimi": "Viitasaaren teatteri",
+      "leveysaste": 63.085083,
+      "pituusaste": 25.84843,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 153,
+      "nimi": "Vimpelin Vedon elokuvateatteri",
+      "leveysaste": 63.15969,
+      "pituusaste": 23.824257,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 154,
+      "nimi": "Virtain Pirtti",
+      "leveysaste": 62.234982,
+      "pituusaste": 23.778714,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 155,
+      "nimi": "Y-Kino",
+      "leveysaste": 63.09942,
+      "pituusaste": 23.05971,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    },
+    {
+      "id": 156,
+      "nimi": "biostara",
+      "leveysaste": 60.457106,
+      "pituusaste": 22.689536,
+      "osm_avain": "amenity",
+      "osm_arvo": "cinema",
+      "osm_luokka": "amenity=cinema"
+    }
+  ],
+  "meta": {
+    "title": "Elokuvateatterit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Elokuvateatterit Suomessa — 156 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=cinema`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 10. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 156 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Elokuvateatterit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Elokuvateatterit – Suomi (OpenStreetMap) — 156 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 156 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

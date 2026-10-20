@@ -1,0 +1,5452 @@
+{
+  "id": "fi-osm-amenity-bar",
+  "name": "Baarit – Suomi (OpenStreetMap)",
+  "title": "Baarit – Suomi (OpenStreetMap)",
+  "description": "Baarit Suomessa — 599 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=bar`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 599,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "1bar",
+      "leveysaste": 65.012685,
+      "pituusaste": 25.467332,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 2,
+      "nimi": "Aaltone Bar",
+      "leveysaste": 61.49979,
+      "pituusaste": 23.783314,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 3,
+      "nimi": "Adlon Pizzeria & Sportsbar",
+      "leveysaste": 60.094954,
+      "pituusaste": 19.927855,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 4,
+      "nimi": "Akselin Tupa",
+      "leveysaste": 60.444943,
+      "pituusaste": 22.392466,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 5,
+      "nimi": "Ala-asema",
+      "leveysaste": 67.551539,
+      "pituusaste": 24.258174,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 6,
+      "nimi": "Ale Pub",
+      "leveysaste": 60.629047,
+      "pituusaste": 24.857631,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 7,
+      "nimi": "Allasbaari",
+      "leveysaste": 61.511328,
+      "pituusaste": 23.773748,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 8,
+      "nimi": "Alppilan Huone",
+      "leveysaste": 60.190974,
+      "pituusaste": 24.945815,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 9,
+      "nimi": "Alvar",
+      "leveysaste": 60.451438,
+      "pituusaste": 22.258277,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 10,
+      "nimi": "Ambassador Karaoke & Club",
+      "leveysaste": 60.168525,
+      "pituusaste": 24.950824,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 11,
+      "nimi": "Ambient Bar",
+      "leveysaste": 60.207633,
+      "pituusaste": 24.974719,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 12,
+      "nimi": "American Bar",
+      "leveysaste": 60.167693,
+      "pituusaste": 24.938757,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 13,
+      "nimi": "Anne's Bar",
+      "leveysaste": 68.419185,
+      "pituusaste": 27.419621,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 14,
+      "nimi": "Anniskeluravintola Ruma",
+      "leveysaste": 61.498165,
+      "pituusaste": 23.769466,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 15,
+      "nimi": "Another Doggy",
+      "leveysaste": 62.601398,
+      "pituusaste": 29.762734,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 16,
+      "nimi": "Antero",
+      "leveysaste": 63.547843,
+      "pituusaste": 23.690438,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 17,
+      "nimi": "Apollo Silent Karaoke & Disco",
+      "leveysaste": 65.012692,
+      "pituusaste": 25.479889,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 18,
+      "nimi": "Apollo Street Bar",
+      "leveysaste": 60.168892,
+      "pituusaste": 24.938721,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 19,
+      "nimi": "Apotek viinibaari",
+      "leveysaste": 60.166365,
+      "pituusaste": 24.932469,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 20,
+      "nimi": "Arin Baari",
+      "leveysaste": 66.504086,
+      "pituusaste": 25.722516,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 21,
+      "nimi": "Arkade",
+      "leveysaste": 60.165558,
+      "pituusaste": 24.933262,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 22,
+      "nimi": "Arvo",
+      "leveysaste": 60.447027,
+      "pituusaste": 22.245418,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 23,
+      "nimi": "Ateljée Bar Hotel Torni",
+      "leveysaste": 60.16781,
+      "pituusaste": 24.938644,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 24,
+      "nimi": "Aulabaari",
+      "leveysaste": 66.543136,
+      "pituusaste": 25.84471,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 25,
+      "nimi": "AuraBiljardi",
+      "leveysaste": 60.453047,
+      "pituusaste": 22.269222,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 26,
+      "nimi": "B-Side Bar",
+      "leveysaste": 60.190146,
+      "pituusaste": 24.972237,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 27,
+      "nimi": "B-Side Bar",
+      "leveysaste": 60.190153,
+      "pituusaste": 24.972209,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 28,
+      "nimi": "BAR5",
+      "leveysaste": 64.07444,
+      "pituusaste": 24.537281,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 29,
+      "nimi": "BLVD",
+      "leveysaste": 60.163901,
+      "pituusaste": 24.936188,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 30,
+      "nimi": "Baana",
+      "leveysaste": 60.90572,
+      "pituusaste": 26.625176,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 31,
+      "nimi": "Backstage bar",
+      "leveysaste": 64.22617,
+      "pituusaste": 27.731853,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 32,
+      "nimi": "Balls",
+      "leveysaste": 64.222905,
+      "pituusaste": 27.730247,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 33,
+      "nimi": "Bar & Bistro",
+      "leveysaste": 60.982963,
+      "pituusaste": 25.659885,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 34,
+      "nimi": "Bar & Cafe Vispiläkauppa",
+      "leveysaste": 62.600929,
+      "pituusaste": 29.762219,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 35,
+      "nimi": "Bar & Cafe Volum",
+      "leveysaste": 60.385982,
+      "pituusaste": 23.129847,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 36,
+      "nimi": "Bar & Grill Lanko",
+      "leveysaste": 60.851944,
+      "pituusaste": 23.0583,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 37,
+      "nimi": "Bar & Night Club Omega",
+      "leveysaste": 60.472856,
+      "pituusaste": 25.088366,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 38,
+      "nimi": "Bar 10",
+      "leveysaste": 60.185719,
+      "pituusaste": 24.953022,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 39,
+      "nimi": "Bar 16",
+      "leveysaste": 61.172601,
+      "pituusaste": 25.547167,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 40,
+      "nimi": "Bar 34",
+      "leveysaste": 60.29371,
+      "pituusaste": 25.034559,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 41,
+      "nimi": "Bar Alakerta",
+      "leveysaste": 67.804665,
+      "pituusaste": 24.803442,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 42,
+      "nimi": "Bar Alanya",
+      "leveysaste": 61.500502,
+      "pituusaste": 23.754932,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 43,
+      "nimi": "Bar All In",
+      "leveysaste": 60.171953,
+      "pituusaste": 24.945371,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 44,
+      "nimi": "Bar Baltic Bay",
+      "leveysaste": 60.154915,
+      "pituusaste": 24.907064,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 45,
+      "nimi": "Bar Bronco",
+      "leveysaste": 60.163294,
+      "pituusaste": 24.941267,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 46,
+      "nimi": "Bar Böle",
+      "leveysaste": 60.198758,
+      "pituusaste": 24.925548,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 47,
+      "nimi": "Bar Casanova",
+      "leveysaste": 60.151669,
+      "pituusaste": 24.646996,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 48,
+      "nimi": "Bar Cheers",
+      "leveysaste": 60.221473,
+      "pituusaste": 25.138877,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 49,
+      "nimi": "Bar Edgar",
+      "leveysaste": 60.852223,
+      "pituusaste": 23.05979,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 50,
+      "nimi": "Bar Favela",
+      "leveysaste": 60.17199,
+      "pituusaste": 24.920477,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 51,
+      "nimi": "Bar Fiilis",
+      "leveysaste": 61.058897,
+      "pituusaste": 28.187476,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 52,
+      "nimi": "Bar Finnegans",
+      "leveysaste": 60.397708,
+      "pituusaste": 25.019358,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 53,
+      "nimi": "Bar Flagon",
+      "leveysaste": 60.18744,
+      "pituusaste": 24.964425,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 54,
+      "nimi": "Bar Freetime",
+      "leveysaste": 62.890667,
+      "pituusaste": 27.675298,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 55,
+      "nimi": "Bar Haven",
+      "leveysaste": 60.166453,
+      "pituusaste": 24.951555,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 56,
+      "nimi": "Bar Hehku",
+      "leveysaste": 61.128692,
+      "pituusaste": 21.511166,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 57,
+      "nimi": "Bar Hurmos",
+      "leveysaste": 62.604301,
+      "pituusaste": 25.721435,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 58,
+      "nimi": "Bar Ihku",
+      "leveysaste": 61.497253,
+      "pituusaste": 23.756779,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 59,
+      "nimi": "Bar Into",
+      "leveysaste": 60.453484,
+      "pituusaste": 22.270665,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 60,
+      "nimi": "Bar Joker",
+      "leveysaste": 60.860524,
+      "pituusaste": 26.718995,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 61,
+      "nimi": "Bar K8",
+      "leveysaste": 60.164007,
+      "pituusaste": 24.968025,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 62,
+      "nimi": "Bar Kaappi",
+      "leveysaste": 67.550932,
+      "pituusaste": 24.256369,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 63,
+      "nimi": "Bar Kohde",
+      "leveysaste": 60.983323,
+      "pituusaste": 25.658622,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 64,
+      "nimi": "Bar Kultakala",
+      "leveysaste": 60.629562,
+      "pituusaste": 24.858174,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 65,
+      "nimi": "Bar Lasku",
+      "leveysaste": 62.891557,
+      "pituusaste": 27.681429,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 66,
+      "nimi": "Bar Leinikki",
+      "leveysaste": 60.309713,
+      "pituusaste": 25.03126,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 67,
+      "nimi": "Bar Lemppari",
+      "leveysaste": 60.229214,
+      "pituusaste": 24.880976,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 68,
+      "nimi": "Bar Llamas",
+      "leveysaste": 60.163457,
+      "pituusaste": 24.9424,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 69,
+      "nimi": "Bar Marix",
+      "leveysaste": 61.056611,
+      "pituusaste": 28.191702,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 70,
+      "nimi": "Bar Mate",
+      "leveysaste": 60.16426,
+      "pituusaste": 24.945281,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 71,
+      "nimi": "Bar Mister X",
+      "leveysaste": 60.236318,
+      "pituusaste": 25.082959,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 72,
+      "nimi": "Bar Moe's Jyväskylä",
+      "leveysaste": 62.242612,
+      "pituusaste": 25.751908,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 73,
+      "nimi": "Bar Molotow",
+      "leveysaste": 60.188488,
+      "pituusaste": 24.953618,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 74,
+      "nimi": "Bar Nousu",
+      "leveysaste": 62.891698,
+      "pituusaste": 27.681404,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 75,
+      "nimi": "Bar Nova",
+      "leveysaste": 60.983111,
+      "pituusaste": 25.653833,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 76,
+      "nimi": "Bar Pataruukki",
+      "leveysaste": 63.065525,
+      "pituusaste": 28.329351,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 77,
+      "nimi": "Bar Pataruukki",
+      "leveysaste": 63.065532,
+      "pituusaste": 28.329324,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 78,
+      "nimi": "Bar Pikajuna",
+      "leveysaste": 60.199097,
+      "pituusaste": 24.933748,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 79,
+      "nimi": "Bar Pinetto",
+      "leveysaste": 60.236096,
+      "pituusaste": 25.081493,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 80,
+      "nimi": "Bar PintStop",
+      "leveysaste": 60.227031,
+      "pituusaste": 24.740106,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 81,
+      "nimi": "Bar Play",
+      "leveysaste": 62.601201,
+      "pituusaste": 29.761094,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 82,
+      "nimi": "Bar Q",
+      "leveysaste": 61.171409,
+      "pituusaste": 28.772151,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 83,
+      "nimi": "Bar Ripido",
+      "leveysaste": 60.459674,
+      "pituusaste": 22.196658,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 84,
+      "nimi": "Bar Score",
+      "leveysaste": 60.403457,
+      "pituusaste": 25.101614,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 85,
+      "nimi": "Bar Skogster",
+      "leveysaste": 60.996789,
+      "pituusaste": 24.467762,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 86,
+      "nimi": "Bar Taso",
+      "leveysaste": 60.996809,
+      "pituusaste": 24.463049,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 87,
+      "nimi": "Bar Teos",
+      "leveysaste": 60.180523,
+      "pituusaste": 24.924872,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 88,
+      "nimi": "Bar Toimisto",
+      "leveysaste": 60.447051,
+      "pituusaste": 22.27156,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 89,
+      "nimi": "Bar Tuiteri",
+      "leveysaste": 62.226624,
+      "pituusaste": 25.770589,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 90,
+      "nimi": "Bar Tuttu",
+      "leveysaste": 64.226591,
+      "pituusaste": 27.72939,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 91,
+      "nimi": "Bar Wilbur",
+      "leveysaste": 60.333618,
+      "pituusaste": 24.325692,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 92,
+      "nimi": "Bar m'UKI",
+      "leveysaste": 60.799528,
+      "pituusaste": 21.4109,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 93,
+      "nimi": "Bar&Bistro Rouge",
+      "leveysaste": 62.59834,
+      "pituusaste": 29.761179,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 94,
+      "nimi": "Barbers & Beer Company",
+      "leveysaste": 60.184233,
+      "pituusaste": 24.948098,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 95,
+      "nimi": "Bardem",
+      "leveysaste": 60.169891,
+      "pituusaste": 24.945706,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 96,
+      "nimi": "Basbas Kulma",
+      "leveysaste": 60.157811,
+      "pituusaste": 24.933758,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 97,
+      "nimi": "Baston",
+      "leveysaste": 60.293367,
+      "pituusaste": 25.035458,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 98,
+      "nimi": "Beck's Bar & Grill",
+      "leveysaste": 61.500289,
+      "pituusaste": 23.78419,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 99,
+      "nimi": "Bhangra",
+      "leveysaste": 60.17465,
+      "pituusaste": 24.921874,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 100,
+      "nimi": "Bikini-Bar",
+      "leveysaste": 61.56782,
+      "pituusaste": 21.518569,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 101,
+      "nimi": "Biljardibar Fiesta",
+      "leveysaste": 60.236764,
+      "pituusaste": 25.082342,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 102,
+      "nimi": "Birra",
+      "leveysaste": 61.060051,
+      "pituusaste": 28.184842,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 103,
+      "nimi": "Bisto Lounge",
+      "leveysaste": 62.603565,
+      "pituusaste": 29.763916,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 104,
+      "nimi": "Blanda",
+      "leveysaste": 60.168956,
+      "pituusaste": 24.952758,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 105,
+      "nimi": "Bloc",
+      "leveysaste": 60.63121,
+      "pituusaste": 24.860028,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 106,
+      "nimi": "Blue Moon",
+      "leveysaste": 62.011235,
+      "pituusaste": 23.025061,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 107,
+      "nimi": "Bob's Laundry",
+      "leveysaste": 60.159129,
+      "pituusaste": 24.932858,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 108,
+      "nimi": "Bodom Bar & Sauna",
+      "leveysaste": 60.170871,
+      "pituusaste": 24.756833,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 109,
+      "nimi": "Boomers Bar",
+      "leveysaste": 61.49696,
+      "pituusaste": 23.767245,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 110,
+      "nimi": "BowlCircus Vuokatti",
+      "leveysaste": 64.150629,
+      "pituusaste": 28.242456,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 111,
+      "nimi": "Brewster Bar",
+      "leveysaste": 60.163166,
+      "pituusaste": 24.941484,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 112,
+      "nimi": "Bricco",
+      "leveysaste": 60.167769,
+      "pituusaste": 24.93962,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 113,
+      "nimi": "Bristol",
+      "leveysaste": 60.45047,
+      "pituusaste": 22.278484,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 114,
+      "nimi": "Bronx",
+      "leveysaste": 60.123099,
+      "pituusaste": 24.438879,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 115,
+      "nimi": "Brooklyn",
+      "leveysaste": 60.868298,
+      "pituusaste": 26.699818,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 116,
+      "nimi": "Börs Katto",
+      "leveysaste": 60.451094,
+      "pituusaste": 22.268463,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 117,
+      "nimi": "Cafe Bar Luna",
+      "leveysaste": 60.265495,
+      "pituusaste": 24.852666,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 118,
+      "nimi": "Cafe Bar Torni",
+      "leveysaste": 60.741036,
+      "pituusaste": 24.768376,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 119,
+      "nimi": "Cafe Europa",
+      "leveysaste": 62.243484,
+      "pituusaste": 25.746614,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 120,
+      "nimi": "Café & Bar Odessa",
+      "leveysaste": 60.194122,
+      "pituusaste": 24.945303,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 121,
+      "nimi": "Café Bar Valimo",
+      "leveysaste": 60.146017,
+      "pituusaste": 24.982317,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 122,
+      "nimi": "Café Talo",
+      "leveysaste": 60.180339,
+      "pituusaste": 24.950697,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 123,
+      "nimi": "Cask Room",
+      "leveysaste": 61.498843,
+      "pituusaste": 23.77141,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 124,
+      "nimi": "Centro",
+      "leveysaste": 60.540956,
+      "pituusaste": 22.220986,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 125,
+      "nimi": "Chacha's Bar",
+      "leveysaste": 60.229607,
+      "pituusaste": 24.896657,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 126,
+      "nimi": "Champagne bar Santé",
+      "leveysaste": 61.497483,
+      "pituusaste": 23.766304,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 127,
+      "nimi": "Chez Francois Afro Bar",
+      "leveysaste": 60.252596,
+      "pituusaste": 25.005809,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 128,
+      "nimi": "Chihuahua Julep",
+      "leveysaste": 60.165045,
+      "pituusaste": 24.944197,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 129,
+      "nimi": "Cigges",
+      "leveysaste": 60.435345,
+      "pituusaste": 22.225765,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 130,
+      "nimi": "Clarion Sky Room",
+      "leveysaste": 60.159999,
+      "pituusaste": 24.922268,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 131,
+      "nimi": "Classic Bar",
+      "leveysaste": 60.163152,
+      "pituusaste": 24.941903,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 132,
+      "nimi": "Club Bakkanaali",
+      "leveysaste": 60.486944,
+      "pituusaste": 26.750247,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 133,
+      "nimi": "Club Escape",
+      "leveysaste": 62.243787,
+      "pituusaste": 25.75008,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 134,
+      "nimi": "Club Frendi",
+      "leveysaste": 60.300389,
+      "pituusaste": 22.302181,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 135,
+      "nimi": "Club Kapina",
+      "leveysaste": 60.63533,
+      "pituusaste": 25.319025,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 136,
+      "nimi": "Club Scooter",
+      "leveysaste": 63.751713,
+      "pituusaste": 25.316588,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 137,
+      "nimi": "Club18 Restaurant",
+      "leveysaste": 60.068529,
+      "pituusaste": 23.661359,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 138,
+      "nimi": "Cocktail Bar Inferno",
+      "leveysaste": 60.629429,
+      "pituusaste": 24.857309,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 139,
+      "nimi": "Cocktail company",
+      "leveysaste": 65.013394,
+      "pituusaste": 25.47368,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 140,
+      "nimi": "Cocoloco KaraokeBar",
+      "leveysaste": 60.448268,
+      "pituusaste": 22.281476,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 141,
+      "nimi": "Corona Baari & Biljardi",
+      "leveysaste": 60.19406,
+      "pituusaste": 24.945245,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 142,
+      "nimi": "Crazy Wine",
+      "leveysaste": 60.169018,
+      "pituusaste": 24.959837,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 143,
+      "nimi": "Delorean",
+      "leveysaste": 62.243554,
+      "pituusaste": 25.747412,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 144,
+      "nimi": "Dinos Bar",
+      "leveysaste": 60.099939,
+      "pituusaste": 19.94346,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 145,
+      "nimi": "Doggy Park",
+      "leveysaste": 62.596989,
+      "pituusaste": 29.762954,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 146,
+      "nimi": "Draft Sports Bar",
+      "leveysaste": 60.198096,
+      "pituusaste": 24.930657,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 147,
+      "nimi": "Dubrovnik",
+      "leveysaste": 60.194026,
+      "pituusaste": 24.945649,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 148,
+      "nimi": "Eikan Pankki",
+      "leveysaste": 60.470919,
+      "pituusaste": 25.087833,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 149,
+      "nimi": "Eikan Pub",
+      "leveysaste": 60.472572,
+      "pituusaste": 25.086177,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 150,
+      "nimi": "Factory Bar",
+      "leveysaste": 60.168854,
+      "pituusaste": 24.928861,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 151,
+      "nimi": "Fairytale",
+      "leveysaste": 60.18752,
+      "pituusaste": 24.957423,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 152,
+      "nimi": "Fazer Champagne",
+      "leveysaste": 60.168551,
+      "pituusaste": 24.942258,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 153,
+      "nimi": "Fellows",
+      "leveysaste": 60.182622,
+      "pituusaste": 24.925527,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 154,
+      "nimi": "Fins",
+      "leveysaste": 60.220765,
+      "pituusaste": 24.812827,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 155,
+      "nimi": "Flow Bar",
+      "leveysaste": 60.184793,
+      "pituusaste": 24.946658,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 156,
+      "nimi": "Food&Bar Steamhouse",
+      "leveysaste": 60.478341,
+      "pituusaste": 22.036561,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 157,
+      "nimi": "Foxi",
+      "leveysaste": 65.84848,
+      "pituusaste": 24.146303,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 158,
+      "nimi": "Freetime",
+      "leveysaste": 62.243436,
+      "pituusaste": 25.749207,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 159,
+      "nimi": "Galaxie Center",
+      "leveysaste": 60.447586,
+      "pituusaste": 22.258074,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 160,
+      "nimi": "Galaxie Center",
+      "leveysaste": 61.497467,
+      "pituusaste": 23.77238,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 161,
+      "nimi": "Gate A21",
+      "leveysaste": 60.166755,
+      "pituusaste": 24.937302,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 162,
+      "nimi": "Giggling Marlin",
+      "leveysaste": 61.059388,
+      "pituusaste": 28.184537,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 163,
+      "nimi": "Ginibaari",
+      "leveysaste": 61.573834,
+      "pituusaste": 28.147101,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 164,
+      "nimi": "Goldfish",
+      "leveysaste": 60.162583,
+      "pituusaste": 24.946462,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 165,
+      "nimi": "Grande bar & café",
+      "leveysaste": 66.501896,
+      "pituusaste": 25.729381,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 166,
+      "nimi": "Groovetown Jack",
+      "leveysaste": 60.16386,
+      "pituusaste": 24.943524,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 167,
+      "nimi": "Grön",
+      "leveysaste": 64.226193,
+      "pituusaste": 27.731531,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 168,
+      "nimi": "H5 Bar",
+      "leveysaste": 61.498225,
+      "pituusaste": 23.769671,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 169,
+      "nimi": "HOB Mukavuusalue | Comfort Zone",
+      "leveysaste": 60.182761,
+      "pituusaste": 24.981528,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 170,
+      "nimi": "Haarikka",
+      "leveysaste": 61.054152,
+      "pituusaste": 28.140793,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 171,
+      "nimi": "Haarikka",
+      "leveysaste": 61.054184,
+      "pituusaste": 28.140794,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 172,
+      "nimi": "Hallinkulma",
+      "leveysaste": 60.567852,
+      "pituusaste": 27.193244,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 173,
+      "nimi": "Happy Bar Jolene",
+      "leveysaste": 63.09626,
+      "pituusaste": 21.613473,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 174,
+      "nimi": "Harhar room Pub",
+      "leveysaste": 60.398033,
+      "pituusaste": 24.98132,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 175,
+      "nimi": "Harry’s Bar",
+      "leveysaste": 60.174153,
+      "pituusaste": 24.951592,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 176,
+      "nimi": "Hartolan Baari",
+      "leveysaste": 61.146722,
+      "pituusaste": 26.515511,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 177,
+      "nimi": "Haukansiipi",
+      "leveysaste": 60.374975,
+      "pituusaste": 25.018264,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 178,
+      "nimi": "Haukka Music Bar",
+      "leveysaste": 60.457131,
+      "pituusaste": 26.934949,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 179,
+      "nimi": "Havana Bar",
+      "leveysaste": 60.474775,
+      "pituusaste": 22.032282,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 180,
+      "nimi": "Havana Bar&Coffee",
+      "leveysaste": 61.48404,
+      "pituusaste": 21.795857,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 181,
+      "nimi": "Heidi's Bier Bar",
+      "leveysaste": 61.485352,
+      "pituusaste": 21.794128,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 182,
+      "nimi": "Heidi's Bier Bar",
+      "leveysaste": 61.497533,
+      "pituusaste": 23.756072,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 183,
+      "nimi": "Helkan Baari",
+      "leveysaste": 60.169785,
+      "pituusaste": 24.927101,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 184,
+      "nimi": "Helle",
+      "leveysaste": 61.688356,
+      "pituusaste": 27.274447,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 185,
+      "nimi": "Helle",
+      "leveysaste": 61.688869,
+      "pituusaste": 27.271508,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 186,
+      "nimi": "Helsing Bar",
+      "leveysaste": 60.184836,
+      "pituusaste": 24.951763,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 187,
+      "nimi": "Helsinki Shot Bar",
+      "leveysaste": 60.16972,
+      "pituusaste": 24.946588,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 188,
+      "nimi": "Hemingway's",
+      "leveysaste": 60.291936,
+      "pituusaste": 25.042024,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 189,
+      "nimi": "Henry's Music Bar",
+      "leveysaste": 60.169673,
+      "pituusaste": 24.936024,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 190,
+      "nimi": "Heräämå",
+      "leveysaste": 60.196647,
+      "pituusaste": 24.961613,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 191,
+      "nimi": "Hesari 13",
+      "leveysaste": 60.187381,
+      "pituusaste": 24.955761,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 192,
+      "nimi": "Hevimesta",
+      "leveysaste": 65.009988,
+      "pituusaste": 25.469853,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 193,
+      "nimi": "Hiisi Taproom & Bottleshop",
+      "leveysaste": 62.239155,
+      "pituusaste": 25.754504,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 194,
+      "nimi": "Hilpeä Hilma",
+      "leveysaste": 60.983589,
+      "pituusaste": 25.65938,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 195,
+      "nimi": "Hiltsun Baari",
+      "leveysaste": 60.422438,
+      "pituusaste": 24.30857,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 196,
+      "nimi": "HogoHuone",
+      "leveysaste": 60.183029,
+      "pituusaste": 24.954327,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 197,
+      "nimi": "Holiday Bar",
+      "leveysaste": 60.168755,
+      "pituusaste": 24.959107,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 198,
+      "nimi": "Holvi",
+      "leveysaste": 61.314629,
+      "pituusaste": 22.145806,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 199,
+      "nimi": "Hophaus Kuopio",
+      "leveysaste": 62.891888,
+      "pituusaste": 27.681487,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 200,
+      "nimi": "Hotelli Lakeside Aulabaari",
+      "leveysaste": 64.136868,
+      "pituusaste": 28.252883,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 201,
+      "nimi": "House Of Rock Bar",
+      "leveysaste": 60.867381,
+      "pituusaste": 26.704714,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 202,
+      "nimi": "Huippu Baari",
+      "leveysaste": 60.957195,
+      "pituusaste": 25.672298,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 203,
+      "nimi": "Hunter",
+      "leveysaste": 62.88372,
+      "pituusaste": 27.613165,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 204,
+      "nimi": "Hutikan baari",
+      "leveysaste": 62.800004,
+      "pituusaste": 30.156585,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 205,
+      "nimi": "Huuhaa Astro Bar & Bistro",
+      "leveysaste": 60.190334,
+      "pituusaste": 24.972438,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 206,
+      "nimi": "Huutokonttorin Kanttiini",
+      "leveysaste": 60.160013,
+      "pituusaste": 24.920957,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 207,
+      "nimi": "Hölmöla",
+      "leveysaste": 67.805664,
+      "pituusaste": 24.807829,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 208,
+      "nimi": "H₂O₂ Bar",
+      "leveysaste": 60.184233,
+      "pituusaste": 24.960285,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 209,
+      "nimi": "Ice Bar",
+      "leveysaste": 67.542461,
+      "pituusaste": 24.494322,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 210,
+      "nimi": "Ihku",
+      "leveysaste": 65.012005,
+      "pituusaste": 25.467381,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 211,
+      "nimi": "Iskelmä baari",
+      "leveysaste": 60.739761,
+      "pituusaste": 24.774932,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 212,
+      "nimi": "Jack-up",
+      "leveysaste": 60.567092,
+      "pituusaste": 27.190859,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 213,
+      "nimi": "Jackie",
+      "leveysaste": 60.162999,
+      "pituusaste": 24.94042,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 214,
+      "nimi": "Jaltra Bar",
+      "leveysaste": 61.498429,
+      "pituusaste": 23.768117,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 215,
+      "nimi": "James Dean bar",
+      "leveysaste": 60.472379,
+      "pituusaste": 25.089914,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 216,
+      "nimi": "Jengi Bar & Café",
+      "leveysaste": 64.259215,
+      "pituusaste": 23.949464,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 217,
+      "nimi": "Jenny",
+      "leveysaste": 60.446754,
+      "pituusaste": 22.264164,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 218,
+      "nimi": "Jerun Piilopaikka",
+      "leveysaste": 61.498433,
+      "pituusaste": 23.768193,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 219,
+      "nimi": "Jes!Box Sports Bar",
+      "leveysaste": 61.493002,
+      "pituusaste": 23.773882,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 220,
+      "nimi": "Jetset",
+      "leveysaste": 65.846693,
+      "pituusaste": 24.149685,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 221,
+      "nimi": "Joella",
+      "leveysaste": 63.317991,
+      "pituusaste": 30.028895,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 222,
+      "nimi": "Joku Paikallinen Pubi Ii",
+      "leveysaste": 65.323322,
+      "pituusaste": 25.376556,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 223,
+      "nimi": "Jolene",
+      "leveysaste": 60.868157,
+      "pituusaste": 26.700137,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 224,
+      "nimi": "Jolene Happy Bar",
+      "leveysaste": 62.891708,
+      "pituusaste": 27.681599,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 225,
+      "nimi": "Jolene karaoke bar",
+      "leveysaste": 61.484216,
+      "pituusaste": 21.794363,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 226,
+      "nimi": "Juliuksen Olohuone",
+      "leveysaste": 60.994785,
+      "pituusaste": 24.462978,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 227,
+      "nimi": "Juova Hanahuone",
+      "leveysaste": 60.171204,
+      "pituusaste": 24.947222,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 228,
+      "nimi": "Jurtti Pub",
+      "leveysaste": 61.745404,
+      "pituusaste": 26.123069,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 229,
+      "nimi": "Kahvi baari",
+      "leveysaste": 63.897215,
+      "pituusaste": 23.92548,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 230,
+      "nimi": "Kahvi- & Oluttupa Kaarna",
+      "leveysaste": 61.877823,
+      "pituusaste": 21.823305,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 231,
+      "nimi": "Kahvila Kivibaari",
+      "leveysaste": 61.735496,
+      "pituusaste": 25.886242,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 232,
+      "nimi": "Kahvila-Ravintola Aallonmurtaja",
+      "leveysaste": 61.591003,
+      "pituusaste": 21.480217,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 233,
+      "nimi": "Kaima Baari",
+      "leveysaste": 60.996315,
+      "pituusaste": 24.466612,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 234,
+      "nimi": "KaivoBar13",
+      "leveysaste": 60.467898,
+      "pituusaste": 22.020097,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 235,
+      "nimi": "Kaivopuiston Mattolaituri",
+      "leveysaste": 60.153823,
+      "pituusaste": 24.955893,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 236,
+      "nimi": "Kalevi",
+      "leveysaste": 61.485969,
+      "pituusaste": 21.797576,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 237,
+      "nimi": "Kalkkisillan laituriterassi",
+      "leveysaste": 64.231159,
+      "pituusaste": 27.724792,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 238,
+      "nimi": "Kallio Bar",
+      "leveysaste": 60.181225,
+      "pituusaste": 24.953139,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 239,
+      "nimi": "Kannel-Krouvi",
+      "leveysaste": 60.239355,
+      "pituusaste": 24.875454,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 240,
+      "nimi": "Kannus Pub",
+      "leveysaste": 63.899943,
+      "pituusaste": 23.916593,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 241,
+      "nimi": "Kansan Baari",
+      "leveysaste": 61.463627,
+      "pituusaste": 24.074044,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 242,
+      "nimi": "Kansan pubi",
+      "leveysaste": 66.501437,
+      "pituusaste": 25.725697,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 243,
+      "nimi": "Kantakrouvi",
+      "leveysaste": 65.011687,
+      "pituusaste": 25.476503,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 244,
+      "nimi": "Kanuuna",
+      "leveysaste": 62.008496,
+      "pituusaste": 23.012675,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 245,
+      "nimi": "Kapakka²",
+      "leveysaste": 61.128593,
+      "pituusaste": 21.507827,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 246,
+      "nimi": "Karaoke Bar Jolene",
+      "leveysaste": 60.738754,
+      "pituusaste": 24.774374,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 247,
+      "nimi": "Karaokebaari Hirvi",
+      "leveysaste": 60.184596,
+      "pituusaste": 24.960717,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 248,
+      "nimi": "Kasibar",
+      "leveysaste": 62.625831,
+      "pituusaste": 27.115469,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 249,
+      "nimi": "Kattoterassi Brygä",
+      "leveysaste": 61.128119,
+      "pituusaste": 21.507199,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 250,
+      "nimi": "Kebardi Pub",
+      "leveysaste": 60.567789,
+      "pituusaste": 27.193872,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 251,
+      "nimi": "Kievari Sillankorva",
+      "leveysaste": 63.776386,
+      "pituusaste": 24.256134,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 252,
+      "nimi": "Kievari Sillankorva",
+      "leveysaste": 63.776437,
+      "pituusaste": 24.256043,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 253,
+      "nimi": "Kiivi's Café & Bar",
+      "leveysaste": 60.157527,
+      "pituusaste": 24.913327,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 254,
+      "nimi": "Kilta",
+      "leveysaste": 63.838635,
+      "pituusaste": 23.136707,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 255,
+      "nimi": "King Bar",
+      "leveysaste": 60.228045,
+      "pituusaste": 24.902733,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 256,
+      "nimi": "Kino Laikan baari",
+      "leveysaste": 60.531312,
+      "pituusaste": 24.203529,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 257,
+      "nimi": "Kirjuri",
+      "leveysaste": 60.43332,
+      "pituusaste": 22.348073,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 258,
+      "nimi": "Kiska",
+      "leveysaste": 60.167057,
+      "pituusaste": 24.944212,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 259,
+      "nimi": "Kiva",
+      "leveysaste": 60.388689,
+      "pituusaste": 25.662845,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 260,
+      "nimi": "Kiva",
+      "leveysaste": 60.388714,
+      "pituusaste": 25.662822,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 261,
+      "nimi": "Kliffa & Klubi",
+      "leveysaste": 60.392645,
+      "pituusaste": 25.65983,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 262,
+      "nimi": "Klubi Femma",
+      "leveysaste": 60.261172,
+      "pituusaste": 24.854153,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 263,
+      "nimi": "Klubimies",
+      "leveysaste": 61.498037,
+      "pituusaste": 23.762631,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 264,
+      "nimi": "Kohina-baari",
+      "leveysaste": 60.558848,
+      "pituusaste": 25.281717,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 265,
+      "nimi": "Kontulan Himabaari",
+      "leveysaste": 60.23673,
+      "pituusaste": 25.08271,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 266,
+      "nimi": "Korealan baari",
+      "leveysaste": 60.494384,
+      "pituusaste": 26.895418,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 267,
+      "nimi": "Kork Bar",
+      "leveysaste": 60.169021,
+      "pituusaste": 24.959949,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 268,
+      "nimi": "Kotelo",
+      "leveysaste": 61.495322,
+      "pituusaste": 23.806507,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 269,
+      "nimi": "Kotka Baari",
+      "leveysaste": 60.229318,
+      "pituusaste": 24.746651,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 270,
+      "nimi": "Koza Hospoda",
+      "leveysaste": 62.891772,
+      "pituusaste": 27.678489,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 271,
+      "nimi": "Kuja Beer Shop & Bar",
+      "leveysaste": 61.494434,
+      "pituusaste": 23.767758,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 272,
+      "nimi": "Kukko",
+      "leveysaste": 65.737458,
+      "pituusaste": 24.565645,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 273,
+      "nimi": "Kultajyvä",
+      "leveysaste": 60.815524,
+      "pituusaste": 23.62713,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 274,
+      "nimi": "Kultala",
+      "leveysaste": 60.386747,
+      "pituusaste": 24.083201,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 275,
+      "nimi": "Kulttuurikuppila Brummi",
+      "leveysaste": 61.132191,
+      "pituusaste": 21.494999,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 276,
+      "nimi": "Kulttuuritehdas Korjaamo",
+      "leveysaste": 60.184207,
+      "pituusaste": 24.919796,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 277,
+      "nimi": "Kummeli Bar",
+      "leveysaste": 60.995494,
+      "pituusaste": 24.461329,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 278,
+      "nimi": "Kupoli",
+      "leveysaste": 60.169353,
+      "pituusaste": 24.939979,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 279,
+      "nimi": "Kuuttila bar",
+      "leveysaste": 60.187036,
+      "pituusaste": 24.965339,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 280,
+      "nimi": "Kyläkrouvi Karvia",
+      "leveysaste": 62.140526,
+      "pituusaste": 22.564872,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 281,
+      "nimi": "La Barre",
+      "leveysaste": 62.599449,
+      "pituusaste": 29.761686,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 282,
+      "nimi": "Laavu Bar",
+      "leveysaste": 64.147322,
+      "pituusaste": 28.271042,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 283,
+      "nimi": "Laivalahden Poiju",
+      "leveysaste": 60.186316,
+      "pituusaste": 25.025332,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 284,
+      "nimi": "Lama",
+      "leveysaste": 61.50152,
+      "pituusaste": 23.787236,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 285,
+      "nimi": "Lannentie 66",
+      "leveysaste": 62.313277,
+      "pituusaste": 27.835731,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 286,
+      "nimi": "Lapin Akka",
+      "leveysaste": 61.496238,
+      "pituusaste": 23.807797,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 287,
+      "nimi": "Lapin Kulta Pure Bar",
+      "leveysaste": 61.49386,
+      "pituusaste": 23.774727,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 288,
+      "nimi": "Las Palmas",
+      "leveysaste": 61.058124,
+      "pituusaste": 28.185672,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 289,
+      "nimi": "Las Palmas Kuopio",
+      "leveysaste": 62.891763,
+      "pituusaste": 27.678136,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 290,
+      "nimi": "Lavian Kahvibaari",
+      "leveysaste": 61.596754,
+      "pituusaste": 22.588502,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 291,
+      "nimi": "Lemonini",
+      "leveysaste": 60.417992,
+      "pituusaste": 22.263327,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 292,
+      "nimi": "Lenie's Cafe & Bar",
+      "leveysaste": 62.968209,
+      "pituusaste": 21.192751,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 293,
+      "nimi": "Lepakkomies",
+      "leveysaste": 60.187725,
+      "pituusaste": 24.959656,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 294,
+      "nimi": "Liberty Or Death",
+      "leveysaste": 60.164662,
+      "pituusaste": 24.944269,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 295,
+      "nimi": "Liberty or Death Turku",
+      "leveysaste": 60.451262,
+      "pituusaste": 22.274889,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 296,
+      "nimi": "Lilla e.",
+      "leveysaste": 60.164336,
+      "pituusaste": 24.947296,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 297,
+      "nimi": "Limbo",
+      "leveysaste": 60.187127,
+      "pituusaste": 24.952767,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 298,
+      "nimi": "Linnanmaan Rantalentopalloterassi",
+      "leveysaste": 65.056462,
+      "pituusaste": 25.464322,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 299,
+      "nimi": "Live Club / Bar Backstage",
+      "leveysaste": 60.851731,
+      "pituusaste": 23.056886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 300,
+      "nimi": "Lobby Bar Naantali Spa",
+      "leveysaste": 60.47427,
+      "pituusaste": 22.034126,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 301,
+      "nimi": "Lobbybar",
+      "leveysaste": 63.675403,
+      "pituusaste": 22.705831,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 302,
+      "nimi": "Lola Club Jyväskylä",
+      "leveysaste": 62.244265,
+      "pituusaste": 25.748144,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 303,
+      "nimi": "Lounas & Bar Lissu",
+      "leveysaste": 64.165473,
+      "pituusaste": 24.305866,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 304,
+      "nimi": "Lounas & Bar Lissu",
+      "leveysaste": 64.165485,
+      "pituusaste": 24.305877,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 305,
+      "nimi": "Lyhty",
+      "leveysaste": 60.192915,
+      "pituusaste": 24.600011,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 306,
+      "nimi": "Lähtöruutu",
+      "leveysaste": 62.892966,
+      "pituusaste": 27.681997,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 307,
+      "nimi": "M. Gren",
+      "leveysaste": 60.436735,
+      "pituusaste": 22.231203,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 308,
+      "nimi": "M/S Musta Magia",
+      "leveysaste": 62.236961,
+      "pituusaste": 25.754096,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 309,
+      "nimi": "Majava-baari",
+      "leveysaste": 61.49754,
+      "pituusaste": 23.769144,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 310,
+      "nimi": "Malja",
+      "leveysaste": 60.160689,
+      "pituusaste": 24.929284,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 311,
+      "nimi": "Mallaskulma",
+      "leveysaste": 60.485144,
+      "pituusaste": 22.164809,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 312,
+      "nimi": "Maltainen Minuutti",
+      "leveysaste": 60.172482,
+      "pituusaste": 24.940007,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 313,
+      "nimi": "Maltti",
+      "leveysaste": 61.49398,
+      "pituusaste": 23.774361,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 314,
+      "nimi": "Mama's Bar&Bistro",
+      "leveysaste": 61.266307,
+      "pituusaste": 24.029631,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 315,
+      "nimi": "Mann's Street Gay Karaoke Bar",
+      "leveysaste": 60.167838,
+      "pituusaste": 24.940926,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 316,
+      "nimi": "Manneken Peace Bar & Art",
+      "leveysaste": 60.188465,
+      "pituusaste": 24.948052,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 317,
+      "nimi": "Mansesteri",
+      "leveysaste": 61.494083,
+      "pituusaste": 23.773842,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 318,
+      "nimi": "Martinkarhu",
+      "leveysaste": 62.238518,
+      "pituusaste": 23.772831,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 319,
+      "nimi": "Mascot Bar & Live Stage",
+      "leveysaste": 60.181637,
+      "pituusaste": 24.954,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 320,
+      "nimi": "Matsi",
+      "leveysaste": 62.243318,
+      "pituusaste": 25.745484,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 321,
+      "nimi": "Mayhem",
+      "leveysaste": 62.599748,
+      "pituusaste": 29.761796,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 322,
+      "nimi": "Megabreak",
+      "leveysaste": 63.838308,
+      "pituusaste": 23.141059,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 323,
+      "nimi": "Melbourne Bar Restaurant",
+      "leveysaste": 62.287794,
+      "pituusaste": 25.740859,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 324,
+      "nimi": "MenoMono",
+      "leveysaste": 63.900931,
+      "pituusaste": 23.915195,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 325,
+      "nimi": "Mesku.Fi",
+      "leveysaste": 64.268386,
+      "pituusaste": 24.818769,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 326,
+      "nimi": "Miami Mopo Baari",
+      "leveysaste": 60.236967,
+      "pituusaste": 25.085125,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 327,
+      "nimi": "Mikko",
+      "leveysaste": 62.599195,
+      "pituusaste": 29.758058,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 328,
+      "nimi": "Mikkolan baari",
+      "leveysaste": 60.341442,
+      "pituusaste": 25.096101,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 329,
+      "nimi": "Milla Makia",
+      "leveysaste": 61.466463,
+      "pituusaste": 23.644219,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 330,
+      "nimi": "Milli Miglia",
+      "leveysaste": 60.165012,
+      "pituusaste": 24.931679,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 331,
+      "nimi": "Milliklubi Bar & Disco",
+      "leveysaste": 60.169997,
+      "pituusaste": 24.939338,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 332,
+      "nimi": "Minato",
+      "leveysaste": 60.157381,
+      "pituusaste": 24.921529,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 333,
+      "nimi": "Minne",
+      "leveysaste": 60.167053,
+      "pituusaste": 24.947311,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 334,
+      "nimi": "Mo'De",
+      "leveysaste": 60.191037,
+      "pituusaste": 24.941657,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 335,
+      "nimi": "MoBar Kaukas",
+      "leveysaste": 61.063884,
+      "pituusaste": 28.231716,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 336,
+      "nimi": "Moe's",
+      "leveysaste": 60.296465,
+      "pituusaste": 24.962285,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 337,
+      "nimi": "Moe's Bar",
+      "leveysaste": 61.498904,
+      "pituusaste": 23.76577,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 338,
+      "nimi": "Molly Malones Toppari",
+      "leveysaste": 60.261642,
+      "pituusaste": 24.85513,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 339,
+      "nimi": "Moro Sky Bar",
+      "leveysaste": 61.496905,
+      "pituusaste": 23.775965,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 340,
+      "nimi": "Muru Wise Bar",
+      "leveysaste": 60.165479,
+      "pituusaste": 24.936281,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 341,
+      "nimi": "Musa-Vintti",
+      "leveysaste": 65.177054,
+      "pituusaste": 25.352638,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 342,
+      "nimi": "Mustankorpin Saluuna",
+      "leveysaste": 62.379429,
+      "pituusaste": 26.065641,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 343,
+      "nimi": "MyBiljardi & Bar",
+      "leveysaste": 60.262547,
+      "pituusaste": 24.853915,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 344,
+      "nimi": "Myrskytähti",
+      "leveysaste": 60.670223,
+      "pituusaste": 25.855227,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 345,
+      "nimi": "Myyrin baari",
+      "leveysaste": 60.419233,
+      "pituusaste": 24.315601,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 346,
+      "nimi": "Myöhä",
+      "leveysaste": 60.169018,
+      "pituusaste": 24.94115,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 347,
+      "nimi": "Mähkön Baari",
+      "leveysaste": 63.308967,
+      "pituusaste": 30.05841,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 348,
+      "nimi": "Naantalin Kaivohuone",
+      "leveysaste": 60.470053,
+      "pituusaste": 22.016266,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 349,
+      "nimi": "Napakymppi-baari",
+      "leveysaste": 65.78041,
+      "pituusaste": 24.41733,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 350,
+      "nimi": "Ned Kelly's",
+      "leveysaste": 60.33423,
+      "pituusaste": 24.319322,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 351,
+      "nimi": "Nilkko Taproom",
+      "leveysaste": 61.422568,
+      "pituusaste": 26.875135,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 352,
+      "nimi": "Nirvana Bar & Club",
+      "leveysaste": 60.450499,
+      "pituusaste": 22.258686,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 353,
+      "nimi": "Nooran Viinibaari",
+      "leveysaste": 60.99481,
+      "pituusaste": 24.462984,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 354,
+      "nimi": "North Coast Bar & Billiards",
+      "leveysaste": 65.005552,
+      "pituusaste": 25.469881,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 355,
+      "nimi": "Näsin Terapia",
+      "leveysaste": 60.386801,
+      "pituusaste": 25.639595,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 356,
+      "nimi": "O'Learys",
+      "leveysaste": 66.00171,
+      "pituusaste": 29.166019,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 357,
+      "nimi": "O'Nelly's Irish Bar",
+      "leveysaste": 63.558697,
+      "pituusaste": 27.190425,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 358,
+      "nimi": "Ohana Aloha Bar",
+      "leveysaste": 60.173456,
+      "pituusaste": 24.726047,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 359,
+      "nimi": "Olarinkulma",
+      "leveysaste": 60.172431,
+      "pituusaste": 24.725769,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 360,
+      "nimi": "Old Cock",
+      "leveysaste": 61.059328,
+      "pituusaste": 28.192428,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 361,
+      "nimi": "Oldi",
+      "leveysaste": 60.982977,
+      "pituusaste": 25.654709,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 362,
+      "nimi": "Olohuone Tähti",
+      "leveysaste": 67.417106,
+      "pituusaste": 26.593711,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 363,
+      "nimi": "Olut- ja viinihuone Norden",
+      "leveysaste": 60.251499,
+      "pituusaste": 24.065518,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 364,
+      "nimi": "Oluthuone Haavi",
+      "leveysaste": 60.186383,
+      "pituusaste": 24.97963,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 365,
+      "nimi": "Oluthuone Konepaja",
+      "leveysaste": 60.190989,
+      "pituusaste": 24.949179,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 366,
+      "nimi": "Olutravintola Pikkulintu",
+      "leveysaste": 60.262011,
+      "pituusaste": 24.852216,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 367,
+      "nimi": "Olutravintola Sockenbacka",
+      "leveysaste": 60.224379,
+      "pituusaste": 24.858799,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 368,
+      "nimi": "Olutravintola Solmu",
+      "leveysaste": 60.201173,
+      "pituusaste": 25.149846,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 369,
+      "nimi": "Original Long Drink Bar",
+      "leveysaste": 61.49372,
+      "pituusaste": 23.772879,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 370,
+      "nimi": "Osula",
+      "leveysaste": 63.678481,
+      "pituusaste": 28.814404,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 371,
+      "nimi": "Otapas",
+      "leveysaste": 60.184248,
+      "pituusaste": 24.830593,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 372,
+      "nimi": "PLATITO Hispanic Filipino Bistro & Tapas",
+      "leveysaste": 60.196624,
+      "pituusaste": 24.962027,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 373,
+      "nimi": "PaPaNa",
+      "leveysaste": 68.906102,
+      "pituusaste": 27.022354,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 374,
+      "nimi": "Paja Bar",
+      "leveysaste": 61.496987,
+      "pituusaste": 23.775356,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 375,
+      "nimi": "Paloma",
+      "leveysaste": 60.163457,
+      "pituusaste": 24.942426,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 376,
+      "nimi": "Panama Bar 15",
+      "leveysaste": 61.269429,
+      "pituusaste": 24.061107,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 377,
+      "nimi": "Panorama Bar",
+      "leveysaste": 63.295817,
+      "pituusaste": 28.013982,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 378,
+      "nimi": "Panorama bar",
+      "leveysaste": 60.149333,
+      "pituusaste": 24.914864,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 379,
+      "nimi": "Passari pub",
+      "leveysaste": 62.208029,
+      "pituusaste": 26.629517,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 380,
+      "nimi": "Pata Ässä",
+      "leveysaste": 61.498608,
+      "pituusaste": 23.766684,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 381,
+      "nimi": "Pata Ässä",
+      "leveysaste": 62.24417,
+      "pituusaste": 25.748929,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 382,
+      "nimi": "Pataässä",
+      "leveysaste": 60.983589,
+      "pituusaste": 25.659533,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 383,
+      "nimi": "Pataässä",
+      "leveysaste": 63.094636,
+      "pituusaste": 21.617547,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 384,
+      "nimi": "Pelimies",
+      "leveysaste": 60.447235,
+      "pituusaste": 22.260462,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 385,
+      "nimi": "Peltsun Saluuna",
+      "leveysaste": 61.455299,
+      "pituusaste": 23.75691,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 386,
+      "nimi": "Penan Pub",
+      "leveysaste": 63.542715,
+      "pituusaste": 29.14056,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 387,
+      "nimi": "Petisco",
+      "leveysaste": 60.157655,
+      "pituusaste": 24.93462,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 388,
+      "nimi": "Piazza Italia",
+      "leveysaste": 62.892892,
+      "pituusaste": 27.677195,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 389,
+      "nimi": "Piipputerassi",
+      "leveysaste": 60.815097,
+      "pituusaste": 23.620682,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 390,
+      "nimi": "Pikku Päkä",
+      "leveysaste": 61.988459,
+      "pituusaste": 26.641828,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 391,
+      "nimi": "Pinehill Terrace",
+      "leveysaste": 60.183628,
+      "pituusaste": 24.928966,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 392,
+      "nimi": "Pino",
+      "leveysaste": 60.170161,
+      "pituusaste": 24.940512,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 393,
+      "nimi": "Pinocchio Vineria",
+      "leveysaste": 60.159578,
+      "pituusaste": 24.942487,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 394,
+      "nimi": "Plan B",
+      "leveysaste": 61.050346,
+      "pituusaste": 28.110183,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 395,
+      "nimi": "Platform No. 1",
+      "leveysaste": 60.293997,
+      "pituusaste": 25.043641,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 396,
+      "nimi": "Players Inn",
+      "leveysaste": 61.495924,
+      "pituusaste": 23.806872,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 397,
+      "nimi": "Playhouse Bar",
+      "leveysaste": 60.195572,
+      "pituusaste": 24.950863,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 398,
+      "nimi": "Pocket Bar & Billiard",
+      "leveysaste": 60.449916,
+      "pituusaste": 22.259158,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 399,
+      "nimi": "Poiju",
+      "leveysaste": 60.435261,
+      "pituusaste": 22.219025,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 400,
+      "nimi": "Pool Cafe",
+      "leveysaste": 60.996593,
+      "pituusaste": 24.469328,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 401,
+      "nimi": "Populus",
+      "leveysaste": 60.18921,
+      "pituusaste": 24.955068,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 402,
+      "nimi": "Portti",
+      "leveysaste": 60.452134,
+      "pituusaste": 22.282425,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 403,
+      "nimi": "Porvoon Paahtimo",
+      "leveysaste": 60.393659,
+      "pituusaste": 25.658054,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 404,
+      "nimi": "Post Bar",
+      "leveysaste": 60.183193,
+      "pituusaste": 24.959103,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 405,
+      "nimi": "Praha",
+      "leveysaste": 60.169415,
+      "pituusaste": 24.940381,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 406,
+      "nimi": "Prince Hamlet",
+      "leveysaste": 61.497998,
+      "pituusaste": 23.762135,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 407,
+      "nimi": "Proffan kellari",
+      "leveysaste": 60.454482,
+      "pituusaste": 22.287464,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 408,
+      "nimi": "Pub & Club Onni",
+      "leveysaste": 62.244578,
+      "pituusaste": 25.747359,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 409,
+      "nimi": "Pub Ilona",
+      "leveysaste": 61.804346,
+      "pituusaste": 22.373912,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 410,
+      "nimi": "Pub Legenda 21",
+      "leveysaste": 60.85277,
+      "pituusaste": 23.055866,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 411,
+      "nimi": "Pub Lättähattu",
+      "leveysaste": 60.401178,
+      "pituusaste": 25.48026,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 412,
+      "nimi": "Puistolinna",
+      "leveysaste": 60.814622,
+      "pituusaste": 23.625886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 413,
+      "nimi": "Puiston Krouvi",
+      "leveysaste": 60.299575,
+      "pituusaste": 24.853811,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 414,
+      "nimi": "Punapippuri",
+      "leveysaste": 66.486863,
+      "pituusaste": 25.699472,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 415,
+      "nimi": "Pähkinä Bar",
+      "leveysaste": 60.262335,
+      "pituusaste": 24.804367,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 416,
+      "nimi": "Q bar",
+      "leveysaste": 60.870549,
+      "pituusaste": 26.705377,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 417,
+      "nimi": "Rantaklubi Koto",
+      "leveysaste": 62.063948,
+      "pituusaste": 27.712137,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 418,
+      "nimi": "Ravintola 10Kerho",
+      "leveysaste": 64.071687,
+      "pituusaste": 24.539017,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 419,
+      "nimi": "Ravintola Alvari",
+      "leveysaste": 60.501406,
+      "pituusaste": 26.953846,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 420,
+      "nimi": "Ravintola Asema",
+      "leveysaste": 60.984394,
+      "pituusaste": 25.650658,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 421,
+      "nimi": "Ravintola Aula",
+      "leveysaste": 60.868752,
+      "pituusaste": 26.694252,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 422,
+      "nimi": "Ravintola Domino",
+      "leveysaste": 60.274274,
+      "pituusaste": 25.033797,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 423,
+      "nimi": "Ravintola Hangout",
+      "leveysaste": 60.221175,
+      "pituusaste": 25.138628,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 424,
+      "nimi": "Ravintola Jokeri",
+      "leveysaste": 64.072617,
+      "pituusaste": 24.5345,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 425,
+      "nimi": "Ravintola Kallio",
+      "leveysaste": 62.604237,
+      "pituusaste": 25.721394,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 426,
+      "nimi": "Ravintola Kantis",
+      "leveysaste": 64.131105,
+      "pituusaste": 28.38652,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 427,
+      "nimi": "Ravintola Kultakala",
+      "leveysaste": 64.259111,
+      "pituusaste": 23.950138,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 428,
+      "nimi": "Ravintola Länsitupa",
+      "leveysaste": 60.244718,
+      "pituusaste": 25.109401,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 429,
+      "nimi": "Ravintola Mocambo",
+      "leveysaste": 61.204017,
+      "pituusaste": 28.793872,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 430,
+      "nimi": "Ravintola Mulligan's",
+      "leveysaste": 60.867817,
+      "pituusaste": 26.70518,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 431,
+      "nimi": "Ravintola Myllytupa",
+      "leveysaste": 61.283726,
+      "pituusaste": 22.696188,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 432,
+      "nimi": "Ravintola Nivada",
+      "leveysaste": 60.240905,
+      "pituusaste": 25.112316,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 433,
+      "nimi": "Ravintola Pyöreä Torppa",
+      "leveysaste": 60.867549,
+      "pituusaste": 26.698839,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 434,
+      "nimi": "Ravintola Raina",
+      "leveysaste": 61.49543,
+      "pituusaste": 23.763448,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 435,
+      "nimi": "Ravintola Satama",
+      "leveysaste": 60.489916,
+      "pituusaste": 22.266402,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 436,
+      "nimi": "Ravintola Sorbet",
+      "leveysaste": 60.239454,
+      "pituusaste": 24.875854,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 437,
+      "nimi": "Ravintola Talli",
+      "leveysaste": 62.601568,
+      "pituusaste": 25.721819,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 438,
+      "nimi": "Ravintola Talli Sauvo",
+      "leveysaste": 60.342381,
+      "pituusaste": 22.695483,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 439,
+      "nimi": "Ravintola V'inkkari",
+      "leveysaste": 67.803861,
+      "pituusaste": 24.806424,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 440,
+      "nimi": "Ravintola V'inkkari",
+      "leveysaste": 67.803879,
+      "pituusaste": 24.806387,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 441,
+      "nimi": "Ravintola Viiskulma",
+      "leveysaste": 60.160723,
+      "pituusaste": 24.942299,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 442,
+      "nimi": "Ravintolalaiva Paatti",
+      "leveysaste": 62.787933,
+      "pituusaste": 22.825077,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 443,
+      "nimi": "Red Hot",
+      "leveysaste": 60.735876,
+      "pituusaste": 24.769429,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 444,
+      "nimi": "Relaxin",
+      "leveysaste": 60.187371,
+      "pituusaste": 24.955622,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 445,
+      "nimi": "Rengon pirtti",
+      "leveysaste": 60.892506,
+      "pituusaste": 24.282485,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 446,
+      "nimi": "Revontuli",
+      "leveysaste": 67.416666,
+      "pituusaste": 26.594281,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 447,
+      "nimi": "Rica Bar",
+      "leveysaste": 60.448907,
+      "pituusaste": 22.265033,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 448,
+      "nimi": "Riihimäen Pool Bar",
+      "leveysaste": 60.738912,
+      "pituusaste": 24.774681,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 449,
+      "nimi": "Ritz Biljardi",
+      "leveysaste": 60.176607,
+      "pituusaste": 24.923288,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 450,
+      "nimi": "Rock House Kulma",
+      "leveysaste": 64.226254,
+      "pituusaste": 27.732015,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 451,
+      "nimi": "Rock ravintola Grande",
+      "leveysaste": 66.501896,
+      "pituusaste": 25.729381,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 452,
+      "nimi": "Rock'n Roll Bar",
+      "leveysaste": 63.836975,
+      "pituusaste": 23.132226,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 453,
+      "nimi": "Rodbergs",
+      "leveysaste": 60.163185,
+      "pituusaste": 24.94186,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 454,
+      "nimi": "Rokkiluola",
+      "leveysaste": 61.058292,
+      "pituusaste": 28.191053,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 455,
+      "nimi": "Romeo",
+      "leveysaste": 62.597501,
+      "pituusaste": 29.763928,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 456,
+      "nimi": "Rondo Beer House",
+      "leveysaste": 60.233688,
+      "pituusaste": 25.032762,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 457,
+      "nimi": "Rooftop Bar Humu",
+      "leveysaste": 60.165723,
+      "pituusaste": 24.962035,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 458,
+      "nimi": "Rooftop bar & terrace",
+      "leveysaste": 60.316515,
+      "pituusaste": 24.968584,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 459,
+      "nimi": "Royal Bar",
+      "leveysaste": 60.404546,
+      "pituusaste": 25.104631,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 460,
+      "nimi": "Rumpan bar",
+      "leveysaste": 59.952427,
+      "pituusaste": 22.369268,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 461,
+      "nimi": "Runar",
+      "leveysaste": 60.166269,
+      "pituusaste": 24.949419,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 462,
+      "nimi": "Runostuoppi",
+      "leveysaste": 60.489131,
+      "pituusaste": 22.261038,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 463,
+      "nimi": "Runway Bar",
+      "leveysaste": 60.317185,
+      "pituusaste": 24.968595,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 464,
+      "nimi": "Ruuhka",
+      "leveysaste": 60.183691,
+      "pituusaste": 24.958567,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 465,
+      "nimi": "Rytmi",
+      "leveysaste": 60.180841,
+      "pituusaste": 24.95001,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 466,
+      "nimi": "Ränni Bar",
+      "leveysaste": 62.300931,
+      "pituusaste": 27.159032,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 467,
+      "nimi": "Rådhuskällaren",
+      "leveysaste": 59.973992,
+      "pituusaste": 23.43613,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 468,
+      "nimi": "Rööperin Hopstop",
+      "leveysaste": 60.163181,
+      "pituusaste": 24.942308,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 469,
+      "nimi": "Sailor Mary Bar",
+      "leveysaste": 60.123275,
+      "pituusaste": 24.438665,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 470,
+      "nimi": "Sailor's Bar and Grill",
+      "leveysaste": 61.496818,
+      "pituusaste": 23.76743,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 471,
+      "nimi": "Saint Kukko",
+      "leveysaste": 64.226121,
+      "pituusaste": 27.731747,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 472,
+      "nimi": "Sake Bar & Izakaya",
+      "leveysaste": 60.172389,
+      "pituusaste": 24.953863,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 473,
+      "nimi": "SalamaNation",
+      "leveysaste": 60.167436,
+      "pituusaste": 24.935601,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 474,
+      "nimi": "Saloon Huitsin Nevada",
+      "leveysaste": 64.813831,
+      "pituusaste": 24.768821,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 475,
+      "nimi": "Scandic Aulanko",
+      "leveysaste": 61.022352,
+      "pituusaste": 24.445337,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 476,
+      "nimi": "Sherlock Holmes the Bar",
+      "leveysaste": 61.498408,
+      "pituusaste": 23.767816,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 477,
+      "nimi": "Shooters Bar",
+      "leveysaste": 61.493878,
+      "pituusaste": 23.772439,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 478,
+      "nimi": "Sieppari-Pub",
+      "leveysaste": 61.199775,
+      "pituusaste": 28.755801,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 479,
+      "nimi": "Sierravuori Baari",
+      "leveysaste": 60.990137,
+      "pituusaste": 22.233165,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 480,
+      "nimi": "Siika Bar",
+      "leveysaste": 61.432407,
+      "pituusaste": 29.353045,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 481,
+      "nimi": "Siili Bar & Terrace",
+      "leveysaste": 61.803874,
+      "pituusaste": 22.397499,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 482,
+      "nimi": "Siili Bar & Terrace",
+      "leveysaste": 61.803894,
+      "pituusaste": 22.397468,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 483,
+      "nimi": "Silta Pub",
+      "leveysaste": 60.27496,
+      "pituusaste": 24.989507,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 484,
+      "nimi": "Simonkenttä",
+      "leveysaste": 60.169197,
+      "pituusaste": 24.935058,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 485,
+      "nimi": "Sipoon Keisari Bar & Nightclub",
+      "leveysaste": 60.377833,
+      "pituusaste": 25.269454,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 486,
+      "nimi": "Sir Eino",
+      "leveysaste": 60.168478,
+      "pituusaste": 24.944957,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 487,
+      "nimi": "Sisko ja sen Veli",
+      "leveysaste": 61.502464,
+      "pituusaste": 23.765302,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 488,
+      "nimi": "Sky Bar",
+      "leveysaste": 66.637176,
+      "pituusaste": 25.342273,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 489,
+      "nimi": "Sköne",
+      "leveysaste": 60.169035,
+      "pituusaste": 24.960468,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 490,
+      "nimi": "Sointula",
+      "leveysaste": 62.602552,
+      "pituusaste": 29.760543,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 491,
+      "nimi": "Solomu pubi",
+      "leveysaste": 64.934226,
+      "pituusaste": 25.408827,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 492,
+      "nimi": "SommarFylla",
+      "leveysaste": 60.452483,
+      "pituusaste": 26.23422,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 493,
+      "nimi": "Sotima",
+      "leveysaste": 60.248721,
+      "pituusaste": 24.841597,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 494,
+      "nimi": "Sports Bar 329",
+      "leveysaste": 61.49463,
+      "pituusaste": 23.771698,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 495,
+      "nimi": "Stall's Bar & Food",
+      "leveysaste": 60.019676,
+      "pituusaste": 22.506127,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 496,
+      "nimi": "Street Bar",
+      "leveysaste": 60.181162,
+      "pituusaste": 24.952967,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 497,
+      "nimi": "Street Cafe",
+      "leveysaste": 61.172069,
+      "pituusaste": 28.773283,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 498,
+      "nimi": "Street Pride Bar",
+      "leveysaste": 60.166544,
+      "pituusaste": 24.930886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 499,
+      "nimi": "Street bar",
+      "leveysaste": 61.131188,
+      "pituusaste": 21.499185,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 500,
+      "nimi": "Suistoklubi",
+      "leveysaste": 60.997786,
+      "pituusaste": 24.477144,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 501,
+      "nimi": "Super Bario",
+      "leveysaste": 60.193893,
+      "pituusaste": 24.94493,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 502,
+      "nimi": "Surf Shack Bar",
+      "leveysaste": 60.444048,
+      "pituusaste": 22.252175,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 503,
+      "nimi": "Suvannon Santra",
+      "leveysaste": 62.598352,
+      "pituusaste": 29.762844,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 504,
+      "nimi": "Suvelan Seurahuone",
+      "leveysaste": 60.199535,
+      "pituusaste": 24.664248,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 505,
+      "nimi": "Särkisalmen Baari",
+      "leveysaste": 61.601957,
+      "pituusaste": 29.480927,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 506,
+      "nimi": "Säästökulman Baari",
+      "leveysaste": 61.860157,
+      "pituusaste": 21.506453,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 507,
+      "nimi": "Sörkan Ruusu",
+      "leveysaste": 60.187975,
+      "pituusaste": 24.965857,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 508,
+      "nimi": "Taideterassi Harmu",
+      "leveysaste": 60.470194,
+      "pituusaste": 22.015529,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 509,
+      "nimi": "Taikurin hattu",
+      "leveysaste": 60.235605,
+      "pituusaste": 25.092811,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 510,
+      "nimi": "Taimon Krouvi",
+      "leveysaste": 60.484397,
+      "pituusaste": 22.051888,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 511,
+      "nimi": "Takapiha bar",
+      "leveysaste": 60.181501,
+      "pituusaste": 24.978787,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 512,
+      "nimi": "Takatasku",
+      "leveysaste": 62.600736,
+      "pituusaste": 29.759885,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 513,
+      "nimi": "Tapper's Inn",
+      "leveysaste": 60.342383,
+      "pituusaste": 22.695376,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 514,
+      "nimi": "Taproom d20",
+      "leveysaste": 60.184349,
+      "pituusaste": 24.830436,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 515,
+      "nimi": "Tapulin Mestari",
+      "leveysaste": 60.274924,
+      "pituusaste": 25.034037,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 516,
+      "nimi": "Tavastia",
+      "leveysaste": 60.169121,
+      "pituusaste": 24.931332,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 517,
+      "nimi": "Teatro",
+      "leveysaste": 60.456446,
+      "pituusaste": 22.257407,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 518,
+      "nimi": "Teatterikulma",
+      "leveysaste": 61.495924,
+      "pituusaste": 23.751838,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 519,
+      "nimi": "Terrace Kirppu",
+      "leveysaste": 63.247889,
+      "pituusaste": 23.644494,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 520,
+      "nimi": "Terrace Kirppu",
+      "leveysaste": 63.247916,
+      "pituusaste": 23.644471,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 521,
+      "nimi": "The Alley",
+      "leveysaste": 63.095211,
+      "pituusaste": 21.617982,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 522,
+      "nimi": "The Club Billiard",
+      "leveysaste": 63.093807,
+      "pituusaste": 21.619826,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 523,
+      "nimi": "The Firm",
+      "leveysaste": 60.187442,
+      "pituusaste": 24.965937,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 524,
+      "nimi": "The Last Drop",
+      "leveysaste": 60.165866,
+      "pituusaste": 24.945125,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 525,
+      "nimi": "The Old Irish Pub",
+      "leveysaste": 60.16809,
+      "pituusaste": 24.940552,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 526,
+      "nimi": "The Pier bar & terrace",
+      "leveysaste": 60.041847,
+      "pituusaste": 24.007405,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 527,
+      "nimi": "The Spot",
+      "leveysaste": 60.169492,
+      "pituusaste": 24.930109,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 528,
+      "nimi": "The Tipsy King",
+      "leveysaste": 60.26024,
+      "pituusaste": 24.887165,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 529,
+      "nimi": "The Wall Bar & Karaoke",
+      "leveysaste": 61.866839,
+      "pituusaste": 28.8969,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 530,
+      "nimi": "Thrasherie Bar",
+      "leveysaste": 61.497284,
+      "pituusaste": 23.75275,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 531,
+      "nimi": "Tiger",
+      "leveysaste": 61.98861,
+      "pituusaste": 26.64346,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 532,
+      "nimi": "Time Bar",
+      "leveysaste": 60.1694,
+      "pituusaste": 24.944199,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 533,
+      "nimi": "Tinku",
+      "leveysaste": 60.179486,
+      "pituusaste": 24.9229,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 534,
+      "nimi": "Tislaamo - Distillery Bar",
+      "leveysaste": 60.190129,
+      "pituusaste": 24.969835,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 535,
+      "nimi": "Tokio Karaoke",
+      "leveysaste": 60.169709,
+      "pituusaste": 24.945024,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 536,
+      "nimi": "Tolpan Krouvi",
+      "leveysaste": 60.619937,
+      "pituusaste": 24.845029,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 537,
+      "nimi": "Trillby & Chadwick",
+      "leveysaste": 60.168366,
+      "pituusaste": 24.953734,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 538,
+      "nimi": "Tullikamarin Klubi",
+      "leveysaste": 61.49864,
+      "pituusaste": 23.776647,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 539,
+      "nimi": "Tuoppi Pub",
+      "leveysaste": 64.266763,
+      "pituusaste": 24.816742,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 540,
+      "nimi": "Tuuheikko",
+      "leveysaste": 60.318133,
+      "pituusaste": 23.823524,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 541,
+      "nimi": "Tuuheikko",
+      "leveysaste": 60.318135,
+      "pituusaste": 23.823561,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 542,
+      "nimi": "Tuuheikko",
+      "leveysaste": 60.318149,
+      "pituusaste": 23.823538,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 543,
+      "nimi": "Töölö Sports Bar",
+      "leveysaste": 60.18827,
+      "pituusaste": 24.917959,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 544,
+      "nimi": "UP Bar & Lounge",
+      "leveysaste": 65.012755,
+      "pituusaste": 25.470665,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 545,
+      "nimi": "Ukko Nooa",
+      "leveysaste": 61.496644,
+      "pituusaste": 23.766873,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 546,
+      "nimi": "Ullakko",
+      "leveysaste": 60.451678,
+      "pituusaste": 22.269913,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 547,
+      "nimi": "Umpitunneli",
+      "leveysaste": 65.846892,
+      "pituusaste": 24.152464,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 548,
+      "nimi": "Unelma Happy Bar",
+      "leveysaste": 60.278624,
+      "pituusaste": 25.104046,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 549,
+      "nimi": "Urkan baari",
+      "leveysaste": 62.249473,
+      "pituusaste": 25.873274,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 550,
+      "nimi": "Uusi Metro Pub",
+      "leveysaste": 60.239646,
+      "pituusaste": 25.111808,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 551,
+      "nimi": "VENN",
+      "leveysaste": 62.600957,
+      "pituusaste": 29.76245,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 552,
+      "nimi": "Vaappuva Ankka",
+      "leveysaste": 60.186269,
+      "pituusaste": 24.746765,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 553,
+      "nimi": "Vaappuva Ankka",
+      "leveysaste": 60.270001,
+      "pituusaste": 24.848759,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 554,
+      "nimi": "Vaappuva ankka",
+      "leveysaste": 60.154592,
+      "pituusaste": 24.635384,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 555,
+      "nimi": "Vaarin Kellari",
+      "leveysaste": 60.274727,
+      "pituusaste": 24.422479,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 556,
+      "nimi": "Vakiopaine",
+      "leveysaste": 62.238703,
+      "pituusaste": 25.739918,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 557,
+      "nimi": "Vaudeville",
+      "leveysaste": 60.444711,
+      "pituusaste": 22.253999,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 558,
+      "nimi": "Vauhtifarmi (tilausbaari)",
+      "leveysaste": 60.475557,
+      "pituusaste": 24.684612,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 559,
+      "nimi": "Veijo",
+      "leveysaste": 60.590226,
+      "pituusaste": 27.702138,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 560,
+      "nimi": "Veikkolan Yläbaari",
+      "leveysaste": 60.269651,
+      "pituusaste": 24.442966,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 561,
+      "nimi": "Veistämö",
+      "leveysaste": 60.439895,
+      "pituusaste": 22.241755,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 562,
+      "nimi": "Vekseli",
+      "leveysaste": 62.790739,
+      "pituusaste": 22.840394,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 563,
+      "nimi": "Verda Sky Lounge",
+      "leveysaste": 61.501215,
+      "pituusaste": 23.761034,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 564,
+      "nimi": "Vertiggo",
+      "leveysaste": 60.235359,
+      "pituusaste": 25.100237,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 565,
+      "nimi": "Vesuvios Beer and Wine Bar",
+      "leveysaste": 60.262003,
+      "pituusaste": 24.852085,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 566,
+      "nimi": "Viherin Bilis & Bar",
+      "leveysaste": 60.226786,
+      "pituusaste": 24.742146,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 567,
+      "nimi": "Viihdekeskus ZBase",
+      "leveysaste": 61.500875,
+      "pituusaste": 23.759274,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 568,
+      "nimi": "Viinibaari Klein",
+      "leveysaste": 60.193339,
+      "pituusaste": 24.958579,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 569,
+      "nimi": "Viinibaari Venn",
+      "leveysaste": 60.168641,
+      "pituusaste": 24.945381,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 570,
+      "nimi": "Viinibaari Vox",
+      "leveysaste": 65.013167,
+      "pituusaste": 25.469112,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 571,
+      "nimi": "Villi Wäinö",
+      "leveysaste": 60.167854,
+      "pituusaste": 24.939847,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 572,
+      "nimi": "Villi-Minttu",
+      "leveysaste": 60.789546,
+      "pituusaste": 25.030801,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 573,
+      "nimi": "Vinho Winebar",
+      "leveysaste": 60.43939,
+      "pituusaste": 22.259165,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 574,
+      "nimi": "Vinko",
+      "leveysaste": 61.486946,
+      "pituusaste": 21.795313,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 575,
+      "nimi": "Vinossa",
+      "leveysaste": 60.451973,
+      "pituusaste": 22.272884,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 576,
+      "nimi": "Vivian's Kallio",
+      "leveysaste": 60.187824,
+      "pituusaste": 24.955886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 577,
+      "nimi": "Voudin Kellari",
+      "leveysaste": 60.995312,
+      "pituusaste": 24.464663,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 578,
+      "nimi": "Vuokatin Viini",
+      "leveysaste": 64.130414,
+      "pituusaste": 28.384575,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 579,
+      "nimi": "Välibaari",
+      "leveysaste": 61.31396,
+      "pituusaste": 23.752809,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 580,
+      "nimi": "Wallis",
+      "leveysaste": 60.169039,
+      "pituusaste": 24.960639,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 581,
+      "nimi": "Wallis",
+      "leveysaste": 61.059449,
+      "pituusaste": 28.185117,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 582,
+      "nimi": "Walo",
+      "leveysaste": 60.451681,
+      "pituusaste": 22.269018,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 583,
+      "nimi": "West Bay",
+      "leveysaste": 60.14909,
+      "pituusaste": 24.655202,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 584,
+      "nimi": "Willa Alma-Ruusa",
+      "leveysaste": 65.662442,
+      "pituusaste": 25.064934,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 585,
+      "nimi": "William K. Kurvi",
+      "leveysaste": 60.187448,
+      "pituusaste": 24.961318,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 586,
+      "nimi": "Wine Bar Axel W",
+      "leveysaste": 60.451769,
+      "pituusaste": 22.268667,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 587,
+      "nimi": "Winebar Paljetti",
+      "leveysaste": 65.010981,
+      "pituusaste": 25.471352,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 588,
+      "nimi": "Winger",
+      "leveysaste": 65.012384,
+      "pituusaste": 25.465884,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 589,
+      "nimi": "Wining Wine Bar",
+      "leveysaste": 61.493928,
+      "pituusaste": 23.77306,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 590,
+      "nimi": "Wirralla",
+      "leveysaste": 60.91036,
+      "pituusaste": 26.76114,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 591,
+      "nimi": "Yellari",
+      "leveysaste": 60.46257,
+      "pituusaste": 26.939136,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 592,
+      "nimi": "Ylistaron Baari",
+      "leveysaste": 62.946024,
+      "pituusaste": 22.527889,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 593,
+      "nimi": "Ylistaron Baari",
+      "leveysaste": 62.946033,
+      "pituusaste": 22.527845,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 594,
+      "nimi": "Ylivieskan Biljardi",
+      "leveysaste": 64.074472,
+      "pituusaste": 24.537464,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 595,
+      "nimi": "Yläkaupungin Ale Pub",
+      "leveysaste": 62.238636,
+      "pituusaste": 25.739732,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 596,
+      "nimi": "You&Me +cocktails",
+      "leveysaste": 60.983088,
+      "pituusaste": 25.654587,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 597,
+      "nimi": "Yöhuikka",
+      "leveysaste": 65.01235,
+      "pituusaste": 25.479987,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 598,
+      "nimi": "ceflo beach bar",
+      "leveysaste": 60.215211,
+      "pituusaste": 22.153283,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    },
+    {
+      "id": 599,
+      "nimi": "tÿpo",
+      "leveysaste": 60.184092,
+      "pituusaste": 24.960986,
+      "osm_avain": "amenity",
+      "osm_arvo": "bar",
+      "osm_luokka": "amenity=bar"
+    }
+  ],
+  "meta": {
+    "title": "Baarit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Baarit Suomessa — 599 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=bar`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 13. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 599 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Baarit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Baarit – Suomi (OpenStreetMap) — 599 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 599 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

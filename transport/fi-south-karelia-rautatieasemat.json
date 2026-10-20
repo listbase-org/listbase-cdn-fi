@@ -1,0 +1,269 @@
+{
+  "id": "fi-south-karelia-rautatieasemat",
+  "name": "Rautatieasemat — South Karelia",
+  "title": "Rautatieasemat — South Karelia",
+  "description": "Rautatieasemat ja seisakkeet South Karelian maakunnassa, Suomessa (6 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28757,
+      "name": "Imatra asema",
+      "slug": "imatra-asema",
+      "uic": "1000603",
+      "latitude": 61.196431,
+      "longitude": 28.778354,
+      "maakunta": "South Karelia",
+      "maakunta_slug": "south-karelia",
+      "maakunta_code": "09",
+      "lahin_postitoimipaikka": "Imatra",
+      "etaisyys_km": 0.618,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28764,
+      "name": "Joutseno",
+      "slug": "joutseno",
+      "uic": "1000499",
+      "latitude": 61.120656,
+      "longitude": 28.490163,
+      "maakunta": "South Karelia",
+      "maakunta_slug": "south-karelia",
+      "maakunta_code": "09",
+      "lahin_postitoimipaikka": "Joutseno",
+      "etaisyys_km": 1.447,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28814,
+      "name": "Lappeenranta",
+      "slug": "lappeenranta",
+      "uic": "1000495",
+      "latitude": 61.048124,
+      "longitude": 28.196513,
+      "maakunta": "South Karelia",
+      "maakunta_slug": "south-karelia",
+      "maakunta_code": "09",
+      "lahin_postitoimipaikka": "Lappeenranta",
+      "etaisyys_km": 0.932,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "Villmanstrand",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28858,
+      "name": "Parikkala",
+      "slug": "parikkala",
+      "uic": "1000510",
+      "latitude": 61.559072,
+      "longitude": 29.505261,
+      "maakunta": "South Karelia",
+      "maakunta_slug": "south-karelia",
+      "maakunta_code": "09",
+      "lahin_postitoimipaikka": "Parikkala",
+      "etaisyys_km": 1.047,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28892,
+      "name": "Simpele",
+      "slug": "simpele",
+      "uic": "1000507",
+      "latitude": 61.425259,
+      "longitude": 29.374,
+      "maakunta": "South Karelia",
+      "maakunta_slug": "south-karelia",
+      "maakunta_code": "09",
+      "lahin_postitoimipaikka": "Simpele",
+      "etaisyys_km": 0.975,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28917,
+      "name": "Vainikkala asema",
+      "slug": "vainikkala-asema",
+      "uic": "1000492",
+      "latitude": 60.864096,
+      "longitude": 28.305016,
+      "maakunta": "South Karelia",
+      "maakunta_slug": "south-karelia",
+      "maakunta_code": "09",
+      "lahin_postitoimipaikka": "Vainikkala",
+      "etaisyys_km": 3.404,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — South Karelia - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet South Karelian maakunnassa, Suomessa (6 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 6 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — South Karelia | ListBase",
+    "seo_description": "Lataa Rautatieasemat — South Karelia — 6 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 6 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

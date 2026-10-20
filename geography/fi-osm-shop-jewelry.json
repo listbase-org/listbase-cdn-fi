@@ -1,0 +1,2896 @@
+{
+  "id": "fi-osm-shop-jewelry",
+  "name": "Kultasepänliikkeet – Suomi (OpenStreetMap)",
+  "title": "Kultasepänliikkeet – Suomi (OpenStreetMap)",
+  "description": "Kultasepänliikkeet Suomessa — 315 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=jewelry`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 8. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 315,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "AIDA Impact Showroom",
+      "leveysaste": 60.159422,
+      "pituusaste": 24.937564,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 2,
+      "nimi": "AITO kultasepänverstas",
+      "leveysaste": 60.45114,
+      "pituusaste": 22.255962,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 3,
+      "nimi": "Ab Dalsbruks Guld-Taalintehtaan Kulta Oy",
+      "leveysaste": 59.924553,
+      "pituusaste": 22.409945,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 4,
+      "nimi": "Ab Dalsbruks Guld-Taalintehtaan Kulta Oy",
+      "leveysaste": 59.924582,
+      "pituusaste": 22.409973,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 5,
+      "nimi": "Aito Helsinki",
+      "leveysaste": 60.162468,
+      "pituusaste": 24.934742,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 6,
+      "nimi": "Ajan-Kello",
+      "leveysaste": 60.871464,
+      "pituusaste": 26.656614,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 7,
+      "nimi": "Ajan-kello",
+      "leveysaste": 60.868219,
+      "pituusaste": 26.707087,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 8,
+      "nimi": "Annele",
+      "leveysaste": 60.167819,
+      "pituusaste": 24.944287,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 9,
+      "nimi": "Annette Tillander",
+      "leveysaste": 60.168117,
+      "pituusaste": 24.945438,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 10,
+      "nimi": "Arvokoru",
+      "leveysaste": 60.163588,
+      "pituusaste": 24.942797,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 11,
+      "nimi": "Aseman Kello",
+      "leveysaste": 60.168734,
+      "pituusaste": 24.943717,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 12,
+      "nimi": "Atelier Eklöf",
+      "leveysaste": 60.168182,
+      "pituusaste": 24.937065,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 13,
+      "nimi": "Atelier Torbjörn Tillander",
+      "leveysaste": 60.168018,
+      "pituusaste": 24.947731,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 14,
+      "nimi": "Ateljee Ajan-kello",
+      "leveysaste": 60.868207,
+      "pituusaste": 26.706759,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 15,
+      "nimi": "Ateljé Rauli Kostiainen",
+      "leveysaste": 60.166274,
+      "pituusaste": 24.934045,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 16,
+      "nimi": "Aurifaber",
+      "leveysaste": 61.501829,
+      "pituusaste": 23.758705,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 17,
+      "nimi": "Aurum",
+      "leveysaste": 60.394693,
+      "pituusaste": 25.659372,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 18,
+      "nimi": "Baltic Amber",
+      "leveysaste": 60.394701,
+      "pituusaste": 25.660404,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 19,
+      "nimi": "Blingi",
+      "leveysaste": 60.450358,
+      "pituusaste": 22.259941,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 20,
+      "nimi": "Briljantti Joensuu",
+      "leveysaste": 62.628208,
+      "pituusaste": 29.703759,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 21,
+      "nimi": "Brunilan kelloliike",
+      "leveysaste": 60.467426,
+      "pituusaste": 26.944031,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 22,
+      "nimi": "Bulevardi Diamond",
+      "leveysaste": 60.167831,
+      "pituusaste": 24.9448,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 23,
+      "nimi": "Caratia",
+      "leveysaste": 60.237035,
+      "pituusaste": 25.084678,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 24,
+      "nimi": "Collection",
+      "leveysaste": 60.31883,
+      "pituusaste": 24.96758,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 25,
+      "nimi": "Coruya",
+      "leveysaste": 60.160215,
+      "pituusaste": 24.946728,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 26,
+      "nimi": "DRMLND",
+      "leveysaste": 60.450451,
+      "pituusaste": 22.264308,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 27,
+      "nimi": "Diamond Center",
+      "leveysaste": 60.162457,
+      "pituusaste": 24.935381,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 28,
+      "nimi": "Efva Attling",
+      "leveysaste": 60.168238,
+      "pituusaste": 24.945425,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 29,
+      "nimi": "Elegance Kultajousi",
+      "leveysaste": 60.490536,
+      "pituusaste": 22.199772,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 30,
+      "nimi": "Elegance Kultajousi",
+      "leveysaste": 60.982759,
+      "pituusaste": 25.658412,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 31,
+      "nimi": "Euro Kello ja Kulta",
+      "leveysaste": 62.298846,
+      "pituusaste": 27.159776,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 32,
+      "nimi": "Faber art",
+      "leveysaste": 60.159865,
+      "pituusaste": 24.946789,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 33,
+      "nimi": "Finfiona",
+      "leveysaste": 60.159911,
+      "pituusaste": 24.948337,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 34,
+      "nimi": "Gad Leinson",
+      "leveysaste": 60.167392,
+      "pituusaste": 24.937853,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 35,
+      "nimi": "Gallery GAo ShAn",
+      "leveysaste": 60.172175,
+      "pituusaste": 24.953468,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 36,
+      "nimi": "GemoIvy",
+      "leveysaste": 60.903283,
+      "pituusaste": 26.651357,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 37,
+      "nimi": "GemoIvy",
+      "leveysaste": 60.903285,
+      "pituusaste": 26.651348,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 38,
+      "nimi": "Glitter",
+      "leveysaste": 60.162039,
+      "pituusaste": 24.737685,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 39,
+      "nimi": "Glitter",
+      "leveysaste": 60.162055,
+      "pituusaste": 24.737658,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 40,
+      "nimi": "Glitter",
+      "leveysaste": 60.168972,
+      "pituusaste": 24.938183,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 41,
+      "nimi": "Glitter",
+      "leveysaste": 60.187354,
+      "pituusaste": 24.979239,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 42,
+      "nimi": "Glitter",
+      "leveysaste": 60.211492,
+      "pituusaste": 25.082486,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 43,
+      "nimi": "Glitter",
+      "leveysaste": 60.218463,
+      "pituusaste": 24.812367,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 44,
+      "nimi": "Glitter",
+      "leveysaste": 60.290784,
+      "pituusaste": 24.965664,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 45,
+      "nimi": "Glitter",
+      "leveysaste": 60.29235,
+      "pituusaste": 24.964061,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 46,
+      "nimi": "Glitter",
+      "leveysaste": 60.429487,
+      "pituusaste": 22.321035,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 47,
+      "nimi": "Glitter",
+      "leveysaste": 60.876971,
+      "pituusaste": 26.651878,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 48,
+      "nimi": "Glitter",
+      "leveysaste": 61.360813,
+      "pituusaste": 23.796525,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 49,
+      "nimi": "Glitter",
+      "leveysaste": 61.360824,
+      "pituusaste": 23.796524,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 50,
+      "nimi": "Glitter",
+      "leveysaste": 62.24198,
+      "pituusaste": 25.747223,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 51,
+      "nimi": "Glitter",
+      "leveysaste": 62.256211,
+      "pituusaste": 25.773622,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 52,
+      "nimi": "Glitter",
+      "leveysaste": 62.822934,
+      "pituusaste": 27.60363,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 53,
+      "nimi": "Glitter",
+      "leveysaste": 64.902666,
+      "pituusaste": 25.537417,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 54,
+      "nimi": "Glitter",
+      "leveysaste": 65.011327,
+      "pituusaste": 25.473144,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 55,
+      "nimi": "Glitter",
+      "leveysaste": 65.077118,
+      "pituusaste": 25.446303,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 56,
+      "nimi": "Guldviva",
+      "leveysaste": 60.1052,
+      "pituusaste": 19.9448,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 57,
+      "nimi": "Hanna Niemi",
+      "leveysaste": 63.836542,
+      "pituusaste": 23.132999,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 58,
+      "nimi": "Haraldin Paja",
+      "leveysaste": 69.889829,
+      "pituusaste": 27.02033,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 59,
+      "nimi": "Hasses Ur & Guld",
+      "leveysaste": 60.099086,
+      "pituusaste": 19.94285,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 60,
+      "nimi": "Holmasto",
+      "leveysaste": 60.16873,
+      "pituusaste": 24.943627,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 61,
+      "nimi": "Holmroos",
+      "leveysaste": 60.737673,
+      "pituusaste": 24.771712,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 62,
+      "nimi": "Hopea-Ferit",
+      "leveysaste": 62.428087,
+      "pituusaste": 22.177471,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 63,
+      "nimi": "Hopeapuro",
+      "leveysaste": 63.099291,
+      "pituusaste": 23.038983,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 64,
+      "nimi": "Hovikulta",
+      "leveysaste": 60.450981,
+      "pituusaste": 22.280055,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 65,
+      "nimi": "Hovisepät",
+      "leveysaste": 63.096026,
+      "pituusaste": 21.616953,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 66,
+      "nimi": "Igorin koru",
+      "leveysaste": 60.183928,
+      "pituusaste": 24.951204,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 67,
+      "nimi": "Inarin hopea",
+      "leveysaste": 68.909845,
+      "pituusaste": 27.012255,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 68,
+      "nimi": "J.I. Wahlberg",
+      "leveysaste": 61.497179,
+      "pituusaste": 23.755647,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 69,
+      "nimi": "JALO",
+      "leveysaste": 60.131927,
+      "pituusaste": 23.548541,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 70,
+      "nimi": "Joensuun kultaseppä",
+      "leveysaste": 62.60449,
+      "pituusaste": 29.76128,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 71,
+      "nimi": "Järven Kello ja Kulta",
+      "leveysaste": 60.800061,
+      "pituusaste": 21.411571,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 72,
+      "nimi": "K. I. Kaukon Kello ja Kulta",
+      "leveysaste": 60.982848,
+      "pituusaste": 25.657329,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 73,
+      "nimi": "Kajaanin Linnan-kulta",
+      "leveysaste": 64.226578,
+      "pituusaste": 27.730336,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 74,
+      "nimi": "Kalevala",
+      "leveysaste": 60.168624,
+      "pituusaste": 24.943187,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 75,
+      "nimi": "Kalevala Outlet & Experience",
+      "leveysaste": 60.248575,
+      "pituusaste": 24.840481,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 76,
+      "nimi": "Kalevala jewelry",
+      "leveysaste": 60.167994,
+      "pituusaste": 24.943227,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 77,
+      "nimi": "Kalevan kello",
+      "leveysaste": 61.497898,
+      "pituusaste": 23.770474,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 78,
+      "nimi": "Karhio",
+      "leveysaste": 60.165762,
+      "pituusaste": 24.946069,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 79,
+      "nimi": "KavaNoita",
+      "leveysaste": 67.418712,
+      "pituusaste": 26.591088,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 80,
+      "nimi": "Kello & Kulta",
+      "leveysaste": 60.163705,
+      "pituusaste": 24.942471,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 81,
+      "nimi": "Kello Kulta",
+      "leveysaste": 62.009719,
+      "pituusaste": 23.024969,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 82,
+      "nimi": "Kello ja Kulta Lyytikäinen",
+      "leveysaste": 63.558498,
+      "pituusaste": 27.187729,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 83,
+      "nimi": "Kello ja Kulta Palmu Oy",
+      "leveysaste": 60.880496,
+      "pituusaste": 21.693118,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 84,
+      "nimi": "Kello ja Kulta Pehkonen",
+      "leveysaste": 63.317944,
+      "pituusaste": 30.027531,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 85,
+      "nimi": "Kello ja Kulta Tapiola",
+      "leveysaste": 60.17566,
+      "pituusaste": 24.805069,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 86,
+      "nimi": "Kello ja kulta Pehkonen Oy",
+      "leveysaste": 62.629172,
+      "pituusaste": 29.77295,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 87,
+      "nimi": "Kello- ja korukorjaus aikamerkki",
+      "leveysaste": 60.159938,
+      "pituusaste": 24.948335,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 88,
+      "nimi": "Kello- ja kultasepänliike Riihimäki",
+      "leveysaste": 61.176518,
+      "pituusaste": 22.698205,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 89,
+      "nimi": "Kello- ja kultasepänliike Uimola",
+      "leveysaste": 62.793727,
+      "pituusaste": 22.791648,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 90,
+      "nimi": "Kelloliike",
+      "leveysaste": 65.175245,
+      "pituusaste": 25.350668,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 91,
+      "nimi": "Kelloliike J. Mäkelä",
+      "leveysaste": 60.850319,
+      "pituusaste": 23.059646,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 92,
+      "nimi": "Kelloliike P.Kainulainen",
+      "leveysaste": 64.226304,
+      "pituusaste": 27.73082,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 93,
+      "nimi": "Kelloliike Porri",
+      "leveysaste": 62.706003,
+      "pituusaste": 25.259632,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 94,
+      "nimi": "Kelloliike Pylvänäinen",
+      "leveysaste": 61.688807,
+      "pituusaste": 27.275601,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 95,
+      "nimi": "Kelloliike Soikkeli",
+      "leveysaste": 60.403322,
+      "pituusaste": 25.100082,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 96,
+      "nimi": "Kelloliike T. Lappi",
+      "leveysaste": 62.298681,
+      "pituusaste": 27.158927,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 97,
+      "nimi": "Kellopiste Paukku",
+      "leveysaste": 61.478164,
+      "pituusaste": 23.512427,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 98,
+      "nimi": "Kellopuoti",
+      "leveysaste": 63.741904,
+      "pituusaste": 27.003515,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 99,
+      "nimi": "Kellosepänliike H. Ikäheimo",
+      "leveysaste": 65.009787,
+      "pituusaste": 25.470305,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 100,
+      "nimi": "Kiteen Kello ja Kulta Ruotsalainen",
+      "leveysaste": 62.097821,
+      "pituusaste": 30.138415,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 101,
+      "nimi": "Kiviseppä Ky",
+      "leveysaste": 60.790161,
+      "pituusaste": 28.013264,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 102,
+      "nimi": "Kiviseppä Ky",
+      "leveysaste": 60.790173,
+      "pituusaste": 28.013265,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 103,
+      "nimi": "Korkeila",
+      "leveysaste": 60.16067,
+      "pituusaste": 24.946359,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 104,
+      "nimi": "Koru Linnea",
+      "leveysaste": 60.449955,
+      "pituusaste": 22.265116,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 105,
+      "nimi": "Koru Store",
+      "leveysaste": 62.243044,
+      "pituusaste": 25.74759,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 106,
+      "nimi": "Koru-Vakka",
+      "leveysaste": 60.800317,
+      "pituusaste": 21.413945,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 107,
+      "nimi": "Koruateljee Nagual",
+      "leveysaste": 61.496848,
+      "pituusaste": 23.752841,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 108,
+      "nimi": "Korugalleria Roba",
+      "leveysaste": 60.163155,
+      "pituusaste": 24.940869,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 109,
+      "nimi": "Korukaivos Oy",
+      "leveysaste": 60.290344,
+      "pituusaste": 25.036768,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 110,
+      "nimi": "Koruliike Corona",
+      "leveysaste": 60.474131,
+      "pituusaste": 22.227017,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 111,
+      "nimi": "Koruliike Romeo & Julia",
+      "leveysaste": 65.00972,
+      "pituusaste": 25.470199,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 112,
+      "nimi": "Korulähde",
+      "leveysaste": 61.497706,
+      "pituusaste": 23.770542,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 113,
+      "nimi": "Korupaja Vaskikäärme",
+      "leveysaste": 60.47145,
+      "pituusaste": 22.029374,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 114,
+      "nimi": "Korutasku",
+      "leveysaste": 60.811135,
+      "pituusaste": 25.748178,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 115,
+      "nimi": "Kouvolan kulta Oy",
+      "leveysaste": 60.869122,
+      "pituusaste": 26.704006,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 116,
+      "nimi": "Kulmala",
+      "leveysaste": 60.158593,
+      "pituusaste": 24.9459,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 117,
+      "nimi": "Kulta&Kello Kärkkäinen",
+      "leveysaste": 63.749548,
+      "pituusaste": 25.31986,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 118,
+      "nimi": "Kulta-Aika",
+      "leveysaste": 60.27324,
+      "pituusaste": 24.969124,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 119,
+      "nimi": "Kulta-Aika Kamppi",
+      "leveysaste": 60.168828,
+      "pituusaste": 24.932229,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 120,
+      "nimi": "KultaHelmi",
+      "leveysaste": 60.278182,
+      "pituusaste": 25.10433,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 121,
+      "nimi": "KultaJousi",
+      "leveysaste": 60.450586,
+      "pituusaste": 22.262089,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 122,
+      "nimi": "KultaSarvi",
+      "leveysaste": 60.451569,
+      "pituusaste": 22.25751,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 123,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.169383,
+      "pituusaste": 24.937828,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 124,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.17017,
+      "pituusaste": 24.941043,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 125,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.187336,
+      "pituusaste": 24.978494,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 126,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.198762,
+      "pituusaste": 24.930923,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 127,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.211469,
+      "pituusaste": 25.081831,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 128,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.218038,
+      "pituusaste": 24.812754,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 129,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.237183,
+      "pituusaste": 24.891768,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 130,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.260543,
+      "pituusaste": 24.853969,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 131,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.291176,
+      "pituusaste": 24.96579,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 132,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.377727,
+      "pituusaste": 24.758628,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 133,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.403149,
+      "pituusaste": 25.099581,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 134,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.403152,
+      "pituusaste": 25.099571,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 135,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.415412,
+      "pituusaste": 22.325462,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 136,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.430048,
+      "pituusaste": 22.322782,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 137,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.450719,
+      "pituusaste": 22.264642,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 138,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.86907,
+      "pituusaste": 26.70402,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 139,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.87596,
+      "pituusaste": 26.652523,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 140,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.986683,
+      "pituusaste": 25.664823,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 141,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.993352,
+      "pituusaste": 24.456388,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 142,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.056809,
+      "pituusaste": 28.193063,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 143,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.05886,
+      "pituusaste": 28.186193,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 144,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.187331,
+      "pituusaste": 28.771719,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 145,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.189149,
+      "pituusaste": 28.765145,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 146,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.360291,
+      "pituusaste": 23.795604,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 147,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.484218,
+      "pituusaste": 21.797182,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 148,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.492914,
+      "pituusaste": 23.767742,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 149,
+      "nimi": "Kultajousi",
+      "leveysaste": 61.519266,
+      "pituusaste": 23.667117,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 150,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.215509,
+      "pituusaste": 25.720448,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 151,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.243241,
+      "pituusaste": 25.748817,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 152,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.257374,
+      "pituusaste": 25.774119,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 153,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.287458,
+      "pituusaste": 25.713376,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 154,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.601869,
+      "pituusaste": 29.7629,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 155,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.793637,
+      "pituusaste": 22.79165,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 156,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.823117,
+      "pituusaste": 27.603389,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 157,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.864337,
+      "pituusaste": 27.612696,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 158,
+      "nimi": "Kultajousi",
+      "leveysaste": 62.892765,
+      "pituusaste": 27.679877,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 159,
+      "nimi": "Kultajousi",
+      "leveysaste": 63.095566,
+      "pituusaste": 21.614127,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 160,
+      "nimi": "Kultajousi",
+      "leveysaste": 63.831766,
+      "pituusaste": 23.127072,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 161,
+      "nimi": "Kultajousi",
+      "leveysaste": 64.666211,
+      "pituusaste": 24.4837,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 162,
+      "nimi": "Kultajousi",
+      "leveysaste": 64.902475,
+      "pituusaste": 25.537639,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 163,
+      "nimi": "Kultajousi",
+      "leveysaste": 64.993782,
+      "pituusaste": 25.462635,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 164,
+      "nimi": "Kultajousi",
+      "leveysaste": 65.011955,
+      "pituusaste": 25.470086,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 165,
+      "nimi": "Kultajousi",
+      "leveysaste": 65.076395,
+      "pituusaste": 25.445017,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 166,
+      "nimi": "Kultajousi",
+      "leveysaste": 65.842898,
+      "pituusaste": 24.144268,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 167,
+      "nimi": "Kultajousi Elegance",
+      "leveysaste": 65.011265,
+      "pituusaste": 25.472628,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 168,
+      "nimi": "Kultajousi Iso Omena",
+      "leveysaste": 60.160657,
+      "pituusaste": 24.739442,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 169,
+      "nimi": "Kultajousi Iso Omena keskusaukio",
+      "leveysaste": 60.161779,
+      "pituusaste": 24.737962,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 170,
+      "nimi": "Kultajousi Iso Omena keskusaukio",
+      "leveysaste": 60.161793,
+      "pituusaste": 24.73795,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 171,
+      "nimi": "Kultajousi Turku CM-Länsikeskus",
+      "leveysaste": 60.472313,
+      "pituusaste": 22.233008,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 172,
+      "nimi": "Kultajousi Vantaa",
+      "leveysaste": 60.29226,
+      "pituusaste": 25.041624,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 173,
+      "nimi": "Kultakaraatti Oy",
+      "leveysaste": 60.225611,
+      "pituusaste": 24.894368,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 174,
+      "nimi": "Kultakehrä Kärkkäinen",
+      "leveysaste": 64.268196,
+      "pituusaste": 24.817397,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 175,
+      "nimi": "Kultakehrä Kärkkäinen",
+      "leveysaste": 64.268237,
+      "pituusaste": 24.817403,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 176,
+      "nimi": "Kultakello Nikolai",
+      "leveysaste": 63.239175,
+      "pituusaste": 22.849885,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 177,
+      "nimi": "Kultakeskus",
+      "leveysaste": 61.016107,
+      "pituusaste": 24.417803,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 178,
+      "nimi": "Kultakumppanit",
+      "leveysaste": 61.202057,
+      "pituusaste": 26.030502,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 179,
+      "nimi": "Kultaliekki Oy / Silver Fish",
+      "leveysaste": 59.92155,
+      "pituusaste": 22.410414,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 180,
+      "nimi": "Kultanäppi",
+      "leveysaste": 60.2336,
+      "pituusaste": 24.931188,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 181,
+      "nimi": "Kultasalpa",
+      "leveysaste": 60.989378,
+      "pituusaste": 25.515058,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 182,
+      "nimi": "Kultaseppä",
+      "leveysaste": 60.161121,
+      "pituusaste": 24.946293,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 183,
+      "nimi": "Kultaseppä Hanhiniemi",
+      "leveysaste": 62.790894,
+      "pituusaste": 22.8374,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 184,
+      "nimi": "Kultaseppä Jaana Lehtinen",
+      "leveysaste": 60.156927,
+      "pituusaste": 24.945656,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 185,
+      "nimi": "Kultaseppä Laiho",
+      "leveysaste": 61.128764,
+      "pituusaste": 21.509824,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 186,
+      "nimi": "Kultaseppä T.Hurme",
+      "leveysaste": 60.99481,
+      "pituusaste": 24.460406,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 187,
+      "nimi": "Kultaseppä Tapio Rajala",
+      "leveysaste": 60.160756,
+      "pituusaste": 24.942525,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 188,
+      "nimi": "Kultaseppämestari Harri Syrjänen",
+      "leveysaste": 60.163795,
+      "pituusaste": 24.945809,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 189,
+      "nimi": "Kultasepänliike Feeniks",
+      "leveysaste": 60.964708,
+      "pituusaste": 25.657426,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 190,
+      "nimi": "Kultasepänliike Nissi",
+      "leveysaste": 63.838433,
+      "pituusaste": 23.13166,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 191,
+      "nimi": "Kultasepänliike O. Palmu",
+      "leveysaste": 61.128245,
+      "pituusaste": 21.505818,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 192,
+      "nimi": "Kultasepänliike-Hopeatukku.fi",
+      "leveysaste": 61.061791,
+      "pituusaste": 24.344255,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 193,
+      "nimi": "Kultasepät Andreasen",
+      "leveysaste": 61.497292,
+      "pituusaste": 23.753002,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 194,
+      "nimi": "Kultasepät Narsakka Oy",
+      "leveysaste": 60.994721,
+      "pituusaste": 24.460481,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 195,
+      "nimi": "Kultasuutari",
+      "leveysaste": 61.128102,
+      "pituusaste": 21.508316,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 196,
+      "nimi": "Kultasäde",
+      "leveysaste": 60.207397,
+      "pituusaste": 25.14496,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 197,
+      "nimi": "Kultatukku",
+      "leveysaste": 60.203916,
+      "pituusaste": 24.656671,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 198,
+      "nimi": "Kultatukku",
+      "leveysaste": 60.209476,
+      "pituusaste": 25.082645,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 199,
+      "nimi": "Kultatukku",
+      "leveysaste": 60.934031,
+      "pituusaste": 25.624818,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 200,
+      "nimi": "Kultatukku",
+      "leveysaste": 60.99383,
+      "pituusaste": 24.459551,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 201,
+      "nimi": "Kultatukku",
+      "leveysaste": 61.362996,
+      "pituusaste": 23.795334,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 202,
+      "nimi": "Kultatukku",
+      "leveysaste": 62.891917,
+      "pituusaste": 27.677882,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 203,
+      "nimi": "Kultatähti Kauhava",
+      "leveysaste": 63.100679,
+      "pituusaste": 23.055961,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 204,
+      "nimi": "Kultavirta",
+      "leveysaste": 60.430014,
+      "pituusaste": 22.322853,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 205,
+      "nimi": "Kulteseppä Ra-Mi Sepät Ky",
+      "leveysaste": 62.891538,
+      "pituusaste": 27.673687,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 206,
+      "nimi": "Kytölän Kello ja Kulta",
+      "leveysaste": 62.242224,
+      "pituusaste": 25.747822,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 207,
+      "nimi": "LETHERgo",
+      "leveysaste": 60.903441,
+      "pituusaste": 26.651332,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 208,
+      "nimi": "LETHERgo",
+      "leveysaste": 60.903446,
+      "pituusaste": 26.651333,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 209,
+      "nimi": "Laakso And Sundman",
+      "leveysaste": 60.164121,
+      "pituusaste": 24.946542,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 210,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.14939,
+      "pituusaste": 24.65599,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 211,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.161735,
+      "pituusaste": 24.73821,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 212,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.161739,
+      "pituusaste": 24.738168,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 213,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.167841,
+      "pituusaste": 24.945204,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 214,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.187282,
+      "pituusaste": 24.97828,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 215,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.203688,
+      "pituusaste": 24.658605,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 216,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.21158,
+      "pituusaste": 25.082037,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 217,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.218377,
+      "pituusaste": 24.812835,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 218,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.291162,
+      "pituusaste": 24.96537,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 219,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.630976,
+      "pituusaste": 24.860501,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 220,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.631873,
+      "pituusaste": 24.86355,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 221,
+      "nimi": "Laatukoru",
+      "leveysaste": 60.982893,
+      "pituusaste": 25.6639,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 222,
+      "nimi": "Laitilan Kello-Huolto",
+      "leveysaste": 60.880222,
+      "pituusaste": 21.693798,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 223,
+      "nimi": "Lampi Design",
+      "leveysaste": 62.891281,
+      "pituusaste": 27.676594,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 224,
+      "nimi": "Lembergs Ur & Guld",
+      "leveysaste": 60.09869,
+      "pituusaste": 19.939993,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 225,
+      "nimi": "Lindroos",
+      "leveysaste": 60.168427,
+      "pituusaste": 24.945814,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 226,
+      "nimi": "Lindroos",
+      "leveysaste": 60.316224,
+      "pituusaste": 24.961857,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 227,
+      "nimi": "Lunci",
+      "leveysaste": 60.169174,
+      "pituusaste": 24.933773,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 228,
+      "nimi": "Magga",
+      "leveysaste": 67.418159,
+      "pituusaste": 26.592287,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 229,
+      "nimi": "Malmin Korupaja",
+      "leveysaste": 60.251352,
+      "pituusaste": 25.005602,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 230,
+      "nimi": "Malmin Korupaja",
+      "leveysaste": 60.251369,
+      "pituusaste": 25.00559,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 231,
+      "nimi": "Malmin korupaja",
+      "leveysaste": 60.228486,
+      "pituusaste": 24.963704,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 232,
+      "nimi": "Mikolan kello ja kulta",
+      "leveysaste": 61.099463,
+      "pituusaste": 21.838399,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 233,
+      "nimi": "Mononen",
+      "leveysaste": 61.05875,
+      "pituusaste": 28.185667,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 234,
+      "nimi": "Morris tehtaanmyymälä",
+      "leveysaste": 60.448766,
+      "pituusaste": 22.222953,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 235,
+      "nimi": "Mustanojan kello",
+      "leveysaste": 64.683784,
+      "pituusaste": 24.478896,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 236,
+      "nimi": "Naantalin Hopeapaja",
+      "leveysaste": 60.468404,
+      "pituusaste": 22.024452,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 237,
+      "nimi": "Norin kello ja kulta",
+      "leveysaste": 65.02469,
+      "pituusaste": 25.470346,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 238,
+      "nimi": "OK-Koru",
+      "leveysaste": 60.678109,
+      "pituusaste": 21.987733,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 239,
+      "nimi": "OZ Jewel",
+      "leveysaste": 60.166119,
+      "pituusaste": 24.951453,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 240,
+      "nimi": "Olli Johan Lindroos",
+      "leveysaste": 60.168166,
+      "pituusaste": 24.941979,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 241,
+      "nimi": "Oulun Koru",
+      "leveysaste": 65.011986,
+      "pituusaste": 25.470676,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 242,
+      "nimi": "Paja",
+      "leveysaste": 60.166479,
+      "pituusaste": 24.933509,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 243,
+      "nimi": "Paja1605",
+      "leveysaste": 65.013264,
+      "pituusaste": 25.462279,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 244,
+      "nimi": "Papaja",
+      "leveysaste": 60.184335,
+      "pituusaste": 24.952395,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 245,
+      "nimi": "Piili",
+      "leveysaste": 61.564383,
+      "pituusaste": 25.182365,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 246,
+      "nimi": "Pirkan Kello",
+      "leveysaste": 61.498725,
+      "pituusaste": 23.757005,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 247,
+      "nimi": "Posion Kello- ja Kultasoppi",
+      "leveysaste": 66.111881,
+      "pituusaste": 28.158974,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 248,
+      "nimi": "Puustjärven kello ja kulta",
+      "leveysaste": 62.892698,
+      "pituusaste": 27.679893,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 249,
+      "nimi": "RMV-Korut Oy",
+      "leveysaste": 60.118811,
+      "pituusaste": 24.435606,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 250,
+      "nimi": "Raatin Kello",
+      "leveysaste": 64.226451,
+      "pituusaste": 27.729771,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 251,
+      "nimi": "Rantanen",
+      "leveysaste": 61.203192,
+      "pituusaste": 26.034209,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 252,
+      "nimi": "Rantasen Kello",
+      "leveysaste": 61.864477,
+      "pituusaste": 25.188499,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 253,
+      "nimi": "Roben's",
+      "leveysaste": 62.242156,
+      "pituusaste": 25.743386,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 254,
+      "nimi": "Rubens",
+      "leveysaste": 60.161338,
+      "pituusaste": 24.946613,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 255,
+      "nimi": "SalkarI",
+      "leveysaste": 63.095735,
+      "pituusaste": 21.613665,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 256,
+      "nimi": "Salon Kultaisimmat",
+      "leveysaste": 60.38701,
+      "pituusaste": 23.122661,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 257,
+      "nimi": "Sepon Kulta",
+      "leveysaste": 63.836669,
+      "pituusaste": 23.132961,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 258,
+      "nimi": "Sepän viisari",
+      "leveysaste": 60.16082,
+      "pituusaste": 24.937965,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 259,
+      "nimi": "Seraphiné",
+      "leveysaste": 60.167186,
+      "pituusaste": 24.935539,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 260,
+      "nimi": "Silver Art",
+      "leveysaste": 60.159827,
+      "pituusaste": 24.946795,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 261,
+      "nimi": "Simonlinnan kulta",
+      "leveysaste": 60.168519,
+      "pituusaste": 24.935121,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 262,
+      "nimi": "Smedlunds Uraffär",
+      "leveysaste": 63.676009,
+      "pituusaste": 22.703793,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 263,
+      "nimi": "Studio Kupu",
+      "leveysaste": 60.185383,
+      "pituusaste": 24.953691,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 264,
+      "nimi": "Suninen",
+      "leveysaste": 60.868265,
+      "pituusaste": 26.706751,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 265,
+      "nimi": "Suninen",
+      "leveysaste": 60.876594,
+      "pituusaste": 26.651637,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 266,
+      "nimi": "Suninen",
+      "leveysaste": 60.876602,
+      "pituusaste": 26.651671,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 267,
+      "nimi": "Suokko",
+      "leveysaste": 61.497627,
+      "pituusaste": 23.770566,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 268,
+      "nimi": "Suomen Kultakello",
+      "leveysaste": 60.290856,
+      "pituusaste": 24.965279,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 269,
+      "nimi": "Suomen Kultapörssi",
+      "leveysaste": 61.361719,
+      "pituusaste": 23.795312,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 270,
+      "nimi": "Suomen Kultapörssi",
+      "leveysaste": 61.361724,
+      "pituusaste": 23.795315,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 271,
+      "nimi": "Suomen Kultapörssi",
+      "leveysaste": 61.499222,
+      "pituusaste": 23.755898,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 272,
+      "nimi": "Suominen",
+      "leveysaste": 60.450552,
+      "pituusaste": 22.262012,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 273,
+      "nimi": "Sutelan kello ja kulta",
+      "leveysaste": 60.50108,
+      "pituusaste": 26.869136,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 274,
+      "nimi": "TT-Kulta",
+      "leveysaste": 60.27297,
+      "pituusaste": 24.809339,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 275,
+      "nimi": "Tag gems",
+      "leveysaste": 60.166052,
+      "pituusaste": 24.951471,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 276,
+      "nimi": "Taigakoru Oy",
+      "leveysaste": 66.543455,
+      "pituusaste": 25.847634,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 277,
+      "nimi": "Thomas Holmström",
+      "leveysaste": 60.160273,
+      "pituusaste": 24.945893,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 278,
+      "nimi": "Tillander",
+      "leveysaste": 60.167816,
+      "pituusaste": 24.944187,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 279,
+      "nimi": "TimanttiForum",
+      "leveysaste": 60.169037,
+      "pituusaste": 24.936564,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 280,
+      "nimi": "Timanttiset",
+      "leveysaste": 60.450557,
+      "pituusaste": 22.265159,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 281,
+      "nimi": "Timanttiset",
+      "leveysaste": 60.49065,
+      "pituusaste": 22.199339,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 282,
+      "nimi": "Timanttiset",
+      "leveysaste": 60.871572,
+      "pituusaste": 26.657207,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 283,
+      "nimi": "Timanttiset",
+      "leveysaste": 60.959597,
+      "pituusaste": 25.656211,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 284,
+      "nimi": "Timanttiset",
+      "leveysaste": 60.981881,
+      "pituusaste": 25.73696,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 285,
+      "nimi": "Timanttiset",
+      "leveysaste": 61.058749,
+      "pituusaste": 28.186269,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 286,
+      "nimi": "Timanttiset",
+      "leveysaste": 61.362456,
+      "pituusaste": 23.795314,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 287,
+      "nimi": "Timanttiset",
+      "leveysaste": 61.8705,
+      "pituusaste": 28.877118,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 288,
+      "nimi": "Timanttiset",
+      "leveysaste": 62.617069,
+      "pituusaste": 29.777888,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 289,
+      "nimi": "Timanttiset",
+      "leveysaste": 63.835704,
+      "pituusaste": 23.131617,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 290,
+      "nimi": "Timanttiset",
+      "leveysaste": 65.077431,
+      "pituusaste": 25.446873,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 291,
+      "nimi": "Timanttiset Kellokeskus Lahti",
+      "leveysaste": 60.982237,
+      "pituusaste": 25.662988,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 292,
+      "nimi": "Timanttiset Kulta-Aika",
+      "leveysaste": 60.218384,
+      "pituusaste": 24.81211,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 293,
+      "nimi": "Timanttiset Kulta-Aika",
+      "leveysaste": 60.237122,
+      "pituusaste": 24.891825,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 294,
+      "nimi": "Timanttiset Lohja",
+      "leveysaste": 60.25096,
+      "pituusaste": 24.069425,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 295,
+      "nimi": "Timanttiset Plaza",
+      "leveysaste": 60.386359,
+      "pituusaste": 23.124343,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 296,
+      "nimi": "Timanttiset Ratina",
+      "leveysaste": 61.493035,
+      "pituusaste": 23.767941,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 297,
+      "nimi": "Timanttiset Vehmas",
+      "leveysaste": 62.243168,
+      "pituusaste": 25.748169,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 298,
+      "nimi": "Timanttiset, Ossian Hopea",
+      "leveysaste": 60.394551,
+      "pituusaste": 25.663627,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 299,
+      "nimi": "Timon Kulta",
+      "leveysaste": 61.128103,
+      "pituusaste": 21.508078,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 300,
+      "nimi": "Tira Jewellery",
+      "leveysaste": 62.890615,
+      "pituusaste": 27.679982,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 301,
+      "nimi": "Torkkeli",
+      "leveysaste": 62.239532,
+      "pituusaste": 25.741433,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 302,
+      "nimi": "Tullintorin Kello & Kulta",
+      "leveysaste": 61.497412,
+      "pituusaste": 23.777196,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 303,
+      "nimi": "Turun Hopea",
+      "leveysaste": 60.427191,
+      "pituusaste": 22.269257,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 304,
+      "nimi": "Tyypit",
+      "leveysaste": 60.16703,
+      "pituusaste": 24.935097,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 305,
+      "nimi": "Ur & Penn",
+      "leveysaste": 60.451058,
+      "pituusaste": 22.265232,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 306,
+      "nimi": "Ur&Penn",
+      "leveysaste": 60.1616,
+      "pituusaste": 24.738667,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 307,
+      "nimi": "Ur&Penn",
+      "leveysaste": 60.161608,
+      "pituusaste": 24.738706,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 308,
+      "nimi": "Ur&Penn",
+      "leveysaste": 60.169449,
+      "pituusaste": 24.933821,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 309,
+      "nimi": "Ur&Penn",
+      "leveysaste": 60.631638,
+      "pituusaste": 24.863839,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 310,
+      "nimi": "Ur&Penn",
+      "leveysaste": 61.493018,
+      "pituusaste": 23.767398,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 311,
+      "nimi": "Ur&Penn",
+      "leveysaste": 63.095645,
+      "pituusaste": 21.614312,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 312,
+      "nimi": "Uudenkaupungin Kultakello",
+      "leveysaste": 60.799982,
+      "pituusaste": 21.407644,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 313,
+      "nimi": "Virpin Kulta",
+      "leveysaste": 62.217457,
+      "pituusaste": 25.721077,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 314,
+      "nimi": "Westerback 1897",
+      "leveysaste": 60.169191,
+      "pituusaste": 24.943135,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    },
+    {
+      "id": 315,
+      "nimi": "Wickströms Ur & Guld",
+      "leveysaste": 60.098863,
+      "pituusaste": 19.942397,
+      "osm_avain": "shop",
+      "osm_arvo": "jewelry",
+      "osm_luokka": "shop=jewelry"
+    }
+  ],
+  "meta": {
+    "title": "Kultasepänliikkeet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kultasepänliikkeet Suomessa — 315 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=jewelry`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 8. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 315 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kultasepänliikkeet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kultasepänliikkeet – Suomi (OpenStreetMap) — 315 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 315 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

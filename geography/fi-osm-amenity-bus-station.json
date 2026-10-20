@@ -1,0 +1,2068 @@
+{
+  "id": "fi-osm-amenity-bus-station",
+  "name": "Linja-autoasemat – Suomi (OpenStreetMap)",
+  "title": "Linja-autoasemat – Suomi (OpenStreetMap)",
+  "description": "Linja-autoasemat Suomessa — 223 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=bus_station`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 11. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 223,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Ala-Malmin tori",
+      "leveysaste": 60.250261,
+      "pituusaste": 25.012578,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 2,
+      "nimi": "Alavieska MH",
+      "leveysaste": 64.168197,
+      "pituusaste": 24.30242,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 3,
+      "nimi": "Alavuden linja-autoasema",
+      "leveysaste": 62.589076,
+      "pituusaste": 23.614354,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 4,
+      "nimi": "Bussplan",
+      "leveysaste": 60.102223,
+      "pituusaste": 19.942237,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 5,
+      "nimi": "Bussplan",
+      "leveysaste": 60.102287,
+      "pituusaste": 19.942222,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 6,
+      "nimi": "Elielinaukio",
+      "leveysaste": 60.171899,
+      "pituusaste": 24.939332,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 7,
+      "nimi": "Elielinaukio",
+      "leveysaste": 60.171913,
+      "pituusaste": 24.939328,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 8,
+      "nimi": "Espoon keskus",
+      "leveysaste": 60.204989,
+      "pituusaste": 24.657878,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 9,
+      "nimi": "Espoonlahti (M)",
+      "leveysaste": 60.150892,
+      "pituusaste": 24.653361,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 10,
+      "nimi": "Forssan linja-autoasema",
+      "leveysaste": 60.816192,
+      "pituusaste": 23.630413,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 11,
+      "nimi": "Haapaveden Matkahuolto",
+      "leveysaste": 64.143676,
+      "pituusaste": 25.365258,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 12,
+      "nimi": "Hakaniemi",
+      "leveysaste": 60.179008,
+      "pituusaste": 24.950689,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 13,
+      "nimi": "Hamina",
+      "leveysaste": 60.568879,
+      "pituusaste": 27.187628,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 14,
+      "nimi": "Hamina",
+      "leveysaste": 60.5689,
+      "pituusaste": 27.18758,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 15,
+      "nimi": "Haparanda Tornio Resecentrum",
+      "leveysaste": 65.843348,
+      "pituusaste": 24.138368,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 16,
+      "nimi": "Harjavalta",
+      "leveysaste": 61.311277,
+      "pituusaste": 22.136561,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 17,
+      "nimi": "Harjavalta",
+      "leveysaste": 61.31132,
+      "pituusaste": 22.136459,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 18,
+      "nimi": "Hauho linja-autoasema",
+      "leveysaste": 61.172015,
+      "pituusaste": 24.563502,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 19,
+      "nimi": "Herttoniemi",
+      "leveysaste": 60.195152,
+      "pituusaste": 25.031405,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 20,
+      "nimi": "Huittisten linja-autoasema",
+      "leveysaste": 61.178204,
+      "pituusaste": 22.702225,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 21,
+      "nimi": "Hyrylän bussiterminaali",
+      "leveysaste": 60.400498,
+      "pituusaste": 25.032241,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 22,
+      "nimi": "Hyrylän bussiterminaali",
+      "leveysaste": 60.400622,
+      "pituusaste": 25.031928,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 23,
+      "nimi": "Hyvinkään linja-autoasema",
+      "leveysaste": 60.62852,
+      "pituusaste": 24.857191,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 24,
+      "nimi": "Hämeenlinnan linja-autoasema",
+      "leveysaste": 60.994917,
+      "pituusaste": 24.467014,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 25,
+      "nimi": "Iisalmen linja-autoasema",
+      "leveysaste": 63.557176,
+      "pituusaste": 27.190501,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 26,
+      "nimi": "Iisalmen linja-autoasema",
+      "leveysaste": 63.557228,
+      "pituusaste": 27.190419,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 27,
+      "nimi": "Ilmajoen matkahuolto",
+      "leveysaste": 62.732077,
+      "pituusaste": 22.578612,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 28,
+      "nimi": "Ilomantsi",
+      "leveysaste": 62.671321,
+      "pituusaste": 30.934269,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 29,
+      "nimi": "Imatran keskusliikenneasema",
+      "leveysaste": 61.195996,
+      "pituusaste": 28.776854,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 30,
+      "nimi": "Inkeroinen",
+      "leveysaste": 60.691993,
+      "pituusaste": 26.840803,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 31,
+      "nimi": "Isojoki MH",
+      "leveysaste": 62.111524,
+      "pituusaste": 21.964053,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 32,
+      "nimi": "Isokyrö",
+      "leveysaste": 62.998339,
+      "pituusaste": 22.319504,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 33,
+      "nimi": "Itäkeskus",
+      "leveysaste": 60.209828,
+      "pituusaste": 25.07675,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 34,
+      "nimi": "Joensuun linja-autoasema",
+      "leveysaste": 62.600879,
+      "pituusaste": 29.77704,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 35,
+      "nimi": "Juankoski MH",
+      "leveysaste": 63.066161,
+      "pituusaste": 28.32848,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 36,
+      "nimi": "Juuka",
+      "leveysaste": 63.241064,
+      "pituusaste": 29.253491,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 37,
+      "nimi": "Juvan linja-autoasema",
+      "leveysaste": 61.89664,
+      "pituusaste": 27.853135,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 38,
+      "nimi": "Juvan linja-autoasema",
+      "leveysaste": 61.896676,
+      "pituusaste": 27.853203,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 39,
+      "nimi": "Jyväskylän matkakeskus",
+      "leveysaste": 62.241936,
+      "pituusaste": 25.754812,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 40,
+      "nimi": "Jyväskylän matkakeskus",
+      "leveysaste": 62.241944,
+      "pituusaste": 25.754804,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 41,
+      "nimi": "Jyväskylän paikallisliikennekeskus",
+      "leveysaste": 62.241094,
+      "pituusaste": 25.748427,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 42,
+      "nimi": "Jämsän linja-autoasema",
+      "leveysaste": 61.866228,
+      "pituusaste": 25.192795,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 43,
+      "nimi": "Jämsän linja-autoasema",
+      "leveysaste": 61.866246,
+      "pituusaste": 25.192809,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 44,
+      "nimi": "Järvenpään asema",
+      "leveysaste": 60.473689,
+      "pituusaste": 25.08988,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 45,
+      "nimi": "Kaavi MH",
+      "leveysaste": 62.975589,
+      "pituusaste": 28.479842,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 46,
+      "nimi": "Kajaanin matkakeskus",
+      "leveysaste": 64.220228,
+      "pituusaste": 27.73998,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 47,
+      "nimi": "Kajaanin matkakeskus",
+      "leveysaste": 64.220256,
+      "pituusaste": 27.739574,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 48,
+      "nimi": "Kamppi",
+      "leveysaste": 60.169018,
+      "pituusaste": 24.932362,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 49,
+      "nimi": "Kangasniemen linja-autoasema",
+      "leveysaste": 61.988985,
+      "pituusaste": 26.639953,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 50,
+      "nimi": "Kankaanpään Linja-autoasema",
+      "leveysaste": 61.802601,
+      "pituusaste": 22.392283,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 51,
+      "nimi": "Kannuksen linja-autoasema",
+      "leveysaste": 63.898979,
+      "pituusaste": 23.916127,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 52,
+      "nimi": "Kannuksen linja-autoasema",
+      "leveysaste": 63.899027,
+      "pituusaste": 23.916057,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 53,
+      "nimi": "Kantasataman paikallisliikenneterminaali (Kotka)",
+      "leveysaste": 60.469601,
+      "pituusaste": 26.95059,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 54,
+      "nimi": "Karijoki",
+      "leveysaste": 62.307785,
+      "pituusaste": 21.705142,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 55,
+      "nimi": "Karis resecenter",
+      "leveysaste": 60.069962,
+      "pituusaste": 23.66228,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 56,
+      "nimi": "Karkkila",
+      "leveysaste": 60.535578,
+      "pituusaste": 24.214562,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 57,
+      "nimi": "Karttula",
+      "leveysaste": 62.895354,
+      "pituusaste": 26.972827,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 58,
+      "nimi": "Kaskinen (Salen piha)",
+      "leveysaste": 62.376891,
+      "pituusaste": 21.231299,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 59,
+      "nimi": "Kauhajoen linja-autoasema",
+      "leveysaste": 62.425328,
+      "pituusaste": 22.177739,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 60,
+      "nimi": "Kauhajoen linja-autoasema",
+      "leveysaste": 62.425338,
+      "pituusaste": 22.177741,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 61,
+      "nimi": "Kauppatori",
+      "leveysaste": 60.450665,
+      "pituusaste": 22.267825,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 62,
+      "nimi": "Kauppatori",
+      "leveysaste": 60.450667,
+      "pituusaste": 22.267852,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 63,
+      "nimi": "Kausala Matkahuolto",
+      "leveysaste": 60.888134,
+      "pituusaste": 26.336882,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 64,
+      "nimi": "Keiteleen linja-autoasema",
+      "leveysaste": 63.179789,
+      "pituusaste": 26.350711,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 65,
+      "nimi": "Keiteleen linja-autoasema",
+      "leveysaste": 63.179801,
+      "pituusaste": 26.350744,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 66,
+      "nimi": "Kemijärvi",
+      "leveysaste": 66.71732,
+      "pituusaste": 27.429071,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 67,
+      "nimi": "Kemin linja-autoasema",
+      "leveysaste": 65.736774,
+      "pituusaste": 24.569867,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 68,
+      "nimi": "Keravan asema",
+      "leveysaste": 60.404369,
+      "pituusaste": 25.105,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 69,
+      "nimi": "Keravan asema",
+      "leveysaste": 60.404391,
+      "pituusaste": 25.105019,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 70,
+      "nimi": "Kerimäen linja-autoasema",
+      "leveysaste": 61.910342,
+      "pituusaste": 29.281416,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 71,
+      "nimi": "Keskustori",
+      "leveysaste": 61.497461,
+      "pituusaste": 23.761141,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 72,
+      "nimi": "Keskustori",
+      "leveysaste": 61.497469,
+      "pituusaste": 23.7611,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 73,
+      "nimi": "Keuruun linja-autoasema",
+      "leveysaste": 62.259738,
+      "pituusaste": 24.701066,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 74,
+      "nimi": "Kihniön linja-autoasema",
+      "leveysaste": 62.211219,
+      "pituusaste": 23.178702,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 75,
+      "nimi": "Kirkkonummen matkakeskus",
+      "leveysaste": 60.11974,
+      "pituusaste": 24.441272,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 76,
+      "nimi": "Kirkkonummen matkakeskus",
+      "leveysaste": 60.119741,
+      "pituusaste": 24.441269,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 77,
+      "nimi": "Kivistön asema",
+      "leveysaste": 60.313756,
+      "pituusaste": 24.845549,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 78,
+      "nimi": "Kivistön asema",
+      "leveysaste": 60.313784,
+      "pituusaste": 24.845532,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 79,
+      "nimi": "Klaukkalan matkakeskus",
+      "leveysaste": 60.375724,
+      "pituusaste": 24.761005,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 80,
+      "nimi": "Klaukkalan matkakeskus",
+      "leveysaste": 60.375743,
+      "pituusaste": 24.76101,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 81,
+      "nimi": "Kokkolan linja-autoasema",
+      "leveysaste": 63.835384,
+      "pituusaste": 23.127147,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 82,
+      "nimi": "Kokkolan linja-autoasema",
+      "leveysaste": 63.835393,
+      "pituusaste": 23.127373,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 83,
+      "nimi": "Kompassisairaala",
+      "leveysaste": 60.451717,
+      "pituusaste": 22.291493,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 84,
+      "nimi": "Kompassisairaala",
+      "leveysaste": 60.451725,
+      "pituusaste": 22.2911,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 85,
+      "nimi": "Kontula",
+      "leveysaste": 60.236065,
+      "pituusaste": 25.081942,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 86,
+      "nimi": "Korppoo",
+      "leveysaste": 60.16279,
+      "pituusaste": 21.560823,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 87,
+      "nimi": "Korso",
+      "leveysaste": 60.351263,
+      "pituusaste": 25.07772,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 88,
+      "nimi": "Kotkan linja-autoasema",
+      "leveysaste": 60.461522,
+      "pituusaste": 26.938886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 89,
+      "nimi": "Kouvola Matkakeskus",
+      "leveysaste": 60.866427,
+      "pituusaste": 26.703761,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 90,
+      "nimi": "Kuhmo Linja-autoasema",
+      "leveysaste": 64.126869,
+      "pituusaste": 29.526139,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 91,
+      "nimi": "Kuhmoinen",
+      "leveysaste": 61.568451,
+      "pituusaste": 25.18208,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 92,
+      "nimi": "Kuopion linja-autoasema",
+      "leveysaste": 62.898219,
+      "pituusaste": 27.679891,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 93,
+      "nimi": "Kuopion linja-autoasema",
+      "leveysaste": 62.898233,
+      "pituusaste": 27.679868,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 94,
+      "nimi": "Kuusamon linja-autoasema",
+      "leveysaste": 65.968902,
+      "pituusaste": 29.174343,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 95,
+      "nimi": "Lahti Matkakeskus",
+      "leveysaste": 60.977084,
+      "pituusaste": 25.65809,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 96,
+      "nimi": "Laihia",
+      "leveysaste": 62.978426,
+      "pituusaste": 22.009893,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 97,
+      "nimi": "Laitila",
+      "leveysaste": 60.880416,
+      "pituusaste": 21.691924,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 98,
+      "nimi": "Lapinlahden linja-autoasema",
+      "leveysaste": 63.360156,
+      "pituusaste": 27.394862,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 99,
+      "nimi": "Lappeenrannan matkakeskus",
+      "leveysaste": 61.047966,
+      "pituusaste": 28.193861,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 100,
+      "nimi": "Laukaan linja-autoasema",
+      "leveysaste": 62.415184,
+      "pituusaste": 25.951803,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 101,
+      "nimi": "Lentoasema",
+      "leveysaste": 60.316983,
+      "pituusaste": 24.966394,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 102,
+      "nimi": "Leppävaara",
+      "leveysaste": 60.219141,
+      "pituusaste": 24.811247,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 103,
+      "nimi": "Lohjan linja-autoasema",
+      "leveysaste": 60.247987,
+      "pituusaste": 24.063309,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 104,
+      "nimi": "Loimaan linja-autoasema",
+      "leveysaste": 60.848051,
+      "pituusaste": 23.06003,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 105,
+      "nimi": "Loppi",
+      "leveysaste": 60.719687,
+      "pituusaste": 24.44399,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 106,
+      "nimi": "Loviisan linja-autoasema",
+      "leveysaste": 60.458834,
+      "pituusaste": 26.230774,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 107,
+      "nimi": "Loviisan linja-autoasema",
+      "leveysaste": 60.458836,
+      "pituusaste": 26.230777,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 108,
+      "nimi": "Lumijoki",
+      "leveysaste": 64.836844,
+      "pituusaste": 25.188271,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 109,
+      "nimi": "Malmin asema",
+      "leveysaste": 60.250277,
+      "pituusaste": 25.009245,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 110,
+      "nimi": "Martinlaakson asema",
+      "leveysaste": 60.277246,
+      "pituusaste": 24.8536,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 111,
+      "nimi": "Matinkylän terminaali",
+      "leveysaste": 60.160277,
+      "pituusaste": 24.738747,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 112,
+      "nimi": "Mellunmäki",
+      "leveysaste": 60.238246,
+      "pituusaste": 25.109039,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 113,
+      "nimi": "Miilin terminaali",
+      "leveysaste": 60.298693,
+      "pituusaste": 25.337466,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 114,
+      "nimi": "Mikkelin matkakeskus",
+      "leveysaste": 61.687135,
+      "pituusaste": 27.276976,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 115,
+      "nimi": "Mikkelin matkakeskus",
+      "leveysaste": 61.687185,
+      "pituusaste": 27.277001,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 116,
+      "nimi": "Myllykoski linja-autoasema",
+      "leveysaste": 60.765894,
+      "pituusaste": 26.784171,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 117,
+      "nimi": "Mynämäki Linja-autoasema",
+      "leveysaste": 60.680939,
+      "pituusaste": 21.98768,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 118,
+      "nimi": "Mynämäki Linja-autoasema",
+      "leveysaste": 60.680939,
+      "pituusaste": 21.987686,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 119,
+      "nimi": "Myyrmäen asema",
+      "leveysaste": 60.261213,
+      "pituusaste": 24.855715,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 120,
+      "nimi": "Mäntsälän linja-autoasema",
+      "leveysaste": 60.634281,
+      "pituusaste": 25.315825,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 121,
+      "nimi": "Mäntyharju",
+      "leveysaste": 61.415729,
+      "pituusaste": 26.879224,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 122,
+      "nimi": "Nikkilän linja-autoasema",
+      "leveysaste": 60.375901,
+      "pituusaste": 25.267833,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 123,
+      "nimi": "Nivala",
+      "leveysaste": 63.930387,
+      "pituusaste": 24.962939,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 124,
+      "nimi": "Nokian linja-autoasema",
+      "leveysaste": 61.480792,
+      "pituusaste": 23.500952,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 125,
+      "nimi": "Nova",
+      "leveysaste": 62.230711,
+      "pituusaste": 25.704458,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 126,
+      "nimi": "Nova",
+      "leveysaste": 62.230714,
+      "pituusaste": 25.70446,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 127,
+      "nimi": "Nummelan linja-autoasema",
+      "leveysaste": 60.332636,
+      "pituusaste": 24.326616,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 128,
+      "nimi": "Nurmes",
+      "leveysaste": 63.541556,
+      "pituusaste": 29.139798,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 129,
+      "nimi": "Nurmijärven linja-autoasema",
+      "leveysaste": 60.462596,
+      "pituusaste": 24.808139,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 130,
+      "nimi": "Närpes",
+      "leveysaste": 62.472986,
+      "pituusaste": 21.338331,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 131,
+      "nimi": "Orimattilan linja-autoasema",
+      "leveysaste": 60.805157,
+      "pituusaste": 25.733286,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 132,
+      "nimi": "Orivesi",
+      "leveysaste": 61.676814,
+      "pituusaste": 24.353127,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 133,
+      "nimi": "Oulun linja-autoasema",
+      "leveysaste": 65.008311,
+      "pituusaste": 25.482023,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 134,
+      "nimi": "Oulun linja-autoasema",
+      "leveysaste": 65.008333,
+      "pituusaste": 25.482056,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 135,
+      "nimi": "Pargas",
+      "leveysaste": 60.306438,
+      "pituusaste": 22.302147,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 136,
+      "nimi": "Parkanon linja-autoasema",
+      "leveysaste": 62.009233,
+      "pituusaste": 23.02648,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 137,
+      "nimi": "Parkanon linja-autoasema",
+      "leveysaste": 62.009246,
+      "pituusaste": 23.026476,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 138,
+      "nimi": "Pasila",
+      "leveysaste": 60.198065,
+      "pituusaste": 24.934044,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 139,
+      "nimi": "Perho MH",
+      "leveysaste": 63.212284,
+      "pituusaste": 24.424699,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 140,
+      "nimi": "Perniön linja-autoasema",
+      "leveysaste": 60.204516,
+      "pituusaste": 23.119979,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 141,
+      "nimi": "Petäjävesi",
+      "leveysaste": 62.25541,
+      "pituusaste": 25.183672,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 142,
+      "nimi": "Pieksämäki matkakeskus",
+      "leveysaste": 62.301444,
+      "pituusaste": 27.166572,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 143,
+      "nimi": "Pielaveden linja-autoasema",
+      "leveysaste": 63.234005,
+      "pituusaste": 26.753479,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 144,
+      "nimi": "Pietarsaari",
+      "leveysaste": 63.674089,
+      "pituusaste": 22.71388,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 145,
+      "nimi": "Polvijärvi linja-autoasema",
+      "leveysaste": 62.854495,
+      "pituusaste": 29.367176,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 146,
+      "nimi": "Porin matkakeskus",
+      "leveysaste": 61.477406,
+      "pituusaste": 21.78766,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 147,
+      "nimi": "Porvoon linja-autoasema",
+      "leveysaste": 60.393161,
+      "pituusaste": 25.664237,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 148,
+      "nimi": "Porvoon linja-autoasema",
+      "leveysaste": 60.393182,
+      "pituusaste": 25.664312,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 149,
+      "nimi": "Pudasjärven linja-autoasema",
+      "leveysaste": 65.360181,
+      "pituusaste": 26.996686,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 150,
+      "nimi": "Puistolan asema",
+      "leveysaste": 60.275058,
+      "pituusaste": 25.035647,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 151,
+      "nimi": "Pukkilan linja-autoasema",
+      "leveysaste": 60.645655,
+      "pituusaste": 25.579654,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 152,
+      "nimi": "Puumala",
+      "leveysaste": 61.524098,
+      "pituusaste": 28.178307,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 153,
+      "nimi": "Puutori",
+      "leveysaste": 60.455027,
+      "pituusaste": 22.268668,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 154,
+      "nimi": "Pyynikintori",
+      "leveysaste": 61.49739,
+      "pituusaste": 23.741915,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 155,
+      "nimi": "Pälkäneen linja-autoasema",
+      "leveysaste": 61.340503,
+      "pituusaste": 24.269321,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 156,
+      "nimi": "Raahen linja-autoasema",
+      "leveysaste": 64.682978,
+      "pituusaste": 24.482467,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 157,
+      "nimi": "Rajamäki",
+      "leveysaste": 60.527841,
+      "pituusaste": 24.75135,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 158,
+      "nimi": "Rantasalmen linja-autoasema",
+      "leveysaste": 62.063525,
+      "pituusaste": 28.302733,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 159,
+      "nimi": "Rauman linja-autoasema",
+      "leveysaste": 61.1307,
+      "pituusaste": 21.511888,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 160,
+      "nimi": "Rautatientori",
+      "leveysaste": 60.171366,
+      "pituusaste": 24.943045,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 161,
+      "nimi": "Riihimäki matkakeskus",
+      "leveysaste": 60.733978,
+      "pituusaste": 24.780917,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 162,
+      "nimi": "Ristiina",
+      "leveysaste": 61.505853,
+      "pituusaste": 27.263416,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 163,
+      "nimi": "Rovaniemen linja-autoasema",
+      "leveysaste": 66.499032,
+      "pituusaste": 25.715358,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 164,
+      "nimi": "Rovaniemen linja-autoasema",
+      "leveysaste": 66.499049,
+      "pituusaste": 25.715375,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 165,
+      "nimi": "Ruovesi",
+      "leveysaste": 61.98159,
+      "pituusaste": 24.069601,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 166,
+      "nimi": "Saarijärvi",
+      "leveysaste": 62.707597,
+      "pituusaste": 25.258168,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 167,
+      "nimi": "Salon linja-autoasema",
+      "leveysaste": 60.387372,
+      "pituusaste": 23.121474,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 168,
+      "nimi": "Sastamala, linja-autoasema",
+      "leveysaste": 61.339585,
+      "pituusaste": 22.910688,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 169,
+      "nimi": "Sastamala, linja-autoasema",
+      "leveysaste": 61.339604,
+      "pituusaste": 22.910774,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 170,
+      "nimi": "Sauvo",
+      "leveysaste": 60.343472,
+      "pituusaste": 22.694676,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 171,
+      "nimi": "Savilan linja-autoasema",
+      "leveysaste": 61.127878,
+      "pituusaste": 21.507632,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 172,
+      "nimi": "Savilan linja-autoasema",
+      "leveysaste": 61.127897,
+      "pituusaste": 21.507636,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 173,
+      "nimi": "Savonlinnan linja-autoasema",
+      "leveysaste": 61.870411,
+      "pituusaste": 28.872377,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 174,
+      "nimi": "Sievi",
+      "leveysaste": 63.906875,
+      "pituusaste": 24.515556,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 175,
+      "nimi": "Siilinjärven linja-autoasema",
+      "leveysaste": 63.07535,
+      "pituusaste": 27.65845,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 176,
+      "nimi": "Simo",
+      "leveysaste": 65.662134,
+      "pituusaste": 25.057665,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 177,
+      "nimi": "Sodankylän linja-autoasema",
+      "leveysaste": 67.419554,
+      "pituusaste": 26.589834,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 178,
+      "nimi": "Soini St1",
+      "leveysaste": 62.872731,
+      "pituusaste": 24.208363,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 179,
+      "nimi": "Sotkamon linja-autoasema",
+      "leveysaste": 64.131248,
+      "pituusaste": 28.383837,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 180,
+      "nimi": "Sulkava",
+      "leveysaste": 61.787138,
+      "pituusaste": 28.370883,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 181,
+      "nimi": "Suodenniemi",
+      "leveysaste": 61.557242,
+      "pituusaste": 22.781345,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 182,
+      "nimi": "Suonenjoen linja-autoasema",
+      "leveysaste": 62.624293,
+      "pituusaste": 27.123231,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 183,
+      "nimi": "Sysmä",
+      "leveysaste": 61.502608,
+      "pituusaste": 25.68498,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 184,
+      "nimi": "TEKE 1",
+      "leveysaste": 62.604821,
+      "pituusaste": 25.709739,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 185,
+      "nimi": "Tampereen linja-autoasema",
+      "leveysaste": 61.493694,
+      "pituusaste": 23.769185,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 186,
+      "nimi": "Tapiola (M)",
+      "leveysaste": 60.175098,
+      "pituusaste": 24.804783,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 187,
+      "nimi": "Tapiola (M)",
+      "leveysaste": 60.175114,
+      "pituusaste": 24.804894,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 188,
+      "nimi": "Tapiolansolmu",
+      "leveysaste": 60.170317,
+      "pituusaste": 24.810294,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 189,
+      "nimi": "Tervola",
+      "leveysaste": 66.088525,
+      "pituusaste": 24.812472,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 190,
+      "nimi": "Teuva",
+      "leveysaste": 62.487154,
+      "pituusaste": 21.743838,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 191,
+      "nimi": "Tikkurila",
+      "leveysaste": 60.293767,
+      "pituusaste": 25.044105,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 192,
+      "nimi": "Tohmajärvi",
+      "leveysaste": 62.22439,
+      "pituusaste": 30.335987,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 193,
+      "nimi": "Toijalan rautatieasema",
+      "leveysaste": 61.170207,
+      "pituusaste": 23.860444,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 194,
+      "nimi": "Turengin linja-autoasema",
+      "leveysaste": 60.922982,
+      "pituusaste": 24.646577,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 195,
+      "nimi": "Turun linja-autoasema",
+      "leveysaste": 60.456676,
+      "pituusaste": 22.266642,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 196,
+      "nimi": "Turun linja-autoasema",
+      "leveysaste": 60.456866,
+      "pituusaste": 22.266994,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 197,
+      "nimi": "Turun linja-autoasema",
+      "leveysaste": 60.456883,
+      "pituusaste": 22.266937,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 198,
+      "nimi": "Turun sataman linja-autoasema",
+      "leveysaste": 60.434883,
+      "pituusaste": 22.223665,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 199,
+      "nimi": "Turun sataman linja-autoasema",
+      "leveysaste": 60.434901,
+      "pituusaste": 22.2237,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 200,
+      "nimi": "Tuupovaara",
+      "leveysaste": 62.485419,
+      "pituusaste": 30.617247,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 201,
+      "nimi": "Uudenkaupungin Linja-autoasema",
+      "leveysaste": 60.800469,
+      "pituusaste": 21.408954,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 202,
+      "nimi": "Uudenkaupungin Linja-autoasema",
+      "leveysaste": 60.800546,
+      "pituusaste": 21.408926,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 203,
+      "nimi": "Vaala",
+      "leveysaste": 64.560235,
+      "pituusaste": 26.839472,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 204,
+      "nimi": "Vaasan Matkakeskus - Matkahuolto",
+      "leveysaste": 63.096939,
+      "pituusaste": 21.623601,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 205,
+      "nimi": "Vaasan Matkakeskus - Matkahuolto",
+      "leveysaste": 63.096951,
+      "pituusaste": 21.623564,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 206,
+      "nimi": "Valkeakosken linja-autoasema",
+      "leveysaste": 61.263886,
+      "pituusaste": 24.033964,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 207,
+      "nimi": "Vesanto",
+      "leveysaste": 62.929832,
+      "pituusaste": 26.408313,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 208,
+      "nimi": "Veteli MH-asiamies",
+      "leveysaste": 63.472274,
+      "pituusaste": 23.790571,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 209,
+      "nimi": "Vihti",
+      "leveysaste": 60.417233,
+      "pituusaste": 24.323732,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 210,
+      "nimi": "Vihti",
+      "leveysaste": 60.417267,
+      "pituusaste": 24.323652,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 211,
+      "nimi": "Viitasaaren linja-autoasema",
+      "leveysaste": 63.073273,
+      "pituusaste": 25.858036,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 212,
+      "nimi": "Virojoen linja-autoasema",
+      "leveysaste": 60.586267,
+      "pituusaste": 27.709395,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 213,
+      "nimi": "Virrat",
+      "leveysaste": 62.241971,
+      "pituusaste": 23.774935,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 214,
+      "nimi": "Voikkaan linja-autoasema",
+      "leveysaste": 60.941874,
+      "pituusaste": 26.618742,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 215,
+      "nimi": "Vuosaari",
+      "leveysaste": 60.207189,
+      "pituusaste": 25.144384,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 216,
+      "nimi": "Vörå",
+      "leveysaste": 63.130974,
+      "pituusaste": 22.252981,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 217,
+      "nimi": "Westendinasema",
+      "leveysaste": 60.168685,
+      "pituusaste": 24.804153,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 218,
+      "nimi": "Ylivieskan linja-autoasema",
+      "leveysaste": 64.071238,
+      "pituusaste": 24.539408,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 219,
+      "nimi": "Ylivieskan linja-autoasema",
+      "leveysaste": 64.071293,
+      "pituusaste": 24.539408,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 220,
+      "nimi": "Ähtäri MH",
+      "leveysaste": 62.548896,
+      "pituusaste": 24.074003,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 221,
+      "nimi": "Äänekoski",
+      "leveysaste": 62.602096,
+      "pituusaste": 25.726197,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 222,
+      "nimi": "Övertorneå busstation",
+      "leveysaste": 66.390224,
+      "pituusaste": 23.657142,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    },
+    {
+      "id": 223,
+      "nimi": "Övertorneå busstation",
+      "leveysaste": 66.390228,
+      "pituusaste": 23.657112,
+      "osm_avain": "amenity",
+      "osm_arvo": "bus_station",
+      "osm_luokka": "amenity=bus_station"
+    }
+  ],
+  "meta": {
+    "title": "Linja-autoasemat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Linja-autoasemat Suomessa — 223 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=bus_station`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 11. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 223 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Linja-autoasemat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Linja-autoasemat – Suomi (OpenStreetMap) — 223 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 223 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,1555 @@
+{
+  "id": "fi-osm-amenity-college",
+  "name": "Ammatilliset oppilaitokset – Suomi (OpenStreetMap)",
+  "title": "Ammatilliset oppilaitokset – Suomi (OpenStreetMap)",
+  "description": "Ammatilliset oppilaitokset Suomessa — 166 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=college`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 166,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aalto-yliopisto",
+      "leveysaste": 60.186256,
+      "pituusaste": 24.828666,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 2,
+      "nimi": "Aalto-yliopisto",
+      "leveysaste": 60.186271,
+      "pituusaste": 24.82859,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 3,
+      "nimi": "Aboa Mare",
+      "leveysaste": 60.439728,
+      "pituusaste": 22.226801,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 4,
+      "nimi": "Ahlman",
+      "leveysaste": 61.470166,
+      "pituusaste": 23.806014,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 5,
+      "nimi": "Ahlman",
+      "leveysaste": 61.470228,
+      "pituusaste": 23.806145,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 6,
+      "nimi": "Aitoon koulutuskeskus, Tampereen toimipaikka",
+      "leveysaste": 61.446125,
+      "pituusaste": 23.860264,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 7,
+      "nimi": "Alandica Shipping Academy",
+      "leveysaste": 60.10705,
+      "pituusaste": 19.924807,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 8,
+      "nimi": "Alkio-opisto",
+      "leveysaste": 62.01066,
+      "pituusaste": 25.55449,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 9,
+      "nimi": "Arbis",
+      "leveysaste": 60.173907,
+      "pituusaste": 24.929556,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 10,
+      "nimi": "C",
+      "leveysaste": 62.251083,
+      "pituusaste": 25.741514,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 11,
+      "nimi": "C",
+      "leveysaste": 62.251109,
+      "pituusaste": 25.741684,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 12,
+      "nimi": "Centria Ammattikorkeakoulu",
+      "leveysaste": 63.833587,
+      "pituusaste": 23.158889,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 13,
+      "nimi": "Centria Ammattikorkeakoulu",
+      "leveysaste": 63.833626,
+      "pituusaste": 23.159081,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 14,
+      "nimi": "Centria-ammattikorkeakoulu, Vierimaantien kampus",
+      "leveysaste": 64.073619,
+      "pituusaste": 24.513885,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 15,
+      "nimi": "Centria-ammattikorkeakoulu, Vierimaantien kampus",
+      "leveysaste": 64.073711,
+      "pituusaste": 24.514038,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 16,
+      "nimi": "DeRose Method Oulu",
+      "leveysaste": 65.01264,
+      "pituusaste": 25.478799,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 17,
+      "nimi": "Diak Porin-kampus",
+      "leveysaste": 61.474628,
+      "pituusaste": 21.776966,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 18,
+      "nimi": "DiakHub Itä-Suomi: Pieksämäen toimipiste",
+      "leveysaste": 62.304116,
+      "pituusaste": 27.128694,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 19,
+      "nimi": "EduCity",
+      "leveysaste": 60.448457,
+      "pituusaste": 22.29705,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 20,
+      "nimi": "EduCity",
+      "leveysaste": 60.448491,
+      "pituusaste": 22.297402,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 21,
+      "nimi": "Esbo arbetarinstitut",
+      "leveysaste": 60.170325,
+      "pituusaste": 24.799887,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 22,
+      "nimi": "Espoon sirkus- ja teatterikoulu",
+      "leveysaste": 60.205048,
+      "pituusaste": 24.650276,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 23,
+      "nimi": "Espoon sirkus- ja teatterikoulu",
+      "leveysaste": 60.205053,
+      "pituusaste": 24.650289,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 24,
+      "nimi": "Espoon työväenopisto",
+      "leveysaste": 60.15211,
+      "pituusaste": 24.64424,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 25,
+      "nimi": "Etelä-Karjalan Kansalaisopisto",
+      "leveysaste": 61.058493,
+      "pituusaste": 28.201298,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 26,
+      "nimi": "Etelä-Pohjanmaan Opisto",
+      "leveysaste": 62.720384,
+      "pituusaste": 22.508264,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 27,
+      "nimi": "Etelä-Pohjanmaan Opisto",
+      "leveysaste": 62.720412,
+      "pituusaste": 22.508215,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 28,
+      "nimi": "Eurajoen kristillinen opisto",
+      "leveysaste": 61.212826,
+      "pituusaste": 21.754712,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 29,
+      "nimi": "Gradia, Harjun kampus",
+      "leveysaste": 62.246716,
+      "pituusaste": 25.740678,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 30,
+      "nimi": "Gradia, Harjun kampus",
+      "leveysaste": 62.246722,
+      "pituusaste": 25.740629,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 31,
+      "nimi": "Gradia, Kankaan toimipiste",
+      "leveysaste": 62.253038,
+      "pituusaste": 25.759066,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 32,
+      "nimi": "Gradia, Kankaan toimipiste",
+      "leveysaste": 62.25306,
+      "pituusaste": 25.759199,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 33,
+      "nimi": "Gradia, Kukkulan kampus",
+      "leveysaste": 62.231271,
+      "pituusaste": 25.707288,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 34,
+      "nimi": "Gradia, Kukkulan kampus",
+      "leveysaste": 62.231273,
+      "pituusaste": 25.707373,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 35,
+      "nimi": "Gradia, Priimuksen kampus",
+      "leveysaste": 62.258446,
+      "pituusaste": 25.744149,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 36,
+      "nimi": "Gradia, Viitaniemen kampus",
+      "leveysaste": 62.246628,
+      "pituusaste": 25.725733,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 37,
+      "nimi": "Gradia, Viitaniemen kampus",
+      "leveysaste": 62.246674,
+      "pituusaste": 25.725506,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 38,
+      "nimi": "HAMI Lepaa",
+      "leveysaste": 61.115081,
+      "pituusaste": 24.327884,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 39,
+      "nimi": "HAMK Evo",
+      "leveysaste": 61.19503,
+      "pituusaste": 25.107074,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 40,
+      "nimi": "HAMK Evo",
+      "leveysaste": 61.195043,
+      "pituusaste": 25.1071,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 41,
+      "nimi": "HAMK Riihimäen kampus",
+      "leveysaste": 60.733987,
+      "pituusaste": 24.760421,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 42,
+      "nimi": "HELBUS",
+      "leveysaste": 60.173526,
+      "pituusaste": 24.921418,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 43,
+      "nimi": "Haaga-Helia Vierumäen kampus",
+      "leveysaste": 61.114298,
+      "pituusaste": 26.008269,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 44,
+      "nimi": "Haaga-Helia ammattikorkeakoulu – Porvoon kampus",
+      "leveysaste": 60.38767,
+      "pituusaste": 25.655152,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 45,
+      "nimi": "Helsingin aikuisopisto",
+      "leveysaste": 60.173623,
+      "pituusaste": 24.921845,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 46,
+      "nimi": "Hive Helsinki",
+      "leveysaste": 60.180826,
+      "pituusaste": 24.958366,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 47,
+      "nimi": "Humak Jyväskylän kampus",
+      "leveysaste": 62.010626,
+      "pituusaste": 25.554902,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 48,
+      "nimi": "Humak Kuopion kampus",
+      "leveysaste": 62.815626,
+      "pituusaste": 27.627213,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 49,
+      "nimi": "Hushållsskolan",
+      "leveysaste": 60.076432,
+      "pituusaste": 23.892743,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 50,
+      "nimi": "Högskolan på Åland Södra",
+      "leveysaste": 60.09524,
+      "pituusaste": 19.930438,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 51,
+      "nimi": "IK-opisto Helsinki",
+      "leveysaste": 60.211347,
+      "pituusaste": 25.050437,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 52,
+      "nimi": "Ilmailuopisto (hallit)",
+      "leveysaste": 61.459373,
+      "pituusaste": 21.785061,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 53,
+      "nimi": "Ilmailuopisto (hallit)",
+      "leveysaste": 61.459412,
+      "pituusaste": 21.785066,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 54,
+      "nimi": "Iso Kirja",
+      "leveysaste": 62.211519,
+      "pituusaste": 24.800716,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 55,
+      "nimi": "Iso Kirja",
+      "leveysaste": 62.21155,
+      "pituusaste": 24.800795,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 56,
+      "nimi": "Jakobstads gymnasium",
+      "leveysaste": 63.677447,
+      "pituusaste": 22.707647,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 57,
+      "nimi": "Joensuun Hierojakoulu",
+      "leveysaste": 62.600618,
+      "pituusaste": 29.759355,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 58,
+      "nimi": "Jollas Instituutti",
+      "leveysaste": 60.160853,
+      "pituusaste": 25.083879,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 59,
+      "nimi": "Jollas Instituutti",
+      "leveysaste": 60.160854,
+      "pituusaste": 25.083878,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 60,
+      "nimi": "Jyväskylän ammattikorkeakoulun Biotalousinstituutti",
+      "leveysaste": 62.668718,
+      "pituusaste": 25.306003,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 61,
+      "nimi": "Jyväskylän ammattikorkeakoulun Biotalousinstituutti",
+      "leveysaste": 62.668785,
+      "pituusaste": 25.306285,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 62,
+      "nimi": "Järvilakeuden kansalaisopisto",
+      "leveysaste": 63.112472,
+      "pituusaste": 23.041353,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 63,
+      "nimi": "Kaakkois-Suomen Ammattikorkeakoulu (Xamk) / Mikkelin kampus",
+      "leveysaste": 61.680099,
+      "pituusaste": 27.26023,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 64,
+      "nimi": "Kaakkois-Suomen Ammattikorkeakoulu (Xamk) / Mikkelin kampus",
+      "leveysaste": 61.680267,
+      "pituusaste": 27.260165,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 65,
+      "nimi": "Kaakkois-Suomen ammattikorkeakoulu Kotkan kampus",
+      "leveysaste": 60.470833,
+      "pituusaste": 26.947836,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 66,
+      "nimi": "Kaakkois-Suomen ammattikorkeakoulu Kotkan kampus",
+      "leveysaste": 60.470873,
+      "pituusaste": 26.947836,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 67,
+      "nimi": "Kaakkois-Suomen ammattikorkeakoulu Xamk - Savonlinnan kampus",
+      "leveysaste": 61.865825,
+      "pituusaste": 28.87841,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 68,
+      "nimi": "Kaakkois-Suomen ammattikorkeakoulu Xamk - Savonlinnan kampus",
+      "leveysaste": 61.865923,
+      "pituusaste": 28.878473,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 69,
+      "nimi": "Kajaanin ammattikorkeakoulu",
+      "leveysaste": 64.215865,
+      "pituusaste": 27.712016,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 70,
+      "nimi": "Kajaanin ammattikorkeakoulu",
+      "leveysaste": 64.215866,
+      "pituusaste": 27.712027,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 71,
+      "nimi": "Kajaanin yliopistokeskus",
+      "leveysaste": 64.218231,
+      "pituusaste": 27.779641,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 72,
+      "nimi": "Kansanlähetysopisto",
+      "leveysaste": 60.815933,
+      "pituusaste": 24.779422,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 73,
+      "nimi": "Kansanlähetysopisto",
+      "leveysaste": 60.815994,
+      "pituusaste": 24.779544,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 74,
+      "nimi": "Karkun evankelinen opisto",
+      "leveysaste": 61.42842,
+      "pituusaste": 23.031677,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 75,
+      "nimi": "Karkun evankelinen opisto",
+      "leveysaste": 61.428432,
+      "pituusaste": 23.031577,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 76,
+      "nimi": "Karstulan Evankelinen Opisto",
+      "leveysaste": 62.885763,
+      "pituusaste": 24.796112,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 77,
+      "nimi": "Karstulan Evankelinen Opisto",
+      "leveysaste": 62.885792,
+      "pituusaste": 24.796147,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 78,
+      "nimi": "Kauniaisten musiikkiopisto",
+      "leveysaste": 60.214027,
+      "pituusaste": 24.732415,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 79,
+      "nimi": "Keski-Pohjanmaan kansanopisto",
+      "leveysaste": 63.860641,
+      "pituusaste": 23.45945,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 80,
+      "nimi": "Keski-Pohjanmaan kansanopisto",
+      "leveysaste": 63.8607,
+      "pituusaste": 23.459335,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 81,
+      "nimi": "Keski-Suomen Opisto",
+      "leveysaste": 62.560084,
+      "pituusaste": 25.879712,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 82,
+      "nimi": "Kiipulan ammattiopisto, Tampereen toimipaikka, Hermiankatu",
+      "leveysaste": 61.44693,
+      "pituusaste": 23.858103,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 83,
+      "nimi": "Kirkkonummen musiikkiopisto",
+      "leveysaste": 60.120855,
+      "pituusaste": 24.439196,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 84,
+      "nimi": "Kirkkonummen musiikkiopisto",
+      "leveysaste": 60.120864,
+      "pituusaste": 24.439174,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 85,
+      "nimi": "Kisakallion Urheiluopisto",
+      "leveysaste": 60.321443,
+      "pituusaste": 24.042953,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 86,
+      "nimi": "Kuorimo",
+      "leveysaste": 61.516255,
+      "pituusaste": 23.682792,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 87,
+      "nimi": "LAB-ammattikorkeakoulu",
+      "leveysaste": 61.00611,
+      "pituusaste": 25.655789,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 88,
+      "nimi": "LAB-ammattikorkeakoulu",
+      "leveysaste": 61.006409,
+      "pituusaste": 25.664325,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 89,
+      "nimi": "Laajasalon opisto",
+      "leveysaste": 60.183661,
+      "pituusaste": 25.04552,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 90,
+      "nimi": "Laajasalon opisto",
+      "leveysaste": 60.183715,
+      "pituusaste": 25.045579,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 91,
+      "nimi": "Lannäslundskolan Optima",
+      "leveysaste": 63.655945,
+      "pituusaste": 22.696029,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 92,
+      "nimi": "Lappfjärds folkhögskola",
+      "leveysaste": 62.255477,
+      "pituusaste": 21.515951,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 93,
+      "nimi": "Laurea-ammattikorkeakoulu",
+      "leveysaste": 60.250374,
+      "pituusaste": 24.069332,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 94,
+      "nimi": "Laurea-ammattikorkeakoulu",
+      "leveysaste": 60.626588,
+      "pituusaste": 24.855021,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 95,
+      "nimi": "Laurea-ammattikorkeakoulu",
+      "leveysaste": 60.626658,
+      "pituusaste": 24.855124,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 96,
+      "nimi": "Laurea-ammattikorkeakoulu Leppävaaran kampus",
+      "leveysaste": 60.222817,
+      "pituusaste": 24.805343,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 97,
+      "nimi": "Lehtimäen Opisto",
+      "leveysaste": 62.821981,
+      "pituusaste": 23.946259,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 98,
+      "nimi": "Lehtimäen Opisto",
+      "leveysaste": 62.821986,
+      "pituusaste": 23.946264,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 99,
+      "nimi": "Lemminkäisenkadun kampus",
+      "leveysaste": 60.447246,
+      "pituusaste": 22.299041,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 100,
+      "nimi": "Lemminkäisenkadun kampus",
+      "leveysaste": 60.447279,
+      "pituusaste": 22.298959,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 101,
+      "nimi": "Linnankadun taidekampus",
+      "leveysaste": 60.439124,
+      "pituusaste": 22.240922,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 102,
+      "nimi": "Linnankadun taidekampus",
+      "leveysaste": 60.439156,
+      "pituusaste": 22.241033,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 103,
+      "nimi": "Loimaan ammatti- ja aikuisopisto, maatalouden koulutila",
+      "leveysaste": 60.827671,
+      "pituusaste": 23.096584,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 104,
+      "nimi": "Loimaan ammatti- ja aikuisopisto, maatalouden koulutila",
+      "leveysaste": 60.827686,
+      "pituusaste": 23.096458,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 105,
+      "nimi": "Lutakon kampus",
+      "leveysaste": 62.241528,
+      "pituusaste": 25.759063,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 106,
+      "nimi": "Lybeckerin käsi- ja taideteollisuusopisto",
+      "leveysaste": 64.688703,
+      "pituusaste": 24.485701,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 107,
+      "nimi": "Lybeckerin käsi- ja taideteollisuusopisto",
+      "leveysaste": 64.688792,
+      "pituusaste": 24.485797,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 108,
+      "nimi": "Maatalousoppilaitos",
+      "leveysaste": 65.391214,
+      "pituusaste": 26.988502,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 109,
+      "nimi": "Maatalousoppilaitos",
+      "leveysaste": 65.391296,
+      "pituusaste": 26.988558,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 110,
+      "nimi": "Metropolia Karamalmin kampus",
+      "leveysaste": 60.223876,
+      "pituusaste": 24.758061,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 111,
+      "nimi": "Ortopedisen osteopatian koulutuskeskus OOKK",
+      "leveysaste": 60.197667,
+      "pituusaste": 24.925045,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 112,
+      "nimi": "Otavan opisto",
+      "leveysaste": 61.647179,
+      "pituusaste": 27.074294,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 113,
+      "nimi": "Oulun aikuislukio",
+      "leveysaste": 65.002818,
+      "pituusaste": 25.523198,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 114,
+      "nimi": "Oulun ammattikorkeakoulu, Oulaisten kampus",
+      "leveysaste": 64.266504,
+      "pituusaste": 24.847803,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 115,
+      "nimi": "Oulun seudun ammattikorkeakoulu, Sosiaali- ja terveysalan yksikkö",
+      "leveysaste": 65.008365,
+      "pituusaste": 25.509854,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 116,
+      "nimi": "Oulun seudun ammattikorkeakoulu, Sosiaali- ja terveysalan yksikkö",
+      "leveysaste": 65.008381,
+      "pituusaste": 25.509865,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 117,
+      "nimi": "Pelastusopisto",
+      "leveysaste": 62.836032,
+      "pituusaste": 27.652088,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 118,
+      "nimi": "Pelastusopisto",
+      "leveysaste": 62.836115,
+      "pituusaste": 27.652424,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 119,
+      "nimi": "Pietarsaaren Lukio",
+      "leveysaste": 63.6775,
+      "pituusaste": 22.708353,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 120,
+      "nimi": "Pohjois-Pohjanmaan kesäyliopisto, Raahen toimipaikka",
+      "leveysaste": 64.694512,
+      "pituusaste": 24.470025,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 121,
+      "nimi": "Pohjois-Savon Opisto",
+      "leveysaste": 62.815035,
+      "pituusaste": 27.62595,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 122,
+      "nimi": "Pohjois-Savon Opisto",
+      "leveysaste": 62.815047,
+      "pituusaste": 27.625893,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 123,
+      "nimi": "Poliisiammattikorkeakoulu",
+      "leveysaste": 61.453753,
+      "pituusaste": 23.857998,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 124,
+      "nimi": "Poliisiammattikorkeakoulu, Poliisikoiralaitos",
+      "leveysaste": 60.994319,
+      "pituusaste": 24.428332,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 125,
+      "nimi": "Poliisiammattikorkeakoulu, Poliisikoiralaitos",
+      "leveysaste": 60.994362,
+      "pituusaste": 24.428254,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 126,
+      "nimi": "SAMK Kuninkaisten kampus",
+      "leveysaste": 61.179784,
+      "pituusaste": 22.715187,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 127,
+      "nimi": "SAMK Kuninkaisten kampus",
+      "leveysaste": 61.179827,
+      "pituusaste": 22.7152,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 128,
+      "nimi": "SAMK Kuvataide Kankaanpää",
+      "leveysaste": 61.80269,
+      "pituusaste": 22.398887,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 129,
+      "nimi": "SAMK sosiaali- ja terveysala",
+      "leveysaste": 61.130623,
+      "pituusaste": 21.528143,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 130,
+      "nimi": "SAMK sosiaali- ja terveysala",
+      "leveysaste": 61.13063,
+      "pituusaste": 21.528356,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 131,
+      "nimi": "Saamelaisalueen koulutuskeskus",
+      "leveysaste": 68.917754,
+      "pituusaste": 27.044731,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 132,
+      "nimi": "Saamelaisalueen koulutuskeskus",
+      "leveysaste": 68.917853,
+      "pituusaste": 27.044962,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 133,
+      "nimi": "Satakunnan ammattikorkeakoulu, SAMK-kampus Rauma",
+      "leveysaste": 61.126023,
+      "pituusaste": 21.477525,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 134,
+      "nimi": "Satakunnan ammattikorkeakoulu, SAMK-kampus Rauma",
+      "leveysaste": 61.126043,
+      "pituusaste": 21.477675,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 135,
+      "nimi": "Satakunnan ammattikorkeakoulu, SAMK-kampus Rauma",
+      "leveysaste": 61.127785,
+      "pituusaste": 21.481572,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 136,
+      "nimi": "Satakunnan ammattikorkeakoulu, SAMK-kampus Rauma",
+      "leveysaste": 61.127786,
+      "pituusaste": 21.481588,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 137,
+      "nimi": "Savonia, Varkauden kampus",
+      "leveysaste": 62.329981,
+      "pituusaste": 27.85135,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 138,
+      "nimi": "Savonia-ammattikorkeakoulu",
+      "leveysaste": 62.8891,
+      "pituusaste": 27.629568,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 139,
+      "nimi": "Seinäjoen kansalaisopisto",
+      "leveysaste": 62.789082,
+      "pituusaste": 22.827899,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 140,
+      "nimi": "SnellmanEDU Iisalmen toimipaikka",
+      "leveysaste": 63.559694,
+      "pituusaste": 27.185206,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 141,
+      "nimi": "Solvallan urheiluopisto",
+      "leveysaste": 60.293019,
+      "pituusaste": 24.557744,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 142,
+      "nimi": "Solvallan urheiluopisto",
+      "leveysaste": 60.293039,
+      "pituusaste": 24.55784,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 143,
+      "nimi": "Spesia ammattiopisto",
+      "leveysaste": 62.231628,
+      "pituusaste": 25.707836,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 144,
+      "nimi": "Suomen Yrittäjäopisto",
+      "leveysaste": 63.100824,
+      "pituusaste": 23.04319,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 145,
+      "nimi": "Suomen teologinen opisto",
+      "leveysaste": 61.493589,
+      "pituusaste": 23.785594,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 146,
+      "nimi": "Tampereen ammattikorkeakoulu",
+      "leveysaste": 61.503951,
+      "pituusaste": 23.809686,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 147,
+      "nimi": "Teopolis",
+      "leveysaste": 61.493455,
+      "pituusaste": 23.785809,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 148,
+      "nimi": "Turun ammatti-insituutti",
+      "leveysaste": 60.430475,
+      "pituusaste": 22.297449,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 149,
+      "nimi": "Turun ammattikorkeakoulu",
+      "leveysaste": 60.38899,
+      "pituusaste": 23.102663,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 150,
+      "nimi": "Turun ammattikorkeakoulu",
+      "leveysaste": 60.439124,
+      "pituusaste": 22.240922,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 151,
+      "nimi": "Turun ammattikorkeakoulu, ICT-City",
+      "leveysaste": 60.449374,
+      "pituusaste": 22.29502,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 152,
+      "nimi": "Turvallisuuskeskus",
+      "leveysaste": 61.458022,
+      "pituusaste": 21.793299,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 153,
+      "nimi": "Turvallisuuskeskus",
+      "leveysaste": 61.458149,
+      "pituusaste": 21.79306,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 154,
+      "nimi": "Työväen Akatemia",
+      "leveysaste": 60.221456,
+      "pituusaste": 24.718235,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 155,
+      "nimi": "Työväen Akatemia",
+      "leveysaste": 60.221497,
+      "pituusaste": 24.718427,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 156,
+      "nimi": "Vaasan ammattikorkeakoulu",
+      "leveysaste": 63.106361,
+      "pituusaste": 21.590972,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 157,
+      "nimi": "Varalan urheiluopisto",
+      "leveysaste": 61.494464,
+      "pituusaste": 23.713459,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 158,
+      "nimi": "Varsinais-Suomen Kansanopisto",
+      "leveysaste": 60.452934,
+      "pituusaste": 22.69142,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 159,
+      "nimi": "Varsinais-Suomen Kansanopisto",
+      "leveysaste": 60.452969,
+      "pituusaste": 22.691539,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 160,
+      "nimi": "Xamk - Kouvolan kampus",
+      "leveysaste": 60.872556,
+      "pituusaste": 26.682158,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 161,
+      "nimi": "Xamk - Kouvolan kampus",
+      "leveysaste": 60.872659,
+      "pituusaste": 26.682169,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 162,
+      "nimi": "Yrkesakademin i Österbotten",
+      "leveysaste": 63.686715,
+      "pituusaste": 22.705825,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 163,
+      "nimi": "Yrkeshögskolan Novia",
+      "leveysaste": 63.10563,
+      "pituusaste": 21.595808,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 164,
+      "nimi": "Yrkeshögskolan Novia",
+      "leveysaste": 63.105714,
+      "pituusaste": 21.595632,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 165,
+      "nimi": "Yrkesskolan Optima",
+      "leveysaste": 63.670733,
+      "pituusaste": 22.700379,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    },
+    {
+      "id": 166,
+      "nimi": "Ålands hotell- och restaurangskola",
+      "leveysaste": 60.107641,
+      "pituusaste": 19.942105,
+      "osm_avain": "amenity",
+      "osm_arvo": "college",
+      "osm_luokka": "amenity=college"
+    }
+  ],
+  "meta": {
+    "title": "Ammatilliset oppilaitokset – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Ammatilliset oppilaitokset Suomessa — 166 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=college`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 166 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Ammatilliset oppilaitokset – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Ammatilliset oppilaitokset – Suomi (OpenStreetMap) — 166 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 166 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "fi-northern-savo-lentoasemat",
+  "name": "Finland / Pohjois-Savo — Airports (lentoasemat)",
+  "title": "Finland / Pohjois-Savo — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Pohjois-Savo (Northern Savo), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Northern Savo'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFII",
+      "iata": "",
+      "name": "Iisalmi Airport",
+      "city": "Iisalmi",
+      "subdivision": "Northern Savo",
+      "subdivision_name_fi": "Pohjois-Savo",
+      "country": "FI",
+      "elevation_ft": 384,
+      "latitude": 63.6319,
+      "longitude": 27.1222,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKU",
+      "iata": "KUO",
+      "name": "Kuopio Airport",
+      "city": "Kuopio / Siilinjarvi",
+      "subdivision": "Northern Savo",
+      "subdivision_name_fi": "Pohjois-Savo",
+      "country": "FI",
+      "elevation_ft": 323,
+      "latitude": 63.0071,
+      "longitude": 27.7978,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFLL",
+      "iata": "",
+      "name": "Lapinlahti Airport",
+      "city": "Lammake",
+      "subdivision": "Northern Savo",
+      "subdivision_name_fi": "Pohjois-Savo",
+      "country": "FI",
+      "elevation_ft": 328,
+      "latitude": 63.3994,
+      "longitude": 27.4789,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFRA",
+      "iata": "",
+      "name": "Rautavaara Airport",
+      "city": "",
+      "subdivision": "Northern Savo",
+      "subdivision_name_fi": "Pohjois-Savo",
+      "country": "FI",
+      "elevation_ft": 476,
+      "latitude": 63.4242,
+      "longitude": 28.1242,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFRV",
+      "iata": "",
+      "name": "Kiuruvesi Airport",
+      "city": "",
+      "subdivision": "Northern Savo",
+      "subdivision_name_fi": "Pohjois-Savo",
+      "country": "FI",
+      "elevation_ft": 515,
+      "latitude": 63.7056,
+      "longitude": 26.6164,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFSJ",
+      "iata": "",
+      "name": "Sonkajarvi Jyrkk Airport",
+      "city": "",
+      "subdivision": "Northern Savo",
+      "subdivision_name_fi": "Pohjois-Savo",
+      "country": "FI",
+      "elevation_ft": 600,
+      "latitude": 63.8194,
+      "longitude": 27.7694,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Pohjois-Savo — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Pohjois-Savo (Northern Savo), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Northern Savo'. Sisältää 6 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Pohjois-Savo — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Pohjois-Savo — Airports (lentoasemat) — 6 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 6 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

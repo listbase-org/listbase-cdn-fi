@@ -1,0 +1,1753 @@
+{
+  "id": "fi-osm-amenity-arts-centre",
+  "name": "Kulttuurikeskukset – Suomi (OpenStreetMap)",
+  "title": "Kulttuurikeskukset – Suomi (OpenStreetMap)",
+  "description": "Kulttuurikeskukset Suomessa — 188 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=arts_centre`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 16. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "ARS Auttoinen",
+      "leveysaste": 61.304985,
+      "pituusaste": 25.086337,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 2,
+      "nimi": "Aikamatka 20360",
+      "leveysaste": 60.48824,
+      "pituusaste": 22.26079,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 3,
+      "nimi": "Annantalo",
+      "leveysaste": 60.167803,
+      "pituusaste": 24.934544,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 4,
+      "nimi": "Art Center Ihana",
+      "leveysaste": 60.809759,
+      "pituusaste": 23.748249,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 5,
+      "nimi": "Art-Rita",
+      "leveysaste": 60.173184,
+      "pituusaste": 24.956183,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 6,
+      "nimi": "Asukastalo Lava",
+      "leveysaste": 60.234282,
+      "pituusaste": 25.040148,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 7,
+      "nimi": "Asukastalo Lava",
+      "leveysaste": 60.234294,
+      "pituusaste": 25.04018,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 8,
+      "nimi": "Ateljee",
+      "leveysaste": 60.244625,
+      "pituusaste": 25.08086,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 9,
+      "nimi": "Auttamo",
+      "leveysaste": 60.187832,
+      "pituusaste": 24.944995,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 10,
+      "nimi": "Cirko, Center for new circus",
+      "leveysaste": 60.186494,
+      "pituusaste": 24.974012,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 11,
+      "nimi": "Colour Box",
+      "leveysaste": 60.172096,
+      "pituusaste": 24.956719,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 12,
+      "nimi": "Esitystaiteen keskus Eskus",
+      "leveysaste": 60.186797,
+      "pituusaste": 24.972903,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 13,
+      "nimi": "Espoon kulttuurikeskus",
+      "leveysaste": 60.1779,
+      "pituusaste": 24.804333,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 14,
+      "nimi": "Fillialen",
+      "leveysaste": 59.949271,
+      "pituusaste": 20.944896,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 15,
+      "nimi": "Galleria Contempo",
+      "leveysaste": 60.164884,
+      "pituusaste": 24.933938,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 16,
+      "nimi": "Galleria Justus",
+      "leveysaste": 63.900154,
+      "pituusaste": 23.915499,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 17,
+      "nimi": "Galleria Kivipankki",
+      "leveysaste": 61.86216,
+      "pituusaste": 25.182846,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 18,
+      "nimi": "Galleria Kivipankki",
+      "leveysaste": 61.862166,
+      "pituusaste": 25.182886,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 19,
+      "nimi": "Galleria Titanik",
+      "leveysaste": 60.44859,
+      "pituusaste": 22.271356,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 20,
+      "nimi": "Globe Art Point",
+      "leveysaste": 60.168281,
+      "pituusaste": 24.925373,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 21,
+      "nimi": "Gumbostrand Konst & Form",
+      "leveysaste": 60.258215,
+      "pituusaste": 25.30553,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 22,
+      "nimi": "Haiharan taidekeskus",
+      "leveysaste": 61.469545,
+      "pituusaste": 23.88974,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 23,
+      "nimi": "Helsingin taidehalli",
+      "leveysaste": 60.17207,
+      "pituusaste": 24.931243,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 24,
+      "nimi": "Herajoen työväentalo",
+      "leveysaste": 60.710048,
+      "pituusaste": 24.729919,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 25,
+      "nimi": "Hirvitalo",
+      "leveysaste": 61.499357,
+      "pituusaste": 23.713849,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 26,
+      "nimi": "Into-Keskus",
+      "leveysaste": 62.403238,
+      "pituusaste": 23.892392,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 27,
+      "nimi": "Joella",
+      "leveysaste": 60.447675,
+      "pituusaste": 22.26472,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 28,
+      "nimi": "Juhlapirtti",
+      "leveysaste": 60.348293,
+      "pituusaste": 24.857762,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 29,
+      "nimi": "Juminkeko",
+      "leveysaste": 64.126381,
+      "pituusaste": 29.51308,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 30,
+      "nimi": "Juminkeko",
+      "leveysaste": 64.126392,
+      "pituusaste": 29.513052,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 31,
+      "nimi": "Jyväskylän Nyky- ja valotaiteen keskus",
+      "leveysaste": 62.285108,
+      "pituusaste": 25.810029,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 32,
+      "nimi": "Kaapelitehdas",
+      "leveysaste": 60.161751,
+      "pituusaste": 24.904023,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 33,
+      "nimi": "Kaapelitehdas",
+      "leveysaste": 60.161755,
+      "pituusaste": 24.904017,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 34,
+      "nimi": "Kalevan navetta",
+      "leveysaste": 62.796502,
+      "pituusaste": 22.830973,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 35,
+      "nimi": "Kalevan navetta",
+      "leveysaste": 62.796545,
+      "pituusaste": 22.830953,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 36,
+      "nimi": "Kalliolan Settlementti",
+      "leveysaste": 60.188389,
+      "pituusaste": 24.945961,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 37,
+      "nimi": "Kallioniemen tanssilava (Social dance venue)",
+      "leveysaste": 60.851437,
+      "pituusaste": 26.616112,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 38,
+      "nimi": "Kamarimusiikkikeskus",
+      "leveysaste": 64.126391,
+      "pituusaste": 29.512128,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 39,
+      "nimi": "Kamarimusiikkikeskus",
+      "leveysaste": 64.126406,
+      "pituusaste": 29.512088,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 40,
+      "nimi": "Kangasala-talo",
+      "leveysaste": 61.463279,
+      "pituusaste": 24.073025,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 41,
+      "nimi": "Kansantaiteenkeskus",
+      "leveysaste": 63.543729,
+      "pituusaste": 23.692356,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 42,
+      "nimi": "Karhusaaren taidekeskus",
+      "leveysaste": 60.167291,
+      "pituusaste": 24.835416,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 43,
+      "nimi": "Karjalatalo",
+      "leveysaste": 60.214942,
+      "pituusaste": 24.956779,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 44,
+      "nimi": "Kauhajoen kansalaisopisto",
+      "leveysaste": 62.423788,
+      "pituusaste": 22.17526,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 45,
+      "nimi": "Kauhajoen kansalaisopisto",
+      "leveysaste": 62.423814,
+      "pituusaste": 22.175272,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 46,
+      "nimi": "Kauhajoen taitokeskus",
+      "leveysaste": 62.423546,
+      "pituusaste": 22.173871,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 47,
+      "nimi": "Kauhajoen taitokeskus",
+      "leveysaste": 62.42355,
+      "pituusaste": 22.173873,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 48,
+      "nimi": "Kera-kollektiivi",
+      "leveysaste": 60.214451,
+      "pituusaste": 24.762424,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 49,
+      "nimi": "Keravan kuvataidekoulu",
+      "leveysaste": 60.404314,
+      "pituusaste": 25.102901,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 50,
+      "nimi": "Keravan kuvataidekoulu",
+      "leveysaste": 60.404322,
+      "pituusaste": 25.102921,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 51,
+      "nimi": "Keravan musiikkiopisto",
+      "leveysaste": 60.403354,
+      "pituusaste": 25.104408,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 52,
+      "nimi": "Kouvolan taidemuseo POIKILO",
+      "leveysaste": 60.867005,
+      "pituusaste": 26.690424,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 53,
+      "nimi": "Kuhmo-talo",
+      "leveysaste": 64.130025,
+      "pituusaste": 29.520063,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 54,
+      "nimi": "Kuhmo-talo",
+      "leveysaste": 64.130034,
+      "pituusaste": 29.520045,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 55,
+      "nimi": "Kuhmon kamarimusiikki - toimisto",
+      "leveysaste": 64.126033,
+      "pituusaste": 29.518738,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 56,
+      "nimi": "Kulttuurikeskus Kirnu",
+      "leveysaste": 64.138064,
+      "pituusaste": 25.340523,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 57,
+      "nimi": "Kulttuurikeskus Kiva",
+      "leveysaste": 60.387181,
+      "pituusaste": 23.129946,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 58,
+      "nimi": "Kulttuurikeskus Kiva",
+      "leveysaste": 60.387184,
+      "pituusaste": 23.129947,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 59,
+      "nimi": "Kulttuurikeskus PiiPoo",
+      "leveysaste": 61.361655,
+      "pituusaste": 23.79462,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 60,
+      "nimi": "Kulttuurikeskus PiiPoo",
+      "leveysaste": 61.361662,
+      "pituusaste": 23.79462,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 61,
+      "nimi": "Kulttuurikeskus Skantz",
+      "leveysaste": 62.078159,
+      "pituusaste": 22.513153,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 62,
+      "nimi": "Kulttuurikeskus Villa Rana",
+      "leveysaste": 62.236567,
+      "pituusaste": 25.734883,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 63,
+      "nimi": "Kulttuuritalo",
+      "leveysaste": 60.188244,
+      "pituusaste": 24.944145,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 64,
+      "nimi": "Kulttuuritalo",
+      "leveysaste": 60.188246,
+      "pituusaste": 24.944148,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 65,
+      "nimi": "Kulttuuritalo Korundi",
+      "leveysaste": 66.500897,
+      "pituusaste": 25.718612,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 66,
+      "nimi": "Kulttuuritalo Korundi",
+      "leveysaste": 66.500903,
+      "pituusaste": 25.718719,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 67,
+      "nimi": "Kulttuuritalo Laaksola",
+      "leveysaste": 61.170891,
+      "pituusaste": 23.865362,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 68,
+      "nimi": "Kulttuuritalo Laaksola",
+      "leveysaste": 61.170897,
+      "pituusaste": 23.865244,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 69,
+      "nimi": "Kulttuuritalo Laikku",
+      "leveysaste": 61.498851,
+      "pituusaste": 23.762065,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 70,
+      "nimi": "Kulttuuritalo Lilla Villan",
+      "leveysaste": 60.378384,
+      "pituusaste": 25.265638,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 71,
+      "nimi": "Kulttuuritalo Marita",
+      "leveysaste": 62.725817,
+      "pituusaste": 29.016569,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 72,
+      "nimi": "Kulttuuritalo Orrela",
+      "leveysaste": 62.479641,
+      "pituusaste": 21.738597,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 73,
+      "nimi": "Kulttuuritalo Orrela",
+      "leveysaste": 62.479684,
+      "pituusaste": 21.738454,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 74,
+      "nimi": "Kulttuuritalo Sanssi",
+      "leveysaste": 62.427859,
+      "pituusaste": 22.174883,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 75,
+      "nimi": "Kulttuuritalo Sanssi",
+      "leveysaste": 62.427894,
+      "pituusaste": 22.174913,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 76,
+      "nimi": "Kulttuuritalo Virta",
+      "leveysaste": 61.191698,
+      "pituusaste": 28.778448,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 77,
+      "nimi": "Kulttuuritalo Virta",
+      "leveysaste": 61.191715,
+      "pituusaste": 28.778438,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 78,
+      "nimi": "Kulttuuritalo Wiljami",
+      "leveysaste": 66.498094,
+      "pituusaste": 25.721587,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 79,
+      "nimi": "Kulttuuritalo Wiljami",
+      "leveysaste": 66.4981,
+      "pituusaste": 25.721596,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 80,
+      "nimi": "Kulturhuset Villa Lande",
+      "leveysaste": 60.163441,
+      "pituusaste": 22.731505,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 81,
+      "nimi": "Kulturhuset Villa Lande",
+      "leveysaste": 60.163476,
+      "pituusaste": 22.731484,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 82,
+      "nimi": "Lahden konserttitalo",
+      "leveysaste": 60.982866,
+      "pituusaste": 25.649106,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 83,
+      "nimi": "Lahden konserttitalo",
+      "leveysaste": 60.982876,
+      "pituusaste": 25.649017,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 84,
+      "nimi": "Lappeenrannan taidemuseo",
+      "leveysaste": 61.064894,
+      "pituusaste": 28.182926,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 85,
+      "nimi": "Lasi & Koru Studio",
+      "leveysaste": 60.167295,
+      "pituusaste": 24.935268,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 86,
+      "nimi": "Lastenkulttuurikeskus Rulla",
+      "leveysaste": 61.498694,
+      "pituusaste": 23.762186,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 87,
+      "nimi": "Levi Summit",
+      "leveysaste": 67.800323,
+      "pituusaste": 24.810724,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 88,
+      "nimi": "Lillklobbin taidekeskus",
+      "leveysaste": 60.207638,
+      "pituusaste": 24.768773,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 89,
+      "nimi": "Lillklobbin taidekeskus",
+      "leveysaste": 60.207663,
+      "pituusaste": 24.768794,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 90,
+      "nimi": "Maalausbaari Studio & Bar",
+      "leveysaste": 60.166992,
+      "pituusaste": 24.934399,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 91,
+      "nimi": "Manilla",
+      "leveysaste": 60.439285,
+      "pituusaste": 22.246831,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 92,
+      "nimi": "Manilla",
+      "leveysaste": 60.439298,
+      "pituusaste": 22.246857,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 93,
+      "nimi": "Museum of Impossible Forms",
+      "leveysaste": 60.180628,
+      "pituusaste": 24.978386,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 94,
+      "nimi": "Musiikkitalo",
+      "leveysaste": 60.173685,
+      "pituusaste": 24.934953,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 95,
+      "nimi": "Musiikkitalo",
+      "leveysaste": 60.173693,
+      "pituusaste": 24.934939,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 96,
+      "nimi": "Musiikkiteatteri Spektri",
+      "leveysaste": 60.992582,
+      "pituusaste": 24.451683,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 97,
+      "nimi": "Muuramen kulttuurikeskus",
+      "leveysaste": 62.131616,
+      "pituusaste": 25.669352,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 98,
+      "nimi": "Mäntsälän suurlava (Dance pavilion)",
+      "leveysaste": 60.623054,
+      "pituusaste": 25.285828,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 99,
+      "nimi": "Navetta Galleria",
+      "leveysaste": 61.63425,
+      "pituusaste": 27.286276,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 100,
+      "nimi": "Nordisk Kulturkontakt",
+      "leveysaste": 60.172102,
+      "pituusaste": 24.948718,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 101,
+      "nimi": "Näyttelykeskus WeeGee",
+      "leveysaste": 60.178624,
+      "pituusaste": 24.794348,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 102,
+      "nimi": "Näyttelykeskus WeeGee",
+      "leveysaste": 60.178649,
+      "pituusaste": 24.794432,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 103,
+      "nimi": "Ohjelmateltta",
+      "leveysaste": 61.909472,
+      "pituusaste": 29.283356,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 104,
+      "nimi": "Olohuone",
+      "leveysaste": 60.188151,
+      "pituusaste": 24.964772,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 105,
+      "nimi": "Olympiakasarmi",
+      "leveysaste": 60.396247,
+      "pituusaste": 25.031475,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 106,
+      "nimi": "Olympiakasarmi",
+      "leveysaste": 60.396283,
+      "pituusaste": 25.03148,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 107,
+      "nimi": "Oranssi",
+      "leveysaste": 60.185907,
+      "pituusaste": 24.973323,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 108,
+      "nimi": "Oulun musiikkikeskus",
+      "leveysaste": 65.003521,
+      "pituusaste": 25.48061,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 109,
+      "nimi": "Oulun musiikkikeskus",
+      "leveysaste": 65.003521,
+      "pituusaste": 25.480616,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 110,
+      "nimi": "Pakkahuone",
+      "leveysaste": 62.596605,
+      "pituusaste": 29.762041,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 111,
+      "nimi": "Pakkahuone",
+      "leveysaste": 62.596628,
+      "pituusaste": 29.762063,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 112,
+      "nimi": "Pentik Kartano",
+      "leveysaste": 66.212593,
+      "pituusaste": 27.838458,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 113,
+      "nimi": "Pirkanpohjan Taidekeskus",
+      "leveysaste": 62.55078,
+      "pituusaste": 24.072049,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 114,
+      "nimi": "Pirkanpohjan Taidekeskus",
+      "leveysaste": 62.550838,
+      "pituusaste": 24.07196,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 115,
+      "nimi": "Pitäjänmäen kyläkirkko",
+      "leveysaste": 60.226149,
+      "pituusaste": 24.843338,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 116,
+      "nimi": "Publics",
+      "leveysaste": 60.195677,
+      "pituusaste": 24.959785,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 117,
+      "nimi": "Puistokulma",
+      "leveysaste": 60.303438,
+      "pituusaste": 25.044269,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 118,
+      "nimi": "Pukinmäen taidekoulut",
+      "leveysaste": 60.240811,
+      "pituusaste": 24.994774,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 119,
+      "nimi": "Punnosen talo",
+      "leveysaste": 62.255547,
+      "pituusaste": 24.71134,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 120,
+      "nimi": "Punnosen talo",
+      "leveysaste": 62.25555,
+      "pituusaste": 24.711406,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 121,
+      "nimi": "Puotinkylän-Marjaniemen työväentalo",
+      "leveysaste": 60.213002,
+      "pituusaste": 25.092323,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 122,
+      "nimi": "Puotinkylän-Marjaniemen työväentalo",
+      "leveysaste": 60.213008,
+      "pituusaste": 25.09233,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 123,
+      "nimi": "Pyynikin aikamatkat",
+      "leveysaste": 61.491912,
+      "pituusaste": 23.750644,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 124,
+      "nimi": "Ratamo Printmaking and Photography Centre",
+      "leveysaste": 62.244409,
+      "pituusaste": 25.757972,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 125,
+      "nimi": "Rauman kuvataidekoulu",
+      "leveysaste": 61.129171,
+      "pituusaste": 21.502364,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 126,
+      "nimi": "Rauman kuvataidekoulu",
+      "leveysaste": 61.129192,
+      "pituusaste": 21.502399,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 127,
+      "nimi": "Rauman taidemuseo",
+      "leveysaste": 61.128219,
+      "pituusaste": 21.517472,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 128,
+      "nimi": "Riihigalleria",
+      "leveysaste": 61.592944,
+      "pituusaste": 24.863888,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 129,
+      "nimi": "Riihigalleria",
+      "leveysaste": 61.592998,
+      "pituusaste": 24.863888,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 130,
+      "nimi": "Ritz",
+      "leveysaste": 63.095791,
+      "pituusaste": 21.608735,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 131,
+      "nimi": "Rovaniemen kuvataidekoulu",
+      "leveysaste": 66.496698,
+      "pituusaste": 25.720619,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 132,
+      "nimi": "Saimaan Taideluola",
+      "leveysaste": 60.176353,
+      "pituusaste": 24.930586,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 133,
+      "nimi": "Saimaan taideluola Retretti",
+      "leveysaste": 61.803546,
+      "pituusaste": 29.290127,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 134,
+      "nimi": "Savi- ja käsityöpaja Pirkko Ritoranta",
+      "leveysaste": 63.28207,
+      "pituusaste": 29.271683,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 135,
+      "nimi": "Seinäjoen taidehalli",
+      "leveysaste": 62.796786,
+      "pituusaste": 22.831145,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 136,
+      "nimi": "Sibeliustalo",
+      "leveysaste": 60.995035,
+      "pituusaste": 25.651554,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 137,
+      "nimi": "Sibeliustalo",
+      "leveysaste": 60.995043,
+      "pituusaste": 25.651628,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 138,
+      "nimi": "Sinikan savikamarin Mustikkapaikka",
+      "leveysaste": 63.275982,
+      "pituusaste": 29.261784,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 139,
+      "nimi": "Sinne",
+      "leveysaste": 60.163339,
+      "pituusaste": 24.942076,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 140,
+      "nimi": "Soile Yli-Mäyryn Taidelinna",
+      "leveysaste": 60.803389,
+      "pituusaste": 25.733143,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 141,
+      "nimi": "Soile Yli-Mäyryn Taidelinna",
+      "leveysaste": 60.803409,
+      "pituusaste": 25.733158,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 142,
+      "nimi": "Space 81",
+      "leveysaste": 60.438777,
+      "pituusaste": 22.255559,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 143,
+      "nimi": "Station mir",
+      "leveysaste": 60.17483,
+      "pituusaste": 24.956932,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 144,
+      "nimi": "Suvilahti",
+      "leveysaste": 60.186817,
+      "pituusaste": 24.972686,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 145,
+      "nimi": "Suvilahti",
+      "leveysaste": 60.186826,
+      "pituusaste": 24.972656,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 146,
+      "nimi": "Säveltäjänpuiston taidetalo",
+      "leveysaste": 60.245466,
+      "pituusaste": 24.990871,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 147,
+      "nimi": "Taidekamari",
+      "leveysaste": 65.359476,
+      "pituusaste": 26.985732,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 148,
+      "nimi": "Taidekasarmi",
+      "leveysaste": 60.992864,
+      "pituusaste": 24.433753,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 149,
+      "nimi": "Taidekeskus Ahjo",
+      "leveysaste": 62.600916,
+      "pituusaste": 29.757922,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 150,
+      "nimi": "Taidekeskus Ahjo",
+      "leveysaste": 62.600939,
+      "pituusaste": 29.757943,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 151,
+      "nimi": "Taidekeskus Antares",
+      "leveysaste": 60.736944,
+      "pituusaste": 27.000632,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 152,
+      "nimi": "Taidekeskus Kettuki",
+      "leveysaste": 60.995394,
+      "pituusaste": 24.459228,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 153,
+      "nimi": "Taidekeskus Purnu",
+      "leveysaste": 61.649512,
+      "pituusaste": 24.522094,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 154,
+      "nimi": "Taidekeskus Salmela",
+      "leveysaste": 61.411722,
+      "pituusaste": 26.827525,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 155,
+      "nimi": "Taidekeskus Salmela",
+      "leveysaste": 61.411731,
+      "pituusaste": 26.827566,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 156,
+      "nimi": "Taidekoulu Alfa",
+      "leveysaste": 60.255118,
+      "pituusaste": 24.970093,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 157,
+      "nimi": "Taidelaitos Haihatus",
+      "leveysaste": 61.751464,
+      "pituusaste": 26.115604,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 158,
+      "nimi": "Taideluokka Muusa",
+      "leveysaste": 61.503736,
+      "pituusaste": 23.636763,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 159,
+      "nimi": "Taidemesta Pääsky",
+      "leveysaste": 60.188421,
+      "pituusaste": 24.968242,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 160,
+      "nimi": "Taideruukki",
+      "leveysaste": 60.903306,
+      "pituusaste": 26.651019,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 161,
+      "nimi": "Taidetalo",
+      "leveysaste": 63.142011,
+      "pituusaste": 22.793986,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 162,
+      "nimi": "Taidetalo",
+      "leveysaste": 63.142046,
+      "pituusaste": 22.793988,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 163,
+      "nimi": "Taidetehdas, Event Factory",
+      "leveysaste": 60.389035,
+      "pituusaste": 25.657201,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 164,
+      "nimi": "Taiteen talo",
+      "leveysaste": 60.449827,
+      "pituusaste": 22.27528,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 165,
+      "nimi": "Taitokeskus Lempäälä",
+      "leveysaste": 61.313318,
+      "pituusaste": 23.754266,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 166,
+      "nimi": "Tampere-talo",
+      "leveysaste": 61.495834,
+      "pituusaste": 23.781853,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 167,
+      "nimi": "Tampere-talo",
+      "leveysaste": 61.495835,
+      "pituusaste": 23.781836,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 168,
+      "nimi": "Tanhuhovi",
+      "leveysaste": 60.220065,
+      "pituusaste": 24.032239,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 169,
+      "nimi": "Teatterin tiedostuskeskus TINFO",
+      "leveysaste": 60.173316,
+      "pituusaste": 24.960625,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 170,
+      "nimi": "Tiivistämö",
+      "leveysaste": 60.186967,
+      "pituusaste": 24.973124,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 171,
+      "nimi": "Uusi Paviljonki",
+      "leveysaste": 60.213868,
+      "pituusaste": 24.723063,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 172,
+      "nimi": "Uusi Paviljonki",
+      "leveysaste": 60.213888,
+      "pituusaste": 24.723038,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 173,
+      "nimi": "Valve",
+      "leveysaste": 65.014191,
+      "pituusaste": 25.47028,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 174,
+      "nimi": "Vanha Kansalaisopisto",
+      "leveysaste": 61.129137,
+      "pituusaste": 21.512003,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 175,
+      "nimi": "Vanha Kansalaisopisto",
+      "leveysaste": 61.129154,
+      "pituusaste": 21.512009,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 176,
+      "nimi": "Vapaan Taiteen Tila",
+      "leveysaste": 60.187242,
+      "pituusaste": 24.963578,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 177,
+      "nimi": "Vihdin Kultsa",
+      "leveysaste": 60.417306,
+      "pituusaste": 24.311304,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 178,
+      "nimi": "Villa Royal",
+      "leveysaste": 61.550864,
+      "pituusaste": 22.962461,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 179,
+      "nimi": "Villa Väinölä",
+      "leveysaste": 62.99999,
+      "pituusaste": 23.822039,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 180,
+      "nimi": "Villa Väinölä",
+      "leveysaste": 63.000018,
+      "pituusaste": 23.822074,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 181,
+      "nimi": "Voipaalan taidekeskus",
+      "leveysaste": 61.203708,
+      "pituusaste": 24.061031,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 182,
+      "nimi": "Voipaalan taidekeskus",
+      "leveysaste": 61.203735,
+      "pituusaste": 24.061194,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 183,
+      "nimi": "Vuohijärven luonto- ja kulttuuritalo",
+      "leveysaste": 61.090606,
+      "pituusaste": 26.794845,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 184,
+      "nimi": "Vuotalo",
+      "leveysaste": 60.208801,
+      "pituusaste": 25.143236,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 185,
+      "nimi": "Vuotalo",
+      "leveysaste": 60.208801,
+      "pituusaste": 25.143239,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 186,
+      "nimi": "Wanha Satama",
+      "leveysaste": 60.165622,
+      "pituusaste": 24.967266,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 187,
+      "nimi": "Wanha Woimala",
+      "leveysaste": 62.247183,
+      "pituusaste": 25.886078,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    },
+    {
+      "id": 188,
+      "nimi": "redukt_studio",
+      "leveysaste": 60.186154,
+      "pituusaste": 24.951224,
+      "osm_avain": "amenity",
+      "osm_arvo": "arts_centre",
+      "osm_luokka": "amenity=arts_centre"
+    }
+  ],
+  "meta": {
+    "title": "Kulttuurikeskukset – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kulttuurikeskukset Suomessa — 188 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=arts_centre`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 16. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 188 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kulttuurikeskukset – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kulttuurikeskukset – Suomi (OpenStreetMap) — 188 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 188 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

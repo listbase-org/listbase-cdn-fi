@@ -1,0 +1,2941 @@
+{
+  "id": "fi-osm-leisure-track",
+  "name": "Urheiluradat – Suomi (OpenStreetMap)",
+  "title": "Urheiluradat – Suomi (OpenStreetMap)",
+  "description": "Urheiluradat Suomessa — 320 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `leisure=track`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 4. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 320,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "100 meter running game track",
+      "leveysaste": 62.655716,
+      "pituusaste": 29.68022,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 2,
+      "nimi": "100 meter running game track",
+      "leveysaste": 62.655868,
+      "pituusaste": 29.679954,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 3,
+      "nimi": "Aittovuori Trail Center",
+      "leveysaste": 62.496828,
+      "pituusaste": 25.428815,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 4,
+      "nimi": "Alakylän ravirata",
+      "leveysaste": 65.142968,
+      "pituusaste": 25.587049,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 5,
+      "nimi": "Alavuden ravirata",
+      "leveysaste": 62.603115,
+      "pituusaste": 23.622232,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 6,
+      "nimi": "Anjalan urheilukenttä",
+      "leveysaste": 60.687738,
+      "pituusaste": 26.793681,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 7,
+      "nimi": "Anjalan urheilukenttä",
+      "leveysaste": 60.687738,
+      "pituusaste": 26.793686,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 8,
+      "nimi": "Anttilan ravirata",
+      "leveysaste": 61.080987,
+      "pituusaste": 26.868767,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 9,
+      "nimi": "Anttilan ravirata",
+      "leveysaste": 61.081002,
+      "pituusaste": 26.868777,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 10,
+      "nimi": "BMX-rata",
+      "leveysaste": 60.981468,
+      "pituusaste": 25.6162,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 11,
+      "nimi": "Brusaby travbana",
+      "leveysaste": 60.173685,
+      "pituusaste": 22.7561,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 12,
+      "nimi": "Bunkkerit DH",
+      "leveysaste": 60.42609,
+      "pituusaste": 22.217369,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 13,
+      "nimi": "Eurajoen ravirata",
+      "leveysaste": 61.18706,
+      "pituusaste": 21.707438,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 14,
+      "nimi": "Formula Center Helsinki",
+      "leveysaste": 60.22167,
+      "pituusaste": 25.069446,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 15,
+      "nimi": "Golfautot",
+      "leveysaste": 61.701413,
+      "pituusaste": 27.340951,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 16,
+      "nimi": "Golfautot",
+      "leveysaste": 61.701424,
+      "pituusaste": 27.340938,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 17,
+      "nimi": "Haijaisten kuntorata",
+      "leveysaste": 60.43934,
+      "pituusaste": 22.007576,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 18,
+      "nimi": "Haijaisten kuntorata",
+      "leveysaste": 60.43937,
+      "pituusaste": 22.007587,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 19,
+      "nimi": "Halsuan ravirata",
+      "leveysaste": 63.472223,
+      "pituusaste": 24.160869,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 20,
+      "nimi": "Hannu Krankka -liikuntapuiston pump track",
+      "leveysaste": 64.811952,
+      "pituusaste": 25.414914,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 21,
+      "nimi": "Harjoitusravirata",
+      "leveysaste": 64.39403,
+      "pituusaste": 27.935283,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 22,
+      "nimi": "Harjoitusravirata",
+      "leveysaste": 64.666729,
+      "pituusaste": 28.460499,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 23,
+      "nimi": "Haulikkorata",
+      "leveysaste": 60.514162,
+      "pituusaste": 26.44951,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 24,
+      "nimi": "Heimsjöplan",
+      "leveysaste": 63.544333,
+      "pituusaste": 23.50723,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 25,
+      "nimi": "Heinolan ravirata",
+      "leveysaste": 61.212919,
+      "pituusaste": 26.049833,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 26,
+      "nimi": "Hervannan keskusurheilukenttä",
+      "leveysaste": 61.449244,
+      "pituusaste": 23.838876,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 27,
+      "nimi": "Hervannan keskusurheilukenttä",
+      "leveysaste": 61.449253,
+      "pituusaste": 23.838914,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 28,
+      "nimi": "Hevonlinna",
+      "leveysaste": 60.696022,
+      "pituusaste": 23.026384,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 29,
+      "nimi": "Hiihtomaa trail center",
+      "leveysaste": 62.254198,
+      "pituusaste": 25.814117,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 30,
+      "nimi": "Hikiän kuntorata",
+      "leveysaste": 60.759077,
+      "pituusaste": 24.909665,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 31,
+      "nimi": "Hikiän kuntorata",
+      "leveysaste": 60.759086,
+      "pituusaste": 24.909741,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 32,
+      "nimi": "Honkamäen monitoimireitti",
+      "leveysaste": 63.076726,
+      "pituusaste": 27.685142,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 33,
+      "nimi": "Honkamäen monitoimireitti",
+      "leveysaste": 63.076848,
+      "pituusaste": 27.705624,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 34,
+      "nimi": "Honkamäen monitoimireitti",
+      "leveysaste": 63.078843,
+      "pituusaste": 27.688435,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 35,
+      "nimi": "Honkamäen monitoimireitti",
+      "leveysaste": 63.079256,
+      "pituusaste": 27.693862,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 36,
+      "nimi": "Honkamäen monitoimireitti",
+      "leveysaste": 63.07949,
+      "pituusaste": 27.695618,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 37,
+      "nimi": "Huhtasuon pumptrack",
+      "leveysaste": 62.264543,
+      "pituusaste": 25.803796,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 38,
+      "nimi": "Huhtasuon pumptrack",
+      "leveysaste": 62.264546,
+      "pituusaste": 25.8038,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 39,
+      "nimi": "Huhtasuon pumptrack",
+      "leveysaste": 62.264569,
+      "pituusaste": 25.803832,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 40,
+      "nimi": "Huhtasuon pumptrack",
+      "leveysaste": 62.264577,
+      "pituusaste": 25.803848,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 41,
+      "nimi": "Huhtasuon pumptrack",
+      "leveysaste": 62.264583,
+      "pituusaste": 25.803853,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 42,
+      "nimi": "Hutsin kenttä",
+      "leveysaste": 62.090854,
+      "pituusaste": 30.155648,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 43,
+      "nimi": "Hyllykallion kuntorata",
+      "leveysaste": 62.802121,
+      "pituusaste": 22.895359,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 44,
+      "nimi": "Hyvinkään vinttikoirarata",
+      "leveysaste": 60.645051,
+      "pituusaste": 24.812952,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 45,
+      "nimi": "Härkämäen kuntorata",
+      "leveysaste": 60.465864,
+      "pituusaste": 22.19493,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 46,
+      "nimi": "Härkämäen kuntorata",
+      "leveysaste": 60.467215,
+      "pituusaste": 22.195082,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 47,
+      "nimi": "Härkämäen kuntorata",
+      "leveysaste": 60.467776,
+      "pituusaste": 22.197502,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 48,
+      "nimi": "Härmälän pumptrack",
+      "leveysaste": 61.469207,
+      "pituusaste": 23.733642,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 49,
+      "nimi": "Härmälän pumptrack",
+      "leveysaste": 61.469207,
+      "pituusaste": 23.733725,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 50,
+      "nimi": "Härmälän pumptrack",
+      "leveysaste": 61.469222,
+      "pituusaste": 23.733643,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 51,
+      "nimi": "Härmälän pumptrack",
+      "leveysaste": 61.469222,
+      "pituusaste": 23.733726,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 52,
+      "nimi": "Härmän ravirata",
+      "leveysaste": 63.252788,
+      "pituusaste": 22.845905,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 53,
+      "nimi": "Ilolan pumptrack-rata",
+      "leveysaste": 60.323616,
+      "pituusaste": 25.020272,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 54,
+      "nimi": "Inkeroisten urheilukenttä",
+      "leveysaste": 60.70326,
+      "pituusaste": 26.847695,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 55,
+      "nimi": "Inkeroisten urheilukenttä",
+      "leveysaste": 60.70328,
+      "pituusaste": 26.847699,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 56,
+      "nimi": "Iso-Vilusen BMX-rata",
+      "leveysaste": 61.476474,
+      "pituusaste": 23.864303,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 57,
+      "nimi": "Jalasjärven ravirata",
+      "leveysaste": 62.509508,
+      "pituusaste": 22.766083,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 58,
+      "nimi": "Jalasjärven ravirata",
+      "leveysaste": 62.509527,
+      "pituusaste": 22.766086,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 59,
+      "nimi": "Jokikylän Kuntorata",
+      "leveysaste": 62.8611,
+      "pituusaste": 22.176506,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 60,
+      "nimi": "Jokikylän Kuntorata",
+      "leveysaste": 62.861129,
+      "pituusaste": 22.176533,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 61,
+      "nimi": "Jokimaan ravirata",
+      "leveysaste": 60.936842,
+      "pituusaste": 25.608624,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 62,
+      "nimi": "Joupiska pumptrack",
+      "leveysaste": 62.78193,
+      "pituusaste": 22.803539,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 63,
+      "nimi": "Joupiska pumptrack",
+      "leveysaste": 62.781937,
+      "pituusaste": 22.803559,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 64,
+      "nimi": "Jouppiska Pumptrack",
+      "leveysaste": 62.781832,
+      "pituusaste": 22.803621,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 65,
+      "nimi": "Joutsan urheilukenttä",
+      "leveysaste": 61.747961,
+      "pituusaste": 26.129236,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 66,
+      "nimi": "Juvan ravirata",
+      "leveysaste": 61.883406,
+      "pituusaste": 27.791594,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 67,
+      "nimi": "KKV",
+      "leveysaste": 60.93923,
+      "pituusaste": 26.230372,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 68,
+      "nimi": "Kaipiaisten valaistu kuntopolku",
+      "leveysaste": 60.893206,
+      "pituusaste": 27.09857,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 69,
+      "nimi": "Kalajoen ravirata",
+      "leveysaste": 64.247149,
+      "pituusaste": 23.835984,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 70,
+      "nimi": "Kalevan yleisurheilukenttä",
+      "leveysaste": 60.410901,
+      "pituusaste": 25.09357,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 71,
+      "nimi": "Karhulan keskuskenttä",
+      "leveysaste": 60.517552,
+      "pituusaste": 26.924617,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 72,
+      "nimi": "Kaupin koirarata",
+      "leveysaste": 61.510395,
+      "pituusaste": 23.799123,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 73,
+      "nimi": "Kaupin koirarata",
+      "leveysaste": 61.510856,
+      "pituusaste": 23.7998,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 74,
+      "nimi": "Kavioura",
+      "leveysaste": 64.825598,
+      "pituusaste": 26.040724,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 75,
+      "nimi": "Kellokosken urheilukenttä",
+      "leveysaste": 60.530577,
+      "pituusaste": 25.09191,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 76,
+      "nimi": "Kerkonkosken kuntorata",
+      "leveysaste": 62.755913,
+      "pituusaste": 26.674304,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 77,
+      "nimi": "Keskusurheilukenttä",
+      "leveysaste": 61.481123,
+      "pituusaste": 23.52741,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 78,
+      "nimi": "Keskusurheilukenttä",
+      "leveysaste": 61.765112,
+      "pituusaste": 23.058454,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 79,
+      "nimi": "Keskusurheilukenttä",
+      "leveysaste": 61.765133,
+      "pituusaste": 23.058485,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 80,
+      "nimi": "Killerjärven ravirata",
+      "leveysaste": 62.245701,
+      "pituusaste": 25.671756,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 81,
+      "nimi": "Killerjärvi",
+      "leveysaste": 62.246756,
+      "pituusaste": 25.671359,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 82,
+      "nimi": "Kinttupolku",
+      "leveysaste": 62.618575,
+      "pituusaste": 29.501341,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 83,
+      "nimi": "Kirkkokallion kuntorata",
+      "leveysaste": 61.588694,
+      "pituusaste": 21.84678,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 84,
+      "nimi": "Kirkkokallion kuntorata",
+      "leveysaste": 61.589203,
+      "pituusaste": 21.84649,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 85,
+      "nimi": "Kirkkokallion kuntorata",
+      "leveysaste": 61.58999,
+      "pituusaste": 21.85299,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 86,
+      "nimi": "Kirkkokallion kuntorata",
+      "leveysaste": 61.590166,
+      "pituusaste": 21.851194,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 87,
+      "nimi": "Kirkkokallion kuntorata",
+      "leveysaste": 61.590722,
+      "pituusaste": 21.852368,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 88,
+      "nimi": "Kirkkokallion kuntorata",
+      "leveysaste": 61.590834,
+      "pituusaste": 21.848913,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 89,
+      "nimi": "Kivelän kuntorata",
+      "leveysaste": 62.261162,
+      "pituusaste": 24.727141,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 90,
+      "nimi": "Kiväärirata 75m",
+      "leveysaste": 60.514596,
+      "pituusaste": 26.447992,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 91,
+      "nimi": "Kouvolan ravirata",
+      "leveysaste": 60.884583,
+      "pituusaste": 26.703432,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 92,
+      "nimi": "Kukonkoivun urheilukenttä",
+      "leveysaste": 60.988299,
+      "pituusaste": 25.425737,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 93,
+      "nimi": "Kukonkoivun urheilukenttä",
+      "leveysaste": 60.988314,
+      "pituusaste": 25.425757,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 94,
+      "nimi": "Kuntopolku",
+      "leveysaste": 60.726946,
+      "pituusaste": 26.855018,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 95,
+      "nimi": "Kuntopolku",
+      "leveysaste": 60.938342,
+      "pituusaste": 26.81106,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 96,
+      "nimi": "Kuntorata",
+      "leveysaste": 61.10997,
+      "pituusaste": 21.825298,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 97,
+      "nimi": "Kuntorata",
+      "leveysaste": 61.109972,
+      "pituusaste": 21.825296,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 98,
+      "nimi": "Kuntorata Sankivaara",
+      "leveysaste": 64.980136,
+      "pituusaste": 25.69555,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 99,
+      "nimi": "Kuntorata Sankivaara",
+      "leveysaste": 64.980638,
+      "pituusaste": 25.701867,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 100,
+      "nimi": "Kuntorata Sankivaara",
+      "leveysaste": 64.981227,
+      "pituusaste": 25.70979,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 101,
+      "nimi": "Kupittaan luistelumato",
+      "leveysaste": 60.445619,
+      "pituusaste": 22.295144,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 102,
+      "nimi": "Kurtakon Ravirata",
+      "leveysaste": 67.407282,
+      "pituusaste": 24.107318,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 103,
+      "nimi": "Kuusamon ravirata",
+      "leveysaste": 66.008423,
+      "pituusaste": 29.106923,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 104,
+      "nimi": "Kuusikankaan kuntorata",
+      "leveysaste": 61.168862,
+      "pituusaste": 23.838015,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 105,
+      "nimi": "Kvevlax Sportplan",
+      "leveysaste": 63.163794,
+      "pituusaste": 21.829898,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 106,
+      "nimi": "Kvevlax Sportplan",
+      "leveysaste": 63.163974,
+      "pituusaste": 21.830018,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 107,
+      "nimi": "Käringsund MTB trail 3km",
+      "leveysaste": 60.238908,
+      "pituusaste": 19.549285,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 108,
+      "nimi": "LKP bike park",
+      "leveysaste": 60.456955,
+      "pituusaste": 25.121503,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 109,
+      "nimi": "Laidunpuiston pumptrack-rata",
+      "leveysaste": 61.169441,
+      "pituusaste": 25.568378,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 110,
+      "nimi": "Laidunpuiston pumptrack-rata",
+      "leveysaste": 61.169448,
+      "pituusaste": 25.568389,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 111,
+      "nimi": "Laihian urheilukenttä",
+      "leveysaste": 62.970741,
+      "pituusaste": 22.012098,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 112,
+      "nimi": "Laivakankaan ravirata",
+      "leveysaste": 65.818348,
+      "pituusaste": 24.361394,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 113,
+      "nimi": "Lamminharju Disc Golf Park",
+      "leveysaste": 61.061095,
+      "pituusaste": 23.649665,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 114,
+      "nimi": "Lauttasaaren liikuntapuiston yleisurheilukenttä",
+      "leveysaste": 60.163279,
+      "pituusaste": 24.866596,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 115,
+      "nimi": "Lehmon koulun pump track",
+      "leveysaste": 62.650397,
+      "pituusaste": 29.812481,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 116,
+      "nimi": "Leinoperän ravirata",
+      "leveysaste": 64.591001,
+      "pituusaste": 24.443097,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 117,
+      "nimi": "Leppäveden pump track",
+      "leveysaste": 62.333285,
+      "pituusaste": 25.836213,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 118,
+      "nimi": "Leppäveden pump track",
+      "leveysaste": 62.3333,
+      "pituusaste": 25.836236,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 119,
+      "nimi": "Litmasenpuiston bumptrack",
+      "leveysaste": 62.834382,
+      "pituusaste": 27.637736,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 120,
+      "nimi": "Loimu MTB trail",
+      "leveysaste": 66.503443,
+      "pituusaste": 25.779806,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 121,
+      "nimi": "Loimu MTB trail",
+      "leveysaste": 66.503948,
+      "pituusaste": 25.779963,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 122,
+      "nimi": "Loimu MTB trail",
+      "leveysaste": 66.504781,
+      "pituusaste": 25.777707,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 123,
+      "nimi": "Loimu MTB trail",
+      "leveysaste": 66.50584,
+      "pituusaste": 25.772485,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 124,
+      "nimi": "Loimu MTB trail",
+      "leveysaste": 66.506052,
+      "pituusaste": 25.776093,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 125,
+      "nimi": "Loimu MTB trail",
+      "leveysaste": 66.506568,
+      "pituusaste": 25.778813,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 126,
+      "nimi": "Lutakon sataman ulkokuntoilupuisto",
+      "leveysaste": 62.237298,
+      "pituusaste": 25.755721,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 127,
+      "nimi": "MTB trail",
+      "leveysaste": 66.5063,
+      "pituusaste": 25.779319,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 128,
+      "nimi": "Maastopyöräilypolku Hupi",
+      "leveysaste": 66.538352,
+      "pituusaste": 25.853524,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 129,
+      "nimi": "Maastopyöräilypolku Loiva",
+      "leveysaste": 66.538412,
+      "pituusaste": 25.854014,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 130,
+      "nimi": "Maastopyöräilypolku Lysti",
+      "leveysaste": 66.537165,
+      "pituusaste": 25.84966,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 131,
+      "nimi": "Maksinharjun ulkoilualue",
+      "leveysaste": 64.352491,
+      "pituusaste": 26.252079,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 132,
+      "nimi": "Mansikka-ahon kuntopolku",
+      "leveysaste": 60.87991,
+      "pituusaste": 26.725402,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 133,
+      "nimi": "Mansikka-ahon kuntopolku",
+      "leveysaste": 60.88108,
+      "pituusaste": 26.722314,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 134,
+      "nimi": "Mansikka-ahon kuntopolku",
+      "leveysaste": 60.883143,
+      "pituusaste": 26.726948,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 135,
+      "nimi": "Marttilan urheilukenttä",
+      "leveysaste": 60.587887,
+      "pituusaste": 22.887289,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 136,
+      "nimi": "Marttilan urheilukenttä",
+      "leveysaste": 60.587917,
+      "pituusaste": 22.887261,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 137,
+      "nimi": "Metsolan pyöräilyrata",
+      "leveysaste": 60.237735,
+      "pituusaste": 24.070075,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 138,
+      "nimi": "Mielakan kuntopolku",
+      "leveysaste": 60.863786,
+      "pituusaste": 26.739109,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 139,
+      "nimi": "Mikkeli BMX track",
+      "leveysaste": 61.678646,
+      "pituusaste": 27.19618,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 140,
+      "nimi": "Mikkelin ravirata",
+      "leveysaste": 61.702799,
+      "pituusaste": 27.241327,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 141,
+      "nimi": "Morocross rata",
+      "leveysaste": 62.664533,
+      "pituusaste": 29.633249,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 142,
+      "nimi": "Morocross rata",
+      "leveysaste": 62.664596,
+      "pituusaste": 29.633307,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 143,
+      "nimi": "Motocross",
+      "leveysaste": 60.956092,
+      "pituusaste": 25.699875,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 144,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.547728,
+      "pituusaste": 24.044296,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 145,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.547739,
+      "pituusaste": 24.042366,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 146,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.547743,
+      "pituusaste": 24.047841,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 147,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.549219,
+      "pituusaste": 24.050241,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 148,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.549307,
+      "pituusaste": 24.050635,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 149,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.549774,
+      "pituusaste": 24.040883,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 150,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.54986,
+      "pituusaste": 24.051294,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 151,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.549912,
+      "pituusaste": 24.046826,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 152,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.550788,
+      "pituusaste": 24.045343,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 153,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.551063,
+      "pituusaste": 24.046102,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 154,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.551666,
+      "pituusaste": 24.04911,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 155,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.552405,
+      "pituusaste": 24.047624,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 156,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.552422,
+      "pituusaste": 24.051603,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 157,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.552873,
+      "pituusaste": 24.046874,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 158,
+      "nimi": "Mustikkavuoren kuntorata",
+      "leveysaste": 62.553,
+      "pituusaste": 24.046245,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 159,
+      "nimi": "Myyrmäen yleisurheilukenttä",
+      "leveysaste": 60.26529,
+      "pituusaste": 24.839985,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 160,
+      "nimi": "Mälikkälän kuntorata",
+      "leveysaste": 60.481956,
+      "pituusaste": 22.221829,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 161,
+      "nimi": "Mälikkälän kuntorata",
+      "leveysaste": 60.482159,
+      "pituusaste": 22.212756,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 162,
+      "nimi": "Naarajärven ravirata",
+      "leveysaste": 62.277494,
+      "pituusaste": 27.039241,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 163,
+      "nimi": "Nikulan ravirata",
+      "leveysaste": 63.583126,
+      "pituusaste": 23.576579,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 164,
+      "nimi": "Nivalan ravirata",
+      "leveysaste": 63.905435,
+      "pituusaste": 25.022005,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 165,
+      "nimi": "Nivavaara Dirt",
+      "leveysaste": 66.521102,
+      "pituusaste": 25.865996,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 166,
+      "nimi": "Nunnavuoren kuntorata",
+      "leveysaste": 60.48299,
+      "pituusaste": 22.258196,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 167,
+      "nimi": "Orimattilan ravirata",
+      "leveysaste": 60.819378,
+      "pituusaste": 25.741156,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 168,
+      "nimi": "Otanlahden yleisurheilukenttä",
+      "leveysaste": 61.134867,
+      "pituusaste": 21.479106,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 169,
+      "nimi": "Oulunmäen kuntorata",
+      "leveysaste": 63.084338,
+      "pituusaste": 27.681918,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 170,
+      "nimi": "Oulunmäen kuntorata",
+      "leveysaste": 63.084357,
+      "pituusaste": 27.693259,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 171,
+      "nimi": "Oulunmäen kuntorata",
+      "leveysaste": 63.084484,
+      "pituusaste": 27.689547,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 172,
+      "nimi": "Oulunmäen kuntorata",
+      "leveysaste": 63.084644,
+      "pituusaste": 27.67888,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 173,
+      "nimi": "Oulunmäen kuntorata",
+      "leveysaste": 63.084651,
+      "pituusaste": 27.685792,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 174,
+      "nimi": "Oulunmäen kuntorata",
+      "leveysaste": 63.088678,
+      "pituusaste": 27.69358,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 175,
+      "nimi": "Paasisalon kuntoilu- ja hiihtorata",
+      "leveysaste": 62.98494,
+      "pituusaste": 27.657489,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 176,
+      "nimi": "Paasisalon kuntoilu- ja hiihtorata",
+      "leveysaste": 62.984985,
+      "pituusaste": 27.657327,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 177,
+      "nimi": "Painojennostelupaikka",
+      "leveysaste": 61.503036,
+      "pituusaste": 21.78071,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 178,
+      "nimi": "Pappikallion kuntopolku",
+      "leveysaste": 60.847917,
+      "pituusaste": 26.726651,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 179,
+      "nimi": "Pappikallion kuntopolku",
+      "leveysaste": 60.848036,
+      "pituusaste": 26.728233,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 180,
+      "nimi": "Parkkimäen urheilukenttä",
+      "leveysaste": 60.464886,
+      "pituusaste": 24.792735,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 181,
+      "nimi": "Parolannummen esterata",
+      "leveysaste": 61.037226,
+      "pituusaste": 24.351423,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 182,
+      "nimi": "Parolannummen esterata",
+      "leveysaste": 61.037243,
+      "pituusaste": 24.351402,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 183,
+      "nimi": "Pattila",
+      "leveysaste": 60.428162,
+      "pituusaste": 22.281846,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 184,
+      "nimi": "Paunun yleisurheilukenttä",
+      "leveysaste": 61.870744,
+      "pituusaste": 25.178551,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 185,
+      "nimi": "Petritsanvaaran motocross",
+      "leveysaste": 61.43739,
+      "pituusaste": 29.421603,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 186,
+      "nimi": "Pilvenmäen ravirata",
+      "leveysaste": 60.806157,
+      "pituusaste": 23.585591,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 187,
+      "nimi": "Pitäjänmäen juoksurata",
+      "leveysaste": 60.225486,
+      "pituusaste": 24.861377,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 188,
+      "nimi": "Pohjois-Paippisten valaistu kuntorata",
+      "leveysaste": 60.474162,
+      "pituusaste": 25.219344,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 189,
+      "nimi": "Pohjois-Paippisten valaistu kuntorata",
+      "leveysaste": 60.47417,
+      "pituusaste": 25.219324,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 190,
+      "nimi": "Polkuautot",
+      "leveysaste": 61.700846,
+      "pituusaste": 27.341879,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 191,
+      "nimi": "Polkuautot",
+      "leveysaste": 61.700848,
+      "pituusaste": 27.341881,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 192,
+      "nimi": "Polkupyörät",
+      "leveysaste": 61.701178,
+      "pituusaste": 27.34278,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 193,
+      "nimi": "Potilan pururata",
+      "leveysaste": 63.001872,
+      "pituusaste": 21.97147,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 194,
+      "nimi": "PowerParkin Ravirata",
+      "leveysaste": 63.236771,
+      "pituusaste": 22.822981,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 195,
+      "nimi": "Puistolan kentän juoksurata",
+      "leveysaste": 60.453093,
+      "pituusaste": 26.938892,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 196,
+      "nimi": "Puistolan kentän juoksurata",
+      "leveysaste": 60.453122,
+      "pituusaste": 26.938896,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 197,
+      "nimi": "Puistolan kentän juoksurata",
+      "leveysaste": 60.45313,
+      "pituusaste": 26.938859,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 198,
+      "nimi": "Puistolan kentän juoksurata",
+      "leveysaste": 60.453166,
+      "pituusaste": 26.938884,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 199,
+      "nimi": "Pump Track",
+      "leveysaste": 62.267196,
+      "pituusaste": 24.694782,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 200,
+      "nimi": "Pump Track",
+      "leveysaste": 62.267199,
+      "pituusaste": 24.694829,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 201,
+      "nimi": "Pump Track Ylläs",
+      "leveysaste": 67.552673,
+      "pituusaste": 24.260907,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 202,
+      "nimi": "Pump Track Ylläs",
+      "leveysaste": 67.552682,
+      "pituusaste": 24.260954,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 203,
+      "nimi": "Pumptrack",
+      "leveysaste": 62.371313,
+      "pituusaste": 25.905245,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 204,
+      "nimi": "Pumptrack",
+      "leveysaste": 62.371313,
+      "pituusaste": 25.905257,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 205,
+      "nimi": "Pumptrack rata",
+      "leveysaste": 62.78161,
+      "pituusaste": 27.490445,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 206,
+      "nimi": "Pumptrack-rata",
+      "leveysaste": 60.981946,
+      "pituusaste": 25.616443,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 207,
+      "nimi": "Pumptrack-rata",
+      "leveysaste": 60.981951,
+      "pituusaste": 25.616468,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 208,
+      "nimi": "Pururata",
+      "leveysaste": 62.3151,
+      "pituusaste": 29.633214,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 209,
+      "nimi": "Puumalan ravirata",
+      "leveysaste": 61.589358,
+      "pituusaste": 28.122994,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 210,
+      "nimi": "Pyssymäen crossirata",
+      "leveysaste": 63.886569,
+      "pituusaste": 24.893677,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 211,
+      "nimi": "Pyssymäen crossirata",
+      "leveysaste": 63.886625,
+      "pituusaste": 24.893849,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 212,
+      "nimi": "Päivintalli",
+      "leveysaste": 61.462231,
+      "pituusaste": 26.957827,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 213,
+      "nimi": "Raution urheilukenttä",
+      "leveysaste": 64.075295,
+      "pituusaste": 24.202368,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 214,
+      "nimi": "Ravikeskus Keskinen",
+      "leveysaste": 64.11383,
+      "pituusaste": 24.508751,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 215,
+      "nimi": "Ravikeskus Keskinen",
+      "leveysaste": 64.11384,
+      "pituusaste": 24.508751,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 216,
+      "nimi": "Ravirata",
+      "leveysaste": 60.459015,
+      "pituusaste": 24.517226,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 217,
+      "nimi": "Ravirata",
+      "leveysaste": 60.462903,
+      "pituusaste": 24.519203,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 218,
+      "nimi": "Ravirata",
+      "leveysaste": 60.86226,
+      "pituusaste": 21.744025,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 219,
+      "nimi": "Ravirata",
+      "leveysaste": 61.176404,
+      "pituusaste": 27.649592,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 220,
+      "nimi": "Ravirata",
+      "leveysaste": 62.013519,
+      "pituusaste": 24.63354,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 221,
+      "nimi": "Ravirata",
+      "leveysaste": 62.013533,
+      "pituusaste": 24.633548,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 222,
+      "nimi": "Ravirata",
+      "leveysaste": 63.110953,
+      "pituusaste": 23.078932,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 223,
+      "nimi": "Ravirata",
+      "leveysaste": 63.110995,
+      "pituusaste": 23.078999,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 224,
+      "nimi": "Ravirata",
+      "leveysaste": 63.252696,
+      "pituusaste": 24.464716,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 225,
+      "nimi": "Ravirata",
+      "leveysaste": 63.267001,
+      "pituusaste": 23.623752,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 226,
+      "nimi": "Ravirata",
+      "leveysaste": 63.267041,
+      "pituusaste": 23.623737,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 227,
+      "nimi": "Ravirata",
+      "leveysaste": 63.554629,
+      "pituusaste": 29.013948,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 228,
+      "nimi": "Ravirata",
+      "leveysaste": 63.745501,
+      "pituusaste": 25.35251,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 229,
+      "nimi": "Ravirata",
+      "leveysaste": 63.74552,
+      "pituusaste": 25.352558,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 230,
+      "nimi": "Ravirata",
+      "leveysaste": 64.274813,
+      "pituusaste": 24.725522,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 231,
+      "nimi": "Ravirata",
+      "leveysaste": 64.274815,
+      "pituusaste": 24.725657,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 232,
+      "nimi": "Ravirata",
+      "leveysaste": 65.404611,
+      "pituusaste": 27.330742,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 233,
+      "nimi": "Ravirata",
+      "leveysaste": 65.636123,
+      "pituusaste": 25.004897,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 234,
+      "nimi": "Ravirata",
+      "leveysaste": 66.720729,
+      "pituusaste": 27.318639,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 235,
+      "nimi": "Ravirata",
+      "leveysaste": 66.810264,
+      "pituusaste": 24.021857,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 236,
+      "nimi": "Ravirata",
+      "leveysaste": 67.206161,
+      "pituusaste": 27.395421,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 237,
+      "nimi": "Ravirata",
+      "leveysaste": 67.495736,
+      "pituusaste": 24.900697,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 238,
+      "nimi": "Ravirata",
+      "leveysaste": 68.681447,
+      "pituusaste": 27.63357,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 239,
+      "nimi": "Rekolan täyttömäki",
+      "leveysaste": 60.336948,
+      "pituusaste": 25.081103,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 240,
+      "nimi": "Rideep Pumptrack",
+      "leveysaste": 62.776545,
+      "pituusaste": 22.807548,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 241,
+      "nimi": "Riihimäen keskuskenttä",
+      "leveysaste": 60.744449,
+      "pituusaste": 24.773478,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 242,
+      "nimi": "Riihimäen ravirata",
+      "leveysaste": 60.753643,
+      "pituusaste": 24.770907,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 243,
+      "nimi": "Riihimäen ravirata",
+      "leveysaste": 60.753666,
+      "pituusaste": 24.770938,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 244,
+      "nimi": "Riihimäen varuskunnan kuntorata",
+      "leveysaste": 60.755046,
+      "pituusaste": 24.804126,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 245,
+      "nimi": "Riuttan ulkoilureitti",
+      "leveysaste": 60.73003,
+      "pituusaste": 24.697178,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 246,
+      "nimi": "Riuttan ulkoilureitti",
+      "leveysaste": 60.73633,
+      "pituusaste": 24.730417,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 247,
+      "nimi": "Riuttan ulkoilureitti",
+      "leveysaste": 60.73763,
+      "pituusaste": 24.718219,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 248,
+      "nimi": "Ronkaalan yleisurheilukenttä",
+      "leveysaste": 63.750252,
+      "pituusaste": 25.311643,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 249,
+      "nimi": "Roskarukan kuntorata",
+      "leveysaste": 63.849585,
+      "pituusaste": 23.145387,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 250,
+      "nimi": "Roskarukan kuntorata",
+      "leveysaste": 63.849762,
+      "pituusaste": 23.141417,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 251,
+      "nimi": "Roskarukan kuntorata",
+      "leveysaste": 63.850371,
+      "pituusaste": 23.146428,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 252,
+      "nimi": "Roskarukan kuntorata",
+      "leveysaste": 63.851061,
+      "pituusaste": 23.142209,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 253,
+      "nimi": "Roskarukan kuntorata",
+      "leveysaste": 63.851568,
+      "pituusaste": 23.143923,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 254,
+      "nimi": "Rukan kesäkelkkarata",
+      "leveysaste": 66.166928,
+      "pituusaste": 29.147692,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 255,
+      "nimi": "Ruoveden pumptrack",
+      "leveysaste": 61.982095,
+      "pituusaste": 24.063909,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 256,
+      "nimi": "Ruununmaan ravirata",
+      "leveysaste": 62.350419,
+      "pituusaste": 25.072314,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 257,
+      "nimi": "Ruununmaan ravirata",
+      "leveysaste": 62.350463,
+      "pituusaste": 25.072356,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 258,
+      "nimi": "Räikän kenttä",
+      "leveysaste": 61.556595,
+      "pituusaste": 23.599101,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 259,
+      "nimi": "Saarenkylän urheilukenttä",
+      "leveysaste": 66.517854,
+      "pituusaste": 25.784578,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 260,
+      "nimi": "Sahanlahden ulkoilureitti ja valaistu latu",
+      "leveysaste": 61.568132,
+      "pituusaste": 28.140753,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 261,
+      "nimi": "Sahanlahden ulkoilureitti ja valaistu latu",
+      "leveysaste": 61.570429,
+      "pituusaste": 28.136892,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 262,
+      "nimi": "Sahanlahden ulkoilureitti ja valaistu latu",
+      "leveysaste": 61.571723,
+      "pituusaste": 28.141677,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 263,
+      "nimi": "Saharan ravirata",
+      "leveysaste": 62.205992,
+      "pituusaste": 24.44971,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 264,
+      "nimi": "Santahaan kuntorata",
+      "leveysaste": 63.84777,
+      "pituusaste": 23.092451,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 265,
+      "nimi": "Saunaniemen lenkki",
+      "leveysaste": 63.551679,
+      "pituusaste": 27.267037,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 266,
+      "nimi": "Seinäjoen keskuskenttä",
+      "leveysaste": 62.782272,
+      "pituusaste": 22.851519,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 267,
+      "nimi": "Seinäjoen ravikeskus",
+      "leveysaste": 62.801967,
+      "pituusaste": 22.852055,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 268,
+      "nimi": "Siuron urheilukenttä",
+      "leveysaste": 61.475986,
+      "pituusaste": 23.315873,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 269,
+      "nimi": "Siuron urheilukenttä",
+      "leveysaste": 61.476002,
+      "pituusaste": 23.315879,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 270,
+      "nimi": "Skidspår",
+      "leveysaste": 68.430896,
+      "pituusaste": 22.441135,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 271,
+      "nimi": "Sonkajärven keskusurheilukenttä",
+      "leveysaste": 63.669817,
+      "pituusaste": 27.51679,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 272,
+      "nimi": "Sorvakon urheilukenttä",
+      "leveysaste": 60.796188,
+      "pituusaste": 21.418325,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 273,
+      "nimi": "Sorvapolun meluvalli",
+      "leveysaste": 60.348844,
+      "pituusaste": 25.108474,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 274,
+      "nimi": "Suikkilan kuntorata",
+      "leveysaste": 60.463563,
+      "pituusaste": 22.229062,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 275,
+      "nimi": "Suikkilan kuntorata",
+      "leveysaste": 60.464244,
+      "pituusaste": 22.224054,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 276,
+      "nimi": "Suomenlinnan kenttä",
+      "leveysaste": 60.142613,
+      "pituusaste": 24.982075,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 277,
+      "nimi": "Suonenjoen ravirata",
+      "leveysaste": 62.640972,
+      "pituusaste": 27.082462,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 278,
+      "nimi": "Säterinniitynkentän yleisurheilun harjoitusalue",
+      "leveysaste": 60.215053,
+      "pituusaste": 24.798271,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 279,
+      "nimi": "Tahvion koulun pururata",
+      "leveysaste": 60.48458,
+      "pituusaste": 22.120311,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 280,
+      "nimi": "Talvisalon kuntorata",
+      "leveysaste": 61.875582,
+      "pituusaste": 28.865779,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 281,
+      "nimi": "Teilinummen pururata",
+      "leveysaste": 61.093606,
+      "pituusaste": 21.870171,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 282,
+      "nimi": "Teilinummen pururata",
+      "leveysaste": 61.094332,
+      "pituusaste": 21.865014,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 283,
+      "nimi": "Teilinummen pururata",
+      "leveysaste": 61.094652,
+      "pituusaste": 21.860036,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 284,
+      "nimi": "Teivon ravirata",
+      "leveysaste": 61.530756,
+      "pituusaste": 23.626626,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 285,
+      "nimi": "Tonttumetsän pyöräilypolut",
+      "leveysaste": 66.537379,
+      "pituusaste": 25.846945,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 286,
+      "nimi": "Torakkakankaan rata",
+      "leveysaste": 62.423352,
+      "pituusaste": 24.027884,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 287,
+      "nimi": "Torsviken",
+      "leveysaste": 63.669472,
+      "pituusaste": 22.647776,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 288,
+      "nimi": "Training Track",
+      "leveysaste": 67.552406,
+      "pituusaste": 24.255781,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 289,
+      "nimi": "Travbana",
+      "leveysaste": 62.300568,
+      "pituusaste": 21.367698,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 290,
+      "nimi": "Travbana",
+      "leveysaste": 62.300665,
+      "pituusaste": 21.367706,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 291,
+      "nimi": "Trial-polkupyöräilypuisto",
+      "leveysaste": 61.476694,
+      "pituusaste": 23.865543,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 292,
+      "nimi": "Tuiskulan pump track",
+      "leveysaste": 64.85969,
+      "pituusaste": 25.46285,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 293,
+      "nimi": "Tuurin pumptrack",
+      "leveysaste": 62.599618,
+      "pituusaste": 23.721341,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 294,
+      "nimi": "Tuurin pumptrack",
+      "leveysaste": 62.599625,
+      "pituusaste": 23.721327,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 295,
+      "nimi": "Tuusulan harjoitusravirata",
+      "leveysaste": 60.442406,
+      "pituusaste": 24.945346,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 296,
+      "nimi": "Ulkoilureitti",
+      "leveysaste": 60.474659,
+      "pituusaste": 22.221992,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 297,
+      "nimi": "Ulkoilureitti",
+      "leveysaste": 60.477196,
+      "pituusaste": 22.232705,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 298,
+      "nimi": "Ulkoilureitti",
+      "leveysaste": 60.478499,
+      "pituusaste": 22.224825,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 299,
+      "nimi": "Ulkoilureitti",
+      "leveysaste": 60.478937,
+      "pituusaste": 22.229684,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 300,
+      "nimi": "Ulkoilureitti",
+      "leveysaste": 60.480533,
+      "pituusaste": 22.226235,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 301,
+      "nimi": "Urheilukenttä Ruovesi",
+      "leveysaste": 61.983932,
+      "pituusaste": 24.065395,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 302,
+      "nimi": "Urjalan urheilukenttä",
+      "leveysaste": 61.081933,
+      "pituusaste": 23.555562,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 303,
+      "nimi": "Uuraisten urheilukenttä",
+      "leveysaste": 62.503248,
+      "pituusaste": 25.43473,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 304,
+      "nimi": "Valpperin kuntoportaat",
+      "leveysaste": 60.665874,
+      "pituusaste": 22.266595,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 305,
+      "nimi": "Varnes-Hippos hippodrome",
+      "leveysaste": 62.365706,
+      "pituusaste": 26.453203,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 306,
+      "nimi": "Vekaranjärven urheilukenttä",
+      "leveysaste": 61.11531,
+      "pituusaste": 26.987221,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 307,
+      "nimi": "Velodromi",
+      "leveysaste": 60.202808,
+      "pituusaste": 24.94288,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 308,
+      "nimi": "Victorian putoukset",
+      "leveysaste": 60.807142,
+      "pituusaste": 24.613126,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 309,
+      "nimi": "Vinttikoirarata",
+      "leveysaste": 60.469624,
+      "pituusaste": 22.254287,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 310,
+      "nimi": "Vuosaaren urheilukenttä",
+      "leveysaste": 60.21678,
+      "pituusaste": 25.138575,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 311,
+      "nimi": "Yhdysreitti Luppo",
+      "leveysaste": 66.537574,
+      "pituusaste": 25.845307,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 312,
+      "nimi": "Yleisurheilukenttä",
+      "leveysaste": 60.277938,
+      "pituusaste": 25.123523,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 313,
+      "nimi": "Ylläs Bike Park",
+      "leveysaste": 67.563203,
+      "pituusaste": 24.226634,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 314,
+      "nimi": "Ypäjän ravirata",
+      "leveysaste": 60.807343,
+      "pituusaste": 23.295673,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 315,
+      "nimi": "liukumäki",
+      "leveysaste": 61.701127,
+      "pituusaste": 27.340753,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 316,
+      "nimi": "pururata",
+      "leveysaste": 61.252918,
+      "pituusaste": 22.354253,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 317,
+      "nimi": "pururata",
+      "leveysaste": 61.252938,
+      "pituusaste": 22.354266,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 318,
+      "nimi": "pururata",
+      "leveysaste": 63.906182,
+      "pituusaste": 23.951383,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 319,
+      "nimi": "trap",
+      "leveysaste": 62.721366,
+      "pituusaste": 29.818614,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    },
+    {
+      "id": 320,
+      "nimi": "Ålandstravet",
+      "leveysaste": 60.129711,
+      "pituusaste": 19.948073,
+      "osm_avain": "leisure",
+      "osm_arvo": "track",
+      "osm_luokka": "leisure=track"
+    }
+  ],
+  "meta": {
+    "title": "Urheiluradat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Urheiluradat Suomessa — 320 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `leisure=track`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 4. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 320 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Urheiluradat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Urheiluradat – Suomi (OpenStreetMap) — 320 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 320 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

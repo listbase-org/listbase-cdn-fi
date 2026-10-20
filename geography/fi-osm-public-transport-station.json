@@ -1,0 +1,3274 @@
+{
+  "id": "fi-osm-public-transport-station",
+  "name": "Joukkoliikenneasemat – Suomi (OpenStreetMap)",
+  "title": "Joukkoliikenneasemat – Suomi (OpenStreetMap)",
+  "description": "Joukkoliikenneasemat Suomessa — 357 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `public_transport=station`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 357,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aalto-yliopisto",
+      "leveysaste": 60.184463,
+      "pituusaste": 24.823571,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 2,
+      "nimi": "Aalto-yliopisto (M)",
+      "leveysaste": 60.184421,
+      "pituusaste": 24.827302,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 3,
+      "nimi": "Ainola",
+      "leveysaste": 60.454604,
+      "pituusaste": 25.102172,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 4,
+      "nimi": "Alavus",
+      "leveysaste": 62.617681,
+      "pituusaste": 23.60049,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 5,
+      "nimi": "Alberganesplanadi",
+      "leveysaste": 60.214326,
+      "pituusaste": 24.810835,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 6,
+      "nimi": "Ali-Vekkoski",
+      "leveysaste": 60.39215,
+      "pituusaste": 25.429028,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 7,
+      "nimi": "Aviapolis",
+      "leveysaste": 60.304476,
+      "pituusaste": 24.95674,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 8,
+      "nimi": "Dragsvik",
+      "leveysaste": 59.990199,
+      "pituusaste": 23.488605,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 9,
+      "nimi": "Ekenäs",
+      "leveysaste": 59.97959,
+      "pituusaste": 23.443492,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 10,
+      "nimi": "Eläinpuisto-Zoo",
+      "leveysaste": 62.540675,
+      "pituusaste": 24.191484,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 11,
+      "nimi": "Eno",
+      "leveysaste": 62.806425,
+      "pituusaste": 30.141699,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 12,
+      "nimi": "Espoo",
+      "leveysaste": 60.205067,
+      "pituusaste": 24.656102,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 13,
+      "nimi": "Espoonlahti",
+      "leveysaste": 60.149391,
+      "pituusaste": 24.654726,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 14,
+      "nimi": "Etelä-Hervanta",
+      "leveysaste": 61.442789,
+      "pituusaste": 23.858333,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 15,
+      "nimi": "Finnoo",
+      "leveysaste": 60.153049,
+      "pituusaste": 24.711886,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 16,
+      "nimi": "Haapajärvi",
+      "leveysaste": 63.754544,
+      "pituusaste": 25.334269,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 17,
+      "nimi": "Haapamäki",
+      "leveysaste": 62.246475,
+      "pituusaste": 24.455067,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 18,
+      "nimi": "Haarajoki",
+      "leveysaste": 60.496261,
+      "pituusaste": 25.13382,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 19,
+      "nimi": "Hakametsä",
+      "leveysaste": 61.492828,
+      "pituusaste": 23.817779,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 20,
+      "nimi": "Hakaniemi",
+      "leveysaste": 60.180481,
+      "pituusaste": 24.95017,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 21,
+      "nimi": "Haksi",
+      "leveysaste": 60.408214,
+      "pituusaste": 25.554699,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 22,
+      "nimi": "Hallila",
+      "leveysaste": 61.467009,
+      "pituusaste": 23.839638,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 23,
+      "nimi": "Hankasalmi",
+      "leveysaste": 62.30281,
+      "pituusaste": 26.478113,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 24,
+      "nimi": "Hanko",
+      "leveysaste": 59.826865,
+      "pituusaste": 22.968291,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 25,
+      "nimi": "Hanko-Pohjoinen",
+      "leveysaste": 59.83014,
+      "pituusaste": 22.988362,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 26,
+      "nimi": "Harjavalta",
+      "leveysaste": 61.310056,
+      "pituusaste": 22.132281,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 27,
+      "nimi": "Hedenäset",
+      "leveysaste": 66.235342,
+      "pituusaste": 23.682549,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 28,
+      "nimi": "Heinävesi",
+      "leveysaste": 62.382542,
+      "pituusaste": 28.643421,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 29,
+      "nimi": "Helsingin päärautatieasema",
+      "leveysaste": 60.171212,
+      "pituusaste": 24.941222,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 30,
+      "nimi": "Helsingin päärautatieasema",
+      "leveysaste": 60.171219,
+      "pituusaste": 24.941205,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 31,
+      "nimi": "Helsingin yliopisto",
+      "leveysaste": 60.172764,
+      "pituusaste": 24.948601,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 32,
+      "nimi": "Helsinki",
+      "leveysaste": 60.172097,
+      "pituusaste": 24.941249,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 33,
+      "nimi": "Henna",
+      "leveysaste": 60.799882,
+      "pituusaste": 25.495135,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 34,
+      "nimi": "Herrala",
+      "leveysaste": 60.89613,
+      "pituusaste": 25.4736,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 35,
+      "nimi": "Herttoniemi",
+      "leveysaste": 60.194569,
+      "pituusaste": 25.030231,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 36,
+      "nimi": "Hervannan kampus",
+      "leveysaste": 61.446869,
+      "pituusaste": 23.853479,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 37,
+      "nimi": "Hervantajärvi",
+      "leveysaste": 61.438312,
+      "pituusaste": 23.869891,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 38,
+      "nimi": "Hervantakeskus",
+      "leveysaste": 61.450341,
+      "pituusaste": 23.849701,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 39,
+      "nimi": "Hiedanranta",
+      "leveysaste": 61.512018,
+      "pituusaste": 23.686013,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 40,
+      "nimi": "Hiekkaharju",
+      "leveysaste": 60.303544,
+      "pituusaste": 25.049552,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 41,
+      "nimi": "Hikiä",
+      "leveysaste": 60.753783,
+      "pituusaste": 24.923285,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 42,
+      "nimi": "Hillosensalmi",
+      "leveysaste": 61.195316,
+      "pituusaste": 26.78782,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 43,
+      "nimi": "Hinthaara",
+      "leveysaste": 60.400235,
+      "pituusaste": 25.478966,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 44,
+      "nimi": "Hippos",
+      "leveysaste": 61.50165,
+      "pituusaste": 23.80066,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 45,
+      "nimi": "Humppila",
+      "leveysaste": 60.919481,
+      "pituusaste": 23.362539,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 46,
+      "nimi": "Huopalahden asema",
+      "leveysaste": 60.218702,
+      "pituusaste": 24.892619,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 47,
+      "nimi": "Huopalahti",
+      "leveysaste": 60.218337,
+      "pituusaste": 24.893503,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 48,
+      "nimi": "Hyvinkää",
+      "leveysaste": 60.631372,
+      "pituusaste": 24.857779,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 49,
+      "nimi": "Hyvinkää Rautatiemuseo",
+      "leveysaste": 60.625722,
+      "pituusaste": 24.848234,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 50,
+      "nimi": "Hämeenlinna",
+      "leveysaste": 61.002561,
+      "pituusaste": 24.478328,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 51,
+      "nimi": "Hämeenlinnanväylä",
+      "leveysaste": 60.227584,
+      "pituusaste": 24.906754,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 52,
+      "nimi": "Härmä",
+      "leveysaste": 63.234454,
+      "pituusaste": 22.876587,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 53,
+      "nimi": "Höljäkkä",
+      "leveysaste": 63.454839,
+      "pituusaste": 29.444243,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 54,
+      "nimi": "Iisalmi",
+      "leveysaste": 63.560206,
+      "pituusaste": 27.201022,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 55,
+      "nimi": "Iittala",
+      "leveysaste": 61.09062,
+      "pituusaste": 24.140832,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 56,
+      "nimi": "Ilkantie",
+      "leveysaste": 60.224813,
+      "pituusaste": 24.898041,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 57,
+      "nimi": "Ilmala",
+      "leveysaste": 60.207675,
+      "pituusaste": 24.921295,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 58,
+      "nimi": "Imatra",
+      "leveysaste": 61.195913,
+      "pituusaste": 28.776021,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 59,
+      "nimi": "Ingå",
+      "leveysaste": 60.061603,
+      "pituusaste": 23.934724,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 60,
+      "nimi": "Inkeroinen",
+      "leveysaste": 60.696675,
+      "pituusaste": 26.839149,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 61,
+      "nimi": "Itäkeskus",
+      "leveysaste": 60.209988,
+      "pituusaste": 25.077361,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 62,
+      "nimi": "Itäkeskus (M)",
+      "leveysaste": 60.20968,
+      "pituusaste": 25.074652,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 63,
+      "nimi": "Jakobstad-Pedersöre",
+      "leveysaste": 63.595591,
+      "pituusaste": 22.79075,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 64,
+      "nimi": "Jakobstad-Pedersöre järnvägsstation",
+      "leveysaste": 63.595603,
+      "pituusaste": 22.790029,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 65,
+      "nimi": "Jakobstad-Pedersöre järnvägsstation",
+      "leveysaste": 63.595632,
+      "pituusaste": 22.7901,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 66,
+      "nimi": "Joensuu",
+      "leveysaste": 62.600093,
+      "pituusaste": 29.777073,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 67,
+      "nimi": "Jokela",
+      "leveysaste": 60.552797,
+      "pituusaste": 24.970676,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 68,
+      "nimi": "Jorvas",
+      "leveysaste": 60.136962,
+      "pituusaste": 24.510593,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 69,
+      "nimi": "Joutseno",
+      "leveysaste": 61.121605,
+      "pituusaste": 28.493411,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 70,
+      "nimi": "Juupajoki",
+      "leveysaste": 61.796785,
+      "pituusaste": 24.365068,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 71,
+      "nimi": "Jyväskylä",
+      "leveysaste": 62.241455,
+      "pituusaste": 25.754984,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 72,
+      "nimi": "Jämsä",
+      "leveysaste": 61.865626,
+      "pituusaste": 25.17329,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 73,
+      "nimi": "Järvelä",
+      "leveysaste": 60.867323,
+      "pituusaste": 25.274655,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 74,
+      "nimi": "Järvenpää",
+      "leveysaste": 60.473683,
+      "pituusaste": 25.090796,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 75,
+      "nimi": "Kaitaa",
+      "leveysaste": 60.14959,
+      "pituusaste": 24.690789,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 76,
+      "nimi": "Kajaani",
+      "leveysaste": 64.219703,
+      "pituusaste": 27.738492,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 77,
+      "nimi": "Kakolan funikulaarin ala-asema",
+      "leveysaste": 60.441438,
+      "pituusaste": 22.245004,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 78,
+      "nimi": "Kakolan funikulaarin ala-asema",
+      "leveysaste": 60.441444,
+      "pituusaste": 22.244988,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 79,
+      "nimi": "Kakolan funikulaarin yläasema",
+      "leveysaste": 60.442195,
+      "pituusaste": 22.243206,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 80,
+      "nimi": "Kakolan funikulaarin yläasema",
+      "leveysaste": 60.442202,
+      "pituusaste": 22.243215,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 81,
+      "nimi": "Kalasatama",
+      "leveysaste": 60.187484,
+      "pituusaste": 24.976866,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 82,
+      "nimi": "Kaleva",
+      "leveysaste": 61.497579,
+      "pituusaste": 23.796011,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 83,
+      "nimi": "Kalevan kirkko",
+      "leveysaste": 61.50013,
+      "pituusaste": 23.792732,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 84,
+      "nimi": "Kalevanrinne",
+      "leveysaste": 61.494551,
+      "pituusaste": 23.8122,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 85,
+      "nimi": "Kampin keskus",
+      "leveysaste": 60.168919,
+      "pituusaste": 24.932649,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 86,
+      "nimi": "Kampin keskus",
+      "leveysaste": 60.168939,
+      "pituusaste": 24.932698,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 87,
+      "nimi": "Kamppi",
+      "leveysaste": 60.169048,
+      "pituusaste": 24.931662,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 88,
+      "nimi": "Kannelmäki",
+      "leveysaste": 60.239722,
+      "pituusaste": 24.876611,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 89,
+      "nimi": "Kannus",
+      "leveysaste": 63.898326,
+      "pituusaste": 23.914866,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 90,
+      "nimi": "Karhukallio",
+      "leveysaste": 60.218228,
+      "pituusaste": 25.048694,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 91,
+      "nimi": "Karis",
+      "leveysaste": 60.068724,
+      "pituusaste": 23.661262,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 92,
+      "nimi": "Karkku",
+      "leveysaste": 61.443314,
+      "pituusaste": 23.049129,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 93,
+      "nimi": "Kauhava",
+      "leveysaste": 63.099571,
+      "pituusaste": 23.035284,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 94,
+      "nimi": "Kauklahti",
+      "leveysaste": 60.189433,
+      "pituusaste": 24.600383,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 95,
+      "nimi": "Kauniainen",
+      "leveysaste": 60.211924,
+      "pituusaste": 24.73089,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 96,
+      "nimi": "Kaupin kampus",
+      "leveysaste": 61.504757,
+      "pituusaste": 23.821196,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 97,
+      "nimi": "Kauppamyllyntie",
+      "leveysaste": 60.214771,
+      "pituusaste": 25.058669,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 98,
+      "nimi": "Kausala",
+      "leveysaste": 60.885275,
+      "pituusaste": 26.330105,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 99,
+      "nimi": "Keilaniemi",
+      "leveysaste": 60.175648,
+      "pituusaste": 24.829476,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 100,
+      "nimi": "Keilaniemi",
+      "leveysaste": 60.177066,
+      "pituusaste": 24.830759,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 101,
+      "nimi": "Kemi",
+      "leveysaste": 65.736726,
+      "pituusaste": 24.574302,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 102,
+      "nimi": "Kemijärvi",
+      "leveysaste": 66.724181,
+      "pituusaste": 27.403846,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 103,
+      "nimi": "Kempele",
+      "leveysaste": 64.912898,
+      "pituusaste": 25.514541,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 104,
+      "nimi": "Kera",
+      "leveysaste": 60.216555,
+      "pituusaste": 24.755651,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 105,
+      "nimi": "Kerava",
+      "leveysaste": 60.404293,
+      "pituusaste": 25.106067,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 106,
+      "nimi": "Kerimäki",
+      "leveysaste": 61.861436,
+      "pituusaste": 29.114055,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 107,
+      "nimi": "Keskustori",
+      "leveysaste": 61.497616,
+      "pituusaste": 23.75922,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 108,
+      "nimi": "Kesälahti",
+      "leveysaste": 61.887467,
+      "pituusaste": 29.802862,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 109,
+      "nimi": "Keuruu",
+      "leveysaste": 62.255308,
+      "pituusaste": 24.707324,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 110,
+      "nimi": "Kiiala",
+      "leveysaste": 60.406728,
+      "pituusaste": 25.613436,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 111,
+      "nimi": "Kilo",
+      "leveysaste": 60.217917,
+      "pituusaste": 24.782406,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 112,
+      "nimi": "Kirkkonummi",
+      "leveysaste": 60.119616,
+      "pituusaste": 24.438867,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 113,
+      "nimi": "Kitee",
+      "leveysaste": 62.142774,
+      "pituusaste": 30.04902,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 114,
+      "nimi": "Kiuruvesi",
+      "leveysaste": 63.640862,
+      "pituusaste": 26.611404,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 115,
+      "nimi": "Kivenlahti",
+      "leveysaste": 60.155459,
+      "pituusaste": 24.636345,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 116,
+      "nimi": "Kivistö",
+      "leveysaste": 60.314715,
+      "pituusaste": 24.84731,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 117,
+      "nimi": "Kohtavaara",
+      "leveysaste": 63.514718,
+      "pituusaste": 29.287252,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 118,
+      "nimi": "Koivuhovi",
+      "leveysaste": 60.207012,
+      "pituusaste": 24.7023,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 119,
+      "nimi": "Koivukylä",
+      "leveysaste": 60.323607,
+      "pituusaste": 25.060378,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 120,
+      "nimi": "Koivusaari",
+      "leveysaste": 60.163564,
+      "pituusaste": 24.853767,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 121,
+      "nimi": "Kokemäki",
+      "leveysaste": 61.254199,
+      "pituusaste": 22.303351,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 122,
+      "nimi": "Kokkola",
+      "leveysaste": 63.834662,
+      "pituusaste": 23.131541,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 123,
+      "nimi": "Kolari",
+      "leveysaste": 67.349009,
+      "pituusaste": 23.836069,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 124,
+      "nimi": "Kolarin rautatieasema",
+      "leveysaste": 67.34899,
+      "pituusaste": 23.835435,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 125,
+      "nimi": "Kolarin rautatieasema",
+      "leveysaste": 67.34899,
+      "pituusaste": 23.835466,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 126,
+      "nimi": "Kolho",
+      "leveysaste": 62.128049,
+      "pituusaste": 24.507444,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 127,
+      "nimi": "Kontiomäki",
+      "leveysaste": 64.338264,
+      "pituusaste": 28.114337,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 128,
+      "nimi": "Kontula",
+      "leveysaste": 60.235952,
+      "pituusaste": 25.083632,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 129,
+      "nimi": "Koria",
+      "leveysaste": 60.847082,
+      "pituusaste": 26.601281,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 130,
+      "nimi": "Korso",
+      "leveysaste": 60.35148,
+      "pituusaste": 25.078796,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 131,
+      "nimi": "Koskipuisto",
+      "leveysaste": 61.498141,
+      "pituusaste": 23.766419,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 132,
+      "nimi": "Kotka",
+      "leveysaste": 60.464676,
+      "pituusaste": 26.927431,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 133,
+      "nimi": "Kotka satama",
+      "leveysaste": 60.46836,
+      "pituusaste": 26.93941,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 134,
+      "nimi": "Kouvola",
+      "leveysaste": 60.865615,
+      "pituusaste": 26.704584,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 135,
+      "nimi": "Kouvolan matkakeskus",
+      "leveysaste": 60.866245,
+      "pituusaste": 26.704835,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 136,
+      "nimi": "Kouvolan matkakeskus",
+      "leveysaste": 60.866249,
+      "pituusaste": 26.704891,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 137,
+      "nimi": "Kulosaari",
+      "leveysaste": 60.188836,
+      "pituusaste": 25.008119,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 138,
+      "nimi": "Kuopio",
+      "leveysaste": 62.897323,
+      "pituusaste": 27.68117,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 139,
+      "nimi": "Kuopion matkakeskus",
+      "leveysaste": 62.897941,
+      "pituusaste": 27.680971,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 140,
+      "nimi": "Kuopion matkakeskus",
+      "leveysaste": 62.897946,
+      "pituusaste": 27.680969,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 141,
+      "nimi": "Kupittaa",
+      "leveysaste": 60.450274,
+      "pituusaste": 22.297115,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 142,
+      "nimi": "Kustaankartano",
+      "leveysaste": 60.229984,
+      "pituusaste": 24.947137,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 143,
+      "nimi": "Kutomotie",
+      "leveysaste": 60.215072,
+      "pituusaste": 24.876325,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 144,
+      "nimi": "Kylänlahti",
+      "leveysaste": 63.361416,
+      "pituusaste": 29.752628,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 145,
+      "nimi": "Kymi",
+      "leveysaste": 60.539227,
+      "pituusaste": 26.90714,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 146,
+      "nimi": "Kyminlinna",
+      "leveysaste": 60.50826,
+      "pituusaste": 26.89581,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 147,
+      "nimi": "Käpylä",
+      "leveysaste": 60.220157,
+      "pituusaste": 24.946061,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 148,
+      "nimi": "Laajalahti",
+      "leveysaste": 60.20538,
+      "pituusaste": 24.808497,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 149,
+      "nimi": "Lahdenpohja",
+      "leveysaste": 60.199126,
+      "pituusaste": 24.809676,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 150,
+      "nimi": "Lahti",
+      "leveysaste": 60.976363,
+      "pituusaste": 25.6574,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 151,
+      "nimi": "Lapinlahti",
+      "leveysaste": 63.360693,
+      "pituusaste": 27.39373,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 152,
+      "nimi": "Lappeenranta",
+      "leveysaste": 61.048061,
+      "pituusaste": 28.195169,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 153,
+      "nimi": "Lappila",
+      "leveysaste": 60.848954,
+      "pituusaste": 25.174225,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 154,
+      "nimi": "Lappohja",
+      "leveysaste": 59.904082,
+      "pituusaste": 23.236919,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 155,
+      "nimi": "Lapua",
+      "leveysaste": 62.971283,
+      "pituusaste": 23.014293,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 156,
+      "nimi": "Latokartano",
+      "leveysaste": 60.22357,
+      "pituusaste": 25.021845,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 157,
+      "nimi": "Lauttasaari",
+      "leveysaste": 60.159463,
+      "pituusaste": 24.878706,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 158,
+      "nimi": "Leinelä",
+      "leveysaste": 60.322504,
+      "pituusaste": 25.040018,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 159,
+      "nimi": "Lempäälä",
+      "leveysaste": 61.31424,
+      "pituusaste": 23.754997,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 160,
+      "nimi": "Lentoasema",
+      "leveysaste": 60.315753,
+      "pituusaste": 24.968557,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 161,
+      "nimi": "Lentävänniemi",
+      "leveysaste": 61.526754,
+      "pituusaste": 23.702018,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 162,
+      "nimi": "Leppävaara",
+      "leveysaste": 60.219361,
+      "pituusaste": 24.813519,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 163,
+      "nimi": "Leppävaaran asema",
+      "leveysaste": 60.217841,
+      "pituusaste": 24.813815,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 164,
+      "nimi": "Lieksa",
+      "leveysaste": 63.318416,
+      "pituusaste": 30.015544,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 165,
+      "nimi": "Linnoitustie",
+      "leveysaste": 60.210241,
+      "pituusaste": 24.812055,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 166,
+      "nimi": "Loimaa",
+      "leveysaste": 60.847387,
+      "pituusaste": 23.060343,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 167,
+      "nimi": "Louhela",
+      "leveysaste": 60.270868,
+      "pituusaste": 24.853408,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 168,
+      "nimi": "Lusto",
+      "leveysaste": 61.800622,
+      "pituusaste": 29.321926,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 169,
+      "nimi": "Maari",
+      "leveysaste": 60.187375,
+      "pituusaste": 24.81173,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 170,
+      "nimi": "Mall of Tripla",
+      "leveysaste": 60.198467,
+      "pituusaste": 24.931366,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 171,
+      "nimi": "Malmi",
+      "leveysaste": 60.25095,
+      "pituusaste": 25.01076,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 172,
+      "nimi": "Malminkartano",
+      "leveysaste": 60.249384,
+      "pituusaste": 24.861249,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 173,
+      "nimi": "Martinlaakso",
+      "leveysaste": 60.278078,
+      "pituusaste": 24.852753,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 174,
+      "nimi": "Masala",
+      "leveysaste": 60.158656,
+      "pituusaste": 24.539142,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 175,
+      "nimi": "Matinkylä",
+      "leveysaste": 60.15968,
+      "pituusaste": 24.739126,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 176,
+      "nimi": "Maunula",
+      "leveysaste": 60.231518,
+      "pituusaste": 24.934243,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 177,
+      "nimi": "Mellunmäki",
+      "leveysaste": 60.239198,
+      "pituusaste": 25.111153,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 178,
+      "nimi": "Mikkeli",
+      "leveysaste": 61.687818,
+      "pituusaste": 27.277967,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 179,
+      "nimi": "Mikkelin rautatieasema",
+      "leveysaste": 61.687852,
+      "pituusaste": 27.277584,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 180,
+      "nimi": "Misi",
+      "leveysaste": 66.617873,
+      "pituusaste": 26.687016,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 181,
+      "nimi": "Mommila",
+      "leveysaste": 60.822993,
+      "pituusaste": 25.08003,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 182,
+      "nimi": "Muhos",
+      "leveysaste": 64.805386,
+      "pituusaste": 25.991931,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 183,
+      "nimi": "Muurola",
+      "leveysaste": 66.370808,
+      "pituusaste": 25.37503,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 184,
+      "nimi": "Myllykoski",
+      "leveysaste": 60.771009,
+      "pituusaste": 26.786649,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 185,
+      "nimi": "Myllymäki",
+      "leveysaste": 62.524812,
+      "pituusaste": 24.280779,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 186,
+      "nimi": "Myllypuro",
+      "leveysaste": 60.22501,
+      "pituusaste": 25.075749,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 187,
+      "nimi": "Myyrmäki",
+      "leveysaste": 60.261238,
+      "pituusaste": 24.854782,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 188,
+      "nimi": "Mäkkylä",
+      "leveysaste": 60.221245,
+      "pituusaste": 24.843099,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 189,
+      "nimi": "Mäntsälä",
+      "leveysaste": 60.647259,
+      "pituusaste": 25.307476,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 190,
+      "nimi": "Mäntyharju",
+      "leveysaste": 61.421104,
+      "pituusaste": 26.881745,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 191,
+      "nimi": "Naantalin satama",
+      "leveysaste": 60.457954,
+      "pituusaste": 22.043458,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 192,
+      "nimi": "Nastola",
+      "leveysaste": 60.93557,
+      "pituusaste": 25.935472,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 193,
+      "nimi": "Niemen kartano",
+      "leveysaste": 61.520727,
+      "pituusaste": 23.684136,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 194,
+      "nimi": "Niemenranta",
+      "leveysaste": 61.522544,
+      "pituusaste": 23.695363,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 195,
+      "nimi": "Niittykumpu",
+      "leveysaste": 60.170364,
+      "pituusaste": 24.763017,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 196,
+      "nimi": "Nivala",
+      "leveysaste": 63.936449,
+      "pituusaste": 24.960615,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 197,
+      "nimi": "Nokia",
+      "leveysaste": 61.481059,
+      "pituusaste": 23.499171,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 198,
+      "nimi": "Nurmes",
+      "leveysaste": 63.540982,
+      "pituusaste": 29.137686,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 199,
+      "nimi": "Oitti",
+      "leveysaste": 60.789811,
+      "pituusaste": 25.021286,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 200,
+      "nimi": "Opiskelija",
+      "leveysaste": 61.45423,
+      "pituusaste": 23.846852,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 201,
+      "nimi": "Orivesi",
+      "leveysaste": 61.650096,
+      "pituusaste": 24.368051,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 202,
+      "nimi": "Orivesi keskusta",
+      "leveysaste": 61.673905,
+      "pituusaste": 24.369837,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 203,
+      "nimi": "Otaranta",
+      "leveysaste": 60.180858,
+      "pituusaste": 24.834258,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 204,
+      "nimi": "Oulainen",
+      "leveysaste": 64.269414,
+      "pituusaste": 24.821114,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 205,
+      "nimi": "Oulu",
+      "leveysaste": 65.011332,
+      "pituusaste": 25.484336,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 206,
+      "nimi": "Oulunkylä",
+      "leveysaste": 60.228096,
+      "pituusaste": 24.966476,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 207,
+      "nimi": "Oulunkylän asema",
+      "leveysaste": 60.22879,
+      "pituusaste": 24.968431,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 208,
+      "nimi": "Oulunkylän keskusta",
+      "leveysaste": 60.228814,
+      "pituusaste": 24.96414,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 209,
+      "nimi": "Paimenportti",
+      "leveysaste": 60.479685,
+      "pituusaste": 26.919372,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 210,
+      "nimi": "Paltamo",
+      "leveysaste": 64.400635,
+      "pituusaste": 27.822267,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 211,
+      "nimi": "Parikkala",
+      "leveysaste": 61.558576,
+      "pituusaste": 29.503079,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 212,
+      "nimi": "Parkano",
+      "leveysaste": 62.051966,
+      "pituusaste": 23.078442,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 213,
+      "nimi": "Parkanon rautatieasema",
+      "leveysaste": 62.051963,
+      "pituusaste": 23.077795,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 214,
+      "nimi": "Parkanon rautatieasema",
+      "leveysaste": 62.051964,
+      "pituusaste": 23.07781,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 215,
+      "nimi": "Parola",
+      "leveysaste": 61.049964,
+      "pituusaste": 24.366592,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 216,
+      "nimi": "Pasila",
+      "leveysaste": 60.198678,
+      "pituusaste": 24.933422,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 217,
+      "nimi": "Pasila autojuna-asema",
+      "leveysaste": 60.206189,
+      "pituusaste": 24.931725,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 218,
+      "nimi": "Pello",
+      "leveysaste": 66.78465,
+      "pituusaste": 23.993396,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 219,
+      "nimi": "Perkkaa",
+      "leveysaste": 60.217337,
+      "pituusaste": 24.823003,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 220,
+      "nimi": "Petäjävesi",
+      "leveysaste": 62.256974,
+      "pituusaste": 25.18933,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 221,
+      "nimi": "Pieksämäki",
+      "leveysaste": 62.301252,
+      "pituusaste": 27.167527,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 222,
+      "nimi": "Pihlajavesi",
+      "leveysaste": 62.346082,
+      "pituusaste": 24.395656,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 223,
+      "nimi": "Pirjontie",
+      "leveysaste": 60.234056,
+      "pituusaste": 24.930008,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 224,
+      "nimi": "Pirkkola",
+      "leveysaste": 60.230723,
+      "pituusaste": 24.91995,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 225,
+      "nimi": "Pitäjänmäki",
+      "leveysaste": 60.223374,
+      "pituusaste": 24.859633,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 226,
+      "nimi": "Pohjois-Haaga",
+      "leveysaste": 60.23038,
+      "pituusaste": 24.883524,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 227,
+      "nimi": "Pohjois-Hervanta",
+      "leveysaste": 61.457326,
+      "pituusaste": 23.845398,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 228,
+      "nimi": "PohjoisExpress ala-asema",
+      "leveysaste": 67.036125,
+      "pituusaste": 27.223795,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 229,
+      "nimi": "PohjoisExpress ala-asema",
+      "leveysaste": 67.036152,
+      "pituusaste": 27.223796,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 230,
+      "nimi": "PohjoisExpress ala-asema",
+      "leveysaste": 67.036168,
+      "pituusaste": 27.223811,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 231,
+      "nimi": "PohjoisExpress yläasema",
+      "leveysaste": 67.024404,
+      "pituusaste": 27.223429,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 232,
+      "nimi": "PohjoisExpress yläasema",
+      "leveysaste": 67.024424,
+      "pituusaste": 27.223408,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 233,
+      "nimi": "PohjoisExpress yläasema",
+      "leveysaste": 67.024451,
+      "pituusaste": 27.223409,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 234,
+      "nimi": "Pohjoisrinteen hissi yläasema",
+      "leveysaste": 67.024283,
+      "pituusaste": 27.223654,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 235,
+      "nimi": "Pori",
+      "leveysaste": 61.477212,
+      "pituusaste": 21.786612,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 236,
+      "nimi": "Porvoo",
+      "leveysaste": 60.396661,
+      "pituusaste": 25.648133,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 237,
+      "nimi": "Puistola",
+      "leveysaste": 60.275618,
+      "pituusaste": 25.036552,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 238,
+      "nimi": "Pukinmäki",
+      "leveysaste": 60.242232,
+      "pituusaste": 24.993824,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 239,
+      "nimi": "Punkaharju",
+      "leveysaste": 61.761151,
+      "pituusaste": 29.382353,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 240,
+      "nimi": "Puotila",
+      "leveysaste": 60.214712,
+      "pituusaste": 25.093078,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 241,
+      "nimi": "Puotilan metroasema",
+      "leveysaste": 60.214589,
+      "pituusaste": 25.094694,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 242,
+      "nimi": "Puotilan metroasema",
+      "leveysaste": 60.214599,
+      "pituusaste": 25.094722,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 243,
+      "nimi": "Puotilan metroasema",
+      "leveysaste": 60.214764,
+      "pituusaste": 25.091439,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 244,
+      "nimi": "Puotilan metroasema",
+      "leveysaste": 60.214768,
+      "pituusaste": 25.091435,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 245,
+      "nimi": "PyhäExpress ala-asema",
+      "leveysaste": 67.022529,
+      "pituusaste": 27.249632,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 246,
+      "nimi": "PyhäExpress yläasema",
+      "leveysaste": 67.024274,
+      "pituusaste": 27.224972,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 247,
+      "nimi": "Pyhällönpuisto",
+      "leveysaste": 61.529143,
+      "pituusaste": 23.704334,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 248,
+      "nimi": "Pyhäsalmi",
+      "leveysaste": 63.682917,
+      "pituusaste": 25.982527,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 249,
+      "nimi": "Pyynikintori",
+      "leveysaste": 61.497906,
+      "pituusaste": 23.741999,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 250,
+      "nimi": "Pääskylahti",
+      "leveysaste": 61.863142,
+      "pituusaste": 28.918439,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 251,
+      "nimi": "Rastila",
+      "leveysaste": 60.205363,
+      "pituusaste": 25.121578,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 252,
+      "nimi": "Rastilan metroasema",
+      "leveysaste": 60.205643,
+      "pituusaste": 25.120077,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 253,
+      "nimi": "Rastilan metroasema",
+      "leveysaste": 60.205649,
+      "pituusaste": 25.120076,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 254,
+      "nimi": "Rautatieasema",
+      "leveysaste": 61.498453,
+      "pituusaste": 23.770772,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 255,
+      "nimi": "Rautatientori",
+      "leveysaste": 60.170384,
+      "pituusaste": 24.939846,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 256,
+      "nimi": "Ravitie",
+      "leveysaste": 60.219106,
+      "pituusaste": 24.847713,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 257,
+      "nimi": "Rekola",
+      "leveysaste": 60.332297,
+      "pituusaste": 25.068333,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 258,
+      "nimi": "Retretti",
+      "leveysaste": 61.803287,
+      "pituusaste": 29.294173,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 259,
+      "nimi": "Riihimäki",
+      "leveysaste": 60.736078,
+      "pituusaste": 24.781242,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 260,
+      "nimi": "Roihupelto",
+      "leveysaste": 60.209383,
+      "pituusaste": 25.05904,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 261,
+      "nimi": "Rovaniemi",
+      "leveysaste": 66.498013,
+      "pituusaste": 25.704967,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 262,
+      "nimi": "Ruka Valley",
+      "leveysaste": 66.170455,
+      "pituusaste": 29.169255,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 263,
+      "nimi": "Ruka Village",
+      "leveysaste": 66.167553,
+      "pituusaste": 29.140962,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 264,
+      "nimi": "Runni",
+      "leveysaste": 63.602056,
+      "pituusaste": 26.886523,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 265,
+      "nimi": "Ruoholahti",
+      "leveysaste": 60.163201,
+      "pituusaste": 24.915562,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 266,
+      "nimi": "Ruukki",
+      "leveysaste": 64.660404,
+      "pituusaste": 25.098318,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 267,
+      "nimi": "Ryttylä",
+      "leveysaste": 60.818049,
+      "pituusaste": 24.758187,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 268,
+      "nimi": "Saarua Top",
+      "leveysaste": 66.168995,
+      "pituusaste": 29.155118,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 269,
+      "nimi": "Salmisen rautatieasema",
+      "leveysaste": 62.67632,
+      "pituusaste": 27.285738,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 270,
+      "nimi": "Salmisen rautatieasema",
+      "leveysaste": 62.676346,
+      "pituusaste": 27.285754,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 271,
+      "nimi": "Salo",
+      "leveysaste": 60.384797,
+      "pituusaste": 23.121525,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 272,
+      "nimi": "Sammonaukio",
+      "leveysaste": 61.499009,
+      "pituusaste": 23.786118,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 273,
+      "nimi": "Santala",
+      "leveysaste": 59.875008,
+      "pituusaste": 23.121051,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 274,
+      "nimi": "Santalahti",
+      "leveysaste": 61.505693,
+      "pituusaste": 23.715402,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 275,
+      "nimi": "Saunakallio",
+      "leveysaste": 60.487304,
+      "pituusaste": 25.065565,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 276,
+      "nimi": "Savio",
+      "leveysaste": 60.380418,
+      "pituusaste": 25.097727,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 277,
+      "nimi": "Savonlinna",
+      "leveysaste": 61.868907,
+      "pituusaste": 28.88829,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 278,
+      "nimi": "Seinäjoen Asematalo",
+      "leveysaste": 62.791116,
+      "pituusaste": 22.845193,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 279,
+      "nimi": "Seinäjoen Asematalo",
+      "leveysaste": 62.791135,
+      "pituusaste": 22.845151,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 280,
+      "nimi": "Seinäjoki",
+      "leveysaste": 62.792281,
+      "pituusaste": 22.84383,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 281,
+      "nimi": "Siilinjärvi",
+      "leveysaste": 63.075057,
+      "pituusaste": 27.66655,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 282,
+      "nimi": "Siilitie",
+      "leveysaste": 60.205252,
+      "pituusaste": 25.044014,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 283,
+      "nimi": "Simpele",
+      "leveysaste": 61.424791,
+      "pituusaste": 29.371491,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 284,
+      "nimi": "Siuntio",
+      "leveysaste": 60.140595,
+      "pituusaste": 24.221456,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 285,
+      "nimi": "Skogby",
+      "leveysaste": 59.926668,
+      "pituusaste": 23.312403,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 286,
+      "nimi": "Sorin aukio",
+      "leveysaste": 61.494879,
+      "pituusaste": 23.769614,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 287,
+      "nimi": "Soukka",
+      "leveysaste": 60.141536,
+      "pituusaste": 24.669855,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 288,
+      "nimi": "Sukeva",
+      "leveysaste": 63.86473,
+      "pituusaste": 27.422443,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 289,
+      "nimi": "Suonenjoki",
+      "leveysaste": 62.623765,
+      "pituusaste": 27.124875,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 290,
+      "nimi": "Särkänniemi",
+      "leveysaste": 61.500649,
+      "pituusaste": 23.737299,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 291,
+      "nimi": "Sörnäinen",
+      "leveysaste": 60.186559,
+      "pituusaste": 24.959083,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 292,
+      "nimi": "TAYS",
+      "leveysaste": 61.503925,
+      "pituusaste": 23.812124,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 293,
+      "nimi": "Takomotie",
+      "leveysaste": 60.217089,
+      "pituusaste": 24.870319,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 294,
+      "nimi": "Talin siirtolapuutarha",
+      "leveysaste": 60.219903,
+      "pituusaste": 24.862672,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 295,
+      "nimi": "Tampere",
+      "leveysaste": 61.498237,
+      "pituusaste": 23.773858,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 296,
+      "nimi": "Tampereen rautatieasema",
+      "leveysaste": 61.498516,
+      "pituusaste": 23.773068,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 297,
+      "nimi": "Tampereen rautatieasema",
+      "leveysaste": 61.498529,
+      "pituusaste": 23.773073,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 298,
+      "nimi": "Tapanila",
+      "leveysaste": 60.262463,
+      "pituusaste": 25.028561,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 299,
+      "nimi": "Tapiola",
+      "leveysaste": 60.175022,
+      "pituusaste": 24.803818,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 300,
+      "nimi": "Tavastila",
+      "leveysaste": 60.57331,
+      "pituusaste": 26.954764,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 301,
+      "nimi": "Tehdas",
+      "leveysaste": 61.517167,
+      "pituusaste": 23.68197,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 302,
+      "nimi": "Teininpuisto",
+      "leveysaste": 60.231983,
+      "pituusaste": 24.956647,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 303,
+      "nimi": "Tervajoki",
+      "leveysaste": 63.000853,
+      "pituusaste": 22.170938,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 304,
+      "nimi": "Tervola",
+      "leveysaste": 66.081676,
+      "pituusaste": 24.77216,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 305,
+      "nimi": "Tesoma",
+      "leveysaste": 61.503363,
+      "pituusaste": 23.630271,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 306,
+      "nimi": "Tikkurila",
+      "leveysaste": 60.292752,
+      "pituusaste": 25.044616,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 307,
+      "nimi": "Tikkutehdas",
+      "leveysaste": 61.503723,
+      "pituusaste": 23.722202,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 308,
+      "nimi": "Toijala",
+      "leveysaste": 61.17061,
+      "pituusaste": 23.860907,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 309,
+      "nimi": "Tolsa",
+      "leveysaste": 60.118547,
+      "pituusaste": 24.47274,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 310,
+      "nimi": "Tornio-Itäinen",
+      "leveysaste": 65.850826,
+      "pituusaste": 24.18481,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 311,
+      "nimi": "Tulli",
+      "leveysaste": 61.498887,
+      "pituusaste": 23.778797,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 312,
+      "nimi": "Tuomarila",
+      "leveysaste": 60.206039,
+      "pituusaste": 24.681767,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 313,
+      "nimi": "Turenki",
+      "leveysaste": 60.918368,
+      "pituusaste": 24.638554,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 314,
+      "nimi": "Turku",
+      "leveysaste": 60.456564,
+      "pituusaste": 22.260756,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 315,
+      "nimi": "Turku satama",
+      "leveysaste": 60.434197,
+      "pituusaste": 22.226885,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 316,
+      "nimi": "Turtola",
+      "leveysaste": 61.477775,
+      "pituusaste": 23.832455,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 317,
+      "nimi": "Turun lentoasema",
+      "leveysaste": 60.512599,
+      "pituusaste": 22.268789,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 318,
+      "nimi": "Tuulensuu",
+      "leveysaste": 61.497243,
+      "pituusaste": 23.754121,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 319,
+      "nimi": "Tuuri",
+      "leveysaste": 62.60535,
+      "pituusaste": 23.722366,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 320,
+      "nimi": "Uimaharju",
+      "leveysaste": 62.912507,
+      "pituusaste": 30.24148,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 321,
+      "nimi": "Uintikeskus",
+      "leveysaste": 61.496164,
+      "pituusaste": 23.804502,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 322,
+      "nimi": "Urheilupuisto",
+      "leveysaste": 60.174559,
+      "pituusaste": 24.781082,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 323,
+      "nimi": "Utajärvi",
+      "leveysaste": 64.758882,
+      "pituusaste": 26.413605,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 324,
+      "nimi": "Uusikylä",
+      "leveysaste": 60.927712,
+      "pituusaste": 25.994433,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 325,
+      "nimi": "Vaala",
+      "leveysaste": 64.557996,
+      "pituusaste": 26.842583,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 326,
+      "nimi": "Vaasa",
+      "leveysaste": 63.097777,
+      "pituusaste": 21.621968,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 327,
+      "nimi": "Vaasan Matkakeskus - Rautatieasema",
+      "leveysaste": 63.097543,
+      "pituusaste": 21.621649,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 328,
+      "nimi": "Vaasan Matkakeskus - Rautatieasema",
+      "leveysaste": 63.09756,
+      "pituusaste": 21.621579,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 329,
+      "nimi": "Vainikkala",
+      "leveysaste": 60.863476,
+      "pituusaste": 28.304925,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 330,
+      "nimi": "Valimo",
+      "leveysaste": 60.222029,
+      "pituusaste": 24.875826,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 331,
+      "nimi": "Vammala",
+      "leveysaste": 61.349519,
+      "pituusaste": 22.887664,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 332,
+      "nimi": "Vanha yläasema",
+      "leveysaste": 62.257207,
+      "pituusaste": 25.683086,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 333,
+      "nimi": "Vanha yläasema",
+      "leveysaste": 62.257217,
+      "pituusaste": 25.683091,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 334,
+      "nimi": "Vantaankoski",
+      "leveysaste": 60.285945,
+      "pituusaste": 24.848119,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 335,
+      "nimi": "Varkauden Matkakeskus",
+      "leveysaste": 62.312457,
+      "pituusaste": 27.87392,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 336,
+      "nimi": "Varkauden Matkakeskus",
+      "leveysaste": 62.312466,
+      "pituusaste": 27.873866,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 337,
+      "nimi": "Varkaus",
+      "leveysaste": 62.312288,
+      "pituusaste": 27.873741,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 338,
+      "nimi": "Vehkala",
+      "leveysaste": 60.295293,
+      "pituusaste": 24.843761,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 339,
+      "nimi": "Vermo",
+      "leveysaste": 60.216961,
+      "pituusaste": 24.832463,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 340,
+      "nimi": "Veräjämäki",
+      "leveysaste": 60.231097,
+      "pituusaste": 24.97918,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 341,
+      "nimi": "Vihanti",
+      "leveysaste": 64.48452,
+      "pituusaste": 24.993633,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 342,
+      "nimi": "Vihdintie",
+      "leveysaste": 60.214682,
+      "pituusaste": 24.886778,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 343,
+      "nimi": "Vihtari",
+      "leveysaste": 62.380739,
+      "pituusaste": 29.029284,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 344,
+      "nimi": "Viiala",
+      "leveysaste": 61.21263,
+      "pituusaste": 23.770086,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 345,
+      "nimi": "Viikin tiedepuisto",
+      "leveysaste": 60.227131,
+      "pituusaste": 25.012072,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 346,
+      "nimi": "Viikinmäki",
+      "leveysaste": 60.229825,
+      "pituusaste": 24.998803,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 347,
+      "nimi": "Viinijärvi",
+      "leveysaste": 62.641676,
+      "pituusaste": 29.237145,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 348,
+      "nimi": "Village Express ala-asema",
+      "leveysaste": 66.167155,
+      "pituusaste": 29.142583,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 349,
+      "nimi": "Villähde",
+      "leveysaste": 60.946602,
+      "pituusaste": 25.825613,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 350,
+      "nimi": "Vilppula",
+      "leveysaste": 62.025888,
+      "pituusaste": 24.506956,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 351,
+      "nimi": "Vuonislahti",
+      "leveysaste": 63.152787,
+      "pituusaste": 29.993248,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 352,
+      "nimi": "Vuosaari",
+      "leveysaste": 60.207193,
+      "pituusaste": 25.142487,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 353,
+      "nimi": "Västerhamn",
+      "leveysaste": 60.092205,
+      "pituusaste": 19.928512,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 354,
+      "nimi": "Västerhamn",
+      "leveysaste": 60.092235,
+      "pituusaste": 19.92849,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 355,
+      "nimi": "Ylitornio",
+      "leveysaste": 66.324444,
+      "pituusaste": 23.682503,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 356,
+      "nimi": "Ylivieska",
+      "leveysaste": 64.071954,
+      "pituusaste": 24.540651,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    },
+    {
+      "id": 357,
+      "nimi": "Ähtäri",
+      "leveysaste": 62.553378,
+      "pituusaste": 24.063613,
+      "osm_avain": "public_transport",
+      "osm_arvo": "station",
+      "osm_luokka": "public_transport=station"
+    }
+  ],
+  "meta": {
+    "title": "Joukkoliikenneasemat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Joukkoliikenneasemat Suomessa — 357 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `public_transport=station`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 357 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Joukkoliikenneasemat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Joukkoliikenneasemat – Suomi (OpenStreetMap) — 357 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 357 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

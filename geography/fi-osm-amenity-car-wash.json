@@ -1,0 +1,4075 @@
+{
+  "id": "fi-osm-amenity-car-wash",
+  "name": "Autopesulat – Suomi (OpenStreetMap)",
+  "title": "Autopesulat – Suomi (OpenStreetMap)",
+  "description": "Autopesulat Suomessa — 446 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=car_wash`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 48. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 446,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "24h Autopesula",
+      "leveysaste": 60.494961,
+      "pituusaste": 22.225575,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 2,
+      "nimi": "75-Pesu",
+      "leveysaste": 63.553713,
+      "pituusaste": 29.102522,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 3,
+      "nimi": "75-Pesu",
+      "leveysaste": 63.553751,
+      "pituusaste": 29.102523,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 4,
+      "nimi": "A-tomaatti",
+      "leveysaste": 60.822316,
+      "pituusaste": 25.730158,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 5,
+      "nimi": "A-tomaatti",
+      "leveysaste": 60.933837,
+      "pituusaste": 25.62745,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 6,
+      "nimi": "A1 Autocom Oy",
+      "leveysaste": 60.473106,
+      "pituusaste": 22.312332,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 7,
+      "nimi": "ABC",
+      "leveysaste": 61.657548,
+      "pituusaste": 23.182148,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 8,
+      "nimi": "ABC",
+      "leveysaste": 61.657569,
+      "pituusaste": 23.182075,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 9,
+      "nimi": "ABC -autopesula",
+      "leveysaste": 60.501798,
+      "pituusaste": 26.870183,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 10,
+      "nimi": "ABC Autopesu",
+      "leveysaste": 60.252785,
+      "pituusaste": 24.77584,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 11,
+      "nimi": "ABC Autopesu",
+      "leveysaste": 60.252795,
+      "pituusaste": 24.775831,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 12,
+      "nimi": "ABC Autopesu",
+      "leveysaste": 60.393621,
+      "pituusaste": 24.990067,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 13,
+      "nimi": "ABC Autopesu",
+      "leveysaste": 60.393634,
+      "pituusaste": 24.990057,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 14,
+      "nimi": "ABC Autopesu",
+      "leveysaste": 62.487866,
+      "pituusaste": 21.741032,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 15,
+      "nimi": "ABC Autopesu Tynniharju",
+      "leveysaste": 60.225015,
+      "pituusaste": 24.025457,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 16,
+      "nimi": "ABC Autopesu Tynniharju",
+      "leveysaste": 60.225042,
+      "pituusaste": 24.02546,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 17,
+      "nimi": "ABC Autopesu Vaarala",
+      "leveysaste": 60.266841,
+      "pituusaste": 25.100168,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 18,
+      "nimi": "ABC Autopesu Vaarala",
+      "leveysaste": 60.266853,
+      "pituusaste": 25.100207,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 19,
+      "nimi": "ABC Car Wash",
+      "leveysaste": 60.235849,
+      "pituusaste": 24.88998,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 20,
+      "nimi": "ABC Car Wash",
+      "leveysaste": 60.343811,
+      "pituusaste": 25.102971,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 21,
+      "nimi": "ABC Car Wash",
+      "leveysaste": 61.131567,
+      "pituusaste": 21.51055,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 22,
+      "nimi": "ABC Car Wash",
+      "leveysaste": 61.131595,
+      "pituusaste": 21.510554,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 23,
+      "nimi": "ABC CarWash",
+      "leveysaste": 60.490109,
+      "pituusaste": 22.206657,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 24,
+      "nimi": "ABC CarWash",
+      "leveysaste": 63.052749,
+      "pituusaste": 21.718421,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 25,
+      "nimi": "ABC CarWash",
+      "leveysaste": 64.062211,
+      "pituusaste": 24.559057,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 26,
+      "nimi": "ABC CarWash",
+      "leveysaste": 64.062231,
+      "pituusaste": 24.559059,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 27,
+      "nimi": "ABC CarWash Jukola",
+      "leveysaste": 60.985504,
+      "pituusaste": 24.415879,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 28,
+      "nimi": "ABC CarWash Kirkkonummi",
+      "leveysaste": 60.117123,
+      "pituusaste": 24.448876,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 29,
+      "nimi": "ABC CarWash Kirkkonummi",
+      "leveysaste": 60.11715,
+      "pituusaste": 24.448891,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 30,
+      "nimi": "ABC CarWash Nihtisilta",
+      "leveysaste": 60.207027,
+      "pituusaste": 24.75037,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 31,
+      "nimi": "ABC CarWash Nihtisilta",
+      "leveysaste": 60.207051,
+      "pituusaste": 24.75041,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 32,
+      "nimi": "ABC CarWash Niittykumpu",
+      "leveysaste": 60.170892,
+      "pituusaste": 24.777155,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 33,
+      "nimi": "ABC CarWash Prisma Riihimäki",
+      "leveysaste": 60.731453,
+      "pituusaste": 24.776899,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 34,
+      "nimi": "ABC CarWash Ritaharju",
+      "leveysaste": 65.080375,
+      "pituusaste": 25.447538,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 35,
+      "nimi": "ABC CarWash Ritaharju",
+      "leveysaste": 65.080387,
+      "pituusaste": 25.447513,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 36,
+      "nimi": "ABC CarWash S-market Vaajala Jyväskylä",
+      "leveysaste": 62.246679,
+      "pituusaste": 25.874567,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 37,
+      "nimi": "ABC CarWash S-market Vaajala Jyväskylä",
+      "leveysaste": 62.246695,
+      "pituusaste": 25.874585,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 38,
+      "nimi": "ABC CarWash Tammisaari",
+      "leveysaste": 59.979228,
+      "pituusaste": 23.440293,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 39,
+      "nimi": "ABC CarWash Tammisaari",
+      "leveysaste": 59.979243,
+      "pituusaste": 23.440242,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 40,
+      "nimi": "ABC Carwash",
+      "leveysaste": 60.323949,
+      "pituusaste": 25.023483,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 41,
+      "nimi": "ABC Carwash",
+      "leveysaste": 60.332254,
+      "pituusaste": 24.3208,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 42,
+      "nimi": "ABC Carwash",
+      "leveysaste": 60.332266,
+      "pituusaste": 24.320747,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 43,
+      "nimi": "ABC Carwash",
+      "leveysaste": 60.960773,
+      "pituusaste": 25.657872,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 44,
+      "nimi": "ABC Carwash",
+      "leveysaste": 60.989542,
+      "pituusaste": 25.51524,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 45,
+      "nimi": "ABC Carwash",
+      "leveysaste": 61.007739,
+      "pituusaste": 25.678926,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 46,
+      "nimi": "ABC Carwash",
+      "leveysaste": 61.04581,
+      "pituusaste": 28.206898,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 47,
+      "nimi": "ABC Carwash",
+      "leveysaste": 61.426082,
+      "pituusaste": 21.871179,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 48,
+      "nimi": "ABC Carwash",
+      "leveysaste": 61.426091,
+      "pituusaste": 21.871195,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 49,
+      "nimi": "ABC Carwash",
+      "leveysaste": 62.315249,
+      "pituusaste": 27.85869,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 50,
+      "nimi": "ABC Carwash",
+      "leveysaste": 62.804515,
+      "pituusaste": 22.876795,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 51,
+      "nimi": "ABC Carwash",
+      "leveysaste": 62.804523,
+      "pituusaste": 22.876788,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 52,
+      "nimi": "ABC Carwash",
+      "leveysaste": 63.090509,
+      "pituusaste": 23.060431,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 53,
+      "nimi": "ABC Carwash",
+      "leveysaste": 63.090519,
+      "pituusaste": 23.060511,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 54,
+      "nimi": "ABC Carwash",
+      "leveysaste": 63.111787,
+      "pituusaste": 21.651442,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 55,
+      "nimi": "ABC Carwash",
+      "leveysaste": 63.111796,
+      "pituusaste": 21.65142,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 56,
+      "nimi": "ABC Carwash",
+      "leveysaste": 64.140845,
+      "pituusaste": 25.366099,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 57,
+      "nimi": "ABC Carwash",
+      "leveysaste": 64.666328,
+      "pituusaste": 24.484864,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 58,
+      "nimi": "ABC Carwash",
+      "leveysaste": 64.991576,
+      "pituusaste": 25.463764,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 59,
+      "nimi": "ABC Carwash Karjaa",
+      "leveysaste": 60.054799,
+      "pituusaste": 23.647831,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 60,
+      "nimi": "ABC Carwash Karjaa",
+      "leveysaste": 60.054819,
+      "pituusaste": 23.647779,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 61,
+      "nimi": "ABC Carwash Palokka Jyväskylä",
+      "leveysaste": 62.292015,
+      "pituusaste": 25.720015,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 62,
+      "nimi": "ABC Carwash Palokka Jyväskylä",
+      "leveysaste": 62.292033,
+      "pituusaste": 25.719971,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 63,
+      "nimi": "ABC Carwash Pitkälahti",
+      "leveysaste": 62.836496,
+      "pituusaste": 27.60757,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 64,
+      "nimi": "ABC Carwash Prisma Liisanlehto",
+      "leveysaste": 63.071143,
+      "pituusaste": 21.701133,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 65,
+      "nimi": "ABC Carwash Prisma Liisanlehto",
+      "leveysaste": 63.071637,
+      "pituusaste": 21.69957,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 66,
+      "nimi": "ABC Carwash Prisma Palokankeskus Jyväskylä",
+      "leveysaste": 62.288974,
+      "pituusaste": 25.720315,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 67,
+      "nimi": "ABC Carwash Prisma Pirkkala",
+      "leveysaste": 61.469214,
+      "pituusaste": 23.714288,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 68,
+      "nimi": "ABC Carwash S-market Laukaa",
+      "leveysaste": 62.413795,
+      "pituusaste": 25.951259,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 69,
+      "nimi": "ABC Carwash S-market Laukaa",
+      "leveysaste": 62.413796,
+      "pituusaste": 25.951209,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 70,
+      "nimi": "ABC Espoonlahti",
+      "leveysaste": 60.15558,
+      "pituusaste": 24.662108,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 71,
+      "nimi": "ABC Kausala",
+      "leveysaste": 60.894181,
+      "pituusaste": 26.335696,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 72,
+      "nimi": "ABC Kippari",
+      "leveysaste": 60.566441,
+      "pituusaste": 27.189895,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 73,
+      "nimi": "ABC Nurmes",
+      "leveysaste": 63.553302,
+      "pituusaste": 29.100056,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 74,
+      "nimi": "ABC Pesuhalli",
+      "leveysaste": 61.874879,
+      "pituusaste": 28.950789,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 75,
+      "nimi": "ABC Pesuhalli",
+      "leveysaste": 61.87488,
+      "pituusaste": 28.950776,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 76,
+      "nimi": "ABC Pesukatu",
+      "leveysaste": 60.275081,
+      "pituusaste": 25.078905,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 77,
+      "nimi": "ABC Pesukatu",
+      "leveysaste": 65.025967,
+      "pituusaste": 25.472745,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 78,
+      "nimi": "ABC Pesukatu Prisma Seppälä Jyväskylä",
+      "leveysaste": 62.259843,
+      "pituusaste": 25.776716,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 79,
+      "nimi": "ABC Pesukatu Prisma Seppälä Jyväskylä",
+      "leveysaste": 62.259853,
+      "pituusaste": 25.776709,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 80,
+      "nimi": "ABC Pesukatu Tiiriö Hämeenlinna",
+      "leveysaste": 61.008738,
+      "pituusaste": 24.415945,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 81,
+      "nimi": "ABC Petikko Vantaa",
+      "leveysaste": 60.284379,
+      "pituusaste": 24.826962,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 82,
+      "nimi": "ABC Prisma Orimattila",
+      "leveysaste": 60.804545,
+      "pituusaste": 25.729138,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 83,
+      "nimi": "ABC S-market Näsi Autopesu",
+      "leveysaste": 60.387013,
+      "pituusaste": 25.649778,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 84,
+      "nimi": "ABC S-market Näsi Autopesu",
+      "leveysaste": 60.387013,
+      "pituusaste": 25.649846,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 85,
+      "nimi": "ABC Teivo",
+      "leveysaste": 61.53307,
+      "pituusaste": 23.63263,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 86,
+      "nimi": "ABC Wash",
+      "leveysaste": 60.980115,
+      "pituusaste": 25.59364,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 87,
+      "nimi": "ABC Wash",
+      "leveysaste": 60.980136,
+      "pituusaste": 25.593653,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 88,
+      "nimi": "ABC Wash Hyvinkää",
+      "leveysaste": 60.618865,
+      "pituusaste": 24.807074,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 89,
+      "nimi": "ABC Wash Hyvinkää",
+      "leveysaste": 60.618877,
+      "pituusaste": 24.807087,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 90,
+      "nimi": "ABC autopesu",
+      "leveysaste": 60.513227,
+      "pituusaste": 26.931258,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 91,
+      "nimi": "ABC autopesu",
+      "leveysaste": 60.541868,
+      "pituusaste": 26.976651,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 92,
+      "nimi": "ABC autopesu",
+      "leveysaste": 60.541882,
+      "pituusaste": 26.976667,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 93,
+      "nimi": "ABC autopesu",
+      "leveysaste": 61.47775,
+      "pituusaste": 23.523358,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 94,
+      "nimi": "ABC autopesu",
+      "leveysaste": 61.477757,
+      "pituusaste": 23.52341,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 95,
+      "nimi": "ABC carwash",
+      "leveysaste": 60.297257,
+      "pituusaste": 25.332114,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 96,
+      "nimi": "ABC carwash",
+      "leveysaste": 60.946847,
+      "pituusaste": 25.893953,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 97,
+      "nimi": "ABC carwash",
+      "leveysaste": 60.94686,
+      "pituusaste": 25.893935,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 98,
+      "nimi": "ABC carwash",
+      "leveysaste": 60.968964,
+      "pituusaste": 25.628879,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 99,
+      "nimi": "ABC carwash",
+      "leveysaste": 61.181468,
+      "pituusaste": 23.886503,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 100,
+      "nimi": "ABC pesu",
+      "leveysaste": 60.256854,
+      "pituusaste": 24.999603,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 101,
+      "nimi": "ABC pesukatu Joensuu",
+      "leveysaste": 62.617674,
+      "pituusaste": 29.776099,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 102,
+      "nimi": "ABC pesukatu Joensuu",
+      "leveysaste": 62.617687,
+      "pituusaste": 29.776099,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 103,
+      "nimi": "ABC! Car Wash",
+      "leveysaste": 60.444822,
+      "pituusaste": 22.325158,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 104,
+      "nimi": "ABC! CarWash",
+      "leveysaste": 63.677307,
+      "pituusaste": 22.720858,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 105,
+      "nimi": "ABC! CarWash",
+      "leveysaste": 63.832781,
+      "pituusaste": 23.131335,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 106,
+      "nimi": "ABC! Pesukatu",
+      "leveysaste": 60.275084,
+      "pituusaste": 25.078856,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 107,
+      "nimi": "ABC! Wash",
+      "leveysaste": 60.207417,
+      "pituusaste": 24.946612,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 108,
+      "nimi": "ABC! car wash",
+      "leveysaste": 63.575056,
+      "pituusaste": 27.179915,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 109,
+      "nimi": "ABC! car wash",
+      "leveysaste": 63.575086,
+      "pituusaste": 27.179887,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 110,
+      "nimi": "ABC! carwash",
+      "leveysaste": 61.49514,
+      "pituusaste": 23.879945,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 111,
+      "nimi": "ABC! carwash",
+      "leveysaste": 61.495156,
+      "pituusaste": 23.879898,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 112,
+      "nimi": "AUTOPESU",
+      "leveysaste": 63.550846,
+      "pituusaste": 27.214974,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 113,
+      "nimi": "Abc",
+      "leveysaste": 60.205094,
+      "pituusaste": 25.120106,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 114,
+      "nimi": "Ajoneuvopesula Ravantti",
+      "leveysaste": 61.072992,
+      "pituusaste": 22.322214,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 115,
+      "nimi": "Ajoneuvopesula Sa-Ha Oy",
+      "leveysaste": 60.265633,
+      "pituusaste": 24.877628,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 116,
+      "nimi": "AlphaFix",
+      "leveysaste": 62.794367,
+      "pituusaste": 22.794364,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 117,
+      "nimi": "Alppilan Autohuolto - Konala",
+      "leveysaste": 60.23133,
+      "pituusaste": 24.860156,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 118,
+      "nimi": "Api autopesula",
+      "leveysaste": 62.63422,
+      "pituusaste": 29.802444,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 119,
+      "nimi": "Arabian Autopesu",
+      "leveysaste": 60.202387,
+      "pituusaste": 24.967742,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 120,
+      "nimi": "Auto CC Nina - Autopesu",
+      "leveysaste": 60.929094,
+      "pituusaste": 25.638169,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 121,
+      "nimi": "AutoShine Carwash & Detailing Center",
+      "leveysaste": 60.395274,
+      "pituusaste": 25.062178,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 122,
+      "nimi": "Autodetailer",
+      "leveysaste": 60.315084,
+      "pituusaste": 24.835995,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 123,
+      "nimi": "Automaa",
+      "leveysaste": 63.106943,
+      "pituusaste": 21.650156,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 124,
+      "nimi": "Automaattipesu",
+      "leveysaste": 60.983316,
+      "pituusaste": 25.737646,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 125,
+      "nimi": "Auton Pesupiste",
+      "leveysaste": 63.309878,
+      "pituusaste": 30.039944,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 126,
+      "nimi": "Autopesu",
+      "leveysaste": 61.18694,
+      "pituusaste": 28.770543,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 127,
+      "nimi": "Autopesu",
+      "leveysaste": 62.607125,
+      "pituusaste": 29.771233,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 128,
+      "nimi": "Autopesu & Fixaamo LUXUS",
+      "leveysaste": 62.25473,
+      "pituusaste": 25.770374,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 129,
+      "nimi": "Autopesu 24h",
+      "leveysaste": 60.191604,
+      "pituusaste": 24.911216,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 130,
+      "nimi": "Autopesu Citymarket",
+      "leveysaste": 61.466192,
+      "pituusaste": 23.507871,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 131,
+      "nimi": "Autopesu Citymarket",
+      "leveysaste": 61.466218,
+      "pituusaste": 23.507835,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 132,
+      "nimi": "Autopesu Cleanpark",
+      "leveysaste": 60.207637,
+      "pituusaste": 25.144409,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 133,
+      "nimi": "Autopesu Fastline Pesukadut Oy",
+      "leveysaste": 62.598385,
+      "pituusaste": 23.724834,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 134,
+      "nimi": "Autopesu Fastline Pesukadut Oy",
+      "leveysaste": 62.598407,
+      "pituusaste": 23.724797,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 135,
+      "nimi": "Autopesu Kivelä",
+      "leveysaste": 61.313394,
+      "pituusaste": 23.755714,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 136,
+      "nimi": "Autopesu Mikkola",
+      "leveysaste": 61.160181,
+      "pituusaste": 23.694341,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 137,
+      "nimi": "Autopesu Tikkuri",
+      "leveysaste": 60.291981,
+      "pituusaste": 25.041132,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 138,
+      "nimi": "Autopesu-Center",
+      "leveysaste": 60.208408,
+      "pituusaste": 25.055108,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 139,
+      "nimi": "Autopesu-Center Konala",
+      "leveysaste": 60.243128,
+      "pituusaste": 24.848334,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 140,
+      "nimi": "Autopesu.net Turku Viilarinkatu",
+      "leveysaste": 60.472282,
+      "pituusaste": 22.220963,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 141,
+      "nimi": "Autopesu.net Turku Viilarinkatu",
+      "leveysaste": 60.472299,
+      "pituusaste": 22.220958,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 142,
+      "nimi": "Autopesula",
+      "leveysaste": 60.159738,
+      "pituusaste": 24.935323,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 143,
+      "nimi": "Autopesula Auto-Alanen Tmi",
+      "leveysaste": 61.134255,
+      "pituusaste": 21.542911,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 144,
+      "nimi": "Autopesula Express",
+      "leveysaste": 65.166352,
+      "pituusaste": 25.345938,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 145,
+      "nimi": "Autopesula Express",
+      "leveysaste": 65.166367,
+      "pituusaste": 25.34594,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 146,
+      "nimi": "Autopesula Inno",
+      "leveysaste": 60.975851,
+      "pituusaste": 24.478629,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 147,
+      "nimi": "Autopesula Max",
+      "leveysaste": 61.314487,
+      "pituusaste": 23.755898,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 148,
+      "nimi": "Autopesula Pööli",
+      "leveysaste": 61.002691,
+      "pituusaste": 24.475942,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 149,
+      "nimi": "Autopesula Siistibiili",
+      "leveysaste": 60.382032,
+      "pituusaste": 25.044916,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 150,
+      "nimi": "Autopesula, Kaivoparkki",
+      "leveysaste": 60.99585,
+      "pituusaste": 24.455313,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 151,
+      "nimi": "Autosi Paikka",
+      "leveysaste": 61.131356,
+      "pituusaste": 21.542168,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 152,
+      "nimi": "Autospa",
+      "leveysaste": 60.176275,
+      "pituusaste": 24.804263,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 153,
+      "nimi": "Autowash Center Hyvinkää",
+      "leveysaste": 60.630038,
+      "pituusaste": 24.865262,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 154,
+      "nimi": "Bayerncar Car Wash",
+      "leveysaste": 62.808513,
+      "pituusaste": 22.873045,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 155,
+      "nimi": "Bilia Pesukatu",
+      "leveysaste": 60.174197,
+      "pituusaste": 24.757901,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 156,
+      "nimi": "Bilia Pesukatu",
+      "leveysaste": 60.174211,
+      "pituusaste": 24.757901,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 157,
+      "nimi": "Bilia pesukatu",
+      "leveysaste": 60.266939,
+      "pituusaste": 24.879093,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 158,
+      "nimi": "Boss Gloss",
+      "leveysaste": 60.493407,
+      "pituusaste": 22.23276,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 159,
+      "nimi": "Boss Gloss Autopesu",
+      "leveysaste": 61.478361,
+      "pituusaste": 23.766231,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 160,
+      "nimi": "Boss Gloss Autopesu",
+      "leveysaste": 61.478377,
+      "pituusaste": 23.766228,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 161,
+      "nimi": "Boss Gloss Autopesu Elovainio Ylöjärvi",
+      "leveysaste": 61.559116,
+      "pituusaste": 23.571976,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 162,
+      "nimi": "Boss Gloss Autopesu Linnainmaa Tampere",
+      "leveysaste": 61.48886,
+      "pituusaste": 23.875606,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 163,
+      "nimi": "Boss Gloss Autopesu Oulu",
+      "leveysaste": 64.9593,
+      "pituusaste": 25.527964,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 164,
+      "nimi": "Boss Gloss Autopesu Seppälänkangas Jyväskylä",
+      "leveysaste": 62.270273,
+      "pituusaste": 25.788102,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 165,
+      "nimi": "Boss Gloss Autopesu Seppälänkangas Jyväskylä",
+      "leveysaste": 62.270298,
+      "pituusaste": 25.788183,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 166,
+      "nimi": "BossWash",
+      "leveysaste": 60.200084,
+      "pituusaste": 24.595497,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 167,
+      "nimi": "CM Autopesu",
+      "leveysaste": 62.216075,
+      "pituusaste": 25.722545,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 168,
+      "nimi": "CM-Harjaton pikapesu",
+      "leveysaste": 61.478104,
+      "pituusaste": 23.840171,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 169,
+      "nimi": "CM-Harjaton pikapesu",
+      "leveysaste": 61.478121,
+      "pituusaste": 23.840149,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 170,
+      "nimi": "Car Spa",
+      "leveysaste": 60.966183,
+      "pituusaste": 25.659276,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 171,
+      "nimi": "Car Station",
+      "leveysaste": 60.218604,
+      "pituusaste": 24.808036,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 172,
+      "nimi": "Car wash",
+      "leveysaste": 61.189255,
+      "pituusaste": 28.762126,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 173,
+      "nimi": "Car wash",
+      "leveysaste": 61.189265,
+      "pituusaste": 28.762115,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 174,
+      "nimi": "Carwash",
+      "leveysaste": 62.601243,
+      "pituusaste": 25.724192,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 175,
+      "nimi": "Carwash Itis",
+      "leveysaste": 60.212179,
+      "pituusaste": 25.083529,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 176,
+      "nimi": "Carwash Kaari Kannelmäki",
+      "leveysaste": 60.237237,
+      "pituusaste": 24.893948,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 177,
+      "nimi": "Carwash Ruoholahti",
+      "leveysaste": 60.163993,
+      "pituusaste": 24.910542,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 178,
+      "nimi": "City Car Wash",
+      "leveysaste": 61.877578,
+      "pituusaste": 28.872353,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 179,
+      "nimi": "City Car Wash",
+      "leveysaste": 63.67472,
+      "pituusaste": 22.723755,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 180,
+      "nimi": "City Car Wash",
+      "leveysaste": 63.836406,
+      "pituusaste": 23.11281,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 181,
+      "nimi": "City Car Wash autopesu Oulu",
+      "leveysaste": 65.055424,
+      "pituusaste": 25.457677,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 182,
+      "nimi": "City Teboil",
+      "leveysaste": 60.869955,
+      "pituusaste": 26.71433,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 183,
+      "nimi": "Citymarket",
+      "leveysaste": 60.874646,
+      "pituusaste": 26.654431,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 184,
+      "nimi": "Cityn Autopesula",
+      "leveysaste": 60.981966,
+      "pituusaste": 25.662655,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 185,
+      "nimi": "Clean Maker",
+      "leveysaste": 61.482769,
+      "pituusaste": 23.767693,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 186,
+      "nimi": "Cleanpark",
+      "leveysaste": 60.260107,
+      "pituusaste": 24.854295,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 187,
+      "nimi": "Cleanparkki",
+      "leveysaste": 62.628576,
+      "pituusaste": 29.766941,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 188,
+      "nimi": "Cleanwheels",
+      "leveysaste": 60.301944,
+      "pituusaste": 24.999657,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 189,
+      "nimi": "Damon",
+      "leveysaste": 60.449993,
+      "pituusaste": 22.307711,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 190,
+      "nimi": "ExlusiveForCar",
+      "leveysaste": 60.601037,
+      "pituusaste": 27.845283,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 191,
+      "nimi": "Fiksupesu",
+      "leveysaste": 60.928092,
+      "pituusaste": 24.639849,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 192,
+      "nimi": "Fiksupesu",
+      "leveysaste": 60.9281,
+      "pituusaste": 24.640351,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 193,
+      "nimi": "Fiksupesu",
+      "leveysaste": 60.928103,
+      "pituusaste": 24.63986,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 194,
+      "nimi": "Findelux",
+      "leveysaste": 60.487975,
+      "pituusaste": 22.126196,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 195,
+      "nimi": "FixStop",
+      "leveysaste": 65.011096,
+      "pituusaste": 25.472665,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 196,
+      "nimi": "Fixupesu",
+      "leveysaste": 60.313256,
+      "pituusaste": 24.84596,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 197,
+      "nimi": "Formula Seven Auto pesu",
+      "leveysaste": 60.276421,
+      "pituusaste": 24.807997,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 198,
+      "nimi": "GP-autopesu",
+      "leveysaste": 60.449961,
+      "pituusaste": 22.234164,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 199,
+      "nimi": "Glans autokiilto Tervajoki",
+      "leveysaste": 63.005594,
+      "pituusaste": 22.157427,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 200,
+      "nimi": "GlossPoint - CarPro-Suomi",
+      "leveysaste": 62.259348,
+      "pituusaste": 25.770292,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 201,
+      "nimi": "GoWash",
+      "leveysaste": 60.240203,
+      "pituusaste": 24.850077,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 202,
+      "nimi": "GoWash",
+      "leveysaste": 60.240218,
+      "pituusaste": 24.850067,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 203,
+      "nimi": "GoWash",
+      "leveysaste": 60.241653,
+      "pituusaste": 24.976701,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 204,
+      "nimi": "GoWash",
+      "leveysaste": 60.283349,
+      "pituusaste": 24.977919,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 205,
+      "nimi": "GoWash",
+      "leveysaste": 60.472958,
+      "pituusaste": 22.308902,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 206,
+      "nimi": "GoWash",
+      "leveysaste": 60.472996,
+      "pituusaste": 22.30896,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 207,
+      "nimi": "GoWash Bemböle",
+      "leveysaste": 60.221278,
+      "pituusaste": 24.672105,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 208,
+      "nimi": "GoWash Bemböle",
+      "leveysaste": 60.221299,
+      "pituusaste": 24.672182,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 209,
+      "nimi": "GoWash Vartiokylä",
+      "leveysaste": 60.21748,
+      "pituusaste": 25.100141,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 210,
+      "nimi": "GoWash Vartiokylä",
+      "leveysaste": 60.217516,
+      "pituusaste": 25.100208,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 211,
+      "nimi": "Golden Wash Autopesula",
+      "leveysaste": 60.444127,
+      "pituusaste": 22.366581,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 212,
+      "nimi": "Gowash Espoonlahti",
+      "leveysaste": 60.151715,
+      "pituusaste": 24.663201,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 213,
+      "nimi": "Gowash Espoonlahti",
+      "leveysaste": 60.151725,
+      "pituusaste": 24.663173,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 214,
+      "nimi": "Han car carwash",
+      "leveysaste": 59.834132,
+      "pituusaste": 22.992262,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 215,
+      "nimi": "Helsingin Grillikebab ja Autopesula",
+      "leveysaste": 60.222135,
+      "pituusaste": 24.853383,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 216,
+      "nimi": "Hennalan autopesu",
+      "leveysaste": 60.968248,
+      "pituusaste": 25.629092,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 217,
+      "nimi": "Hollolanautopesu",
+      "leveysaste": 60.987993,
+      "pituusaste": 25.531516,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 218,
+      "nimi": "Huippupesu",
+      "leveysaste": 64.985306,
+      "pituusaste": 25.453004,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 219,
+      "nimi": "Hyvinkään Rekka-Pesu",
+      "leveysaste": 60.659634,
+      "pituusaste": 24.800555,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 220,
+      "nimi": "Hämeenlinnan Autopesu Oy",
+      "leveysaste": 60.993873,
+      "pituusaste": 24.456916,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 221,
+      "nimi": "Härmän Liikenne, Härmän pesuhalli",
+      "leveysaste": 63.256673,
+      "pituusaste": 22.843628,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 222,
+      "nimi": "Ideapesu",
+      "leveysaste": 61.360386,
+      "pituusaste": 23.798747,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 223,
+      "nimi": "InCar Pesulapalvelu",
+      "leveysaste": 60.187416,
+      "pituusaste": 24.979878,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 224,
+      "nimi": "Itsepalvelu-autopesula",
+      "leveysaste": 63.094488,
+      "pituusaste": 22.97889,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 225,
+      "nimi": "Itsepesu",
+      "leveysaste": 65.038461,
+      "pituusaste": 25.53839,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 226,
+      "nimi": "Itsepesu Quick Wash",
+      "leveysaste": 60.183254,
+      "pituusaste": 24.962318,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 227,
+      "nimi": "J&B Autofix Oy",
+      "leveysaste": 60.288172,
+      "pituusaste": 24.992995,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 228,
+      "nimi": "Janin autopesu",
+      "leveysaste": 60.458525,
+      "pituusaste": 26.206986,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 229,
+      "nimi": "Johtokadun Teboil",
+      "leveysaste": 61.681362,
+      "pituusaste": 27.228187,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 230,
+      "nimi": "Juhlapesu",
+      "leveysaste": 60.282024,
+      "pituusaste": 25.02587,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 231,
+      "nimi": "Juhlapesu",
+      "leveysaste": 60.299651,
+      "pituusaste": 24.882105,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 232,
+      "nimi": "Juhlapesu",
+      "leveysaste": 60.394654,
+      "pituusaste": 25.022695,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 233,
+      "nimi": "Juhlapesu",
+      "leveysaste": 61.367095,
+      "pituusaste": 23.800237,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 234,
+      "nimi": "Juhlapesu",
+      "leveysaste": 61.367095,
+      "pituusaste": 23.800272,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 235,
+      "nimi": "Juhlapesu",
+      "leveysaste": 61.477362,
+      "pituusaste": 23.872282,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 236,
+      "nimi": "Juhlapesu",
+      "leveysaste": 62.892651,
+      "pituusaste": 27.670544,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 237,
+      "nimi": "Juhlapesu Pori",
+      "leveysaste": 61.484902,
+      "pituusaste": 21.812258,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 238,
+      "nimi": "Juhlapesu Tynninharju",
+      "leveysaste": 60.22799,
+      "pituusaste": 24.020558,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 239,
+      "nimi": "Juustoportti Car Wash",
+      "leveysaste": 62.820624,
+      "pituusaste": 27.6098,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 240,
+      "nimi": "Juvanmalmi Autopesu",
+      "leveysaste": 60.268439,
+      "pituusaste": 24.758005,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 241,
+      "nimi": "Jyvän Autopesu",
+      "leveysaste": 62.259292,
+      "pituusaste": 25.769295,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 242,
+      "nimi": "Jyväskylän autopuhdistus",
+      "leveysaste": 62.282009,
+      "pituusaste": 25.802499,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 243,
+      "nimi": "K Autopesu",
+      "leveysaste": 60.992511,
+      "pituusaste": 24.460018,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 244,
+      "nimi": "K Autopesu",
+      "leveysaste": 60.992515,
+      "pituusaste": 24.460038,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 245,
+      "nimi": "K-Autopesu Hennala 24h",
+      "leveysaste": 60.972008,
+      "pituusaste": 25.630092,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 246,
+      "nimi": "K-Citymarket Autopesu",
+      "leveysaste": 62.792406,
+      "pituusaste": 22.789238,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 247,
+      "nimi": "K-Citymarket Autopesu",
+      "leveysaste": 63.110033,
+      "pituusaste": 21.651639,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 248,
+      "nimi": "K-Citymarket Autopesu",
+      "leveysaste": 63.11005,
+      "pituusaste": 21.651673,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 249,
+      "nimi": "Kamat Puhtaax",
+      "leveysaste": 64.248351,
+      "pituusaste": 23.89464,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 250,
+      "nimi": "Kamat Puhtaax",
+      "leveysaste": 64.248366,
+      "pituusaste": 23.89463,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 251,
+      "nimi": "Kauramäki Car Clean Oy",
+      "leveysaste": 60.243296,
+      "pituusaste": 24.848066,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 252,
+      "nimi": "Kemin autopesu",
+      "leveysaste": 65.741171,
+      "pituusaste": 24.580638,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 253,
+      "nimi": "Kirkkonummen Autopesu",
+      "leveysaste": 60.117618,
+      "pituusaste": 24.442491,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 254,
+      "nimi": "Kruunupesu",
+      "leveysaste": 63.104664,
+      "pituusaste": 21.627728,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 255,
+      "nimi": "Kärcher",
+      "leveysaste": 62.287639,
+      "pituusaste": 25.811635,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 256,
+      "nimi": "Kärcher Center Vantaa, autopesu",
+      "leveysaste": 60.293118,
+      "pituusaste": 24.981757,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 257,
+      "nimi": "Käyttöauto Kokkola",
+      "leveysaste": 63.826198,
+      "pituusaste": 23.159546,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 258,
+      "nimi": "Kårkulla",
+      "leveysaste": 63.113831,
+      "pituusaste": 21.660605,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 259,
+      "nimi": "L&M Autopesu Oy",
+      "leveysaste": 61.517109,
+      "pituusaste": 23.661484,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 260,
+      "nimi": "LC Clean",
+      "leveysaste": 63.835405,
+      "pituusaste": 23.067892,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 261,
+      "nimi": "Loviisan Autopuhdistus",
+      "leveysaste": 60.454393,
+      "pituusaste": 26.199185,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 262,
+      "nimi": "Luli's Carwash & Service",
+      "leveysaste": 60.118268,
+      "pituusaste": 24.426696,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 263,
+      "nimi": "Länsikeskuksen Autopesu",
+      "leveysaste": 60.470731,
+      "pituusaste": 22.23498,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 264,
+      "nimi": "MSK Autopesu",
+      "leveysaste": 60.987847,
+      "pituusaste": 25.538714,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 265,
+      "nimi": "Mantunkulma",
+      "leveysaste": 61.312172,
+      "pituusaste": 23.759104,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 266,
+      "nimi": "Mestarin pesu",
+      "leveysaste": 60.432725,
+      "pituusaste": 22.256776,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 267,
+      "nimi": "Mestarin pesu",
+      "leveysaste": 60.432757,
+      "pituusaste": 22.256827,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 268,
+      "nimi": "Motonet itsepalvelupesu",
+      "leveysaste": 61.01415,
+      "pituusaste": 24.412346,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 269,
+      "nimi": "Motopesu",
+      "leveysaste": 60.157224,
+      "pituusaste": 24.697084,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 270,
+      "nimi": "Motopesu",
+      "leveysaste": 60.157238,
+      "pituusaste": 24.697073,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 271,
+      "nimi": "Motopesu",
+      "leveysaste": 60.210357,
+      "pituusaste": 25.054314,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 272,
+      "nimi": "Motopesu",
+      "leveysaste": 60.210362,
+      "pituusaste": 25.054288,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 273,
+      "nimi": "Motopesu",
+      "leveysaste": 60.388023,
+      "pituusaste": 25.109579,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 274,
+      "nimi": "Motopesu",
+      "leveysaste": 62.882082,
+      "pituusaste": 27.646872,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 275,
+      "nimi": "Motopesu Hyvinkää",
+      "leveysaste": 60.61611,
+      "pituusaste": 24.809431,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 276,
+      "nimi": "Motopesu Hyvinkää",
+      "leveysaste": 60.616117,
+      "pituusaste": 24.809459,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 277,
+      "nimi": "Motopesu Turku",
+      "leveysaste": 60.465178,
+      "pituusaste": 22.207936,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 278,
+      "nimi": "Motorin",
+      "leveysaste": 60.446765,
+      "pituusaste": 22.221073,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 279,
+      "nimi": "Mr. A Wash",
+      "leveysaste": 62.259953,
+      "pituusaste": 25.770094,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 280,
+      "nimi": "Muuralan Autopesu",
+      "leveysaste": 60.210306,
+      "pituusaste": 24.64237,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 281,
+      "nimi": "Neste",
+      "leveysaste": 60.215246,
+      "pituusaste": 24.652552,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 282,
+      "nimi": "Neste",
+      "leveysaste": 60.256062,
+      "pituusaste": 24.826558,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 283,
+      "nimi": "Neste",
+      "leveysaste": 63.093566,
+      "pituusaste": 21.615341,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 284,
+      "nimi": "Neste Autopesu",
+      "leveysaste": 60.410826,
+      "pituusaste": 24.452653,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 285,
+      "nimi": "Neste Easy Wash",
+      "leveysaste": 60.281137,
+      "pituusaste": 24.971984,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 286,
+      "nimi": "Neste Easy Wash",
+      "leveysaste": 60.288576,
+      "pituusaste": 24.996006,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 287,
+      "nimi": "Neste Easy Wash",
+      "leveysaste": 60.288764,
+      "pituusaste": 25.033705,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 288,
+      "nimi": "Neste Easy Wash",
+      "leveysaste": 60.394089,
+      "pituusaste": 25.11013,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 289,
+      "nimi": "Neste Easy Wash",
+      "leveysaste": 60.394092,
+      "pituusaste": 25.110079,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 290,
+      "nimi": "Neste Easy Wash",
+      "leveysaste": 60.982653,
+      "pituusaste": 25.494784,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 291,
+      "nimi": "Neste Easy Wash Espoo Karakallio",
+      "leveysaste": 60.229096,
+      "pituusaste": 24.777625,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 292,
+      "nimi": "Neste Easy Wash Espoo Kauklahti",
+      "leveysaste": 60.184757,
+      "pituusaste": 24.601849,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 293,
+      "nimi": "Neste Easy Wash Helsinki Laajasalo",
+      "leveysaste": 60.18114,
+      "pituusaste": 25.050241,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 294,
+      "nimi": "Neste Easy Wash Helsinki Suutarila",
+      "leveysaste": 60.279526,
+      "pituusaste": 25.010981,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 295,
+      "nimi": "Neste Easy Wash Helsinki Suutarila",
+      "leveysaste": 60.279539,
+      "pituusaste": 25.010994,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 296,
+      "nimi": "Neste Easy Wash Kajaani Koskiportti",
+      "leveysaste": 64.221018,
+      "pituusaste": 27.742023,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 297,
+      "nimi": "Neste Easy Wash Kemi Karjalahdenkatu",
+      "leveysaste": 65.740707,
+      "pituusaste": 24.578052,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 298,
+      "nimi": "Neste Easy Wash Kemi Karjalahdenkatu",
+      "leveysaste": 65.740714,
+      "pituusaste": 24.578109,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 299,
+      "nimi": "Neste Easy Wash Kerava Asemansilta",
+      "leveysaste": 60.40331,
+      "pituusaste": 25.109265,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 300,
+      "nimi": "Neste Easy Wash Kokkola Tehtaankatu",
+      "leveysaste": 63.836292,
+      "pituusaste": 23.113572,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 301,
+      "nimi": "Neste Easy Wash Nokia Souranderintie",
+      "leveysaste": 61.475473,
+      "pituusaste": 23.503605,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 302,
+      "nimi": "Neste Easy Wash Nokia Souranderintie",
+      "leveysaste": 61.475483,
+      "pituusaste": 23.503647,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 303,
+      "nimi": "Neste Easy Wash Nurmijärvi Sairaalantie",
+      "leveysaste": 60.467097,
+      "pituusaste": 24.806425,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 304,
+      "nimi": "Neste Easy Wash Turku Hämeentie",
+      "leveysaste": 60.456425,
+      "pituusaste": 22.302645,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 305,
+      "nimi": "Neste Easy Wash Turku Hämeentie",
+      "leveysaste": 60.456435,
+      "pituusaste": 22.302632,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 306,
+      "nimi": "Neste Easy Wash Turku Läntinen Pitkäkatu",
+      "leveysaste": 60.457999,
+      "pituusaste": 22.267893,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 307,
+      "nimi": "Neste Easy Wash Tuusula Riihikallio",
+      "leveysaste": 60.373257,
+      "pituusaste": 25.020626,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 308,
+      "nimi": "Neste Easy Wash Tuusula Riihikallio",
+      "leveysaste": 60.373269,
+      "pituusaste": 25.020646,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 309,
+      "nimi": "Neste Easy Wash Vaasa Sairaskodinkatu",
+      "leveysaste": 63.099161,
+      "pituusaste": 21.633908,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 310,
+      "nimi": "Neste Easy Wash Vaasa Sairaskodinkatu",
+      "leveysaste": 63.09917,
+      "pituusaste": 21.633923,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 311,
+      "nimi": "Neste Easy Wash Vantaa Kaivoksela",
+      "leveysaste": 60.26305,
+      "pituusaste": 24.872477,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 312,
+      "nimi": "Neste Easy Wash Vantaa Martinlaakso",
+      "leveysaste": 60.278356,
+      "pituusaste": 24.866658,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 313,
+      "nimi": "Neste Easy Wash Vantaa Metsola",
+      "leveysaste": 60.344799,
+      "pituusaste": 25.103061,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 314,
+      "nimi": "Neste EasyWash",
+      "leveysaste": 60.152692,
+      "pituusaste": 24.662949,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 315,
+      "nimi": "Neste Helsinki Hietalahti",
+      "leveysaste": 60.160381,
+      "pituusaste": 24.929783,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 316,
+      "nimi": "Neste Helsinki Hietalahti",
+      "leveysaste": 60.160387,
+      "pituusaste": 24.929786,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 317,
+      "nimi": "Neste K Teiskontie",
+      "leveysaste": 61.502734,
+      "pituusaste": 23.859202,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 318,
+      "nimi": "Neste Pedersöre",
+      "leveysaste": 63.633699,
+      "pituusaste": 22.857944,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 319,
+      "nimi": "Neste QuickWash",
+      "leveysaste": 60.967715,
+      "pituusaste": 25.654488,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 320,
+      "nimi": "Nikinmäen autopesula",
+      "leveysaste": 60.342899,
+      "pituusaste": 25.126806,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 321,
+      "nimi": "Näppärä Autopesula",
+      "leveysaste": 60.374592,
+      "pituusaste": 25.029792,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 322,
+      "nimi": "Oulun Baari pesukatu",
+      "leveysaste": 64.97812,
+      "pituusaste": 25.561372,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 323,
+      "nimi": "PUTO -itsepalvelu",
+      "leveysaste": 61.473808,
+      "pituusaste": 21.755634,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 324,
+      "nimi": "Paimion Autopesula",
+      "leveysaste": 60.451858,
+      "pituusaste": 22.703441,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 325,
+      "nimi": "Paimion autopesula",
+      "leveysaste": 60.451795,
+      "pituusaste": 22.70337,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 326,
+      "nimi": "Parkkipesu",
+      "leveysaste": 60.160928,
+      "pituusaste": 24.73947,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 327,
+      "nimi": "PekeFix",
+      "leveysaste": 60.262243,
+      "pituusaste": 24.880126,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 328,
+      "nimi": "Perfect Autopesu",
+      "leveysaste": 60.283419,
+      "pituusaste": 25.030711,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 329,
+      "nimi": "Perfect Autopesu 24h",
+      "leveysaste": 60.241211,
+      "pituusaste": 24.995751,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 330,
+      "nimi": "Perfect Autopesu 24h",
+      "leveysaste": 60.241215,
+      "pituusaste": 24.995727,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 331,
+      "nimi": "Perfect-autopesu",
+      "leveysaste": 60.528008,
+      "pituusaste": 24.750349,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 332,
+      "nimi": "Peseitse.fi",
+      "leveysaste": 65.057359,
+      "pituusaste": 25.523799,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 333,
+      "nimi": "Pesu Paroni",
+      "leveysaste": 60.98257,
+      "pituusaste": 25.700226,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 334,
+      "nimi": "Pesukatu",
+      "leveysaste": 61.487474,
+      "pituusaste": 21.750124,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 335,
+      "nimi": "Pesukopla",
+      "leveysaste": 64.985444,
+      "pituusaste": 25.446117,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 336,
+      "nimi": "Pesukunkku",
+      "leveysaste": 65.038783,
+      "pituusaste": 25.440877,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 337,
+      "nimi": "Pesukunkku",
+      "leveysaste": 65.038955,
+      "pituusaste": 25.440714,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 338,
+      "nimi": "Pesulasi Kerava Citymarket",
+      "leveysaste": 60.399775,
+      "pituusaste": 25.100771,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 339,
+      "nimi": "Pesulasi Kerava Citymarket",
+      "leveysaste": 60.399804,
+      "pituusaste": 25.100783,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 340,
+      "nimi": "Pesupaikka Finnoo",
+      "leveysaste": 60.163104,
+      "pituusaste": 24.71056,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 341,
+      "nimi": "Pesupaikka Hämeenkylä",
+      "leveysaste": 60.271234,
+      "pituusaste": 24.80186,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 342,
+      "nimi": "Pesupaikka Leppävaara",
+      "leveysaste": 60.208109,
+      "pituusaste": 24.787083,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 343,
+      "nimi": "Pesupaikka Leppävaara",
+      "leveysaste": 60.208125,
+      "pituusaste": 24.787084,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 344,
+      "nimi": "Pesupaikka Ruoholahti",
+      "leveysaste": 60.165786,
+      "pituusaste": 24.908431,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 345,
+      "nimi": "Pesutalo",
+      "leveysaste": 60.992006,
+      "pituusaste": 24.492804,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 346,
+      "nimi": "Pikapesu",
+      "leveysaste": 62.028004,
+      "pituusaste": 24.59628,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 347,
+      "nimi": "Pirkkalan Pesuhalli",
+      "leveysaste": 61.447392,
+      "pituusaste": 23.688822,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 348,
+      "nimi": "Pirkkalan Puunaamo",
+      "leveysaste": 61.447445,
+      "pituusaste": 23.68891,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 349,
+      "nimi": "Plussa pesu",
+      "leveysaste": 60.497571,
+      "pituusaste": 26.901531,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 350,
+      "nimi": "Porslahden veneenpesu paikka",
+      "leveysaste": 60.207762,
+      "pituusaste": 25.177876,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 351,
+      "nimi": "Premium Car Wash",
+      "leveysaste": 60.436033,
+      "pituusaste": 22.249218,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 352,
+      "nimi": "Premium Car Wash",
+      "leveysaste": 60.436037,
+      "pituusaste": 22.249207,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 353,
+      "nimi": "Priima Autopesu ja -Korjaamo",
+      "leveysaste": 61.009887,
+      "pituusaste": 25.68047,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 354,
+      "nimi": "Prowash Oy",
+      "leveysaste": 60.279034,
+      "pituusaste": 24.810658,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 355,
+      "nimi": "PuhdasW",
+      "leveysaste": 60.481832,
+      "pituusaste": 22.306847,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 356,
+      "nimi": "Puulan Kone autopesu",
+      "leveysaste": 61.988,
+      "pituusaste": 26.627686,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 357,
+      "nimi": "Quick Wash",
+      "leveysaste": 60.237695,
+      "pituusaste": 24.889646,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 358,
+      "nimi": "QuickWash",
+      "leveysaste": 60.234498,
+      "pituusaste": 24.966879,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 359,
+      "nimi": "QuickWash",
+      "leveysaste": 60.23451,
+      "pituusaste": 24.966867,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 360,
+      "nimi": "QuickWash Oulu Laanila",
+      "leveysaste": 65.026136,
+      "pituusaste": 25.500001,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 361,
+      "nimi": "Quickwash Hämeensaari",
+      "leveysaste": 60.992506,
+      "pituusaste": 24.460217,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 362,
+      "nimi": "RS Autofix",
+      "leveysaste": 60.468716,
+      "pituusaste": 22.242677,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 363,
+      "nimi": "Rekka Spa",
+      "leveysaste": 60.471387,
+      "pituusaste": 22.380239,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 364,
+      "nimi": "Rockifix",
+      "leveysaste": 61.530825,
+      "pituusaste": 23.635851,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 365,
+      "nimi": "Ruskon Autopesu",
+      "leveysaste": 65.043096,
+      "pituusaste": 25.544986,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 366,
+      "nimi": "SL-Autopesu Oy",
+      "leveysaste": 60.393533,
+      "pituusaste": 23.129824,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 367,
+      "nimi": "ST1 Vantaa Mikkola",
+      "leveysaste": 60.344059,
+      "pituusaste": 25.099784,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 368,
+      "nimi": "ST1 Vantaa Mikkola",
+      "leveysaste": 60.344075,
+      "pituusaste": 25.099784,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 369,
+      "nimi": "Sami Detailing",
+      "leveysaste": 60.196028,
+      "pituusaste": 24.77298,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 370,
+      "nimi": "Sankarin pesu",
+      "leveysaste": 60.454144,
+      "pituusaste": 22.231626,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 371,
+      "nimi": "Shell",
+      "leveysaste": 60.102888,
+      "pituusaste": 19.944129,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 372,
+      "nimi": "Shell",
+      "leveysaste": 60.161387,
+      "pituusaste": 24.706459,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 373,
+      "nimi": "Shell",
+      "leveysaste": 60.16634,
+      "pituusaste": 24.773686,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 374,
+      "nimi": "Shell",
+      "leveysaste": 60.166349,
+      "pituusaste": 24.773686,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 375,
+      "nimi": "Shell",
+      "leveysaste": 60.263966,
+      "pituusaste": 24.874195,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 376,
+      "nimi": "Shell",
+      "leveysaste": 60.263984,
+      "pituusaste": 24.874184,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 377,
+      "nimi": "Shell",
+      "leveysaste": 60.392892,
+      "pituusaste": 25.609042,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 378,
+      "nimi": "Shell",
+      "leveysaste": 60.392908,
+      "pituusaste": 25.609059,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 379,
+      "nimi": "Shell",
+      "leveysaste": 60.422963,
+      "pituusaste": 22.524714,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 380,
+      "nimi": "Shell",
+      "leveysaste": 60.473948,
+      "pituusaste": 25.086287,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 381,
+      "nimi": "Shell",
+      "leveysaste": 61.208151,
+      "pituusaste": 26.042959,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 382,
+      "nimi": "Shell",
+      "leveysaste": 63.113339,
+      "pituusaste": 21.660074,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 383,
+      "nimi": "Shell",
+      "leveysaste": 64.070566,
+      "pituusaste": 24.529166,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 384,
+      "nimi": "Shell Autopesu",
+      "leveysaste": 64.256041,
+      "pituusaste": 23.936135,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 385,
+      "nimi": "Shell Turku Sata Shell Autopesu",
+      "leveysaste": 60.457234,
+      "pituusaste": 22.26994,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 386,
+      "nimi": "Shera",
+      "leveysaste": 60.989772,
+      "pituusaste": 25.664682,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 387,
+      "nimi": "Shining Center Tikkurila",
+      "leveysaste": 60.28366,
+      "pituusaste": 25.025593,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 388,
+      "nimi": "Siilin autotalo",
+      "leveysaste": 63.071375,
+      "pituusaste": 27.663141,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 389,
+      "nimi": "Sisu Pesu",
+      "leveysaste": 60.179835,
+      "pituusaste": 25.05136,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 390,
+      "nimi": "SpeedWash365",
+      "leveysaste": 62.446074,
+      "pituusaste": 22.20173,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 391,
+      "nimi": "St1",
+      "leveysaste": 60.223012,
+      "pituusaste": 24.672507,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 392,
+      "nimi": "St1",
+      "leveysaste": 60.241352,
+      "pituusaste": 24.843917,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 393,
+      "nimi": "St1",
+      "leveysaste": 62.733493,
+      "pituusaste": 22.581769,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 394,
+      "nimi": "St1 Autopesu",
+      "leveysaste": 60.313474,
+      "pituusaste": 24.971739,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 395,
+      "nimi": "St1 Autopesu",
+      "leveysaste": 60.313495,
+      "pituusaste": 24.971771,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 396,
+      "nimi": "St1 Autopesu",
+      "leveysaste": 60.999251,
+      "pituusaste": 25.674216,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 397,
+      "nimi": "St1 Autopesu",
+      "leveysaste": 66.516338,
+      "pituusaste": 25.785696,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 398,
+      "nimi": "St1 Autopesu Haapalehto",
+      "leveysaste": 65.025748,
+      "pituusaste": 25.544628,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 399,
+      "nimi": "St1 Jakobstad Rådhusgatan",
+      "leveysaste": 63.674262,
+      "pituusaste": 22.68728,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 400,
+      "nimi": "St1 Oravais",
+      "leveysaste": 63.304489,
+      "pituusaste": 22.378579,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 401,
+      "nimi": "St1 Perfect Autopesu 24h",
+      "leveysaste": 60.307975,
+      "pituusaste": 24.997612,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 402,
+      "nimi": "St1 autopesu",
+      "leveysaste": 60.485089,
+      "pituusaste": 22.170422,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 403,
+      "nimi": "Sähkötien Autopesu",
+      "leveysaste": 60.325104,
+      "pituusaste": 24.309524,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 404,
+      "nimi": "TI-halli",
+      "leveysaste": 60.237816,
+      "pituusaste": 24.888661,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 405,
+      "nimi": "TP Autofix",
+      "leveysaste": 61.513853,
+      "pituusaste": 23.676385,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 406,
+      "nimi": "Teboil",
+      "leveysaste": 60.209991,
+      "pituusaste": 24.733947,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 407,
+      "nimi": "Teboil",
+      "leveysaste": 60.397406,
+      "pituusaste": 25.020903,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 408,
+      "nimi": "Teboil",
+      "leveysaste": 62.628397,
+      "pituusaste": 27.115817,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 409,
+      "nimi": "Teboil",
+      "leveysaste": 63.831325,
+      "pituusaste": 23.145937,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 410,
+      "nimi": "Teboil",
+      "leveysaste": 63.831327,
+      "pituusaste": 23.145884,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 411,
+      "nimi": "Teboil",
+      "leveysaste": 65.038997,
+      "pituusaste": 25.549975,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 412,
+      "nimi": "Teboil",
+      "leveysaste": 65.039003,
+      "pituusaste": 25.549996,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 413,
+      "nimi": "Teboil Autopesu Hyvinkää Sveitsinhovi",
+      "leveysaste": 60.621165,
+      "pituusaste": 24.80347,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 414,
+      "nimi": "Teboil Jakobstad",
+      "leveysaste": 63.678802,
+      "pituusaste": 22.71819,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 415,
+      "nimi": "Teboil Pesu",
+      "leveysaste": 60.610817,
+      "pituusaste": 24.855227,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 416,
+      "nimi": "Teboil Rekkapesu",
+      "leveysaste": 60.303287,
+      "pituusaste": 24.908387,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 417,
+      "nimi": "Teboil pesu",
+      "leveysaste": 60.241727,
+      "pituusaste": 24.925761,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 418,
+      "nimi": "Teboil pesu",
+      "leveysaste": 60.391302,
+      "pituusaste": 25.098651,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 419,
+      "nimi": "Teboil-autopesu",
+      "leveysaste": 64.960653,
+      "pituusaste": 25.525133,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 420,
+      "nimi": "Teboil-autopesu",
+      "leveysaste": 64.960663,
+      "pituusaste": 25.525096,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 421,
+      "nimi": "Tiiriön Rengas ja Pesu Oy",
+      "leveysaste": 61.016224,
+      "pituusaste": 24.399239,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 422,
+      "nimi": "Tokmannin Autopesu",
+      "leveysaste": 60.472218,
+      "pituusaste": 22.226585,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 423,
+      "nimi": "Tuijan Fixupesu",
+      "leveysaste": 63.765961,
+      "pituusaste": 24.252056,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 424,
+      "nimi": "Tullin baarin autopesu",
+      "leveysaste": 65.002665,
+      "pituusaste": 25.464617,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 425,
+      "nimi": "Turun Car Fix Oy",
+      "leveysaste": 60.437234,
+      "pituusaste": 22.336915,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 426,
+      "nimi": "Tähti Autopesu",
+      "leveysaste": 62.793608,
+      "pituusaste": 22.839482,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 427,
+      "nimi": "Vantaan Pesumesta Oy / Suomen Rengashalli",
+      "leveysaste": 60.287904,
+      "pituusaste": 24.900894,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 428,
+      "nimi": "Vianor",
+      "leveysaste": 64.963997,
+      "pituusaste": 25.507989,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 429,
+      "nimi": "Virpiniemi Car Care pop-up autopesula",
+      "leveysaste": 65.132135,
+      "pituusaste": 25.274526,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 430,
+      "nimi": "Voivalan Autopesu Oy",
+      "leveysaste": 60.409915,
+      "pituusaste": 22.401601,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 431,
+      "nimi": "Wash King Itäkeskus",
+      "leveysaste": 61.456109,
+      "pituusaste": 21.838931,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 432,
+      "nimi": "Wash King Itäkeskus",
+      "leveysaste": 61.456115,
+      "pituusaste": 21.838961,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 433,
+      "nimi": "WashMe",
+      "leveysaste": 62.618499,
+      "pituusaste": 29.743727,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 434,
+      "nimi": "WashXL",
+      "leveysaste": 60.722165,
+      "pituusaste": 24.746788,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 435,
+      "nimi": "WashXL",
+      "leveysaste": 60.722171,
+      "pituusaste": 24.746882,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 436,
+      "nimi": "XpressWash Hyvinkää",
+      "leveysaste": 60.620628,
+      "pituusaste": 24.876856,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 437,
+      "nimi": "XpressWash Hyvinkää",
+      "leveysaste": 60.62064,
+      "pituusaste": 24.876889,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 438,
+      "nimi": "XpressWash Tampere",
+      "leveysaste": 61.478362,
+      "pituusaste": 23.837044,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 439,
+      "nimi": "XpressWash Tampere",
+      "leveysaste": 61.478372,
+      "pituusaste": 23.837046,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 440,
+      "nimi": "autopesu.net",
+      "leveysaste": 60.868829,
+      "pituusaste": 26.67004,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 441,
+      "nimi": "autopesu.net Nokia",
+      "leveysaste": 61.464778,
+      "pituusaste": 23.506485,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 442,
+      "nimi": "autopesu.net Nokia",
+      "leveysaste": 61.464795,
+      "pituusaste": 23.506536,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 443,
+      "nimi": "motopesu",
+      "leveysaste": 65.079429,
+      "pituusaste": 25.448624,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 444,
+      "nimi": "motopesu",
+      "leveysaste": 65.079447,
+      "pituusaste": 25.448625,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 445,
+      "nimi": "Ässäpesu",
+      "leveysaste": 61.509423,
+      "pituusaste": 21.80451,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    },
+    {
+      "id": 446,
+      "nimi": "Мойка",
+      "leveysaste": 62.165069,
+      "pituusaste": 30.647762,
+      "osm_avain": "amenity",
+      "osm_arvo": "car_wash",
+      "osm_luokka": "amenity=car_wash"
+    }
+  ],
+  "meta": {
+    "title": "Autopesulat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Autopesulat Suomessa — 446 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=car_wash`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 48. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 446 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Autopesulat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Autopesulat – Suomi (OpenStreetMap) — 446 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 446 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

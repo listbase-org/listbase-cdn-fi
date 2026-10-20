@@ -1,0 +1,5605 @@
+{
+  "id": "fi-osm-amenity-recycling",
+  "name": "Kierrätyspisteet – Suomi (OpenStreetMap)",
+  "title": "Kierrätyspisteet – Suomi (OpenStreetMap)",
+  "description": "Kierrätyspisteet Suomessa — 616 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=recycling`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 40. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 616,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "40250-5",
+      "leveysaste": 62.276394,
+      "pituusaste": 25.769092,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 2,
+      "nimi": "Ab Ekorosk Oy",
+      "leveysaste": 63.653636,
+      "pituusaste": 22.802991,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 3,
+      "nimi": "Ahlmanintien jäteasema",
+      "leveysaste": 60.886037,
+      "pituusaste": 26.696458,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 4,
+      "nimi": "Ahvenisjärventie 21",
+      "leveysaste": 61.448001,
+      "pituusaste": 23.835293,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 5,
+      "nimi": "Aittaluodon lajitteluasema",
+      "leveysaste": 61.488115,
+      "pituusaste": 21.821635,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 6,
+      "nimi": "Aittaluodon lajitteluasema",
+      "leveysaste": 61.488217,
+      "pituusaste": 21.821713,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 7,
+      "nimi": "Akonpoukaman aluekeräyspiste",
+      "leveysaste": 64.138235,
+      "pituusaste": 29.456591,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 8,
+      "nimi": "Alahärmän hyötykäyttöasema",
+      "leveysaste": 63.246856,
+      "pituusaste": 22.833415,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 9,
+      "nimi": "Alahärmän hyötykäyttöasema",
+      "leveysaste": 63.246935,
+      "pituusaste": 22.833436,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 10,
+      "nimi": "Alavuden jäteasema",
+      "leveysaste": 62.600422,
+      "pituusaste": 23.61666,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 11,
+      "nimi": "Alavuden jäteasema",
+      "leveysaste": 62.600456,
+      "pituusaste": 23.61684,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 12,
+      "nimi": "Alueellinen keräyspiste",
+      "leveysaste": 62.136788,
+      "pituusaste": 25.671371,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 13,
+      "nimi": "Alueellinen keräyspiste",
+      "leveysaste": 62.144289,
+      "pituusaste": 25.698045,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 14,
+      "nimi": "Alueellinen keräyspiste (paperi)",
+      "leveysaste": 60.265774,
+      "pituusaste": 24.856908,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 15,
+      "nimi": "Alueellinen keräyspiste (paperinkeräys), Torpparimäentie 15 / Viskaalintie",
+      "leveysaste": 60.262478,
+      "pituusaste": 24.950381,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 16,
+      "nimi": "Alueellinen keräyspiste, Ilpolankuja 1",
+      "leveysaste": 60.258594,
+      "pituusaste": 24.819319,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 17,
+      "nimi": "Alueellinen keräyspiste,Henrikintie 2",
+      "leveysaste": 60.225868,
+      "pituusaste": 24.84639,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 18,
+      "nimi": "Alueellinen kierrätyspiste (paperi)",
+      "leveysaste": 60.283797,
+      "pituusaste": 24.860349,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 19,
+      "nimi": "Alueellinen kierrätyspiste,",
+      "leveysaste": 60.281523,
+      "pituusaste": 24.845167,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 20,
+      "nimi": "Alueellinen paperinkeräyspiste",
+      "leveysaste": 60.34911,
+      "pituusaste": 24.863111,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 21,
+      "nimi": "Aluekeräyspiste",
+      "leveysaste": 60.212013,
+      "pituusaste": 24.779671,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 22,
+      "nimi": "Aluekeräyspiste",
+      "leveysaste": 62.649266,
+      "pituusaste": 31.298267,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 23,
+      "nimi": "Aluekeräyspiste, Etelä-Nikinmäki",
+      "leveysaste": 60.336649,
+      "pituusaste": 25.144085,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 24,
+      "nimi": "Aluekeräyspiste, Jokiniemi",
+      "leveysaste": 60.298957,
+      "pituusaste": 25.053764,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 25,
+      "nimi": "Aluekeräyspiste, Koivukylä",
+      "leveysaste": 60.322846,
+      "pituusaste": 25.055303,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 26,
+      "nimi": "Aluekeräyspiste, Korso-Leppäkorpi",
+      "leveysaste": 60.358342,
+      "pituusaste": 25.079614,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 27,
+      "nimi": "Aluekeräyspiste, Korso-Metsola",
+      "leveysaste": 60.350924,
+      "pituusaste": 25.080641,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 28,
+      "nimi": "Aluekeräyspiste, Korso-Vierumäki",
+      "leveysaste": 60.358197,
+      "pituusaste": 25.054735,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 29,
+      "nimi": "Aluekeräyspiste, Päiväkumpu",
+      "leveysaste": 60.315212,
+      "pituusaste": 25.099232,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 30,
+      "nimi": "Aluekeräyspiste, Rautkallio",
+      "leveysaste": 60.324189,
+      "pituusaste": 25.062594,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 31,
+      "nimi": "Aluekeräyspiste, Rekola",
+      "leveysaste": 60.330871,
+      "pituusaste": 25.073569,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 32,
+      "nimi": "Aluekeräyspiste, Tikkurila",
+      "leveysaste": 60.292835,
+      "pituusaste": 25.031015,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 33,
+      "nimi": "Aluekeräyspiste, Tikkurila",
+      "leveysaste": 60.292838,
+      "pituusaste": 25.031015,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 34,
+      "nimi": "Aluekeräyspiste, Viertola",
+      "leveysaste": 60.300577,
+      "pituusaste": 25.026604,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 35,
+      "nimi": "Aluekeräyspiste, Ylästö",
+      "leveysaste": 60.279651,
+      "pituusaste": 24.918881,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 36,
+      "nimi": "Aluelämmön Tienvarsi",
+      "leveysaste": 63.247751,
+      "pituusaste": 22.848141,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 37,
+      "nimi": "Asbesti",
+      "leveysaste": 60.483839,
+      "pituusaste": 22.345144,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 38,
+      "nimi": "Asikkalan lajitteluasema",
+      "leveysaste": 61.15575,
+      "pituusaste": 25.596363,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 39,
+      "nimi": "Asikkalan maanvastaanottoalue",
+      "leveysaste": 61.155363,
+      "pituusaste": 25.597954,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 40,
+      "nimi": "Bengtsböle mottagningsstation",
+      "leveysaste": 60.065724,
+      "pituusaste": 20.117834,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 41,
+      "nimi": "Bengtsböle mottagningsstation",
+      "leveysaste": 60.065797,
+      "pituusaste": 20.117961,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 42,
+      "nimi": "Betoni, tiili ja posliini",
+      "leveysaste": 62.830248,
+      "pituusaste": 27.520593,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 43,
+      "nimi": "Betoni, tiili ja posliini",
+      "leveysaste": 62.830252,
+      "pituusaste": 27.520605,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 44,
+      "nimi": "Circulation Oy kierrätysasema",
+      "leveysaste": 60.33178,
+      "pituusaste": 24.914979,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 45,
+      "nimi": "Circulation Oy kierrätysasema",
+      "leveysaste": 60.331839,
+      "pituusaste": 24.914777,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 46,
+      "nimi": "Destamatic Pumerangi",
+      "leveysaste": 60.348903,
+      "pituusaste": 25.042096,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 47,
+      "nimi": "Eco Piste",
+      "leveysaste": 60.161293,
+      "pituusaste": 21.754287,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 48,
+      "nimi": "Ecopiste",
+      "leveysaste": 62.886215,
+      "pituusaste": 27.663672,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 49,
+      "nimi": "EkoTerminal",
+      "leveysaste": 65.84453,
+      "pituusaste": 24.181973,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 50,
+      "nimi": "Ekoasema Esa ja Pojat",
+      "leveysaste": 65.776583,
+      "pituusaste": 24.563657,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 51,
+      "nimi": "Ekoasema Esa ja Pojat",
+      "leveysaste": 65.77678,
+      "pituusaste": 24.56351,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 52,
+      "nimi": "Ekocenter",
+      "leveysaste": 60.032494,
+      "pituusaste": 22.488608,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 53,
+      "nimi": "Ekopaja",
+      "leveysaste": 60.473797,
+      "pituusaste": 22.25765,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 54,
+      "nimi": "Ekopiste",
+      "leveysaste": 60.370041,
+      "pituusaste": 24.397743,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 55,
+      "nimi": "Ekopiste",
+      "leveysaste": 60.397115,
+      "pituusaste": 25.732437,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 56,
+      "nimi": "Ekopiste",
+      "leveysaste": 60.525303,
+      "pituusaste": 24.538942,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 57,
+      "nimi": "Ekopiste",
+      "leveysaste": 61.017436,
+      "pituusaste": 25.163459,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 58,
+      "nimi": "Ekopiste",
+      "leveysaste": 61.12406,
+      "pituusaste": 27.489857,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 59,
+      "nimi": "Ekopiste",
+      "leveysaste": 61.188175,
+      "pituusaste": 27.661099,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 60,
+      "nimi": "Ekopiste",
+      "leveysaste": 61.674817,
+      "pituusaste": 25.000471,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 61,
+      "nimi": "Ekopiste",
+      "leveysaste": 61.819556,
+      "pituusaste": 22.693608,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 62,
+      "nimi": "Ekopiste",
+      "leveysaste": 62.143511,
+      "pituusaste": 30.048935,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 63,
+      "nimi": "Ekopiste",
+      "leveysaste": 63.085835,
+      "pituusaste": 21.699274,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 64,
+      "nimi": "Ekopiste",
+      "leveysaste": 63.085989,
+      "pituusaste": 21.728341,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 65,
+      "nimi": "Ekopiste",
+      "leveysaste": 63.090795,
+      "pituusaste": 21.683747,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 66,
+      "nimi": "Ekopiste",
+      "leveysaste": 63.093229,
+      "pituusaste": 21.669364,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 67,
+      "nimi": "Ekopiste",
+      "leveysaste": 63.100481,
+      "pituusaste": 21.669206,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 68,
+      "nimi": "Ekopiste",
+      "leveysaste": 63.841169,
+      "pituusaste": 23.114342,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 69,
+      "nimi": "Ekopiste",
+      "leveysaste": 64.325167,
+      "pituusaste": 30.045746,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 70,
+      "nimi": "Ekopiste",
+      "leveysaste": 65.034707,
+      "pituusaste": 26.034859,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 71,
+      "nimi": "Ekopiste",
+      "leveysaste": 65.039006,
+      "pituusaste": 25.575363,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 72,
+      "nimi": "Ekopiste",
+      "leveysaste": 65.040033,
+      "pituusaste": 25.554762,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 73,
+      "nimi": "Ekopiste",
+      "leveysaste": 66.963005,
+      "pituusaste": 27.504963,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 74,
+      "nimi": "Ekopiste",
+      "leveysaste": 67.024847,
+      "pituusaste": 27.258126,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 75,
+      "nimi": "Ekopiste",
+      "leveysaste": 67.046737,
+      "pituusaste": 27.210422,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 76,
+      "nimi": "Ekopiste",
+      "leveysaste": 67.067879,
+      "pituusaste": 27.232484,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 77,
+      "nimi": "Ekopiste",
+      "leveysaste": 67.076562,
+      "pituusaste": 27.381919,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 78,
+      "nimi": "Ekopiste Hakojärvi",
+      "leveysaste": 62.605991,
+      "pituusaste": 23.909013,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 79,
+      "nimi": "Ekopiste Hansas",
+      "leveysaste": 60.302367,
+      "pituusaste": 25.310189,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 80,
+      "nimi": "Ekopiste Mutkankylä",
+      "leveysaste": 62.676187,
+      "pituusaste": 23.931656,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 81,
+      "nimi": "Ekopiste Rantakylän S-market",
+      "leveysaste": 62.6155,
+      "pituusaste": 29.82139,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 82,
+      "nimi": "Ekopiste Ritola",
+      "leveysaste": 62.701366,
+      "pituusaste": 23.88016,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 83,
+      "nimi": "Ekopiste Salonkyläntie",
+      "leveysaste": 62.5553,
+      "pituusaste": 23.762017,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 84,
+      "nimi": "Ekopiste Suutala",
+      "leveysaste": 62.721192,
+      "pituusaste": 23.911732,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 85,
+      "nimi": "Ekopiste Tohni",
+      "leveysaste": 62.70451,
+      "pituusaste": 23.799166,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 86,
+      "nimi": "Ekopiste Tuuri",
+      "leveysaste": 62.602666,
+      "pituusaste": 23.745446,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 87,
+      "nimi": "Ekopiste Töysä",
+      "leveysaste": 62.64417,
+      "pituusaste": 23.81932,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 88,
+      "nimi": "Ekopiste Töysä Kirkonkylä",
+      "leveysaste": 62.63654,
+      "pituusaste": 23.820084,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 89,
+      "nimi": "Ekopiste, Linnanmäki",
+      "leveysaste": 60.18703,
+      "pituusaste": 24.940335,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 90,
+      "nimi": "Ekopiste, Linnanmäki",
+      "leveysaste": 60.18801,
+      "pituusaste": 24.938944,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 91,
+      "nimi": "Ekopunkt",
+      "leveysaste": 63.397213,
+      "pituusaste": 22.629435,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 92,
+      "nimi": "Ekopunkt",
+      "leveysaste": 63.519917,
+      "pituusaste": 22.529019,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 93,
+      "nimi": "Ekopunkt",
+      "leveysaste": 63.520166,
+      "pituusaste": 22.519323,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 94,
+      "nimi": "Ekopunkt",
+      "leveysaste": 63.532325,
+      "pituusaste": 22.542098,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 95,
+      "nimi": "Ekorosk återvinningsstation",
+      "leveysaste": 63.39295,
+      "pituusaste": 22.631377,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 96,
+      "nimi": "Emmy",
+      "leveysaste": 60.176037,
+      "pituusaste": 24.806324,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 97,
+      "nimi": "Emmy",
+      "leveysaste": 60.218281,
+      "pituusaste": 24.812106,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 98,
+      "nimi": "Emmy",
+      "leveysaste": 60.236834,
+      "pituusaste": 24.891446,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 99,
+      "nimi": "Encore Ympäristöpalvelut Oy Vantaa",
+      "leveysaste": 60.327661,
+      "pituusaste": 24.918986,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 100,
+      "nimi": "Encore Ympäristöpalvelut, Lappeenranta",
+      "leveysaste": 61.035214,
+      "pituusaste": 28.193568,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 101,
+      "nimi": "Energiajäte",
+      "leveysaste": 62.829793,
+      "pituusaste": 27.520674,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 102,
+      "nimi": "Energiajäte",
+      "leveysaste": 62.829797,
+      "pituusaste": 27.520686,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 103,
+      "nimi": "Energiajäte",
+      "leveysaste": 62.829861,
+      "pituusaste": 27.520663,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 104,
+      "nimi": "Energiajäte",
+      "leveysaste": 62.829864,
+      "pituusaste": 27.520675,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 105,
+      "nimi": "Energiajäte",
+      "leveysaste": 62.830055,
+      "pituusaste": 27.520633,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 106,
+      "nimi": "Energiajäte",
+      "leveysaste": 62.830059,
+      "pituusaste": 27.520645,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 107,
+      "nimi": "Enon Kiertämö",
+      "leveysaste": 62.796677,
+      "pituusaste": 30.139935,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 108,
+      "nimi": "Eristevilla",
+      "leveysaste": 62.830452,
+      "pituusaste": 27.52054,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 109,
+      "nimi": "Eristevilla",
+      "leveysaste": 62.830456,
+      "pituusaste": 27.520551,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 110,
+      "nimi": "Erkki Salminen Oy",
+      "leveysaste": 61.902435,
+      "pituusaste": 25.14396,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 111,
+      "nimi": "Eteläkeskus kierrätyspiste",
+      "leveysaste": 66.492364,
+      "pituusaste": 25.683483,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 112,
+      "nimi": "Eurajoen kierrätyskeskus",
+      "leveysaste": 61.198934,
+      "pituusaste": 21.728312,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 113,
+      "nimi": "Evakkotien kierrätyspiste",
+      "leveysaste": 62.269614,
+      "pituusaste": 25.719703,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 114,
+      "nimi": "Fida",
+      "leveysaste": 60.162295,
+      "pituusaste": 24.915436,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 115,
+      "nimi": "Fida Lähetystori",
+      "leveysaste": 60.162426,
+      "pituusaste": 24.780981,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 116,
+      "nimi": "Fida keräyslaatikko",
+      "leveysaste": 60.189092,
+      "pituusaste": 25.025988,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 117,
+      "nimi": "Fida vaatekeräys",
+      "leveysaste": 60.976626,
+      "pituusaste": 24.473275,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 118,
+      "nimi": "Fida vaatekeräys",
+      "leveysaste": 60.992726,
+      "pituusaste": 24.466349,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 119,
+      "nimi": "Forumin pysäköintihalli",
+      "leveysaste": 60.169418,
+      "pituusaste": 24.931859,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 120,
+      "nimi": "Föglö återvinningscentral",
+      "leveysaste": 60.044157,
+      "pituusaste": 20.437096,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 121,
+      "nimi": "Geta återvinningscentral",
+      "leveysaste": 60.365863,
+      "pituusaste": 19.842093,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 122,
+      "nimi": "Gigantti Lommila SER-kierrätyspiste",
+      "leveysaste": 60.219491,
+      "pituusaste": 24.665433,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 123,
+      "nimi": "HSY Jorvaksen Sortti-asema",
+      "leveysaste": 60.136836,
+      "pituusaste": 24.522817,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 124,
+      "nimi": "HSY Jorvaksen Sortti-asema",
+      "leveysaste": 60.136848,
+      "pituusaste": 24.522816,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 125,
+      "nimi": "HSY Kivikon Sortti-asema",
+      "leveysaste": 60.236775,
+      "pituusaste": 25.050346,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 126,
+      "nimi": "HSY Konalan Sortti-asema",
+      "leveysaste": 60.251324,
+      "pituusaste": 24.835013,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 127,
+      "nimi": "HSY Konalan Sortti-asema",
+      "leveysaste": 60.251328,
+      "pituusaste": 24.835048,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 128,
+      "nimi": "HSY Ruskeasannan Sortti-asema",
+      "leveysaste": 60.320313,
+      "pituusaste": 24.994322,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 129,
+      "nimi": "HSY Ruskeasannan Sortti-asema",
+      "leveysaste": 60.320382,
+      "pituusaste": 24.994362,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 130,
+      "nimi": "HSY poistotekstiilien keräyspiste",
+      "leveysaste": 60.259904,
+      "pituusaste": 24.853552,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 131,
+      "nimi": "HSY Ämmässuon Sortti-asema",
+      "leveysaste": 60.240566,
+      "pituusaste": 24.540776,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 132,
+      "nimi": "Haapajärven Rautapojat & Haanpään kiinteistö ja kuljetus",
+      "leveysaste": 63.763288,
+      "pituusaste": 25.336909,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 133,
+      "nimi": "Hangon jäteasema",
+      "leveysaste": 59.84105,
+      "pituusaste": 23.015203,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 134,
+      "nimi": "Heikkilän aukion alueellinen keräyspiste",
+      "leveysaste": 60.154003,
+      "pituusaste": 24.880341,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 135,
+      "nimi": "Heikkilän aukion alueellinen keräyspiste",
+      "leveysaste": 60.154005,
+      "pituusaste": 24.880341,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 136,
+      "nimi": "Hernesaaren Romu Oy",
+      "leveysaste": 60.256462,
+      "pituusaste": 25.057385,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 137,
+      "nimi": "Hietaperän aluekeräyspiste",
+      "leveysaste": 64.193711,
+      "pituusaste": 29.1654,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 138,
+      "nimi": "Hietaperän aluekeräyspiste",
+      "leveysaste": 64.193722,
+      "pituusaste": 29.165415,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 139,
+      "nimi": "Hollolan lajitteluasema",
+      "leveysaste": 60.97223,
+      "pituusaste": 25.494572,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 140,
+      "nimi": "Hope – Yhdessä & Yhteisesti ry pääkaupunkiseutu",
+      "leveysaste": 60.21407,
+      "pituusaste": 24.873789,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 141,
+      "nimi": "Huhtamäen Koulu",
+      "leveysaste": 63.271819,
+      "pituusaste": 22.710879,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 142,
+      "nimi": "Huittisten jäteasema",
+      "leveysaste": 61.201418,
+      "pituusaste": 22.703718,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 143,
+      "nimi": "Hukanhaudan hyötyjätteen keräyspiste",
+      "leveysaste": 62.580014,
+      "pituusaste": 29.803746,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 144,
+      "nimi": "Huonekalut",
+      "leveysaste": 60.483857,
+      "pituusaste": 22.345081,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 145,
+      "nimi": "Hyrynsalmen lajitteluasema",
+      "leveysaste": 64.663708,
+      "pituusaste": 28.465179,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 146,
+      "nimi": "Hyvinkään kiertotalouskeskittymä",
+      "leveysaste": 60.656221,
+      "pituusaste": 24.842766,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 147,
+      "nimi": "Hyvinkään kiertotalouskeskittymä",
+      "leveysaste": 60.65627,
+      "pituusaste": 24.842579,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 148,
+      "nimi": "Hyväkuntoisten vaatteiden piste",
+      "leveysaste": 60.275634,
+      "pituusaste": 24.996704,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 149,
+      "nimi": "Hyötispiste",
+      "leveysaste": 61.037064,
+      "pituusaste": 26.34168,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 150,
+      "nimi": "Hyötyhalli",
+      "leveysaste": 61.086564,
+      "pituusaste": 28.153022,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 151,
+      "nimi": "Hyötyjäteasema",
+      "leveysaste": 63.896533,
+      "pituusaste": 23.892163,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 152,
+      "nimi": "Hyötyjäteasema",
+      "leveysaste": 63.901081,
+      "pituusaste": 25.028272,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 153,
+      "nimi": "Hyötyjäteasema",
+      "leveysaste": 63.901211,
+      "pituusaste": 25.027592,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 154,
+      "nimi": "Hyötyjäteasema",
+      "leveysaste": 64.155746,
+      "pituusaste": 25.360064,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 155,
+      "nimi": "Hyötyjäteasema",
+      "leveysaste": 64.15576,
+      "pituusaste": 25.360245,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 156,
+      "nimi": "Hyötyjäteasema",
+      "leveysaste": 67.59076,
+      "pituusaste": 24.929414,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 157,
+      "nimi": "Hyötyjäteasema",
+      "leveysaste": 67.590842,
+      "pituusaste": 24.92939,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 158,
+      "nimi": "Hyötyjätepiste",
+      "leveysaste": 61.167086,
+      "pituusaste": 28.764927,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 159,
+      "nimi": "Hyötyjätepiste",
+      "leveysaste": 61.186436,
+      "pituusaste": 28.770379,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 160,
+      "nimi": "Hyötyjätepiste",
+      "leveysaste": 61.188238,
+      "pituusaste": 28.766724,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 161,
+      "nimi": "Hyötyjätepiste",
+      "leveysaste": 61.200501,
+      "pituusaste": 28.759194,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 162,
+      "nimi": "Hyötyjätepiste",
+      "leveysaste": 61.222246,
+      "pituusaste": 28.832121,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 163,
+      "nimi": "Hyötyjätepiste",
+      "leveysaste": 61.442344,
+      "pituusaste": 23.863848,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 164,
+      "nimi": "Hyötyjätepiste",
+      "leveysaste": 61.490503,
+      "pituusaste": 26.725988,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 165,
+      "nimi": "Hyötyjätepiste, Eskolanmäki",
+      "leveysaste": 60.851179,
+      "pituusaste": 26.709008,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 166,
+      "nimi": "Hyötyjätepiste, Kauppalankatu",
+      "leveysaste": 60.874544,
+      "pituusaste": 26.703254,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 167,
+      "nimi": "Hyötyjätepiste, Kiltatie",
+      "leveysaste": 60.901928,
+      "pituusaste": 26.604772,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 168,
+      "nimi": "Hyötyjätepiste, Kolarinmäki",
+      "leveysaste": 60.895824,
+      "pituusaste": 26.650578,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 169,
+      "nimi": "Hyötyjätepiste, Kuusankoski keskusta",
+      "leveysaste": 60.906285,
+      "pituusaste": 26.621793,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 170,
+      "nimi": "Hyötyjätepiste, Kymenranta",
+      "leveysaste": 60.928026,
+      "pituusaste": 26.593346,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 171,
+      "nimi": "Hyötyjätepiste, Kääpälä",
+      "leveysaste": 61.096341,
+      "pituusaste": 26.970563,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 172,
+      "nimi": "Hyötyjätepiste, Lehtomäki (S-Market)",
+      "leveysaste": 60.887767,
+      "pituusaste": 26.726171,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 173,
+      "nimi": "Hyötyjätepiste, Mielakka",
+      "leveysaste": 60.859595,
+      "pituusaste": 26.749596,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 174,
+      "nimi": "Hyötyjätepiste, Mäyräkorpi",
+      "leveysaste": 60.886189,
+      "pituusaste": 26.65409,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 175,
+      "nimi": "Hyötyjätepiste, Mörkölinja",
+      "leveysaste": 60.897146,
+      "pituusaste": 26.65789,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 176,
+      "nimi": "Hyötyjätepiste, Naukio",
+      "leveysaste": 60.913597,
+      "pituusaste": 26.617945,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 177,
+      "nimi": "Hyötyjätepiste, Niskala",
+      "leveysaste": 60.891649,
+      "pituusaste": 26.622973,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 178,
+      "nimi": "Hyötyjätepiste, Pappikallio",
+      "leveysaste": 60.851532,
+      "pituusaste": 26.736415,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 179,
+      "nimi": "Hyötyjätepiste, Pikku-Palomäki",
+      "leveysaste": 60.877058,
+      "pituusaste": 26.727577,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 180,
+      "nimi": "Hyötyjätepiste, Prisma",
+      "leveysaste": 60.870721,
+      "pituusaste": 26.65391,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 181,
+      "nimi": "Hyötyjätepiste, Puistomaa",
+      "leveysaste": 60.911452,
+      "pituusaste": 26.638123,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 182,
+      "nimi": "Hyötyjätepiste, Rantakulma",
+      "leveysaste": 60.9017,
+      "pituusaste": 26.628206,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 183,
+      "nimi": "Hyötyjätepiste, Ravikylä",
+      "leveysaste": 60.882979,
+      "pituusaste": 26.704807,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 184,
+      "nimi": "Hyötyjätepiste, Rekola",
+      "leveysaste": 60.910573,
+      "pituusaste": 26.598182,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 185,
+      "nimi": "Hyötyjätepiste, Salpausselänkatu",
+      "leveysaste": 60.870096,
+      "pituusaste": 26.714869,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 186,
+      "nimi": "Hyötyjätepiste, Tanhuantie",
+      "leveysaste": 60.85663,
+      "pituusaste": 26.694895,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 187,
+      "nimi": "Hyötyjätepiste, Tornionmäki",
+      "leveysaste": 60.873899,
+      "pituusaste": 26.738631,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 188,
+      "nimi": "Hyötyjätepiste, Tunnelikatu",
+      "leveysaste": 60.868021,
+      "pituusaste": 26.70944,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 189,
+      "nimi": "Hyötyjätepiste, Vahtero",
+      "leveysaste": 60.860678,
+      "pituusaste": 26.720551,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 190,
+      "nimi": "Hyötyjätepiste, Viitakumpu",
+      "leveysaste": 60.881216,
+      "pituusaste": 26.740566,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 191,
+      "nimi": "Hyötyjätteen keräys, Mikkola",
+      "leveysaste": 60.343963,
+      "pituusaste": 25.098425,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 192,
+      "nimi": "Hyötyjätteen keräys, Pohjois-Nikinmäki",
+      "leveysaste": 60.346393,
+      "pituusaste": 25.125634,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 193,
+      "nimi": "Hyötykeräyspiste",
+      "leveysaste": 62.127205,
+      "pituusaste": 25.658973,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 194,
+      "nimi": "Hyötykeräyspiste",
+      "leveysaste": 62.138132,
+      "pituusaste": 25.683153,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 195,
+      "nimi": "Hyötykeräyspiste",
+      "leveysaste": 62.138807,
+      "pituusaste": 25.666377,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 196,
+      "nimi": "Hyötykeräyspiste",
+      "leveysaste": 62.139365,
+      "pituusaste": 25.695415,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 197,
+      "nimi": "Hyötykäyttöasema",
+      "leveysaste": 63.05952,
+      "pituusaste": 22.06852,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 198,
+      "nimi": "Hyötykäyttöasema",
+      "leveysaste": 63.059527,
+      "pituusaste": 22.068527,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 199,
+      "nimi": "Hyötykäyttöasema",
+      "leveysaste": 63.833431,
+      "pituusaste": 23.140786,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 200,
+      "nimi": "Iivantiiran aluekeräyspiste",
+      "leveysaste": 64.455212,
+      "pituusaste": 29.52117,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 201,
+      "nimi": "Ilomantsin jäteasema",
+      "leveysaste": 62.673211,
+      "pituusaste": 30.941158,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 202,
+      "nimi": "Imatran jäteasema",
+      "leveysaste": 61.213584,
+      "pituusaste": 28.794175,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 203,
+      "nimi": "Jaalan jäteasema",
+      "leveysaste": 61.060566,
+      "pituusaste": 26.462109,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 204,
+      "nimi": "Jonkerin aluekeräyspiste",
+      "leveysaste": 63.843553,
+      "pituusaste": 29.842074,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 205,
+      "nimi": "Jonkerin aluekeräyspiste",
+      "leveysaste": 63.843559,
+      "pituusaste": 29.842061,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 206,
+      "nimi": "Jumalniemen jäteasema",
+      "leveysaste": 60.50648,
+      "pituusaste": 26.923761,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 207,
+      "nimi": "Jämäksen aluekeräyspiste",
+      "leveysaste": 64.091926,
+      "pituusaste": 29.435983,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 208,
+      "nimi": "Jämäksen aluekeräyspiste",
+      "leveysaste": 64.091935,
+      "pituusaste": 29.435983,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 209,
+      "nimi": "Jäteasema",
+      "leveysaste": 60.713868,
+      "pituusaste": 26.460411,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 210,
+      "nimi": "Jäteasema",
+      "leveysaste": 63.092429,
+      "pituusaste": 27.656392,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 211,
+      "nimi": "Jäteasema",
+      "leveysaste": 63.092451,
+      "pituusaste": 27.656444,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 212,
+      "nimi": "Jätehuolto M. Helistölä",
+      "leveysaste": 60.862141,
+      "pituusaste": 21.730033,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 213,
+      "nimi": "Jätehuolto M. Helistölä",
+      "leveysaste": 60.862277,
+      "pituusaste": 21.730128,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 214,
+      "nimi": "Jätepiste",
+      "leveysaste": 60.764163,
+      "pituusaste": 26.078969,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 215,
+      "nimi": "Jätepiste",
+      "leveysaste": 61.112555,
+      "pituusaste": 27.192955,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 216,
+      "nimi": "KK MARKET - Kierrätyspiste",
+      "leveysaste": 62.388935,
+      "pituusaste": 25.64558,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 217,
+      "nimi": "Kairatien kierrätyspiste",
+      "leveysaste": 66.51912,
+      "pituusaste": 25.700541,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 218,
+      "nimi": "Kaitalammensuo",
+      "leveysaste": 60.317653,
+      "pituusaste": 24.663891,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 219,
+      "nimi": "Kalajoen lajittelupiha",
+      "leveysaste": 64.244594,
+      "pituusaste": 23.882087,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 220,
+      "nimi": "Kangasalan jäteasema",
+      "leveysaste": 61.466603,
+      "pituusaste": 24.036285,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 221,
+      "nimi": "Kangashäkki",
+      "leveysaste": 62.529822,
+      "pituusaste": 25.599752,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 222,
+      "nimi": "Kappeli",
+      "leveysaste": 62.237627,
+      "pituusaste": 25.733022,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 223,
+      "nimi": "Kapulan jätteidenkäsittelyalue",
+      "leveysaste": 60.665568,
+      "pituusaste": 24.800944,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 224,
+      "nimi": "Kapulan jätteidenkäsittelyalue",
+      "leveysaste": 60.665602,
+      "pituusaste": 24.801044,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 225,
+      "nimi": "Karankatu 3 (Ammattikoulun P-alue)",
+      "leveysaste": 60.641831,
+      "pituusaste": 24.86337,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 226,
+      "nimi": "Karanojan jätteidenkäsittelyalue",
+      "leveysaste": 60.942086,
+      "pituusaste": 24.483173,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 227,
+      "nimi": "Karis återanvändningscentral",
+      "leveysaste": 60.075468,
+      "pituusaste": 23.679275,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 228,
+      "nimi": "Karjalohjan kierrätysasema",
+      "leveysaste": 60.244016,
+      "pituusaste": 23.732167,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 229,
+      "nimi": "Karkkilan jäteasema",
+      "leveysaste": 60.519239,
+      "pituusaste": 24.234068,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 230,
+      "nimi": "Karkkilan jäteasema",
+      "leveysaste": 60.519266,
+      "pituusaste": 24.234061,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 231,
+      "nimi": "Kauhajoen hyötykäyttöasema",
+      "leveysaste": 62.459068,
+      "pituusaste": 22.228396,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 232,
+      "nimi": "Kauhajoen hyötykäyttöasema",
+      "leveysaste": 62.459079,
+      "pituusaste": 22.228204,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 233,
+      "nimi": "Kauhavan hyötykäyttöasema",
+      "leveysaste": 63.081262,
+      "pituusaste": 23.052932,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 234,
+      "nimi": "Kausalan jäteasema",
+      "leveysaste": 60.88499,
+      "pituusaste": 26.327174,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 235,
+      "nimi": "Keljonkeskus",
+      "leveysaste": 62.216397,
+      "pituusaste": 25.722983,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 236,
+      "nimi": "Keltakankaan jäteasema",
+      "leveysaste": 60.746925,
+      "pituusaste": 26.863309,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 237,
+      "nimi": "Kemiönsaaren pienjäteasema",
+      "leveysaste": 60.083179,
+      "pituusaste": 22.532306,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 238,
+      "nimi": "Kenesjärvi ekopiste",
+      "leveysaste": 69.683481,
+      "pituusaste": 27.077369,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 239,
+      "nimi": "Keuruun Kierrätyskeskus",
+      "leveysaste": 62.237126,
+      "pituusaste": 24.682422,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 240,
+      "nimi": "Kierrätys Laineaho",
+      "leveysaste": 61.056279,
+      "pituusaste": 28.268873,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 241,
+      "nimi": "Kierrätyskatu",
+      "leveysaste": 60.297485,
+      "pituusaste": 24.95515,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 242,
+      "nimi": "Kierrätyskeskus",
+      "leveysaste": 61.517195,
+      "pituusaste": 23.657814,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 243,
+      "nimi": "Kierrätyskeskus",
+      "leveysaste": 66.852899,
+      "pituusaste": 24.01579,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 244,
+      "nimi": "Kierrätyskeskus",
+      "leveysaste": 66.852991,
+      "pituusaste": 24.016069,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 245,
+      "nimi": "Kierrätyskeskus 4H",
+      "leveysaste": 64.687769,
+      "pituusaste": 24.545768,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 246,
+      "nimi": "Kierrätyskeskus Kerkkä",
+      "leveysaste": 60.632811,
+      "pituusaste": 24.863978,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 247,
+      "nimi": "Kierrätyskeskus Kirsikka",
+      "leveysaste": 60.402211,
+      "pituusaste": 25.099764,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 248,
+      "nimi": "Kierrätyskontti",
+      "leveysaste": 60.15733,
+      "pituusaste": 24.911086,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 249,
+      "nimi": "Kierrätyslaitos Kerava",
+      "leveysaste": 60.371738,
+      "pituusaste": 25.106013,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 250,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 60.257317,
+      "pituusaste": 24.946595,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 251,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 60.840147,
+      "pituusaste": 23.047539,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 252,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 60.840164,
+      "pituusaste": 23.047551,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 253,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 61.968381,
+      "pituusaste": 26.978133,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 254,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.138754,
+      "pituusaste": 24.500583,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 255,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.19269,
+      "pituusaste": 29.852887,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 256,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.199737,
+      "pituusaste": 30.004605,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 257,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.21219,
+      "pituusaste": 29.720109,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 258,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.272359,
+      "pituusaste": 29.756479,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 259,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.313826,
+      "pituusaste": 29.633141,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 260,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.330306,
+      "pituusaste": 29.85341,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 261,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.331461,
+      "pituusaste": 29.631179,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 262,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.366226,
+      "pituusaste": 29.53542,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 263,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.675229,
+      "pituusaste": 29.794076,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 264,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.840019,
+      "pituusaste": 27.642702,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 265,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.850411,
+      "pituusaste": 27.640066,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 266,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.862628,
+      "pituusaste": 27.616081,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 267,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.880277,
+      "pituusaste": 27.63452,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 268,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 62.901788,
+      "pituusaste": 27.649458,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 269,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 65.09624,
+      "pituusaste": 25.399569,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 270,
+      "nimi": "Kierrätyspiste",
+      "leveysaste": 67.018012,
+      "pituusaste": 27.251954,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 271,
+      "nimi": "Kierrätyspiste Kotitalouksille",
+      "leveysaste": 61.359889,
+      "pituusaste": 21.621778,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 272,
+      "nimi": "Kierrätyspiste Kotitalouksille",
+      "leveysaste": 61.359909,
+      "pituusaste": 21.621761,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 273,
+      "nimi": "Kierrätyspiste Saarenkylä",
+      "leveysaste": 66.517334,
+      "pituusaste": 25.757232,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 274,
+      "nimi": "Kierrätyspiste Vaskivesi",
+      "leveysaste": 62.147187,
+      "pituusaste": 23.656754,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 275,
+      "nimi": "Kierrätyspiste, Eräkuja 1A",
+      "leveysaste": 60.27119,
+      "pituusaste": 24.856603,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 276,
+      "nimi": "Kierrätyspiste, Piikkikuja / Sahapolku",
+      "leveysaste": 60.258761,
+      "pituusaste": 24.826863,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 277,
+      "nimi": "Kierrätystavaran vastaanotto Porttipuisto",
+      "leveysaste": 60.278867,
+      "pituusaste": 25.085448,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 278,
+      "nimi": "Kilpisjärven ecoASEMA",
+      "leveysaste": 69.039214,
+      "pituusaste": 20.815075,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 279,
+      "nimi": "Kilpisjärven ecoASEMA",
+      "leveysaste": 69.039228,
+      "pituusaste": 20.815172,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 280,
+      "nimi": "Kipsijäte",
+      "leveysaste": 62.83032,
+      "pituusaste": 27.520579,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 281,
+      "nimi": "Kipsijäte",
+      "leveysaste": 62.830324,
+      "pituusaste": 27.520591,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 282,
+      "nimi": "Kiviperänlahden aluekeräyspiste",
+      "leveysaste": 64.269779,
+      "pituusaste": 29.378577,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 283,
+      "nimi": "Kiviperänlahden aluekeräyspiste",
+      "leveysaste": 64.269783,
+      "pituusaste": 29.37855,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 284,
+      "nimi": "Koivukylän Sortti-pienasema",
+      "leveysaste": 60.317338,
+      "pituusaste": 25.060277,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 285,
+      "nimi": "Koivukylän kierrätyspiste",
+      "leveysaste": 60.3174,
+      "pituusaste": 25.060435,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 286,
+      "nimi": "Kontikaaren Maksullinen puoli",
+      "leveysaste": 62.588143,
+      "pituusaste": 29.825777,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 287,
+      "nimi": "Kontiokaaren ilmainen puoli",
+      "leveysaste": 62.588496,
+      "pituusaste": 29.82504,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 288,
+      "nimi": "Kontiokaaren ilmainen puoli",
+      "leveysaste": 62.588527,
+      "pituusaste": 29.824995,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 289,
+      "nimi": "Kontiokaaren itsepalveluasema",
+      "leveysaste": 62.588176,
+      "pituusaste": 29.825226,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 290,
+      "nimi": "Kontiolahden jäteasema",
+      "leveysaste": 62.723911,
+      "pituusaste": 29.862603,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 291,
+      "nimi": "Kontiolahden jäteasema",
+      "leveysaste": 62.724034,
+      "pituusaste": 29.86266,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 292,
+      "nimi": "Kooninkeitaan jäteasema",
+      "leveysaste": 61.803091,
+      "pituusaste": 22.330311,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 293,
+      "nimi": "Kooninkeitaan jäteasema",
+      "leveysaste": 61.803095,
+      "pituusaste": 22.330177,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 294,
+      "nimi": "Korian jäteasema",
+      "leveysaste": 60.842016,
+      "pituusaste": 26.6307,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 295,
+      "nimi": "Korian jäteasema",
+      "leveysaste": 60.84203,
+      "pituusaste": 26.630611,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 296,
+      "nimi": "Korjaamo Ykköset Oy",
+      "leveysaste": 62.146974,
+      "pituusaste": 25.679168,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 297,
+      "nimi": "Korvenmäen jätekeskus",
+      "leveysaste": 60.379825,
+      "pituusaste": 23.227606,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 298,
+      "nimi": "Korvenmäen jätekeskus",
+      "leveysaste": 60.379828,
+      "pituusaste": 23.227608,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 299,
+      "nimi": "Kuhmon lajitteluasema",
+      "leveysaste": 64.107491,
+      "pituusaste": 29.494192,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 300,
+      "nimi": "Kuhmon tienhaaran aluekeräyspiste",
+      "leveysaste": 64.66139,
+      "pituusaste": 28.512885,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 301,
+      "nimi": "Kuhmon tienhaaran aluekeräyspiste",
+      "leveysaste": 64.661397,
+      "pituusaste": 28.51289,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 302,
+      "nimi": "Kuhmonniemen aluekeräyspiste",
+      "leveysaste": 64.126297,
+      "pituusaste": 29.606638,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 303,
+      "nimi": "Kuhmonniemen aluekeräyspiste",
+      "leveysaste": 64.126301,
+      "pituusaste": 29.60662,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 304,
+      "nimi": "Kunnan varikko / Kiertokapula Oy & Suomen Pakkauskierrätys RINKI Oy",
+      "leveysaste": 60.64041,
+      "pituusaste": 25.320404,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 305,
+      "nimi": "Kuopion lajitteluasema",
+      "leveysaste": 62.830088,
+      "pituusaste": 27.520622,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 306,
+      "nimi": "Kuopion lajitteluasema",
+      "leveysaste": 62.830136,
+      "pituusaste": 27.520623,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 307,
+      "nimi": "Kuortaneen jäteasema",
+      "leveysaste": 62.80345,
+      "pituusaste": 23.525189,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 308,
+      "nimi": "Kuralan kierrätyspiste",
+      "leveysaste": 61.309517,
+      "pituusaste": 23.478008,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 309,
+      "nimi": "Kuralan kierrätyspiste",
+      "leveysaste": 61.309563,
+      "pituusaste": 23.478043,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 310,
+      "nimi": "Kurikan RE-piste",
+      "leveysaste": 62.629602,
+      "pituusaste": 22.372549,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 311,
+      "nimi": "Kurikan RE-piste",
+      "leveysaste": 62.629672,
+      "pituusaste": 22.372619,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 312,
+      "nimi": "Kuusakoski",
+      "leveysaste": 61.160288,
+      "pituusaste": 25.987144,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 313,
+      "nimi": "Kuusakoski",
+      "leveysaste": 62.941124,
+      "pituusaste": 23.045604,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 314,
+      "nimi": "Kuusakoski Oy",
+      "leveysaste": 60.186352,
+      "pituusaste": 24.593568,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 315,
+      "nimi": "Kuusakoski Oy Vantaa",
+      "leveysaste": 60.349634,
+      "pituusaste": 24.912777,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 316,
+      "nimi": "Kyllästetty puu",
+      "leveysaste": 62.830121,
+      "pituusaste": 27.520621,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 317,
+      "nimi": "Kyllästetty puu",
+      "leveysaste": 62.830125,
+      "pituusaste": 27.520633,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 318,
+      "nimi": "Kytkinlehdon aluekeräyspiste",
+      "leveysaste": 64.448939,
+      "pituusaste": 28.626346,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 319,
+      "nimi": "Kytkinlehdon aluekeräyspiste",
+      "leveysaste": 64.44895,
+      "pituusaste": 28.626357,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 320,
+      "nimi": "Käylän lajittelupiste",
+      "leveysaste": 66.296292,
+      "pituusaste": 29.145461,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 321,
+      "nimi": "L&T Rakennusjäte",
+      "leveysaste": 60.253133,
+      "pituusaste": 24.832701,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 322,
+      "nimi": "LSJH Rauhalan jätekeskus",
+      "leveysaste": 60.313809,
+      "pituusaste": 22.258108,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 323,
+      "nimi": "Lahjoitustavaran vastaanotto",
+      "leveysaste": 60.198459,
+      "pituusaste": 24.973667,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 324,
+      "nimi": "Lajitteluareena Lare",
+      "leveysaste": 65.056606,
+      "pituusaste": 25.540969,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 325,
+      "nimi": "Lajitteluareena Lare",
+      "leveysaste": 65.056631,
+      "pituusaste": 25.54115,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 326,
+      "nimi": "Lakeuden Etappi",
+      "leveysaste": 62.7132,
+      "pituusaste": 22.717255,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 327,
+      "nimi": "Lakeuden Etappi Oy Ähtärin jäteasema",
+      "leveysaste": 62.551199,
+      "pituusaste": 24.107798,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 328,
+      "nimi": "Lammasjärven aluekeräyspiste",
+      "leveysaste": 64.115928,
+      "pituusaste": 29.527508,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 329,
+      "nimi": "Lammasjärven aluekeräyspiste",
+      "leveysaste": 64.115929,
+      "pituusaste": 29.527483,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 330,
+      "nimi": "Lapaskankaan jäteasema",
+      "leveysaste": 62.009298,
+      "pituusaste": 26.652187,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 331,
+      "nimi": "Lassila & Tikanoja",
+      "leveysaste": 60.370694,
+      "pituusaste": 25.105709,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 332,
+      "nimi": "Lassila & Tikanoja",
+      "leveysaste": 61.857516,
+      "pituusaste": 21.645298,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 333,
+      "nimi": "Lassila & Tikanoja Ongelmajätehuolto",
+      "leveysaste": 60.382507,
+      "pituusaste": 25.05629,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 334,
+      "nimi": "Lauvuskylän aluekeräyspiste",
+      "leveysaste": 63.909046,
+      "pituusaste": 29.535498,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 335,
+      "nimi": "Lauvuskylän aluekeräyspiste",
+      "leveysaste": 63.909056,
+      "pituusaste": 29.53551,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 336,
+      "nimi": "Lehtimäen hyötyjäteasema",
+      "leveysaste": 62.803177,
+      "pituusaste": 23.935771,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 337,
+      "nimi": "Lentiiran aluekeräyspiste",
+      "leveysaste": 64.38812,
+      "pituusaste": 29.838851,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 338,
+      "nimi": "Linja-autoaseman Rinki-ekopiste",
+      "leveysaste": 64.126782,
+      "pituusaste": 29.527506,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 339,
+      "nimi": "Liperin jäteasema",
+      "leveysaste": 62.618583,
+      "pituusaste": 29.510748,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 340,
+      "nimi": "Liperin jäteasema",
+      "leveysaste": 62.618684,
+      "pituusaste": 29.510861,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 341,
+      "nimi": "Lohjan jätekeskus, Munkkaa",
+      "leveysaste": 60.251645,
+      "pituusaste": 24.141237,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 342,
+      "nimi": "Lohjan jätekeskus, Munkkaa",
+      "leveysaste": 60.251675,
+      "pituusaste": 24.141281,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 343,
+      "nimi": "Loviisan jäteasema",
+      "leveysaste": 60.452036,
+      "pituusaste": 26.194367,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 344,
+      "nimi": "Loviisan jäteasema",
+      "leveysaste": 60.452106,
+      "pituusaste": 26.194532,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 345,
+      "nimi": "Luotsin Rakennuskierrätys",
+      "leveysaste": 60.993,
+      "pituusaste": 24.495147,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 346,
+      "nimi": "Lyöttilän hyötykeräyspiste",
+      "leveysaste": 60.956042,
+      "pituusaste": 26.445042,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 347,
+      "nimi": "Majasaaren jätekeskus",
+      "leveysaste": 64.156351,
+      "pituusaste": 27.631463,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 348,
+      "nimi": "Majasaaren jätekeskus",
+      "leveysaste": 64.156392,
+      "pituusaste": 27.631728,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 349,
+      "nimi": "Malax Recycling Center",
+      "leveysaste": 62.961038,
+      "pituusaste": 21.567466,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 350,
+      "nimi": "Malax Recycling Center",
+      "leveysaste": 62.961153,
+      "pituusaste": 21.567779,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 351,
+      "nimi": "Mannilan kierrätyspiste",
+      "leveysaste": 62.269996,
+      "pituusaste": 25.722453,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 352,
+      "nimi": "Mateko Oy",
+      "leveysaste": 62.147039,
+      "pituusaste": 25.677462,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 353,
+      "nimi": "Metalli",
+      "leveysaste": 62.830185,
+      "pituusaste": 27.520605,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 354,
+      "nimi": "Metalli",
+      "leveysaste": 62.830189,
+      "pituusaste": 27.520617,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 355,
+      "nimi": "Metalliromun välitys",
+      "leveysaste": 60.528153,
+      "pituusaste": 24.533291,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 356,
+      "nimi": "Metsä-Tuomelan jäteasema",
+      "leveysaste": 60.478709,
+      "pituusaste": 24.745031,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 357,
+      "nimi": "Mise ÅVC",
+      "leveysaste": 60.149403,
+      "pituusaste": 19.813441,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 358,
+      "nimi": "Munsala återvinningsstation",
+      "leveysaste": 63.435426,
+      "pituusaste": 22.443644,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 359,
+      "nimi": "Mustalammentien liikenneympyrä",
+      "leveysaste": 62.230005,
+      "pituusaste": 25.64989,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 360,
+      "nimi": "Mustankorkea jäteasema Laukaa",
+      "leveysaste": 62.402411,
+      "pituusaste": 25.93036,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 361,
+      "nimi": "Mustankorkea jäteasema Laukaa",
+      "leveysaste": 62.402481,
+      "pituusaste": 25.930308,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 362,
+      "nimi": "Mustankorkea lajittelupiha",
+      "leveysaste": 62.2159,
+      "pituusaste": 25.670195,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 363,
+      "nimi": "Muuramen Apteekki",
+      "leveysaste": 62.136855,
+      "pituusaste": 25.672834,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 364,
+      "nimi": "Mäntyharjun jäteasema",
+      "leveysaste": 61.440578,
+      "pituusaste": 26.908833,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 365,
+      "nimi": "Mäntyvaaran kaatopaikka",
+      "leveysaste": 66.522584,
+      "pituusaste": 25.607321,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 366,
+      "nimi": "Mäyrämäentien - Vahverotien risteys",
+      "leveysaste": 62.23286,
+      "pituusaste": 25.662545,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 367,
+      "nimi": "Mömossen, Sipoon jäteasema",
+      "leveysaste": 60.363076,
+      "pituusaste": 25.360494,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 368,
+      "nimi": "Nekalan jäteasema",
+      "leveysaste": 61.480213,
+      "pituusaste": 23.797048,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 369,
+      "nimi": "Nekalan jäteasema",
+      "leveysaste": 61.480218,
+      "pituusaste": 23.797254,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 370,
+      "nimi": "Nivalan lajittelupiha",
+      "leveysaste": 63.922649,
+      "pituusaste": 24.930334,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 371,
+      "nimi": "Nivalan lajittelupiha",
+      "leveysaste": 63.922727,
+      "pituusaste": 24.930553,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 372,
+      "nimi": "Nivan aluekeräyspiste",
+      "leveysaste": 64.315914,
+      "pituusaste": 29.45114,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 373,
+      "nimi": "Nivan aluekeräyspiste",
+      "leveysaste": 64.315919,
+      "pituusaste": 29.451133,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 374,
+      "nimi": "Nurmeksen lajitteluasema",
+      "leveysaste": 63.590651,
+      "pituusaste": 29.177202,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 375,
+      "nimi": "Nurmeksen lajitteluasema",
+      "leveysaste": 63.590677,
+      "pituusaste": 29.177152,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 376,
+      "nimi": "Oivapiste",
+      "leveysaste": 65.056817,
+      "pituusaste": 25.538914,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 377,
+      "nimi": "Oksien ja puunrunkojen keruupaikka",
+      "leveysaste": 63.914854,
+      "pituusaste": 25.008181,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 378,
+      "nimi": "Orimattilan pienjäteasema",
+      "leveysaste": 60.807646,
+      "pituusaste": 25.748959,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 379,
+      "nimi": "Orimattilan pienjäteasema",
+      "leveysaste": 60.807654,
+      "pituusaste": 25.749062,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 380,
+      "nimi": "Orjasjärvi Återvinningscentral",
+      "leveysaste": 66.375788,
+      "pituusaste": 23.574404,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 381,
+      "nimi": "Osatuonti Felke Hyvinkää",
+      "leveysaste": 60.623641,
+      "pituusaste": 24.843123,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 382,
+      "nimi": "Outokummun lajitteluasema",
+      "leveysaste": 62.716254,
+      "pituusaste": 28.94921,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 383,
+      "nimi": "Pahvin kierrätys",
+      "leveysaste": 64.123034,
+      "pituusaste": 29.512758,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 384,
+      "nimi": "Paimion lajitteluasema",
+      "leveysaste": 60.423798,
+      "pituusaste": 22.716031,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 385,
+      "nimi": "Painekyllästetty ja käsitelty puu",
+      "leveysaste": 65.05785,
+      "pituusaste": 25.541687,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 386,
+      "nimi": "Paljon metallia sisältävä sähköromu",
+      "leveysaste": 62.830377,
+      "pituusaste": 27.520572,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 387,
+      "nimi": "Paljon metallia sisältävä sähköromu",
+      "leveysaste": 62.830381,
+      "pituusaste": 27.520584,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 388,
+      "nimi": "Paloaseman piha",
+      "leveysaste": 62.128984,
+      "pituusaste": 25.672138,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 389,
+      "nimi": "Palpa",
+      "leveysaste": 60.199511,
+      "pituusaste": 24.925387,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 390,
+      "nimi": "Paltamon lajitteluasema",
+      "leveysaste": 64.404259,
+      "pituusaste": 27.896313,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 391,
+      "nimi": "Paperinkeräys, Kärppäpuisto",
+      "leveysaste": 60.360812,
+      "pituusaste": 25.086831,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 392,
+      "nimi": "Paperinkeräyspiste",
+      "leveysaste": 61.700836,
+      "pituusaste": 27.274336,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 393,
+      "nimi": "Papinniemi Oy",
+      "leveysaste": 61.213415,
+      "pituusaste": 28.796786,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 394,
+      "nimi": "Peijonsuon Hyödyksi-asema",
+      "leveysaste": 61.192549,
+      "pituusaste": 27.627058,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 395,
+      "nimi": "Peijonsuon Hyödyksi-asema",
+      "leveysaste": 61.192575,
+      "pituusaste": 27.62726,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 396,
+      "nimi": "Perniön lajitteluasema",
+      "leveysaste": 60.192911,
+      "pituusaste": 23.124729,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 397,
+      "nimi": "Perniön lajitteluasema",
+      "leveysaste": 60.19292,
+      "pituusaste": 23.124783,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 398,
+      "nimi": "Pick & Pay",
+      "leveysaste": 61.497388,
+      "pituusaste": 21.807922,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 399,
+      "nimi": "Pieksämäen lajitteluasema",
+      "leveysaste": 62.294177,
+      "pituusaste": 27.113196,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 400,
+      "nimi": "Pieksämäen lajitteluasema",
+      "leveysaste": 62.294347,
+      "pituusaste": 27.113179,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 401,
+      "nimi": "Pienjäteasema",
+      "leveysaste": 60.58619,
+      "pituusaste": 27.157783,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 402,
+      "nimi": "Pikkukukko-jäteasema Rautalampi",
+      "leveysaste": 62.613828,
+      "pituusaste": 26.843166,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 403,
+      "nimi": "Pohjolankadun kierrätyspiste",
+      "leveysaste": 66.499931,
+      "pituusaste": 25.711792,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 404,
+      "nimi": "Poikelus",
+      "leveysaste": 61.793414,
+      "pituusaste": 23.632101,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 405,
+      "nimi": "Pointti kierrätystori",
+      "leveysaste": 60.470604,
+      "pituusaste": 25.094175,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 406,
+      "nimi": "Pornaisten jäteasema",
+      "leveysaste": 60.475227,
+      "pituusaste": 25.37673,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 407,
+      "nimi": "Pudasjärven jäteasema Ekolanssi",
+      "leveysaste": 65.345816,
+      "pituusaste": 26.960854,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 408,
+      "nimi": "Pudasjärven jäteasema Ekolanssi",
+      "leveysaste": 65.345922,
+      "pituusaste": 26.960366,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 409,
+      "nimi": "Pullonpalautus",
+      "leveysaste": 60.871252,
+      "pituusaste": 26.655296,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 410,
+      "nimi": "Pullonpalautus",
+      "leveysaste": 61.188618,
+      "pituusaste": 28.765727,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 411,
+      "nimi": "Puolangan lajitteluasema",
+      "leveysaste": 64.879606,
+      "pituusaste": 27.655714,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 412,
+      "nimi": "Puu",
+      "leveysaste": 60.4842,
+      "pituusaste": 22.345566,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 413,
+      "nimi": "Puujäte",
+      "leveysaste": 62.829964,
+      "pituusaste": 27.521285,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 414,
+      "nimi": "Puujäte",
+      "leveysaste": 62.829969,
+      "pituusaste": 27.521339,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 415,
+      "nimi": "Puujäte",
+      "leveysaste": 62.829994,
+      "pituusaste": 27.520652,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 416,
+      "nimi": "Puujäte",
+      "leveysaste": 62.829998,
+      "pituusaste": 27.520664,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 417,
+      "nimi": "Puumalan pienjäteasema",
+      "leveysaste": 61.537628,
+      "pituusaste": 28.180767,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 418,
+      "nimi": "Pysäkkikatu",
+      "leveysaste": 61.47786,
+      "pituusaste": 23.929746,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 419,
+      "nimi": "RINKI Ekopiste Kravunarkunkatu",
+      "leveysaste": 60.60418,
+      "pituusaste": 24.872845,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 420,
+      "nimi": "Rannikon SERO-yhdistys",
+      "leveysaste": 64.67695,
+      "pituusaste": 24.524738,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 421,
+      "nimi": "Rantasalmen SCEL Oy",
+      "leveysaste": 62.055893,
+      "pituusaste": 28.322558,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 422,
+      "nimi": "Remeo",
+      "leveysaste": 60.299171,
+      "pituusaste": 25.098714,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 423,
+      "nimi": "Rester",
+      "leveysaste": 60.432148,
+      "pituusaste": 22.72369,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 424,
+      "nimi": "Rewolmet",
+      "leveysaste": 62.617336,
+      "pituusaste": 29.742541,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 425,
+      "nimi": "Riihimäen kierrätyskeskus",
+      "leveysaste": 60.735755,
+      "pituusaste": 24.75503,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 426,
+      "nimi": "Rinki",
+      "leveysaste": 60.180514,
+      "pituusaste": 25.051023,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 427,
+      "nimi": "Rinki",
+      "leveysaste": 63.643923,
+      "pituusaste": 22.730598,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 428,
+      "nimi": "Rinki",
+      "leveysaste": 63.649319,
+      "pituusaste": 22.733055,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 429,
+      "nimi": "Rinki",
+      "leveysaste": 63.652791,
+      "pituusaste": 22.722352,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 430,
+      "nimi": "Rinki",
+      "leveysaste": 63.659111,
+      "pituusaste": 22.700601,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 431,
+      "nimi": "Rinki",
+      "leveysaste": 63.659595,
+      "pituusaste": 22.664558,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 432,
+      "nimi": "Rinki",
+      "leveysaste": 63.662485,
+      "pituusaste": 22.684976,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 433,
+      "nimi": "Rinki",
+      "leveysaste": 63.668934,
+      "pituusaste": 22.762103,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 434,
+      "nimi": "Rinki",
+      "leveysaste": 63.669343,
+      "pituusaste": 22.677798,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 435,
+      "nimi": "Rinki",
+      "leveysaste": 63.671675,
+      "pituusaste": 22.687115,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 436,
+      "nimi": "Rinki",
+      "leveysaste": 63.674014,
+      "pituusaste": 22.699654,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 437,
+      "nimi": "Rinki",
+      "leveysaste": 63.674067,
+      "pituusaste": 22.712332,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 438,
+      "nimi": "Rinki",
+      "leveysaste": 63.674787,
+      "pituusaste": 22.731088,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 439,
+      "nimi": "Rinki",
+      "leveysaste": 63.675127,
+      "pituusaste": 22.714903,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 440,
+      "nimi": "Rinki",
+      "leveysaste": 63.675427,
+      "pituusaste": 22.677017,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 441,
+      "nimi": "Rinki",
+      "leveysaste": 63.677178,
+      "pituusaste": 22.687435,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 442,
+      "nimi": "Rinki",
+      "leveysaste": 63.677863,
+      "pituusaste": 22.673428,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 443,
+      "nimi": "Rinki",
+      "leveysaste": 63.680003,
+      "pituusaste": 22.700252,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 444,
+      "nimi": "Rinki",
+      "leveysaste": 63.682233,
+      "pituusaste": 22.710104,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 445,
+      "nimi": "Rinki",
+      "leveysaste": 63.683565,
+      "pituusaste": 22.717955,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 446,
+      "nimi": "Rinki",
+      "leveysaste": 63.683777,
+      "pituusaste": 22.735326,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 447,
+      "nimi": "Rinki",
+      "leveysaste": 63.68539,
+      "pituusaste": 22.747299,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 448,
+      "nimi": "Rinki",
+      "leveysaste": 63.685663,
+      "pituusaste": 22.756071,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 449,
+      "nimi": "Rinki",
+      "leveysaste": 63.687647,
+      "pituusaste": 22.714365,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 450,
+      "nimi": "Rinki",
+      "leveysaste": 63.692112,
+      "pituusaste": 22.695839,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 451,
+      "nimi": "Rinki",
+      "leveysaste": 63.695777,
+      "pituusaste": 22.739588,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 452,
+      "nimi": "Rinki Ekopiste",
+      "leveysaste": 60.534713,
+      "pituusaste": 22.30541,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 453,
+      "nimi": "Rinki Ekopiste",
+      "leveysaste": 61.339332,
+      "pituusaste": 24.492137,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 454,
+      "nimi": "Rinki Ekopunkt, K-Market Övermalax",
+      "leveysaste": 62.919598,
+      "pituusaste": 21.629532,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 455,
+      "nimi": "Rinki ekopiste",
+      "leveysaste": 60.369817,
+      "pituusaste": 25.710192,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 456,
+      "nimi": "Rinki-Ekopiste",
+      "leveysaste": 60.669302,
+      "pituusaste": 25.851654,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 457,
+      "nimi": "Rinki-Ekopiste",
+      "leveysaste": 61.103705,
+      "pituusaste": 24.867411,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 458,
+      "nimi": "Rinki-Ekopiste",
+      "leveysaste": 61.162627,
+      "pituusaste": 25.982754,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 459,
+      "nimi": "Rinki-Ekopiste",
+      "leveysaste": 61.170653,
+      "pituusaste": 24.564088,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 460,
+      "nimi": "Rinki-Ekopiste",
+      "leveysaste": 61.484419,
+      "pituusaste": 21.711724,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 461,
+      "nimi": "Rinki-Ekopiste",
+      "leveysaste": 67.111028,
+      "pituusaste": 27.515072,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 462,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 59.921553,
+      "pituusaste": 22.411546,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 463,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.084555,
+      "pituusaste": 22.508569,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 464,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.163592,
+      "pituusaste": 22.734662,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 465,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.228498,
+      "pituusaste": 24.026257,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 466,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.236124,
+      "pituusaste": 24.890267,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 467,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.271227,
+      "pituusaste": 24.442434,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 468,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.332313,
+      "pituusaste": 24.324037,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 469,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.333534,
+      "pituusaste": 24.3178,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 470,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.410087,
+      "pituusaste": 25.07769,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 471,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.457275,
+      "pituusaste": 22.232725,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 472,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.46918,
+      "pituusaste": 22.30598,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 473,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.469185,
+      "pituusaste": 22.306069,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 474,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.473764,
+      "pituusaste": 22.233564,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 475,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.47383,
+      "pituusaste": 22.314392,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 476,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.474326,
+      "pituusaste": 22.288288,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 477,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.543205,
+      "pituusaste": 22.341497,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 478,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.647715,
+      "pituusaste": 24.832683,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 479,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.717496,
+      "pituusaste": 22.6002,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 480,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.732559,
+      "pituusaste": 24.775839,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 481,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.947817,
+      "pituusaste": 25.932022,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 482,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.976615,
+      "pituusaste": 24.473168,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 483,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 60.987663,
+      "pituusaste": 25.542375,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 484,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.030703,
+      "pituusaste": 25.675175,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 485,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.05073,
+      "pituusaste": 24.439147,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 486,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.065037,
+      "pituusaste": 25.665211,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 487,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.171979,
+      "pituusaste": 25.553268,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 488,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.172649,
+      "pituusaste": 25.545362,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 489,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.294786,
+      "pituusaste": 23.503605,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 490,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.301566,
+      "pituusaste": 25.689905,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 491,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.314101,
+      "pituusaste": 23.76078,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 492,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.348637,
+      "pituusaste": 25.266798,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 493,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.488692,
+      "pituusaste": 21.749277,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 494,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.859903,
+      "pituusaste": 21.502903,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 495,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 61.897306,
+      "pituusaste": 27.851357,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 496,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.128571,
+      "pituusaste": 25.673433,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 497,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.129703,
+      "pituusaste": 25.669351,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 498,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.157567,
+      "pituusaste": 25.751672,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 499,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.260097,
+      "pituusaste": 24.695335,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 500,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.263104,
+      "pituusaste": 24.704649,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 501,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.417179,
+      "pituusaste": 22.176348,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 502,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.455778,
+      "pituusaste": 22.221081,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 503,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.580918,
+      "pituusaste": 29.770798,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 504,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.601513,
+      "pituusaste": 25.724883,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 505,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 62.6892,
+      "pituusaste": 21.981199,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 506,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 63.041741,
+      "pituusaste": 24.558778,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 507,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 63.248166,
+      "pituusaste": 29.263823,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 508,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 63.543129,
+      "pituusaste": 29.165233,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 509,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 63.556415,
+      "pituusaste": 29.107029,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 510,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 63.975698,
+      "pituusaste": 25.760605,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 511,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 64.829502,
+      "pituusaste": 25.687199,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 512,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 64.96454,
+      "pituusaste": 25.546662,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 513,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 64.969076,
+      "pituusaste": 25.497497,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 514,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 65.014563,
+      "pituusaste": 25.465613,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 515,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 65.079506,
+      "pituusaste": 25.452414,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 516,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 66.321675,
+      "pituusaste": 23.669309,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 517,
+      "nimi": "Rinki-ekopiste",
+      "leveysaste": 67.413525,
+      "pituusaste": 26.586372,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 518,
+      "nimi": "Rinki-ekopiste K-Supermarket Länsiväylä",
+      "leveysaste": 62.243046,
+      "pituusaste": 25.712166,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 519,
+      "nimi": "Rinki-ekopiste Kalvola",
+      "leveysaste": 61.091599,
+      "pituusaste": 24.134691,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 520,
+      "nimi": "Rinki-ekopiste Kalvola",
+      "leveysaste": 61.091609,
+      "pituusaste": 24.134785,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 521,
+      "nimi": "Rinki-ekopiste Prisma Kuopio",
+      "leveysaste": 62.88832,
+      "pituusaste": 27.635632,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 522,
+      "nimi": "Rinki-ekopiste Prisma Kuopio",
+      "leveysaste": 62.888348,
+      "pituusaste": 27.635641,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 523,
+      "nimi": "Rinki-ekopiste S-market Savela",
+      "leveysaste": 62.243011,
+      "pituusaste": 25.708154,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 524,
+      "nimi": "Ristijärven lajitteluasema",
+      "leveysaste": 64.495903,
+      "pituusaste": 28.207461,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 525,
+      "nimi": "Ristijärven lajitteluasema",
+      "leveysaste": 64.495932,
+      "pituusaste": 28.207561,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 526,
+      "nimi": "Risut",
+      "leveysaste": 60.484051,
+      "pituusaste": 22.342071,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 527,
+      "nimi": "Risut ja lehdet",
+      "leveysaste": 62.645058,
+      "pituusaste": 23.797266,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 528,
+      "nimi": "Romukioski",
+      "leveysaste": 62.802172,
+      "pituusaste": 23.523139,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 529,
+      "nimi": "Romupiste Oy",
+      "leveysaste": 61.043189,
+      "pituusaste": 24.379795,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 530,
+      "nimi": "Rosk'n Roll / Tammisaaren jäteasema",
+      "leveysaste": 60.00188,
+      "pituusaste": 23.54087,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 531,
+      "nimi": "Roskakeräys",
+      "leveysaste": 60.204097,
+      "pituusaste": 23.125005,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 532,
+      "nimi": "Roskakeräys",
+      "leveysaste": 60.208936,
+      "pituusaste": 23.132629,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 533,
+      "nimi": "Rudus Oy Kierrätys betoni- ja tiilijäte Konala, Helsinki",
+      "leveysaste": 60.252998,
+      "pituusaste": 24.833954,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 534,
+      "nimi": "Rudus Oy Kierrätys betoni- ja tiilijäte Ämmässuo, Espoo",
+      "leveysaste": 60.243949,
+      "pituusaste": 24.546428,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 535,
+      "nimi": "Rudus Oy betoni- ja tiilijätteen kierrätys Länsisalmi, Vantaa",
+      "leveysaste": 60.261372,
+      "pituusaste": 25.125056,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 536,
+      "nimi": "Rudus Oy betoni- ja tiilijätteen kierrätys Länsisalmi, Vantaa",
+      "leveysaste": 60.261453,
+      "pituusaste": 25.124915,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 537,
+      "nimi": "Ruoveden jäteasema",
+      "leveysaste": 61.979795,
+      "pituusaste": 24.089882,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 538,
+      "nimi": "RÖÖRI-lajitteluhuone",
+      "leveysaste": 60.156005,
+      "pituusaste": 24.916443,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 539,
+      "nimi": "S-Marketin Rinki-ekopiste",
+      "leveysaste": 64.12284,
+      "pituusaste": 29.512756,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 540,
+      "nimi": "S-Marketin Rinki-ekopiste",
+      "leveysaste": 64.122845,
+      "pituusaste": 29.512743,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 541,
+      "nimi": "SER Kierrätyspiste",
+      "leveysaste": 62.26096,
+      "pituusaste": 25.778471,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 542,
+      "nimi": "SER-kierrätys Tokmanni Myyrmanni",
+      "leveysaste": 60.259967,
+      "pituusaste": 24.853906,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 543,
+      "nimi": "SMT 12 roskalava",
+      "leveysaste": 60.191799,
+      "pituusaste": 24.838325,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 544,
+      "nimi": "SMT 12 roskalava",
+      "leveysaste": 60.191801,
+      "pituusaste": 24.838339,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 545,
+      "nimi": "Satakierto",
+      "leveysaste": 61.116602,
+      "pituusaste": 22.163976,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 546,
+      "nimi": "Saunajärven aluekeräyspiste",
+      "leveysaste": 63.930603,
+      "pituusaste": 29.973576,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 547,
+      "nimi": "Seinäjoen Kierrätyskeskus",
+      "leveysaste": 62.799383,
+      "pituusaste": 22.866329,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 548,
+      "nimi": "Sievin lajittelupiha",
+      "leveysaste": 63.894044,
+      "pituusaste": 24.510678,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 549,
+      "nimi": "Sievin lajittelupiha",
+      "leveysaste": 63.894061,
+      "pituusaste": 24.510496,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 550,
+      "nimi": "Sorteringsstation",
+      "leveysaste": 60.219126,
+      "pituusaste": 21.350435,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 551,
+      "nimi": "Sotaveteraanien lehtikeräys",
+      "leveysaste": 60.909294,
+      "pituusaste": 25.258286,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 552,
+      "nimi": "Sotkamon lajitteluasema",
+      "leveysaste": 64.148477,
+      "pituusaste": 28.319476,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 553,
+      "nimi": "Stara, Kierrätyskeskus",
+      "leveysaste": 60.23684,
+      "pituusaste": 24.979003,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 554,
+      "nimi": "Stena Recycling Riihimäki",
+      "leveysaste": 60.724534,
+      "pituusaste": 24.783484,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 555,
+      "nimi": "Stena Recycling Riihimäki",
+      "leveysaste": 60.724556,
+      "pituusaste": 24.783311,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 556,
+      "nimi": "Stormossen Hyötykäyttöasema",
+      "leveysaste": 63.119426,
+      "pituusaste": 21.634712,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 557,
+      "nimi": "Suluntien - Kaakkurin risteys",
+      "leveysaste": 62.268595,
+      "pituusaste": 25.825524,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 558,
+      "nimi": "Sumsan aluekeräyspiste",
+      "leveysaste": 64.26645,
+      "pituusaste": 29.819185,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 559,
+      "nimi": "Sumsan aluekeräyspiste",
+      "leveysaste": 64.266459,
+      "pituusaste": 29.819189,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 560,
+      "nimi": "Suomussalmen lajitteluasema",
+      "leveysaste": 64.840363,
+      "pituusaste": 28.989686,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 561,
+      "nimi": "Suonenjoen Pikkukukko lajitteluasema / Jätekukko Oy",
+      "leveysaste": 62.637314,
+      "pituusaste": 27.098251,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 562,
+      "nimi": "Suuret kappaleet",
+      "leveysaste": 62.829925,
+      "pituusaste": 27.520666,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 563,
+      "nimi": "Suuret kappaleet",
+      "leveysaste": 62.829928,
+      "pituusaste": 27.520678,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 564,
+      "nimi": "Syklo, Ruskon jätteiden lajittelulaitos",
+      "leveysaste": 65.05653,
+      "pituusaste": 25.541936,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 565,
+      "nimi": "Syklo, Ruskon jätteiden lajittelulaitos",
+      "leveysaste": 65.056535,
+      "pituusaste": 25.542038,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 566,
+      "nimi": "TOAS Mikontalo",
+      "leveysaste": 61.44676,
+      "pituusaste": 23.853261,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 567,
+      "nimi": "Taavetin Hyödyksi-asema",
+      "leveysaste": 60.910987,
+      "pituusaste": 27.568156,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 568,
+      "nimi": "Taavetin Hyödyksi-asema",
+      "leveysaste": 60.91112,
+      "pituusaste": 27.56813,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 569,
+      "nimi": "Tarastenjärven jätekeskus",
+      "leveysaste": 61.541168,
+      "pituusaste": 23.97749,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 570,
+      "nimi": "Tekstiilien kierrätyspaja LeVeTeks",
+      "leveysaste": 61.361749,
+      "pituusaste": 23.80934,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 571,
+      "nimi": "Tervasalmen aluekeräyspiste",
+      "leveysaste": 64.085622,
+      "pituusaste": 29.045665,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 572,
+      "nimi": "Teräskolmio Oy",
+      "leveysaste": 60.63622,
+      "pituusaste": 24.788752,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 573,
+      "nimi": "Teräskolmio Oy",
+      "leveysaste": 60.636279,
+      "pituusaste": 24.788653,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 574,
+      "nimi": "Teräskolmio Oy",
+      "leveysaste": 60.662829,
+      "pituusaste": 24.798772,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 575,
+      "nimi": "Teräskolmio Oy",
+      "leveysaste": 60.662893,
+      "pituusaste": 24.798874,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 576,
+      "nimi": "Tiiliruukin keräämö",
+      "leveysaste": 61.469547,
+      "pituusaste": 21.750362,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 577,
+      "nimi": "Toikansuon Hyödyksi-asema",
+      "leveysaste": 61.030539,
+      "pituusaste": 28.196622,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 578,
+      "nimi": "Toikansuon Hyödyksi-asema",
+      "leveysaste": 61.030562,
+      "pituusaste": 28.196622,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 579,
+      "nimi": "Topinojan jätekeskus",
+      "leveysaste": 60.483378,
+      "pituusaste": 22.339932,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 580,
+      "nimi": "Topinojan jätekeskus",
+      "leveysaste": 60.483381,
+      "pituusaste": 22.339933,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 581,
+      "nimi": "Topinojan jätekeskus",
+      "leveysaste": 60.483987,
+      "pituusaste": 22.344815,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 582,
+      "nimi": "Topinojan jätekeskus",
+      "leveysaste": 60.483993,
+      "pituusaste": 22.344819,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 583,
+      "nimi": "Tyrnävän jäteasema",
+      "leveysaste": 64.751342,
+      "pituusaste": 25.64199,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 584,
+      "nimi": "Tyrnävän jäteasema",
+      "leveysaste": 64.751371,
+      "pituusaste": 25.641991,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 585,
+      "nimi": "UFF",
+      "leveysaste": 60.19294,
+      "pituusaste": 24.939394,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 586,
+      "nimi": "UFF",
+      "leveysaste": 60.984121,
+      "pituusaste": 24.415011,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 587,
+      "nimi": "UFF Vaatekeräys",
+      "leveysaste": 60.978588,
+      "pituusaste": 24.463654,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 588,
+      "nimi": "UFF Vaatekeräys",
+      "leveysaste": 60.987002,
+      "pituusaste": 24.461064,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 589,
+      "nimi": "UFF-vaatekeräys",
+      "leveysaste": 60.446633,
+      "pituusaste": 22.239614,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 590,
+      "nimi": "UFF-vaatekeräys",
+      "leveysaste": 60.473732,
+      "pituusaste": 22.233261,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 591,
+      "nimi": "UFF-vaatekeräys",
+      "leveysaste": 64.969262,
+      "pituusaste": 25.497272,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 592,
+      "nimi": "Unihome transfer waste station",
+      "leveysaste": 60.237202,
+      "pituusaste": 25.003609,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 593,
+      "nimi": "Urpovaara ekopiste",
+      "leveysaste": 63.895121,
+      "pituusaste": 29.077247,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 594,
+      "nimi": "Uusiotori",
+      "leveysaste": 62.596741,
+      "pituusaste": 29.771182,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 595,
+      "nimi": "Vaarallisten jätteiden keräyspiste, Vapaalantie 1",
+      "leveysaste": 60.25617,
+      "pituusaste": 24.826539,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 596,
+      "nimi": "Vaatekeräys",
+      "leveysaste": 60.256625,
+      "pituusaste": 24.807008,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 597,
+      "nimi": "Vaatekeräys",
+      "leveysaste": 60.353232,
+      "pituusaste": 25.075951,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 598,
+      "nimi": "Vaatekeräys",
+      "leveysaste": 61.348619,
+      "pituusaste": 25.266705,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 599,
+      "nimi": "Vaatekeräyskontti",
+      "leveysaste": 65.096278,
+      "pituusaste": 25.399309,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 600,
+      "nimi": "Vaatekierrätys",
+      "leveysaste": 60.262828,
+      "pituusaste": 24.885304,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 601,
+      "nimi": "Vaatteiden lahjoitus",
+      "leveysaste": 65.040076,
+      "pituusaste": 25.554475,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 602,
+      "nimi": "Valmennuskeskus Kieppi",
+      "leveysaste": 61.445949,
+      "pituusaste": 23.64325,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 603,
+      "nimi": "Veneilijän ekopiste",
+      "leveysaste": 61.179147,
+      "pituusaste": 25.544425,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 604,
+      "nimi": "Vesilahden jäteasema",
+      "leveysaste": 61.30261,
+      "pituusaste": 23.652864,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 605,
+      "nimi": "Vesilaitoksentie 1 / Askaistentie, Lemu",
+      "leveysaste": 60.569988,
+      "pituusaste": 21.97626,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 606,
+      "nimi": "Viherlahden jäteasema",
+      "leveysaste": 60.528696,
+      "pituusaste": 21.402145,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 607,
+      "nimi": "Vuolenkosken hyötykeräyspiste",
+      "leveysaste": 61.084056,
+      "pituusaste": 26.14564,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 608,
+      "nimi": "Vuoreksen jäteasema",
+      "leveysaste": 61.431178,
+      "pituusaste": 23.822847,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 609,
+      "nimi": "Yliluoma",
+      "leveysaste": 63.090563,
+      "pituusaste": 22.714791,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 610,
+      "nimi": "Ylistaron jäteasema",
+      "leveysaste": 62.915805,
+      "pituusaste": 22.551952,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 611,
+      "nimi": "Ylistaron jäteasema",
+      "leveysaste": 62.915895,
+      "pituusaste": 22.552009,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 612,
+      "nimi": "Ylläsjärvi recycling",
+      "leveysaste": 67.524783,
+      "pituusaste": 24.305163,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 613,
+      "nimi": "Ylämyllyn eko-piste, kievarintie 1. P. 013 318 198",
+      "leveysaste": 62.613665,
+      "pituusaste": 29.548829,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 614,
+      "nimi": "glass recycle",
+      "leveysaste": 60.493086,
+      "pituusaste": 25.08872,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 615,
+      "nimi": "Återvinningsstation",
+      "leveysaste": 60.203907,
+      "pituusaste": 19.665778,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    },
+    {
+      "id": 616,
+      "nimi": "Återvinningsstation",
+      "leveysaste": 63.80719,
+      "pituusaste": 22.82713,
+      "osm_avain": "amenity",
+      "osm_arvo": "recycling",
+      "osm_luokka": "amenity=recycling"
+    }
+  ],
+  "meta": {
+    "title": "Kierrätyspisteet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kierrätyspisteet Suomessa — 616 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=recycling`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 40. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 616 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kierrätyspisteet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kierrätyspisteet – Suomi (OpenStreetMap) — 616 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 616 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

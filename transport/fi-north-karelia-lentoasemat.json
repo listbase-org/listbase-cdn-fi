@@ -1,0 +1,142 @@
+{
+  "id": "fi-north-karelia-lentoasemat",
+  "name": "Finland / Pohjois-Karjala — Airports (lentoasemat)",
+  "title": "Finland / Pohjois-Karjala — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Pohjois-Karjala (North Karelia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='North Karelia'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFIT",
+      "iata": "KTQ",
+      "name": "Kitee Airport",
+      "city": "",
+      "subdivision": "North Karelia",
+      "subdivision_name_fi": "Pohjois-Karjala",
+      "country": "FI",
+      "elevation_ft": 364,
+      "latitude": 62.1661,
+      "longitude": 30.0736,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFJO",
+      "iata": "JOE",
+      "name": "Joensuu Airport",
+      "city": "Joensuu / Liperi",
+      "subdivision": "North Karelia",
+      "subdivision_name_fi": "Pohjois-Karjala",
+      "country": "FI",
+      "elevation_ft": 398,
+      "latitude": 62.6629,
+      "longitude": 29.6075,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFLN",
+      "iata": "",
+      "name": "Lieksa Nurmes Airport",
+      "city": "",
+      "subdivision": "North Karelia",
+      "subdivision_name_fi": "Pohjois-Karjala",
+      "country": "FI",
+      "elevation_ft": 374,
+      "latitude": 63.5119,
+      "longitude": 29.6292,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPH",
+      "iata": "",
+      "name": "Pyhoselka Airport",
+      "city": "",
+      "subdivision": "North Karelia",
+      "subdivision_name_fi": "Pohjois-Karjala",
+      "country": "FI",
+      "elevation_ft": 322,
+      "latitude": 62.4647,
+      "longitude": 30.0353,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Pohjois-Karjala — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Pohjois-Karjala (North Karelia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='North Karelia'. Sisältää 4 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Pohjois-Karjala — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Pohjois-Karjala — Airports (lentoasemat) — 4 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 4 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

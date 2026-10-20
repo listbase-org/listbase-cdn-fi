@@ -1,0 +1,328 @@
+{
+  "id": "fi-kainuu-unlocode",
+  "name": "UN/LOCODE-paikkakoodit — Kainuu (satamat, lentoasemat, terminaalit)",
+  "title": "UN/LOCODE-paikkakoodit — Kainuu (satamat, lentoasemat, terminaalit)",
+  "description": "UN/LOCODE-paikkakoodit Kainuun maakunnassa, Suomessa (7 koodia). All 7 UN/LOCODE entries for the Finnish region of Kainuu (Kainuu), extracted from the national fi-unlocode register by filtering on UN/LOCODE's own Subdivision column (FI-05). Each record carries the LOCODE, place name with and without diacritics, function classifiers (sea port, rail, road, airport, postal, multimodal), approval status, IATA code and coordinates, all verbatim from the source. Note: Finland is bilingual and the official UNECE list carries separate rows per language name variant (e.g. Helsinki/Helsingfors), so some LOCODEs appear twice with Finnish and Swedish names; both rows are preserved.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_nimi",
+      "label": "Maakunta Nimi",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_name_en",
+      "label": "Maakunta Name En",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_iso_3166_2",
+      "label": "Maakunta Iso 3166 2",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 186,
+      "locode": "FIKAJ",
+      "country": "FI",
+      "location": "KAJ",
+      "name": "Kajaani (Kajana)",
+      "name_wo_diacritics": "Kajaani (Kajana)",
+      "subdivision_code": "05",
+      "subdivision_name": "Kainuu",
+      "subdivision_type": "Region",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "-234----",
+      "functions": "Rail transport, Road transport, Air transport (airport)",
+      "iata": "",
+      "coordinates": "6414N 02741E",
+      "latitude": 64.2333,
+      "longitude": 27.6833,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "maakunta_nimi": "Kainuu",
+      "maakunta_name_en": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_iso_3166_2": "FI-05"
+    },
+    {
+      "id": 2,
+      "parent_index": 187,
+      "locode": "FIKAJ",
+      "country": "FI",
+      "location": "KAJ",
+      "name": "Kajana (Kajaani)",
+      "name_wo_diacritics": "Kajana (Kajaani)",
+      "subdivision_code": "05",
+      "subdivision_name": "Kainuu",
+      "subdivision_type": "Region",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "-234----",
+      "functions": "Rail transport, Road transport, Air transport (airport)",
+      "iata": "",
+      "coordinates": "6414N 02741E",
+      "latitude": 64.2333,
+      "longitude": 27.6833,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "maakunta_nimi": "Kainuu",
+      "maakunta_name_en": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_iso_3166_2": "FI-05"
+    },
+    {
+      "id": 3,
+      "parent_index": 295,
+      "locode": "FIKUH",
+      "country": "FI",
+      "location": "KUH",
+      "name": "Kuhmo",
+      "name_wo_diacritics": "Kuhmo",
+      "subdivision_code": "05",
+      "subdivision_name": "Kainuu",
+      "subdivision_type": "Region",
+      "status": "AF",
+      "status_description": "Approved by national facilitation body",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "6408N 02931E",
+      "latitude": 64.1333,
+      "longitude": 29.5167,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "maakunta_nimi": "Kainuu",
+      "maakunta_name_en": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_iso_3166_2": "FI-05"
+    },
+    {
+      "id": 4,
+      "parent_index": 455,
+      "locode": "FIOTA",
+      "country": "FI",
+      "location": "OTA",
+      "name": "Otanmäki",
+      "name_wo_diacritics": "Otanmaki",
+      "subdivision_code": "05",
+      "subdivision_name": "Kainuu",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "6407N 02706E",
+      "latitude": 64.1167,
+      "longitude": 27.1,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "maakunta_nimi": "Kainuu",
+      "maakunta_name_en": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_iso_3166_2": "FI-05"
+    },
+    {
+      "id": 5,
+      "parent_index": 489,
+      "locode": "FIPKO",
+      "country": "FI",
+      "location": "PKO",
+      "name": "Pekola",
+      "name_wo_diacritics": "Pekola",
+      "subdivision_code": "05",
+      "subdivision_name": "Kainuu",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "6421N 02837E",
+      "latitude": 64.35,
+      "longitude": 28.6167,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "maakunta_nimi": "Kainuu",
+      "maakunta_name_en": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_iso_3166_2": "FI-05"
+    },
+    {
+      "id": 6,
+      "parent_index": 608,
+      "locode": "FISLU",
+      "country": "FI",
+      "location": "SLU",
+      "name": "Suomussalmi",
+      "name_wo_diacritics": "Suomussalmi",
+      "subdivision_code": "05",
+      "subdivision_name": "Kainuu",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "6454N 02900E",
+      "latitude": 64.9,
+      "longitude": 29,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "maakunta_nimi": "Kainuu",
+      "maakunta_name_en": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_iso_3166_2": "FI-05"
+    },
+    {
+      "id": 7,
+      "parent_index": 752,
+      "locode": "FIVRT",
+      "country": "FI",
+      "location": "VRT",
+      "name": "Vartius",
+      "name_wo_diacritics": "Vartius",
+      "subdivision_code": "05",
+      "subdivision_name": "Kainuu",
+      "subdivision_type": "Region",
+      "status": "AC",
+      "status_description": "Approved by Customs Authority",
+      "function": "-23----B",
+      "functions": "Rail transport, Road transport, Cross border (former code)",
+      "iata": "",
+      "coordinates": "6430N 02959E",
+      "latitude": 64.5,
+      "longitude": 29.9833,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "maakunta_nimi": "Kainuu",
+      "maakunta_name_en": "Kainuu",
+      "maakunta_slug": "kainuu",
+      "maakunta_iso_3166_2": "FI-05"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE-paikkakoodit — Kainuu (satamat, lentoasemat, terminaalit) - Ilmainen lataus",
+    "description": "UN/LOCODE-paikkakoodit Kainuun maakunnassa, Suomessa (7 koodia). All 7 UN/LOCODE entries for the Finnish region of Kainuu (Kainuu), extracted from the national fi-unlocode register by filtering on UN/LOCODE's own Subdivision column (FI-05). Each record carries the LOCODE, place name with and without diacritics, function classifiers (sea port, rail, road, airport, postal, multimodal), approval status, IATA code and coordinates, all verbatim from the source. Note: Finland is bilingual and the official UNECE list carries separate rows per language name variant (e.g. Helsinki/Helsingfors), so some LOCODEs appear twice with Finnish and Swedish names; both rows are preserved. Sisältää 7 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "UN/LOCODE-paikkakoodit — Kainuu (satamat, lentoasemat, terminaalit) | ListBase",
+    "seo_description": "Lataa UN/LOCODE-paikkakoodit — Kainuu (satamat, lentoasemat, terminaalit) — 7 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 7 tietuetta / 24 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

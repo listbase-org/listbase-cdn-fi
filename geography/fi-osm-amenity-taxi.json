@@ -1,0 +1,1510 @@
+{
+  "id": "fi-osm-amenity-taxi",
+  "name": "Taksiasemat – Suomi (OpenStreetMap)",
+  "title": "Taksiasemat – Suomi (OpenStreetMap)",
+  "description": "Taksiasemat Suomessa — 161 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=taxi`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 6. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "number"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "226",
+      "leveysaste": 60.418456,
+      "pituusaste": 22.301463,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 2,
+      "nimi": "Alavuden asema",
+      "leveysaste": 62.617451,
+      "pituusaste": 23.6009,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 3,
+      "nimi": "Alavus",
+      "leveysaste": 62.58795,
+      "pituusaste": 23.614108,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 4,
+      "nimi": "Bike Taxi",
+      "leveysaste": 62.892373,
+      "pituusaste": 27.679782,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 5,
+      "nimi": "City Taxi Jeppis",
+      "leveysaste": 63.674783,
+      "pituusaste": 22.701719,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 6,
+      "nimi": "Erkylänkatu 2",
+      "leveysaste": 60.637651,
+      "pituusaste": 24.869316,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 7,
+      "nimi": "Erkylänkatu 2",
+      "leveysaste": 60.637671,
+      "pituusaste": 24.869265,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 8,
+      "nimi": "Flamingo",
+      "leveysaste": 60.290065,
+      "pituusaste": 24.969864,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 9,
+      "nimi": "Forssan taksiasema",
+      "leveysaste": 60.81603,
+      "pituusaste": 23.629821,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 10,
+      "nimi": "Gammelbackan taxi",
+      "leveysaste": 60.37962,
+      "pituusaste": 25.634829,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 11,
+      "nimi": "Hangon Ula-Taksi",
+      "leveysaste": 59.827251,
+      "pituusaste": 22.96736,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 12,
+      "nimi": "Heinolan taksi",
+      "leveysaste": 61.202827,
+      "pituusaste": 26.033765,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 13,
+      "nimi": "Helsinki-Vantaan lentoaseman taksiasema",
+      "leveysaste": 60.317693,
+      "pituusaste": 24.968914,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 14,
+      "nimi": "Hennan asema",
+      "leveysaste": 60.800909,
+      "pituusaste": 25.495396,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 15,
+      "nimi": "Hollola",
+      "leveysaste": 60.987376,
+      "pituusaste": 25.509908,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 16,
+      "nimi": "Hotelli Grand Marina",
+      "leveysaste": 60.165871,
+      "pituusaste": 24.963945,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 17,
+      "nimi": "Huittisten taksiasema",
+      "leveysaste": 61.178028,
+      "pituusaste": 22.702284,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 18,
+      "nimi": "Huutoniemi",
+      "leveysaste": 63.090618,
+      "pituusaste": 21.682095,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 19,
+      "nimi": "Hyvinkään Rautatieasema",
+      "leveysaste": 60.630889,
+      "pituusaste": 24.857404,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 20,
+      "nimi": "Hyvinkään Rautatieasema",
+      "leveysaste": 60.630918,
+      "pituusaste": 24.857347,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 21,
+      "nimi": "Hämeenlinna rautatieasema",
+      "leveysaste": 61.002191,
+      "pituusaste": 24.478031,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 22,
+      "nimi": "Hämeenlinnan linja-autoasema",
+      "leveysaste": 60.995067,
+      "pituusaste": 24.465607,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 23,
+      "nimi": "Hämeensaari",
+      "leveysaste": 60.992269,
+      "pituusaste": 24.460548,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 24,
+      "nimi": "Imatrankoski",
+      "leveysaste": 61.170146,
+      "pituusaste": 28.767536,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 25,
+      "nimi": "Ivalon Taksit Oy",
+      "leveysaste": 68.658674,
+      "pituusaste": 27.546289,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 26,
+      "nimi": "Ivalon taksipalvelu",
+      "leveysaste": 68.659393,
+      "pituusaste": 27.544654,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 27,
+      "nimi": "J. Paanasen Liikenne Oy",
+      "leveysaste": 63.073668,
+      "pituusaste": 25.85777,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 28,
+      "nimi": "Jakobstads Ulataxi",
+      "leveysaste": 63.674563,
+      "pituusaste": 22.705537,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 29,
+      "nimi": "Juankosken taksiasema",
+      "leveysaste": 63.065852,
+      "pituusaste": 28.328572,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 30,
+      "nimi": "Jämsän Taksiasema Oy",
+      "leveysaste": 61.865632,
+      "pituusaste": 25.192452,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 31,
+      "nimi": "Järvelän taksi",
+      "leveysaste": 60.869841,
+      "pituusaste": 25.278758,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 32,
+      "nimi": "Järvenpään asema",
+      "leveysaste": 60.473089,
+      "pituusaste": 25.090778,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 33,
+      "nimi": "Karis taxistation",
+      "leveysaste": 60.06966,
+      "pituusaste": 23.661856,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 34,
+      "nimi": "Katajanokan terminaali",
+      "leveysaste": 60.164092,
+      "pituusaste": 24.968167,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 35,
+      "nimi": "Kauppakeskus Kaari",
+      "leveysaste": 60.236317,
+      "pituusaste": 24.890771,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 36,
+      "nimi": "Kauppatori",
+      "leveysaste": 60.63073,
+      "pituusaste": 24.86032,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 37,
+      "nimi": "Kauppatori",
+      "leveysaste": 64.224186,
+      "pituusaste": 27.735412,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 38,
+      "nimi": "Kemijärven taksikeskus Oy",
+      "leveysaste": 66.714374,
+      "pituusaste": 27.429448,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 39,
+      "nimi": "Keravan asema",
+      "leveysaste": 60.405021,
+      "pituusaste": 25.105236,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 40,
+      "nimi": "Keskussairaalan taksiasema",
+      "leveysaste": 61.691692,
+      "pituusaste": 27.27718,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 41,
+      "nimi": "Kimppataksiasema",
+      "leveysaste": 60.211538,
+      "pituusaste": 24.752013,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 42,
+      "nimi": "Kivistön asema",
+      "leveysaste": 60.314102,
+      "pituusaste": 24.844923,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 43,
+      "nimi": "Konala",
+      "leveysaste": 60.237964,
+      "pituusaste": 24.846382,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 44,
+      "nimi": "Korian taksiasema",
+      "leveysaste": 60.846979,
+      "pituusaste": 26.607908,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 45,
+      "nimi": "Korpitaksi",
+      "leveysaste": 64.12687,
+      "pituusaste": 29.526314,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 46,
+      "nimi": "Korvatunturin taksi",
+      "leveysaste": 67.291869,
+      "pituusaste": 28.158861,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 47,
+      "nimi": "Kymenlaakson Taksi",
+      "leveysaste": 60.86637,
+      "pituusaste": 26.705104,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 48,
+      "nimi": "Laitilan taksiasema",
+      "leveysaste": 60.879508,
+      "pituusaste": 21.692643,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 49,
+      "nimi": "Laitilan taksiasema",
+      "leveysaste": 60.879521,
+      "pituusaste": 21.692659,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 50,
+      "nimi": "Lempäälän taksiasema",
+      "leveysaste": 61.314165,
+      "pituusaste": 23.754258,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 51,
+      "nimi": "Lempäälän taksiasema",
+      "leveysaste": 61.314172,
+      "pituusaste": 23.754266,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 52,
+      "nimi": "Lentoasema",
+      "leveysaste": 64.281436,
+      "pituusaste": 27.675071,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 53,
+      "nimi": "Linja-autoasema",
+      "leveysaste": 60.456218,
+      "pituusaste": 22.266046,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 54,
+      "nimi": "Linja-autoasema",
+      "leveysaste": 60.456227,
+      "pituusaste": 22.266055,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 55,
+      "nimi": "Linja-autoaseman taksitolppa",
+      "leveysaste": 60.387491,
+      "pituusaste": 23.122136,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 56,
+      "nimi": "Loimaan taksiasema",
+      "leveysaste": 60.851251,
+      "pituusaste": 23.058187,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 57,
+      "nimi": "Lopen taxit",
+      "leveysaste": 60.719827,
+      "pituusaste": 24.443749,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 58,
+      "nimi": "Lähitaksi Rovaniemi",
+      "leveysaste": 66.544071,
+      "pituusaste": 25.846735,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 59,
+      "nimi": "Länsisatama terminaali 2",
+      "leveysaste": 60.150206,
+      "pituusaste": 24.915671,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 60,
+      "nimi": "Malmin asema",
+      "leveysaste": 60.250446,
+      "pituusaste": 25.008804,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 61,
+      "nimi": "Malmin taksitolppa",
+      "leveysaste": 60.257015,
+      "pituusaste": 24.998974,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 62,
+      "nimi": "Malminkartanon asema",
+      "leveysaste": 60.247763,
+      "pituusaste": 24.864031,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 63,
+      "nimi": "Martinlaakson asema",
+      "leveysaste": 60.277654,
+      "pituusaste": 24.853502,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 64,
+      "nimi": "Martintalo",
+      "leveysaste": 60.621541,
+      "pituusaste": 24.890203,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 65,
+      "nimi": "Martintalo",
+      "leveysaste": 60.621601,
+      "pituusaste": 24.890317,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 66,
+      "nimi": "Matkakeskus",
+      "leveysaste": 62.897905,
+      "pituusaste": 27.679553,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 67,
+      "nimi": "Meilahden sairaala",
+      "leveysaste": 60.190054,
+      "pituusaste": 24.907369,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 68,
+      "nimi": "Mellunmäen asema",
+      "leveysaste": 60.23831,
+      "pituusaste": 25.109595,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 69,
+      "nimi": "Menevä",
+      "leveysaste": 60.510942,
+      "pituusaste": 22.273992,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 70,
+      "nimi": "Menevä",
+      "leveysaste": 60.510983,
+      "pituusaste": 22.274038,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 71,
+      "nimi": "Mikkeli",
+      "leveysaste": 61.687225,
+      "pituusaste": 27.274071,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 72,
+      "nimi": "Mikkeli",
+      "leveysaste": 61.687642,
+      "pituusaste": 27.277502,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 73,
+      "nimi": "Moikoinen",
+      "leveysaste": 60.412064,
+      "pituusaste": 22.235512,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 74,
+      "nimi": "Myyrmäen taksiasema",
+      "leveysaste": 60.260869,
+      "pituusaste": 24.854683,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 75,
+      "nimi": "Mäntyharju",
+      "leveysaste": 61.417367,
+      "pituusaste": 26.881576,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 76,
+      "nimi": "Mäntän taksiasema",
+      "leveysaste": 62.030484,
+      "pituusaste": 24.623862,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 77,
+      "nimi": "Niinivaaran Taksiasema",
+      "leveysaste": 62.592627,
+      "pituusaste": 29.780871,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 78,
+      "nimi": "Nuhjala",
+      "leveysaste": 60.484449,
+      "pituusaste": 22.052411,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 79,
+      "nimi": "Orimattilan taksiasema",
+      "leveysaste": 60.805767,
+      "pituusaste": 25.733925,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 80,
+      "nimi": "Oriveden Taksi",
+      "leveysaste": 61.677304,
+      "pituusaste": 24.352895,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 81,
+      "nimi": "Parolan taksiasema",
+      "leveysaste": 61.054137,
+      "pituusaste": 24.369455,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 82,
+      "nimi": "Pasilan asema",
+      "leveysaste": 60.198406,
+      "pituusaste": 24.933848,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 83,
+      "nimi": "Pasilan asema",
+      "leveysaste": 60.19841,
+      "pituusaste": 24.933789,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 84,
+      "nimi": "Pohjantori",
+      "leveysaste": 60.183359,
+      "pituusaste": 24.794737,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 85,
+      "nimi": "Prisman pysäkki",
+      "leveysaste": 61.189223,
+      "pituusaste": 28.764949,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 86,
+      "nimi": "Pukinmäen taksitolppa",
+      "leveysaste": 60.24343,
+      "pituusaste": 24.993894,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 87,
+      "nimi": "Päijänteen Vesitaksi",
+      "leveysaste": 61.433832,
+      "pituusaste": 25.275681,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 88,
+      "nimi": "Päijänteen Vesitaksi",
+      "leveysaste": 61.491799,
+      "pituusaste": 25.578412,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 89,
+      "nimi": "Raahen taksiasema",
+      "leveysaste": 64.683198,
+      "pituusaste": 24.481879,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 90,
+      "nimi": "Rajamäki",
+      "leveysaste": 60.527734,
+      "pituusaste": 24.751017,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 91,
+      "nimi": "Rauhalahti Hotel",
+      "leveysaste": 62.867035,
+      "pituusaste": 27.646615,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 92,
+      "nimi": "Rovaniemen asema",
+      "leveysaste": 66.49831,
+      "pituusaste": 25.703635,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 93,
+      "nimi": "Runosmäki",
+      "leveysaste": 60.483775,
+      "pituusaste": 22.271639,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 94,
+      "nimi": "Sairaala",
+      "leveysaste": 60.99331,
+      "pituusaste": 25.56594,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 95,
+      "nimi": "Satakunnan aito taksi",
+      "leveysaste": 61.479759,
+      "pituusaste": 21.798323,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 96,
+      "nimi": "Seinäjoen asema",
+      "leveysaste": 62.790738,
+      "pituusaste": 22.843789,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 97,
+      "nimi": "Seinäjoen asema (Keskustaksi)",
+      "leveysaste": 62.791203,
+      "pituusaste": 22.843711,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 98,
+      "nimi": "Senaatintori",
+      "leveysaste": 60.169133,
+      "pituusaste": 24.95215,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 99,
+      "nimi": "Seurahuone",
+      "leveysaste": 61.3419,
+      "pituusaste": 22.908436,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 100,
+      "nimi": "Snellmanin puiston taksitolppa",
+      "leveysaste": 62.891168,
+      "pituusaste": 27.687804,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 101,
+      "nimi": "Suomussalmen Taxi",
+      "leveysaste": 64.883928,
+      "pituusaste": 28.913479,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 102,
+      "nimi": "Taalintehdas",
+      "leveysaste": 60.021164,
+      "pituusaste": 22.50656,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 103,
+      "nimi": "Taksi",
+      "leveysaste": 60.989272,
+      "pituusaste": 24.416207,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 104,
+      "nimi": "Taksi",
+      "leveysaste": 60.990979,
+      "pituusaste": 24.438436,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 105,
+      "nimi": "Taksi",
+      "leveysaste": 61.362289,
+      "pituusaste": 21.623083,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 106,
+      "nimi": "Taksi",
+      "leveysaste": 61.362297,
+      "pituusaste": 21.623107,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 107,
+      "nimi": "Taksi",
+      "leveysaste": 62.598179,
+      "pituusaste": 29.758656,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 108,
+      "nimi": "Taksi",
+      "leveysaste": 62.600254,
+      "pituusaste": 29.762564,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 109,
+      "nimi": "Taksi",
+      "leveysaste": 62.602512,
+      "pituusaste": 29.76469,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 110,
+      "nimi": "Taksi",
+      "leveysaste": 62.603177,
+      "pituusaste": 29.761215,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 111,
+      "nimi": "Taksi",
+      "leveysaste": 64.808845,
+      "pituusaste": 25.413491,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 112,
+      "nimi": "Taksi Haapavesi",
+      "leveysaste": 64.140083,
+      "pituusaste": 25.368066,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 113,
+      "nimi": "Taksi Hirvensalmi",
+      "leveysaste": 61.640493,
+      "pituusaste": 26.775579,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 114,
+      "nimi": "Taksi Juva",
+      "leveysaste": 61.896879,
+      "pituusaste": 27.853482,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 115,
+      "nimi": "Taksi Karkkila",
+      "leveysaste": 60.535035,
+      "pituusaste": 24.213144,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 116,
+      "nimi": "Taksi Kauhajoki",
+      "leveysaste": 62.425406,
+      "pituusaste": 22.177853,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 117,
+      "nimi": "Taksi Kauppatori",
+      "leveysaste": 61.486555,
+      "pituusaste": 21.79792,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 118,
+      "nimi": "Taksi Kaupunginteatteri",
+      "leveysaste": 60.446189,
+      "pituusaste": 22.262942,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 119,
+      "nimi": "Taksi Kristiinankaupunki",
+      "leveysaste": 62.275524,
+      "pituusaste": 21.380723,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 120,
+      "nimi": "Taksi Kristiinankaupunki",
+      "leveysaste": 62.275537,
+      "pituusaste": 21.380728,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 121,
+      "nimi": "Taksi Kuhmoinen",
+      "leveysaste": 61.568373,
+      "pituusaste": 25.182128,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 122,
+      "nimi": "Taksi Myllykoski",
+      "leveysaste": 60.768806,
+      "pituusaste": 26.781432,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 123,
+      "nimi": "Taksi NMKY",
+      "leveysaste": 60.445244,
+      "pituusaste": 22.275299,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 124,
+      "nimi": "Taksi NMKY",
+      "leveysaste": 60.445268,
+      "pituusaste": 22.27537,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 125,
+      "nimi": "Taksi Puistomäki",
+      "leveysaste": 60.431418,
+      "pituusaste": 22.265825,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 126,
+      "nimi": "Taksi Puumala",
+      "leveysaste": 61.523633,
+      "pituusaste": 28.178396,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 127,
+      "nimi": "Taksi Ristiina",
+      "leveysaste": 61.506166,
+      "pituusaste": 27.258499,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 128,
+      "nimi": "Taksi Rovaniemi",
+      "leveysaste": 66.498939,
+      "pituusaste": 25.713519,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 129,
+      "nimi": "Taksi Seppo Niemi",
+      "leveysaste": 61.150389,
+      "pituusaste": 23.689535,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 130,
+      "nimi": "Taksi-informaatio",
+      "leveysaste": 61.172068,
+      "pituusaste": 25.548595,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 131,
+      "nimi": "Taksiasema",
+      "leveysaste": 60.386645,
+      "pituusaste": 23.129315,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 132,
+      "nimi": "Taksiasema",
+      "leveysaste": 62.624429,
+      "pituusaste": 27.123313,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 133,
+      "nimi": "Taksiasema",
+      "leveysaste": 63.09888,
+      "pituusaste": 23.038372,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 134,
+      "nimi": "Taksiasema",
+      "leveysaste": 65.847685,
+      "pituusaste": 24.152539,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 135,
+      "nimi": "Taksiasema",
+      "leveysaste": 68.905632,
+      "pituusaste": 27.023983,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 136,
+      "nimi": "Taksiasema 15",
+      "leveysaste": 61.510851,
+      "pituusaste": 23.772696,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 137,
+      "nimi": "Taksiasema Padasjoki",
+      "leveysaste": 61.351089,
+      "pituusaste": 25.281756,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 138,
+      "nimi": "Taksiasema Vantaa Voutila Näpinkuja",
+      "leveysaste": 60.295414,
+      "pituusaste": 24.891159,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 139,
+      "nimi": "Taksiasema Veikkola",
+      "leveysaste": 60.26946,
+      "pituusaste": 24.442833,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 140,
+      "nimi": "Taksitolppa",
+      "leveysaste": 60.906709,
+      "pituusaste": 26.626656,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 141,
+      "nimi": "Taksitolppa",
+      "leveysaste": 60.907733,
+      "pituusaste": 26.626821,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 142,
+      "nimi": "Taksitolppa, Riihimäen rautatieasema",
+      "leveysaste": 60.734914,
+      "pituusaste": 24.780501,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 143,
+      "nimi": "Taksitolppa, Riihimäen rautatieasema",
+      "leveysaste": 60.734924,
+      "pituusaste": 24.780462,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 144,
+      "nimi": "Tampereen rautatieasema",
+      "leveysaste": 61.498501,
+      "pituusaste": 23.772405,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 145,
+      "nimi": "Taxi",
+      "leveysaste": 64.131258,
+      "pituusaste": 28.383082,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 146,
+      "nimi": "Taxi Leif Björklund",
+      "leveysaste": 63.637673,
+      "pituusaste": 23.204963,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 147,
+      "nimi": "Taxi bil och buss",
+      "leveysaste": 62.66158,
+      "pituusaste": 21.175805,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 148,
+      "nimi": "Taxi Äkäslompolo",
+      "leveysaste": 67.604345,
+      "pituusaste": 24.154437,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 149,
+      "nimi": "Taxidata",
+      "leveysaste": 60.511203,
+      "pituusaste": 22.274483,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 150,
+      "nimi": "Taxidata",
+      "leveysaste": 60.511206,
+      "pituusaste": 22.274471,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 151,
+      "nimi": "Taxidata",
+      "leveysaste": 60.511413,
+      "pituusaste": 22.27452,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 152,
+      "nimi": "Taxidata",
+      "leveysaste": 60.511456,
+      "pituusaste": 22.274568,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 153,
+      "nimi": "Tervolan taksiasema",
+      "leveysaste": 66.090432,
+      "pituusaste": 24.811249,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 154,
+      "nimi": "Uudenkaupungin taksiasema",
+      "leveysaste": 60.801227,
+      "pituusaste": 21.407982,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 155,
+      "nimi": "Vaalan taksiasema",
+      "leveysaste": 64.560288,
+      "pituusaste": 26.839333,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 156,
+      "nimi": "Vaasan Lentokenttä",
+      "leveysaste": 63.043386,
+      "pituusaste": 21.760331,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 157,
+      "nimi": "Vanha Linja-autoasema",
+      "leveysaste": 61.481267,
+      "pituusaste": 21.796988,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 158,
+      "nimi": "Vantaankosken asema",
+      "leveysaste": 60.285897,
+      "pituusaste": 24.848672,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 159,
+      "nimi": "Venetaksi",
+      "leveysaste": 59.900949,
+      "pituusaste": 23.409298,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 160,
+      "nimi": "Viinijärvi",
+      "leveysaste": 62.644199,
+      "pituusaste": 29.232518,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    },
+    {
+      "id": 161,
+      "nimi": "Ähtäri",
+      "leveysaste": 62.548917,
+      "pituusaste": 24.074257,
+      "osm_avain": "amenity",
+      "osm_arvo": "taxi",
+      "osm_luokka": "amenity=taxi"
+    }
+  ],
+  "meta": {
+    "title": "Taksiasemat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Taksiasemat Suomessa — 161 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=taxi`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 6. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 161 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Taksiasemat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Taksiasemat – Suomi (OpenStreetMap) — 161 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 161 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

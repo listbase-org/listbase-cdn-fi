@@ -1,0 +1,280 @@
+{
+  "id": "fi-lentoyhtiot",
+  "name": "Suomen lentoyhtiöt",
+  "title": "Suomen lentoyhtiöt",
+  "description": "Suomen lentoyhtiöt. Täydellinen lista OpenFlights-tietokantaan rekisteröidyistä suomalaisista lentoyhtiöistä: nimi, alias, IATA- ja ICAO-koodi, kutsutunnus sekä aktiivinen/lakkautettu tila. Lähde: OpenFlights (ODbL).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "openflights_id",
+      "label": "Openflights Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alias",
+      "label": "Alias",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "callsign",
+      "label": "Callsign",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "country_local",
+      "label": "Country Local",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "openflights_id": 40,
+      "name": "Aerial Oy",
+      "alias": "",
+      "iata": "",
+      "icao": "ABF",
+      "callsign": "SKYWINGS",
+      "country": "Finland",
+      "active": false,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 876,
+      "name": "Air Finland",
+      "alias": "",
+      "iata": "OF",
+      "icao": "FIF",
+      "callsign": "AIR FINLAND",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 86,
+      "name": "Airdeal Oy",
+      "alias": "",
+      "iata": "",
+      "icao": "ADU",
+      "callsign": "AIRDEAL",
+      "country": "Finland",
+      "active": false,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 878,
+      "name": "Airfix Aviation",
+      "alias": "",
+      "iata": "",
+      "icao": "FIX",
+      "callsign": "AIRFIX",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 702,
+      "name": "Airwings oy",
+      "alias": "",
+      "iata": "",
+      "icao": "WGS",
+      "callsign": "AIRWINGS",
+      "country": "Finland",
+      "active": false,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 1420,
+      "name": "BF-Lento OY",
+      "alias": "",
+      "iata": "",
+      "icao": "BKF",
+      "callsign": "BAKERFLIGHT",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 1427,
+      "name": "Blue1",
+      "alias": "",
+      "iata": "KF",
+      "icao": "BLF",
+      "callsign": "BLUEFIN",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 1892,
+      "name": "Copterline",
+      "alias": "",
+      "iata": "",
+      "icao": "AAQ",
+      "callsign": "COPTERLINE",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 14073,
+      "name": "Finlandian",
+      "alias": "",
+      "iata": "",
+      "icao": "FN1",
+      "callsign": "",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 2350,
+      "name": "Finnair",
+      "alias": "",
+      "iata": "AY",
+      "icao": "FIN",
+      "callsign": "FINNAIR",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 2351,
+      "name": "Finncomm Airlines",
+      "alias": "",
+      "iata": "FC",
+      "icao": "WBA",
+      "callsign": "WESTBIRD",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 2352,
+      "name": "Finnish Air Force",
+      "alias": "",
+      "iata": "",
+      "icao": "FNF",
+      "callsign": "FINNFORCE",
+      "country": "Finland",
+      "active": false,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 18952,
+      "name": "Flybe Finland Oy",
+      "alias": "",
+      "iata": "",
+      "icao": "FCM",
+      "callsign": "FINNCOMM",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 2471,
+      "name": "Frontier Guard",
+      "alias": "",
+      "iata": "",
+      "icao": "FNG",
+      "callsign": "FINNGUARD",
+      "country": "Finland",
+      "active": false,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 3039,
+      "name": "Jetflite",
+      "alias": "",
+      "iata": "",
+      "icao": "JEF",
+      "callsign": "JETFLITE",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 16808,
+      "name": "Kar-Air",
+      "alias": "",
+      "iata": "",
+      "icao": "KAR",
+      "callsign": "",
+      "country": "Finland",
+      "active": false,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 17890,
+      "name": "Nordic Global Airlines",
+      "alias": "",
+      "iata": "NJ",
+      "icao": "NGB",
+      "callsign": "Nordic Global",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 3823,
+      "name": "Oulun Tilauslento",
+      "alias": "",
+      "iata": "",
+      "icao": "FNL",
+      "callsign": "FINN FLIGHT",
+      "country": "Finland",
+      "active": false,
+      "country_local": "Suomi"
+    },
+    {
+      "openflights_id": 19361,
+      "name": "Snowbird Airlines",
+      "alias": "",
+      "iata": "S8",
+      "icao": "SBD",
+      "callsign": "",
+      "country": "Finland",
+      "active": true,
+      "country_local": "Suomi"
+    }
+  ],
+  "meta": {
+    "title": "Suomen lentoyhtiöt - Ilmainen lataus",
+    "description": "Suomen lentoyhtiöt. Täydellinen lista OpenFlights-tietokantaan rekisteröidyistä suomalaisista lentoyhtiöistä: nimi, alias, IATA- ja ICAO-koodi, kutsutunnus sekä aktiivinen/lakkautettu tila. Lähde: OpenFlights (ODbL). Sisältää 19 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Suomen lentoyhtiöt | ListBase",
+    "seo_description": "Lataa Suomen lentoyhtiöt — 19 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 19 tietuetta / 9 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

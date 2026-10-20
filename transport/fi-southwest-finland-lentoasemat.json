@@ -1,0 +1,142 @@
+{
+  "id": "fi-southwest-finland-lentoasemat",
+  "name": "Finland / Varsinais-Suomi — Airports (lentoasemat)",
+  "title": "Finland / Varsinais-Suomi — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Varsinais-Suomi (Southwest Finland (Finland Proper)), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Finland-Proper'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFGE",
+      "iata": "",
+      "name": "Genbole Airport",
+      "city": "Genbole",
+      "subdivision": "Finland-Proper",
+      "subdivision_name_fi": "Varsinais-Suomi",
+      "country": "FI",
+      "elevation_ft": 46,
+      "latitude": 60.0869,
+      "longitude": 22.5219,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFIK",
+      "iata": "",
+      "name": "Kiikala Airport",
+      "city": "",
+      "subdivision": "Finland-Proper",
+      "subdivision_name_fi": "Varsinais-Suomi",
+      "country": "FI",
+      "elevation_ft": 381,
+      "latitude": 60.4625,
+      "longitude": 23.6525,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFOP",
+      "iata": "",
+      "name": "Oripaa Airport",
+      "city": "Oripaa",
+      "subdivision": "Finland-Proper",
+      "subdivision_name_fi": "Varsinais-Suomi",
+      "country": "FI",
+      "elevation_ft": 331,
+      "latitude": 60.8764,
+      "longitude": 22.7447,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFTU",
+      "iata": "TKU",
+      "name": "Turku Airport",
+      "city": "Turku",
+      "subdivision": "Finland-Proper",
+      "subdivision_name_fi": "Varsinais-Suomi",
+      "country": "FI",
+      "elevation_ft": 161,
+      "latitude": 60.5141,
+      "longitude": 22.2628,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Varsinais-Suomi — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Varsinais-Suomi (Southwest Finland (Finland Proper)), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Finland-Proper'. Sisältää 4 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Varsinais-Suomi — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Varsinais-Suomi — Airports (lentoasemat) — 4 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 4 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "fi-pirkanmaa-lentoasemat",
+  "name": "Finland / Pirkanmaa — Airports (lentoasemat)",
+  "title": "Finland / Pirkanmaa — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Pirkanmaa (Pirkanmaa), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Pirkanmaa'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFHM",
+      "iata": "",
+      "name": "Hameenkyro Airport",
+      "city": "",
+      "subdivision": "Pirkanmaa",
+      "subdivision_name_fi": "Pirkanmaa",
+      "country": "FI",
+      "elevation_ft": 449,
+      "latitude": 61.6897,
+      "longitude": 23.0737,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFTP",
+      "iata": "TMP",
+      "name": "Tampere-Pirkkala Airport",
+      "city": "Tampere / Pirkkala",
+      "subdivision": "Pirkanmaa",
+      "subdivision_name_fi": "Pirkanmaa",
+      "country": "FI",
+      "elevation_ft": 390,
+      "latitude": 61.4141,
+      "longitude": 23.6044,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFTS",
+      "iata": "",
+      "name": "Teisko Airport",
+      "city": "Tampere",
+      "subdivision": "Pirkanmaa",
+      "subdivision_name_fi": "Pirkanmaa",
+      "country": "FI",
+      "elevation_ft": 515,
+      "latitude": 61.7733,
+      "longitude": 24.027,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Pirkanmaa — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Pirkanmaa (Pirkanmaa), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Pirkanmaa'. Sisältää 3 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Pirkanmaa — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Pirkanmaa — Airports (lentoasemat) — 3 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 3 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

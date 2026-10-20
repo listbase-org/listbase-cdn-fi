@@ -1,0 +1,5893 @@
+{
+  "id": "fi-osm-amenity-bank",
+  "name": "Pankit – Suomi (OpenStreetMap)",
+  "title": "Pankit – Suomi (OpenStreetMap)",
+  "description": "Pankit Suomessa — 648 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=bank`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 11. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 648,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aito Säästöpankki",
+      "leveysaste": 61.466259,
+      "pituusaste": 23.649859,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 2,
+      "nimi": "Aito Säästöpankki",
+      "leveysaste": 61.66803,
+      "pituusaste": 23.177225,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 3,
+      "nimi": "Aito Säästöpankki",
+      "leveysaste": 61.769225,
+      "pituusaste": 23.067448,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 4,
+      "nimi": "Aito Säästöpankki",
+      "leveysaste": 63.100848,
+      "pituusaste": 23.040271,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 5,
+      "nimi": "Aito Säästöpankki, Pälkäne",
+      "leveysaste": 61.336076,
+      "pituusaste": 24.269721,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 6,
+      "nimi": "Aito Säästöpankki, Valkeakoski",
+      "leveysaste": 61.267166,
+      "pituusaste": 24.029261,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 7,
+      "nimi": "Aktia",
+      "leveysaste": 60.070563,
+      "pituusaste": 23.659269,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 8,
+      "nimi": "Aktia",
+      "leveysaste": 60.170569,
+      "pituusaste": 24.933719,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 9,
+      "nimi": "Aktia",
+      "leveysaste": 60.176056,
+      "pituusaste": 24.803775,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 10,
+      "nimi": "Aktia",
+      "leveysaste": 60.177889,
+      "pituusaste": 24.950487,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 11,
+      "nimi": "Aktia",
+      "leveysaste": 60.21856,
+      "pituusaste": 24.814364,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 12,
+      "nimi": "Aktia",
+      "leveysaste": 60.291912,
+      "pituusaste": 25.042537,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 13,
+      "nimi": "Aktia",
+      "leveysaste": 60.300781,
+      "pituusaste": 22.303715,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 14,
+      "nimi": "Aktia",
+      "leveysaste": 60.394418,
+      "pituusaste": 25.662934,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 15,
+      "nimi": "Aktia",
+      "leveysaste": 60.452716,
+      "pituusaste": 22.267425,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 16,
+      "nimi": "Aktia",
+      "leveysaste": 60.471185,
+      "pituusaste": 25.088209,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 17,
+      "nimi": "Aktia",
+      "leveysaste": 61.496326,
+      "pituusaste": 23.768989,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 18,
+      "nimi": "Aktia",
+      "leveysaste": 61.498409,
+      "pituusaste": 23.759407,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 19,
+      "nimi": "Aktia",
+      "leveysaste": 62.893041,
+      "pituusaste": 27.681939,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 20,
+      "nimi": "Aktia",
+      "leveysaste": 62.977053,
+      "pituusaste": 22.012259,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 21,
+      "nimi": "Aktia",
+      "leveysaste": 63.029126,
+      "pituusaste": 21.804124,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 22,
+      "nimi": "Aktia",
+      "leveysaste": 63.094788,
+      "pituusaste": 21.615699,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 23,
+      "nimi": "Aktia",
+      "leveysaste": 63.673798,
+      "pituusaste": 22.705475,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 24,
+      "nimi": "Aktia",
+      "leveysaste": 63.836602,
+      "pituusaste": 23.135009,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 25,
+      "nimi": "Andelsbanken",
+      "leveysaste": 60.101341,
+      "pituusaste": 19.941979,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 26,
+      "nimi": "Andelsbanken",
+      "leveysaste": 60.301763,
+      "pituusaste": 22.301841,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 27,
+      "nimi": "Andelsbanken",
+      "leveysaste": 62.274291,
+      "pituusaste": 21.377015,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 28,
+      "nimi": "Andelsbanken",
+      "leveysaste": 62.784764,
+      "pituusaste": 21.189443,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 29,
+      "nimi": "Andelsbanken",
+      "leveysaste": 62.78479,
+      "pituusaste": 21.18942,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 30,
+      "nimi": "Artjärven Osuuspankki",
+      "leveysaste": 60.746211,
+      "pituusaste": 26.053936,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 31,
+      "nimi": "Artjärven Osuuspankki",
+      "leveysaste": 60.746228,
+      "pituusaste": 26.053931,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 32,
+      "nimi": "Avain Säästöpankki",
+      "leveysaste": 63.300443,
+      "pituusaste": 23.156898,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 33,
+      "nimi": "Avain Säästöpankki",
+      "leveysaste": 63.774073,
+      "pituusaste": 24.251129,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 34,
+      "nimi": "Avain Säästöpankki Kalajoki",
+      "leveysaste": 64.259621,
+      "pituusaste": 23.947714,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 35,
+      "nimi": "Avain Säästöpankki Ylivieska",
+      "leveysaste": 64.072788,
+      "pituusaste": 24.537718,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 36,
+      "nimi": "Bergö Andelsbank",
+      "leveysaste": 62.968766,
+      "pituusaste": 21.190801,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 37,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.169316,
+      "pituusaste": 24.935388,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 38,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.170144,
+      "pituusaste": 24.94559,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 39,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.209859,
+      "pituusaste": 25.078447,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 40,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.451432,
+      "pituusaste": 22.264986,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 41,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.470161,
+      "pituusaste": 25.086905,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 42,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.631566,
+      "pituusaste": 24.860622,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 43,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.868867,
+      "pituusaste": 26.703597,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 44,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.983397,
+      "pituusaste": 25.654614,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 45,
+      "nimi": "Danske Bank",
+      "leveysaste": 60.996355,
+      "pituusaste": 24.460872,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 46,
+      "nimi": "Danske Bank",
+      "leveysaste": 61.059013,
+      "pituusaste": 28.186158,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 47,
+      "nimi": "Danske Bank",
+      "leveysaste": 61.49802,
+      "pituusaste": 23.768234,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 48,
+      "nimi": "Danske Bank",
+      "leveysaste": 61.689134,
+      "pituusaste": 27.269499,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 49,
+      "nimi": "Danske Bank",
+      "leveysaste": 62.243493,
+      "pituusaste": 25.748606,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 50,
+      "nimi": "Danske Bank",
+      "leveysaste": 62.603331,
+      "pituusaste": 29.762914,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 51,
+      "nimi": "Danske Bank",
+      "leveysaste": 62.790767,
+      "pituusaste": 22.83641,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 52,
+      "nimi": "Danske Bank",
+      "leveysaste": 62.89208,
+      "pituusaste": 27.680173,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 53,
+      "nimi": "Danske Bank",
+      "leveysaste": 63.838449,
+      "pituusaste": 23.132003,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 54,
+      "nimi": "Danske Bank",
+      "leveysaste": 64.225531,
+      "pituusaste": 27.732544,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 55,
+      "nimi": "Danske Bank",
+      "leveysaste": 65.013864,
+      "pituusaste": 25.466698,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 56,
+      "nimi": "Danske Bank",
+      "leveysaste": 66.501998,
+      "pituusaste": 25.729533,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 57,
+      "nimi": "EKSP",
+      "leveysaste": 61.687502,
+      "pituusaste": 27.2693,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 58,
+      "nimi": "Eräjärven konttori",
+      "leveysaste": 61.5774,
+      "pituusaste": 24.56268,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 59,
+      "nimi": "Etelä-Karjalan säästöpankki",
+      "leveysaste": 61.058402,
+      "pituusaste": 28.185835,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 60,
+      "nimi": "Eurajoen Säästöpankki, Pääkonttori",
+      "leveysaste": 61.202115,
+      "pituusaste": 21.729791,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 61,
+      "nimi": "Express-Tilit oy",
+      "leveysaste": 60.186115,
+      "pituusaste": 24.96001,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 62,
+      "nimi": "Finlandia Group Oyj",
+      "leveysaste": 62.891268,
+      "pituusaste": 27.678189,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 63,
+      "nimi": "Global Refund",
+      "leveysaste": 66.833702,
+      "pituusaste": 28.668527,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 64,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.163137,
+      "pituusaste": 24.739001,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 65,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.168781,
+      "pituusaste": 24.945152,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 66,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.169067,
+      "pituusaste": 24.947225,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 67,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.197453,
+      "pituusaste": 24.927977,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 68,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.404345,
+      "pituusaste": 25.101795,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 69,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.450359,
+      "pituusaste": 22.266629,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 70,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.463476,
+      "pituusaste": 26.938718,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 71,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.631395,
+      "pituusaste": 24.860332,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 72,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.868096,
+      "pituusaste": 26.705118,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 73,
+      "nimi": "Handelsbanken",
+      "leveysaste": 60.994703,
+      "pituusaste": 24.462458,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 74,
+      "nimi": "Handelsbanken",
+      "leveysaste": 61.499723,
+      "pituusaste": 23.771122,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 75,
+      "nimi": "Handelsbanken",
+      "leveysaste": 62.602725,
+      "pituusaste": 29.763911,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 76,
+      "nimi": "Handelsbanken",
+      "leveysaste": 66.387959,
+      "pituusaste": 23.65759,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 77,
+      "nimi": "Handelsbanken Tapiola",
+      "leveysaste": 60.17522,
+      "pituusaste": 24.801709,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 78,
+      "nimi": "Handelsbanken Tornio",
+      "leveysaste": 65.845372,
+      "pituusaste": 24.14806,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 79,
+      "nimi": "Handlesbanken Ruoholahti",
+      "leveysaste": 60.163952,
+      "pituusaste": 24.916391,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 80,
+      "nimi": "Helmi Säästöpankki",
+      "leveysaste": 60.296177,
+      "pituusaste": 25.038988,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 81,
+      "nimi": "Helmi Säästöpankki",
+      "leveysaste": 60.983801,
+      "pituusaste": 25.657919,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 82,
+      "nimi": "Helmi Säästöpankki",
+      "leveysaste": 61.202118,
+      "pituusaste": 26.031985,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 83,
+      "nimi": "Helsingin Seudun Osuuspankki Iso Omena",
+      "leveysaste": 60.160077,
+      "pituusaste": 24.738055,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 84,
+      "nimi": "Helsingin Seudun Osuuspankki Iso Omena",
+      "leveysaste": 60.160079,
+      "pituusaste": 24.738138,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 85,
+      "nimi": "Himangan Osuuspankki",
+      "leveysaste": 64.062222,
+      "pituusaste": 23.654422,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 86,
+      "nimi": "Himangan Osuuspankki",
+      "leveysaste": 64.062229,
+      "pituusaste": 23.6544,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 87,
+      "nimi": "Huittisten Säästöpankki",
+      "leveysaste": 61.1774,
+      "pituusaste": 22.697797,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 88,
+      "nimi": "Ilmajoen Nordea",
+      "leveysaste": 62.730963,
+      "pituusaste": 22.579804,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 89,
+      "nimi": "Kalajoen Osuuspankki",
+      "leveysaste": 64.252455,
+      "pituusaste": 23.955433,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 90,
+      "nimi": "Kalannin Säästöpankki",
+      "leveysaste": 60.800189,
+      "pituusaste": 21.413287,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 91,
+      "nimi": "Kannonkosken Osuuspankki, Pääkonttori",
+      "leveysaste": 62.977116,
+      "pituusaste": 25.263029,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 92,
+      "nimi": "Kantapankki",
+      "leveysaste": 61.171338,
+      "pituusaste": 24.564268,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 93,
+      "nimi": "Kiikoisten Säästöpankki",
+      "leveysaste": 61.473805,
+      "pituusaste": 22.556986,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 94,
+      "nimi": "Koilis-Savon seudun Osuuspankki, Kaavin konttori",
+      "leveysaste": 62.974563,
+      "pituusaste": 28.481356,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 95,
+      "nimi": "Koilis-Savon seudun Osuuspankki, Kaavin konttori",
+      "leveysaste": 62.974575,
+      "pituusaste": 28.481406,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 96,
+      "nimi": "Koillismaan Osuuspankki",
+      "leveysaste": 65.359482,
+      "pituusaste": 26.996662,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 97,
+      "nimi": "Kosken Osuuspankki",
+      "leveysaste": 60.38583,
+      "pituusaste": 23.126842,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 98,
+      "nimi": "Kosken Osuuspankki",
+      "leveysaste": 60.385835,
+      "pituusaste": 23.126886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 99,
+      "nimi": "Kronoby Andelsbank",
+      "leveysaste": 63.728545,
+      "pituusaste": 23.033479,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 100,
+      "nimi": "Kuortaneen Säästöpankki",
+      "leveysaste": 62.804915,
+      "pituusaste": 23.507617,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 101,
+      "nimi": "Kurikan Osuuspankki",
+      "leveysaste": 62.616073,
+      "pituusaste": 22.398083,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 102,
+      "nimi": "Kurikan Osuuspankki",
+      "leveysaste": 62.61608,
+      "pituusaste": 22.398033,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 103,
+      "nimi": "Kustavin pankki",
+      "leveysaste": 60.545495,
+      "pituusaste": 21.358766,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 104,
+      "nimi": "Kvevlax Sparbank",
+      "leveysaste": 63.100127,
+      "pituusaste": 21.633538,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 105,
+      "nimi": "Kvevlax Sparbank",
+      "leveysaste": 63.161119,
+      "pituusaste": 21.839841,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 106,
+      "nimi": "Kvevlax Sparbank",
+      "leveysaste": 63.161126,
+      "pituusaste": 21.839712,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 107,
+      "nimi": "Lammin Säästöpankki",
+      "leveysaste": 60.995523,
+      "pituusaste": 24.46171,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 108,
+      "nimi": "Lammin Säästöpankki",
+      "leveysaste": 61.105822,
+      "pituusaste": 24.865196,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 109,
+      "nimi": "Lammin Säästöpankki Tuusula",
+      "leveysaste": 60.400751,
+      "pituusaste": 25.022522,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 110,
+      "nimi": "Lammin Säästöpankki, Parola",
+      "leveysaste": 61.055196,
+      "pituusaste": 24.372834,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 111,
+      "nimi": "Lounais-Suomen Osuuspankki, Paimion konttori",
+      "leveysaste": 60.456066,
+      "pituusaste": 22.688349,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 112,
+      "nimi": "Lounais-Suomen Osuuspankki, Paimion konttori",
+      "leveysaste": 60.456092,
+      "pituusaste": 22.688391,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 113,
+      "nimi": "Lähi Tapiola",
+      "leveysaste": 60.568761,
+      "pituusaste": 27.191646,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 114,
+      "nimi": "LähiTapiola",
+      "leveysaste": 60.631335,
+      "pituusaste": 24.860226,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 115,
+      "nimi": "LähiTapiola Länsi-Suomi",
+      "leveysaste": 61.130852,
+      "pituusaste": 22.127942,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 116,
+      "nimi": "Lähitapiola",
+      "leveysaste": 60.7351,
+      "pituusaste": 24.76765,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 117,
+      "nimi": "Länsi-Kymen Osuuspankki",
+      "leveysaste": 60.622903,
+      "pituusaste": 26.199256,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 118,
+      "nimi": "Länsi-Kymen Osuuspankki",
+      "leveysaste": 60.622922,
+      "pituusaste": 26.199238,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 119,
+      "nimi": "Länsi-Uudenmaan Säästöpankki",
+      "leveysaste": 60.185433,
+      "pituusaste": 24.812327,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 120,
+      "nimi": "Länsi-Uudenmaan Säästöpankki",
+      "leveysaste": 60.334766,
+      "pituusaste": 24.319834,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 121,
+      "nimi": "Länsi-Uudenmaan Säästöpankki Lohja",
+      "leveysaste": 60.251036,
+      "pituusaste": 24.064829,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 122,
+      "nimi": "Länsi-Uudenmaan Säästöpankki, Karkkila",
+      "leveysaste": 60.5339,
+      "pituusaste": 24.210566,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 123,
+      "nimi": "Länsi-Uudenmaan Säästöpankki, Kirkkonummi Jorvas",
+      "leveysaste": 60.130764,
+      "pituusaste": 24.513852,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 124,
+      "nimi": "Marttilan Osuuspankki",
+      "leveysaste": 60.585061,
+      "pituusaste": 22.900882,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 125,
+      "nimi": "Marttilan Osuuspankki",
+      "leveysaste": 60.585086,
+      "pituusaste": 22.90091,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 126,
+      "nimi": "Myrskylän Säästöpankki",
+      "leveysaste": 60.635595,
+      "pituusaste": 25.317346,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 127,
+      "nimi": "Myrskylän Säästöpankki",
+      "leveysaste": 60.669854,
+      "pituusaste": 25.853342,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 128,
+      "nimi": "Myrskylän Säästöpankki",
+      "leveysaste": 60.804766,
+      "pituusaste": 25.732618,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 129,
+      "nimi": "Mäntyharjun konttori",
+      "leveysaste": 61.417318,
+      "pituusaste": 26.882106,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 130,
+      "nimi": "Nooa Säästöpankki",
+      "leveysaste": 60.166626,
+      "pituusaste": 24.944107,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 131,
+      "nimi": "Nooa Säästöpankki",
+      "leveysaste": 60.29348,
+      "pituusaste": 25.037016,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 132,
+      "nimi": "Nooa Säästöpankki Matinkylän tapaamispiste",
+      "leveysaste": 60.163221,
+      "pituusaste": 24.739279,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 133,
+      "nimi": "Nordea",
+      "leveysaste": 59.976928,
+      "pituusaste": 23.443855,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 134,
+      "nimi": "Nordea",
+      "leveysaste": 60.071009,
+      "pituusaste": 23.659601,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 135,
+      "nimi": "Nordea",
+      "leveysaste": 60.099169,
+      "pituusaste": 19.941749,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 136,
+      "nimi": "Nordea",
+      "leveysaste": 60.162,
+      "pituusaste": 24.73668,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 137,
+      "nimi": "Nordea",
+      "leveysaste": 60.162005,
+      "pituusaste": 24.736675,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 138,
+      "nimi": "Nordea",
+      "leveysaste": 60.164403,
+      "pituusaste": 22.728448,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 139,
+      "nimi": "Nordea",
+      "leveysaste": 60.168863,
+      "pituusaste": 24.948061,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 140,
+      "nimi": "Nordea",
+      "leveysaste": 60.169753,
+      "pituusaste": 24.939292,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 141,
+      "nimi": "Nordea",
+      "leveysaste": 60.197295,
+      "pituusaste": 24.935912,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 142,
+      "nimi": "Nordea",
+      "leveysaste": 60.210222,
+      "pituusaste": 24.728496,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 143,
+      "nimi": "Nordea",
+      "leveysaste": 60.211899,
+      "pituusaste": 25.083557,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 144,
+      "nimi": "Nordea",
+      "leveysaste": 60.217535,
+      "pituusaste": 24.810768,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 145,
+      "nimi": "Nordea",
+      "leveysaste": 60.378706,
+      "pituusaste": 24.754359,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 146,
+      "nimi": "Nordea",
+      "leveysaste": 60.386704,
+      "pituusaste": 23.12716,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 147,
+      "nimi": "Nordea",
+      "leveysaste": 60.39348,
+      "pituusaste": 25.662597,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 148,
+      "nimi": "Nordea",
+      "leveysaste": 60.452559,
+      "pituusaste": 22.267789,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 149,
+      "nimi": "Nordea",
+      "leveysaste": 60.456327,
+      "pituusaste": 26.225577,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 150,
+      "nimi": "Nordea",
+      "leveysaste": 60.46689,
+      "pituusaste": 26.943828,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 151,
+      "nimi": "Nordea",
+      "leveysaste": 60.568244,
+      "pituusaste": 27.190859,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 152,
+      "nimi": "Nordea",
+      "leveysaste": 60.633974,
+      "pituusaste": 24.864925,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 153,
+      "nimi": "Nordea",
+      "leveysaste": 60.799754,
+      "pituusaste": 21.408117,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 154,
+      "nimi": "Nordea",
+      "leveysaste": 60.850708,
+      "pituusaste": 23.05229,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 155,
+      "nimi": "Nordea",
+      "leveysaste": 60.8694,
+      "pituusaste": 26.701709,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 156,
+      "nimi": "Nordea",
+      "leveysaste": 60.869402,
+      "pituusaste": 26.701734,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 157,
+      "nimi": "Nordea",
+      "leveysaste": 60.995984,
+      "pituusaste": 24.46466,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 158,
+      "nimi": "Nordea",
+      "leveysaste": 61.055103,
+      "pituusaste": 28.190103,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 159,
+      "nimi": "Nordea",
+      "leveysaste": 61.130201,
+      "pituusaste": 21.506752,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 160,
+      "nimi": "Nordea",
+      "leveysaste": 61.340745,
+      "pituusaste": 22.910427,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 161,
+      "nimi": "Nordea",
+      "leveysaste": 61.477375,
+      "pituusaste": 23.511355,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 162,
+      "nimi": "Nordea",
+      "leveysaste": 61.484517,
+      "pituusaste": 21.796918,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 163,
+      "nimi": "Nordea",
+      "leveysaste": 61.549179,
+      "pituusaste": 23.595047,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 164,
+      "nimi": "Nordea",
+      "leveysaste": 61.870472,
+      "pituusaste": 28.877883,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 165,
+      "nimi": "Nordea",
+      "leveysaste": 62.009825,
+      "pituusaste": 23.024825,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 166,
+      "nimi": "Nordea",
+      "leveysaste": 62.424229,
+      "pituusaste": 22.179284,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 167,
+      "nimi": "Nordea",
+      "leveysaste": 62.585909,
+      "pituusaste": 23.619332,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 168,
+      "nimi": "Nordea",
+      "leveysaste": 62.601352,
+      "pituusaste": 29.762872,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 169,
+      "nimi": "Nordea",
+      "leveysaste": 62.604199,
+      "pituusaste": 25.726954,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 170,
+      "nimi": "Nordea",
+      "leveysaste": 62.790593,
+      "pituusaste": 22.840578,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 171,
+      "nimi": "Nordea",
+      "leveysaste": 62.891303,
+      "pituusaste": 27.678174,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 172,
+      "nimi": "Nordea",
+      "leveysaste": 62.968211,
+      "pituusaste": 23.011506,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 173,
+      "nimi": "Nordea",
+      "leveysaste": 62.979013,
+      "pituusaste": 22.009843,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 174,
+      "nimi": "Nordea",
+      "leveysaste": 63.095788,
+      "pituusaste": 21.617171,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 175,
+      "nimi": "Nordea",
+      "leveysaste": 63.100399,
+      "pituusaste": 23.046224,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 176,
+      "nimi": "Nordea",
+      "leveysaste": 63.129986,
+      "pituusaste": 22.252634,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 177,
+      "nimi": "Nordea",
+      "leveysaste": 63.675498,
+      "pituusaste": 22.70333,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 178,
+      "nimi": "Nordea",
+      "leveysaste": 63.749862,
+      "pituusaste": 25.320436,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 179,
+      "nimi": "Nordea",
+      "leveysaste": 63.837565,
+      "pituusaste": 23.132736,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 180,
+      "nimi": "Nordea",
+      "leveysaste": 64.224973,
+      "pituusaste": 27.732889,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 181,
+      "nimi": "Nordea",
+      "leveysaste": 64.683975,
+      "pituusaste": 24.478793,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 182,
+      "nimi": "Nordea",
+      "leveysaste": 64.685597,
+      "pituusaste": 24.47848,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 183,
+      "nimi": "Nordea",
+      "leveysaste": 64.912747,
+      "pituusaste": 25.502529,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 184,
+      "nimi": "Nordea",
+      "leveysaste": 64.956775,
+      "pituusaste": 25.528116,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 185,
+      "nimi": "Nordea",
+      "leveysaste": 65.01286,
+      "pituusaste": 25.471313,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 186,
+      "nimi": "Nordea",
+      "leveysaste": 65.845857,
+      "pituusaste": 24.148863,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 187,
+      "nimi": "Nordea",
+      "leveysaste": 67.33173,
+      "pituusaste": 23.781853,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 188,
+      "nimi": "Nordea",
+      "leveysaste": 67.653888,
+      "pituusaste": 24.911514,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 189,
+      "nimi": "Nordea Ivalo",
+      "leveysaste": 68.656188,
+      "pituusaste": 27.539609,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 190,
+      "nimi": "Nordea Jalasjärvi",
+      "leveysaste": 62.489295,
+      "pituusaste": 22.761185,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 191,
+      "nimi": "Nordea Kalajoki",
+      "leveysaste": 64.258586,
+      "pituusaste": 23.946247,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 192,
+      "nimi": "Nordea Kerava",
+      "leveysaste": 60.403103,
+      "pituusaste": 25.100539,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 193,
+      "nimi": "Nordea Kristiinankaupunki",
+      "leveysaste": 62.274178,
+      "pituusaste": 21.379647,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 194,
+      "nimi": "Nordea Kurikka",
+      "leveysaste": 62.615252,
+      "pituusaste": 22.397188,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 195,
+      "nimi": "Nordea Lohja",
+      "leveysaste": 60.250825,
+      "pituusaste": 24.065337,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 196,
+      "nimi": "Nordea Mäntyharju",
+      "leveysaste": 61.41816,
+      "pituusaste": 26.881111,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 197,
+      "nimi": "Nordea Nummela",
+      "leveysaste": 60.335459,
+      "pituusaste": 24.320287,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 198,
+      "nimi": "Nordea Pankki",
+      "leveysaste": 60.472591,
+      "pituusaste": 25.089339,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 199,
+      "nimi": "Nordea Pankki Hakaniemi",
+      "leveysaste": 60.178759,
+      "pituusaste": 24.949617,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 200,
+      "nimi": "Nordea Premium Banking Iso Omena",
+      "leveysaste": 60.159933,
+      "pituusaste": 24.738121,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 201,
+      "nimi": "Nordea Premium Banking Iso Omena",
+      "leveysaste": 60.159952,
+      "pituusaste": 24.738211,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 202,
+      "nimi": "Nordea Private Banking",
+      "leveysaste": 60.869273,
+      "pituusaste": 26.70171,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 203,
+      "nimi": "Nordea Private Banking",
+      "leveysaste": 60.869286,
+      "pituusaste": 26.701756,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 204,
+      "nimi": "Nordea Salla",
+      "leveysaste": 66.830505,
+      "pituusaste": 28.670698,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 205,
+      "nimi": "Nordea Tapiola",
+      "leveysaste": 60.175097,
+      "pituusaste": 24.804548,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 206,
+      "nimi": "Nordea Ylivieska",
+      "leveysaste": 64.072774,
+      "pituusaste": 24.538077,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 207,
+      "nimi": "Nordic Investment Bank",
+      "leveysaste": 60.171966,
+      "pituusaste": 24.948811,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 208,
+      "nimi": "Nordnet",
+      "leveysaste": 60.16995,
+      "pituusaste": 24.94738,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 209,
+      "nimi": "Nylands Andelsbank",
+      "leveysaste": 60.457081,
+      "pituusaste": 26.224187,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 210,
+      "nimi": "OP",
+      "leveysaste": 59.825811,
+      "pituusaste": 22.966054,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 211,
+      "nimi": "OP",
+      "leveysaste": 60.171514,
+      "pituusaste": 24.924595,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 212,
+      "nimi": "OP",
+      "leveysaste": 60.217298,
+      "pituusaste": 24.811322,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 213,
+      "nimi": "OP",
+      "leveysaste": 60.376016,
+      "pituusaste": 25.268516,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 214,
+      "nimi": "OP",
+      "leveysaste": 60.493314,
+      "pituusaste": 25.540637,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 215,
+      "nimi": "OP",
+      "leveysaste": 60.631087,
+      "pituusaste": 24.860835,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 216,
+      "nimi": "OP",
+      "leveysaste": 62.242404,
+      "pituusaste": 25.747291,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 217,
+      "nimi": "OP",
+      "leveysaste": 63.681989,
+      "pituusaste": 25.976199,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 218,
+      "nimi": "OP",
+      "leveysaste": 64.1749,
+      "pituusaste": 25.962241,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 219,
+      "nimi": "OP",
+      "leveysaste": 64.607675,
+      "pituusaste": 25.208003,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 220,
+      "nimi": "OP Botnia Purmo",
+      "leveysaste": 63.478987,
+      "pituusaste": 23.010423,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 221,
+      "nimi": "OP Harjuseutu, Alastaron konttori",
+      "leveysaste": 60.952326,
+      "pituusaste": 22.863886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 222,
+      "nimi": "OP Harjuseutu, Oripään konttori",
+      "leveysaste": 60.856241,
+      "pituusaste": 22.695905,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 223,
+      "nimi": "OP Jokilääni, Metsämaan konttori",
+      "leveysaste": 60.939331,
+      "pituusaste": 23.153873,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 224,
+      "nimi": "OP Jokilääni, Metsämaan konttori",
+      "leveysaste": 60.939343,
+      "pituusaste": 23.15392,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 225,
+      "nimi": "OP Lounais-Suomi, Loimaan konttori",
+      "leveysaste": 60.850539,
+      "pituusaste": 23.055596,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 226,
+      "nimi": "OP Länsi-Kymi",
+      "leveysaste": 60.457813,
+      "pituusaste": 26.226116,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 227,
+      "nimi": "OP Niinijokivarsi, Mellilän konttori",
+      "leveysaste": 60.779431,
+      "pituusaste": 22.925323,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 228,
+      "nimi": "OP Niinijokivarsi, Niinijoen konttori",
+      "leveysaste": 60.85944,
+      "pituusaste": 22.878712,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 229,
+      "nimi": "OP Sastamala",
+      "leveysaste": 61.342541,
+      "pituusaste": 22.908055,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 230,
+      "nimi": "OP Sastamala",
+      "leveysaste": 61.342541,
+      "pituusaste": 22.908385,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 231,
+      "nimi": "OP-Pohjola",
+      "leveysaste": 60.738358,
+      "pituusaste": 24.773067,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 232,
+      "nimi": "Oma Säästöpankki",
+      "leveysaste": 61.360138,
+      "pituusaste": 23.795687,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 233,
+      "nimi": "Oma Säästöpankki",
+      "leveysaste": 61.494928,
+      "pituusaste": 21.801439,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 234,
+      "nimi": "Oma Säästöpankki",
+      "leveysaste": 61.498509,
+      "pituusaste": 23.768669,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 235,
+      "nimi": "Oma Säästöpankki",
+      "leveysaste": 61.86959,
+      "pituusaste": 28.881055,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 236,
+      "nimi": "Oma Säästöpankki",
+      "leveysaste": 62.731764,
+      "pituusaste": 22.580915,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 237,
+      "nimi": "Oma Säästöpankki",
+      "leveysaste": 65.008651,
+      "pituusaste": 25.46869,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 238,
+      "nimi": "Oma Säästöpankki Häijää",
+      "leveysaste": 61.500113,
+      "pituusaste": 23.090713,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 239,
+      "nimi": "Oma Säästöpankki Jyväskylä",
+      "leveysaste": 62.244747,
+      "pituusaste": 25.747717,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 240,
+      "nimi": "Oma Säästöpankki Masku",
+      "leveysaste": 60.554257,
+      "pituusaste": 22.11511,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 241,
+      "nimi": "Oma Säästöpankki Tuuri",
+      "leveysaste": 62.603247,
+      "pituusaste": 23.734802,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 242,
+      "nimi": "Oma Säästöpankki, Renko",
+      "leveysaste": 60.893409,
+      "pituusaste": 24.281429,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 243,
+      "nimi": "OmaSP",
+      "leveysaste": 60.568209,
+      "pituusaste": 27.19367,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 244,
+      "nimi": "OmaSP",
+      "leveysaste": 62.601541,
+      "pituusaste": 29.763101,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 245,
+      "nimi": "OmaSP Alajärvi",
+      "leveysaste": 63.001021,
+      "pituusaste": 23.815909,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 246,
+      "nimi": "OmaSP Mynämäki",
+      "leveysaste": 60.67754,
+      "pituusaste": 21.991935,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 247,
+      "nimi": "OmaSP Paimio",
+      "leveysaste": 60.458295,
+      "pituusaste": 22.688828,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 248,
+      "nimi": "OmaSP Parikkala",
+      "leveysaste": 61.557674,
+      "pituusaste": 29.5014,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 249,
+      "nimi": "OmaSp",
+      "leveysaste": 60.160338,
+      "pituusaste": 24.738817,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 250,
+      "nimi": "OmaSp",
+      "leveysaste": 60.160343,
+      "pituusaste": 24.738842,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 251,
+      "nimi": "OmaSp",
+      "leveysaste": 60.466575,
+      "pituusaste": 26.941934,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 252,
+      "nimi": "OmaSp",
+      "leveysaste": 60.867992,
+      "pituusaste": 26.703398,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 253,
+      "nimi": "OmaSp",
+      "leveysaste": 60.983542,
+      "pituusaste": 25.65341,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 254,
+      "nimi": "OmaSp",
+      "leveysaste": 61.167518,
+      "pituusaste": 23.867144,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 255,
+      "nimi": "OmaSp",
+      "leveysaste": 62.550093,
+      "pituusaste": 24.070621,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 256,
+      "nimi": "OmaSp Lieto",
+      "leveysaste": 60.504519,
+      "pituusaste": 22.457783,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 257,
+      "nimi": "OmaSp Loimaa",
+      "leveysaste": 60.851517,
+      "pituusaste": 23.056597,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 258,
+      "nimi": "OmaSp Raisio",
+      "leveysaste": 60.485783,
+      "pituusaste": 22.164215,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 259,
+      "nimi": "OmaSp Rauma",
+      "leveysaste": 61.128459,
+      "pituusaste": 21.506026,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 260,
+      "nimi": "OmaSp Seinäjoki",
+      "leveysaste": 62.790462,
+      "pituusaste": 22.839214,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 261,
+      "nimi": "OmaSp Turku",
+      "leveysaste": 60.452196,
+      "pituusaste": 22.265011,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 262,
+      "nimi": "OmaSäästöpankki",
+      "leveysaste": 61.516566,
+      "pituusaste": 23.663051,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 263,
+      "nimi": "OmaSäästöpankki Alavus",
+      "leveysaste": 62.585253,
+      "pituusaste": 23.617907,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 264,
+      "nimi": "Omasp Hämeenlinna",
+      "leveysaste": 60.996882,
+      "pituusaste": 24.463348,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 265,
+      "nimi": "Op-Pohjola",
+      "leveysaste": 60.52108,
+      "pituusaste": 23.222182,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 266,
+      "nimi": "Osuuspankki",
+      "leveysaste": 59.976414,
+      "pituusaste": 23.439268,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 267,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.170592,
+      "pituusaste": 24.945634,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 268,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.174618,
+      "pituusaste": 24.801961,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 269,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.190588,
+      "pituusaste": 24.958319,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 270,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.21096,
+      "pituusaste": 25.081058,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 271,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.262777,
+      "pituusaste": 24.852057,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 272,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.29108,
+      "pituusaste": 25.031908,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 273,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.293029,
+      "pituusaste": 25.037945,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 274,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.335362,
+      "pituusaste": 24.321369,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 275,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.380483,
+      "pituusaste": 24.752745,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 276,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.393453,
+      "pituusaste": 25.665329,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 277,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.404025,
+      "pituusaste": 25.10214,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 278,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.454343,
+      "pituusaste": 22.268462,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 279,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.466752,
+      "pituusaste": 26.942379,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 280,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.472008,
+      "pituusaste": 25.088537,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 281,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.486603,
+      "pituusaste": 22.165483,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 282,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.496121,
+      "pituusaste": 26.738936,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 283,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.532103,
+      "pituusaste": 25.110884,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 284,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.536057,
+      "pituusaste": 24.211107,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 285,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.54094,
+      "pituusaste": 22.221207,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 286,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.568494,
+      "pituusaste": 27.191318,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 287,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.570583,
+      "pituusaste": 22.096167,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 288,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.598549,
+      "pituusaste": 22.084377,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 289,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.635818,
+      "pituusaste": 25.319655,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 290,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.666987,
+      "pituusaste": 27.694696,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 291,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.678701,
+      "pituusaste": 21.987975,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 292,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.67961,
+      "pituusaste": 21.465825,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 293,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.679623,
+      "pituusaste": 21.465768,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 294,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.718633,
+      "pituusaste": 24.441333,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 295,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.721306,
+      "pituusaste": 26.447484,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 296,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.799412,
+      "pituusaste": 21.411561,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 297,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.80341,
+      "pituusaste": 23.282097,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 298,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.804405,
+      "pituusaste": 25.733218,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 299,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.815155,
+      "pituusaste": 23.630198,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 300,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.816137,
+      "pituusaste": 24.630214,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 301,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.846876,
+      "pituusaste": 26.603135,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 302,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.867925,
+      "pituusaste": 26.702455,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 303,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.868196,
+      "pituusaste": 25.274719,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 304,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.878982,
+      "pituusaste": 22.411018,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 305,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.880626,
+      "pituusaste": 21.694629,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 306,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.922688,
+      "pituusaste": 24.647608,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 307,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.922719,
+      "pituusaste": 27.568191,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 308,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.982839,
+      "pituusaste": 25.663091,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 309,
+      "nimi": "Osuuspankki",
+      "leveysaste": 60.995633,
+      "pituusaste": 24.463295,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 310,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.026664,
+      "pituusaste": 22.68799,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 311,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.046289,
+      "pituusaste": 22.345957,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 312,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.05444,
+      "pituusaste": 24.368493,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 313,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.058992,
+      "pituusaste": 28.188317,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 314,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.061075,
+      "pituusaste": 27.80386,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 315,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.10115,
+      "pituusaste": 21.845489,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 316,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.118094,
+      "pituusaste": 22.307548,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 317,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.12823,
+      "pituusaste": 21.506087,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 318,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.129974,
+      "pituusaste": 22.140252,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 319,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.144821,
+      "pituusaste": 21.483246,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 320,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.170529,
+      "pituusaste": 28.768635,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 321,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.17207,
+      "pituusaste": 24.562971,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 322,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.172341,
+      "pituusaste": 25.551938,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 323,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.197647,
+      "pituusaste": 27.681976,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 324,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.201701,
+      "pituusaste": 21.728468,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 325,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.203414,
+      "pituusaste": 26.030738,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 326,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.314372,
+      "pituusaste": 22.144582,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 327,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.336621,
+      "pituusaste": 24.270197,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 328,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.360447,
+      "pituusaste": 23.795804,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 329,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.360872,
+      "pituusaste": 21.624002,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 330,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.366063,
+      "pituusaste": 22.002933,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 331,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.416184,
+      "pituusaste": 26.881144,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 332,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.45072,
+      "pituusaste": 22.577474,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 333,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.450724,
+      "pituusaste": 22.57745,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 334,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.462419,
+      "pituusaste": 24.074015,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 335,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.482738,
+      "pituusaste": 21.79673,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 336,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.49838,
+      "pituusaste": 23.767372,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 337,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.501855,
+      "pituusaste": 25.686594,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 338,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.510422,
+      "pituusaste": 27.248731,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 339,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.513262,
+      "pituusaste": 23.009449,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 340,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.522603,
+      "pituusaste": 28.178177,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 341,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.548927,
+      "pituusaste": 23.596402,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 342,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.582794,
+      "pituusaste": 27.652037,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 343,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.677112,
+      "pituusaste": 24.357757,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 344,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.687523,
+      "pituusaste": 27.275059,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 345,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.742413,
+      "pituusaste": 26.108991,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 346,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.769889,
+      "pituusaste": 23.064338,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 347,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.861186,
+      "pituusaste": 21.508595,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 348,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.864813,
+      "pituusaste": 25.193129,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 349,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.867619,
+      "pituusaste": 28.885703,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 350,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.878448,
+      "pituusaste": 23.727266,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 351,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.892983,
+      "pituusaste": 29.824116,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 352,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.912861,
+      "pituusaste": 29.282934,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 353,
+      "nimi": "Osuuspankki",
+      "leveysaste": 61.989579,
+      "pituusaste": 26.643192,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 354,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.010623,
+      "pituusaste": 23.022816,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 355,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.015683,
+      "pituusaste": 25.559524,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 356,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.017241,
+      "pituusaste": 25.562037,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 357,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.031645,
+      "pituusaste": 24.623527,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 358,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.096896,
+      "pituusaste": 30.144927,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 359,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.129564,
+      "pituusaste": 25.674152,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 360,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.138642,
+      "pituusaste": 24.499474,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 361,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.242113,
+      "pituusaste": 23.769284,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 362,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.24227,
+      "pituusaste": 25.747923,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 363,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.252788,
+      "pituusaste": 24.453786,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 364,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.423618,
+      "pituusaste": 22.177597,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 365,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.425832,
+      "pituusaste": 28.632024,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 366,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.493845,
+      "pituusaste": 30.249635,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 367,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.550254,
+      "pituusaste": 24.068552,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 368,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.56109,
+      "pituusaste": 23.061847,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 369,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.586399,
+      "pituusaste": 23.61799,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 370,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.600111,
+      "pituusaste": 29.760019,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 371,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.602258,
+      "pituusaste": 23.728149,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 372,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.60374,
+      "pituusaste": 25.725679,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 373,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.613239,
+      "pituusaste": 29.543616,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 374,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.671727,
+      "pituusaste": 30.931756,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 375,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.70523,
+      "pituusaste": 25.259743,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 376,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.725971,
+      "pituusaste": 29.015903,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 377,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.766374,
+      "pituusaste": 29.847175,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 378,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.766407,
+      "pituusaste": 29.847181,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 379,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.791157,
+      "pituusaste": 22.838969,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 380,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.804181,
+      "pituusaste": 23.50794,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 381,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.817691,
+      "pituusaste": 23.942447,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 382,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.873258,
+      "pituusaste": 24.204185,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 383,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.891551,
+      "pituusaste": 27.674772,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 384,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.894173,
+      "pituusaste": 27.678596,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 385,
+      "nimi": "Osuuspankki",
+      "leveysaste": 62.975848,
+      "pituusaste": 22.011266,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 386,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.000708,
+      "pituusaste": 23.814877,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 387,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.066058,
+      "pituusaste": 28.33216,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 388,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.096401,
+      "pituusaste": 21.61654,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 389,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.154965,
+      "pituusaste": 27.299103,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 390,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.212923,
+      "pituusaste": 24.424246,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 391,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.212933,
+      "pituusaste": 24.424317,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 392,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.232319,
+      "pituusaste": 26.757452,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 393,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.317013,
+      "pituusaste": 30.031898,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 394,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.366443,
+      "pituusaste": 27.392757,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 395,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.370761,
+      "pituusaste": 25.57614,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 396,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.461064,
+      "pituusaste": 24.169742,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 397,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.521716,
+      "pituusaste": 22.529416,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 398,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.524574,
+      "pituusaste": 24.665124,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 399,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.55003,
+      "pituusaste": 23.69005,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 400,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.556079,
+      "pituusaste": 29.107005,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 401,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.55874,
+      "pituusaste": 27.189164,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 402,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.653717,
+      "pituusaste": 26.619892,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 403,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.678705,
+      "pituusaste": 28.815258,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 404,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.83644,
+      "pituusaste": 23.131627,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 405,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.86018,
+      "pituusaste": 23.452867,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 406,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.902207,
+      "pituusaste": 23.915683,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 407,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.92964,
+      "pituusaste": 24.960545,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 408,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.978924,
+      "pituusaste": 25.759684,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 409,
+      "nimi": "Osuuspankki",
+      "leveysaste": 63.978925,
+      "pituusaste": 25.759687,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 410,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.074049,
+      "pituusaste": 24.536944,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 411,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.127029,
+      "pituusaste": 29.523716,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 412,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.131064,
+      "pituusaste": 28.385536,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 413,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.136719,
+      "pituusaste": 25.364033,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 414,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.167112,
+      "pituusaste": 24.304337,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 415,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.22367,
+      "pituusaste": 27.732601,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 416,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.267865,
+      "pituusaste": 24.815288,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 417,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.267897,
+      "pituusaste": 24.815294,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 418,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.270676,
+      "pituusaste": 25.866297,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 419,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.270718,
+      "pituusaste": 25.86628,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 420,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.656768,
+      "pituusaste": 25.618169,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 421,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.684326,
+      "pituusaste": 24.479909,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 422,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.80978,
+      "pituusaste": 25.416657,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 423,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.884395,
+      "pituusaste": 28.910976,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 424,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.902364,
+      "pituusaste": 25.538063,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 425,
+      "nimi": "Osuuspankki",
+      "leveysaste": 64.912731,
+      "pituusaste": 25.504727,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 426,
+      "nimi": "Osuuspankki",
+      "leveysaste": 65.012888,
+      "pituusaste": 24.72971,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 427,
+      "nimi": "Osuuspankki",
+      "leveysaste": 65.013012,
+      "pituusaste": 25.472413,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 428,
+      "nimi": "Osuuspankki",
+      "leveysaste": 65.323101,
+      "pituusaste": 25.374357,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 429,
+      "nimi": "Osuuspankki",
+      "leveysaste": 65.577247,
+      "pituusaste": 28.2399,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 430,
+      "nimi": "Osuuspankki",
+      "leveysaste": 65.843259,
+      "pituusaste": 24.168615,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 431,
+      "nimi": "Osuuspankki",
+      "leveysaste": 65.846128,
+      "pituusaste": 24.149505,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 432,
+      "nimi": "Osuuspankki",
+      "leveysaste": 66.040584,
+      "pituusaste": 24.018807,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 433,
+      "nimi": "Osuuspankki",
+      "leveysaste": 66.324163,
+      "pituusaste": 23.675923,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 434,
+      "nimi": "Osuuspankki",
+      "leveysaste": 66.502607,
+      "pituusaste": 25.732895,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 435,
+      "nimi": "Osuuspankki",
+      "leveysaste": 67.417073,
+      "pituusaste": 26.592753,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 436,
+      "nimi": "Osuuspankki",
+      "leveysaste": 67.955961,
+      "pituusaste": 23.679909,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 437,
+      "nimi": "Osuuspankki",
+      "leveysaste": 68.384843,
+      "pituusaste": 23.637068,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 438,
+      "nimi": "Osuuspankki",
+      "leveysaste": 68.658572,
+      "pituusaste": 27.538816,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 439,
+      "nimi": "Osuuspankki",
+      "leveysaste": 69.907804,
+      "pituusaste": 27.028386,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 440,
+      "nimi": "Osuuspankki Kantrisalo",
+      "leveysaste": 60.436222,
+      "pituusaste": 23.277265,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 441,
+      "nimi": "Osuuspankki Pertunmaa",
+      "leveysaste": 61.504483,
+      "pituusaste": 26.481502,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 442,
+      "nimi": "Osuuspankki Salla",
+      "leveysaste": 66.833427,
+      "pituusaste": 28.668657,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 443,
+      "nimi": "Osuuspankki Toholampi",
+      "leveysaste": 63.773618,
+      "pituusaste": 24.249252,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 444,
+      "nimi": "Otto Pankkiautomaatti",
+      "leveysaste": 60.528272,
+      "pituusaste": 24.750367,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 445,
+      "nimi": "Otto- ja talletusautomaatti",
+      "leveysaste": 60.456065,
+      "pituusaste": 22.688544,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 446,
+      "nimi": "Otto-automaatti",
+      "leveysaste": 60.458346,
+      "pituusaste": 22.688831,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 447,
+      "nimi": "Oulun Osuuspankki Muhos",
+      "leveysaste": 64.806071,
+      "pituusaste": 25.998608,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 448,
+      "nimi": "POP",
+      "leveysaste": 62.706461,
+      "pituusaste": 25.258282,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 449,
+      "nimi": "POP Pankki",
+      "leveysaste": 60.424594,
+      "pituusaste": 22.516276,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 450,
+      "nimi": "POP Pankki",
+      "leveysaste": 60.452282,
+      "pituusaste": 22.267952,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 451,
+      "nimi": "POP Pankki",
+      "leveysaste": 61.497006,
+      "pituusaste": 23.75316,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 452,
+      "nimi": "POP Pankki",
+      "leveysaste": 62.24365,
+      "pituusaste": 25.745711,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 453,
+      "nimi": "POP Pankki",
+      "leveysaste": 62.415224,
+      "pituusaste": 25.951683,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 454,
+      "nimi": "POP Pankki",
+      "leveysaste": 62.425714,
+      "pituusaste": 22.17956,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 455,
+      "nimi": "POP Pankki",
+      "leveysaste": 62.566221,
+      "pituusaste": 25.85222,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 456,
+      "nimi": "POP Pankki",
+      "leveysaste": 62.68652,
+      "pituusaste": 21.982473,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 457,
+      "nimi": "POP Pankki",
+      "leveysaste": 62.793669,
+      "pituusaste": 22.792892,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 458,
+      "nimi": "POP Pankki",
+      "leveysaste": 62.969349,
+      "pituusaste": 23.009103,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 459,
+      "nimi": "POP Pankki",
+      "leveysaste": 63.094163,
+      "pituusaste": 21.616858,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 460,
+      "nimi": "POP Pankki",
+      "leveysaste": 63.1006,
+      "pituusaste": 23.058797,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 461,
+      "nimi": "POP Pankki",
+      "leveysaste": 63.145748,
+      "pituusaste": 22.794083,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 462,
+      "nimi": "POP Pankki",
+      "leveysaste": 63.243638,
+      "pituusaste": 22.85528,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 463,
+      "nimi": "POP Pankki",
+      "leveysaste": 63.301184,
+      "pituusaste": 23.155895,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 464,
+      "nimi": "POP Pankki",
+      "leveysaste": 63.928812,
+      "pituusaste": 24.964385,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 465,
+      "nimi": "POP Pankki",
+      "leveysaste": 64.073291,
+      "pituusaste": 24.536334,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 466,
+      "nimi": "POP Pankki Isojoki",
+      "leveysaste": 61.861814,
+      "pituusaste": 21.509755,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 467,
+      "nimi": "POP Pankki Järvi-Suomi",
+      "leveysaste": 63.366585,
+      "pituusaste": 24.966878,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 468,
+      "nimi": "POP Pankki Keuruu",
+      "leveysaste": 62.261437,
+      "pituusaste": 24.70826,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 469,
+      "nimi": "POP Pankki Kurikka Jämijärven konttori",
+      "leveysaste": 61.820084,
+      "pituusaste": 22.692112,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 470,
+      "nimi": "POP Pankki Kyrö",
+      "leveysaste": 60.70261,
+      "pituusaste": 22.756146,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 471,
+      "nimi": "POP Pankki Kyyjärvi",
+      "leveysaste": 62.877703,
+      "pituusaste": 24.802605,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 472,
+      "nimi": "POP Pankki Kyyjärvi",
+      "leveysaste": 62.877709,
+      "pituusaste": 24.802614,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 473,
+      "nimi": "POP Pankki Kyyjärvi",
+      "leveysaste": 63.043637,
+      "pituusaste": 24.564144,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 474,
+      "nimi": "POP Pankki Lakeus",
+      "leveysaste": 62.790833,
+      "pituusaste": 22.842343,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 475,
+      "nimi": "POP Pankki Lammi",
+      "leveysaste": 60.995275,
+      "pituusaste": 24.460301,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 476,
+      "nimi": "POP Pankki Lappajärvi",
+      "leveysaste": 63.218266,
+      "pituusaste": 23.625943,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 477,
+      "nimi": "POP Pankki Lavia",
+      "leveysaste": 61.596428,
+      "pituusaste": 22.588973,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 478,
+      "nimi": "POP Pankki Nivala",
+      "leveysaste": 64.137538,
+      "pituusaste": 25.364328,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 479,
+      "nimi": "POP Pankki Pohjanmaa",
+      "leveysaste": 65.012595,
+      "pituusaste": 25.46807,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 480,
+      "nimi": "POP Pankki Siilinjärvi",
+      "leveysaste": 63.07328,
+      "pituusaste": 27.659193,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 481,
+      "nimi": "POP Pankki Suomen Osuuspankki",
+      "leveysaste": 62.486732,
+      "pituusaste": 21.747804,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 482,
+      "nimi": "POP Pankki Tiistenjoen konttori",
+      "leveysaste": 62.909127,
+      "pituusaste": 23.238621,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 483,
+      "nimi": "POP Siuro",
+      "leveysaste": 61.475614,
+      "pituusaste": 23.343055,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 484,
+      "nimi": "POP Viitasaari",
+      "leveysaste": 63.074642,
+      "pituusaste": 25.857781,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 485,
+      "nimi": "Paikallisosuuspankki",
+      "leveysaste": 63.839184,
+      "pituusaste": 23.134917,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 486,
+      "nimi": "Paikallisosuuspankki",
+      "leveysaste": 63.907197,
+      "pituusaste": 24.519808,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 487,
+      "nimi": "Paltamon Osuuspankki",
+      "leveysaste": 64.407831,
+      "pituusaste": 27.834582,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 488,
+      "nimi": "Parikkalan Osuuspankki",
+      "leveysaste": 61.555964,
+      "pituusaste": 29.500541,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 489,
+      "nimi": "Pedersörenejdens Andelsbank",
+      "leveysaste": 63.594787,
+      "pituusaste": 23.045567,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 490,
+      "nimi": "Pedersörenejdens Andelsbanken",
+      "leveysaste": 63.674641,
+      "pituusaste": 22.701725,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 491,
+      "nimi": "Perhonjokilaakson Osuuspankki, Vetelin konttori",
+      "leveysaste": 63.473162,
+      "pituusaste": 23.790129,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 492,
+      "nimi": "Petäjäveden Osuuspankki",
+      "leveysaste": 62.255641,
+      "pituusaste": 25.182479,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 493,
+      "nimi": "Petäjäveden Osuuspankki",
+      "leveysaste": 62.255662,
+      "pituusaste": 25.182579,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 494,
+      "nimi": "Petäjäveden Osuuspankki",
+      "leveysaste": 62.255713,
+      "pituusaste": 25.182669,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 495,
+      "nimi": "Pohjolan OP",
+      "leveysaste": 65.076394,
+      "pituusaste": 25.445569,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 496,
+      "nimi": "Pohjolan Osuuspankki",
+      "leveysaste": 64.096906,
+      "pituusaste": 26.331878,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 497,
+      "nimi": "Polvijärven Osuuspankki",
+      "leveysaste": 62.85538,
+      "pituusaste": 29.371346,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 498,
+      "nimi": "Pop",
+      "leveysaste": 62.892851,
+      "pituusaste": 27.680704,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 499,
+      "nimi": "Pop Pankki",
+      "leveysaste": 62.93936,
+      "pituusaste": 22.513438,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 500,
+      "nimi": "Pop Pankki Oulunsalo",
+      "leveysaste": 64.934837,
+      "pituusaste": 25.402062,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 501,
+      "nimi": "Posion Osuuspankki",
+      "leveysaste": 66.112195,
+      "pituusaste": 28.160638,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 502,
+      "nimi": "Punkalaitumen Osuuspankki",
+      "leveysaste": 61.110864,
+      "pituusaste": 23.109979,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 503,
+      "nimi": "Punkalaitumen Osuuspankki",
+      "leveysaste": 61.110887,
+      "pituusaste": 23.109997,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 504,
+      "nimi": "Pyhäjoen Osuuspankki",
+      "leveysaste": 64.464996,
+      "pituusaste": 24.260093,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 505,
+      "nimi": "Päijät-Hämeen Osuuspankki / Iitin Konttori",
+      "leveysaste": 60.888546,
+      "pituusaste": 26.337902,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 506,
+      "nimi": "Raahentienoon Osuuspankki",
+      "leveysaste": 64.486887,
+      "pituusaste": 24.990871,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 507,
+      "nimi": "Rantasalmen Osuuspankki",
+      "leveysaste": 62.064031,
+      "pituusaste": 28.302152,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 508,
+      "nimi": "Rantsilan Osuuspankki",
+      "leveysaste": 64.506705,
+      "pituusaste": 25.652848,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 509,
+      "nimi": "Rantsilan Osuuspankki",
+      "leveysaste": 64.506713,
+      "pituusaste": 25.652815,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 510,
+      "nimi": "Rautalammin Osuuspankki",
+      "leveysaste": 62.622378,
+      "pituusaste": 26.832465,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 511,
+      "nimi": "Reisjärven Osuuspankki Haapajärven konttori",
+      "leveysaste": 63.74886,
+      "pituusaste": 25.316753,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 512,
+      "nimi": "Reisjärven Osuuspankki, pääkonttori",
+      "leveysaste": 63.604866,
+      "pituusaste": 24.938243,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 513,
+      "nimi": "Riistaveden Osuuspankki",
+      "leveysaste": 62.914015,
+      "pituusaste": 28.161144,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 514,
+      "nimi": "Ruoveden Osuuspankki",
+      "leveysaste": 61.985812,
+      "pituusaste": 24.070973,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 515,
+      "nimi": "Rääkkylän Osuuspankki",
+      "leveysaste": 62.31329,
+      "pituusaste": 29.624325,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 516,
+      "nimi": "S-Banken",
+      "leveysaste": 63.673936,
+      "pituusaste": 22.706495,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 517,
+      "nimi": "S-Banken",
+      "leveysaste": 63.677574,
+      "pituusaste": 22.716126,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 518,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.213216,
+      "pituusaste": 25.088,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 519,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.217559,
+      "pituusaste": 24.810054,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 520,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.227262,
+      "pituusaste": 25.008411,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 521,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.237119,
+      "pituusaste": 24.893158,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 522,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.248697,
+      "pituusaste": 24.062603,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 523,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.251892,
+      "pituusaste": 25.010859,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 524,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.260123,
+      "pituusaste": 24.852901,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 525,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.288578,
+      "pituusaste": 25.036987,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 526,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.293131,
+      "pituusaste": 25.034468,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 527,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.401524,
+      "pituusaste": 25.103189,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 528,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.401526,
+      "pituusaste": 25.10316,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 529,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.415829,
+      "pituusaste": 22.326124,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 530,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.446097,
+      "pituusaste": 22.323757,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 531,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.470464,
+      "pituusaste": 25.084371,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 532,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.491098,
+      "pituusaste": 22.203275,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 533,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.630598,
+      "pituusaste": 24.866214,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 534,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.856702,
+      "pituusaste": 23.045785,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 535,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.871864,
+      "pituusaste": 26.657015,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 536,
+      "nimi": "S-Pankki",
+      "leveysaste": 60.959637,
+      "pituusaste": 25.655658,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 537,
+      "nimi": "S-Pankki",
+      "leveysaste": 61.011631,
+      "pituusaste": 24.413477,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 538,
+      "nimi": "S-Pankki",
+      "leveysaste": 61.130735,
+      "pituusaste": 22.127456,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 539,
+      "nimi": "S-Pankki",
+      "leveysaste": 61.188776,
+      "pituusaste": 28.765501,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 540,
+      "nimi": "S-Pankki",
+      "leveysaste": 61.475628,
+      "pituusaste": 23.978439,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 541,
+      "nimi": "S-Pankki",
+      "leveysaste": 61.477478,
+      "pituusaste": 21.75671,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 542,
+      "nimi": "S-Pankki",
+      "leveysaste": 61.490921,
+      "pituusaste": 23.820811,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 543,
+      "nimi": "S-Pankki",
+      "leveysaste": 61.519509,
+      "pituusaste": 23.666512,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 544,
+      "nimi": "S-Pankki",
+      "leveysaste": 62.789854,
+      "pituusaste": 22.837757,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 545,
+      "nimi": "S-Pankki",
+      "leveysaste": 62.805681,
+      "pituusaste": 22.877546,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 546,
+      "nimi": "S-Pankki",
+      "leveysaste": 62.887185,
+      "pituusaste": 27.632722,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 547,
+      "nimi": "S-Pankki",
+      "leveysaste": 63.072858,
+      "pituusaste": 21.698685,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 548,
+      "nimi": "S-Pankki",
+      "leveysaste": 63.102933,
+      "pituusaste": 21.646889,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 549,
+      "nimi": "S-Pankki",
+      "leveysaste": 63.831876,
+      "pituusaste": 23.127707,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 550,
+      "nimi": "S-Pankki",
+      "leveysaste": 64.666509,
+      "pituusaste": 24.482442,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 551,
+      "nimi": "S-Pankki",
+      "leveysaste": 64.994377,
+      "pituusaste": 25.46284,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 552,
+      "nimi": "S-Pankki",
+      "leveysaste": 65.011121,
+      "pituusaste": 25.473453,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 553,
+      "nimi": "S-Pankki",
+      "leveysaste": 66.492094,
+      "pituusaste": 25.68749,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 554,
+      "nimi": "SEB",
+      "leveysaste": 60.166968,
+      "pituusaste": 24.946008,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 555,
+      "nimi": "Sampo Pankki",
+      "leveysaste": 65.84663,
+      "pituusaste": 24.150421,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 556,
+      "nimi": "Sampo pankki",
+      "leveysaste": 60.379292,
+      "pituusaste": 24.753673,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 557,
+      "nimi": "Sampo pankki",
+      "leveysaste": 61.168723,
+      "pituusaste": 23.865458,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 558,
+      "nimi": "Satakunnan Osuuspankki",
+      "leveysaste": 61.175936,
+      "pituusaste": 22.698694,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 559,
+      "nimi": "Simpeleen Osuuspankki",
+      "leveysaste": 61.434908,
+      "pituusaste": 29.355248,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 560,
+      "nimi": "Simpeleen Osuuspankki",
+      "leveysaste": 61.434953,
+      "pituusaste": 29.355306,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 561,
+      "nimi": "Someron Säästöpankki",
+      "leveysaste": 60.456828,
+      "pituusaste": 26.226529,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 562,
+      "nimi": "Someron Säästöpankki",
+      "leveysaste": 60.852037,
+      "pituusaste": 23.058034,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 563,
+      "nimi": "Sonkajärven Osuuspankki",
+      "leveysaste": 63.667986,
+      "pituusaste": 27.523192,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 564,
+      "nimi": "Sonkajärven säästöpankki",
+      "leveysaste": 63.668473,
+      "pituusaste": 27.522062,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 565,
+      "nimi": "Sparbanken Nord",
+      "leveysaste": 66.389272,
+      "pituusaste": 23.657215,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 566,
+      "nimi": "Sulkavan Osuuspankki",
+      "leveysaste": 61.786246,
+      "pituusaste": 28.373566,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 567,
+      "nimi": "Suomen Hypoteekkiyhdistys",
+      "leveysaste": 60.166153,
+      "pituusaste": 24.941856,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 568,
+      "nimi": "Suomen Osuuspankki, pääkonttori",
+      "leveysaste": 62.426142,
+      "pituusaste": 22.179614,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 569,
+      "nimi": "Suomen pankki",
+      "leveysaste": 65.01481,
+      "pituusaste": 25.472886,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 570,
+      "nimi": "Suomenniemen Säästöpankki",
+      "leveysaste": 61.329064,
+      "pituusaste": 27.447919,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 571,
+      "nimi": "Suomenselän Osuuspankki",
+      "leveysaste": 64.297314,
+      "pituusaste": 24.446973,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 572,
+      "nimi": "Suomenselän osuuspankki, Haapajärven konttori",
+      "leveysaste": 63.750241,
+      "pituusaste": 25.319653,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 573,
+      "nimi": "Suonenjoen Osuuspankki",
+      "leveysaste": 62.626044,
+      "pituusaste": 27.118958,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 574,
+      "nimi": "Suupohjan Osuuspankki",
+      "leveysaste": 65.845963,
+      "pituusaste": 24.146621,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 575,
+      "nimi": "Suupohjan Osuuspankki Päntäne",
+      "leveysaste": 62.356318,
+      "pituusaste": 22.059893,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 576,
+      "nimi": "Suur-Savon Osuuspankki Hirvensalmen konttori",
+      "leveysaste": 61.641014,
+      "pituusaste": 26.775519,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 577,
+      "nimi": "Säästöpankki",
+      "leveysaste": 59.824653,
+      "pituusaste": 22.964634,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 578,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.242765,
+      "pituusaste": 23.723232,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 579,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.377088,
+      "pituusaste": 25.269066,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 580,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.386934,
+      "pituusaste": 23.127717,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 581,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.395112,
+      "pituusaste": 25.663751,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 582,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.46763,
+      "pituusaste": 22.025074,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 583,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.470542,
+      "pituusaste": 25.086486,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 584,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.632992,
+      "pituusaste": 24.862904,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 585,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.737874,
+      "pituusaste": 24.77256,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 586,
+      "nimi": "Säästöpankki",
+      "leveysaste": 60.815417,
+      "pituusaste": 23.626415,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 587,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.059439,
+      "pituusaste": 28.19522,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 588,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.129914,
+      "pituusaste": 22.131518,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 589,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.166541,
+      "pituusaste": 23.867862,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 590,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.462963,
+      "pituusaste": 24.071856,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 591,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.478514,
+      "pituusaste": 23.508907,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 592,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.487114,
+      "pituusaste": 21.798148,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 593,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.505796,
+      "pituusaste": 27.262916,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 594,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.547216,
+      "pituusaste": 23.601361,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 595,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.579573,
+      "pituusaste": 26.019895,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 596,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.678979,
+      "pituusaste": 24.358632,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 597,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.742073,
+      "pituusaste": 26.113349,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 598,
+      "nimi": "Säästöpankki",
+      "leveysaste": 61.864298,
+      "pituusaste": 25.192804,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 599,
+      "nimi": "Säästöpankki",
+      "leveysaste": 62.009099,
+      "pituusaste": 23.025023,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 600,
+      "nimi": "Säästöpankki",
+      "leveysaste": 62.274277,
+      "pituusaste": 21.377671,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 601,
+      "nimi": "Säästöpankki",
+      "leveysaste": 63.838956,
+      "pituusaste": 23.134947,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 602,
+      "nimi": "Säästöpankki",
+      "leveysaste": 64.684713,
+      "pituusaste": 24.47718,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 603,
+      "nimi": "Säästöpankki Kalanti-Pyhäranta",
+      "leveysaste": 61.130121,
+      "pituusaste": 21.50754,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 604,
+      "nimi": "Säästöpankki Kalanti-Pyhäranta Turku",
+      "leveysaste": 60.448713,
+      "pituusaste": 22.264786,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 605,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 62.241513,
+      "pituusaste": 25.744849,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 606,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 62.602757,
+      "pituusaste": 29.762529,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 607,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 62.89161,
+      "pituusaste": 27.680121,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 608,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 63.359237,
+      "pituusaste": 27.756933,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 609,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 63.558631,
+      "pituusaste": 27.188524,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 610,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 64.22439,
+      "pituusaste": 27.732555,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 611,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 65.012188,
+      "pituusaste": 25.470516,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 612,
+      "nimi": "Säästöpankki Optia",
+      "leveysaste": 65.843845,
+      "pituusaste": 24.145342,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 613,
+      "nimi": "Säästöpankki Optia, Rautavaara",
+      "leveysaste": 63.494572,
+      "pituusaste": 28.299023,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 614,
+      "nimi": "TT-Tilit Naantali",
+      "leveysaste": 60.467504,
+      "pituusaste": 22.022139,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 615,
+      "nimi": "Taivassalon Osuuspankki",
+      "leveysaste": 60.560958,
+      "pituusaste": 21.615376,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 616,
+      "nimi": "Tampereen seudun osuuspankki",
+      "leveysaste": 61.480906,
+      "pituusaste": 23.510366,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 617,
+      "nimi": "Tampereen seudun osuuspankki Hämeenkyrö",
+      "leveysaste": 61.638777,
+      "pituusaste": 23.198052,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 618,
+      "nimi": "Tapiola",
+      "leveysaste": 60.469838,
+      "pituusaste": 25.085659,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 619,
+      "nimi": "Tapiola",
+      "leveysaste": 61.8633,
+      "pituusaste": 25.1928,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 620,
+      "nimi": "Tapiola",
+      "leveysaste": 62.010847,
+      "pituusaste": 23.025822,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 621,
+      "nimi": "Tapiola",
+      "leveysaste": 63.838367,
+      "pituusaste": 23.13266,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 622,
+      "nimi": "Tervolan Osuuspankki",
+      "leveysaste": 66.090273,
+      "pituusaste": 24.811223,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 623,
+      "nimi": "Tervon Osuuspankki",
+      "leveysaste": 62.954229,
+      "pituusaste": 26.752952,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 624,
+      "nimi": "Toijalan Osuuspankki",
+      "leveysaste": 61.168056,
+      "pituusaste": 23.866457,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 625,
+      "nimi": "Turun Seudun Osuuspankki Vehmaan palvelupiste",
+      "leveysaste": 60.686518,
+      "pituusaste": 21.713713,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 626,
+      "nimi": "Tuupovaaran Osuuspankki",
+      "leveysaste": 62.484886,
+      "pituusaste": 30.618296,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 627,
+      "nimi": "Tuupovaaran Osuuspankki",
+      "leveysaste": 62.484902,
+      "pituusaste": 30.61829,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 628,
+      "nimi": "Tuusniemen Osuuspankki",
+      "leveysaste": 62.810307,
+      "pituusaste": 28.491706,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 629,
+      "nimi": "Tyrnävän osuuspankki",
+      "leveysaste": 64.762835,
+      "pituusaste": 25.647104,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 630,
+      "nimi": "Urjalan Osuuspankki",
+      "leveysaste": 61.081436,
+      "pituusaste": 23.550384,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 631,
+      "nimi": "Vaara-Karjalan Osuuspankki Enon konttori",
+      "leveysaste": 62.79897,
+      "pituusaste": 30.157108,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 632,
+      "nimi": "Varpaisjärven Osuuspankki",
+      "leveysaste": 63.359455,
+      "pituusaste": 27.755497,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 633,
+      "nimi": "Vaskion Osuuspankki",
+      "leveysaste": 60.489746,
+      "pituusaste": 22.987052,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 634,
+      "nimi": "Vesannon Osuuspankki",
+      "leveysaste": 62.930705,
+      "pituusaste": 26.40963,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 635,
+      "nimi": "Vesannon Osuuspankki",
+      "leveysaste": 62.930722,
+      "pituusaste": 26.409529,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 636,
+      "nimi": "Vihannin Osuuspankki Alpuan konttori",
+      "leveysaste": 64.422294,
+      "pituusaste": 25.22233,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 637,
+      "nimi": "Vörå Sparbank",
+      "leveysaste": 63.130367,
+      "pituusaste": 22.252667,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 638,
+      "nimi": "Vörå Sparbank",
+      "leveysaste": 63.130383,
+      "pituusaste": 22.252663,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 639,
+      "nimi": "Ylihärmän Säästöpankki",
+      "leveysaste": 62.789704,
+      "pituusaste": 22.838339,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 640,
+      "nimi": "Ylä-Savon Osuuspankki",
+      "leveysaste": 63.742776,
+      "pituusaste": 27.001662,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 641,
+      "nimi": "Ålandsbanken",
+      "leveysaste": 60.100364,
+      "pituusaste": 19.942016,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 642,
+      "nimi": "Ålandsbanken",
+      "leveysaste": 60.16495,
+      "pituusaste": 24.938329,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 643,
+      "nimi": "Ålandsbanken",
+      "leveysaste": 60.166153,
+      "pituusaste": 24.941649,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 644,
+      "nimi": "Ålandsbanken",
+      "leveysaste": 60.230775,
+      "pituusaste": 19.988672,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 645,
+      "nimi": "Ålandsbanken",
+      "leveysaste": 60.450051,
+      "pituusaste": 22.26409,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 646,
+      "nimi": "Ålandsbanken",
+      "leveysaste": 61.498622,
+      "pituusaste": 23.770659,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 647,
+      "nimi": "Ålandsbanken",
+      "leveysaste": 63.096068,
+      "pituusaste": 21.611963,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    },
+    {
+      "id": 648,
+      "nimi": "Сбербанк",
+      "leveysaste": 62.181053,
+      "pituusaste": 30.693635,
+      "osm_avain": "amenity",
+      "osm_arvo": "bank",
+      "osm_luokka": "amenity=bank"
+    }
+  ],
+  "meta": {
+    "title": "Pankit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Pankit Suomessa — 648 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=bank`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 11. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 648 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Pankit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Pankit – Suomi (OpenStreetMap) — 648 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 648 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

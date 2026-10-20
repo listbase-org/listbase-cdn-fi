@@ -1,0 +1,6577 @@
+{
+  "id": "fi-osm-shop-car",
+  "name": "Autoliikkeet – Suomi (OpenStreetMap)",
+  "title": "Autoliikkeet – Suomi (OpenStreetMap)",
+  "description": "Autoliikkeet Suomessa — 724 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=car`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 64. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 724,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A-katsastus",
+      "leveysaste": 64.136583,
+      "pituusaste": 28.341366,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 2,
+      "nimi": "A-katsastus",
+      "leveysaste": 64.136621,
+      "pituusaste": 28.341422,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 3,
+      "nimi": "A1-automaailma",
+      "leveysaste": 60.937763,
+      "pituusaste": 25.634417,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 4,
+      "nimi": "AJ Bike",
+      "leveysaste": 63.093857,
+      "pituusaste": 21.644137,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 5,
+      "nimi": "AKR",
+      "leveysaste": 60.84327,
+      "pituusaste": 23.02352,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 6,
+      "nimi": "ALD Carmarket Vantaa, Kaivoksela",
+      "leveysaste": 60.268523,
+      "pituusaste": 24.878667,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 7,
+      "nimi": "AML Auto Oy",
+      "leveysaste": 60.385291,
+      "pituusaste": 25.031278,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 8,
+      "nimi": "ASPI-Auto",
+      "leveysaste": 60.244918,
+      "pituusaste": 25.04525,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 9,
+      "nimi": "Ab Auto-Bil Wiik & Brännström Oy",
+      "leveysaste": 63.709059,
+      "pituusaste": 23.323495,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 10,
+      "nimi": "Ab Bilari Oy",
+      "leveysaste": 63.82688,
+      "pituusaste": 23.155886,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 11,
+      "nimi": "Airon Autopalvelu",
+      "leveysaste": 60.774709,
+      "pituusaste": 22.095239,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 12,
+      "nimi": "Akkutalo",
+      "leveysaste": 65.032922,
+      "pituusaste": 25.449021,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 13,
+      "nimi": "Arton Auto Oy",
+      "leveysaste": 63.006231,
+      "pituusaste": 22.154748,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 14,
+      "nimi": "Arton Auto Oy",
+      "leveysaste": 63.006298,
+      "pituusaste": 22.154521,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 15,
+      "nimi": "Audi Center",
+      "leveysaste": 61.483244,
+      "pituusaste": 23.766169,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 16,
+      "nimi": "Audi Center Airport",
+      "leveysaste": 60.296427,
+      "pituusaste": 24.980861,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 17,
+      "nimi": "Audi Center Espoo",
+      "leveysaste": 60.171278,
+      "pituusaste": 24.751958,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 18,
+      "nimi": "Audi Center Espoo",
+      "leveysaste": 60.171329,
+      "pituusaste": 24.752111,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 19,
+      "nimi": "Audi Center Helsinki",
+      "leveysaste": 60.203618,
+      "pituusaste": 25.044199,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 20,
+      "nimi": "Audi Center Joensuu",
+      "leveysaste": 62.619737,
+      "pituusaste": 29.778212,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 21,
+      "nimi": "Audi Center Oulu",
+      "leveysaste": 64.997828,
+      "pituusaste": 25.457105,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 22,
+      "nimi": "Auto Aatamila",
+      "leveysaste": 62.628377,
+      "pituusaste": 29.772121,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 23,
+      "nimi": "Auto Aatamila",
+      "leveysaste": 62.628382,
+      "pituusaste": 29.772082,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 24,
+      "nimi": "Auto Bassadone Espoo",
+      "leveysaste": 60.171985,
+      "pituusaste": 24.76617,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 25,
+      "nimi": "Auto Bassadone Espoo",
+      "leveysaste": 60.172064,
+      "pituusaste": 24.766216,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 26,
+      "nimi": "Auto Bassadone Helsinki",
+      "leveysaste": 60.202369,
+      "pituusaste": 25.045788,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 27,
+      "nimi": "Auto Bassadone Hämeenlinna",
+      "leveysaste": 60.99976,
+      "pituusaste": 24.440758,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 28,
+      "nimi": "Auto Bassadone Tampere",
+      "leveysaste": 61.47839,
+      "pituusaste": 23.765099,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 29,
+      "nimi": "Auto Bassadone Tampere",
+      "leveysaste": 61.478436,
+      "pituusaste": 23.765089,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 30,
+      "nimi": "Auto Bassadone Turku",
+      "leveysaste": 60.497019,
+      "pituusaste": 22.24001,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 31,
+      "nimi": "Auto Bassadone Turku",
+      "leveysaste": 60.497034,
+      "pituusaste": 22.239803,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 32,
+      "nimi": "Auto Bassadone Vantaa",
+      "leveysaste": 60.279542,
+      "pituusaste": 24.816819,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 33,
+      "nimi": "Auto Juusolat",
+      "leveysaste": 65.033566,
+      "pituusaste": 25.449169,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 34,
+      "nimi": "Auto MHR oy",
+      "leveysaste": 60.265499,
+      "pituusaste": 24.741454,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 35,
+      "nimi": "Auto Palin",
+      "leveysaste": 61.133668,
+      "pituusaste": 21.539286,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 36,
+      "nimi": "Auto Ti-Sa",
+      "leveysaste": 62.933597,
+      "pituusaste": 22.515074,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 37,
+      "nimi": "Auto- Ja Rengasmyynti J Asunmaa Oy",
+      "leveysaste": 62.597386,
+      "pituusaste": 23.661616,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 38,
+      "nimi": "Auto- ja Konepiha Moilanen",
+      "leveysaste": 64.880978,
+      "pituusaste": 28.912432,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 39,
+      "nimi": "Auto-Eekoo",
+      "leveysaste": 61.046727,
+      "pituusaste": 28.210644,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 40,
+      "nimi": "Auto-Eekoo",
+      "leveysaste": 61.046733,
+      "pituusaste": 28.210662,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 41,
+      "nimi": "Auto-Eekoo Imatra",
+      "leveysaste": 61.173058,
+      "pituusaste": 28.755652,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 42,
+      "nimi": "Auto-Eekoo Imatra",
+      "leveysaste": 61.173092,
+      "pituusaste": 28.755669,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 43,
+      "nimi": "Auto-Expert Ekroos",
+      "leveysaste": 60.380705,
+      "pituusaste": 25.033456,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 44,
+      "nimi": "Auto-Heikkilä Oy",
+      "leveysaste": 63.24312,
+      "pituusaste": 22.855107,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 45,
+      "nimi": "Auto-Hiisi Oy",
+      "leveysaste": 62.619755,
+      "pituusaste": 29.76096,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 46,
+      "nimi": "Auto-Huiput",
+      "leveysaste": 60.349294,
+      "pituusaste": 24.315552,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 47,
+      "nimi": "Auto-Jeni Oy - Varkaus",
+      "leveysaste": 62.318517,
+      "pituusaste": 27.853596,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 48,
+      "nimi": "Auto-Kaikkonen",
+      "leveysaste": 64.995545,
+      "pituusaste": 25.457352,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 49,
+      "nimi": "Auto-Kaikkonen",
+      "leveysaste": 64.995554,
+      "pituusaste": 25.457358,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 50,
+      "nimi": "Auto-Karjala Oy",
+      "leveysaste": 62.62705,
+      "pituusaste": 29.698274,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 51,
+      "nimi": "Auto-Karjala Oy",
+      "leveysaste": 62.627053,
+      "pituusaste": 29.698265,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 52,
+      "nimi": "Auto-Kehä",
+      "leveysaste": 60.808922,
+      "pituusaste": 23.608632,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 53,
+      "nimi": "Auto-Kehä Oy Lohja",
+      "leveysaste": 60.282048,
+      "pituusaste": 24.161954,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 54,
+      "nimi": "Auto-Kilta",
+      "leveysaste": 61.046442,
+      "pituusaste": 28.198597,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 55,
+      "nimi": "Auto-Kilta",
+      "leveysaste": 61.173894,
+      "pituusaste": 28.741557,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 56,
+      "nimi": "Auto-Kilta",
+      "leveysaste": 61.173916,
+      "pituusaste": 28.741618,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 57,
+      "nimi": "Auto-Kilta",
+      "leveysaste": 61.679694,
+      "pituusaste": 27.240018,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 58,
+      "nimi": "Auto-Kuopio Oy",
+      "leveysaste": 62.922172,
+      "pituusaste": 27.679883,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 59,
+      "nimi": "Auto-Närvä Oy",
+      "leveysaste": 63.556875,
+      "pituusaste": 29.071066,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 60,
+      "nimi": "Auto-Närvä Oy",
+      "leveysaste": 63.556938,
+      "pituusaste": 29.071118,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 61,
+      "nimi": "Auto-Pekka",
+      "leveysaste": 63.086485,
+      "pituusaste": 27.707499,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 62,
+      "nimi": "Auto-Ripatti",
+      "leveysaste": 61.044305,
+      "pituusaste": 28.199618,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 63,
+      "nimi": "Auto-Suni",
+      "leveysaste": 60.863335,
+      "pituusaste": 26.665323,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 64,
+      "nimi": "Auto-Suni",
+      "leveysaste": 60.863346,
+      "pituusaste": 26.665331,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 65,
+      "nimi": "Auto-Suni",
+      "leveysaste": 61.047878,
+      "pituusaste": 28.201886,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 66,
+      "nimi": "Auto-Suni Imatra",
+      "leveysaste": 61.174621,
+      "pituusaste": 28.742321,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 67,
+      "nimi": "Auto-Suni Imatra",
+      "leveysaste": 61.174645,
+      "pituusaste": 28.742323,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 68,
+      "nimi": "Auto-Trade A. Sandström Ab",
+      "leveysaste": 63.678338,
+      "pituusaste": 22.73985,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 69,
+      "nimi": "Auto-Tuuri Kari Harjupatana Oy",
+      "leveysaste": 62.599434,
+      "pituusaste": 23.722579,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 70,
+      "nimi": "Auto-jeni Oy",
+      "leveysaste": 62.291093,
+      "pituusaste": 27.104025,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 71,
+      "nimi": "Auto-kehä Oy",
+      "leveysaste": 60.533343,
+      "pituusaste": 24.240494,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 72,
+      "nimi": "AutoA",
+      "leveysaste": 62.619775,
+      "pituusaste": 29.76893,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 73,
+      "nimi": "AutoAreena",
+      "leveysaste": 60.385613,
+      "pituusaste": 25.024206,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 74,
+      "nimi": "AutoBaijeri",
+      "leveysaste": 60.493435,
+      "pituusaste": 22.198327,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 75,
+      "nimi": "AutoBike Nurmijärvi",
+      "leveysaste": 60.489966,
+      "pituusaste": 24.852267,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 76,
+      "nimi": "AutoCorner",
+      "leveysaste": 60.34475,
+      "pituusaste": 24.334549,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 77,
+      "nimi": "AutoJiiPee",
+      "leveysaste": 62.618663,
+      "pituusaste": 29.738365,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 78,
+      "nimi": "AutoJokeri",
+      "leveysaste": 62.618546,
+      "pituusaste": 29.738343,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 79,
+      "nimi": "AutoMussalo",
+      "leveysaste": 60.988762,
+      "pituusaste": 25.53482,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 80,
+      "nimi": "AutoStoppi",
+      "leveysaste": 63.935155,
+      "pituusaste": 24.957595,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 81,
+      "nimi": "AutoStoppi",
+      "leveysaste": 63.93518,
+      "pituusaste": 24.957645,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 82,
+      "nimi": "AutoVisio Oy",
+      "leveysaste": 62.618049,
+      "pituusaste": 29.753429,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 83,
+      "nimi": "AutoVisio Oy",
+      "leveysaste": 62.618063,
+      "pituusaste": 29.753419,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 84,
+      "nimi": "Autoareena",
+      "leveysaste": 61.363877,
+      "pituusaste": 23.793902,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 85,
+      "nimi": "Autoareena",
+      "leveysaste": 61.363959,
+      "pituusaste": 23.793888,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 86,
+      "nimi": "Autoavec",
+      "leveysaste": 61.009906,
+      "pituusaste": 25.679759,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 87,
+      "nimi": "Autokari",
+      "leveysaste": 62.291415,
+      "pituusaste": 27.11568,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 88,
+      "nimi": "Autokari Oy Jyväskylä",
+      "leveysaste": 62.262777,
+      "pituusaste": 25.780684,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 89,
+      "nimi": "Autokari Varkaus",
+      "leveysaste": 62.314208,
+      "pituusaste": 27.850697,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 90,
+      "nimi": "Autokeskus Airport",
+      "leveysaste": 60.293928,
+      "pituusaste": 24.955918,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 91,
+      "nimi": "Autokeskus Hämeenlinna",
+      "leveysaste": 60.999371,
+      "pituusaste": 24.438005,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 92,
+      "nimi": "Autokeskus Konala",
+      "leveysaste": 60.237431,
+      "pituusaste": 24.854716,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 93,
+      "nimi": "Autokeskus Konala",
+      "leveysaste": 60.238216,
+      "pituusaste": 24.853197,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 94,
+      "nimi": "Autokeskus Konala",
+      "leveysaste": 60.238226,
+      "pituusaste": 24.853222,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 95,
+      "nimi": "Autokeskus Olari",
+      "leveysaste": 60.171132,
+      "pituusaste": 24.750187,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 96,
+      "nimi": "Autokeskus Olari",
+      "leveysaste": 60.171145,
+      "pituusaste": 24.750158,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 97,
+      "nimi": "Autokeskus Oy",
+      "leveysaste": 61.481435,
+      "pituusaste": 23.764718,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 98,
+      "nimi": "Autokeskus Oy",
+      "leveysaste": 61.481472,
+      "pituusaste": 23.764714,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 99,
+      "nimi": "Autokeskus Oy",
+      "leveysaste": 61.482103,
+      "pituusaste": 23.76378,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 100,
+      "nimi": "Autokeskus Oy",
+      "leveysaste": 61.482188,
+      "pituusaste": 23.763771,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 101,
+      "nimi": "Autokeskus Oy Raisio",
+      "leveysaste": 60.489117,
+      "pituusaste": 22.187108,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 102,
+      "nimi": "Autokiila",
+      "leveysaste": 60.474391,
+      "pituusaste": 22.230183,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 103,
+      "nimi": "Autokiila Outlet",
+      "leveysaste": 60.46844,
+      "pituusaste": 22.24394,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 104,
+      "nimi": "Autola Orivesi",
+      "leveysaste": 61.688004,
+      "pituusaste": 24.367269,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 105,
+      "nimi": "Autoliike Hannu Hietala",
+      "leveysaste": 62.630141,
+      "pituusaste": 29.764042,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 106,
+      "nimi": "Autoliike Hannu Hietala",
+      "leveysaste": 62.630218,
+      "pituusaste": 29.7641,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 107,
+      "nimi": "Autoliike Keijo Lehtonen ky",
+      "leveysaste": 60.624711,
+      "pituusaste": 25.289306,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 108,
+      "nimi": "Autoliike Koskinen Oy - Viitasaari",
+      "leveysaste": 63.080319,
+      "pituusaste": 25.864165,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 109,
+      "nimi": "Autoliike KymppiPlus",
+      "leveysaste": 64.952622,
+      "pituusaste": 25.520282,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 110,
+      "nimi": "Autoliike KymppiPlus",
+      "leveysaste": 64.952692,
+      "pituusaste": 25.520209,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 111,
+      "nimi": "Autoliike Leimu Oy",
+      "leveysaste": 61.369105,
+      "pituusaste": 23.804247,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 112,
+      "nimi": "Autoliike Lähdemäki",
+      "leveysaste": 63.094431,
+      "pituusaste": 21.640497,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 113,
+      "nimi": "Autoliike Lähdemäki",
+      "leveysaste": 63.094577,
+      "pituusaste": 21.641407,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 114,
+      "nimi": "Autolle",
+      "leveysaste": 65.042596,
+      "pituusaste": 25.548018,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 115,
+      "nimi": "Autolle Suurmyymälä | Vantaa",
+      "leveysaste": 60.279444,
+      "pituusaste": 24.823029,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 116,
+      "nimi": "Autolähde",
+      "leveysaste": 61.531023,
+      "pituusaste": 23.635549,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 117,
+      "nimi": "Autolähde",
+      "leveysaste": 61.53107,
+      "pituusaste": 23.635619,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 118,
+      "nimi": "Automaa",
+      "leveysaste": 63.107645,
+      "pituusaste": 21.649252,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 119,
+      "nimi": "Automaa",
+      "leveysaste": 63.830365,
+      "pituusaste": 23.118002,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 120,
+      "nimi": "Automaa Raisio",
+      "leveysaste": 60.489224,
+      "pituusaste": 22.206842,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 121,
+      "nimi": "Automankki",
+      "leveysaste": 60.910742,
+      "pituusaste": 26.763068,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 122,
+      "nimi": "Automyynti Heikki Naakka Ky",
+      "leveysaste": 62.97233,
+      "pituusaste": 27.710292,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 123,
+      "nimi": "Automyynti Jukka Hietala",
+      "leveysaste": 62.618462,
+      "pituusaste": 29.742343,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 124,
+      "nimi": "Automyynti Jukka Hietala",
+      "leveysaste": 62.618464,
+      "pituusaste": 29.742292,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 125,
+      "nimi": "Automyynti Karon",
+      "leveysaste": 60.375991,
+      "pituusaste": 25.032157,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 126,
+      "nimi": "Automyynti M. Tullila",
+      "leveysaste": 62.598212,
+      "pituusaste": 23.722402,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 127,
+      "nimi": "Automyynti M. Tullila",
+      "leveysaste": 62.598241,
+      "pituusaste": 23.7224,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 128,
+      "nimi": "Automyynti R Jauhiainen",
+      "leveysaste": 64.687232,
+      "pituusaste": 24.545382,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 129,
+      "nimi": "Automyynti TM-autot Oy",
+      "leveysaste": 64.68657,
+      "pituusaste": 24.51202,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 130,
+      "nimi": "Automyynti Temrex",
+      "leveysaste": 64.684661,
+      "pituusaste": 24.516263,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 131,
+      "nimi": "Automyynti Timo Ylä-Kaarre",
+      "leveysaste": 62.615299,
+      "pituusaste": 23.613843,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 132,
+      "nimi": "Automyynti Veijo Mara",
+      "leveysaste": 63.555705,
+      "pituusaste": 29.103116,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 133,
+      "nimi": "Automyyntiin.fi",
+      "leveysaste": 60.215653,
+      "pituusaste": 24.869625,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 134,
+      "nimi": "Autoni.com",
+      "leveysaste": 60.235806,
+      "pituusaste": 25.016018,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 135,
+      "nimi": "Autoni.com",
+      "leveysaste": 60.235816,
+      "pituusaste": 25.016041,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 136,
+      "nimi": "Autonmaalaus",
+      "leveysaste": 64.136846,
+      "pituusaste": 28.338706,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 137,
+      "nimi": "Autopalsta",
+      "leveysaste": 61.550188,
+      "pituusaste": 21.812913,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 138,
+      "nimi": "Autoruletti",
+      "leveysaste": 63.751814,
+      "pituusaste": 25.333946,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 139,
+      "nimi": "Autosalpa",
+      "leveysaste": 60.390177,
+      "pituusaste": 25.113367,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 140,
+      "nimi": "Autosalpa",
+      "leveysaste": 60.392788,
+      "pituusaste": 25.605735,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 141,
+      "nimi": "Autosalpa",
+      "leveysaste": 60.392809,
+      "pituusaste": 25.605711,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 142,
+      "nimi": "Autosalpa",
+      "leveysaste": 60.865291,
+      "pituusaste": 26.664526,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 143,
+      "nimi": "Autosalpa",
+      "leveysaste": 60.865322,
+      "pituusaste": 26.6646,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 144,
+      "nimi": "Autosalpa",
+      "leveysaste": 60.974087,
+      "pituusaste": 25.676548,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 145,
+      "nimi": "Autosalpa",
+      "leveysaste": 60.974133,
+      "pituusaste": 25.676563,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 146,
+      "nimi": "Autosalpa Hämeenlinna",
+      "leveysaste": 61.009033,
+      "pituusaste": 24.511905,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 147,
+      "nimi": "Autosein Oy",
+      "leveysaste": 62.803433,
+      "pituusaste": 22.873656,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 148,
+      "nimi": "Autosein Oy",
+      "leveysaste": 62.803479,
+      "pituusaste": 22.873633,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 149,
+      "nimi": "Autosompa Oy",
+      "leveysaste": 60.865701,
+      "pituusaste": 26.670919,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 150,
+      "nimi": "Autotalo",
+      "leveysaste": 64.934752,
+      "pituusaste": 25.512889,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 151,
+      "nimi": "Autotalo",
+      "leveysaste": 64.93478,
+      "pituusaste": 25.5129,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 152,
+      "nimi": "Autotalo 2002",
+      "leveysaste": 60.383076,
+      "pituusaste": 25.029796,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 153,
+      "nimi": "Autotalo Hartikainen",
+      "leveysaste": 63.549465,
+      "pituusaste": 27.248565,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 154,
+      "nimi": "Autotalo Hartikainen",
+      "leveysaste": 63.549515,
+      "pituusaste": 27.248636,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 155,
+      "nimi": "Autotalo Hartikainen",
+      "leveysaste": 64.215742,
+      "pituusaste": 27.67398,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 156,
+      "nimi": "Autotalo Hartikainen",
+      "leveysaste": 64.215755,
+      "pituusaste": 27.674205,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 157,
+      "nimi": "Autotalo Laakkonen",
+      "leveysaste": 60.198791,
+      "pituusaste": 25.040067,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 158,
+      "nimi": "Autotalo Laakkonen",
+      "leveysaste": 60.198817,
+      "pituusaste": 25.039988,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 159,
+      "nimi": "Autotalo Laakkonen",
+      "leveysaste": 63.547935,
+      "pituusaste": 27.247724,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 160,
+      "nimi": "Autotalo Laakkonen",
+      "leveysaste": 63.547964,
+      "pituusaste": 27.247836,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 161,
+      "nimi": "Autotalo Laakkonen Oy",
+      "leveysaste": 61.482991,
+      "pituusaste": 23.764799,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 162,
+      "nimi": "Autotalo Laakkonen Oy",
+      "leveysaste": 61.483044,
+      "pituusaste": 23.764756,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 163,
+      "nimi": "Autotalo Laakkonen Oy Hämeenlinna",
+      "leveysaste": 61.019693,
+      "pituusaste": 24.424597,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 164,
+      "nimi": "Autotalo Lohja",
+      "leveysaste": 60.275354,
+      "pituusaste": 24.123696,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 165,
+      "nimi": "Autotalo Pelttari",
+      "leveysaste": 61.482864,
+      "pituusaste": 21.83089,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 166,
+      "nimi": "Autotalo Sherif",
+      "leveysaste": 60.449862,
+      "pituusaste": 22.306857,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 167,
+      "nimi": "Autotalo Sherif",
+      "leveysaste": 60.449873,
+      "pituusaste": 22.30695,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 168,
+      "nimi": "Autotarvike Backholm",
+      "leveysaste": 63.095469,
+      "pituusaste": 21.636897,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 169,
+      "nimi": "AutoÅström",
+      "leveysaste": 64.991144,
+      "pituusaste": 25.462401,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 170,
+      "nimi": "AutoÅström",
+      "leveysaste": 64.991146,
+      "pituusaste": 25.462465,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 171,
+      "nimi": "AvantCars",
+      "leveysaste": 60.381185,
+      "pituusaste": 25.034116,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 172,
+      "nimi": "Ayvens",
+      "leveysaste": 60.29494,
+      "pituusaste": 24.988064,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 173,
+      "nimi": "BYD Brand Store",
+      "leveysaste": 60.174969,
+      "pituusaste": 24.803471,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 174,
+      "nimi": "Bavaria Kuopio",
+      "leveysaste": 62.923359,
+      "pituusaste": 27.678403,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 175,
+      "nimi": "Bavaria Laakkonen Espoo",
+      "leveysaste": 60.179629,
+      "pituusaste": 24.754973,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 176,
+      "nimi": "Bavaria Laakkonen Espoo",
+      "leveysaste": 60.17965,
+      "pituusaste": 24.75496,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 177,
+      "nimi": "Bayerncar",
+      "leveysaste": 62.794394,
+      "pituusaste": 22.794249,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 178,
+      "nimi": "Bennäs Motor",
+      "leveysaste": 63.590837,
+      "pituusaste": 22.755683,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 179,
+      "nimi": "Bentley Suomi",
+      "leveysaste": 60.165062,
+      "pituusaste": 24.72691,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 180,
+      "nimi": "Bifa",
+      "leveysaste": 60.12543,
+      "pituusaste": 19.937631,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 181,
+      "nimi": "Bilar99 Espoo",
+      "leveysaste": 60.207432,
+      "pituusaste": 24.758464,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 182,
+      "nimi": "Bilar99 Kerava",
+      "leveysaste": 60.390086,
+      "pituusaste": 25.1082,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 183,
+      "nimi": "Bilar99 Tampere",
+      "leveysaste": 61.46156,
+      "pituusaste": 23.738132,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 184,
+      "nimi": "Bilar99 Tampere",
+      "leveysaste": 61.461602,
+      "pituusaste": 23.738134,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 185,
+      "nimi": "Bilcenter",
+      "leveysaste": 60.119732,
+      "pituusaste": 19.934424,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 186,
+      "nimi": "Bilcenter",
+      "leveysaste": 60.123681,
+      "pituusaste": 19.933151,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 187,
+      "nimi": "Bilcenter",
+      "leveysaste": 60.123694,
+      "pituusaste": 19.933136,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 188,
+      "nimi": "Bilhallen",
+      "leveysaste": 60.106065,
+      "pituusaste": 19.928814,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 189,
+      "nimi": "Bilia Herttoniemi",
+      "leveysaste": 60.195668,
+      "pituusaste": 25.039467,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 190,
+      "nimi": "Bilia Herttoniemi",
+      "leveysaste": 60.195677,
+      "pituusaste": 25.039488,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 191,
+      "nimi": "Bilia Kaivoksela",
+      "leveysaste": 60.266363,
+      "pituusaste": 24.879855,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 192,
+      "nimi": "Bilia Olari",
+      "leveysaste": 60.174758,
+      "pituusaste": 24.757793,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 193,
+      "nimi": "Bilia Olari",
+      "leveysaste": 60.174798,
+      "pituusaste": 24.757794,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 194,
+      "nimi": "Bilia vaihtoautot",
+      "leveysaste": 60.264717,
+      "pituusaste": 24.879868,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 195,
+      "nimi": "Cardeal Group",
+      "leveysaste": 61.532405,
+      "pituusaste": 23.632654,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 196,
+      "nimi": "Carvista",
+      "leveysaste": 60.278002,
+      "pituusaste": 24.146911,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 197,
+      "nimi": "Central Auto",
+      "leveysaste": 60.48913,
+      "pituusaste": 22.202463,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 198,
+      "nimi": "City Speed Oy Ltd",
+      "leveysaste": 60.592263,
+      "pituusaste": 26.177657,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 199,
+      "nimi": "Copart Suomi Espoo",
+      "leveysaste": 60.275401,
+      "pituusaste": 24.758464,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 200,
+      "nimi": "Copart Turku",
+      "leveysaste": 60.496849,
+      "pituusaste": 22.278134,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 201,
+      "nimi": "DS Store Helsinki",
+      "leveysaste": 60.280182,
+      "pituusaste": 24.818707,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 202,
+      "nimi": "Delta Auto",
+      "leveysaste": 60.471404,
+      "pituusaste": 22.264485,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 203,
+      "nimi": "Delta Auto",
+      "leveysaste": 61.17389,
+      "pituusaste": 28.739062,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 204,
+      "nimi": "Delta Auto",
+      "leveysaste": 61.17395,
+      "pituusaste": 28.739065,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 205,
+      "nimi": "Delta Auto Hämeenlinna",
+      "leveysaste": 60.999783,
+      "pituusaste": 24.436052,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 206,
+      "nimi": "Delta Auto Jyväskylä",
+      "leveysaste": 62.25153,
+      "pituusaste": 25.774531,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 207,
+      "nimi": "Delta Bavaria",
+      "leveysaste": 61.04834,
+      "pituusaste": 28.200613,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 208,
+      "nimi": "Delta auto",
+      "leveysaste": 60.23821,
+      "pituusaste": 24.859434,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 209,
+      "nimi": "Delta-Auto",
+      "leveysaste": 63.094211,
+      "pituusaste": 21.64249,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 210,
+      "nimi": "Delta-auto",
+      "leveysaste": 64.96142,
+      "pituusaste": 25.51279,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 211,
+      "nimi": "Delta-auto",
+      "leveysaste": 64.961421,
+      "pituusaste": 25.512635,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 212,
+      "nimi": "Delta-auto Herttoniemi",
+      "leveysaste": 60.201764,
+      "pituusaste": 25.042362,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 213,
+      "nimi": "Delta-auto Herttoniemi",
+      "leveysaste": 60.201792,
+      "pituusaste": 25.042264,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 214,
+      "nimi": "Eepee Autotalo",
+      "leveysaste": 62.803745,
+      "pituusaste": 22.87512,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 215,
+      "nimi": "Ekenäs bilcenter",
+      "leveysaste": 60.005793,
+      "pituusaste": 23.530709,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 216,
+      "nimi": "Ekenäs bilcenter",
+      "leveysaste": 60.005798,
+      "pituusaste": 23.530704,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 217,
+      "nimi": "Er-Wo",
+      "leveysaste": 64.967917,
+      "pituusaste": 25.497558,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 218,
+      "nimi": "ErBil Ab",
+      "leveysaste": 60.118475,
+      "pituusaste": 19.935452,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 219,
+      "nimi": "Etelä-Savon Auto",
+      "leveysaste": 61.866506,
+      "pituusaste": 28.941512,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 220,
+      "nimi": "Etelä-Savon auto",
+      "leveysaste": 61.676469,
+      "pituusaste": 27.243829,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 221,
+      "nimi": "Etelä-Savon auto",
+      "leveysaste": 61.676473,
+      "pituusaste": 27.243839,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 222,
+      "nimi": "Euro-Auto",
+      "leveysaste": 60.411779,
+      "pituusaste": 24.334624,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 223,
+      "nimi": "Euromotors Oy",
+      "leveysaste": 60.482715,
+      "pituusaste": 22.311474,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 224,
+      "nimi": "Fixus Raisio",
+      "leveysaste": 60.49313,
+      "pituusaste": 22.202956,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 225,
+      "nimi": "Fixus Raisio",
+      "leveysaste": 60.493202,
+      "pituusaste": 22.202764,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 226,
+      "nimi": "Fixus myymälä / Jyväskylän Varaosakeskus Oy",
+      "leveysaste": 62.25474,
+      "pituusaste": 25.777206,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 227,
+      "nimi": "GL-Auto",
+      "leveysaste": 63.685378,
+      "pituusaste": 22.728368,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 228,
+      "nimi": "HJ-Autotalo",
+      "leveysaste": 60.383422,
+      "pituusaste": 25.030002,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 229,
+      "nimi": "HML Autotalo",
+      "leveysaste": 60.999153,
+      "pituusaste": 24.439696,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 230,
+      "nimi": "Haminan Autohuolto Oy - Hamina",
+      "leveysaste": 60.576746,
+      "pituusaste": 27.18818,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 231,
+      "nimi": "Hedin Automotive",
+      "leveysaste": 60.158352,
+      "pituusaste": 24.690609,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 232,
+      "nimi": "Hedin Automotive",
+      "leveysaste": 60.203915,
+      "pituusaste": 25.046639,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 233,
+      "nimi": "Hedin Automotive",
+      "leveysaste": 60.203935,
+      "pituusaste": 25.046585,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 234,
+      "nimi": "Hedin Automotive",
+      "leveysaste": 60.390406,
+      "pituusaste": 25.610896,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 235,
+      "nimi": "Hedin Automotive",
+      "leveysaste": 60.390468,
+      "pituusaste": 25.610879,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 236,
+      "nimi": "Hedin Automotive",
+      "leveysaste": 60.39066,
+      "pituusaste": 25.609375,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 237,
+      "nimi": "Hedin Automotive",
+      "leveysaste": 60.390674,
+      "pituusaste": 25.609387,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 238,
+      "nimi": "Hedin Automotive BMW Lahti",
+      "leveysaste": 60.95078,
+      "pituusaste": 25.64992,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 239,
+      "nimi": "Hedin Automotive BMW Lahti",
+      "leveysaste": 60.950786,
+      "pituusaste": 25.649883,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 240,
+      "nimi": "Hedin Automotive Helsinki",
+      "leveysaste": 60.205451,
+      "pituusaste": 25.048529,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 241,
+      "nimi": "Hedin Automotive Helsinki",
+      "leveysaste": 60.205466,
+      "pituusaste": 25.048554,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 242,
+      "nimi": "Hedin Automotive Joensuu",
+      "leveysaste": 62.619047,
+      "pituusaste": 29.776185,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 243,
+      "nimi": "Hedin Automotive Joensuu",
+      "leveysaste": 62.619094,
+      "pituusaste": 29.776215,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 244,
+      "nimi": "Hedin Automotive Joensuu",
+      "leveysaste": 62.619161,
+      "pituusaste": 29.777852,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 245,
+      "nimi": "Hedin Automotive Joensuu",
+      "leveysaste": 62.619206,
+      "pituusaste": 29.777885,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 246,
+      "nimi": "Hedin Automotive Jyväskylä",
+      "leveysaste": 62.291282,
+      "pituusaste": 25.812538,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 247,
+      "nimi": "Hedin Automotive Kerava",
+      "leveysaste": 60.396719,
+      "pituusaste": 25.101535,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 248,
+      "nimi": "Hedin Automotive Kerava",
+      "leveysaste": 60.39673,
+      "pituusaste": 25.101538,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 249,
+      "nimi": "Hedin Automotive Kuopio",
+      "leveysaste": 62.923946,
+      "pituusaste": 27.679507,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 250,
+      "nimi": "Helkama-Auto Olari",
+      "leveysaste": 60.180223,
+      "pituusaste": 24.7551,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 251,
+      "nimi": "Helkama-Auto Olari",
+      "leveysaste": 60.180245,
+      "pituusaste": 24.755221,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 252,
+      "nimi": "Herttoniemen autokeskus",
+      "leveysaste": 60.194717,
+      "pituusaste": 25.039271,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 253,
+      "nimi": "Herttoniemen autokeskus",
+      "leveysaste": 60.194718,
+      "pituusaste": 25.039244,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 254,
+      "nimi": "Hervannan katsastus",
+      "leveysaste": 61.459537,
+      "pituusaste": 23.871392,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 255,
+      "nimi": "HuippuAuto",
+      "leveysaste": 60.286914,
+      "pituusaste": 24.899268,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 256,
+      "nimi": "Hyrylän Autotalo",
+      "leveysaste": 60.383489,
+      "pituusaste": 25.030119,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 257,
+      "nimi": "HÅWE-BIL",
+      "leveysaste": 60.134986,
+      "pituusaste": 19.939211,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 258,
+      "nimi": "Hämeen Auto Jyväskylä",
+      "leveysaste": 62.277175,
+      "pituusaste": 25.787729,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 259,
+      "nimi": "IK Engineering",
+      "leveysaste": 60.443555,
+      "pituusaste": 24.703056,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 260,
+      "nimi": "Importcars",
+      "leveysaste": 63.822983,
+      "pituusaste": 23.160875,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 261,
+      "nimi": "Inchcape Helsinki",
+      "leveysaste": 60.197193,
+      "pituusaste": 25.038944,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 262,
+      "nimi": "Inchcape Helsinki",
+      "leveysaste": 60.197206,
+      "pituusaste": 25.038901,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 263,
+      "nimi": "InterCar-Center",
+      "leveysaste": 63.680249,
+      "pituusaste": 22.731938,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 264,
+      "nimi": "J. Rinta-Jouppi Autohuolto, Helsinki, Ala-Tikkurila",
+      "leveysaste": 60.283615,
+      "pituusaste": 25.026174,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 265,
+      "nimi": "J. Rinta-Jouppi Autohuolto, Kuopio",
+      "leveysaste": 62.881582,
+      "pituusaste": 27.623757,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 266,
+      "nimi": "J. Rinta-Jouppi Autohuolto, Seinäjoki, Herralankatu",
+      "leveysaste": 62.791962,
+      "pituusaste": 22.806102,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 267,
+      "nimi": "J. Rinta-Jouppi Espoo",
+      "leveysaste": 60.171404,
+      "pituusaste": 24.779532,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 268,
+      "nimi": "J. Rinta-Jouppi Espoo",
+      "leveysaste": 60.171413,
+      "pituusaste": 24.779505,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 269,
+      "nimi": "J. Rinta-Jouppi Helsinki, Ala-Tikkurila",
+      "leveysaste": 60.284015,
+      "pituusaste": 25.026499,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 270,
+      "nimi": "J. Rinta-Jouppi Hyvinkää",
+      "leveysaste": 60.609272,
+      "pituusaste": 24.809762,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 271,
+      "nimi": "J. Rinta-Jouppi Hyvinkää",
+      "leveysaste": 60.609325,
+      "pituusaste": 24.809821,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 272,
+      "nimi": "J. Rinta-Jouppi Hämeenlinna",
+      "leveysaste": 61.005664,
+      "pituusaste": 24.413888,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 273,
+      "nimi": "J. Rinta-Jouppi Jyväskylä",
+      "leveysaste": 62.272487,
+      "pituusaste": 25.785994,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 274,
+      "nimi": "J. Rinta-Jouppi Kotka",
+      "leveysaste": 60.520744,
+      "pituusaste": 26.95348,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 275,
+      "nimi": "J. Rinta-Jouppi Kuopio",
+      "leveysaste": 62.881741,
+      "pituusaste": 27.623758,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 276,
+      "nimi": "J. Rinta-Jouppi Kuopio",
+      "leveysaste": 62.881771,
+      "pituusaste": 27.623783,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 277,
+      "nimi": "J. Rinta-Jouppi Lahti",
+      "leveysaste": 60.937189,
+      "pituusaste": 25.63699,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 278,
+      "nimi": "J. Rinta-Jouppi Lahti",
+      "leveysaste": 60.937197,
+      "pituusaste": 25.637038,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 279,
+      "nimi": "J. Rinta-Jouppi Lappenranta",
+      "leveysaste": 61.04772,
+      "pituusaste": 28.171349,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 280,
+      "nimi": "J. Rinta-Jouppi Lappenranta",
+      "leveysaste": 61.047784,
+      "pituusaste": 28.171296,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 281,
+      "nimi": "J. Rinta-Jouppi Oulu",
+      "leveysaste": 64.999857,
+      "pituusaste": 25.460006,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 282,
+      "nimi": "J. Rinta-Jouppi Oulu",
+      "leveysaste": 64.999973,
+      "pituusaste": 25.459989,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 283,
+      "nimi": "J. Rinta-Jouppi Oy",
+      "leveysaste": 60.283779,
+      "pituusaste": 25.02575,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 284,
+      "nimi": "J. Rinta-Jouppi Oy",
+      "leveysaste": 60.283894,
+      "pituusaste": 25.025807,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 285,
+      "nimi": "J. Rinta-Jouppi Pori",
+      "leveysaste": 61.483064,
+      "pituusaste": 21.824702,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 286,
+      "nimi": "J. Rinta-Jouppi Pori",
+      "leveysaste": 61.483084,
+      "pituusaste": 21.824785,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 287,
+      "nimi": "J. Rinta-Jouppi Porvoo",
+      "leveysaste": 60.399904,
+      "pituusaste": 25.694071,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 288,
+      "nimi": "J. Rinta-Jouppi Porvoo",
+      "leveysaste": 60.399944,
+      "pituusaste": 25.69404,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 289,
+      "nimi": "J. Rinta-Jouppi Raisio",
+      "leveysaste": 60.490235,
+      "pituusaste": 22.193113,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 290,
+      "nimi": "J. Rinta-Jouppi Seinäjoki, Jouppilantie",
+      "leveysaste": 62.792133,
+      "pituusaste": 22.818396,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 291,
+      "nimi": "J. Rinta-Jouppi Tampere Hatanpää",
+      "leveysaste": 61.48757,
+      "pituusaste": 23.770609,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 292,
+      "nimi": "J. Rinta-Jouppi Tampere, Lielahti",
+      "leveysaste": 61.5148,
+      "pituusaste": 23.67436,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 293,
+      "nimi": "JA Kone",
+      "leveysaste": 63.323392,
+      "pituusaste": 30.009091,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 294,
+      "nimi": "JA Kone",
+      "leveysaste": 63.323411,
+      "pituusaste": 30.009124,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 295,
+      "nimi": "JDM Outlet",
+      "leveysaste": 60.298616,
+      "pituusaste": 24.947517,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 296,
+      "nimi": "JH Car",
+      "leveysaste": 64.131109,
+      "pituusaste": 28.391172,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 297,
+      "nimi": "Joensuun Auto-Extra Oy",
+      "leveysaste": 62.620906,
+      "pituusaste": 29.764354,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 298,
+      "nimi": "Joensuun Auto-Extra Oy",
+      "leveysaste": 62.620911,
+      "pituusaste": 29.764302,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 299,
+      "nimi": "Juhan Auto",
+      "leveysaste": 65.037159,
+      "pituusaste": 25.441835,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 300,
+      "nimi": "Juhan Auto Oy - Juhan Auto Keminmaa",
+      "leveysaste": 65.798555,
+      "pituusaste": 24.513785,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 301,
+      "nimi": "Juhan Auto Oy - Raahe",
+      "leveysaste": 64.687649,
+      "pituusaste": 24.540676,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 302,
+      "nimi": "Juhan Auto Oy Kuusamo",
+      "leveysaste": 65.959141,
+      "pituusaste": 29.164655,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 303,
+      "nimi": "Juhan Auto Oy Rovaniemi",
+      "leveysaste": 66.48602,
+      "pituusaste": 25.660142,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 304,
+      "nimi": "Jyväskylän Autotarvike",
+      "leveysaste": 62.272051,
+      "pituusaste": 25.786943,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 305,
+      "nimi": "Jyväskylän autotarvike",
+      "leveysaste": 62.250117,
+      "pituusaste": 25.773977,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 306,
+      "nimi": "K Caara",
+      "leveysaste": 60.162887,
+      "pituusaste": 24.717437,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 307,
+      "nimi": "K Caara",
+      "leveysaste": 60.162887,
+      "pituusaste": 24.717444,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 308,
+      "nimi": "K-Auto",
+      "leveysaste": 60.497093,
+      "pituusaste": 22.243805,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 309,
+      "nimi": "K-Auto",
+      "leveysaste": 62.85421,
+      "pituusaste": 27.623032,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 310,
+      "nimi": "K-Auto",
+      "leveysaste": 62.854224,
+      "pituusaste": 27.622961,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 311,
+      "nimi": "K-Auto",
+      "leveysaste": 62.855328,
+      "pituusaste": 27.622487,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 312,
+      "nimi": "K-Auto",
+      "leveysaste": 62.855338,
+      "pituusaste": 27.62264,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 313,
+      "nimi": "K-Auto Audi",
+      "leveysaste": 60.475936,
+      "pituusaste": 22.257938,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 314,
+      "nimi": "K-Auto Audi Hyvinkää",
+      "leveysaste": 60.610846,
+      "pituusaste": 24.809157,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 315,
+      "nimi": "K-Auto Audi Hyvinkää",
+      "leveysaste": 60.610883,
+      "pituusaste": 24.809195,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 316,
+      "nimi": "K-Auto Joensuu",
+      "leveysaste": 62.620283,
+      "pituusaste": 29.777522,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 317,
+      "nimi": "K-Auto Joensuu",
+      "leveysaste": 62.62031,
+      "pituusaste": 29.777543,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 318,
+      "nimi": "K-Auto Oulu",
+      "leveysaste": 64.954831,
+      "pituusaste": 25.518874,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 319,
+      "nimi": "K-Auto Turku",
+      "leveysaste": 60.475344,
+      "pituusaste": 22.25906,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 320,
+      "nimi": "K-Auto Turku",
+      "leveysaste": 60.475364,
+      "pituusaste": 22.259052,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 321,
+      "nimi": "K-Auto Vaihtoautot Hyvinkää",
+      "leveysaste": 60.610179,
+      "pituusaste": 24.81113,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 322,
+      "nimi": "K-Auto Vaihtoautot Hyvinkää",
+      "leveysaste": 60.610203,
+      "pituusaste": 24.811156,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 323,
+      "nimi": "K-Auto Volkswagen",
+      "leveysaste": 60.475015,
+      "pituusaste": 22.259077,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 324,
+      "nimi": "K-Auto Volkswagen Hyvinkää",
+      "leveysaste": 60.61019,
+      "pituusaste": 24.808724,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 325,
+      "nimi": "K-Auto Volkswagen Hyvinkää",
+      "leveysaste": 60.610265,
+      "pituusaste": 24.808804,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 326,
+      "nimi": "K-Auto Volkswagen Lahti",
+      "leveysaste": 60.947225,
+      "pituusaste": 25.648051,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 327,
+      "nimi": "KAMUX",
+      "leveysaste": 64.210296,
+      "pituusaste": 27.773068,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 328,
+      "nimi": "KaaraX",
+      "leveysaste": 63.856693,
+      "pituusaste": 23.311874,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 329,
+      "nimi": "Kakkosauto",
+      "leveysaste": 62.601519,
+      "pituusaste": 25.705389,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 330,
+      "nimi": "Kamux",
+      "leveysaste": 60.27614,
+      "pituusaste": 24.808318,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 331,
+      "nimi": "Kamux",
+      "leveysaste": 60.392175,
+      "pituusaste": 25.604782,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 332,
+      "nimi": "Kamux",
+      "leveysaste": 60.499093,
+      "pituusaste": 22.246206,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 333,
+      "nimi": "Kamux",
+      "leveysaste": 60.939096,
+      "pituusaste": 25.640203,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 334,
+      "nimi": "Kamux",
+      "leveysaste": 61.005356,
+      "pituusaste": 24.419757,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 335,
+      "nimi": "Kamux",
+      "leveysaste": 61.041709,
+      "pituusaste": 28.199269,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 336,
+      "nimi": "Kamux",
+      "leveysaste": 61.043765,
+      "pituusaste": 28.193582,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 337,
+      "nimi": "Kamux",
+      "leveysaste": 61.135213,
+      "pituusaste": 21.535081,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 338,
+      "nimi": "Kamux",
+      "leveysaste": 61.135232,
+      "pituusaste": 21.535074,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 339,
+      "nimi": "Kamux",
+      "leveysaste": 61.865591,
+      "pituusaste": 28.944426,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 340,
+      "nimi": "Kamux",
+      "leveysaste": 63.831206,
+      "pituusaste": 23.150258,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 341,
+      "nimi": "Kamux",
+      "leveysaste": 64.95386,
+      "pituusaste": 25.522077,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 342,
+      "nimi": "Kamux",
+      "leveysaste": 64.954061,
+      "pituusaste": 25.521779,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 343,
+      "nimi": "Kamux",
+      "leveysaste": 64.968634,
+      "pituusaste": 25.492979,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 344,
+      "nimi": "Kamux",
+      "leveysaste": 64.998609,
+      "pituusaste": 25.458066,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 345,
+      "nimi": "Kamux",
+      "leveysaste": 64.998666,
+      "pituusaste": 25.458008,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 346,
+      "nimi": "Kamux Espoo Niittykumpu",
+      "leveysaste": 60.171979,
+      "pituusaste": 24.764321,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 347,
+      "nimi": "Kamux Espoo Niittykumpu",
+      "leveysaste": 60.172009,
+      "pituusaste": 24.764322,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 348,
+      "nimi": "Kamux Espoo Olari",
+      "leveysaste": 60.175621,
+      "pituusaste": 24.757744,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 349,
+      "nimi": "Kamux Espoo Olari",
+      "leveysaste": 60.175667,
+      "pituusaste": 24.757745,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 350,
+      "nimi": "Kamux Hyötyautot Jyväskylä",
+      "leveysaste": 62.261149,
+      "pituusaste": 25.780074,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 351,
+      "nimi": "Kamux Joensuu",
+      "leveysaste": 62.618607,
+      "pituusaste": 29.759888,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 352,
+      "nimi": "Kamux Joensuu",
+      "leveysaste": 62.618611,
+      "pituusaste": 29.759791,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 353,
+      "nimi": "Kamux Jämsä",
+      "leveysaste": 61.857048,
+      "pituusaste": 25.180771,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 354,
+      "nimi": "Kamux Järvenpää",
+      "leveysaste": 60.457036,
+      "pituusaste": 25.110702,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 355,
+      "nimi": "Kamux Järvenpää",
+      "leveysaste": 60.457079,
+      "pituusaste": 25.110682,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 356,
+      "nimi": "Kamux Klaukkala",
+      "leveysaste": 60.37137,
+      "pituusaste": 24.769443,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 357,
+      "nimi": "Kamux Lohja",
+      "leveysaste": 60.294889,
+      "pituusaste": 24.204736,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 358,
+      "nimi": "Kamux Oulu Rusko",
+      "leveysaste": 65.047435,
+      "pituusaste": 25.581176,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 359,
+      "nimi": "Kamux Oy",
+      "leveysaste": 62.806843,
+      "pituusaste": 22.870676,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 360,
+      "nimi": "Kamux Vaihtoautot",
+      "leveysaste": 60.619912,
+      "pituusaste": 24.816491,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 361,
+      "nimi": "Kamux Vaihtoautot",
+      "leveysaste": 60.619937,
+      "pituusaste": 24.816568,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 362,
+      "nimi": "Kamux Vaihtoautot",
+      "leveysaste": 61.67698,
+      "pituusaste": 27.249113,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 363,
+      "nimi": "Kamux Works Hyvinkää Hyötyajoneuvot",
+      "leveysaste": 60.612455,
+      "pituusaste": 24.810554,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 364,
+      "nimi": "Kamux Works Hyvinkää Hyötyajoneuvot",
+      "leveysaste": 60.612469,
+      "pituusaste": 24.810566,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 365,
+      "nimi": "Kamux Ylivieska",
+      "leveysaste": 64.067707,
+      "pituusaste": 24.548943,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 366,
+      "nimi": "Kaupparaitin Auto Oy",
+      "leveysaste": 63.0064,
+      "pituusaste": 22.156116,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 367,
+      "nimi": "Kawa-auto",
+      "leveysaste": 60.712547,
+      "pituusaste": 24.459222,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 368,
+      "nimi": "Kawa-auto",
+      "leveysaste": 60.712569,
+      "pituusaste": 24.459235,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 369,
+      "nimi": "Keljon konehuolto",
+      "leveysaste": 62.243983,
+      "pituusaste": 25.873905,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 370,
+      "nimi": "KoillisAuto Oy",
+      "leveysaste": 65.359669,
+      "pituusaste": 26.98257,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 371,
+      "nimi": "Kokkomobiili",
+      "leveysaste": 63.827427,
+      "pituusaste": 23.151658,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 372,
+      "nimi": "Korsumäen Auto Ky",
+      "leveysaste": 62.553842,
+      "pituusaste": 24.099614,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 373,
+      "nimi": "Kouvolan vaunu",
+      "leveysaste": 60.86232,
+      "pituusaste": 26.644504,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 374,
+      "nimi": "Kuopion Autokauppa Oy",
+      "leveysaste": 62.919862,
+      "pituusaste": 27.679255,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 375,
+      "nimi": "Kupen Auto",
+      "leveysaste": 62.969397,
+      "pituusaste": 22.393726,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 376,
+      "nimi": "KymppiPlus",
+      "leveysaste": 64.071694,
+      "pituusaste": 24.519873,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 377,
+      "nimi": "Kymppiplus",
+      "leveysaste": 63.832034,
+      "pituusaste": 23.137372,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 378,
+      "nimi": "Käyttöauto",
+      "leveysaste": 62.592231,
+      "pituusaste": 23.602292,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 379,
+      "nimi": "Käyttöauto",
+      "leveysaste": 62.80242,
+      "pituusaste": 22.867472,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 380,
+      "nimi": "Käyttöauto",
+      "leveysaste": 63.079268,
+      "pituusaste": 21.666167,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 381,
+      "nimi": "Käyttöauto",
+      "leveysaste": 63.079279,
+      "pituusaste": 21.666178,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 382,
+      "nimi": "Käyttöauto Kauhajoki",
+      "leveysaste": 62.43255,
+      "pituusaste": 22.199328,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 383,
+      "nimi": "Käyttöauto Kokkola",
+      "leveysaste": 63.82584,
+      "pituusaste": 23.160713,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 384,
+      "nimi": "Käyttöauto Närpiö",
+      "leveysaste": 62.481477,
+      "pituusaste": 21.374264,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 385,
+      "nimi": "Käyttöauto Närpiö",
+      "leveysaste": 62.481541,
+      "pituusaste": 21.374307,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 386,
+      "nimi": "Käyttöauto Oy",
+      "leveysaste": 61.478505,
+      "pituusaste": 23.767252,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 387,
+      "nimi": "Käyttöauto Oy",
+      "leveysaste": 61.478558,
+      "pituusaste": 23.767201,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 388,
+      "nimi": "Käyttöauto Oy",
+      "leveysaste": 61.482341,
+      "pituusaste": 21.828858,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 389,
+      "nimi": "Käyttöauto Oy",
+      "leveysaste": 62.269313,
+      "pituusaste": 25.78615,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 390,
+      "nimi": "Käyttöauto Oy",
+      "leveysaste": 62.269365,
+      "pituusaste": 25.786352,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 391,
+      "nimi": "Laakkonen",
+      "leveysaste": 60.29242,
+      "pituusaste": 24.963579,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 392,
+      "nimi": "Laakkonen Vaihtoautokeskus Tampere",
+      "leveysaste": 61.516571,
+      "pituusaste": 23.659189,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 393,
+      "nimi": "Laatuauto Center",
+      "leveysaste": 62.853544,
+      "pituusaste": 27.626269,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 394,
+      "nimi": "Laatuautot.fi",
+      "leveysaste": 60.222031,
+      "pituusaste": 24.021714,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 395,
+      "nimi": "Laatuautot.fi Lohja",
+      "leveysaste": 60.280312,
+      "pituusaste": 24.157077,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 396,
+      "nimi": "Laatuautotalo",
+      "leveysaste": 60.479226,
+      "pituusaste": 22.181197,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 397,
+      "nimi": "Laatuautotalo",
+      "leveysaste": 60.479242,
+      "pituusaste": 22.181003,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 398,
+      "nimi": "Laurika Oy",
+      "leveysaste": 60.265679,
+      "pituusaste": 24.740927,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 399,
+      "nimi": "Lempäälän Autopalvelu",
+      "leveysaste": 61.310178,
+      "pituusaste": 23.754747,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 400,
+      "nimi": "Lempäälän Autopalvelu",
+      "leveysaste": 61.310192,
+      "pituusaste": 23.754763,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 401,
+      "nimi": "Leningrad Automobile Oy",
+      "leveysaste": 60.278494,
+      "pituusaste": 24.670641,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 402,
+      "nimi": "Lerbacka",
+      "leveysaste": 63.821556,
+      "pituusaste": 23.168029,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 403,
+      "nimi": "Levorannan Autoliike",
+      "leveysaste": 61.133495,
+      "pituusaste": 21.5421,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 404,
+      "nimi": "Levorannan Autoliike",
+      "leveysaste": 61.13353,
+      "pituusaste": 21.542147,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 405,
+      "nimi": "Lexus",
+      "leveysaste": 62.275284,
+      "pituusaste": 25.780511,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 406,
+      "nimi": "Lexus Espoo",
+      "leveysaste": 60.173842,
+      "pituusaste": 24.758476,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 407,
+      "nimi": "Lexus Kaivoksela",
+      "leveysaste": 60.261078,
+      "pituusaste": 24.875175,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 408,
+      "nimi": "Lexus Oulu",
+      "leveysaste": 65.037347,
+      "pituusaste": 25.440835,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 409,
+      "nimi": "Lexus Raisio",
+      "leveysaste": 60.494122,
+      "pituusaste": 22.206861,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 410,
+      "nimi": "Lexus Tampere",
+      "leveysaste": 61.484384,
+      "pituusaste": 23.764584,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 411,
+      "nimi": "Lexus Vaasa",
+      "leveysaste": 63.101254,
+      "pituusaste": 21.637052,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 412,
+      "nimi": "Linnan-Auto",
+      "leveysaste": 61.009117,
+      "pituusaste": 24.515718,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 413,
+      "nimi": "Lohjan Autokeskus Oy",
+      "leveysaste": 60.222673,
+      "pituusaste": 24.024739,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 414,
+      "nimi": "Lohjan Autokeskus Oy - Tammisaari",
+      "leveysaste": 60.00593,
+      "pituusaste": 23.531169,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 415,
+      "nimi": "Lohjan Autoparkki",
+      "leveysaste": 60.293706,
+      "pituusaste": 24.200054,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 416,
+      "nimi": "Lohjanportin Auto Muijala",
+      "leveysaste": 60.286562,
+      "pituusaste": 24.177321,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 417,
+      "nimi": "Lohjanportin Auto Tynninharju",
+      "leveysaste": 60.221623,
+      "pituusaste": 24.02563,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 418,
+      "nimi": "Loimaan laatuauto",
+      "leveysaste": 60.843679,
+      "pituusaste": 23.0212,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 419,
+      "nimi": "Loimaan laatuauto",
+      "leveysaste": 60.85063,
+      "pituusaste": 23.036332,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 420,
+      "nimi": "Loimikatsastus",
+      "leveysaste": 60.847145,
+      "pituusaste": 23.05724,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 421,
+      "nimi": "Luxury Collection Tampere",
+      "leveysaste": 61.368383,
+      "pituusaste": 23.801727,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 422,
+      "nimi": "LänsiAuto",
+      "leveysaste": 60.197915,
+      "pituusaste": 25.039975,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 423,
+      "nimi": "LänsiAuto",
+      "leveysaste": 60.197962,
+      "pituusaste": 25.04003,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 424,
+      "nimi": "LänsiAuto",
+      "leveysaste": 60.29462,
+      "pituusaste": 24.943876,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 425,
+      "nimi": "LänsiAuto",
+      "leveysaste": 60.479095,
+      "pituusaste": 22.187811,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 426,
+      "nimi": "LänsiAuto",
+      "leveysaste": 60.479123,
+      "pituusaste": 22.187846,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 427,
+      "nimi": "LänsiAuto",
+      "leveysaste": 60.619188,
+      "pituusaste": 24.815664,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 428,
+      "nimi": "LänsiAuto",
+      "leveysaste": 60.95294,
+      "pituusaste": 25.646973,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 429,
+      "nimi": "LänsiAuto Hämeenlinna",
+      "leveysaste": 61.000298,
+      "pituusaste": 24.437074,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 430,
+      "nimi": "LänsiAuto Lappeenranta",
+      "leveysaste": 61.040991,
+      "pituusaste": 28.193675,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 431,
+      "nimi": "LänsiAuto Lappeenranta",
+      "leveysaste": 61.041109,
+      "pituusaste": 28.193678,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 432,
+      "nimi": "LänsiAuto Seinäjoki",
+      "leveysaste": 62.801462,
+      "pituusaste": 22.844185,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 433,
+      "nimi": "LänsiAuto Seinäjoki",
+      "leveysaste": 62.801522,
+      "pituusaste": 22.844209,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 434,
+      "nimi": "LänsiAuto Suomenoja",
+      "leveysaste": 60.16131,
+      "pituusaste": 24.708243,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 435,
+      "nimi": "LänsiAuto Suomenoja",
+      "leveysaste": 60.161317,
+      "pituusaste": 24.708321,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 436,
+      "nimi": "Länsiauto",
+      "leveysaste": 60.15699,
+      "pituusaste": 24.692011,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 437,
+      "nimi": "Länsiauto",
+      "leveysaste": 60.15704,
+      "pituusaste": 24.691747,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 438,
+      "nimi": "Länsimoottori Oy",
+      "leveysaste": 60.714625,
+      "pituusaste": 22.600794,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 439,
+      "nimi": "MAN Center Espoo",
+      "leveysaste": 60.268071,
+      "pituusaste": 24.756284,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 440,
+      "nimi": "MB-Mobile",
+      "leveysaste": 63.829856,
+      "pituusaste": 23.150515,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 441,
+      "nimi": "MB-Mobile Vaihtoautot Espoo",
+      "leveysaste": 60.257824,
+      "pituusaste": 24.718929,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 442,
+      "nimi": "MS",
+      "leveysaste": 61.042035,
+      "pituusaste": 28.199698,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 443,
+      "nimi": "MSS-Auto",
+      "leveysaste": 61.040788,
+      "pituusaste": 28.198446,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 444,
+      "nimi": "Maakunnan Auto",
+      "leveysaste": 62.432668,
+      "pituusaste": 22.197625,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 445,
+      "nimi": "Maakunnan auto",
+      "leveysaste": 62.790514,
+      "pituusaste": 22.887953,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 446,
+      "nimi": "Maineauto",
+      "leveysaste": 61.009895,
+      "pituusaste": 25.680046,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 447,
+      "nimi": "Mariant",
+      "leveysaste": 62.556157,
+      "pituusaste": 24.104529,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 448,
+      "nimi": "Mariant",
+      "leveysaste": 62.556171,
+      "pituusaste": 24.104766,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 449,
+      "nimi": "Mariehamns Motorcompany",
+      "leveysaste": 60.111286,
+      "pituusaste": 19.929168,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 450,
+      "nimi": "Markku Mara",
+      "leveysaste": 63.55545,
+      "pituusaste": 29.080343,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 451,
+      "nimi": "Markku Mara",
+      "leveysaste": 63.555478,
+      "pituusaste": 29.080365,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 452,
+      "nimi": "Mega-Auto",
+      "leveysaste": 60.948171,
+      "pituusaste": 25.64897,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 453,
+      "nimi": "Mega-Auto",
+      "leveysaste": 60.948187,
+      "pituusaste": 25.648971,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 454,
+      "nimi": "Mekano",
+      "leveysaste": 64.130802,
+      "pituusaste": 28.385727,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 455,
+      "nimi": "Meri-Lapin auto",
+      "leveysaste": 65.843541,
+      "pituusaste": 24.170628,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 456,
+      "nimi": "MetroAuto Koskelo",
+      "leveysaste": 60.260072,
+      "pituusaste": 24.721594,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 457,
+      "nimi": "MetroAuto Koskelo",
+      "leveysaste": 60.260072,
+      "pituusaste": 24.721806,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 458,
+      "nimi": "Mikko MJP-Auto",
+      "leveysaste": 63.317846,
+      "pituusaste": 30.027864,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 459,
+      "nimi": "Mini-market",
+      "leveysaste": 64.223165,
+      "pituusaste": 27.70475,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 460,
+      "nimi": "Mini-market",
+      "leveysaste": 64.223179,
+      "pituusaste": 27.704693,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 461,
+      "nimi": "Miseva",
+      "leveysaste": 60.940051,
+      "pituusaste": 24.625586,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 462,
+      "nimi": "Miseva",
+      "leveysaste": 60.940125,
+      "pituusaste": 24.625472,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 463,
+      "nimi": "Mopoauto-OP",
+      "leveysaste": 60.643457,
+      "pituusaste": 24.850988,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 464,
+      "nimi": "Multitronic",
+      "leveysaste": 63.096501,
+      "pituusaste": 21.636296,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 465,
+      "nimi": "Myyntiautot",
+      "leveysaste": 60.474015,
+      "pituusaste": 22.284642,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 466,
+      "nimi": "Mäkelän Kone Oy",
+      "leveysaste": 60.458926,
+      "pituusaste": 25.117994,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 467,
+      "nimi": "Mäkelän Kone Oy",
+      "leveysaste": 60.458933,
+      "pituusaste": 25.117996,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 468,
+      "nimi": "Naantalin automyynti",
+      "leveysaste": 60.483489,
+      "pituusaste": 22.060688,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 469,
+      "nimi": "Nelipyörä",
+      "leveysaste": 60.60687,
+      "pituusaste": 24.807762,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 470,
+      "nimi": "Nelipyörä",
+      "leveysaste": 60.607306,
+      "pituusaste": 24.806368,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 471,
+      "nimi": "Nelipyörä Hämeenlinna",
+      "leveysaste": 61.015646,
+      "pituusaste": 24.417964,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 472,
+      "nimi": "Nelipyörä Kouvola",
+      "leveysaste": 60.865986,
+      "pituusaste": 26.662777,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 473,
+      "nimi": "Nelipyörä Kouvola",
+      "leveysaste": 60.866054,
+      "pituusaste": 26.662874,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 474,
+      "nimi": "Nelipyörä Oy - Kotka",
+      "leveysaste": 60.542701,
+      "pituusaste": 26.976902,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 475,
+      "nimi": "Nelostien Vaihtoautokeskus",
+      "leveysaste": 64.264288,
+      "pituusaste": 25.862319,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 476,
+      "nimi": "Niemelän Autotalo",
+      "leveysaste": 64.26446,
+      "pituusaste": 23.951921,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 477,
+      "nimi": "Niemi Bil",
+      "leveysaste": 60.286363,
+      "pituusaste": 25.01541,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 478,
+      "nimi": "Niemi-Korpi Oy",
+      "leveysaste": 60.495002,
+      "pituusaste": 22.254214,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 479,
+      "nimi": "Niinivaaran Auto",
+      "leveysaste": 62.618436,
+      "pituusaste": 29.738333,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 480,
+      "nimi": "Niskan Auto Oy",
+      "leveysaste": 61.227373,
+      "pituusaste": 28.839287,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 481,
+      "nimi": "Nissan Academy",
+      "leveysaste": 60.295319,
+      "pituusaste": 24.961757,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 482,
+      "nimi": "No-Pan Auto Oy - Kajaani",
+      "leveysaste": 64.217972,
+      "pituusaste": 27.715155,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 483,
+      "nimi": "No-Pan Auto, automyynti",
+      "leveysaste": 64.12891,
+      "pituusaste": 29.477432,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 484,
+      "nimi": "Nysted",
+      "leveysaste": 63.832614,
+      "pituusaste": 23.132973,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 485,
+      "nimi": "O.K. Auto",
+      "leveysaste": 60.865049,
+      "pituusaste": 26.660355,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 486,
+      "nimi": "O.K. Auto",
+      "leveysaste": 60.865115,
+      "pituusaste": 26.660435,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 487,
+      "nimi": "O.K. Auto Oy",
+      "leveysaste": 62.602629,
+      "pituusaste": 25.702207,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 488,
+      "nimi": "OK Auto Oy - Jämsä",
+      "leveysaste": 61.865629,
+      "pituusaste": 25.188342,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 489,
+      "nimi": "OK-Auto",
+      "leveysaste": 62.617341,
+      "pituusaste": 29.740752,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 490,
+      "nimi": "OK-Auto",
+      "leveysaste": 62.617379,
+      "pituusaste": 29.740688,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 491,
+      "nimi": "Old Cars World Oy",
+      "leveysaste": 60.21993,
+      "pituusaste": 24.936501,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 492,
+      "nimi": "Omax",
+      "leveysaste": 61.370066,
+      "pituusaste": 23.79846,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 493,
+      "nimi": "Optimal Car Center",
+      "leveysaste": 60.383456,
+      "pituusaste": 25.028483,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 494,
+      "nimi": "Ostetaan Autoja",
+      "leveysaste": 60.222834,
+      "pituusaste": 25.116413,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 495,
+      "nimi": "Ostetaan Autoja",
+      "leveysaste": 60.222858,
+      "pituusaste": 25.116361,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 496,
+      "nimi": "Oulun Autopörssi",
+      "leveysaste": 65.043994,
+      "pituusaste": 25.520651,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 497,
+      "nimi": "Oulun Autopörssi",
+      "leveysaste": 65.044046,
+      "pituusaste": 25.520482,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 498,
+      "nimi": "Oulun Rehtiauto Ky",
+      "leveysaste": 65.117205,
+      "pituusaste": 25.738835,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 499,
+      "nimi": "Ove's Garage",
+      "leveysaste": 60.457684,
+      "pituusaste": 22.270964,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 500,
+      "nimi": "Oy Autoliike Nystedt Bilaffär Ab",
+      "leveysaste": 63.678917,
+      "pituusaste": 22.732081,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 501,
+      "nimi": "Oy Porvoon Autotarvike Ab - Porvoo",
+      "leveysaste": 60.398366,
+      "pituusaste": 25.686389,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 502,
+      "nimi": "Oy Porvoon Autotarvike Ab - Porvoo",
+      "leveysaste": 60.398393,
+      "pituusaste": 25.686224,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 503,
+      "nimi": "PP-auto Lohja",
+      "leveysaste": 60.22204,
+      "pituusaste": 24.024018,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 504,
+      "nimi": "PP-auto Salo",
+      "leveysaste": 60.384996,
+      "pituusaste": 23.114855,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 505,
+      "nimi": "Parolan Rengas Ja Auto Oy",
+      "leveysaste": 61.06379,
+      "pituusaste": 24.344271,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 506,
+      "nimi": "Perhon SP-Auto",
+      "leveysaste": 63.195718,
+      "pituusaste": 24.479601,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 507,
+      "nimi": "Perhon SP-Auto",
+      "leveysaste": 63.195743,
+      "pituusaste": 24.479631,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 508,
+      "nimi": "Pexitrade Oy, Vannemaailma",
+      "leveysaste": 60.563309,
+      "pituusaste": 21.976877,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 509,
+      "nimi": "Pohjanmaan Autokeskus",
+      "leveysaste": 63.824557,
+      "pituusaste": 23.158971,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 510,
+      "nimi": "Pohjolan Vaihtoauto Oy",
+      "leveysaste": 64.067635,
+      "pituusaste": 24.544625,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 511,
+      "nimi": "Polestar",
+      "leveysaste": 60.200487,
+      "pituusaste": 25.039521,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 512,
+      "nimi": "Porkkalan Auto Oy",
+      "leveysaste": 60.270211,
+      "pituusaste": 24.876037,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 513,
+      "nimi": "Porsche Center",
+      "leveysaste": 60.165226,
+      "pituusaste": 24.727903,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 514,
+      "nimi": "Porsche Center Helsinki",
+      "leveysaste": 60.227216,
+      "pituusaste": 24.999158,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 515,
+      "nimi": "Porsche Center Helsinki",
+      "leveysaste": 60.227222,
+      "pituusaste": 24.999125,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 516,
+      "nimi": "Porsche Center Turku",
+      "leveysaste": 60.474775,
+      "pituusaste": 22.259507,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 517,
+      "nimi": "Porsche Store Oulu",
+      "leveysaste": 64.95555,
+      "pituusaste": 25.519593,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 518,
+      "nimi": "Porvoon Autotarvike",
+      "leveysaste": 60.458853,
+      "pituusaste": 26.206741,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 519,
+      "nimi": "Premium Cars & Trucks",
+      "leveysaste": 60.293986,
+      "pituusaste": 24.988359,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 520,
+      "nimi": "Prestige Car Center",
+      "leveysaste": 63.109269,
+      "pituusaste": 21.658589,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 521,
+      "nimi": "Pörhö",
+      "leveysaste": 64.996679,
+      "pituusaste": 25.459025,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 522,
+      "nimi": "Pörhö",
+      "leveysaste": 64.996772,
+      "pituusaste": 25.45718,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 523,
+      "nimi": "Pörhö",
+      "leveysaste": 64.996795,
+      "pituusaste": 25.457227,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 524,
+      "nimi": "Pörhön Autoliike",
+      "leveysaste": 63.676941,
+      "pituusaste": 22.738403,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 525,
+      "nimi": "Pörhön Autoliike Oy",
+      "leveysaste": 63.829203,
+      "pituusaste": 23.116119,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 526,
+      "nimi": "Pörhön autoliike",
+      "leveysaste": 65.797358,
+      "pituusaste": 24.511767,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 527,
+      "nimi": "Pörhön autoliike",
+      "leveysaste": 65.797418,
+      "pituusaste": 24.511627,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 528,
+      "nimi": "Pörhön vaihtoautokeskus",
+      "leveysaste": 64.997527,
+      "pituusaste": 25.457031,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 529,
+      "nimi": "R-J Auto",
+      "leveysaste": 63.079897,
+      "pituusaste": 21.662498,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 530,
+      "nimi": "R-J Auto",
+      "leveysaste": 63.079915,
+      "pituusaste": 21.662399,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 531,
+      "nimi": "R. Johnson",
+      "leveysaste": 63.818152,
+      "pituusaste": 23.175014,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 532,
+      "nimi": "R.M.Heino oy",
+      "leveysaste": 60.3069,
+      "pituusaste": 24.73642,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 533,
+      "nimi": "R.M.Heino oy",
+      "leveysaste": 60.306934,
+      "pituusaste": 24.73643,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 534,
+      "nimi": "RIDEOUT Oy",
+      "leveysaste": 60.28273,
+      "pituusaste": 24.821902,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 535,
+      "nimi": "Rami's Auto",
+      "leveysaste": 60.268299,
+      "pituusaste": 24.757689,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 536,
+      "nimi": "Ranjia Oy",
+      "leveysaste": 61.444505,
+      "pituusaste": 21.741558,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 537,
+      "nimi": "Ranjia Oy",
+      "leveysaste": 61.444538,
+      "pituusaste": 21.741564,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 538,
+      "nimi": "Rannikon auto ja varaosa",
+      "leveysaste": 64.46887,
+      "pituusaste": 24.280072,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 539,
+      "nimi": "Rautalammin Kone",
+      "leveysaste": 62.635359,
+      "pituusaste": 27.096009,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 540,
+      "nimi": "Rengaskeiju",
+      "leveysaste": 60.384408,
+      "pituusaste": 25.027537,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 541,
+      "nimi": "Rengasmäki Oy, Rengasmarket Masku",
+      "leveysaste": 60.558707,
+      "pituusaste": 22.105152,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 542,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 60.208316,
+      "pituusaste": 24.754398,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 543,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 60.276028,
+      "pituusaste": 24.808003,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 544,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 60.48517,
+      "pituusaste": 22.324437,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 545,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 61.499765,
+      "pituusaste": 21.800614,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 546,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 61.499767,
+      "pituusaste": 21.800696,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 547,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 61.669278,
+      "pituusaste": 27.231472,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 548,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 63.101616,
+      "pituusaste": 21.637076,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 549,
+      "nimi": "Rinta-Joupin Autoliike",
+      "leveysaste": 64.066411,
+      "pituusaste": 24.55192,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 550,
+      "nimi": "Rinta-Joupin Autoliike Espoo (Koskelo)",
+      "leveysaste": 60.261546,
+      "pituusaste": 24.72472,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 551,
+      "nimi": "Rinta-Joupin Autoliike Oy",
+      "leveysaste": 61.498823,
+      "pituusaste": 21.800552,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 552,
+      "nimi": "Rinta-Joupin Autoliike Oy",
+      "leveysaste": 61.498823,
+      "pituusaste": 21.8006,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 553,
+      "nimi": "Rinta-Joupin Autoliike Oy",
+      "leveysaste": 62.624986,
+      "pituusaste": 29.77562,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 554,
+      "nimi": "Rinta-Joupin Autoliike Oy",
+      "leveysaste": 62.625014,
+      "pituusaste": 29.775625,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 555,
+      "nimi": "Rinta-Joupin Autoliike Oy - Rauma",
+      "leveysaste": 61.124424,
+      "pituusaste": 21.50386,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 556,
+      "nimi": "Rinta-Joupin Autoliike Salo",
+      "leveysaste": 60.393895,
+      "pituusaste": 23.088169,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 557,
+      "nimi": "Rinta-Joupin Autoliike Tervajoki",
+      "leveysaste": 63.006706,
+      "pituusaste": 22.162498,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 558,
+      "nimi": "Rinta-Joupin autoliike",
+      "leveysaste": 61.124363,
+      "pituusaste": 21.503559,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 559,
+      "nimi": "Rinta-Joupin autoliike",
+      "leveysaste": 61.124379,
+      "pituusaste": 21.503562,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 560,
+      "nimi": "Rinta-Jouppi",
+      "leveysaste": 60.183547,
+      "pituusaste": 24.943815,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 561,
+      "nimi": "Rinta-Jouppi",
+      "leveysaste": 60.874619,
+      "pituusaste": 26.661841,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 562,
+      "nimi": "Rinta-Jouppi",
+      "leveysaste": 62.254995,
+      "pituusaste": 25.766711,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 563,
+      "nimi": "Rinta-Jouppi",
+      "leveysaste": 62.255014,
+      "pituusaste": 25.766742,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 564,
+      "nimi": "Rinta-Jouppi",
+      "leveysaste": 63.817286,
+      "pituusaste": 23.177211,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 565,
+      "nimi": "Rinta-Jouppi Bike, Helsinki",
+      "leveysaste": 60.284151,
+      "pituusaste": 25.025296,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 566,
+      "nimi": "Rinta-Jouppi Bike, Tampere",
+      "leveysaste": 61.514974,
+      "pituusaste": 23.67407,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 567,
+      "nimi": "Rinta-Jouppi Caravan, Seinäjoki, Herralankatu",
+      "leveysaste": 62.791856,
+      "pituusaste": 22.806652,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 568,
+      "nimi": "SAKA",
+      "leveysaste": 60.28821,
+      "pituusaste": 24.993694,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 569,
+      "nimi": "SAKA",
+      "leveysaste": 60.388957,
+      "pituusaste": 25.606582,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 570,
+      "nimi": "SAKA",
+      "leveysaste": 60.499028,
+      "pituusaste": 22.246575,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 571,
+      "nimi": "SAKA Espoo",
+      "leveysaste": 60.257239,
+      "pituusaste": 24.718074,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 572,
+      "nimi": "SAKA Finland Oy - Hyvinkää",
+      "leveysaste": 60.611591,
+      "pituusaste": 24.811178,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 573,
+      "nimi": "SAKA Finland Oy - Hyvinkää",
+      "leveysaste": 60.611666,
+      "pituusaste": 24.811369,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 574,
+      "nimi": "SAKA Jyväskylä",
+      "leveysaste": 62.254764,
+      "pituusaste": 25.774492,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 575,
+      "nimi": "SAKA Kirkkonummi",
+      "leveysaste": 60.118495,
+      "pituusaste": 24.434403,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 576,
+      "nimi": "SAKA Kirkkonummi",
+      "leveysaste": 60.1185,
+      "pituusaste": 24.434242,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 577,
+      "nimi": "SAKA Vantaa Varisto",
+      "leveysaste": 60.274894,
+      "pituusaste": 24.812347,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 578,
+      "nimi": "SK-Auto Ay",
+      "leveysaste": 60.384779,
+      "pituusaste": 23.112846,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 579,
+      "nimi": "STTT Autotalot",
+      "leveysaste": 60.999837,
+      "pituusaste": 24.438999,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 580,
+      "nimi": "Saariauto",
+      "leveysaste": 62.696724,
+      "pituusaste": 25.293449,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 581,
+      "nimi": "Saimaan Auto-Arita",
+      "leveysaste": 61.172934,
+      "pituusaste": 28.756956,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 582,
+      "nimi": "Saimaan Auto-Arita Oy - Lappeenranta",
+      "leveysaste": 61.044116,
+      "pituusaste": 28.198628,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 583,
+      "nimi": "Saka",
+      "leveysaste": 60.204394,
+      "pituusaste": 25.048907,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 584,
+      "nimi": "Saka",
+      "leveysaste": 62.798418,
+      "pituusaste": 22.845222,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 585,
+      "nimi": "Saka",
+      "leveysaste": 63.10976,
+      "pituusaste": 21.649662,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 586,
+      "nimi": "Saka",
+      "leveysaste": 64.952845,
+      "pituusaste": 25.522748,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 587,
+      "nimi": "Saka",
+      "leveysaste": 64.952867,
+      "pituusaste": 25.522972,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 588,
+      "nimi": "Saka Nummela",
+      "leveysaste": 60.353932,
+      "pituusaste": 24.326995,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 589,
+      "nimi": "Saka Pro Espoo",
+      "leveysaste": 60.268929,
+      "pituusaste": 24.754883,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 590,
+      "nimi": "Salomaan auto- ja osamyynti",
+      "leveysaste": 63.080879,
+      "pituusaste": 23.051814,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 591,
+      "nimi": "Satakunnan Autotalo Oy",
+      "leveysaste": 61.481797,
+      "pituusaste": 21.824869,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 592,
+      "nimi": "Satakunnan Autotalo Oy",
+      "leveysaste": 61.481813,
+      "pituusaste": 21.824851,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 593,
+      "nimi": "Savilahden Auto Oy",
+      "leveysaste": 61.680544,
+      "pituusaste": 27.225365,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 594,
+      "nimi": "Savon Autokeskus",
+      "leveysaste": 61.67668,
+      "pituusaste": 27.245822,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 595,
+      "nimi": "Seat Center Airport",
+      "leveysaste": 60.296993,
+      "pituusaste": 24.980734,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 596,
+      "nimi": "Secto",
+      "leveysaste": 60.162871,
+      "pituusaste": 24.71916,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 597,
+      "nimi": "Seinäjoen Auto-Kaari",
+      "leveysaste": 62.808887,
+      "pituusaste": 22.882007,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 598,
+      "nimi": "Seinäjoen autokatsastus",
+      "leveysaste": 62.788802,
+      "pituusaste": 22.863804,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 599,
+      "nimi": "Siilin Automyynti",
+      "leveysaste": 63.083562,
+      "pituusaste": 27.697542,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 600,
+      "nimi": "Siilin Caravan",
+      "leveysaste": 63.045151,
+      "pituusaste": 27.70587,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 601,
+      "nimi": "Siilin Caravan",
+      "leveysaste": 63.045163,
+      "pituusaste": 27.705779,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 602,
+      "nimi": "Southwest Trade Oy",
+      "leveysaste": 61.01403,
+      "pituusaste": 24.404776,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 603,
+      "nimi": "Special Mobil",
+      "leveysaste": 60.006036,
+      "pituusaste": 23.537127,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 604,
+      "nimi": "Special Mobil",
+      "leveysaste": 60.006047,
+      "pituusaste": 23.536992,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 605,
+      "nimi": "Sports Car Center",
+      "leveysaste": 61.368585,
+      "pituusaste": 23.80362,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 606,
+      "nimi": "Sports Car Center Espoo",
+      "leveysaste": 60.180546,
+      "pituusaste": 24.760663,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 607,
+      "nimi": "Sports Car Center Espoo",
+      "leveysaste": 60.180573,
+      "pituusaste": 24.760663,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 608,
+      "nimi": "Star-Auto",
+      "leveysaste": 62.983499,
+      "pituusaste": 22.322721,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 609,
+      "nimi": "Sulan Rengas",
+      "leveysaste": 60.383334,
+      "pituusaste": 25.030585,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 610,
+      "nimi": "Suzuauto",
+      "leveysaste": 64.684812,
+      "pituusaste": 24.512641,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 611,
+      "nimi": "TKC-styling",
+      "leveysaste": 60.397518,
+      "pituusaste": 25.108634,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 612,
+      "nimi": "TM Korjausratkaisut",
+      "leveysaste": 60.215652,
+      "pituusaste": 24.86948,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 613,
+      "nimi": "Takalon automyynti",
+      "leveysaste": 64.68795,
+      "pituusaste": 24.543972,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 614,
+      "nimi": "Tampereen ajopelit",
+      "leveysaste": 61.553742,
+      "pituusaste": 23.569782,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 615,
+      "nimi": "Tasoautot Oy",
+      "leveysaste": 60.193456,
+      "pituusaste": 25.03848,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 616,
+      "nimi": "Tervajoen Ässäauto",
+      "leveysaste": 63.005273,
+      "pituusaste": 22.154477,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 617,
+      "nimi": "Tesla Helsinki",
+      "leveysaste": 60.270311,
+      "pituusaste": 24.877969,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 618,
+      "nimi": "Tesla Oulu",
+      "leveysaste": 64.991014,
+      "pituusaste": 25.463947,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 619,
+      "nimi": "Tesla Tampere",
+      "leveysaste": 61.369201,
+      "pituusaste": 23.79941,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 620,
+      "nimi": "Thunder Wheels",
+      "leveysaste": 60.489156,
+      "pituusaste": 25.87816,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 621,
+      "nimi": "Toivonen Ky Vaihtoautoterminaali",
+      "leveysaste": 65.040057,
+      "pituusaste": 25.510088,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 622,
+      "nimi": "Toivonen Ky Vaihtoautoterminaali",
+      "leveysaste": 65.040092,
+      "pituusaste": 25.510148,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 623,
+      "nimi": "Tomin Auto",
+      "leveysaste": 62.619659,
+      "pituusaste": 29.761056,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 624,
+      "nimi": "Toyota",
+      "leveysaste": 60.210705,
+      "pituusaste": 25.087649,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 625,
+      "nimi": "Toyota",
+      "leveysaste": 60.210728,
+      "pituusaste": 25.087654,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 626,
+      "nimi": "Toyota",
+      "leveysaste": 60.625632,
+      "pituusaste": 24.807629,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 627,
+      "nimi": "Toyota",
+      "leveysaste": 60.928705,
+      "pituusaste": 25.63889,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 628,
+      "nimi": "Toyota Airport",
+      "leveysaste": 60.29607,
+      "pituusaste": 24.988429,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 629,
+      "nimi": "Toyota Auto-Center Oy",
+      "leveysaste": 61.481389,
+      "pituusaste": 21.822445,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 630,
+      "nimi": "Toyota Auto-Center Oy",
+      "leveysaste": 61.481442,
+      "pituusaste": 21.82242,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 631,
+      "nimi": "Toyota Autoliike Nystedt Oy - Ylivieska",
+      "leveysaste": 64.065711,
+      "pituusaste": 24.551731,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 632,
+      "nimi": "Toyota Espoo",
+      "leveysaste": 60.173922,
+      "pituusaste": 24.75871,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 633,
+      "nimi": "Toyota Järvenpään Auto-Arita Oy",
+      "leveysaste": 60.47629,
+      "pituusaste": 25.108396,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 634,
+      "nimi": "Toyota Kaivoksela",
+      "leveysaste": 60.260787,
+      "pituusaste": 24.874751,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 635,
+      "nimi": "Toyota Material Handling Finland",
+      "leveysaste": 60.353619,
+      "pituusaste": 25.084036,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 636,
+      "nimi": "Toyota OK Auto Oy - Iisalmi",
+      "leveysaste": 63.551698,
+      "pituusaste": 27.203812,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 637,
+      "nimi": "Toyota Salon Passeliauto Oy - Salo",
+      "leveysaste": 60.383414,
+      "pituusaste": 23.109791,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 638,
+      "nimi": "Toyota Tammer-Auto - Tampere",
+      "leveysaste": 61.484756,
+      "pituusaste": 23.764455,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 639,
+      "nimi": "Toyota Tammer-Auto Oy",
+      "leveysaste": 61.484429,
+      "pituusaste": 23.76452,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 640,
+      "nimi": "Toyota Tammer-Auto Oy",
+      "leveysaste": 61.484469,
+      "pituusaste": 23.764501,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 641,
+      "nimi": "Toyota Varsinais-Suomen Auto-Center - Forssa",
+      "leveysaste": 60.825883,
+      "pituusaste": 23.622498,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 642,
+      "nimi": "Toyota Varsinais-Suomen Auto-Center Oy - Loimaa",
+      "leveysaste": 60.842501,
+      "pituusaste": 23.025284,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 643,
+      "nimi": "Toyota Varsinais-Suomen Finanssi-Center Oy",
+      "leveysaste": 60.493674,
+      "pituusaste": 22.207737,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 644,
+      "nimi": "Trade Factory Oy",
+      "leveysaste": 62.592143,
+      "pituusaste": 23.600045,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 645,
+      "nimi": "Traktoauto Oy",
+      "leveysaste": 60.386939,
+      "pituusaste": 23.105551,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 646,
+      "nimi": "TsushoAUTO",
+      "leveysaste": 60.160421,
+      "pituusaste": 24.700213,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 647,
+      "nimi": "TsushoAUTO",
+      "leveysaste": 60.160437,
+      "pituusaste": 24.700277,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 648,
+      "nimi": "Turun Auto-Center",
+      "leveysaste": 60.495783,
+      "pituusaste": 22.22289,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 649,
+      "nimi": "Turun Auto-Center",
+      "leveysaste": 60.495828,
+      "pituusaste": 22.222871,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 650,
+      "nimi": "Tuusulan Premiumcar",
+      "leveysaste": 60.383916,
+      "pituusaste": 25.02642,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 651,
+      "nimi": "Tuusulan Ykkösauto Oy",
+      "leveysaste": 60.384833,
+      "pituusaste": 25.028252,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 652,
+      "nimi": "Tuusulan huolto-osa",
+      "leveysaste": 60.386188,
+      "pituusaste": 25.030031,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 653,
+      "nimi": "VW Hot Cars",
+      "leveysaste": 63.094141,
+      "pituusaste": 21.641419,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 654,
+      "nimi": "Vaihto-Autosalpa",
+      "leveysaste": 60.981557,
+      "pituusaste": 24.469374,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 655,
+      "nimi": "Vaihtoauto M&P",
+      "leveysaste": 61.416802,
+      "pituusaste": 23.756735,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 656,
+      "nimi": "Vaihtoautomaa",
+      "leveysaste": 60.276894,
+      "pituusaste": 24.809438,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 657,
+      "nimi": "Vaihtoautomaa",
+      "leveysaste": 62.14627,
+      "pituusaste": 25.675015,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 658,
+      "nimi": "Vaihtokaara",
+      "leveysaste": 60.384819,
+      "pituusaste": 25.026181,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 659,
+      "nimi": "Vaihtokaara",
+      "leveysaste": 62.477688,
+      "pituusaste": 21.383916,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 660,
+      "nimi": "Vaihtoplus Vantaa",
+      "leveysaste": 60.292338,
+      "pituusaste": 24.984529,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 661,
+      "nimi": "Valta-Auto",
+      "leveysaste": 60.492558,
+      "pituusaste": 22.194516,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 662,
+      "nimi": "Varsinais-Suomen Auto-Center",
+      "leveysaste": 60.494006,
+      "pituusaste": 22.207105,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 663,
+      "nimi": "Varsinais-Suomen Auto-Center",
+      "leveysaste": 60.494019,
+      "pituusaste": 22.207081,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 664,
+      "nimi": "Vauhti-Vaunu",
+      "leveysaste": 61.683215,
+      "pituusaste": 27.23763,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 665,
+      "nimi": "Vaunula",
+      "leveysaste": 60.243648,
+      "pituusaste": 25.045002,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 666,
+      "nimi": "Vaunula",
+      "leveysaste": 60.243693,
+      "pituusaste": 25.04494,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 667,
+      "nimi": "Vaunula Hämeenlinna",
+      "leveysaste": 61.001079,
+      "pituusaste": 24.437724,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 668,
+      "nimi": "Veho",
+      "leveysaste": 60.205061,
+      "pituusaste": 25.046916,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 669,
+      "nimi": "Veho",
+      "leveysaste": 60.205065,
+      "pituusaste": 25.046924,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 670,
+      "nimi": "Veho",
+      "leveysaste": 60.298095,
+      "pituusaste": 24.989965,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 671,
+      "nimi": "Veho",
+      "leveysaste": 60.491736,
+      "pituusaste": 22.18787,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 672,
+      "nimi": "Veho",
+      "leveysaste": 60.491762,
+      "pituusaste": 22.187922,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 673,
+      "nimi": "Veho",
+      "leveysaste": 61.519106,
+      "pituusaste": 23.6553,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 674,
+      "nimi": "Veho",
+      "leveysaste": 64.987975,
+      "pituusaste": 25.43374,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 675,
+      "nimi": "Veho",
+      "leveysaste": 64.987994,
+      "pituusaste": 25.433666,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 676,
+      "nimi": "Veho Hatanpää",
+      "leveysaste": 61.477496,
+      "pituusaste": 23.76712,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 677,
+      "nimi": "Veho Jyväskylä",
+      "leveysaste": 62.29338,
+      "pituusaste": 25.810898,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 678,
+      "nimi": "Veho Olari",
+      "leveysaste": 60.168259,
+      "pituusaste": 24.74412,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 679,
+      "nimi": "Veho Oulu",
+      "leveysaste": 64.990809,
+      "pituusaste": 25.463289,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 680,
+      "nimi": "Veho Oulu",
+      "leveysaste": 64.990825,
+      "pituusaste": 25.463298,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 681,
+      "nimi": "Veho trucks",
+      "leveysaste": 60.891247,
+      "pituusaste": 26.70177,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 682,
+      "nimi": "Vesa-Matti",
+      "leveysaste": 61.481103,
+      "pituusaste": 21.831806,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 683,
+      "nimi": "Vesannon auto- ja konetarvike",
+      "leveysaste": 62.929828,
+      "pituusaste": 26.40631,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 684,
+      "nimi": "Vesijärven Auto",
+      "leveysaste": 60.932458,
+      "pituusaste": 25.631382,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 685,
+      "nimi": "Vesijärven Auto",
+      "leveysaste": 60.932501,
+      "pituusaste": 25.631364,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 686,
+      "nimi": "Veskun autopiha",
+      "leveysaste": 63.101786,
+      "pituusaste": 27.637511,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 687,
+      "nimi": "Vianor",
+      "leveysaste": 63.100898,
+      "pituusaste": 21.636007,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 688,
+      "nimi": "Vianor",
+      "leveysaste": 64.96427,
+      "pituusaste": 25.508639,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 689,
+      "nimi": "Vianor",
+      "leveysaste": 64.964271,
+      "pituusaste": 25.508832,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 690,
+      "nimi": "Vianor Hyrylä",
+      "leveysaste": 60.37896,
+      "pituusaste": 25.051746,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 691,
+      "nimi": "Vianor Imatra",
+      "leveysaste": 61.183317,
+      "pituusaste": 28.743263,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 692,
+      "nimi": "Vihdin Autotalo Oy",
+      "leveysaste": 60.350465,
+      "pituusaste": 24.316346,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 693,
+      "nimi": "Vihdin Autotalo Oy",
+      "leveysaste": 60.354945,
+      "pituusaste": 24.32619,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 694,
+      "nimi": "Villen Automyynti",
+      "leveysaste": 60.270467,
+      "pituusaste": 24.875997,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 695,
+      "nimi": "Volkswagen Center Airport",
+      "leveysaste": 60.296641,
+      "pituusaste": 24.983175,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 696,
+      "nimi": "Volkswagen Center Espoo",
+      "leveysaste": 60.164749,
+      "pituusaste": 24.726619,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 697,
+      "nimi": "Volkswagen Center Espoo",
+      "leveysaste": 60.164778,
+      "pituusaste": 24.726742,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 698,
+      "nimi": "Volkswagen Center Helsinki",
+      "leveysaste": 60.203343,
+      "pituusaste": 25.043595,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 699,
+      "nimi": "Volkswagen Center Joensuu",
+      "leveysaste": 62.619945,
+      "pituusaste": 29.77682,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 700,
+      "nimi": "Volvo Truck Center",
+      "leveysaste": 61.458011,
+      "pituusaste": 23.72627,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 701,
+      "nimi": "Vuohtoniemi",
+      "leveysaste": 60.209215,
+      "pituusaste": 24.632921,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 702,
+      "nimi": "Vuoksen Kumi Imatra",
+      "leveysaste": 61.173245,
+      "pituusaste": 28.736838,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 703,
+      "nimi": "Vuoksen Kumi Imatra",
+      "leveysaste": 61.173299,
+      "pituusaste": 28.73683,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 704,
+      "nimi": "Vuoksen Kumi Vuoksenniska",
+      "leveysaste": 61.223233,
+      "pituusaste": 28.837556,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 705,
+      "nimi": "Vuorelan Automyynti",
+      "leveysaste": 62.972775,
+      "pituusaste": 27.710796,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 706,
+      "nimi": "Wandamotor",
+      "leveysaste": 63.934635,
+      "pituusaste": 24.957092,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 707,
+      "nimi": "Wetteri",
+      "leveysaste": 61.132988,
+      "pituusaste": 21.530308,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 708,
+      "nimi": "Wetteri",
+      "leveysaste": 64.955303,
+      "pituusaste": 25.519819,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 709,
+      "nimi": "Wetteri",
+      "leveysaste": 64.985619,
+      "pituusaste": 25.468079,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 710,
+      "nimi": "Wetteri",
+      "leveysaste": 64.986437,
+      "pituusaste": 25.47073,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 711,
+      "nimi": "Wetteri",
+      "leveysaste": 64.986463,
+      "pituusaste": 25.470807,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 712,
+      "nimi": "Wetteri Joensuu",
+      "leveysaste": 62.622179,
+      "pituusaste": 29.738579,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 713,
+      "nimi": "Wetteri Joensuu",
+      "leveysaste": 62.622224,
+      "pituusaste": 29.7386,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 714,
+      "nimi": "Wetteri Kajaani",
+      "leveysaste": 64.221847,
+      "pituusaste": 27.682932,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 715,
+      "nimi": "Wetteri Kajaani",
+      "leveysaste": 64.221893,
+      "pituusaste": 27.683009,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 716,
+      "nimi": "Work Cars",
+      "leveysaste": 61.531444,
+      "pituusaste": 23.634567,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 717,
+      "nimi": "YR-auto",
+      "leveysaste": 60.382545,
+      "pituusaste": 25.026532,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 718,
+      "nimi": "Ysitien Auto",
+      "leveysaste": 61.686801,
+      "pituusaste": 24.371995,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 719,
+      "nimi": "Zebra bil.ax",
+      "leveysaste": 60.117825,
+      "pituusaste": 19.936017,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 720,
+      "nimi": "individual Cars",
+      "leveysaste": 65.043552,
+      "pituusaste": 25.549775,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 721,
+      "nimi": "kamux",
+      "leveysaste": 62.292608,
+      "pituusaste": 25.811977,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 722,
+      "nimi": "renkaita ja vaihtoautoja",
+      "leveysaste": 60.219704,
+      "pituusaste": 25.105724,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 723,
+      "nimi": "suursavonauto.fi",
+      "leveysaste": 60.27825,
+      "pituusaste": 24.813883,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    },
+    {
+      "id": 724,
+      "nimi": "Öhmans Bil Ab - Mariehamn",
+      "leveysaste": 60.113431,
+      "pituusaste": 19.911971,
+      "osm_avain": "shop",
+      "osm_arvo": "car",
+      "osm_luokka": "shop=car"
+    }
+  ],
+  "meta": {
+    "title": "Autoliikkeet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Autoliikkeet Suomessa — 724 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=car`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 64. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 724 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Autoliikkeet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Autoliikkeet – Suomi (OpenStreetMap) — 724 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 724 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

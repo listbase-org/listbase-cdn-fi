@@ -1,0 +1,254 @@
+{
+  "id": "fi-north-ostrobothnia-region-lentoasemat",
+  "name": "Finland / Pohjois-Pohjanmaa — Airports (lentoasemat)",
+  "title": "Finland / Pohjois-Pohjanmaa — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Pohjois-Pohjanmaa (Northern Ostrobothnia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Northern Ostrobothnia'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFAH",
+      "iata": "",
+      "name": "Ahmosuo Airport",
+      "city": "Oulu",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 95,
+      "latitude": 64.8953,
+      "longitude": 25.7522,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFHJ",
+      "iata": "",
+      "name": "Haapajarvi Airport",
+      "city": "Haapajarvi",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 351,
+      "latitude": 63.7122,
+      "longitude": 25.395,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFHL",
+      "iata": "",
+      "name": "Hailuoto Airport",
+      "city": "",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 7,
+      "latitude": 64.9669,
+      "longitude": 24.7044,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFHP",
+      "iata": "",
+      "name": "Haapavesi Airport",
+      "city": "Haapavesi",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 315,
+      "latitude": 64.1131,
+      "longitude": 25.5042,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKO",
+      "iata": "",
+      "name": "Kalajoki Airport",
+      "city": "",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 43,
+      "latitude": 64.2286,
+      "longitude": 23.8264,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKR",
+      "iata": "",
+      "name": "Karsamaki Airport",
+      "city": "Karsamaki",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 348,
+      "latitude": 63.9892,
+      "longitude": 25.7436,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFKS",
+      "iata": "KAO",
+      "name": "Kuusamo Airport",
+      "city": "Kuusamo",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 866,
+      "latitude": 65.9876,
+      "longitude": 29.2394,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFOU",
+      "iata": "OUL",
+      "name": "Oulu Airport",
+      "city": "Oulu / Oulunsalo",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 47,
+      "latitude": 64.9301,
+      "longitude": 25.3546,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPU",
+      "iata": "",
+      "name": "Pudasjarvi Airport",
+      "city": "",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 397,
+      "latitude": 65.4022,
+      "longitude": 26.9469,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPY",
+      "iata": "",
+      "name": "Pyhasalmi Airport",
+      "city": "Pyhajarvi",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 528,
+      "latitude": 63.7319,
+      "longitude": 25.9263,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFRH",
+      "iata": "",
+      "name": "Raahe Pattijoki Airport",
+      "city": "",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 118,
+      "latitude": 64.6881,
+      "longitude": 24.6958,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFYL",
+      "iata": "YLI",
+      "name": "Ylivieska Airport",
+      "city": "",
+      "subdivision": "Northern Ostrobothnia",
+      "subdivision_name_fi": "Pohjois-Pohjanmaa",
+      "country": "FI",
+      "elevation_ft": 252,
+      "latitude": 64.0605,
+      "longitude": 24.716,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Pohjois-Pohjanmaa — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Pohjois-Pohjanmaa (Northern Ostrobothnia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Northern Ostrobothnia'. Sisältää 12 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Pohjois-Pohjanmaa — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Pohjois-Pohjanmaa — Airports (lentoasemat) — 12 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 12 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

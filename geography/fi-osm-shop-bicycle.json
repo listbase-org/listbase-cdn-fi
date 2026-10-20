@@ -1,0 +1,2599 @@
+{
+  "id": "fi-osm-shop-bicycle",
+  "name": "Polkupyöräliikkeet – Suomi (OpenStreetMap)",
+  "title": "Polkupyöräliikkeet – Suomi (OpenStreetMap)",
+  "description": "Polkupyöräliikkeet Suomessa — 282 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=bicycle`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 282,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Actionfactory",
+      "leveysaste": 60.247707,
+      "pituusaste": 24.952473,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 2,
+      "nimi": "Active Bike",
+      "leveysaste": 61.501963,
+      "pituusaste": 23.847261,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 3,
+      "nimi": "Ajopyörä",
+      "leveysaste": 60.473441,
+      "pituusaste": 22.228363,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 4,
+      "nimi": "Alavuden Pienkonekorjaus P. Setälä",
+      "leveysaste": 62.597819,
+      "pituusaste": 23.608097,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 5,
+      "nimi": "Ara's Bike & Parts",
+      "leveysaste": 59.986427,
+      "pituusaste": 23.481173,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 6,
+      "nimi": "Aseman Pyörähuolto",
+      "leveysaste": 61.491854,
+      "pituusaste": 24.007236,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 7,
+      "nimi": "Asikkalan 4H:n pyörähuolto",
+      "leveysaste": 61.172702,
+      "pituusaste": 25.544669,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 8,
+      "nimi": "Auto- ja Pyöräpalvelu Tapani ja Sirkka Rintala Ky",
+      "leveysaste": 62.563655,
+      "pituusaste": 23.062344,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 9,
+      "nimi": "Bicicletta Lindberg",
+      "leveysaste": 60.395236,
+      "pituusaste": 25.663655,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 10,
+      "nimi": "Bicyclean Helsinki",
+      "leveysaste": 60.167876,
+      "pituusaste": 24.966786,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 11,
+      "nimi": "Bike",
+      "leveysaste": 60.110831,
+      "pituusaste": 19.929667,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 12,
+      "nimi": "Bike Planet Friisilä",
+      "leveysaste": 60.163652,
+      "pituusaste": 24.721949,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 13,
+      "nimi": "Bike Planet Vantaa",
+      "leveysaste": 60.281124,
+      "pituusaste": 24.826188,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 14,
+      "nimi": "Bike Shop Hotelli Iso-Syöte",
+      "leveysaste": 65.624399,
+      "pituusaste": 27.608994,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 15,
+      "nimi": "Bike company",
+      "leveysaste": 60.203651,
+      "pituusaste": 24.866463,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 16,
+      "nimi": "Bikes & Stuff",
+      "leveysaste": 60.248004,
+      "pituusaste": 25.010076,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 17,
+      "nimi": "Bikeservice",
+      "leveysaste": 60.384509,
+      "pituusaste": 23.105104,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 18,
+      "nimi": "Bikestation.fi",
+      "leveysaste": 60.920372,
+      "pituusaste": 23.3651,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 19,
+      "nimi": "Bikeworx",
+      "leveysaste": 60.175952,
+      "pituusaste": 24.833252,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 20,
+      "nimi": "Blue Bike",
+      "leveysaste": 60.157209,
+      "pituusaste": 24.732268,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 21,
+      "nimi": "Canyon Finland",
+      "leveysaste": 60.425535,
+      "pituusaste": 22.306224,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 22,
+      "nimi": "Carfield",
+      "leveysaste": 60.453628,
+      "pituusaste": 22.256946,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 23,
+      "nimi": "Chebici",
+      "leveysaste": 60.474047,
+      "pituusaste": 25.112906,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 24,
+      "nimi": "City Cykel",
+      "leveysaste": 60.102609,
+      "pituusaste": 19.940932,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 25,
+      "nimi": "Citybike",
+      "leveysaste": 60.980362,
+      "pituusaste": 25.673628,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 26,
+      "nimi": "Classic Bike",
+      "leveysaste": 60.184429,
+      "pituusaste": 24.924718,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 27,
+      "nimi": "Classic Bike",
+      "leveysaste": 60.285726,
+      "pituusaste": 24.977318,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 28,
+      "nimi": "Cycland",
+      "leveysaste": 60.190757,
+      "pituusaste": 24.946991,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 29,
+      "nimi": "Cyclecenter",
+      "leveysaste": 60.187491,
+      "pituusaste": 24.95705,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 30,
+      "nimi": "Cycled Shop",
+      "leveysaste": 60.296383,
+      "pituusaste": 24.88753,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 31,
+      "nimi": "Cycli",
+      "leveysaste": 61.471007,
+      "pituusaste": 21.753937,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 32,
+      "nimi": "Cycli",
+      "leveysaste": 62.778387,
+      "pituusaste": 22.816932,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 33,
+      "nimi": "Cycli",
+      "leveysaste": 63.111253,
+      "pituusaste": 21.649312,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 34,
+      "nimi": "Cykelstället",
+      "leveysaste": 60.111167,
+      "pituusaste": 19.911395,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 35,
+      "nimi": "Diamond Bikes",
+      "leveysaste": 60.388336,
+      "pituusaste": 25.023459,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 36,
+      "nimi": "E FAT",
+      "leveysaste": 60.222687,
+      "pituusaste": 25.116681,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 37,
+      "nimi": "E-Spin bikes",
+      "leveysaste": 60.399497,
+      "pituusaste": 25.110301,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 38,
+      "nimi": "ET-Sports",
+      "leveysaste": 62.603727,
+      "pituusaste": 29.762797,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 39,
+      "nimi": "Ebike Brothers - Sähköpyöräkauppa",
+      "leveysaste": 60.283075,
+      "pituusaste": 24.972985,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 40,
+      "nimi": "Ebike Center",
+      "leveysaste": 60.167529,
+      "pituusaste": 24.763952,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 41,
+      "nimi": "Ebike Center - Sähköpyöräkauppa",
+      "leveysaste": 60.282967,
+      "pituusaste": 24.973212,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 42,
+      "nimi": "Electrobike",
+      "leveysaste": 60.448235,
+      "pituusaste": 22.263232,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 43,
+      "nimi": "Electrobike",
+      "leveysaste": 61.518182,
+      "pituusaste": 23.662318,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 44,
+      "nimi": "Electrobike Oy",
+      "leveysaste": 60.277032,
+      "pituusaste": 24.972884,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 45,
+      "nimi": "Emilia Sport",
+      "leveysaste": 61.479133,
+      "pituusaste": 23.893892,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 46,
+      "nimi": "Espoontorin Pyörä",
+      "leveysaste": 60.2044,
+      "pituusaste": 24.655325,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 47,
+      "nimi": "Eurajoen pyöräpalvelu",
+      "leveysaste": 61.201744,
+      "pituusaste": 21.732815,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 48,
+      "nimi": "Fillari Center",
+      "leveysaste": 60.625599,
+      "pituusaste": 24.868174,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 49,
+      "nimi": "Fillari Werstas",
+      "leveysaste": 60.995121,
+      "pituusaste": 24.446728,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 50,
+      "nimi": "Fillarifiilari",
+      "leveysaste": 60.22599,
+      "pituusaste": 24.895187,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 51,
+      "nimi": "Fillarihuolto",
+      "leveysaste": 61.003467,
+      "pituusaste": 24.493321,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 52,
+      "nimi": "Fillarihuolto Savolainen",
+      "leveysaste": 61.003527,
+      "pituusaste": 24.490808,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 53,
+      "nimi": "Fillarikellari",
+      "leveysaste": 60.166709,
+      "pituusaste": 24.938004,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 54,
+      "nimi": "Fillarikorjaamo Neljäysi",
+      "leveysaste": 60.531905,
+      "pituusaste": 24.201934,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 55,
+      "nimi": "Fillaripiste",
+      "leveysaste": 60.980584,
+      "pituusaste": 25.67092,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 56,
+      "nimi": "Fillaritalli",
+      "leveysaste": 60.447581,
+      "pituusaste": 22.304401,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 57,
+      "nimi": "Fillarivelho",
+      "leveysaste": 60.199092,
+      "pituusaste": 24.937454,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 58,
+      "nimi": "Fillariverstas",
+      "leveysaste": 63.098453,
+      "pituusaste": 23.039452,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 59,
+      "nimi": "Forsport, Lietsala",
+      "leveysaste": 60.484839,
+      "pituusaste": 22.067442,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 60,
+      "nimi": "Foxcomp",
+      "leveysaste": 60.473921,
+      "pituusaste": 22.281537,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 61,
+      "nimi": "HK Sport Akaa",
+      "leveysaste": 61.169638,
+      "pituusaste": 23.85683,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 62,
+      "nimi": "Haagan pyörähuolto",
+      "leveysaste": 60.215393,
+      "pituusaste": 24.89858,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 63,
+      "nimi": "Hangon Pyörähuolto",
+      "leveysaste": 59.82819,
+      "pituusaste": 22.968737,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 64,
+      "nimi": "Hatunen",
+      "leveysaste": 61.054949,
+      "pituusaste": 24.369037,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 65,
+      "nimi": "Heikin pyöräverstas",
+      "leveysaste": 60.905873,
+      "pituusaste": 26.621885,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 66,
+      "nimi": "Helkama myymälä",
+      "leveysaste": 60.278281,
+      "pituusaste": 24.971691,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 67,
+      "nimi": "Hello Bike",
+      "leveysaste": 60.191695,
+      "pituusaste": 24.94195,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 68,
+      "nimi": "Helmipyörä",
+      "leveysaste": 60.201075,
+      "pituusaste": 25.031416,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 69,
+      "nimi": "Helsingin Pyörähuolto",
+      "leveysaste": 60.172842,
+      "pituusaste": 24.939522,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 70,
+      "nimi": "Helsingin Pyörähuolto",
+      "leveysaste": 60.183616,
+      "pituusaste": 24.958478,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 71,
+      "nimi": "Hi5Bikes",
+      "leveysaste": 60.21242,
+      "pituusaste": 25.047946,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 72,
+      "nimi": "Hiltusen pyörähuolto",
+      "leveysaste": 60.189559,
+      "pituusaste": 25.036368,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 73,
+      "nimi": "Hobos Bike",
+      "leveysaste": 62.235401,
+      "pituusaste": 25.738937,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 74,
+      "nimi": "Huoltopilotti",
+      "leveysaste": 62.252329,
+      "pituusaste": 25.769056,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 75,
+      "nimi": "Huoltopiste Prisma Kaari",
+      "leveysaste": 60.23716,
+      "pituusaste": 24.893388,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 76,
+      "nimi": "Hurus-Sport Oy",
+      "leveysaste": 62.31998,
+      "pituusaste": 27.847767,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 77,
+      "nimi": "Huutoniemen Pyörälinna",
+      "leveysaste": 63.09495,
+      "pituusaste": 21.672926,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 78,
+      "nimi": "Ingmars verkstad",
+      "leveysaste": 59.977909,
+      "pituusaste": 23.44351,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 79,
+      "nimi": "Joensuun Pyöräpaja",
+      "leveysaste": 62.60136,
+      "pituusaste": 29.776003,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 80,
+      "nimi": "Joensuun pyörähuolto",
+      "leveysaste": 62.602853,
+      "pituusaste": 29.765497,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 81,
+      "nimi": "Juhan pyörähuolto",
+      "leveysaste": 60.203763,
+      "pituusaste": 25.033998,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 82,
+      "nimi": "Jussin pyöräpiste Oulunlahti",
+      "leveysaste": 64.968637,
+      "pituusaste": 25.497513,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 83,
+      "nimi": "Jussin pyöräpiste Oulunlahti",
+      "leveysaste": 64.968648,
+      "pituusaste": 25.497545,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 84,
+      "nimi": "Jussin pyöräpiste Tuira",
+      "leveysaste": 65.025606,
+      "pituusaste": 25.477242,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 85,
+      "nimi": "Jyri Vähätiitto Oy",
+      "leveysaste": 60.998213,
+      "pituusaste": 24.446294,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 86,
+      "nimi": "Järvenpään fillarihuolto",
+      "leveysaste": 60.469478,
+      "pituusaste": 25.087009,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 87,
+      "nimi": "Järvisen pyörä ja urheilu",
+      "leveysaste": 60.981685,
+      "pituusaste": 25.652685,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 88,
+      "nimi": "Kaarikinneri",
+      "leveysaste": 60.306563,
+      "pituusaste": 25.118273,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 89,
+      "nimi": "Kaarinan Pyörä",
+      "leveysaste": 60.409132,
+      "pituusaste": 22.374532,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 90,
+      "nimi": "Kareisen Pyöräkorjaamo Ky",
+      "leveysaste": 61.235988,
+      "pituusaste": 28.871187,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 91,
+      "nimi": "Karis cykelcentral",
+      "leveysaste": 60.072377,
+      "pituusaste": 23.658061,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 92,
+      "nimi": "Karsikon Pyörähuolto",
+      "leveysaste": 62.604319,
+      "pituusaste": 29.799878,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 93,
+      "nimi": "Keinänen",
+      "leveysaste": 65.844003,
+      "pituusaste": 24.199259,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 94,
+      "nimi": "Kempeleen Kyläkaupan Pyörämaailma",
+      "leveysaste": 64.901515,
+      "pituusaste": 25.543839,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 95,
+      "nimi": "Kesport Varkaus",
+      "leveysaste": 62.315304,
+      "pituusaste": 27.874761,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 96,
+      "nimi": "Kestävän-kehityksen keskuksen pyörakorjaamo",
+      "leveysaste": 65.029137,
+      "pituusaste": 25.476225,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 97,
+      "nimi": "Kevytpyörä",
+      "leveysaste": 60.44056,
+      "pituusaste": 22.2569,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 98,
+      "nimi": "Kivenlahden pyörähuolto",
+      "leveysaste": 60.164827,
+      "pituusaste": 24.701417,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 99,
+      "nimi": "Kouvolan Pyöräpaja",
+      "leveysaste": 60.878648,
+      "pituusaste": 26.658763,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 100,
+      "nimi": "Kuhmon pyörä ja pienkone",
+      "leveysaste": 64.124285,
+      "pituusaste": 29.512771,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 101,
+      "nimi": "Kumiluoti",
+      "leveysaste": 60.18639,
+      "pituusaste": 24.950477,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 102,
+      "nimi": "Kunnon Kauppa",
+      "leveysaste": 60.231894,
+      "pituusaste": 24.934245,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 103,
+      "nimi": "Kunnon kauppa",
+      "leveysaste": 60.293341,
+      "pituusaste": 25.032019,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 104,
+      "nimi": "Kuopion Pyöräpaja",
+      "leveysaste": 62.890591,
+      "pituusaste": 27.685988,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 105,
+      "nimi": "Kuopion pyöräkauppa Bikemania",
+      "leveysaste": 62.89565,
+      "pituusaste": 27.6785,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 106,
+      "nimi": "Kyröskosken polkupyöräliike",
+      "leveysaste": 61.669747,
+      "pituusaste": 23.183655,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 107,
+      "nimi": "Lahden Polkupyörähuolto",
+      "leveysaste": 60.960947,
+      "pituusaste": 25.652501,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 108,
+      "nimi": "Lakeus Sport",
+      "leveysaste": 62.794692,
+      "pituusaste": 22.837109,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 109,
+      "nimi": "Larunpyörä",
+      "leveysaste": 60.16127,
+      "pituusaste": 24.867946,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 110,
+      "nimi": "Lastipyörälainaamo",
+      "leveysaste": 62.247891,
+      "pituusaste": 25.759635,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 111,
+      "nimi": "Leosport",
+      "leveysaste": 62.895772,
+      "pituusaste": 27.676433,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 112,
+      "nimi": "Lieksan Koneasema",
+      "leveysaste": 63.318767,
+      "pituusaste": 30.017427,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 113,
+      "nimi": "Like Your Bike",
+      "leveysaste": 61.500437,
+      "pituusaste": 23.758797,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 114,
+      "nimi": "Like Your Bike",
+      "leveysaste": 61.501938,
+      "pituusaste": 23.781232,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 115,
+      "nimi": "Loimaan pyörähuolto",
+      "leveysaste": 60.853775,
+      "pituusaste": 23.0559,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 116,
+      "nimi": "Lopen pyöräliike ja korjaamo",
+      "leveysaste": 60.681147,
+      "pituusaste": 24.479494,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 117,
+      "nimi": "Lucky Bird Bikes",
+      "leveysaste": 60.192364,
+      "pituusaste": 25.026701,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 118,
+      "nimi": "Luckybike",
+      "leveysaste": 60.473675,
+      "pituusaste": 22.23053,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 119,
+      "nimi": "Lundberg",
+      "leveysaste": 60.397456,
+      "pituusaste": 25.109437,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 120,
+      "nimi": "Maailmanpyörä",
+      "leveysaste": 60.466383,
+      "pituusaste": 22.292079,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 121,
+      "nimi": "Maken pyörä- ja välinehuolto",
+      "leveysaste": 62.890686,
+      "pituusaste": 27.669176,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 122,
+      "nimi": "Martin Pyörähuolto",
+      "leveysaste": 60.222015,
+      "pituusaste": 24.814064,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 123,
+      "nimi": "Martin Pyörähuolto",
+      "leveysaste": 60.246224,
+      "pituusaste": 24.867211,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 124,
+      "nimi": "Martin Pyörähuolto",
+      "leveysaste": 60.315307,
+      "pituusaste": 24.847835,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 125,
+      "nimi": "Martin Pyörähuolto Munkkiniemi",
+      "leveysaste": 60.197432,
+      "pituusaste": 24.881163,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 126,
+      "nimi": "Martin Pyörähuolto Roihuvuori",
+      "leveysaste": 60.203714,
+      "pituusaste": 25.056634,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 127,
+      "nimi": "Martin pyöräkorjaamo",
+      "leveysaste": 66.499525,
+      "pituusaste": 25.731035,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 128,
+      "nimi": "Maskun pyörähuolto",
+      "leveysaste": 60.545212,
+      "pituusaste": 22.141202,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 129,
+      "nimi": "Maunumäen Pyörä- ja Urheiluliike",
+      "leveysaste": 63.860262,
+      "pituusaste": 23.452684,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 130,
+      "nimi": "Mcarbon",
+      "leveysaste": 60.296401,
+      "pituusaste": 24.887656,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 131,
+      "nimi": "Mountainbike Center",
+      "leveysaste": 66.500396,
+      "pituusaste": 25.72817,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 132,
+      "nimi": "Mountainbikeshop",
+      "leveysaste": 60.223355,
+      "pituusaste": 24.992281,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 133,
+      "nimi": "Mullet Bike Service",
+      "leveysaste": 65.029155,
+      "pituusaste": 25.450196,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 134,
+      "nimi": "Mustosen pyörä Oy",
+      "leveysaste": 65.00958,
+      "pituusaste": 25.480013,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 135,
+      "nimi": "Myllyojan Pyörähuolto",
+      "leveysaste": 65.020963,
+      "pituusaste": 25.547097,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 136,
+      "nimi": "Nice Bike Pyörähuolto",
+      "leveysaste": 60.164204,
+      "pituusaste": 24.927138,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 137,
+      "nimi": "Nippeli",
+      "leveysaste": 61.475959,
+      "pituusaste": 23.909131,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 138,
+      "nimi": "Nordic Gravel Series",
+      "leveysaste": 60.224341,
+      "pituusaste": 25.016617,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 139,
+      "nimi": "Nousten Pyörä ja Ulkoilu",
+      "leveysaste": 60.598865,
+      "pituusaste": 22.083464,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 140,
+      "nimi": "Nummen pyörä",
+      "leveysaste": 60.457147,
+      "pituusaste": 22.301811,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 141,
+      "nimi": "Onnipyörä",
+      "leveysaste": 60.197948,
+      "pituusaste": 24.931355,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 142,
+      "nimi": "Onnipyörä Portsa",
+      "leveysaste": 60.445804,
+      "pituusaste": 22.241717,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 143,
+      "nimi": "Oriveden pyörä",
+      "leveysaste": 61.678062,
+      "pituusaste": 24.358108,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 144,
+      "nimi": "Oulu Bikes",
+      "leveysaste": 65.002047,
+      "pituusaste": 25.464121,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 145,
+      "nimi": "PPR-Huolto",
+      "leveysaste": 61.501256,
+      "pituusaste": 23.817527,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 146,
+      "nimi": "Pasilan pyörähuolto",
+      "leveysaste": 60.196978,
+      "pituusaste": 24.937588,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 147,
+      "nimi": "Pelago Bicycles",
+      "leveysaste": 60.165354,
+      "pituusaste": 24.932669,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 148,
+      "nimi": "Pelago Bicycles Shop & Service",
+      "leveysaste": 60.165199,
+      "pituusaste": 24.933058,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 149,
+      "nimi": "Peloton",
+      "leveysaste": 61.483871,
+      "pituusaste": 23.971589,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 150,
+      "nimi": "Pirkkalan pyörähuolto",
+      "leveysaste": 61.452676,
+      "pituusaste": 23.630014,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 151,
+      "nimi": "Poljinpaja",
+      "leveysaste": 60.201094,
+      "pituusaste": 25.032086,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 152,
+      "nimi": "Polku Cycle Store",
+      "leveysaste": 61.861883,
+      "pituusaste": 25.182102,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 153,
+      "nimi": "Polkupojat",
+      "leveysaste": 63.089303,
+      "pituusaste": 21.626719,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 154,
+      "nimi": "Polkupyörä Etappi",
+      "leveysaste": 61.678192,
+      "pituusaste": 27.267159,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 155,
+      "nimi": "Polkupyöräkirppis",
+      "leveysaste": 60.271459,
+      "pituusaste": 24.806553,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 156,
+      "nimi": "Polkupyöräkorjaamo Pekan Rysä",
+      "leveysaste": 62.237657,
+      "pituusaste": 25.744397,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 157,
+      "nimi": "Polkupyöräliike",
+      "leveysaste": 62.434005,
+      "pituusaste": 29.973004,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 158,
+      "nimi": "Polkupöyrä Tori",
+      "leveysaste": 62.237802,
+      "pituusaste": 25.73949,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 159,
+      "nimi": "Pormestarinluodon Pyöräpaja",
+      "leveysaste": 61.50407,
+      "pituusaste": 21.785614,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 160,
+      "nimi": "Porvoon Pyöräkeskus",
+      "leveysaste": 60.395492,
+      "pituusaste": 25.664507,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 161,
+      "nimi": "Prisma Laune Huoltopiste",
+      "leveysaste": 60.959692,
+      "pituusaste": 25.654954,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 162,
+      "nimi": "Puijon Pyöräpiste",
+      "leveysaste": 62.89212,
+      "pituusaste": 27.674132,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 163,
+      "nimi": "Pyorahuolto.com",
+      "leveysaste": 60.160218,
+      "pituusaste": 24.888781,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 164,
+      "nimi": "Pyörien pyörä",
+      "leveysaste": 60.210195,
+      "pituusaste": 24.976269,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 165,
+      "nimi": "Pyörä & Paikka",
+      "leveysaste": 61.493792,
+      "pituusaste": 23.818218,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 166,
+      "nimi": "Pyörä Asiantuntija",
+      "leveysaste": 60.20252,
+      "pituusaste": 24.780144,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 167,
+      "nimi": "Pyörä Kiesi",
+      "leveysaste": 60.468475,
+      "pituusaste": 22.174331,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 168,
+      "nimi": "Pyörä ja moottori",
+      "leveysaste": 60.532798,
+      "pituusaste": 24.209701,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 169,
+      "nimi": "Pyörä- ja Vapaa-aika",
+      "leveysaste": 60.637585,
+      "pituusaste": 24.855203,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 170,
+      "nimi": "Pyörä- ja Vapaa-aika",
+      "leveysaste": 60.637597,
+      "pituusaste": 24.855216,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 171,
+      "nimi": "Pyörä- ja suksihuolto Sampo",
+      "leveysaste": 61.498167,
+      "pituusaste": 23.793555,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 172,
+      "nimi": "Pyörä-Expert Ky",
+      "leveysaste": 61.059982,
+      "pituusaste": 28.196765,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 173,
+      "nimi": "Pyörä-Pori Oy",
+      "leveysaste": 61.471559,
+      "pituusaste": 21.755129,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 174,
+      "nimi": "Pyörä-Sport",
+      "leveysaste": 61.484196,
+      "pituusaste": 21.791612,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 175,
+      "nimi": "Pyörä-Suvala Oy (Lekatie)",
+      "leveysaste": 64.998766,
+      "pituusaste": 25.480063,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 176,
+      "nimi": "Pyörähuolto - Korso Pyöräkioski HUB Oy",
+      "leveysaste": 60.350181,
+      "pituusaste": 25.075144,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 177,
+      "nimi": "Pyörähuolto M&M",
+      "leveysaste": 61.452928,
+      "pituusaste": 23.847882,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 178,
+      "nimi": "Pyörähuolto M&M",
+      "leveysaste": 61.498839,
+      "pituusaste": 23.78312,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 179,
+      "nimi": "Pyörähuolto Tre Cycle",
+      "leveysaste": 61.494589,
+      "pituusaste": 23.747415,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 180,
+      "nimi": "Pyörähuolto.com",
+      "leveysaste": 60.161054,
+      "pituusaste": 24.887376,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 181,
+      "nimi": "Pyöräkellari",
+      "leveysaste": 62.601552,
+      "pituusaste": 29.752767,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 182,
+      "nimi": "Pyöräkeskus",
+      "leveysaste": 60.174997,
+      "pituusaste": 24.935394,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 183,
+      "nimi": "Pyöräkorjaamo",
+      "leveysaste": 60.867142,
+      "pituusaste": 26.712595,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 184,
+      "nimi": "Pyöräkorjaamo Laihianen",
+      "leveysaste": 65.009359,
+      "pituusaste": 25.466234,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 185,
+      "nimi": "Pyöräkuula",
+      "leveysaste": 60.138143,
+      "pituusaste": 24.671004,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 186,
+      "nimi": "Pyöräliike ET",
+      "leveysaste": 60.907222,
+      "pituusaste": 26.622525,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 187,
+      "nimi": "Pyöräliike Lybäck",
+      "leveysaste": 63.839191,
+      "pituusaste": 23.1301,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 188,
+      "nimi": "Pyöräliike Viertola",
+      "leveysaste": 63.094744,
+      "pituusaste": 21.62038,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 189,
+      "nimi": "Pyörämestari",
+      "leveysaste": 65.032997,
+      "pituusaste": 25.473624,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 190,
+      "nimi": "Pyöräpalvelu Berggren",
+      "leveysaste": 60.46722,
+      "pituusaste": 22.245027,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 191,
+      "nimi": "Pyöräpojat Oy",
+      "leveysaste": 63.839403,
+      "pituusaste": 23.130116,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 192,
+      "nimi": "Pyöräsuomi",
+      "leveysaste": 61.504682,
+      "pituusaste": 23.761002,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 193,
+      "nimi": "Pyörätaikurit",
+      "leveysaste": 61.485052,
+      "pituusaste": 23.850888,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 194,
+      "nimi": "Pyörätalo Saarelainen",
+      "leveysaste": 60.613322,
+      "pituusaste": 24.855208,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 195,
+      "nimi": "Pyörävarikko",
+      "leveysaste": 61.059655,
+      "pituusaste": 28.174005,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 196,
+      "nimi": "Pyörävarikko - Jyväskylä",
+      "leveysaste": 62.261845,
+      "pituusaste": 25.771662,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 197,
+      "nimi": "Pyörävarikko Joensuu",
+      "leveysaste": 62.619205,
+      "pituusaste": 29.772149,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 198,
+      "nimi": "Pyörävarikko Kuopio",
+      "leveysaste": 62.880654,
+      "pituusaste": 27.668589,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 199,
+      "nimi": "RM-Wauhtipyörä",
+      "leveysaste": 61.68785,
+      "pituusaste": 27.268868,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 200,
+      "nimi": "Raahen pyörä ja pienkone",
+      "leveysaste": 64.684458,
+      "pituusaste": 24.488295,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 201,
+      "nimi": "Racebike.fi",
+      "leveysaste": 60.994817,
+      "pituusaste": 24.466559,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 202,
+      "nimi": "Racebike.fi",
+      "leveysaste": 60.994826,
+      "pituusaste": 24.466552,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 203,
+      "nimi": "Raispo",
+      "leveysaste": 60.444386,
+      "pituusaste": 22.277962,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 204,
+      "nimi": "Random Bikes",
+      "leveysaste": 60.463937,
+      "pituusaste": 26.929985,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 205,
+      "nimi": "Random Bikes",
+      "leveysaste": 60.463952,
+      "pituusaste": 26.929969,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 206,
+      "nimi": "Rantakylän pyörä- ja pienkonehuolto",
+      "leveysaste": 62.617235,
+      "pituusaste": 29.811027,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 207,
+      "nimi": "Rauta ja Väri S. Lilja",
+      "leveysaste": 61.501208,
+      "pituusaste": 23.797178,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 208,
+      "nimi": "Recykkeli Mynämäki",
+      "leveysaste": 60.6723,
+      "pituusaste": 21.971951,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 209,
+      "nimi": "Ride Cycle Store",
+      "leveysaste": 62.249334,
+      "pituusaste": 25.76162,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 210,
+      "nimi": "Ride More",
+      "leveysaste": 60.228057,
+      "pituusaste": 24.851106,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 211,
+      "nimi": "Riston Pyörähuolto",
+      "leveysaste": 62.79419,
+      "pituusaste": 22.835846,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 212,
+      "nimi": "Rtech",
+      "leveysaste": 61.450314,
+      "pituusaste": 23.693213,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 213,
+      "nimi": "Salamapyörä",
+      "leveysaste": 61.495011,
+      "pituusaste": 23.776721,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 214,
+      "nimi": "Salon Mopo ja Pyörä O. Reiman",
+      "leveysaste": 60.419199,
+      "pituusaste": 23.164723,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 215,
+      "nimi": "Sarolan pyörätarvike ja huolto",
+      "leveysaste": 62.593998,
+      "pituusaste": 29.773735,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 216,
+      "nimi": "Sellon Pyörä",
+      "leveysaste": 60.216941,
+      "pituusaste": 24.812423,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 217,
+      "nimi": "Servizio:Corse",
+      "leveysaste": 61.472644,
+      "pituusaste": 23.877348,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 218,
+      "nimi": "Seven Bikes",
+      "leveysaste": 61.455493,
+      "pituusaste": 23.78236,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 219,
+      "nimi": "Sickboy",
+      "leveysaste": 60.161831,
+      "pituusaste": 24.936536,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 220,
+      "nimi": "Signature",
+      "leveysaste": 61.480123,
+      "pituusaste": 23.806965,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 221,
+      "nimi": "Siilin pyörähuolto",
+      "leveysaste": 63.076195,
+      "pituusaste": 27.661898,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 222,
+      "nimi": "Ski & Bike Shop",
+      "leveysaste": 66.500585,
+      "pituusaste": 25.727315,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 223,
+      "nimi": "Special Bike",
+      "leveysaste": 65.008627,
+      "pituusaste": 25.478194,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 224,
+      "nimi": "Sporthammer",
+      "leveysaste": 60.335758,
+      "pituusaste": 24.320403,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 225,
+      "nimi": "Sportia Matti",
+      "leveysaste": 61.317121,
+      "pituusaste": 23.751527,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 226,
+      "nimi": "Sportia Matti",
+      "leveysaste": 61.317129,
+      "pituusaste": 23.751555,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 227,
+      "nimi": "Sportman Ky",
+      "leveysaste": 62.60552,
+      "pituusaste": 29.767302,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 228,
+      "nimi": "Stadi Bike Pyörähuolto",
+      "leveysaste": 60.162153,
+      "pituusaste": 24.920597,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 229,
+      "nimi": "Star-Velos",
+      "leveysaste": 60.448227,
+      "pituusaste": 22.281473,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 230,
+      "nimi": "StyleRide",
+      "leveysaste": 60.454432,
+      "pituusaste": 22.272573,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 231,
+      "nimi": "Stålhästen",
+      "leveysaste": 60.164009,
+      "pituusaste": 24.943999,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 232,
+      "nimi": "Suomen Polkupyörätukku",
+      "leveysaste": 61.049265,
+      "pituusaste": 28.176843,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 233,
+      "nimi": "Suomen Urheilupyörä",
+      "leveysaste": 61.496601,
+      "pituusaste": 23.533477,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 234,
+      "nimi": "Suomen Urheilupyörä",
+      "leveysaste": 61.51365,
+      "pituusaste": 23.670318,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 235,
+      "nimi": "Suomisen pyörä",
+      "leveysaste": 61.128598,
+      "pituusaste": 21.514536,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 236,
+      "nimi": "Sysmän Pyörä ja Kone",
+      "leveysaste": 61.50408,
+      "pituusaste": 25.683301,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 237,
+      "nimi": "Sähköpyöräkeskus",
+      "leveysaste": 60.207148,
+      "pituusaste": 25.054852,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 238,
+      "nimi": "Sähköpyöräkeskus",
+      "leveysaste": 60.207161,
+      "pituusaste": 25.054849,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 239,
+      "nimi": "Tapiolan polkupyöräpaja",
+      "leveysaste": 60.174953,
+      "pituusaste": 24.798237,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 240,
+      "nimi": "Tikkulan pyörä Oy",
+      "leveysaste": 61.47504,
+      "pituusaste": 21.820033,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 241,
+      "nimi": "Timanttipyörä",
+      "leveysaste": 60.385353,
+      "pituusaste": 25.02426,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 242,
+      "nimi": "Toni & Toni Cycles",
+      "leveysaste": 60.184937,
+      "pituusaste": 24.982847,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 243,
+      "nimi": "Tuiran pyörä",
+      "leveysaste": 65.024775,
+      "pituusaste": 25.469031,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 244,
+      "nimi": "Tuiskun pyörä",
+      "leveysaste": 62.616228,
+      "pituusaste": 22.402046,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 245,
+      "nimi": "Turun Fillarihuolto",
+      "leveysaste": 60.446115,
+      "pituusaste": 22.343943,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 246,
+      "nimi": "Turun Polkupyörähuolto",
+      "leveysaste": 60.453316,
+      "pituusaste": 22.285976,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 247,
+      "nimi": "Turun pyöräpaja",
+      "leveysaste": 60.449761,
+      "pituusaste": 22.307288,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 248,
+      "nimi": "Turun pyöräpaja",
+      "leveysaste": 60.449768,
+      "pituusaste": 22.307232,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 249,
+      "nimi": "Tuurin Pyörä Ky",
+      "leveysaste": 62.60261,
+      "pituusaste": 23.734551,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 250,
+      "nimi": "Tuusulan Pyörä Malmi",
+      "leveysaste": 60.252497,
+      "pituusaste": 25.006788,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 251,
+      "nimi": "Työpaja Cykkeli",
+      "leveysaste": 65.046251,
+      "pituusaste": 25.433102,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 252,
+      "nimi": "Työpaja Tikki",
+      "leveysaste": 61.001609,
+      "pituusaste": 24.482273,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 253,
+      "nimi": "Töölön pyörä",
+      "leveysaste": 60.185377,
+      "pituusaste": 24.920556,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 254,
+      "nimi": "U:gin Pyörä",
+      "leveysaste": 60.799902,
+      "pituusaste": 21.412845,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 255,
+      "nimi": "Urheilu Tesoma",
+      "leveysaste": 61.503761,
+      "pituusaste": 23.63578,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 256,
+      "nimi": "Urheilu ja Lelu",
+      "leveysaste": 64.064959,
+      "pituusaste": 24.547759,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 257,
+      "nimi": "Urheilu-Alho",
+      "leveysaste": 60.637938,
+      "pituusaste": 24.869911,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 258,
+      "nimi": "Urheilu-Ulappa",
+      "leveysaste": 65.079014,
+      "pituusaste": 25.42707,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 259,
+      "nimi": "Urheilu-Valonen Ky",
+      "leveysaste": 61.501826,
+      "pituusaste": 25.684774,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 260,
+      "nimi": "Uusiotuote Polkupyorakorjaamo",
+      "leveysaste": 62.233994,
+      "pituusaste": 25.728693,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 261,
+      "nimi": "Uusix Fillari",
+      "leveysaste": 60.198257,
+      "pituusaste": 24.973167,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 262,
+      "nimi": "VM Sport",
+      "leveysaste": 63.675065,
+      "pituusaste": 22.708002,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 263,
+      "nimi": "Vaihtofillari",
+      "leveysaste": 60.158208,
+      "pituusaste": 24.738736,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 264,
+      "nimi": "Velo&Oxygen",
+      "leveysaste": 60.278738,
+      "pituusaste": 24.97175,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 265,
+      "nimi": "Velofix.fi",
+      "leveysaste": 60.723053,
+      "pituusaste": 24.741806,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 266,
+      "nimi": "Velosport",
+      "leveysaste": 60.209025,
+      "pituusaste": 24.946234,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 267,
+      "nimi": "Velotema",
+      "leveysaste": 60.450905,
+      "pituusaste": 22.255564,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 268,
+      "nimi": "Viertola",
+      "leveysaste": 63.091591,
+      "pituusaste": 21.619156,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 269,
+      "nimi": "Virkkalan Urheiluliike Oy",
+      "leveysaste": 60.221351,
+      "pituusaste": 24.025701,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 270,
+      "nimi": "Visan polkupyörähuolto",
+      "leveysaste": 60.453917,
+      "pituusaste": 22.273458,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 271,
+      "nimi": "Vuosaaren pyörähuolto",
+      "leveysaste": 60.209761,
+      "pituusaste": 25.135355,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 272,
+      "nimi": "Vuosaaren pyörähuolto",
+      "leveysaste": 60.209777,
+      "pituusaste": 25.135357,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 273,
+      "nimi": "WasaBikeService",
+      "leveysaste": 63.089329,
+      "pituusaste": 21.62688,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 274,
+      "nimi": "Wasaborgin pyörähuolto",
+      "leveysaste": 63.097728,
+      "pituusaste": 21.612224,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 275,
+      "nimi": "Wheelström",
+      "leveysaste": 60.157986,
+      "pituusaste": 24.946016,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 276,
+      "nimi": "Willari pyörähuolto",
+      "leveysaste": 61.497773,
+      "pituusaste": 23.796598,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 277,
+      "nimi": "Yeply",
+      "leveysaste": 60.155928,
+      "pituusaste": 24.920615,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 278,
+      "nimi": "beebike",
+      "leveysaste": 66.498503,
+      "pituusaste": 25.722971,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 279,
+      "nimi": "e-bike center",
+      "leveysaste": 65.011761,
+      "pituusaste": 25.477734,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 280,
+      "nimi": "eBike Store",
+      "leveysaste": 60.276709,
+      "pituusaste": 24.817725,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 281,
+      "nimi": "ibike",
+      "leveysaste": 60.159413,
+      "pituusaste": 24.89009,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    },
+    {
+      "id": 282,
+      "nimi": "Åkes Cykelservice",
+      "leveysaste": 63.80577,
+      "pituusaste": 22.780087,
+      "osm_avain": "shop",
+      "osm_arvo": "bicycle",
+      "osm_luokka": "shop=bicycle"
+    }
+  ],
+  "meta": {
+    "title": "Polkupyöräliikkeet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Polkupyöräliikkeet Suomessa — 282 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=bicycle`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 282 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Polkupyöräliikkeet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Polkupyöräliikkeet – Suomi (OpenStreetMap) — 282 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 282 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

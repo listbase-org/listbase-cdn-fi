@@ -1,0 +1,4174 @@
+{
+  "id": "fi-osm-office-government",
+  "name": "Valtion ja kuntien virastot – Suomi (OpenStreetMap)",
+  "title": "Valtion ja kuntien virastot – Suomi (OpenStreetMap)",
+  "description": "Valtion ja kuntien virastot Suomessa — 457 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=government`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 457,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Ajovarma Hyvinkää",
+      "leveysaste": 60.602886,
+      "pituusaste": 24.861469,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 2,
+      "nimi": "Ajovarma Lohja",
+      "leveysaste": 60.273339,
+      "pituusaste": 24.12219,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 3,
+      "nimi": "Alavuden kaupunki, lomituspalvelut",
+      "leveysaste": 62.638239,
+      "pituusaste": 23.631124,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 4,
+      "nimi": "Aluehallintovirasto",
+      "leveysaste": 60.200053,
+      "pituusaste": 24.934643,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 5,
+      "nimi": "Aseiden tarkastus, Espoon pääpoliisiasema",
+      "leveysaste": 60.208624,
+      "pituusaste": 24.762303,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 6,
+      "nimi": "Asikkalan tekninen virasto",
+      "leveysaste": 61.179175,
+      "pituusaste": 25.523442,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 7,
+      "nimi": "Asiointipiste",
+      "leveysaste": 60.159993,
+      "pituusaste": 24.739037,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 8,
+      "nimi": "Aulapalvelut, Virastotalo 3",
+      "leveysaste": 60.206111,
+      "pituusaste": 24.653811,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 9,
+      "nimi": "Business Finland",
+      "leveysaste": 60.445111,
+      "pituusaste": 22.262111,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 10,
+      "nimi": "Business Helsinki",
+      "leveysaste": 60.167942,
+      "pituusaste": 24.933474,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 11,
+      "nimi": "Digi- ja väestötietovirasto",
+      "leveysaste": 60.445194,
+      "pituusaste": 22.263125,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 12,
+      "nimi": "Digi- ja väestötietovirasto",
+      "leveysaste": 62.243575,
+      "pituusaste": 25.753901,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 13,
+      "nimi": "Digi- ja väestötietovirasto",
+      "leveysaste": 65.018255,
+      "pituusaste": 25.505966,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 14,
+      "nimi": "Digi- ja väestötietovirasto Tampere",
+      "leveysaste": 61.48677,
+      "pituusaste": 23.770221,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 15,
+      "nimi": "Digi- ja väestötietovirasto, Helsinki",
+      "leveysaste": 60.182686,
+      "pituusaste": 24.960633,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 16,
+      "nimi": "Digi- ja väestötietovirasto, Hämeenlinnan toimipiste",
+      "leveysaste": 60.996637,
+      "pituusaste": 24.48087,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 17,
+      "nimi": "Digi- ja väestötietovirasto, Seinäjoki",
+      "leveysaste": 62.792629,
+      "pituusaste": 22.820749,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 18,
+      "nimi": "Digi- ja väestötietovirasto, Vaasa",
+      "leveysaste": 63.105629,
+      "pituusaste": 21.598136,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 19,
+      "nimi": "ECHA",
+      "leveysaste": 60.158334,
+      "pituusaste": 24.932201,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 20,
+      "nimi": "ECHA",
+      "leveysaste": 60.15837,
+      "pituusaste": 24.932179,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 21,
+      "nimi": "Eduskunta",
+      "leveysaste": 60.17255,
+      "pituusaste": 24.932919,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 22,
+      "nimi": "Espoon Digi- ja väestötietovirasto",
+      "leveysaste": 60.178676,
+      "pituusaste": 24.828918,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 23,
+      "nimi": "Espoon Rakennusvalvontakeskus, Virastotalo 3",
+      "leveysaste": 60.20534,
+      "pituusaste": 24.654343,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 24,
+      "nimi": "Espoon kaupunginarkisto ja kirjaamo",
+      "leveysaste": 60.203403,
+      "pituusaste": 24.658271,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 25,
+      "nimi": "Espoon kaupunkisuunnitelukeskus",
+      "leveysaste": 60.183795,
+      "pituusaste": 24.817593,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 26,
+      "nimi": "Espoon kaupunkitekniikan keskus",
+      "leveysaste": 60.183849,
+      "pituusaste": 24.817577,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 27,
+      "nimi": "Espoon oikeustalo",
+      "leveysaste": 60.187708,
+      "pituusaste": 24.814088,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 28,
+      "nimi": "Espoon oikeustalo",
+      "leveysaste": 60.187816,
+      "pituusaste": 24.814165,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 29,
+      "nimi": "Espoon pääpoliisiasema",
+      "leveysaste": 60.208418,
+      "pituusaste": 24.761579,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 30,
+      "nimi": "Espoon siivouspalvelut",
+      "leveysaste": 60.164457,
+      "pituusaste": 24.749242,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 31,
+      "nimi": "Espoon työllisyyspalvelut, Sellon toimipiste",
+      "leveysaste": 60.218092,
+      "pituusaste": 24.81118,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 32,
+      "nimi": "Etelä-Pohjanmaan ELY-keskus",
+      "leveysaste": 62.787396,
+      "pituusaste": 22.838819,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 33,
+      "nimi": "Etelä-Pohjanmaan ELY-keskus",
+      "leveysaste": 63.105391,
+      "pituusaste": 21.598452,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 34,
+      "nimi": "Etelä-Pohjanmaan liitto",
+      "leveysaste": 62.787892,
+      "pituusaste": 22.820285,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 35,
+      "nimi": "Etelä-Suomen aluehallintovirasto",
+      "leveysaste": 60.996726,
+      "pituusaste": 24.480535,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 36,
+      "nimi": "Europe Direct Kuopio",
+      "leveysaste": 62.887298,
+      "pituusaste": 27.690551,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 37,
+      "nimi": "Fimea",
+      "leveysaste": 60.200381,
+      "pituusaste": 24.898766,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 38,
+      "nimi": "Fimea",
+      "leveysaste": 61.498361,
+      "pituusaste": 23.779269,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 39,
+      "nimi": "Folkpensionsanstalten",
+      "leveysaste": 60.09995,
+      "pituusaste": 19.940283,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 40,
+      "nimi": "Geologian tutkimuskeskus",
+      "leveysaste": 63.839267,
+      "pituusaste": 23.164548,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 41,
+      "nimi": "Gumbölen kartano",
+      "leveysaste": 60.219989,
+      "pituusaste": 24.616165,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 42,
+      "nimi": "Gumbölen kartano",
+      "leveysaste": 60.220001,
+      "pituusaste": 24.616201,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 43,
+      "nimi": "HSY",
+      "leveysaste": 60.206941,
+      "pituusaste": 24.921648,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 44,
+      "nimi": "Hallintotalo",
+      "leveysaste": 63.094036,
+      "pituusaste": 21.611829,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 45,
+      "nimi": "Hallintotalo",
+      "leveysaste": 63.094036,
+      "pituusaste": 21.61188,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 46,
+      "nimi": "Hamina-Asunnot Oy",
+      "leveysaste": 60.567604,
+      "pituusaste": 27.189501,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 47,
+      "nimi": "Helsingin seudun liikenne",
+      "leveysaste": 60.199102,
+      "pituusaste": 24.940497,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 48,
+      "nimi": "Hämeen ELY-keskus",
+      "leveysaste": 60.984428,
+      "pituusaste": 25.666636,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 49,
+      "nimi": "Hämeenlinnan kaupungin palvelupiste",
+      "leveysaste": 61.080793,
+      "pituusaste": 25.007279,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 50,
+      "nimi": "IT-palvelupiste, Virastotalo 3",
+      "leveysaste": 60.205405,
+      "pituusaste": 24.654695,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 51,
+      "nimi": "Infratalo",
+      "leveysaste": 63.09997,
+      "pituusaste": 23.037245,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 52,
+      "nimi": "Infratalo",
+      "leveysaste": 63.100002,
+      "pituusaste": 23.037279,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 53,
+      "nimi": "Into Seinäjoki",
+      "leveysaste": 62.787479,
+      "pituusaste": 22.820731,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 54,
+      "nimi": "Itä-Suomen aluehallintovirasto",
+      "leveysaste": 62.605441,
+      "pituusaste": 29.76908,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 55,
+      "nimi": "Itä-Suomen aluehallintovirasto",
+      "leveysaste": 62.887721,
+      "pituusaste": 27.688848,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 56,
+      "nimi": "Itä-Uudenmaan käräjäoikeus (Court House)",
+      "leveysaste": 60.395566,
+      "pituusaste": 25.668586,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 57,
+      "nimi": "Joensuun verotoimisto",
+      "leveysaste": 62.605313,
+      "pituusaste": 29.74158,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 58,
+      "nimi": "Järvenpää info",
+      "leveysaste": 60.47147,
+      "pituusaste": 25.08988,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 59,
+      "nimi": "Järvenpään verotoimisto",
+      "leveysaste": 60.470056,
+      "pituusaste": 25.090706,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 60,
+      "nimi": "KELA",
+      "leveysaste": 63.073399,
+      "pituusaste": 27.660368,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 61,
+      "nimi": "KELA",
+      "leveysaste": 66.322516,
+      "pituusaste": 23.672853,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 62,
+      "nimi": "KELA",
+      "leveysaste": 67.331959,
+      "pituusaste": 23.792232,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 63,
+      "nimi": "KELA",
+      "leveysaste": 68.659968,
+      "pituusaste": 27.542774,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 64,
+      "nimi": "KELA - FPA",
+      "leveysaste": 59.824176,
+      "pituusaste": 22.968527,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 65,
+      "nimi": "KELA Kamppi",
+      "leveysaste": 60.16882,
+      "pituusaste": 24.92929,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 66,
+      "nimi": "Kainuun ELY-keskus",
+      "leveysaste": 64.222286,
+      "pituusaste": 27.724643,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 67,
+      "nimi": "Kainuun verotoimisto, Kuhmon piste",
+      "leveysaste": 64.127256,
+      "pituusaste": 29.520892,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 68,
+      "nimi": "Kajaanin vanhan virastotalo",
+      "leveysaste": 64.222097,
+      "pituusaste": 27.724593,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 69,
+      "nimi": "Kajaanin vanhan virastotalo",
+      "leveysaste": 64.222106,
+      "pituusaste": 27.724552,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 70,
+      "nimi": "Kallion virastotalo",
+      "leveysaste": 60.181354,
+      "pituusaste": 24.946601,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 71,
+      "nimi": "Kallion virastotalo",
+      "leveysaste": 60.181364,
+      "pituusaste": 24.946602,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 72,
+      "nimi": "Kansallisarkisto",
+      "leveysaste": 60.99941,
+      "pituusaste": 24.479711,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 73,
+      "nimi": "Kansallisarkisto, Siltavuoren toimipiste",
+      "leveysaste": 60.176093,
+      "pituusaste": 24.952376,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 74,
+      "nimi": "Kansaneläkelaitoksen palvelupiste",
+      "leveysaste": 62.602491,
+      "pituusaste": 29.758137,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 75,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 60.45011,
+      "pituusaste": 22.266527,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 76,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 60.568198,
+      "pituusaste": 27.195688,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 77,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 62.999289,
+      "pituusaste": 23.822068,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 78,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 63.542975,
+      "pituusaste": 29.143301,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 79,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 63.838966,
+      "pituusaste": 23.137006,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 80,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 64.685588,
+      "pituusaste": 24.476459,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 81,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 65.008905,
+      "pituusaste": 25.466988,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 82,
+      "nimi": "Kansaneläkelaitos",
+      "leveysaste": 65.008933,
+      "pituusaste": 25.46704,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 83,
+      "nimi": "Kansaneläkelaitos, Raision palvelupiste",
+      "leveysaste": 60.485309,
+      "pituusaste": 22.162674,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 84,
+      "nimi": "Kauniaisten rakennustoimisto",
+      "leveysaste": 60.21518,
+      "pituusaste": 24.720025,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 85,
+      "nimi": "Kauniaisten rakennustoimisto",
+      "leveysaste": 60.215183,
+      "pituusaste": 24.720057,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 86,
+      "nimi": "Kaupin johtokeskus",
+      "leveysaste": 61.510011,
+      "pituusaste": 23.788843,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 87,
+      "nimi": "Kaupin johtokeskus",
+      "leveysaste": 61.510038,
+      "pituusaste": 23.788879,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 88,
+      "nimi": "Kauppatorin Monitori",
+      "leveysaste": 60.450186,
+      "pituusaste": 22.266497,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 89,
+      "nimi": "Kaupunginhallitus",
+      "leveysaste": 60.205987,
+      "pituusaste": 24.653924,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 90,
+      "nimi": "Kaupunkitekniikan keskus",
+      "leveysaste": 60.211258,
+      "pituusaste": 24.634806,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 91,
+      "nimi": "Kaupunkiympäristötalo",
+      "leveysaste": 60.189004,
+      "pituusaste": 24.976269,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 92,
+      "nimi": "Kela",
+      "leveysaste": 60.121798,
+      "pituusaste": 24.43978,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 93,
+      "nimi": "Kela",
+      "leveysaste": 60.159944,
+      "pituusaste": 24.73881,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 94,
+      "nimi": "Kela",
+      "leveysaste": 60.211935,
+      "pituusaste": 25.081951,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 95,
+      "nimi": "Kela",
+      "leveysaste": 60.21473,
+      "pituusaste": 24.880261,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 96,
+      "nimi": "Kela",
+      "leveysaste": 60.216873,
+      "pituusaste": 24.81103,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 97,
+      "nimi": "Kela",
+      "leveysaste": 60.24957,
+      "pituusaste": 24.065239,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 98,
+      "nimi": "Kela",
+      "leveysaste": 60.263953,
+      "pituusaste": 24.855315,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 99,
+      "nimi": "Kela",
+      "leveysaste": 60.333051,
+      "pituusaste": 24.325961,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 100,
+      "nimi": "Kela",
+      "leveysaste": 60.464464,
+      "pituusaste": 24.80626,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 101,
+      "nimi": "Kela",
+      "leveysaste": 60.629299,
+      "pituusaste": 24.86483,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 102,
+      "nimi": "Kela",
+      "leveysaste": 60.675079,
+      "pituusaste": 21.977625,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 103,
+      "nimi": "Kela",
+      "leveysaste": 60.850514,
+      "pituusaste": 23.055978,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 104,
+      "nimi": "Kela",
+      "leveysaste": 61.12619,
+      "pituusaste": 21.505352,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 105,
+      "nimi": "Kela",
+      "leveysaste": 61.126206,
+      "pituusaste": 21.505355,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 106,
+      "nimi": "Kela",
+      "leveysaste": 61.177027,
+      "pituusaste": 22.700029,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 107,
+      "nimi": "Kela",
+      "leveysaste": 61.499193,
+      "pituusaste": 23.759224,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 108,
+      "nimi": "Kela",
+      "leveysaste": 61.676804,
+      "pituusaste": 24.357805,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 109,
+      "nimi": "Kela",
+      "leveysaste": 62.240861,
+      "pituusaste": 25.749149,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 110,
+      "nimi": "Kela",
+      "leveysaste": 62.273171,
+      "pituusaste": 21.379073,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 111,
+      "nimi": "Kela",
+      "leveysaste": 62.299375,
+      "pituusaste": 27.156704,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 112,
+      "nimi": "Kela",
+      "leveysaste": 62.726183,
+      "pituusaste": 29.01614,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 113,
+      "nimi": "Kela",
+      "leveysaste": 62.789897,
+      "pituusaste": 22.834653,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 114,
+      "nimi": "Kela",
+      "leveysaste": 62.789916,
+      "pituusaste": 22.834645,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 115,
+      "nimi": "Kela",
+      "leveysaste": 63.097824,
+      "pituusaste": 21.616506,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 116,
+      "nimi": "Kela",
+      "leveysaste": 63.099985,
+      "pituusaste": 23.04072,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 117,
+      "nimi": "Kela",
+      "leveysaste": 64.126837,
+      "pituusaste": 29.524341,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 118,
+      "nimi": "Kela",
+      "leveysaste": 64.665285,
+      "pituusaste": 25.102292,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 119,
+      "nimi": "Kela",
+      "leveysaste": 64.885265,
+      "pituusaste": 28.903687,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 120,
+      "nimi": "Kela",
+      "leveysaste": 66.497921,
+      "pituusaste": 25.720681,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 121,
+      "nimi": "Kela",
+      "leveysaste": 67.955999,
+      "pituusaste": 23.682446,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 122,
+      "nimi": "Kela",
+      "leveysaste": 67.956037,
+      "pituusaste": 23.682552,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 123,
+      "nimi": "Kela Alavus",
+      "leveysaste": 62.570371,
+      "pituusaste": 23.603091,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 124,
+      "nimi": "Kela Hämeenlinna",
+      "leveysaste": 60.995648,
+      "pituusaste": 24.469707,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 125,
+      "nimi": "Kela Lahden palvelupiste",
+      "leveysaste": 60.984619,
+      "pituusaste": 25.666024,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 126,
+      "nimi": "Kela Lieksan palvelupiste",
+      "leveysaste": 63.317143,
+      "pituusaste": 30.031973,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 127,
+      "nimi": "Kela Loviisa",
+      "leveysaste": 60.457236,
+      "pituusaste": 26.222647,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 128,
+      "nimi": "Kela Raisio",
+      "leveysaste": 60.479501,
+      "pituusaste": 22.158209,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 129,
+      "nimi": "Kela Sastamala",
+      "leveysaste": 61.341771,
+      "pituusaste": 22.907927,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 130,
+      "nimi": "Kela Sastamala",
+      "leveysaste": 61.341798,
+      "pituusaste": 22.907886,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 131,
+      "nimi": "Kela Tikkurila",
+      "leveysaste": 60.290528,
+      "pituusaste": 25.044182,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 132,
+      "nimi": "Kela Vaala",
+      "leveysaste": 64.560381,
+      "pituusaste": 26.839296,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 133,
+      "nimi": "Keravan rakennusvalvonta",
+      "leveysaste": 60.401914,
+      "pituusaste": 25.105998,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 134,
+      "nimi": "Keravan sosiaali- ja terveysvirasto",
+      "leveysaste": 60.402587,
+      "pituusaste": 25.100763,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 135,
+      "nimi": "Keski-Pohjanmaan Liitto",
+      "leveysaste": 63.837909,
+      "pituusaste": 23.132759,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 136,
+      "nimi": "Keskusvirastotalo",
+      "leveysaste": 61.499818,
+      "pituusaste": 23.758635,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 137,
+      "nimi": "Keskusvirastotalo",
+      "leveysaste": 61.499878,
+      "pituusaste": 23.758693,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 138,
+      "nimi": "Keva",
+      "leveysaste": 60.174816,
+      "pituusaste": 24.951014,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 139,
+      "nimi": "Keva",
+      "leveysaste": 60.174824,
+      "pituusaste": 24.950995,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 140,
+      "nimi": "Kilpisjärvi Suomen / Norjan tulliasema",
+      "leveysaste": 69.068649,
+      "pituusaste": 20.765191,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 141,
+      "nimi": "Konsernihallinto, Länsi-Uudenmaan hyvinvointialue",
+      "leveysaste": 60.203557,
+      "pituusaste": 24.653922,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 142,
+      "nimi": "Konsernihallinto, Länsi-Uudenmaan hyvinvointialue",
+      "leveysaste": 60.203565,
+      "pituusaste": 24.653971,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 143,
+      "nimi": "Kotimaisten kielten keskus Kotus",
+      "leveysaste": 60.178443,
+      "pituusaste": 24.955411,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 144,
+      "nimi": "Kuluttajariitalautakunta",
+      "leveysaste": 60.165337,
+      "pituusaste": 24.951168,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 145,
+      "nimi": "Kumlinge kommunkansli",
+      "leveysaste": 60.264897,
+      "pituusaste": 20.78728,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 146,
+      "nimi": "Kunnan Varikko",
+      "leveysaste": 64.895097,
+      "pituusaste": 28.850044,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 147,
+      "nimi": "Kunnan Varikko",
+      "leveysaste": 64.895115,
+      "pituusaste": 28.850061,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 148,
+      "nimi": "Kunnan varikko",
+      "leveysaste": 64.895131,
+      "pituusaste": 28.849979,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 149,
+      "nimi": "Kunnanvirasto",
+      "leveysaste": 61.897973,
+      "pituusaste": 27.857668,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 150,
+      "nimi": "Kunnanvirasto",
+      "leveysaste": 61.897996,
+      "pituusaste": 27.857714,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 151,
+      "nimi": "Kunnanvirasto",
+      "leveysaste": 63.359857,
+      "pituusaste": 27.755078,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 152,
+      "nimi": "Kunnanvirasto II",
+      "leveysaste": 61.464415,
+      "pituusaste": 24.07846,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 153,
+      "nimi": "Kunnanvirasto II",
+      "leveysaste": 61.464431,
+      "pituusaste": 24.078472,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 154,
+      "nimi": "Kunnanvirasto Joroinen",
+      "leveysaste": 62.172498,
+      "pituusaste": 27.859724,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 155,
+      "nimi": "Kunnanvirasto Joroinen",
+      "leveysaste": 62.172512,
+      "pituusaste": 27.859745,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 156,
+      "nimi": "Kuopion verotoimisto",
+      "leveysaste": 62.890494,
+      "pituusaste": 27.640995,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 157,
+      "nimi": "Lapsiasiavaltuutettu",
+      "leveysaste": 62.243508,
+      "pituusaste": 25.753953,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 158,
+      "nimi": "Lapuan kaupunki perusturvakeskus",
+      "leveysaste": 62.968322,
+      "pituusaste": 23.024251,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 159,
+      "nimi": "Lausteen koulu",
+      "leveysaste": 60.432227,
+      "pituusaste": 22.358776,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 160,
+      "nimi": "Lehtimäen palvelutoimisto",
+      "leveysaste": 62.818504,
+      "pituusaste": 23.943107,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 161,
+      "nimi": "Lemlands kommun",
+      "leveysaste": 60.065936,
+      "pituusaste": 20.067056,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 162,
+      "nimi": "Lentotulli, rahti",
+      "leveysaste": 60.312351,
+      "pituusaste": 24.972879,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 163,
+      "nimi": "Liikenne- ja viestintäministeriö",
+      "leveysaste": 60.167004,
+      "pituusaste": 24.950735,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 164,
+      "nimi": "Liikenne- ja viestintävirasto Traficom",
+      "leveysaste": 65.018309,
+      "pituusaste": 25.50596,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 165,
+      "nimi": "Lounais-Suomen aluehallintovirasto",
+      "leveysaste": 60.445182,
+      "pituusaste": 22.262359,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 166,
+      "nimi": "Luonnonvarakeskus",
+      "leveysaste": 60.229019,
+      "pituusaste": 25.019345,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 167,
+      "nimi": "Luonnonvarakeskus",
+      "leveysaste": 61.802275,
+      "pituusaste": 29.315945,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 168,
+      "nimi": "Luonnonvarakeskus",
+      "leveysaste": 63.839376,
+      "pituusaste": 23.164391,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 169,
+      "nimi": "Luonnonvarakeskus Joensuu",
+      "leveysaste": 62.605126,
+      "pituusaste": 29.741964,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 170,
+      "nimi": "Länsi-Uudenmaan oikeusaputoimisto",
+      "leveysaste": 60.16265,
+      "pituusaste": 24.736596,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 171,
+      "nimi": "Länsi-Uudenmaan pelastuslaitos, Karkkilan paloasema",
+      "leveysaste": 60.528731,
+      "pituusaste": 24.238195,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 172,
+      "nimi": "Länsi-Uudenmaan sosiaali- ja kriisipäivystys",
+      "leveysaste": 60.208048,
+      "pituusaste": 24.762345,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 173,
+      "nimi": "Lääkealan turvallisuus- ja kehittämiskeskus",
+      "leveysaste": 60.44504,
+      "pituusaste": 22.261864,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 174,
+      "nimi": "Lääkealan turvallisuus- ja kehittämiskeskus",
+      "leveysaste": 65.005439,
+      "pituusaste": 25.527309,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 175,
+      "nimi": "MVR",
+      "leveysaste": 61.485358,
+      "pituusaste": 21.798175,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 176,
+      "nimi": "Maa- ja metsätalousministeriö",
+      "leveysaste": 60.170543,
+      "pituusaste": 24.956973,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 177,
+      "nimi": "Maahanmuuttovirasto",
+      "leveysaste": 60.199021,
+      "pituusaste": 24.93702,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 178,
+      "nimi": "Maahanmuuttovirasto",
+      "leveysaste": 60.486656,
+      "pituusaste": 22.171982,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 179,
+      "nimi": "Maahanmuuttovirasto",
+      "leveysaste": 60.984934,
+      "pituusaste": 25.666964,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 180,
+      "nimi": "Maahanmuuttovirasto",
+      "leveysaste": 61.451409,
+      "pituusaste": 23.854604,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 181,
+      "nimi": "Maahanmuuttovirasto",
+      "leveysaste": 62.896203,
+      "pituusaste": 27.67491,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 182,
+      "nimi": "Maahanmuuttovirasto",
+      "leveysaste": 65.010826,
+      "pituusaste": 25.464924,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 183,
+      "nimi": "Maahanmuuttovirasto, Malmi",
+      "leveysaste": 60.253157,
+      "pituusaste": 25.011892,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 184,
+      "nimi": "Maaherran talo",
+      "leveysaste": 60.4504,
+      "pituusaste": 22.27217,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 185,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 60.445195,
+      "pituusaste": 22.262884,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 186,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 60.86728,
+      "pituusaste": 26.697035,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 187,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 60.998981,
+      "pituusaste": 24.460791,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 188,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 61.498335,
+      "pituusaste": 23.779275,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 189,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 62.243633,
+      "pituusaste": 25.753774,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 190,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 62.887537,
+      "pituusaste": 27.689814,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 191,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 63.840208,
+      "pituusaste": 23.135869,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 192,
+      "nimi": "Maanmittauslaitos",
+      "leveysaste": 65.019726,
+      "pituusaste": 25.506458,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 193,
+      "nimi": "Maanmittauslaitos Pori",
+      "leveysaste": 61.485288,
+      "pituusaste": 21.800095,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 194,
+      "nimi": "Maanmittauslaitos asiakaspalvelu",
+      "leveysaste": 60.199071,
+      "pituusaste": 24.935153,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 195,
+      "nimi": "Maanmittauslaitos, Lahden palvelupiste",
+      "leveysaste": 60.984869,
+      "pituusaste": 25.665989,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 196,
+      "nimi": "Maaseututoimisto Jurvan palvelupiste",
+      "leveysaste": 62.686444,
+      "pituusaste": 21.98163,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 197,
+      "nimi": "Maistraatti",
+      "leveysaste": 62.605513,
+      "pituusaste": 29.768666,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 198,
+      "nimi": "Maistraatti",
+      "leveysaste": 63.840312,
+      "pituusaste": 23.135849,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 199,
+      "nimi": "Merenkulkulaitos",
+      "leveysaste": 59.975053,
+      "pituusaste": 24.391785,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 200,
+      "nimi": "Merenkulkulaitos",
+      "leveysaste": 59.975063,
+      "pituusaste": 24.391789,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 201,
+      "nimi": "Merivartiosto",
+      "leveysaste": 60.43981,
+      "pituusaste": 22.226982,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 202,
+      "nimi": "Metsähallitus",
+      "leveysaste": 60.475671,
+      "pituusaste": 22.283078,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 203,
+      "nimi": "Metsähallitus",
+      "leveysaste": 60.740468,
+      "pituusaste": 22.413859,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 204,
+      "nimi": "Metsähallitus",
+      "leveysaste": 65.019459,
+      "pituusaste": 25.506422,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 205,
+      "nimi": "Metsähallitus",
+      "leveysaste": 67.415476,
+      "pituusaste": 26.592771,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 206,
+      "nimi": "Millog Oy",
+      "leveysaste": 61.846139,
+      "pituusaste": 24.208526,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 207,
+      "nimi": "Nauvon aluekonttori",
+      "leveysaste": 60.193542,
+      "pituusaste": 21.902974,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 208,
+      "nimi": "Nauvon aluekonttori",
+      "leveysaste": 60.19355,
+      "pituusaste": 21.902981,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 209,
+      "nimi": "Ohjaamo",
+      "leveysaste": 60.123708,
+      "pituusaste": 24.438302,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 210,
+      "nimi": "Oikeusaputoimisto",
+      "leveysaste": 63.54339,
+      "pituusaste": 29.143201,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 211,
+      "nimi": "Oikeusministeriö",
+      "leveysaste": 60.171386,
+      "pituusaste": 24.958252,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 212,
+      "nimi": "Oikeusministeriö Aipa",
+      "leveysaste": 60.164413,
+      "pituusaste": 24.945863,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 213,
+      "nimi": "Oikeusrekisterikeskus",
+      "leveysaste": 60.994921,
+      "pituusaste": 24.468539,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 214,
+      "nimi": "Oikeustalo",
+      "leveysaste": 66.318095,
+      "pituusaste": 23.671182,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 215,
+      "nimi": "Oikeustalo",
+      "leveysaste": 66.318095,
+      "pituusaste": 23.671191,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 216,
+      "nimi": "Opetus- ja kulttuuriministeriö",
+      "leveysaste": 60.171422,
+      "pituusaste": 24.95825,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 217,
+      "nimi": "Opetushallitus",
+      "leveysaste": 60.178492,
+      "pituusaste": 24.955157,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 218,
+      "nimi": "Oulu10",
+      "leveysaste": 65.013834,
+      "pituusaste": 25.469651,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 219,
+      "nimi": "Oulun hätäkeskus",
+      "leveysaste": 65.009675,
+      "pituusaste": 25.49511,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 220,
+      "nimi": "Oulun hätäkeskus",
+      "leveysaste": 65.009704,
+      "pituusaste": 25.495153,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 221,
+      "nimi": "Oulun oikeusaputoimisto",
+      "leveysaste": 65.010315,
+      "pituusaste": 25.463858,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 222,
+      "nimi": "Paikkatietokeskus FGI",
+      "leveysaste": 60.18252,
+      "pituusaste": 24.828583,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 223,
+      "nimi": "Paikkatietokeskus FGI",
+      "leveysaste": 60.182526,
+      "pituusaste": 24.828578,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 224,
+      "nimi": "Palkeet",
+      "leveysaste": 61.004337,
+      "pituusaste": 24.456083,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 225,
+      "nimi": "Palvelupiste Hannikainen",
+      "leveysaste": 62.238919,
+      "pituusaste": 25.747767,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 226,
+      "nimi": "Patentti- ja rekisterihallitus",
+      "leveysaste": 60.180391,
+      "pituusaste": 24.957882,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 227,
+      "nimi": "Perheoikeudelliset asiat",
+      "leveysaste": 60.172233,
+      "pituusaste": 24.958029,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 228,
+      "nimi": "Perusturvakeskus",
+      "leveysaste": 60.630905,
+      "pituusaste": 24.853432,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 229,
+      "nimi": "Pihtiputaan virastotalo",
+      "leveysaste": 63.369276,
+      "pituusaste": 25.576259,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 230,
+      "nimi": "Pirkanmaan ELY-keskus",
+      "leveysaste": 61.497361,
+      "pituusaste": 23.767482,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 231,
+      "nimi": "Pirkanmaan ELY-keskus",
+      "leveysaste": 61.498556,
+      "pituusaste": 23.779251,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 232,
+      "nimi": "Pirkanmaan liitto",
+      "leveysaste": 61.502475,
+      "pituusaste": 23.763414,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 233,
+      "nimi": "Pirkkalan kunnanvirasto Tiima",
+      "leveysaste": 61.465372,
+      "pituusaste": 23.645383,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 234,
+      "nimi": "Pirkkalan kunnanvirasto Tiima",
+      "leveysaste": 61.46541,
+      "pituusaste": 23.645395,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 235,
+      "nimi": "Pohjois-Karjalan ELY-keskus",
+      "leveysaste": 62.606091,
+      "pituusaste": 29.766312,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 236,
+      "nimi": "Pohjois-Karjalan maakuntaliitto",
+      "leveysaste": 62.600027,
+      "pituusaste": 29.771156,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 237,
+      "nimi": "Pohjois-Pohjanmaan elinkeino-, liikenne- ja ympäristökeskus",
+      "leveysaste": 65.020544,
+      "pituusaste": 25.501729,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 238,
+      "nimi": "Pohjois-Savon ELY-keskus",
+      "leveysaste": 62.886952,
+      "pituusaste": 27.689517,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 239,
+      "nimi": "Pohjois-Savon liitto",
+      "leveysaste": 62.887183,
+      "pituusaste": 27.690566,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 240,
+      "nimi": "Pohjois-Suomen aluehallintoviraston työsuojelun vastuualue",
+      "leveysaste": 65.010274,
+      "pituusaste": 25.467064,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 241,
+      "nimi": "Poliisi Lupapalvelut",
+      "leveysaste": 60.291146,
+      "pituusaste": 25.052454,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 242,
+      "nimi": "Pop-Up-palvelupiste Raahe",
+      "leveysaste": 64.684211,
+      "pituusaste": 24.47867,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 243,
+      "nimi": "Proagria",
+      "leveysaste": 60.296531,
+      "pituusaste": 25.05693,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 244,
+      "nimi": "Proagria",
+      "leveysaste": 60.296543,
+      "pituusaste": 25.056964,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 245,
+      "nimi": "Puolustusministeriö",
+      "leveysaste": 60.16463,
+      "pituusaste": 24.948836,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 246,
+      "nimi": "Puolustusvoimien Uudenmaan aluetoimisto",
+      "leveysaste": 60.147209,
+      "pituusaste": 25.039506,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 247,
+      "nimi": "Puolustusvoimien Uudenmaan aluetoimisto",
+      "leveysaste": 60.147216,
+      "pituusaste": 25.039524,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 248,
+      "nimi": "Puolustusvoimien Uudenmaan aluetoimisto",
+      "leveysaste": 60.147234,
+      "pituusaste": 25.039563,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 249,
+      "nimi": "Puolustusvoimien Uudenmaan aluetoimisto",
+      "leveysaste": 60.15634,
+      "pituusaste": 25.05016,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 250,
+      "nimi": "Puolustusvoimien johtamisjärjestelmäkeskus",
+      "leveysaste": 62.216211,
+      "pituusaste": 25.708045,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 251,
+      "nimi": "Pääesikunta",
+      "leveysaste": 60.164108,
+      "pituusaste": 24.949551,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 252,
+      "nimi": "Pääkaupunkiseudun verotoimisto",
+      "leveysaste": 60.184613,
+      "pituusaste": 24.960545,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 253,
+      "nimi": "Pääluottamusmiestoimisto, Virastotalo 3",
+      "leveysaste": 60.206246,
+      "pituusaste": 24.653652,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 254,
+      "nimi": "Raahen seudun kehitys",
+      "leveysaste": 64.694652,
+      "pituusaste": 24.470056,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 255,
+      "nimi": "Raahen tekninen palvelukeskus",
+      "leveysaste": 64.69346,
+      "pituusaste": 24.574848,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 256,
+      "nimi": "Rajavartioasema",
+      "leveysaste": 64.808165,
+      "pituusaste": 29.679788,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 257,
+      "nimi": "Rajavartioasema",
+      "leveysaste": 69.050294,
+      "pituusaste": 20.790554,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 258,
+      "nimi": "Rajavartioasema",
+      "leveysaste": 69.050308,
+      "pituusaste": 20.790491,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 259,
+      "nimi": "Rajavartiolaitos",
+      "leveysaste": 60.187511,
+      "pituusaste": 24.9651,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 260,
+      "nimi": "Rakennusvalvonta",
+      "leveysaste": 61.488304,
+      "pituusaste": 21.794998,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 261,
+      "nimi": "Rakentajantalo",
+      "leveysaste": 62.238786,
+      "pituusaste": 25.747359,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 262,
+      "nimi": "Rauman toimipiste",
+      "leveysaste": 61.131378,
+      "pituusaste": 21.498637,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 263,
+      "nimi": "Rauman vanha kaupungintalo, palvelupiste Pyyrman",
+      "leveysaste": 61.128998,
+      "pituusaste": 21.504574,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 264,
+      "nimi": "Rauman vanha kaupungintalo, palvelupiste Pyyrman",
+      "leveysaste": 61.129001,
+      "pituusaste": 21.504554,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 265,
+      "nimi": "Rikosseuraamuslaitos Helsingin yhdyskuntaseuraamustoimisto",
+      "leveysaste": 60.192827,
+      "pituusaste": 24.967628,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 266,
+      "nimi": "Ruokavirasto",
+      "leveysaste": 60.228044,
+      "pituusaste": 25.021298,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 267,
+      "nimi": "Ruokavirasto",
+      "leveysaste": 60.228046,
+      "pituusaste": 25.021315,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 268,
+      "nimi": "Ruokavirasto",
+      "leveysaste": 60.867455,
+      "pituusaste": 23.087709,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 269,
+      "nimi": "Ruokavirasto",
+      "leveysaste": 60.867493,
+      "pituusaste": 23.087726,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 270,
+      "nimi": "Ruokavirasto",
+      "leveysaste": 62.787166,
+      "pituusaste": 22.838427,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 271,
+      "nimi": "Ruokavirasto, Seinäjoen laboratorio",
+      "leveysaste": 62.789862,
+      "pituusaste": 22.830052,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 272,
+      "nimi": "Satafood Kehittämisyhdistys",
+      "leveysaste": 61.178185,
+      "pituusaste": 22.700243,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 273,
+      "nimi": "Satamatoimisto",
+      "leveysaste": 60.019056,
+      "pituusaste": 22.50738,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 274,
+      "nimi": "Satamatoimisto",
+      "leveysaste": 60.019071,
+      "pituusaste": 22.507387,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 275,
+      "nimi": "Savukosken kunnatalo",
+      "leveysaste": 67.292327,
+      "pituusaste": 28.160655,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 276,
+      "nimi": "Senaatti-kiinteistöt",
+      "leveysaste": 60.445253,
+      "pituusaste": 22.262606,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 277,
+      "nimi": "Sisä-Suomen verotoimisto, Hämeenlinnan toimipiste",
+      "leveysaste": 60.996431,
+      "pituusaste": 24.481237,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 278,
+      "nimi": "Sisäministeriö",
+      "leveysaste": 60.170762,
+      "pituusaste": 24.955116,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 279,
+      "nimi": "Sisäministeriö",
+      "leveysaste": 60.170773,
+      "pituusaste": 24.95504,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 280,
+      "nimi": "Sivistysosasto",
+      "leveysaste": 61.985777,
+      "pituusaste": 24.069189,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 281,
+      "nimi": "Självstyrelsegården",
+      "leveysaste": 60.098039,
+      "pituusaste": 19.94503,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 282,
+      "nimi": "Självstyrelsegården",
+      "leveysaste": 60.09808,
+      "pituusaste": 19.945062,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 283,
+      "nimi": "Sosiaali- ja terveysministeriö",
+      "leveysaste": 60.170618,
+      "pituusaste": 24.958277,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 284,
+      "nimi": "Sosiaalitoimisto",
+      "leveysaste": 60.48585,
+      "pituusaste": 22.165349,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 285,
+      "nimi": "Sosiaalivirasto Malmin toimipiste",
+      "leveysaste": 60.250495,
+      "pituusaste": 25.013191,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 286,
+      "nimi": "Sosiaaliviraston koulutustilat, Helsingin kaupunki",
+      "leveysaste": 60.185606,
+      "pituusaste": 24.962986,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 287,
+      "nimi": "Statens ämbetshus",
+      "leveysaste": 60.09675,
+      "pituusaste": 19.942243,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 288,
+      "nimi": "Statens ämbetshus",
+      "leveysaste": 60.096785,
+      "pituusaste": 19.942192,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 289,
+      "nimi": "Statens ämbetshus",
+      "leveysaste": 60.097121,
+      "pituusaste": 19.94229,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 290,
+      "nimi": "Suojelupoliisi",
+      "leveysaste": 60.164217,
+      "pituusaste": 24.949589,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 291,
+      "nimi": "Suomen Metsäkeskus",
+      "leveysaste": 60.982733,
+      "pituusaste": 25.661962,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 292,
+      "nimi": "Suomen Pankki",
+      "leveysaste": 60.171737,
+      "pituusaste": 24.951494,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 293,
+      "nimi": "Suomen ympäristökeskus Joensuu",
+      "leveysaste": 62.605243,
+      "pituusaste": 29.742581,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 294,
+      "nimi": "Sámediggi",
+      "leveysaste": 69.90781,
+      "pituusaste": 27.028253,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 295,
+      "nimi": "Säteilyturvakeskus",
+      "leveysaste": 60.290556,
+      "pituusaste": 25.053523,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 296,
+      "nimi": "THL - Terveyden ja hyvinvoinnin laitos",
+      "leveysaste": 60.201297,
+      "pituusaste": 24.898061,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 297,
+      "nimi": "Taiteen edistämiskeskus",
+      "leveysaste": 60.18289,
+      "pituusaste": 24.959648,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 298,
+      "nimi": "Tampereen Evankelis-Luterilainen Seurakuntayhtymä",
+      "leveysaste": 61.497615,
+      "pituusaste": 23.754374,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 299,
+      "nimi": "Tampereen maistraatti",
+      "leveysaste": 61.486716,
+      "pituusaste": 23.770268,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 300,
+      "nimi": "Tampereen verotoimisto",
+      "leveysaste": 61.486817,
+      "pituusaste": 23.770184,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 301,
+      "nimi": "Tekninen keskus",
+      "leveysaste": 60.63085,
+      "pituusaste": 24.853303,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 302,
+      "nimi": "Tekninen keskus",
+      "leveysaste": 61.804223,
+      "pituusaste": 22.398777,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 303,
+      "nimi": "Terveyden ja hyvinvoinnin laitos",
+      "leveysaste": 61.486468,
+      "pituusaste": 23.770099,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 304,
+      "nimi": "Terveyden ja hyvinvoinnin laitos",
+      "leveysaste": 65.005435,
+      "pituusaste": 25.527606,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 305,
+      "nimi": "Terveyden ja hyvinvoinnin laitos",
+      "leveysaste": 65.054938,
+      "pituusaste": 25.578729,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 306,
+      "nimi": "Tietotalo",
+      "leveysaste": 62.239641,
+      "pituusaste": 25.748473,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 307,
+      "nimi": "Tietotalo",
+      "leveysaste": 62.239646,
+      "pituusaste": 25.748478,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 308,
+      "nimi": "Tilastokeskus",
+      "leveysaste": 60.187991,
+      "pituusaste": 24.976377,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 309,
+      "nimi": "Toimintatalo",
+      "leveysaste": 61.896511,
+      "pituusaste": 27.860232,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 310,
+      "nimi": "Trafi",
+      "leveysaste": 60.439584,
+      "pituusaste": 22.226994,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 311,
+      "nimi": "Traficom",
+      "leveysaste": 60.199091,
+      "pituusaste": 24.936865,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 312,
+      "nimi": "Traficom",
+      "leveysaste": 60.203762,
+      "pituusaste": 24.961313,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 313,
+      "nimi": "Traficom",
+      "leveysaste": 61.498443,
+      "pituusaste": 23.779262,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 314,
+      "nimi": "Tulli",
+      "leveysaste": 60.222883,
+      "pituusaste": 25.174748,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 315,
+      "nimi": "Tulli",
+      "leveysaste": 60.433773,
+      "pituusaste": 22.228424,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 316,
+      "nimi": "Tulli",
+      "leveysaste": 60.878171,
+      "pituusaste": 26.798419,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 317,
+      "nimi": "Tulli",
+      "leveysaste": 61.45423,
+      "pituusaste": 23.733255,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 318,
+      "nimi": "Tulli - Eteläinen tullipiiri",
+      "leveysaste": 60.18078,
+      "pituusaste": 24.958539,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 319,
+      "nimi": "Tulli, Perämeren liikkuva ryhmä",
+      "leveysaste": 65.019786,
+      "pituusaste": 25.506521,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 320,
+      "nimi": "Tulli, Raja-Jooseppi",
+      "leveysaste": 68.479507,
+      "pituusaste": 28.443172,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 321,
+      "nimi": "Tulli, Raja-Jooseppi",
+      "leveysaste": 68.479521,
+      "pituusaste": 28.443173,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 322,
+      "nimi": "Tullilaboratorio",
+      "leveysaste": 60.182821,
+      "pituusaste": 24.817444,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 323,
+      "nimi": "Tullitoimisto",
+      "leveysaste": 60.221673,
+      "pituusaste": 25.175814,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 324,
+      "nimi": "Tuomioistuinvirasto",
+      "leveysaste": 60.288238,
+      "pituusaste": 25.036391,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 325,
+      "nimi": "Turun kaupungin konsernihallinto",
+      "leveysaste": 60.451187,
+      "pituusaste": 22.26287,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 326,
+      "nimi": "Turun kaupunginhallitus",
+      "leveysaste": 60.451229,
+      "pituusaste": 22.263005,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 327,
+      "nimi": "Turun kaupunki Vapaa-aikatoimialan hallinto",
+      "leveysaste": 60.450408,
+      "pituusaste": 22.272217,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 328,
+      "nimi": "Turun kaupunkiympäristötoimiala",
+      "leveysaste": 60.452604,
+      "pituusaste": 22.261818,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 329,
+      "nimi": "Turun museokeskus",
+      "leveysaste": 60.439622,
+      "pituusaste": 22.233651,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 330,
+      "nimi": "Turun museokeskus",
+      "leveysaste": 60.439665,
+      "pituusaste": 22.23369,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 331,
+      "nimi": "Turun työllisyysalue, Loimaan toiminta-alue",
+      "leveysaste": 60.850997,
+      "pituusaste": 23.052166,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 332,
+      "nimi": "Turun verotoimisto",
+      "leveysaste": 60.448499,
+      "pituusaste": 22.294336,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 333,
+      "nimi": "Turvallisuus- ja kemikaalivirasto",
+      "leveysaste": 61.498402,
+      "pituusaste": 23.779264,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 334,
+      "nimi": "Työ- ja elinkeinoministeriö",
+      "leveysaste": 60.16904,
+      "pituusaste": 24.956486,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 335,
+      "nimi": "Työllisyys- ja kasvupalvelut",
+      "leveysaste": 61.497411,
+      "pituusaste": 23.767472,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 336,
+      "nimi": "Työterveyslaitos",
+      "leveysaste": 60.189479,
+      "pituusaste": 24.912014,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 337,
+      "nimi": "Työterveyslaitos",
+      "leveysaste": 65.005432,
+      "pituusaste": 25.527903,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 338,
+      "nimi": "Työterveyslaitos, Helsingin aluetoimipiste",
+      "leveysaste": 60.221743,
+      "pituusaste": 24.853078,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 339,
+      "nimi": "Työterveyslaitos, Turun aluetoimipiste",
+      "leveysaste": 60.44844,
+      "pituusaste": 22.294499,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 340,
+      "nimi": "Ulkoministeriö",
+      "leveysaste": 60.168099,
+      "pituusaste": 24.972124,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 341,
+      "nimi": "Ulkoministeriö",
+      "leveysaste": 60.168109,
+      "pituusaste": 24.972113,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 342,
+      "nimi": "Ulosottolaitoksen Loimaan toimipiste",
+      "leveysaste": 60.85105,
+      "pituusaste": 23.052001,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 343,
+      "nimi": "Ulosottolaitos - Forssan toimipiste",
+      "leveysaste": 60.811951,
+      "pituusaste": 23.618071,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 344,
+      "nimi": "Ulosottolaitos - Haapajärven toimipiste",
+      "leveysaste": 63.748821,
+      "pituusaste": 25.321292,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 345,
+      "nimi": "Ulosottolaitos - Helsingin toimipiste",
+      "leveysaste": 60.190068,
+      "pituusaste": 24.962122,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 346,
+      "nimi": "Ulosottolaitos - Huittisten toimipiste",
+      "leveysaste": 61.180359,
+      "pituusaste": 22.69559,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 347,
+      "nimi": "Ulosottolaitos - Hyvinkään toimipiste",
+      "leveysaste": 60.634573,
+      "pituusaste": 24.850887,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 348,
+      "nimi": "Ulosottolaitos - Hämeenlinnan toimipiste",
+      "leveysaste": 60.997227,
+      "pituusaste": 24.471073,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 349,
+      "nimi": "Ulosottolaitos - Iisalmen toimipiste",
+      "leveysaste": 63.553442,
+      "pituusaste": 27.199544,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 350,
+      "nimi": "Ulosottolaitos - Ikaalisten toimipiste",
+      "leveysaste": 61.770274,
+      "pituusaste": 23.06499,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 351,
+      "nimi": "Ulosottolaitos - Inarin toimipiste, 2 krs.",
+      "leveysaste": 68.659021,
+      "pituusaste": 27.531821,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 352,
+      "nimi": "Ulosottolaitos - Joensuun toimipiste",
+      "leveysaste": 62.605632,
+      "pituusaste": 29.7681,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 353,
+      "nimi": "Ulosottolaitos - Jämsän toimipiste",
+      "leveysaste": 61.865408,
+      "pituusaste": 25.195315,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 354,
+      "nimi": "Ulosottolaitos - Järvenpään toimipiste",
+      "leveysaste": 60.470679,
+      "pituusaste": 25.091645,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 355,
+      "nimi": "Ulosottolaitos - Kajaanin toimipiste",
+      "leveysaste": 64.22105,
+      "pituusaste": 27.724937,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 356,
+      "nimi": "Ulosottolaitos - Kangasalan toimipiste",
+      "leveysaste": 61.463821,
+      "pituusaste": 24.074184,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 357,
+      "nimi": "Ulosottolaitos - Kankaanpään toimipiste",
+      "leveysaste": 61.803805,
+      "pituusaste": 22.398689,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 358,
+      "nimi": "Ulosottolaitos - Kauhajoen toimipiste",
+      "leveysaste": 62.423314,
+      "pituusaste": 22.177138,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 359,
+      "nimi": "Ulosottolaitos - Kemijärven toimipiste",
+      "leveysaste": 66.715083,
+      "pituusaste": 27.436468,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 360,
+      "nimi": "Ulosottolaitos - Kemin toimipiste",
+      "leveysaste": 65.73498,
+      "pituusaste": 24.571592,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 361,
+      "nimi": "Ulosottolaitos - Kokkolan toimipiste",
+      "leveysaste": 63.847634,
+      "pituusaste": 23.133206,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 362,
+      "nimi": "Ulosottolaitos - Kotkan toimipiste",
+      "leveysaste": 60.468796,
+      "pituusaste": 26.945442,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 363,
+      "nimi": "Ulosottolaitos - Kouvolan toimipiste",
+      "leveysaste": 60.876783,
+      "pituusaste": 26.703397,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 364,
+      "nimi": "Ulosottolaitos - Kristiinankaupungin toimipiste",
+      "leveysaste": 62.273143,
+      "pituusaste": 21.374366,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 365,
+      "nimi": "Ulosottolaitos - Kuhmon toimipiste",
+      "leveysaste": 64.12776,
+      "pituusaste": 29.521877,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 366,
+      "nimi": "Ulosottolaitos - Kuusamon toimipiste",
+      "leveysaste": 65.96775,
+      "pituusaste": 29.175481,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 367,
+      "nimi": "Ulosottolaitos - Lahden toimipiste",
+      "leveysaste": 60.984523,
+      "pituusaste": 25.665859,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 368,
+      "nimi": "Ulosottolaitos - Lappeenrannan toimipiste",
+      "leveysaste": 61.057668,
+      "pituusaste": 28.190138,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 369,
+      "nimi": "Ulosottolaitos - Lohjan toimipiste",
+      "leveysaste": 60.249402,
+      "pituusaste": 24.060163,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 370,
+      "nimi": "Ulosottolaitos - Mikkelin toimipiste",
+      "leveysaste": 61.687726,
+      "pituusaste": 27.270302,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 371,
+      "nimi": "Ulosottolaitos - Muonion toimipiste",
+      "leveysaste": 67.95841,
+      "pituusaste": 23.681963,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 372,
+      "nimi": "Ulosottolaitos - Mänttä-Vilppulan toimipiste",
+      "leveysaste": 62.030633,
+      "pituusaste": 24.622625,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 373,
+      "nimi": "Ulosottolaitos - Nokian toimipiste",
+      "leveysaste": 61.479786,
+      "pituusaste": 23.498982,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 374,
+      "nimi": "Ulosottolaitos - Nurmeksen toimipiste",
+      "leveysaste": 63.543416,
+      "pituusaste": 29.14344,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 375,
+      "nimi": "Ulosottolaitos - Oulun toimipaikka",
+      "leveysaste": 65.010382,
+      "pituusaste": 25.464855,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 376,
+      "nimi": "Ulosottolaitos - Paraisten toimipiste",
+      "leveysaste": 60.304387,
+      "pituusaste": 22.300811,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 377,
+      "nimi": "Ulosottolaitos - Pellon toimipiste",
+      "leveysaste": 66.771744,
+      "pituusaste": 23.963145,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 378,
+      "nimi": "Ulosottolaitos - Pieksämäen toimipiste",
+      "leveysaste": 62.300417,
+      "pituusaste": 27.151672,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 379,
+      "nimi": "Ulosottolaitos - Pietarsaaren toimpiste",
+      "leveysaste": 63.675864,
+      "pituusaste": 22.710342,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 380,
+      "nimi": "Ulosottolaitos - Porin toimipiste",
+      "leveysaste": 61.488056,
+      "pituusaste": 21.794453,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 381,
+      "nimi": "Ulosottolaitos - Porvoon toimipiste",
+      "leveysaste": 60.395577,
+      "pituusaste": 25.669014,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 382,
+      "nimi": "Ulosottolaitos - Pudasjärven toimipiste",
+      "leveysaste": 65.358499,
+      "pituusaste": 26.99401,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 383,
+      "nimi": "Ulosottolaitos - Raahen toimipiste",
+      "leveysaste": 64.673662,
+      "pituusaste": 24.482745,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 384,
+      "nimi": "Ulosottolaitos - Raaseporin toimipiste",
+      "leveysaste": 59.98122,
+      "pituusaste": 23.440532,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 385,
+      "nimi": "Ulosottolaitos - Rauman toimipiste",
+      "leveysaste": 61.126067,
+      "pituusaste": 21.493699,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 386,
+      "nimi": "Ulosottolaitos - Riihimäen toimipiste",
+      "leveysaste": 60.736843,
+      "pituusaste": 24.766898,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 387,
+      "nimi": "Ulosottolaitos - Rovaniemen toimipiste",
+      "leveysaste": 66.496621,
+      "pituusaste": 25.728793,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 388,
+      "nimi": "Ulosottolaitos - Salon toimipiste",
+      "leveysaste": 60.384617,
+      "pituusaste": 23.133987,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 389,
+      "nimi": "Ulosottolaitos - Savonlinnan toimipiste",
+      "leveysaste": 61.866304,
+      "pituusaste": 28.89381,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 390,
+      "nimi": "Ulosottolaitos - Seinäjoen toimipiste",
+      "leveysaste": 62.792258,
+      "pituusaste": 22.820736,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 391,
+      "nimi": "Ulosottolaitos - Sodankylän toimipiste",
+      "leveysaste": 67.412721,
+      "pituusaste": 26.590478,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 392,
+      "nimi": "Ulosottolaitos - Suomussalmen toimipiste",
+      "leveysaste": 64.88318,
+      "pituusaste": 28.912659,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 393,
+      "nimi": "Ulosottolaitos - Tampereen toimipiste",
+      "leveysaste": 61.502823,
+      "pituusaste": 23.762455,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 394,
+      "nimi": "Ulosottolaitos - Turun toimipiste",
+      "leveysaste": 60.444777,
+      "pituusaste": 22.251786,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 395,
+      "nimi": "Ulosottolaitos - Uudenkaupungin toimipiste",
+      "leveysaste": 60.794046,
+      "pituusaste": 21.429208,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 396,
+      "nimi": "Ulosottolaitos - VVK Pasila",
+      "leveysaste": 60.200156,
+      "pituusaste": 24.934608,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 397,
+      "nimi": "Ulosottolaitos - Vaasan toimipiste",
+      "leveysaste": 63.092973,
+      "pituusaste": 21.631706,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 398,
+      "nimi": "Ulosottolaitos - Valkeakosken toimipiste",
+      "leveysaste": 61.264621,
+      "pituusaste": 24.033952,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 399,
+      "nimi": "Ulosottolaitos - Vantaan toimipiste",
+      "leveysaste": 60.304524,
+      "pituusaste": 24.965194,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 400,
+      "nimi": "Ulosottolaitos - Varkauden toimipiste",
+      "leveysaste": 62.315859,
+      "pituusaste": 27.868772,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 401,
+      "nimi": "Ulosottolaitos - Ylivieskan toimipiste",
+      "leveysaste": 64.071729,
+      "pituusaste": 24.532322,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 402,
+      "nimi": "Ulosottolaitos – Espoon toimipaikka",
+      "leveysaste": 60.187811,
+      "pituusaste": 24.814156,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 403,
+      "nimi": "Ulosottolaitos, Jyväskylä",
+      "leveysaste": 62.24273,
+      "pituusaste": 25.752433,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 404,
+      "nimi": "Utsökningsverket - Ma­rie­hamn",
+      "leveysaste": 60.096918,
+      "pituusaste": 19.942333,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 405,
+      "nimi": "Uudenmaan elinkeino-, liikenne- ja ympäristökeskus",
+      "leveysaste": 60.19895,
+      "pituusaste": 24.935248,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 406,
+      "nimi": "Uudenmaan verotoimisto (Tax office)",
+      "leveysaste": 60.395668,
+      "pituusaste": 25.668588,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 407,
+      "nimi": "Valtakunnansovittelijan toimisto",
+      "leveysaste": 60.165905,
+      "pituusaste": 24.94222,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 408,
+      "nimi": "Valtimo",
+      "leveysaste": 60.170712,
+      "pituusaste": 24.954261,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 409,
+      "nimi": "Valtiokonttori",
+      "leveysaste": 60.180056,
+      "pituusaste": 24.957272,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 410,
+      "nimi": "Valtion teknillinen tutkimuskeskus VTT",
+      "leveysaste": 60.535935,
+      "pituusaste": 24.755902,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 411,
+      "nimi": "Valtion tieto- Ja viestintätekniikkakeskus Valtori",
+      "leveysaste": 60.992887,
+      "pituusaste": 24.453544,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 412,
+      "nimi": "Valtion tieto- Ja viestintätekniikkakeskus Valtori",
+      "leveysaste": 60.992894,
+      "pituusaste": 24.453533,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 413,
+      "nimi": "Valtion tieto- ja viestintätekniikkakeskus Valtori",
+      "leveysaste": 65.018201,
+      "pituusaste": 25.505972,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 414,
+      "nimi": "Valtion virastotalo",
+      "leveysaste": 60.44507,
+      "pituusaste": 22.262444,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 415,
+      "nimi": "Valtion virastotalo",
+      "leveysaste": 62.605875,
+      "pituusaste": 29.766225,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 416,
+      "nimi": "Valtion virastotalo",
+      "leveysaste": 62.605877,
+      "pituusaste": 29.766218,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 417,
+      "nimi": "Valtiontalouden tarkastusvirasto",
+      "leveysaste": 60.164978,
+      "pituusaste": 24.913599,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 418,
+      "nimi": "Valtiontalouden tarkastusvirasto",
+      "leveysaste": 65.018234,
+      "pituusaste": 25.505881,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 419,
+      "nimi": "Valtori",
+      "leveysaste": 66.473839,
+      "pituusaste": 25.730518,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 420,
+      "nimi": "Vammaisten sosiaalityö",
+      "leveysaste": 60.229909,
+      "pituusaste": 24.882517,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 421,
+      "nimi": "Vanha Räikkä",
+      "leveysaste": 61.557614,
+      "pituusaste": 23.597294,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 422,
+      "nimi": "Vantaa Info",
+      "leveysaste": 60.261213,
+      "pituusaste": 24.853946,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 423,
+      "nimi": "Vantaan kaupunki, kadut ja puistot",
+      "leveysaste": 60.293669,
+      "pituusaste": 25.048502,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 424,
+      "nimi": "Varsinais-Suomen ELY-keskus",
+      "leveysaste": 60.445395,
+      "pituusaste": 22.263101,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 425,
+      "nimi": "Varsinais-Suomen TE-toimisto",
+      "leveysaste": 60.445324,
+      "pituusaste": 22.262853,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 426,
+      "nimi": "Varsinais-Suomen liitto",
+      "leveysaste": 60.440685,
+      "pituusaste": 22.244399,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 427,
+      "nimi": "Varsinais-Suomen oikeusaputoimisto, Loimaan toimipaikka",
+      "leveysaste": 60.851111,
+      "pituusaste": 23.051828,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 428,
+      "nimi": "Varsinais-Suomen ulosottovirasto",
+      "leveysaste": 60.444269,
+      "pituusaste": 22.251915,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 429,
+      "nimi": "Vartiolentolaivueen esikunta",
+      "leveysaste": 60.31334,
+      "pituusaste": 24.990876,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 430,
+      "nimi": "Vartiuksen raja-asema",
+      "leveysaste": 64.545118,
+      "pituusaste": 29.985238,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 431,
+      "nimi": "Vartiuksen raja-asema",
+      "leveysaste": 64.545126,
+      "pituusaste": 29.98522,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 432,
+      "nimi": "Vero Jyväskylä",
+      "leveysaste": 62.243561,
+      "pituusaste": 25.753748,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 433,
+      "nimi": "Verohallinto",
+      "leveysaste": 63.840105,
+      "pituusaste": 23.13589,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 434,
+      "nimi": "Verohallinto, pääkonttori",
+      "leveysaste": 60.191197,
+      "pituusaste": 24.960469,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 435,
+      "nimi": "Verotoimisto",
+      "leveysaste": 62.243528,
+      "pituusaste": 25.754802,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 436,
+      "nimi": "Verotoimisto",
+      "leveysaste": 65.00833,
+      "pituusaste": 25.46978,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 437,
+      "nimi": "Verotoimisto",
+      "leveysaste": 65.176413,
+      "pituusaste": 25.35035,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 438,
+      "nimi": "Viikin ympäristötalo",
+      "leveysaste": 60.224954,
+      "pituusaste": 25.015857,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 439,
+      "nimi": "Viikin ympäristötalo",
+      "leveysaste": 60.224962,
+      "pituusaste": 25.015847,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 440,
+      "nimi": "Virastotalo",
+      "leveysaste": 60.850874,
+      "pituusaste": 23.052,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 441,
+      "nimi": "Virastotalo",
+      "leveysaste": 60.850882,
+      "pituusaste": 23.051919,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 442,
+      "nimi": "Virastotalo",
+      "leveysaste": 61.20519,
+      "pituusaste": 26.035055,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 443,
+      "nimi": "Väestöreksterikeskus",
+      "leveysaste": 63.839075,
+      "pituusaste": 23.164603,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 444,
+      "nimi": "Väylävirasto",
+      "leveysaste": 60.199131,
+      "pituusaste": 24.937017,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 445,
+      "nimi": "Väylävirasto",
+      "leveysaste": 60.439804,
+      "pituusaste": 22.22616,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 446,
+      "nimi": "Väylävirasto",
+      "leveysaste": 61.49849,
+      "pituusaste": 23.77926,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 447,
+      "nimi": "Yhteispalvelupiste",
+      "leveysaste": 69.908142,
+      "pituusaste": 27.027997,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 448,
+      "nimi": "Ylistaro-talo",
+      "leveysaste": 62.939853,
+      "pituusaste": 22.517,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 449,
+      "nimi": "Ylistaro-talo",
+      "leveysaste": 62.939858,
+      "pituusaste": 22.516963,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 450,
+      "nimi": "Ylä-Savon kihlakunnanvirasto",
+      "leveysaste": 63.553135,
+      "pituusaste": 27.199176,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 451,
+      "nimi": "Ympäristökeskus",
+      "leveysaste": 60.630837,
+      "pituusaste": 24.853368,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 452,
+      "nimi": "Ympäristöministeriö",
+      "leveysaste": 60.168871,
+      "pituusaste": 24.956672,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 453,
+      "nimi": "Yritysneuvonta Potkuri",
+      "leveysaste": 60.449447,
+      "pituusaste": 22.295165,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 454,
+      "nimi": "Yrityspalvelukeskus",
+      "leveysaste": 62.787661,
+      "pituusaste": 22.839294,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 455,
+      "nimi": "Ääneseudun asunnot",
+      "leveysaste": 62.568214,
+      "pituusaste": 25.854184,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 456,
+      "nimi": "Ålands landskapsregering",
+      "leveysaste": 60.098199,
+      "pituusaste": 19.945103,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    },
+    {
+      "id": 457,
+      "nimi": "Ålands representation i Helsingfors",
+      "leveysaste": 60.166519,
+      "pituusaste": 24.937219,
+      "osm_avain": "office",
+      "osm_arvo": "government",
+      "osm_luokka": "office=government"
+    }
+  ],
+  "meta": {
+    "title": "Valtion ja kuntien virastot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Valtion ja kuntien virastot Suomessa — 457 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=government`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 457 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Valtion ja kuntien virastot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Valtion ja kuntien virastot – Suomi (OpenStreetMap) — 457 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 457 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

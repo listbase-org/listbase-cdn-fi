@@ -1,0 +1,1780 @@
+{
+  "id": "fi-osm-shop-books",
+  "name": "Kirjakaupat – Suomi (OpenStreetMap)",
+  "title": "Kirjakaupat – Suomi (OpenStreetMap)",
+  "description": "Kirjakaupat Suomessa — 191 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=books`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 5. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 191,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aavetaajuus",
+      "leveysaste": 60.187477,
+      "pituusaste": 24.952892,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 2,
+      "nimi": "Aioni",
+      "leveysaste": 60.161913,
+      "pituusaste": 24.948084,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 3,
+      "nimi": "Ajan TV ja Video Center Oy",
+      "leveysaste": 60.255926,
+      "pituusaste": 24.645024,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 4,
+      "nimi": "Akateeminen Kirjakauppa",
+      "leveysaste": 60.167992,
+      "pituusaste": 24.943645,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 5,
+      "nimi": "Akateeminen Kirjakauppa",
+      "leveysaste": 60.175123,
+      "pituusaste": 24.804808,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 6,
+      "nimi": "Akateeminen Kirjakauppa",
+      "leveysaste": 60.451087,
+      "pituusaste": 22.262756,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 7,
+      "nimi": "Akateeminen Kirjakauppa",
+      "leveysaste": 61.498121,
+      "pituusaste": 23.768949,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 8,
+      "nimi": "Alekirjakauppa",
+      "leveysaste": 61.49917,
+      "pituusaste": 23.755033,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 9,
+      "nimi": "Alfa antikva",
+      "leveysaste": 60.448063,
+      "pituusaste": 22.254791,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 10,
+      "nimi": "Alfakirja ja lahja",
+      "leveysaste": 62.892176,
+      "pituusaste": 27.677085,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 11,
+      "nimi": "Alfamer",
+      "leveysaste": 60.172423,
+      "pituusaste": 24.948607,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 12,
+      "nimi": "Antikvaarinen Kirjakauppa Tessi",
+      "leveysaste": 60.179075,
+      "pituusaste": 24.811721,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 13,
+      "nimi": "Antikvaarinen kirjakauppa",
+      "leveysaste": 60.450558,
+      "pituusaste": 22.278762,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 14,
+      "nimi": "Antikvaarinen kirjakauppa Ari Santala",
+      "leveysaste": 62.598909,
+      "pituusaste": 29.760034,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 15,
+      "nimi": "Antikvariaatti",
+      "leveysaste": 60.179936,
+      "pituusaste": 24.924207,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 16,
+      "nimi": "Antikvariaatti Aleksis K",
+      "leveysaste": 60.980792,
+      "pituusaste": 25.657754,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 17,
+      "nimi": "Antikvariaatti Johannes",
+      "leveysaste": 60.163765,
+      "pituusaste": 24.944955,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 18,
+      "nimi": "Antikvariaatti Kirjamari Oy",
+      "leveysaste": 60.281582,
+      "pituusaste": 24.849488,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 19,
+      "nimi": "Antikvariaatti Kuuskulma",
+      "leveysaste": 60.1914,
+      "pituusaste": 24.943768,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 20,
+      "nimi": "Antikvariaatti Lukuhetki",
+      "leveysaste": 62.240648,
+      "pituusaste": 25.743146,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 21,
+      "nimi": "Antikvariaatti Lukulaari",
+      "leveysaste": 61.49873,
+      "pituusaste": 23.752667,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 22,
+      "nimi": "Antikvariaatti Makedonia",
+      "leveysaste": 61.497483,
+      "pituusaste": 23.77103,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 23,
+      "nimi": "Antikvariaatti Oranssi Planeetta",
+      "leveysaste": 60.197435,
+      "pituusaste": 24.962515,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 24,
+      "nimi": "Antikvariaatti Scriptorium",
+      "leveysaste": 62.140303,
+      "pituusaste": 25.76944,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 25,
+      "nimi": "Antikvariaatti Sofia",
+      "leveysaste": 60.170791,
+      "pituusaste": 24.94782,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 26,
+      "nimi": "Antikvariaatti Suma",
+      "leveysaste": 61.059267,
+      "pituusaste": 28.19209,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 27,
+      "nimi": "Antikvariaatti Tyrwää",
+      "leveysaste": 61.342272,
+      "pituusaste": 22.910614,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 28,
+      "nimi": "Antikvariaatti Vilho",
+      "leveysaste": 60.17497,
+      "pituusaste": 24.928882,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 29,
+      "nimi": "Arkadia International Bookshop",
+      "leveysaste": 60.173429,
+      "pituusaste": 24.929343,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 30,
+      "nimi": "Aseman divari",
+      "leveysaste": 65.012907,
+      "pituusaste": 25.478695,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 31,
+      "nimi": "Auringon kirja- ja paperipuoti",
+      "leveysaste": 60.417128,
+      "pituusaste": 24.323157,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 32,
+      "nimi": "Biokustannus oy",
+      "leveysaste": 60.192791,
+      "pituusaste": 24.909388,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 33,
+      "nimi": "Booklet",
+      "leveysaste": 60.301219,
+      "pituusaste": 22.301798,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 34,
+      "nimi": "Brahen Antikvariaatti",
+      "leveysaste": 60.453849,
+      "pituusaste": 22.269055,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 35,
+      "nimi": "C. Hagelstam",
+      "leveysaste": 60.161531,
+      "pituusaste": 24.946596,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 36,
+      "nimi": "C. Hagelstamin Antikvaarinen Kirjakauppa",
+      "leveysaste": 60.157841,
+      "pituusaste": 24.945926,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 37,
+      "nimi": "Delfiinikirjat",
+      "leveysaste": 60.164456,
+      "pituusaste": 24.943527,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 38,
+      "nimi": "Ellin Kirja ja Putiikki",
+      "leveysaste": 62.241846,
+      "pituusaste": 25.745522,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 39,
+      "nimi": "Elonpyörä",
+      "leveysaste": 60.187047,
+      "pituusaste": 24.964547,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 40,
+      "nimi": "Era Nova",
+      "leveysaste": 60.159869,
+      "pituusaste": 24.948348,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 41,
+      "nimi": "Etana editions",
+      "leveysaste": 60.155749,
+      "pituusaste": 24.94599,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 42,
+      "nimi": "Fennica Comics",
+      "leveysaste": 60.183588,
+      "pituusaste": 24.958438,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 43,
+      "nimi": "Finlandia Kirja",
+      "leveysaste": 60.803856,
+      "pituusaste": 25.758969,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 44,
+      "nimi": "Gezelius antikvaarinen kirjakauppa",
+      "leveysaste": 61.499817,
+      "pituusaste": 23.751936,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 45,
+      "nimi": "Gros",
+      "leveysaste": 63.087024,
+      "pituusaste": 21.637403,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 46,
+      "nimi": "Hagelstam",
+      "leveysaste": 60.163666,
+      "pituusaste": 24.938159,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 47,
+      "nimi": "Harjavallan Kirjakauppa",
+      "leveysaste": 61.311855,
+      "pituusaste": 22.135705,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 48,
+      "nimi": "Herlers Bokhandel",
+      "leveysaste": 63.523398,
+      "pituusaste": 22.530606,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 49,
+      "nimi": "Hertta kustannus",
+      "leveysaste": 60.173873,
+      "pituusaste": 24.924173,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 50,
+      "nimi": "Hittimaatti.fi",
+      "leveysaste": 64.684389,
+      "pituusaste": 24.476604,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 51,
+      "nimi": "Hittimaatti.fi",
+      "leveysaste": 64.684418,
+      "pituusaste": 24.476599,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 52,
+      "nimi": "Honkaniemen Kirjakauppa Ky",
+      "leveysaste": 62.550301,
+      "pituusaste": 24.068298,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 53,
+      "nimi": "Huittisten Kirjakauppa",
+      "leveysaste": 61.177671,
+      "pituusaste": 22.696957,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 54,
+      "nimi": "Info Kirjakauppa Pukstaavi",
+      "leveysaste": 67.4168,
+      "pituusaste": 26.592811,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 55,
+      "nimi": "Info Uusikaupunki",
+      "leveysaste": 60.80033,
+      "pituusaste": 21.412019,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 56,
+      "nimi": "Info-kirjakauppa",
+      "leveysaste": 62.427662,
+      "pituusaste": 22.179209,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 57,
+      "nimi": "Info-shop G & G",
+      "leveysaste": 63.727878,
+      "pituusaste": 23.032528,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 58,
+      "nimi": "Jakobstads Bokhandel",
+      "leveysaste": 63.675015,
+      "pituusaste": 22.703853,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 59,
+      "nimi": "Joelin kirja ja taide",
+      "leveysaste": 62.601135,
+      "pituusaste": 29.761042,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 60,
+      "nimi": "Juvekim",
+      "leveysaste": 60.45268,
+      "pituusaste": 22.254318,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 61,
+      "nimi": "KIPA KirjaKeuruu",
+      "leveysaste": 62.258995,
+      "pituusaste": 24.707411,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 62,
+      "nimi": "Kainuun Kirja- ja Paperikauppa",
+      "leveysaste": 64.40684,
+      "pituusaste": 27.8382,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 63,
+      "nimi": "Kainuun Kirja- ja Paperikauppa",
+      "leveysaste": 64.406847,
+      "pituusaste": 27.838232,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 64,
+      "nimi": "Kalajoen kirja- ja konttoripalvelu KIPA",
+      "leveysaste": 64.258749,
+      "pituusaste": 23.949467,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 65,
+      "nimi": "Kampintorin Antikvaarinen Kirjakauppa",
+      "leveysaste": 60.168044,
+      "pituusaste": 24.932045,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 66,
+      "nimi": "Kansallinen Kirjakauppa",
+      "leveysaste": 60.448956,
+      "pituusaste": 22.266387,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 67,
+      "nimi": "Kansallinen Kirjakauppa",
+      "leveysaste": 60.472626,
+      "pituusaste": 22.232507,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 68,
+      "nimi": "Kansallinen kirjakauppa",
+      "leveysaste": 60.452316,
+      "pituusaste": 22.282999,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 69,
+      "nimi": "Karhun kirja & paperi",
+      "leveysaste": 64.685701,
+      "pituusaste": 24.479025,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 70,
+      "nimi": "Kaupoille.fi",
+      "leveysaste": 60.274757,
+      "pituusaste": 25.045887,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 71,
+      "nimi": "Keski-Töölön Paperikauppa",
+      "leveysaste": 60.183412,
+      "pituusaste": 24.922359,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 72,
+      "nimi": "Kipa",
+      "leveysaste": 63.65259,
+      "pituusaste": 26.618929,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 73,
+      "nimi": "Kipa Kirjakauppa",
+      "leveysaste": 60.635193,
+      "pituusaste": 25.318674,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 74,
+      "nimi": "Kirja- ja lahjaliike Sininen ajatus",
+      "leveysaste": 62.974851,
+      "pituusaste": 28.478648,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 75,
+      "nimi": "Kirja-antikvariaatti Begemot",
+      "leveysaste": 61.057532,
+      "pituusaste": 28.183312,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 76,
+      "nimi": "Kirjakauppa",
+      "leveysaste": 61.223785,
+      "pituusaste": 28.831293,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 77,
+      "nimi": "Kirjakauppa",
+      "leveysaste": 62.009195,
+      "pituusaste": 23.025061,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 78,
+      "nimi": "Kirjakauppa Sananhelinä",
+      "leveysaste": 63.556625,
+      "pituusaste": 29.101855,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 79,
+      "nimi": "Kirjakellari",
+      "leveysaste": 61.342397,
+      "pituusaste": 22.912312,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 80,
+      "nimi": "Kirjapiste",
+      "leveysaste": 63.749959,
+      "pituusaste": 25.319258,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 81,
+      "nimi": "Kirjapörssi",
+      "leveysaste": 60.293404,
+      "pituusaste": 24.062803,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 82,
+      "nimi": "Kirjapörssi",
+      "leveysaste": 60.418753,
+      "pituusaste": 23.164735,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 83,
+      "nimi": "Kirjapörssi",
+      "leveysaste": 62.517687,
+      "pituusaste": 25.689626,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 84,
+      "nimi": "Kirjaspotti",
+      "leveysaste": 60.5695,
+      "pituusaste": 27.198812,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 85,
+      "nimi": "Kirjatori",
+      "leveysaste": 60.867765,
+      "pituusaste": 26.706667,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 86,
+      "nimi": "KirjavaLinna",
+      "leveysaste": 62.585488,
+      "pituusaste": 23.616068,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 87,
+      "nimi": "Kristosofia kirjakauppa",
+      "leveysaste": 60.979005,
+      "pituusaste": 25.657031,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 88,
+      "nimi": "Kulkukatin Poika",
+      "leveysaste": 60.188981,
+      "pituusaste": 24.948028,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 89,
+      "nimi": "Kummisetä",
+      "leveysaste": 60.163707,
+      "pituusaste": 24.938983,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 90,
+      "nimi": "Kuortaneen kirjakauppa",
+      "leveysaste": 62.803161,
+      "pituusaste": 23.508744,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 91,
+      "nimi": "Laukontorin antikvariaatti",
+      "leveysaste": 61.495619,
+      "pituusaste": 23.759829,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 92,
+      "nimi": "Lisco",
+      "leveysaste": 60.10322,
+      "pituusaste": 19.940729,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 93,
+      "nimi": "Loviisan Kirjakauppa",
+      "leveysaste": 60.456322,
+      "pituusaste": 26.227061,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 94,
+      "nimi": "Luther Divari & Kristillinen kirjakauppa",
+      "leveysaste": 60.164901,
+      "pituusaste": 24.950002,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 95,
+      "nimi": "Mariehamns bokhandel",
+      "leveysaste": 60.097908,
+      "pituusaste": 19.94218,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 96,
+      "nimi": "Mustan Kanin Kolo",
+      "leveysaste": 60.185943,
+      "pituusaste": 24.953004,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 97,
+      "nimi": "Nide",
+      "leveysaste": 60.163705,
+      "pituusaste": 24.938089,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 98,
+      "nimi": "Novgorod",
+      "leveysaste": 60.868292,
+      "pituusaste": 26.706305,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 99,
+      "nimi": "Nurmijärven kirjakauppa",
+      "leveysaste": 60.461624,
+      "pituusaste": 24.803502,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 100,
+      "nimi": "Orimattilan Kirja ja Toimistotarvike",
+      "leveysaste": 60.804425,
+      "pituusaste": 25.732125,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 101,
+      "nimi": "Otava Café",
+      "leveysaste": 60.164536,
+      "pituusaste": 24.94127,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 102,
+      "nimi": "Oulun kirjallisuuden talo",
+      "leveysaste": 65.013603,
+      "pituusaste": 25.473891,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 103,
+      "nimi": "Paperipuoti",
+      "leveysaste": 60.162039,
+      "pituusaste": 22.730235,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 104,
+      "nimi": "Pielakka",
+      "leveysaste": 63.231857,
+      "pituusaste": 26.754137,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 105,
+      "nimi": "Pieni Kirjapuoti",
+      "leveysaste": 60.467199,
+      "pituusaste": 22.025539,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 106,
+      "nimi": "Porin kirjakauppa",
+      "leveysaste": 61.486221,
+      "pituusaste": 21.795353,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 107,
+      "nimi": "Punainen planeetta",
+      "leveysaste": 60.187096,
+      "pituusaste": 24.957214,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 108,
+      "nimi": "Q-kirjakauppa",
+      "leveysaste": 60.50551,
+      "pituusaste": 22.457263,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 109,
+      "nimi": "Reuna Kustantamo",
+      "leveysaste": 60.769727,
+      "pituusaste": 26.784419,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 110,
+      "nimi": "Rosebud",
+      "leveysaste": 60.169752,
+      "pituusaste": 24.941954,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 111,
+      "nimi": "Rosebud",
+      "leveysaste": 60.173196,
+      "pituusaste": 24.956627,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 112,
+      "nimi": "Rosebud",
+      "leveysaste": 62.892651,
+      "pituusaste": 27.6803,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 113,
+      "nimi": "Rosebud Sivullinen",
+      "leveysaste": 60.171349,
+      "pituusaste": 24.947804,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 114,
+      "nimi": "Runebergin Antikvariaatti",
+      "leveysaste": 60.174624,
+      "pituusaste": 24.922491,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 115,
+      "nimi": "Saarijärven kirjakauppa Kipa",
+      "leveysaste": 62.706508,
+      "pituusaste": 25.259343,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 116,
+      "nimi": "Sacrum",
+      "leveysaste": 60.166311,
+      "pituusaste": 24.935373,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 117,
+      "nimi": "Sammakon Kirjakauppa & Kahvihuone",
+      "leveysaste": 60.449876,
+      "pituusaste": 22.259937,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 118,
+      "nimi": "Sininen Sivellin",
+      "leveysaste": 63.54732,
+      "pituusaste": 23.692925,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 119,
+      "nimi": "Suola ja valkeus",
+      "leveysaste": 61.498983,
+      "pituusaste": 23.755671,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 120,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.149039,
+      "pituusaste": 24.655882,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 121,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.161581,
+      "pituusaste": 24.738922,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 122,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.169072,
+      "pituusaste": 24.943998,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 123,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.169227,
+      "pituusaste": 24.933339,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 124,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.175458,
+      "pituusaste": 24.804309,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 125,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.187328,
+      "pituusaste": 24.979374,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 126,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.205686,
+      "pituusaste": 24.87765,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 127,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.211281,
+      "pituusaste": 25.081622,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 128,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.218381,
+      "pituusaste": 24.812381,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 129,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.237536,
+      "pituusaste": 24.891697,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 130,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.250845,
+      "pituusaste": 24.070112,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 131,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.260603,
+      "pituusaste": 24.853815,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 132,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.29183,
+      "pituusaste": 24.965026,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 133,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.316327,
+      "pituusaste": 24.971296,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 134,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.318199,
+      "pituusaste": 24.965778,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 135,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.393363,
+      "pituusaste": 25.665423,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 136,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.430075,
+      "pituusaste": 22.322395,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 137,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.450349,
+      "pituusaste": 22.264031,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 138,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.469974,
+      "pituusaste": 25.085614,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 139,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.490715,
+      "pituusaste": 22.199851,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 140,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.569019,
+      "pituusaste": 27.19187,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 141,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.630928,
+      "pituusaste": 24.865477,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 142,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.877121,
+      "pituusaste": 26.650962,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 143,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.983026,
+      "pituusaste": 25.661917,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 144,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 60.994048,
+      "pituusaste": 24.455938,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 145,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.056557,
+      "pituusaste": 28.193407,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 146,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.129973,
+      "pituusaste": 21.507367,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 147,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.170603,
+      "pituusaste": 28.769425,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 148,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.202836,
+      "pituusaste": 26.030367,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 149,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.360072,
+      "pituusaste": 23.796314,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 150,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.492901,
+      "pituusaste": 23.766832,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 151,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.494534,
+      "pituusaste": 21.800072,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 152,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.495524,
+      "pituusaste": 23.767986,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 153,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.497724,
+      "pituusaste": 23.758393,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 154,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.498101,
+      "pituusaste": 23.75824,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 155,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.688813,
+      "pituusaste": 27.274062,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 156,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.864237,
+      "pituusaste": 25.188897,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 157,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 61.870009,
+      "pituusaste": 28.878507,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 158,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 62.242812,
+      "pituusaste": 25.747333,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 159,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 62.256477,
+      "pituusaste": 25.774638,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 160,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 62.601874,
+      "pituusaste": 29.763415,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 161,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 62.794119,
+      "pituusaste": 22.793069,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 162,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 62.823437,
+      "pituusaste": 27.604149,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 163,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 62.890801,
+      "pituusaste": 27.676838,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 164,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 63.095341,
+      "pituusaste": 21.613622,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 165,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 63.558447,
+      "pituusaste": 27.188774,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 166,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 63.835736,
+      "pituusaste": 23.132453,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 167,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 64.223652,
+      "pituusaste": 27.735744,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 168,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 64.901996,
+      "pituusaste": 25.537064,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 169,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 65.011711,
+      "pituusaste": 25.471647,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 170,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 65.075881,
+      "pituusaste": 25.444849,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 171,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 65.737418,
+      "pituusaste": 24.564647,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 172,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 65.963904,
+      "pituusaste": 29.189215,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 173,
+      "nimi": "Suomalainen Kirjakauppa",
+      "leveysaste": 66.50307,
+      "pituusaste": 25.724569,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 174,
+      "nimi": "Suonenjoen Kirjakauppa",
+      "leveysaste": 62.627452,
+      "pituusaste": 27.118394,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 175,
+      "nimi": "Säkylän Kirja",
+      "leveysaste": 61.04546,
+      "pituusaste": 22.345795,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 176,
+      "nimi": "Tia:n kirja",
+      "leveysaste": 59.825079,
+      "pituusaste": 22.967759,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 177,
+      "nimi": "Tiedekirja",
+      "leveysaste": 60.171709,
+      "pituusaste": 24.95357,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 178,
+      "nimi": "Tiedekulma shop",
+      "leveysaste": 60.169763,
+      "pituusaste": 24.948892,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 179,
+      "nimi": "Toivon tupa",
+      "leveysaste": 64.225401,
+      "pituusaste": 27.734736,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 180,
+      "nimi": "Toppen",
+      "leveysaste": 59.975572,
+      "pituusaste": 23.437238,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 181,
+      "nimi": "Turun Sarjakuvakauppa",
+      "leveysaste": 60.453205,
+      "pituusaste": 22.268881,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 182,
+      "nimi": "Vanhan Rauman Kirjakauppa",
+      "leveysaste": 61.128521,
+      "pituusaste": 21.513495,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 183,
+      "nimi": "Viherympäristöliitto ry kirjakauppa",
+      "leveysaste": 60.253723,
+      "pituusaste": 25.011052,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 184,
+      "nimi": "Vihreä planeetta",
+      "leveysaste": 60.18074,
+      "pituusaste": 24.95094,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 185,
+      "nimi": "Viitasaaren kirjakauppa",
+      "leveysaste": 63.07411,
+      "pituusaste": 25.858635,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 186,
+      "nimi": "Vinhan Kirjakauppa",
+      "leveysaste": 61.985526,
+      "pituusaste": 24.071221,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 187,
+      "nimi": "Virrat-Kirja Ky",
+      "leveysaste": 62.241662,
+      "pituusaste": 23.768854,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 188,
+      "nimi": "Yhteiskristillinen Kirjakauppa",
+      "leveysaste": 63.840411,
+      "pituusaste": 23.128125,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 189,
+      "nimi": "Yhteiskristillinen Kirjakauppa",
+      "leveysaste": 63.840412,
+      "pituusaste": 23.128161,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 190,
+      "nimi": "Ylistaron Kirjakauppa",
+      "leveysaste": 62.946003,
+      "pituusaste": 22.526844,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    },
+    {
+      "id": 191,
+      "nimi": "bookm-ark.fi",
+      "leveysaste": 60.196532,
+      "pituusaste": 24.881044,
+      "osm_avain": "shop",
+      "osm_arvo": "books",
+      "osm_luokka": "shop=books"
+    }
+  ],
+  "meta": {
+    "title": "Kirjakaupat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kirjakaupat Suomessa — 191 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=books`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 5. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 191 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kirjakaupat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kirjakaupat – Suomi (OpenStreetMap) — 191 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 191 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

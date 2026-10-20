@@ -1,0 +1,1942 @@
+{
+  "id": "fi-osm-tourism-apartment",
+  "name": "Lomahuoneistot – Suomi (OpenStreetMap)",
+  "title": "Lomahuoneistot – Suomi (OpenStreetMap)",
+  "description": "Lomahuoneistot Suomessa — 209 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=apartment`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 20. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 209,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aamurusko Jämätie 2b",
+      "leveysaste": 67.608314,
+      "pituusaste": 24.17992,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 2,
+      "nimi": "Ahma",
+      "leveysaste": 68.419384,
+      "pituusaste": 27.424644,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 3,
+      "nimi": "Ahma",
+      "leveysaste": 68.419422,
+      "pituusaste": 27.424768,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 4,
+      "nimi": "Aito toimintakeskus",
+      "leveysaste": 61.535889,
+      "pituusaste": 23.840424,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 5,
+      "nimi": "Aito toimintakeskus",
+      "leveysaste": 61.535891,
+      "pituusaste": 23.840425,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 6,
+      "nimi": "Apartment Anjala",
+      "leveysaste": 60.687469,
+      "pituusaste": 26.798896,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 7,
+      "nimi": "Apartment Kuukkeli- 1 and 2A",
+      "leveysaste": 68.420318,
+      "pituusaste": 27.410899,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 8,
+      "nimi": "Apartment Kuukkeli- 1 and 2A",
+      "leveysaste": 68.420331,
+      "pituusaste": 27.410905,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 9,
+      "nimi": "Apartment Paasikivi",
+      "leveysaste": 60.403354,
+      "pituusaste": 25.101846,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 10,
+      "nimi": "Apartments Borg Dyyni",
+      "leveysaste": 61.5911,
+      "pituusaste": 21.477896,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 11,
+      "nimi": "Apartments Kuukkeli: 3-5 / 22-26",
+      "leveysaste": 68.420284,
+      "pituusaste": 27.411744,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 12,
+      "nimi": "Askan Erämajat",
+      "leveysaste": 65.046696,
+      "pituusaste": 27.71349,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 13,
+      "nimi": "AuroraLevi Utsuvaara Retreat",
+      "leveysaste": 67.781177,
+      "pituusaste": 24.880366,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 14,
+      "nimi": "AuroraLevi Utsuvaara Retreat",
+      "leveysaste": 67.781181,
+      "pituusaste": 24.880524,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 15,
+      "nimi": "AuroraLevi Utsuvaara Retreat",
+      "leveysaste": 67.781435,
+      "pituusaste": 24.879998,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 16,
+      "nimi": "AuroraLevi Utsuvaara Retreat",
+      "leveysaste": 67.781498,
+      "pituusaste": 24.880038,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 17,
+      "nimi": "Bob W",
+      "leveysaste": 60.172342,
+      "pituusaste": 24.947151,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 18,
+      "nimi": "Bob W Kluuvi",
+      "leveysaste": 60.171204,
+      "pituusaste": 24.947363,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 19,
+      "nimi": "Cafe Sininen Fillari",
+      "leveysaste": 69.115982,
+      "pituusaste": 27.213625,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 20,
+      "nimi": "Design Apartments Kristiina",
+      "leveysaste": 60.469822,
+      "pituusaste": 22.01972,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 21,
+      "nimi": "Folkiacenter",
+      "leveysaste": 59.829042,
+      "pituusaste": 22.961509,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 22,
+      "nimi": "Forenom",
+      "leveysaste": 60.17205,
+      "pituusaste": 24.80844,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 23,
+      "nimi": "Forenom",
+      "leveysaste": 60.175813,
+      "pituusaste": 24.957595,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 24,
+      "nimi": "Forenom",
+      "leveysaste": 60.443327,
+      "pituusaste": 22.240395,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 25,
+      "nimi": "Forenom Hostel",
+      "leveysaste": 61.133645,
+      "pituusaste": 21.496265,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 26,
+      "nimi": "Forenom Serviced Apartments Helsinki Lapinlahdenkatu",
+      "leveysaste": 60.166869,
+      "pituusaste": 24.925946,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 27,
+      "nimi": "Gardenhouse",
+      "leveysaste": 61.339099,
+      "pituusaste": 22.90963,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 28,
+      "nimi": "Gielas",
+      "leveysaste": 68.421285,
+      "pituusaste": 27.427893,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 29,
+      "nimi": "Gielas",
+      "leveysaste": 68.421302,
+      "pituusaste": 27.427996,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 30,
+      "nimi": "Golbma",
+      "leveysaste": 67.610741,
+      "pituusaste": 24.185998,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 31,
+      "nimi": "Golf Resort",
+      "leveysaste": 61.105358,
+      "pituusaste": 26.002859,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 32,
+      "nimi": "Golf Resort",
+      "leveysaste": 61.105553,
+      "pituusaste": 26.003129,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 33,
+      "nimi": "Helmiäinen",
+      "leveysaste": 67.588641,
+      "pituusaste": 24.119886,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 34,
+      "nimi": "Helsingin temppelin vieraskoti",
+      "leveysaste": 60.225226,
+      "pituusaste": 24.784349,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 35,
+      "nimi": "Hiisi Homes Nummela",
+      "leveysaste": 60.334716,
+      "pituusaste": 24.326902,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 36,
+      "nimi": "Hiisi Homes Turku Fleminginkatu",
+      "leveysaste": 60.437718,
+      "pituusaste": 22.234176,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 37,
+      "nimi": "Hirsihuvila 501",
+      "leveysaste": 60.889068,
+      "pituusaste": 26.775739,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 38,
+      "nimi": "Hirsihuvila 501",
+      "leveysaste": 60.889076,
+      "pituusaste": 26.775736,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 39,
+      "nimi": "Hirsihuvila 502",
+      "leveysaste": 60.888897,
+      "pituusaste": 26.775432,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 40,
+      "nimi": "Hirsihuvila 502",
+      "leveysaste": 60.888904,
+      "pituusaste": 26.775428,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 41,
+      "nimi": "Hirsihuvila 503",
+      "leveysaste": 60.888896,
+      "pituusaste": 26.775824,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 42,
+      "nimi": "Hirsihuvila 503",
+      "leveysaste": 60.888903,
+      "pituusaste": 26.77582,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 43,
+      "nimi": "Hirsihuvila 504",
+      "leveysaste": 60.888731,
+      "pituusaste": 26.775339,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 44,
+      "nimi": "Hirsihuvila 504",
+      "leveysaste": 60.888738,
+      "pituusaste": 26.775336,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 45,
+      "nimi": "Hirsihuvila 505",
+      "leveysaste": 60.888724,
+      "pituusaste": 26.77592,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 46,
+      "nimi": "Hirsihuvila 505",
+      "leveysaste": 60.888731,
+      "pituusaste": 26.775917,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 47,
+      "nimi": "Hirsihuvila 506",
+      "leveysaste": 60.888596,
+      "pituusaste": 26.777421,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 48,
+      "nimi": "Hirsihuvila 507",
+      "leveysaste": 60.888505,
+      "pituusaste": 26.777663,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 49,
+      "nimi": "Hirsihuvila 508",
+      "leveysaste": 60.888433,
+      "pituusaste": 26.777937,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 50,
+      "nimi": "Hirsihuvila 509",
+      "leveysaste": 60.888354,
+      "pituusaste": 26.778195,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 51,
+      "nimi": "Hirsihuvila 510",
+      "leveysaste": 60.888292,
+      "pituusaste": 26.778485,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 52,
+      "nimi": "Holiday Cottage",
+      "leveysaste": 60.252379,
+      "pituusaste": 22.107707,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 53,
+      "nimi": "Holiday Cottage",
+      "leveysaste": 60.252382,
+      "pituusaste": 22.10771,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 54,
+      "nimi": "Holiday Cottage",
+      "leveysaste": 60.252468,
+      "pituusaste": 22.108187,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 55,
+      "nimi": "Holiday Cottage",
+      "leveysaste": 60.252471,
+      "pituusaste": 22.10819,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 56,
+      "nimi": "Holiday Cottage",
+      "leveysaste": 60.252517,
+      "pituusaste": 22.108605,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 57,
+      "nimi": "Holiday Cottage",
+      "leveysaste": 60.25252,
+      "pituusaste": 22.108608,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 58,
+      "nimi": "Holmankosken Perhotupa",
+      "leveysaste": 61.858964,
+      "pituusaste": 21.513398,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 59,
+      "nimi": "Huoneistohotelli Villa Aino",
+      "leveysaste": 60.997,
+      "pituusaste": 24.452224,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 60,
+      "nimi": "Huoneistomajoitus Unelma",
+      "leveysaste": 61.420585,
+      "pituusaste": 26.888756,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 61,
+      "nimi": "Huurre 12B",
+      "leveysaste": 67.608105,
+      "pituusaste": 24.188066,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 62,
+      "nimi": "Huurre 12b",
+      "leveysaste": 67.608098,
+      "pituusaste": 24.188089,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 63,
+      "nimi": "Joutseno B.B.",
+      "leveysaste": 61.127831,
+      "pituusaste": 28.488157,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 64,
+      "nimi": "Juurikan vapaa-aikakeskus",
+      "leveysaste": 61.996415,
+      "pituusaste": 30.084082,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 65,
+      "nimi": "Juurikan vapaa-aikakeskus",
+      "leveysaste": 61.996445,
+      "pituusaste": 30.084032,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 66,
+      "nimi": "Kalevala Experience",
+      "leveysaste": 64.608025,
+      "pituusaste": 29.557745,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 67,
+      "nimi": "Karhunpesä",
+      "leveysaste": 65.468619,
+      "pituusaste": 29.521418,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 68,
+      "nimi": "Karhunpesä",
+      "leveysaste": 65.468635,
+      "pituusaste": 29.521447,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 69,
+      "nimi": "Kesänki VIII",
+      "leveysaste": 67.607608,
+      "pituusaste": 24.185228,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 70,
+      "nimi": "Kevät riekko",
+      "leveysaste": 67.601801,
+      "pituusaste": 24.159319,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 71,
+      "nimi": "Kiekinkosken lomamökit",
+      "leveysaste": 64.021764,
+      "pituusaste": 30.233479,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 72,
+      "nimi": "Kivimäen matkailutila",
+      "leveysaste": 60.517532,
+      "pituusaste": 22.041793,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 73,
+      "nimi": "Kotimaailma Apartments",
+      "leveysaste": 65.006185,
+      "pituusaste": 25.472662,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 74,
+      "nimi": "Kuerkaltio Resort",
+      "leveysaste": 67.602116,
+      "pituusaste": 24.127387,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 75,
+      "nimi": "Kurki",
+      "leveysaste": 67.610008,
+      "pituusaste": 24.190117,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 76,
+      "nimi": "Kuulas",
+      "leveysaste": 67.610135,
+      "pituusaste": 24.190533,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 77,
+      "nimi": "Kuulas",
+      "leveysaste": 67.61014,
+      "pituusaste": 24.190514,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 78,
+      "nimi": "Kuura 12A",
+      "leveysaste": 67.607912,
+      "pituusaste": 24.187826,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 79,
+      "nimi": "Kuura 12a",
+      "leveysaste": 67.607923,
+      "pituusaste": 24.187841,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 80,
+      "nimi": "L7",
+      "leveysaste": 67.655143,
+      "pituusaste": 24.17978,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 81,
+      "nimi": "Lammastilan laavu, lean to",
+      "leveysaste": 60.323204,
+      "pituusaste": 23.104271,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 82,
+      "nimi": "Lapland Hotels Luostotunturi mökkialue",
+      "leveysaste": 67.156547,
+      "pituusaste": 26.91017,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 83,
+      "nimi": "Lehmonkärki Resort",
+      "leveysaste": 61.248447,
+      "pituusaste": 25.425183,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 84,
+      "nimi": "Lentuvat",
+      "leveysaste": 64.244001,
+      "pituusaste": 29.494821,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 85,
+      "nimi": "Leppäpirtti",
+      "leveysaste": 68.503026,
+      "pituusaste": 23.337683,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 86,
+      "nimi": "Levi Star I",
+      "leveysaste": 67.809364,
+      "pituusaste": 24.804221,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 87,
+      "nimi": "Levi Star I",
+      "leveysaste": 67.809379,
+      "pituusaste": 24.804419,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 88,
+      "nimi": "Levi Star III",
+      "leveysaste": 67.809686,
+      "pituusaste": 24.804834,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 89,
+      "nimi": "Levi Star III",
+      "leveysaste": 67.809693,
+      "pituusaste": 24.804762,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 90,
+      "nimi": "Levi Star V",
+      "leveysaste": 67.80871,
+      "pituusaste": 24.804102,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 91,
+      "nimi": "Levi Star V",
+      "leveysaste": 67.80871,
+      "pituusaste": 24.804145,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 92,
+      "nimi": "Levin Kultarinne A",
+      "leveysaste": 67.805961,
+      "pituusaste": 24.811098,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 93,
+      "nimi": "Levin Kultarinne A",
+      "leveysaste": 67.805992,
+      "pituusaste": 24.811061,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 94,
+      "nimi": "Liisankoti",
+      "leveysaste": 63.244358,
+      "pituusaste": 22.857642,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 95,
+      "nimi": "Lintulan Pikkukodit",
+      "leveysaste": 60.468723,
+      "pituusaste": 22.015437,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 96,
+      "nimi": "Loimu",
+      "leveysaste": 67.623573,
+      "pituusaste": 24.162702,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 97,
+      "nimi": "Loma-Hossa",
+      "leveysaste": 65.437826,
+      "pituusaste": 29.557555,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 98,
+      "nimi": "Lomahuvila-Impivaara",
+      "leveysaste": 60.99959,
+      "pituusaste": 25.50706,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 99,
+      "nimi": "Lomakeskus Lavianmutka",
+      "leveysaste": 61.302256,
+      "pituusaste": 25.642952,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 100,
+      "nimi": "Luostarinkadun kaksio",
+      "leveysaste": 60.469217,
+      "pituusaste": 22.023657,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 101,
+      "nimi": "Luxury Apartment Hovi",
+      "leveysaste": 60.468167,
+      "pituusaste": 22.020064,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 102,
+      "nimi": "Maijala",
+      "leveysaste": 63.760959,
+      "pituusaste": 24.25799,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 103,
+      "nimi": "Maijala",
+      "leveysaste": 63.760975,
+      "pituusaste": 24.25798,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 104,
+      "nimi": "Majatalo Kuukkeli Teerenpesä",
+      "leveysaste": 68.420813,
+      "pituusaste": 27.416112,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 105,
+      "nimi": "Majatalo Kuukkeli Teerenpesä",
+      "leveysaste": 68.420837,
+      "pituusaste": 27.416088,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 106,
+      "nimi": "Marjatanpirtti",
+      "leveysaste": 62.601861,
+      "pituusaste": 26.72073,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 107,
+      "nimi": "Merimieshuoneisto",
+      "leveysaste": 60.477437,
+      "pituusaste": 22.034701,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 108,
+      "nimi": "Metsolan Maatila",
+      "leveysaste": 60.60127,
+      "pituusaste": 22.201842,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 109,
+      "nimi": "Moonlight Apartments",
+      "leveysaste": 67.808263,
+      "pituusaste": 24.806409,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 110,
+      "nimi": "Naantali City Apartments",
+      "leveysaste": 60.471901,
+      "pituusaste": 22.035342,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 111,
+      "nimi": "Naantali City Apartments",
+      "leveysaste": 60.471903,
+      "pituusaste": 22.035338,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 112,
+      "nimi": "Naantalin Victoria A21",
+      "leveysaste": 60.468097,
+      "pituusaste": 22.026273,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 113,
+      "nimi": "Naava",
+      "leveysaste": 65.462594,
+      "pituusaste": 29.538989,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 114,
+      "nimi": "Naava",
+      "leveysaste": 65.462602,
+      "pituusaste": 29.538987,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 115,
+      "nimi": "Navettalan sviitti",
+      "leveysaste": 66.739202,
+      "pituusaste": 24.473448,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 116,
+      "nimi": "Näätä",
+      "leveysaste": 68.417967,
+      "pituusaste": 27.426139,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 117,
+      "nimi": "Näätä",
+      "leveysaste": 68.418004,
+      "pituusaste": 27.426184,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 118,
+      "nimi": "Okta",
+      "leveysaste": 67.610985,
+      "pituusaste": 24.182887,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 119,
+      "nimi": "Okta",
+      "leveysaste": 67.611001,
+      "pituusaste": 24.182924,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 120,
+      "nimi": "Origo Apartments",
+      "leveysaste": 67.805022,
+      "pituusaste": 24.798505,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 121,
+      "nimi": "Ouran Mummola",
+      "leveysaste": 62.600628,
+      "pituusaste": 23.568147,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 122,
+      "nimi": "Palovartijan talo",
+      "leveysaste": 61.77119,
+      "pituusaste": 29.349383,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 123,
+      "nimi": "Pannukakkutalo",
+      "leveysaste": 67.806299,
+      "pituusaste": 24.806426,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 124,
+      "nimi": "Pannukakkutalo",
+      "leveysaste": 67.806319,
+      "pituusaste": 24.806405,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 125,
+      "nimi": "Paraspaikka",
+      "leveysaste": 68.420968,
+      "pituusaste": 27.428933,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 126,
+      "nimi": "Paraspaikka",
+      "leveysaste": 68.420992,
+      "pituusaste": 27.428949,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 127,
+      "nimi": "Parkside Pyhä",
+      "leveysaste": 67.017886,
+      "pituusaste": 27.23852,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 128,
+      "nimi": "Parkside Pyhä",
+      "leveysaste": 67.017943,
+      "pituusaste": 27.23836,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 129,
+      "nimi": "Patikoijan Pirtti",
+      "leveysaste": 63.11354,
+      "pituusaste": 29.778314,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 130,
+      "nimi": "Perhefantti 1",
+      "leveysaste": 64.686172,
+      "pituusaste": 24.456093,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 131,
+      "nimi": "Perhefantti 2",
+      "leveysaste": 64.686124,
+      "pituusaste": 24.456196,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 132,
+      "nimi": "Perhefantti 3",
+      "leveysaste": 64.685998,
+      "pituusaste": 24.456529,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 133,
+      "nimi": "Perhefantti 4",
+      "leveysaste": 64.685934,
+      "pituusaste": 24.456622,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 134,
+      "nimi": "Pikku Pässi Inn",
+      "leveysaste": 60.535202,
+      "pituusaste": 24.208977,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 135,
+      "nimi": "Polar Star Apartments",
+      "leveysaste": 67.806444,
+      "pituusaste": 24.799773,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 136,
+      "nimi": "Poronkäpälä a-d",
+      "leveysaste": 67.598719,
+      "pituusaste": 24.163811,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 137,
+      "nimi": "Puistotie 3",
+      "leveysaste": 60.469588,
+      "pituusaste": 22.019041,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 138,
+      "nimi": "Purolomat",
+      "leveysaste": 61.841718,
+      "pituusaste": 21.525213,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 139,
+      "nimi": "Pyhä-Luosto Matkailu Oy",
+      "leveysaste": 67.157454,
+      "pituusaste": 26.917969,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 140,
+      "nimi": "Pyhä-Luosto Matkailu Oy",
+      "leveysaste": 67.157478,
+      "pituusaste": 26.917935,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 141,
+      "nimi": "Pätkä",
+      "leveysaste": 64.40489,
+      "pituusaste": 27.825947,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 142,
+      "nimi": "Påvgaten",
+      "leveysaste": 60.47111,
+      "pituusaste": 22.324063,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 143,
+      "nimi": "RBA RentHouse",
+      "leveysaste": 63.708334,
+      "pituusaste": 23.327782,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 144,
+      "nimi": "RBA RentHouse",
+      "leveysaste": 63.708346,
+      "pituusaste": 23.32781,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 145,
+      "nimi": "Rajakartano",
+      "leveysaste": 65.446034,
+      "pituusaste": 29.561121,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 146,
+      "nimi": "Rajakartano",
+      "leveysaste": 65.446417,
+      "pituusaste": 29.561144,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 147,
+      "nimi": "Rajakartano",
+      "leveysaste": 65.446459,
+      "pituusaste": 29.561096,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 148,
+      "nimi": "Rantakatti Apartments",
+      "leveysaste": 61.775381,
+      "pituusaste": 29.274444,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 149,
+      "nimi": "Rauhalantie Studio",
+      "leveysaste": 60.449374,
+      "pituusaste": 26.217401,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 150,
+      "nimi": "Rauhanlaakson Jokimökit",
+      "leveysaste": 61.851558,
+      "pituusaste": 21.514696,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 151,
+      "nimi": "Rauhanlaakson majoituspalvelut",
+      "leveysaste": 61.852732,
+      "pituusaste": 21.515293,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 152,
+      "nimi": "Revontuli 1 ja 2",
+      "leveysaste": 67.609202,
+      "pituusaste": 24.180813,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 153,
+      "nimi": "Revontuli 1 ja 2",
+      "leveysaste": 67.609209,
+      "pituusaste": 24.180716,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 154,
+      "nimi": "Revontuli 3",
+      "leveysaste": 67.608965,
+      "pituusaste": 24.180724,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 155,
+      "nimi": "Revontuli 3",
+      "leveysaste": 67.608975,
+      "pituusaste": 24.180705,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 156,
+      "nimi": "Rovio Art Apartments",
+      "leveysaste": 62.239372,
+      "pituusaste": 25.744533,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 157,
+      "nimi": "Royal Roi Apartments",
+      "leveysaste": 66.503158,
+      "pituusaste": 25.727778,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 158,
+      "nimi": "Rukako Oy",
+      "leveysaste": 66.16509,
+      "pituusaste": 29.121243,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 159,
+      "nimi": "Runar's Guesthouse",
+      "leveysaste": 60.471596,
+      "pituusaste": 25.216131,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 160,
+      "nimi": "Salmelan mökit",
+      "leveysaste": 64.125589,
+      "pituusaste": 29.58004,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 161,
+      "nimi": "Santa's Luxury",
+      "leveysaste": 66.544245,
+      "pituusaste": 25.850563,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 162,
+      "nimi": "Santa’s Holiday Homes",
+      "leveysaste": 66.50153,
+      "pituusaste": 25.730834,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 163,
+      "nimi": "Saunaharju 3-4",
+      "leveysaste": 63.158941,
+      "pituusaste": 29.833801,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 164,
+      "nimi": "Saunaharju 5-6",
+      "leveysaste": 63.159233,
+      "pituusaste": 29.833991,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 165,
+      "nimi": "Saunaharju 7-8",
+      "leveysaste": 63.159435,
+      "pituusaste": 29.834012,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 166,
+      "nimi": "Saunajärven lomamökit",
+      "leveysaste": 63.91523,
+      "pituusaste": 29.928995,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 167,
+      "nimi": "Saunakukka-huoneisto",
+      "leveysaste": 60.457072,
+      "pituusaste": 22.015744,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 168,
+      "nimi": "SeasideRooms",
+      "leveysaste": 60.161414,
+      "pituusaste": 24.891203,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 169,
+      "nimi": "Sporttimajoitus Country Club",
+      "leveysaste": 61.115966,
+      "pituusaste": 26.011923,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 170,
+      "nimi": "Staycation Törrö",
+      "leveysaste": 65.388252,
+      "pituusaste": 26.995997,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 171,
+      "nimi": "Studio Ailos",
+      "leveysaste": 60.469031,
+      "pituusaste": 22.021265,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 172,
+      "nimi": "Suutalan Mansikkatalo",
+      "leveysaste": 62.72098,
+      "pituusaste": 23.911916,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 173,
+      "nimi": "Telttamajoitus Lataamo",
+      "leveysaste": 60.133385,
+      "pituusaste": 25.017049,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 174,
+      "nimi": "Toimela",
+      "leveysaste": 61.116249,
+      "pituusaste": 24.324334,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 175,
+      "nimi": "Tulijärven Tuvat",
+      "leveysaste": 64.047339,
+      "pituusaste": 29.54839,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 176,
+      "nimi": "Tunturinlaita A",
+      "leveysaste": 67.805425,
+      "pituusaste": 24.817661,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 177,
+      "nimi": "Tunturinlaita B",
+      "leveysaste": 67.805401,
+      "pituusaste": 24.81862,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 178,
+      "nimi": "Tunturinlaita C",
+      "leveysaste": 67.805434,
+      "pituusaste": 24.819733,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 179,
+      "nimi": "Tunturinlaita C",
+      "leveysaste": 67.80546,
+      "pituusaste": 24.81964,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 180,
+      "nimi": "Tunturinlaita D",
+      "leveysaste": 67.805536,
+      "pituusaste": 24.820778,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 181,
+      "nimi": "Tunturinlaita D",
+      "leveysaste": 67.805562,
+      "pituusaste": 24.820685,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 182,
+      "nimi": "Tuurin Kukkis",
+      "leveysaste": 62.60292,
+      "pituusaste": 23.736444,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 183,
+      "nimi": "Tuurin Yösäilö",
+      "leveysaste": 62.602872,
+      "pituusaste": 23.736185,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 184,
+      "nimi": "Ukkohalla",
+      "leveysaste": 64.740293,
+      "pituusaste": 28.245565,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 185,
+      "nimi": "Veikon Maja 6c",
+      "leveysaste": 67.601569,
+      "pituusaste": 24.140003,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 186,
+      "nimi": "Veikon maja",
+      "leveysaste": 67.601546,
+      "pituusaste": 24.14002,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 187,
+      "nimi": "Vierastalo Holokko",
+      "leveysaste": 62.171386,
+      "pituusaste": 22.592119,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 188,
+      "nimi": "Vierastalo Holokko",
+      "leveysaste": 62.171398,
+      "pituusaste": 22.592094,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 189,
+      "nimi": "Vierumäki Chalets 1&2",
+      "leveysaste": 61.106602,
+      "pituusaste": 26.004158,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 190,
+      "nimi": "Vierumäki Chalets 1&2",
+      "leveysaste": 61.106613,
+      "pituusaste": 26.004087,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 191,
+      "nimi": "Vierumäki Chalets 3 & 4",
+      "leveysaste": 61.107193,
+      "pituusaste": 26.003284,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 192,
+      "nimi": "Vierumäki Chalets 3 & 4",
+      "leveysaste": 61.107215,
+      "pituusaste": 26.003252,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 193,
+      "nimi": "Vierumäki Chalets 5&6",
+      "leveysaste": 61.104465,
+      "pituusaste": 26.004312,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 194,
+      "nimi": "Vierumäki Chalets 5&6",
+      "leveysaste": 61.10452,
+      "pituusaste": 26.004537,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 195,
+      "nimi": "Villa Alex",
+      "leveysaste": 60.968702,
+      "pituusaste": 22.671512,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 196,
+      "nimi": "Villa Korkatti",
+      "leveysaste": 64.182907,
+      "pituusaste": 25.481419,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 197,
+      "nimi": "Villa Korkatti",
+      "leveysaste": 64.182948,
+      "pituusaste": 25.481352,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 198,
+      "nimi": "Villa Laturi",
+      "leveysaste": 67.063692,
+      "pituusaste": 27.192916,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 199,
+      "nimi": "Villa Rudolf",
+      "leveysaste": 67.595335,
+      "pituusaste": 24.131077,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 200,
+      "nimi": "Villilä",
+      "leveysaste": 62.136854,
+      "pituusaste": 26.778413,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 201,
+      "nimi": "Ylläs Rova",
+      "leveysaste": 67.536711,
+      "pituusaste": 24.280215,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 202,
+      "nimi": "Ylläs Usva 1-4",
+      "leveysaste": 67.601809,
+      "pituusaste": 24.201189,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 203,
+      "nimi": "Ylläs-Kauno 6b",
+      "leveysaste": 67.601589,
+      "pituusaste": 24.140263,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 204,
+      "nimi": "Ylläs-Sulo 6a",
+      "leveysaste": 67.601632,
+      "pituusaste": 24.140502,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 205,
+      "nimi": "Ylläsrova",
+      "leveysaste": 67.536747,
+      "pituusaste": 24.280284,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 206,
+      "nimi": "joutseno B.B.",
+      "leveysaste": 61.147359,
+      "pituusaste": 28.631449,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 207,
+      "nimi": "Åland Archipelago Guest Artist Residency",
+      "leveysaste": 59.950668,
+      "pituusaste": 20.927914,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 208,
+      "nimi": "Åland Archipelago Guest Artist Residency",
+      "leveysaste": 59.950685,
+      "pituusaste": 20.927902,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    },
+    {
+      "id": 209,
+      "nimi": "Пальякка",
+      "leveysaste": 64.689166,
+      "pituusaste": 27.935372,
+      "osm_avain": "tourism",
+      "osm_arvo": "apartment",
+      "osm_luokka": "tourism=apartment"
+    }
+  ],
+  "meta": {
+    "title": "Lomahuoneistot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Lomahuoneistot Suomessa — 209 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=apartment`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 20. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 209 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Lomahuoneistot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Lomahuoneistot – Suomi (OpenStreetMap) — 209 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 209 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

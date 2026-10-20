@@ -1,0 +1,196 @@
+{
+  "id": "fi-pyha-rinteet",
+  "name": "Pyhän laskettelurinteet",
+  "title": "Pyhän laskettelurinteet",
+  "description": "Pyhän hiihtokeskuksen (Pelkosenniemi, Lappi) laskettelurinteet. Jokaisessa tietueessa rinnealue, rinteen nimi, pituus metreinä ja vaikeustaso. Yhteensä 15 rinnettä.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "keskus",
+      "label": "Keskus",
+      "type": "string"
+    },
+    {
+      "key": "alue",
+      "label": "Alue",
+      "type": "string"
+    },
+    {
+      "key": "rinteen_numero",
+      "label": "Rinteen Numero",
+      "type": "number"
+    },
+    {
+      "key": "rinne",
+      "label": "Rinne",
+      "type": "string"
+    },
+    {
+      "key": "pituus_m",
+      "label": "Pituus M",
+      "type": "number"
+    },
+    {
+      "key": "vaikeustaso",
+      "label": "Vaikeustaso",
+      "type": "string"
+    },
+    {
+      "key": "vaikeustaso_en",
+      "label": "Vaikeustaso En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "keskus": "Pyhä",
+      "alue": "Kultakero",
+      "rinteen_numero": "1",
+      "rinne": "Kultakeron rinteet",
+      "pituus_m": 960,
+      "vaikeustaso": "Musta",
+      "vaikeustaso_en": "Black (advanced)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Kultakero",
+      "rinteen_numero": "2",
+      "rinne": "Huttu-Ukko",
+      "pituus_m": 750,
+      "vaikeustaso": "Musta",
+      "vaikeustaso_en": "Black (advanced)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Eturinteet",
+      "rinteen_numero": "3",
+      "rinne": "Piste Palander",
+      "pituus_m": 1200,
+      "vaikeustaso": "Musta",
+      "vaikeustaso_en": "Black (advanced)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Eturinteet",
+      "rinteen_numero": "4",
+      "rinne": "Polar-Rinne",
+      "pituus_m": 1200,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Eturinteet",
+      "rinteen_numero": "5",
+      "rinne": "Sininen Rinne",
+      "pituus_m": 1350,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Eturinteet",
+      "rinteen_numero": "15",
+      "rinne": "Polar Madness",
+      "pituus_m": 600,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Pohjoisrinteet",
+      "rinteen_numero": "6",
+      "rinne": "Pohjoisrinne Sinipunainen",
+      "pituus_m": 1600,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Pohjoisrinteet",
+      "rinteen_numero": "7",
+      "rinne": "Pohjoisrinne Sininen",
+      "pituus_m": 1600,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Pohjoisrinteet",
+      "rinteen_numero": "8",
+      "rinne": "Huttuseikkailu",
+      "pituus_m": 650,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Pohjoisrinteet",
+      "rinteen_numero": "9",
+      "rinne": "Metsäseikkailu",
+      "pituus_m": 2000,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Perheseikkailualue",
+      "rinteen_numero": "11",
+      "rinne": "Pikku-Ukko",
+      "pituus_m": 440,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Perheseikkailualue",
+      "rinteen_numero": "12",
+      "rinne": "Mini Park",
+      "pituus_m": 500,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Perheseikkailualue",
+      "rinteen_numero": "13",
+      "rinne": "Perherinne",
+      "pituus_m": 400,
+      "vaikeustaso": "Vihreä",
+      "vaikeustaso_en": "Green (beginner)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Perheseikkailualue",
+      "rinteen_numero": "14",
+      "rinne": "Skiway",
+      "pituus_m": 400,
+      "vaikeustaso": "Vihreä",
+      "vaikeustaso_en": "Green (beginner)"
+    },
+    {
+      "keskus": "Pyhä",
+      "alue": "Perheseikkailualue",
+      "rinteen_numero": "16",
+      "rinne": "Huttumaa",
+      "pituus_m": 80,
+      "vaikeustaso": "Vihreä",
+      "vaikeustaso_en": "Green (beginner)"
+    }
+  ],
+  "meta": {
+    "title": "Pyhän laskettelurinteet - Ilmainen lataus",
+    "description": "Pyhän hiihtokeskuksen (Pelkosenniemi, Lappi) laskettelurinteet. Jokaisessa tietueessa rinnealue, rinteen nimi, pituus metreinä ja vaikeustaso. Yhteensä 15 rinnettä. Sisältää 15 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Pyhän laskettelurinteet | ListBase",
+    "seo_description": "Lataa Pyhän laskettelurinteet — 15 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 15 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

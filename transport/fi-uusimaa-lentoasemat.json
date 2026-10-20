@@ -1,0 +1,184 @@
+{
+  "id": "fi-uusimaa-lentoasemat",
+  "name": "Finland / Uusimaa — Airports (lentoasemat)",
+  "title": "Finland / Uusimaa — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Uusimaa (Uusimaa), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Uusimaa'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFHK",
+      "iata": "HEL",
+      "name": "Helsinki Vantaa Airport",
+      "city": "Helsinki",
+      "subdivision": "Uusimaa",
+      "subdivision_name_fi": "Uusimaa",
+      "country": "FI",
+      "elevation_ft": 179,
+      "latitude": 60.3172,
+      "longitude": 24.9633,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFHN",
+      "iata": "",
+      "name": "Hanko Airport",
+      "city": "",
+      "subdivision": "Uusimaa",
+      "subdivision_name_fi": "Uusimaa",
+      "country": "FI",
+      "elevation_ft": 20,
+      "latitude": 59.8489,
+      "longitude": 23.0836,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFHV",
+      "iata": "HYV",
+      "name": "Hyvinkaa Airport",
+      "city": "",
+      "subdivision": "Uusimaa",
+      "subdivision_name_fi": "Uusimaa",
+      "country": "FI",
+      "elevation_ft": 430,
+      "latitude": 60.6544,
+      "longitude": 24.8811,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFMN",
+      "iata": "",
+      "name": "Mantsala Airport",
+      "city": "Mantsala",
+      "subdivision": "Uusimaa",
+      "subdivision_name_fi": "Uusimaa",
+      "country": "FI",
+      "elevation_ft": 135,
+      "latitude": 60.5725,
+      "longitude": 25.5089,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFNS",
+      "iata": "",
+      "name": "Savikko Airport",
+      "city": "",
+      "subdivision": "Uusimaa",
+      "subdivision_name_fi": "Uusimaa",
+      "country": "FI",
+      "elevation_ft": 233,
+      "latitude": 60.52,
+      "longitude": 24.8317,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFNU",
+      "iata": "",
+      "name": "Nummela Airport",
+      "city": "",
+      "subdivision": "Uusimaa",
+      "subdivision_name_fi": "Uusimaa",
+      "country": "FI",
+      "elevation_ft": 367,
+      "latitude": 60.3339,
+      "longitude": 24.2964,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFTO",
+      "iata": "",
+      "name": "Torbacka Airport",
+      "city": "",
+      "subdivision": "Uusimaa",
+      "subdivision_name_fi": "Uusimaa",
+      "country": "FI",
+      "elevation_ft": 16,
+      "latitude": 60.0792,
+      "longitude": 24.1722,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Uusimaa — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Uusimaa (Uusimaa), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Uusimaa'. Sisältää 7 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Uusimaa — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Uusimaa — Airports (lentoasemat) — 7 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 7 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

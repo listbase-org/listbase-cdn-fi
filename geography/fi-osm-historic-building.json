@@ -1,0 +1,4120 @@
+{
+  "id": "fi-osm-historic-building",
+  "name": "Historialliset rakennukset – Suomi (OpenStreetMap)",
+  "title": "Historialliset rakennukset – Suomi (OpenStreetMap)",
+  "description": "Historialliset rakennukset Suomessa — 451 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=building`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 89. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 451,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "\"Vaneritehdas\"",
+      "leveysaste": 60.840425,
+      "pituusaste": 23.05045,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 2,
+      "nimi": "\"Vaneritehdas\"",
+      "leveysaste": 60.840436,
+      "pituusaste": 23.05046,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 3,
+      "nimi": "Aitta",
+      "leveysaste": 60.183976,
+      "pituusaste": 24.885363,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 4,
+      "nimi": "Aitta",
+      "leveysaste": 60.859343,
+      "pituusaste": 23.027671,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 5,
+      "nimi": "Aitta",
+      "leveysaste": 60.859352,
+      "pituusaste": 23.027677,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 6,
+      "nimi": "Aitta",
+      "leveysaste": 64.204523,
+      "pituusaste": 28.731911,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 7,
+      "nimi": "Aitta",
+      "leveysaste": 64.204531,
+      "pituusaste": 28.731924,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 8,
+      "nimi": "Aitta",
+      "leveysaste": 64.204549,
+      "pituusaste": 28.731817,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 9,
+      "nimi": "Aitta",
+      "leveysaste": 64.204558,
+      "pituusaste": 28.73183,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 10,
+      "nimi": "Akanakoppi",
+      "leveysaste": 60.609994,
+      "pituusaste": 23.988783,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 11,
+      "nimi": "Akanakoppi",
+      "leveysaste": 60.610003,
+      "pituusaste": 23.988772,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 12,
+      "nimi": "Aleksis Kiven mökki",
+      "leveysaste": 60.181926,
+      "pituusaste": 24.887012,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 13,
+      "nimi": "Aleksis Kiven mökki",
+      "leveysaste": 60.181934,
+      "pituusaste": 24.887017,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 14,
+      "nimi": "Ali-Kenni",
+      "leveysaste": 60.658741,
+      "pituusaste": 23.297446,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 15,
+      "nimi": "Antin Kaffeliiteri",
+      "leveysaste": 60.183119,
+      "pituusaste": 24.88491,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 16,
+      "nimi": "Antin Kaffeliiteri",
+      "leveysaste": 60.183127,
+      "pituusaste": 24.884935,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 17,
+      "nimi": "Apothecary kiosk",
+      "leveysaste": 66.398743,
+      "pituusaste": 23.725019,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 18,
+      "nimi": "Apothecary kiosk",
+      "leveysaste": 66.398747,
+      "pituusaste": 23.725027,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 19,
+      "nimi": "Asuinrakennus",
+      "leveysaste": 60.610426,
+      "pituusaste": 23.987806,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 20,
+      "nimi": "Asuinrakennus",
+      "leveysaste": 60.610435,
+      "pituusaste": 23.987796,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 21,
+      "nimi": "Brofogdas",
+      "leveysaste": 60.623757,
+      "pituusaste": 26.20249,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 22,
+      "nimi": "Brofogdas",
+      "leveysaste": 60.623794,
+      "pituusaste": 26.202459,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 23,
+      "nimi": "Domnan Pirtti",
+      "leveysaste": 64.63793,
+      "pituusaste": 30.055651,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 24,
+      "nimi": "Domnan Pirtti",
+      "leveysaste": 64.637954,
+      "pituusaste": 30.055595,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 25,
+      "nimi": "Entinen elokuvateatteri Nummi-Kino",
+      "leveysaste": 60.386346,
+      "pituusaste": 23.902743,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 26,
+      "nimi": "Entinen kaasutehdas",
+      "leveysaste": 60.172221,
+      "pituusaste": 24.989305,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 27,
+      "nimi": "Fagerkullan pappila",
+      "leveysaste": 62.800603,
+      "pituusaste": 23.929965,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 28,
+      "nimi": "Fallkullan kartano",
+      "leveysaste": 60.259615,
+      "pituusaste": 25.035002,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 29,
+      "nimi": "Fallkullan kartano",
+      "leveysaste": 60.259622,
+      "pituusaste": 25.035009,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 30,
+      "nimi": "Finlaysonin pääkonttori",
+      "leveysaste": 61.501822,
+      "pituusaste": 23.756997,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 31,
+      "nimi": "Finlaysonin pääkonttori",
+      "leveysaste": 61.501832,
+      "pituusaste": 23.75686,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 32,
+      "nimi": "Finlaysonin tehtaanmyymälä",
+      "leveysaste": 61.501599,
+      "pituusaste": 23.756153,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 33,
+      "nimi": "Finlaysonin tehtaanmyymälä",
+      "leveysaste": 61.501604,
+      "pituusaste": 23.756221,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 34,
+      "nimi": "Florinin huvimaja",
+      "leveysaste": 60.181235,
+      "pituusaste": 24.885804,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 35,
+      "nimi": "Gottlundin tupa",
+      "leveysaste": 61.892419,
+      "pituusaste": 27.867408,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 36,
+      "nimi": "Gottlundin tupa",
+      "leveysaste": 61.892433,
+      "pituusaste": 27.867427,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 37,
+      "nimi": "Hakamäen kotiseutumuseo",
+      "leveysaste": 61.202992,
+      "pituusaste": 27.685352,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 38,
+      "nimi": "Halkoliiteri",
+      "leveysaste": 60.610298,
+      "pituusaste": 23.987872,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 39,
+      "nimi": "Halkoliiteri",
+      "leveysaste": 60.610309,
+      "pituusaste": 23.987862,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 40,
+      "nimi": "Halla",
+      "leveysaste": 60.185379,
+      "pituusaste": 24.883533,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 41,
+      "nimi": "Halla",
+      "leveysaste": 60.185398,
+      "pituusaste": 24.883517,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 42,
+      "nimi": "Hautomo",
+      "leveysaste": 60.244203,
+      "pituusaste": 24.0489,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 43,
+      "nimi": "Heinätupa",
+      "leveysaste": 60.184126,
+      "pituusaste": 24.885514,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 44,
+      "nimi": "Heinätupa",
+      "leveysaste": 60.184133,
+      "pituusaste": 24.885517,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 45,
+      "nimi": "Heretyn metsätyökämppä",
+      "leveysaste": 61.674531,
+      "pituusaste": 24.999952,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 46,
+      "nimi": "Heretyn metsätyökämppä",
+      "leveysaste": 61.674542,
+      "pituusaste": 24.999989,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 47,
+      "nimi": "Herrala",
+      "leveysaste": 63.776645,
+      "pituusaste": 27.80697,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 48,
+      "nimi": "Heteka Oy, Helsingin Teräshuonekalutehdas",
+      "leveysaste": 60.195417,
+      "pituusaste": 24.949789,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 49,
+      "nimi": "Hevostallit ja varasto",
+      "leveysaste": 60.889419,
+      "pituusaste": 26.897642,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 50,
+      "nimi": "Hevostallit ja varasto",
+      "leveysaste": 60.889659,
+      "pituusaste": 26.897368,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 51,
+      "nimi": "Hirvaan rautatieasema",
+      "leveysaste": 66.42317,
+      "pituusaste": 25.410736,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 52,
+      "nimi": "Hirvaan rautatieasema",
+      "leveysaste": 66.42319,
+      "pituusaste": 25.410758,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 53,
+      "nimi": "Hongiston tupa",
+      "leveysaste": 61.063281,
+      "pituusaste": 27.805928,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 54,
+      "nimi": "Hongiston tupa",
+      "leveysaste": 61.063291,
+      "pituusaste": 27.805967,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 55,
+      "nimi": "Honkilahden Osuusmeijeri",
+      "leveysaste": 60.965664,
+      "pituusaste": 22.161075,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 56,
+      "nimi": "Huhtala",
+      "leveysaste": 61.71054,
+      "pituusaste": 24.933611,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 57,
+      "nimi": "Huhtala",
+      "leveysaste": 61.710549,
+      "pituusaste": 24.933622,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 58,
+      "nimi": "Huittisten Wanha Pappila",
+      "leveysaste": 61.182872,
+      "pituusaste": 22.678322,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 59,
+      "nimi": "Huittisten Wanha Pappila",
+      "leveysaste": 61.182887,
+      "pituusaste": 22.678291,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 60,
+      "nimi": "Huvila, Korkeasaaren toimistorakennus",
+      "leveysaste": 60.176598,
+      "pituusaste": 24.984705,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 61,
+      "nimi": "Huvila, Korkeasaaren toimistorakennus",
+      "leveysaste": 60.176604,
+      "pituusaste": 24.984694,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 62,
+      "nimi": "Huvimaja",
+      "leveysaste": 60.181993,
+      "pituusaste": 24.885811,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 63,
+      "nimi": "Huvimaja",
+      "leveysaste": 60.181993,
+      "pituusaste": 24.885813,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 64,
+      "nimi": "Immilän mylly",
+      "leveysaste": 60.988814,
+      "pituusaste": 26.027216,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 65,
+      "nimi": "Immilän mylly",
+      "leveysaste": 60.988829,
+      "pituusaste": 26.027221,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 66,
+      "nimi": "Iso-Pappila",
+      "leveysaste": 61.415191,
+      "pituusaste": 26.837648,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 67,
+      "nimi": "Ivalojoen Kultala museosavusauna",
+      "leveysaste": 68.505347,
+      "pituusaste": 26.680221,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 68,
+      "nimi": "Ivalojoen Kultala museosavusauna",
+      "leveysaste": 68.505358,
+      "pituusaste": 26.680227,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 69,
+      "nimi": "Ivalojoen kultalan väentupa varaustupa",
+      "leveysaste": 68.506148,
+      "pituusaste": 26.678308,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 70,
+      "nimi": "Ivalojoen kultalan väentupa varaustupa",
+      "leveysaste": 68.506172,
+      "pituusaste": 26.678328,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 71,
+      "nimi": "Joensuun rautatieasema",
+      "leveysaste": 62.599756,
+      "pituusaste": 29.776186,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 72,
+      "nimi": "Joensuun rautatieasema",
+      "leveysaste": 62.5998,
+      "pituusaste": 29.776228,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 73,
+      "nimi": "Jogasjärvi autiotupa",
+      "leveysaste": 69.15498,
+      "pituusaste": 21.48203,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 74,
+      "nimi": "Jokiranta",
+      "leveysaste": 61.568601,
+      "pituusaste": 26.019558,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 75,
+      "nimi": "Jokiranta",
+      "leveysaste": 61.568611,
+      "pituusaste": 26.019552,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 76,
+      "nimi": "Jusupoffin talli",
+      "leveysaste": 60.181064,
+      "pituusaste": 24.886018,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 77,
+      "nimi": "Jusupoffin talli",
+      "leveysaste": 60.181075,
+      "pituusaste": 24.886007,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 78,
+      "nimi": "Juurrutuskellari",
+      "leveysaste": 60.284052,
+      "pituusaste": 24.951039,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 79,
+      "nimi": "Juurrutuskellari",
+      "leveysaste": 60.284067,
+      "pituusaste": 24.951041,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 80,
+      "nimi": "KK-pesäke",
+      "leveysaste": 60.872658,
+      "pituusaste": 23.065306,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 81,
+      "nimi": "KK-pesäke",
+      "leveysaste": 60.87266,
+      "pituusaste": 23.065319,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 82,
+      "nimi": "Kaipiaisten rautatieasema",
+      "leveysaste": 60.899948,
+      "pituusaste": 27.117907,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 83,
+      "nimi": "Kaipiaisten rautatieasema",
+      "leveysaste": 60.899955,
+      "pituusaste": 27.117993,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 84,
+      "nimi": "Kalamestarin asunto",
+      "leveysaste": 60.244123,
+      "pituusaste": 24.049272,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 85,
+      "nimi": "Kalamestarin asunto",
+      "leveysaste": 60.244134,
+      "pituusaste": 24.049297,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 86,
+      "nimi": "Kalan torppa",
+      "leveysaste": 63.051499,
+      "pituusaste": 23.012402,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 87,
+      "nimi": "Kalan torppa",
+      "leveysaste": 63.051508,
+      "pituusaste": 23.012439,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 88,
+      "nimi": "Kankaan kytkinlaitos",
+      "leveysaste": 62.253967,
+      "pituusaste": 25.756568,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 89,
+      "nimi": "Kankaan kytkinlaitos",
+      "leveysaste": 62.253985,
+      "pituusaste": 25.756562,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 90,
+      "nimi": "Kantin kyläkoulu",
+      "leveysaste": 62.078404,
+      "pituusaste": 22.51356,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 91,
+      "nimi": "Kantin kyläkoulu",
+      "leveysaste": 62.078412,
+      "pituusaste": 22.513549,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 92,
+      "nimi": "Kanttila",
+      "leveysaste": 62.89063,
+      "pituusaste": 27.685943,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 93,
+      "nimi": "Kanttorila",
+      "leveysaste": 63.057981,
+      "pituusaste": 22.106017,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 94,
+      "nimi": "Kanttorila",
+      "leveysaste": 63.058005,
+      "pituusaste": 22.105987,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 95,
+      "nimi": "Kapteenintalo",
+      "leveysaste": 62.992491,
+      "pituusaste": 21.958875,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 96,
+      "nimi": "Kapteenintalo",
+      "leveysaste": 62.992508,
+      "pituusaste": 21.958818,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 97,
+      "nimi": "Karjalan kartano",
+      "leveysaste": 62.621603,
+      "pituusaste": 26.850755,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 98,
+      "nimi": "Karjalan kartano",
+      "leveysaste": 62.621613,
+      "pituusaste": 26.850776,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 99,
+      "nimi": "Karjalohjan pappila",
+      "leveysaste": 60.246532,
+      "pituusaste": 23.749256,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 100,
+      "nimi": "Karjamaja",
+      "leveysaste": 60.183875,
+      "pituusaste": 24.88625,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 101,
+      "nimi": "Karvian parilato",
+      "leveysaste": 60.834148,
+      "pituusaste": 22.983694,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 102,
+      "nimi": "Karvian parilato",
+      "leveysaste": 60.834153,
+      "pituusaste": 22.983705,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 103,
+      "nimi": "Kaukolan savutuvat",
+      "leveysaste": 60.181633,
+      "pituusaste": 24.886296,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 104,
+      "nimi": "Kaukolan savutuvat",
+      "leveysaste": 60.181648,
+      "pituusaste": 24.886294,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 105,
+      "nimi": "Kellotapuli",
+      "leveysaste": 60.182766,
+      "pituusaste": 24.886231,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 106,
+      "nimi": "Kellotapuli",
+      "leveysaste": 60.182775,
+      "pituusaste": 24.886232,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 107,
+      "nimi": "Kerkonkosken myllymuseo",
+      "leveysaste": 62.757593,
+      "pituusaste": 26.6893,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 108,
+      "nimi": "Kettumäen kotiseututalo",
+      "leveysaste": 60.909759,
+      "pituusaste": 26.613014,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 109,
+      "nimi": "Kiihtelysvaaran Kotiseutumuseu",
+      "leveysaste": 62.493084,
+      "pituusaste": 30.25079,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 110,
+      "nimi": "Kirkkomäen Uukonki",
+      "leveysaste": 63.057612,
+      "pituusaste": 22.105438,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 111,
+      "nimi": "Kirkkotalli",
+      "leveysaste": 60.182824,
+      "pituusaste": 24.88775,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 112,
+      "nimi": "Kirkkotalli",
+      "leveysaste": 60.182829,
+      "pituusaste": 24.887732,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 113,
+      "nimi": "Kirkkovene",
+      "leveysaste": 60.181958,
+      "pituusaste": 24.887637,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 114,
+      "nimi": "Kirkkovene",
+      "leveysaste": 60.182075,
+      "pituusaste": 24.887795,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 115,
+      "nimi": "Kivisikala",
+      "leveysaste": 60.284967,
+      "pituusaste": 24.953597,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 116,
+      "nimi": "Kivisikala",
+      "leveysaste": 60.284972,
+      "pituusaste": 24.953642,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 117,
+      "nimi": "Kollavarasto",
+      "leveysaste": 61.061775,
+      "pituusaste": 26.63979,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 118,
+      "nimi": "Kollavarasto",
+      "leveysaste": 61.061794,
+      "pituusaste": 26.63984,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 119,
+      "nimi": "Koskitehdas",
+      "leveysaste": 61.502205,
+      "pituusaste": 23.760302,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 120,
+      "nimi": "Koskitehdas",
+      "leveysaste": 61.502237,
+      "pituusaste": 23.760165,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 121,
+      "nimi": "Kouvolan Putkiradiomuseo",
+      "leveysaste": 60.865752,
+      "pituusaste": 26.689091,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 122,
+      "nimi": "Kouvolan Putkiradiomuseo",
+      "leveysaste": 60.865756,
+      "pituusaste": 26.689109,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 123,
+      "nimi": "Kruununmakasiini",
+      "leveysaste": 60.189441,
+      "pituusaste": 24.964795,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 124,
+      "nimi": "Kuivaamo",
+      "leveysaste": 61.061895,
+      "pituusaste": 26.640563,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 125,
+      "nimi": "Kuivaamo",
+      "leveysaste": 61.061901,
+      "pituusaste": 26.640502,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 126,
+      "nimi": "Kuivaamo-Puimala",
+      "leveysaste": 60.285017,
+      "pituusaste": 24.955209,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 127,
+      "nimi": "Kuivaamo-Puimala",
+      "leveysaste": 60.28503,
+      "pituusaste": 24.955237,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 128,
+      "nimi": "Kultalan Kruunun Stationi",
+      "leveysaste": 68.506174,
+      "pituusaste": 26.680519,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 129,
+      "nimi": "Kultturitallit",
+      "leveysaste": 60.874575,
+      "pituusaste": 26.684337,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 130,
+      "nimi": "Kultturitallit",
+      "leveysaste": 60.874584,
+      "pituusaste": 26.684354,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 131,
+      "nimi": "Kuntala",
+      "leveysaste": 60.416839,
+      "pituusaste": 24.321108,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 132,
+      "nimi": "Kuokkalan kartano",
+      "leveysaste": 62.225766,
+      "pituusaste": 25.806813,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 133,
+      "nimi": "Kuparisepän talo",
+      "leveysaste": 62.237502,
+      "pituusaste": 25.745056,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 134,
+      "nimi": "Kuparisepän talo",
+      "leveysaste": 62.237514,
+      "pituusaste": 25.745079,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 135,
+      "nimi": "Kurittulan koulu",
+      "leveysaste": 60.899416,
+      "pituusaste": 22.969655,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 136,
+      "nimi": "Kurssin päärakennus",
+      "leveysaste": 60.184557,
+      "pituusaste": 24.887048,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 137,
+      "nimi": "Kurssin päärakennus",
+      "leveysaste": 60.184558,
+      "pituusaste": 24.887091,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 138,
+      "nimi": "Kycklings kotiseututalo",
+      "leveysaste": 60.622923,
+      "pituusaste": 26.196947,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 139,
+      "nimi": "Kycklings kotiseututalo",
+      "leveysaste": 60.622935,
+      "pituusaste": 26.1969,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 140,
+      "nimi": "Kärriliiteri",
+      "leveysaste": 61.159475,
+      "pituusaste": 26.567001,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 141,
+      "nimi": "Lautavarasto",
+      "leveysaste": 61.061815,
+      "pituusaste": 26.638004,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 142,
+      "nimi": "Lautavarasto",
+      "leveysaste": 61.061851,
+      "pituusaste": 26.638071,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 143,
+      "nimi": "Lava",
+      "leveysaste": 61.160007,
+      "pituusaste": 26.566642,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 144,
+      "nimi": "Lemböte kapell",
+      "leveysaste": 60.07528,
+      "pituusaste": 19.981261,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 145,
+      "nimi": "Lemböte kapell",
+      "leveysaste": 60.075292,
+      "pituusaste": 19.981261,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 146,
+      "nimi": "Lempäälän rautatieasema",
+      "leveysaste": 61.31331,
+      "pituusaste": 23.754297,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 147,
+      "nimi": "Lepaan kartano",
+      "leveysaste": 61.113962,
+      "pituusaste": 24.322776,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 148,
+      "nimi": "Lepaan kartano",
+      "leveysaste": 61.113969,
+      "pituusaste": 24.322792,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 149,
+      "nimi": "Lepaan taimiston kellari",
+      "leveysaste": 61.116636,
+      "pituusaste": 24.322184,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 150,
+      "nimi": "Lepaan taimiston kellari",
+      "leveysaste": 61.116653,
+      "pituusaste": 24.322165,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 151,
+      "nimi": "Lepopirtti",
+      "leveysaste": 60.166839,
+      "pituusaste": 24.205091,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 152,
+      "nimi": "Lepopirtti",
+      "leveysaste": 60.166861,
+      "pituusaste": 24.205117,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 153,
+      "nimi": "Leppälän mökki",
+      "leveysaste": 60.181843,
+      "pituusaste": 24.885316,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 154,
+      "nimi": "Leppälän mökki",
+      "leveysaste": 60.181851,
+      "pituusaste": 24.885321,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 155,
+      "nimi": "Lepäälän vaja",
+      "leveysaste": 60.181722,
+      "pituusaste": 24.885366,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 156,
+      "nimi": "Lieksan rautatieasema",
+      "leveysaste": 63.318369,
+      "pituusaste": 30.016424,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 157,
+      "nimi": "Lieksan rautatieasema",
+      "leveysaste": 63.318374,
+      "pituusaste": 30.016433,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 158,
+      "nimi": "Lilla Villan",
+      "leveysaste": 60.105815,
+      "pituusaste": 24.673397,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 159,
+      "nimi": "Luhti",
+      "leveysaste": 64.204431,
+      "pituusaste": 28.731424,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 160,
+      "nimi": "Luhti",
+      "leveysaste": 64.204446,
+      "pituusaste": 28.731447,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 161,
+      "nimi": "Luhtiaitta",
+      "leveysaste": 61.159875,
+      "pituusaste": 26.566433,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 162,
+      "nimi": "Luhtiaitta",
+      "leveysaste": 61.159875,
+      "pituusaste": 26.566472,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 163,
+      "nimi": "Luotsikasarmi",
+      "leveysaste": 60.170715,
+      "pituusaste": 24.984806,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 164,
+      "nimi": "Luotsikasarmi",
+      "leveysaste": 60.170763,
+      "pituusaste": 24.984732,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 165,
+      "nimi": "Lussitupa",
+      "leveysaste": 64.230163,
+      "pituusaste": 27.73152,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 166,
+      "nimi": "Luston rautatieasema",
+      "leveysaste": 61.800489,
+      "pituusaste": 29.321836,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 167,
+      "nimi": "Lämpökeskus",
+      "leveysaste": 60.212067,
+      "pituusaste": 25.138064,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 168,
+      "nimi": "Lämpökeskus",
+      "leveysaste": 60.212067,
+      "pituusaste": 25.138068,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 169,
+      "nimi": "Långfors kvarn",
+      "leveysaste": 62.939899,
+      "pituusaste": 21.574967,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 170,
+      "nimi": "Långfors kvarn",
+      "leveysaste": 62.939911,
+      "pituusaste": 21.574942,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 171,
+      "nimi": "Långsjön kartano",
+      "leveysaste": 60.659228,
+      "pituusaste": 23.28743,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 172,
+      "nimi": "Långsjön kartano",
+      "leveysaste": 60.659249,
+      "pituusaste": 23.28744,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 173,
+      "nimi": "Maakallan vanha pappila",
+      "leveysaste": 64.31497,
+      "pituusaste": 23.51305,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 174,
+      "nimi": "Maalaiskauppa",
+      "leveysaste": 60.182139,
+      "pituusaste": 24.88485,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 175,
+      "nimi": "Maalaiskauppa",
+      "leveysaste": 60.182154,
+      "pituusaste": 24.884821,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 176,
+      "nimi": "Makasiini",
+      "leveysaste": 60.610298,
+      "pituusaste": 23.989129,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 177,
+      "nimi": "Makasiini",
+      "leveysaste": 60.61031,
+      "pituusaste": 23.989116,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 178,
+      "nimi": "Malski",
+      "leveysaste": 60.986174,
+      "pituusaste": 25.659115,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 179,
+      "nimi": "Malski",
+      "leveysaste": 60.98621,
+      "pituusaste": 25.659024,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 180,
+      "nimi": "Mamsellimylly",
+      "leveysaste": 60.182339,
+      "pituusaste": 24.884044,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 181,
+      "nimi": "Mattila",
+      "leveysaste": 62.619363,
+      "pituusaste": 26.859807,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 182,
+      "nimi": "Mattila",
+      "leveysaste": 62.619371,
+      "pituusaste": 26.859813,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 183,
+      "nimi": "Mediakasarmi",
+      "leveysaste": 60.871866,
+      "pituusaste": 26.685844,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 184,
+      "nimi": "Mellilän riihi",
+      "leveysaste": 60.834487,
+      "pituusaste": 22.983489,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 185,
+      "nimi": "Mellilän riihi",
+      "leveysaste": 60.834495,
+      "pituusaste": 22.98347,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 186,
+      "nimi": "Metsälinna",
+      "leveysaste": 61.172274,
+      "pituusaste": 25.540927,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 187,
+      "nimi": "Metsälinna",
+      "leveysaste": 61.172278,
+      "pituusaste": 25.540886,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 188,
+      "nimi": "Metsämaan meijeri",
+      "leveysaste": 60.937804,
+      "pituusaste": 23.156627,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 189,
+      "nimi": "Metsämaan meijeri",
+      "leveysaste": 60.937828,
+      "pituusaste": 23.156603,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 190,
+      "nimi": "Museoaitta",
+      "leveysaste": 61.203173,
+      "pituusaste": 27.685397,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 191,
+      "nimi": "Museokauppa Sparvin",
+      "leveysaste": 62.237634,
+      "pituusaste": 25.74526,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 192,
+      "nimi": "Muuntamo",
+      "leveysaste": 62.523474,
+      "pituusaste": 24.042286,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 193,
+      "nimi": "Myllärin talo",
+      "leveysaste": 60.859214,
+      "pituusaste": 23.02752,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 194,
+      "nimi": "Myllärin talo",
+      "leveysaste": 60.859217,
+      "pituusaste": 23.027498,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 195,
+      "nimi": "Narikka",
+      "leveysaste": 60.284931,
+      "pituusaste": 24.951029,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 196,
+      "nimi": "Narikka",
+      "leveysaste": 60.284934,
+      "pituusaste": 24.95103,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 197,
+      "nimi": "Navetta",
+      "leveysaste": 60.28557,
+      "pituusaste": 24.955488,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 198,
+      "nimi": "Navetta",
+      "leveysaste": 60.285571,
+      "pituusaste": 24.955501,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 199,
+      "nimi": "Navetta",
+      "leveysaste": 64.915265,
+      "pituusaste": 28.988432,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 200,
+      "nimi": "Niinijoen meijerin juustokellari",
+      "leveysaste": 60.86184,
+      "pituusaste": 22.874983,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 201,
+      "nimi": "Nikolainkulma",
+      "leveysaste": 62.241951,
+      "pituusaste": 25.749564,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 202,
+      "nimi": "Nikolainkulma",
+      "leveysaste": 62.241953,
+      "pituusaste": 25.749479,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 203,
+      "nimi": "Nissilä",
+      "leveysaste": 60.545976,
+      "pituusaste": 21.35774,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 204,
+      "nimi": "Nissilä",
+      "leveysaste": 60.545981,
+      "pituusaste": 21.357679,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 205,
+      "nimi": "Niuhalan vanha kansakoulu",
+      "leveysaste": 60.417932,
+      "pituusaste": 24.312928,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 206,
+      "nimi": "Niuhalan vanha kansakoulu",
+      "leveysaste": 60.417972,
+      "pituusaste": 24.313044,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 207,
+      "nimi": "Nummen lainajyvästön aitat",
+      "leveysaste": 60.393397,
+      "pituusaste": 23.883341,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 208,
+      "nimi": "Nummen lainajyvästön aitat",
+      "leveysaste": 60.393405,
+      "pituusaste": 23.883316,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 209,
+      "nimi": "Nummen lainajyvästön aitat",
+      "leveysaste": 60.393434,
+      "pituusaste": 23.883152,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 210,
+      "nimi": "Nummen lainajyvästön aitat",
+      "leveysaste": 60.393447,
+      "pituusaste": 23.883162,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 211,
+      "nimi": "Nummen meijeri",
+      "leveysaste": 60.381719,
+      "pituusaste": 23.957543,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 212,
+      "nimi": "Nummen vanha apteekki",
+      "leveysaste": 60.396046,
+      "pituusaste": 23.880776,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 213,
+      "nimi": "Nummen vanha pappila",
+      "leveysaste": 60.418843,
+      "pituusaste": 23.941835,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 214,
+      "nimi": "Nummen vanha pappila",
+      "leveysaste": 60.41885,
+      "pituusaste": 23.941834,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 215,
+      "nimi": "Nummen vanha säästöpankki",
+      "leveysaste": 60.388787,
+      "pituusaste": 23.892714,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 216,
+      "nimi": "Nummen vanha säästöpankki",
+      "leveysaste": 60.388802,
+      "pituusaste": 23.892755,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 217,
+      "nimi": "Olohuone",
+      "leveysaste": 61.115654,
+      "pituusaste": 24.324144,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 218,
+      "nimi": "Otalammen rautatieasema",
+      "leveysaste": 60.405451,
+      "pituusaste": 24.49337,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 219,
+      "nimi": "Otalammen rautatieasema",
+      "leveysaste": 60.405489,
+      "pituusaste": 24.493367,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 220,
+      "nimi": "Paakkola koulu",
+      "leveysaste": 66.011174,
+      "pituusaste": 24.708111,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 221,
+      "nimi": "Paakkola koulu",
+      "leveysaste": 66.011198,
+      "pituusaste": 24.708121,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 222,
+      "nimi": "Paimion Parantolan päärakennus",
+      "leveysaste": 60.465005,
+      "pituusaste": 22.735122,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 223,
+      "nimi": "Paimion Parantolan päärakennus",
+      "leveysaste": 60.465005,
+      "pituusaste": 22.735132,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 224,
+      "nimi": "Paippisten Shell (historiallinen)",
+      "leveysaste": 60.421885,
+      "pituusaste": 25.256044,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 225,
+      "nimi": "Paja",
+      "leveysaste": 60.284979,
+      "pituusaste": 24.94998,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 226,
+      "nimi": "Pakkavarasto",
+      "leveysaste": 61.501715,
+      "pituusaste": 23.757036,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 227,
+      "nimi": "Pakkavarasto",
+      "leveysaste": 61.501719,
+      "pituusaste": 23.757044,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 228,
+      "nimi": "Panelian Osuusmeijeri",
+      "leveysaste": 61.224914,
+      "pituusaste": 21.974102,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 229,
+      "nimi": "Panelian Osuusmeijeri",
+      "leveysaste": 61.224975,
+      "pituusaste": 21.974107,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 230,
+      "nimi": "Pappila",
+      "leveysaste": 60.413828,
+      "pituusaste": 24.323393,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 231,
+      "nimi": "Pappila",
+      "leveysaste": 60.413848,
+      "pituusaste": 24.323365,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 232,
+      "nimi": "Pappila",
+      "leveysaste": 61.119964,
+      "pituusaste": 24.339863,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 233,
+      "nimi": "Pappila",
+      "leveysaste": 62.238537,
+      "pituusaste": 25.744009,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 234,
+      "nimi": "Pappila",
+      "leveysaste": 67.408891,
+      "pituusaste": 26.596278,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 235,
+      "nimi": "Pappila",
+      "leveysaste": 67.408898,
+      "pituusaste": 26.596283,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 236,
+      "nimi": "Pariaitta",
+      "leveysaste": 61.202963,
+      "pituusaste": 27.685882,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 237,
+      "nimi": "Pariaitta",
+      "leveysaste": 61.202982,
+      "pituusaste": 27.685893,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 238,
+      "nimi": "Parikkalan rautatieasema",
+      "leveysaste": 61.558607,
+      "pituusaste": 29.502361,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 239,
+      "nimi": "Parikkalan rautatieasema",
+      "leveysaste": 61.558621,
+      "pituusaste": 29.502356,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 240,
+      "nimi": "Partiokämppä Petäjä",
+      "leveysaste": 60.481682,
+      "pituusaste": 24.422162,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 241,
+      "nimi": "Patsasaitta / Nili",
+      "leveysaste": 60.183795,
+      "pituusaste": 24.885621,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 242,
+      "nimi": "Pertinotsa",
+      "leveysaste": 60.181328,
+      "pituusaste": 24.886384,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 243,
+      "nimi": "Pielisjoen linna",
+      "leveysaste": 62.600046,
+      "pituusaste": 29.771214,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 244,
+      "nimi": "Pielisjoen linna",
+      "leveysaste": 62.600055,
+      "pituusaste": 29.771136,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 245,
+      "nimi": "Pieni niittylato",
+      "leveysaste": 60.610038,
+      "pituusaste": 23.986568,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 246,
+      "nimi": "Pieni niittylato",
+      "leveysaste": 60.610045,
+      "pituusaste": 23.98656,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 247,
+      "nimi": "Pihatto",
+      "leveysaste": 60.610223,
+      "pituusaste": 23.988348,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 248,
+      "nimi": "Pihatto",
+      "leveysaste": 60.610229,
+      "pituusaste": 23.988315,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 249,
+      "nimi": "Pihatto ja lato",
+      "leveysaste": 60.610241,
+      "pituusaste": 23.988133,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 250,
+      "nimi": "Pihatto ja lato",
+      "leveysaste": 60.61025,
+      "pituusaste": 23.988121,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 251,
+      "nimi": "Pihtiputaan kotiseutumuseo",
+      "leveysaste": 63.369738,
+      "pituusaste": 25.571097,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 252,
+      "nimi": "Pikku-Pappila",
+      "leveysaste": 60.418594,
+      "pituusaste": 24.313377,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 253,
+      "nimi": "Plevna",
+      "leveysaste": 61.501301,
+      "pituusaste": 23.758108,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 254,
+      "nimi": "Plevna",
+      "leveysaste": 61.501365,
+      "pituusaste": 23.758081,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 255,
+      "nimi": "Portinvartijan koppi",
+      "leveysaste": 61.50198,
+      "pituusaste": 23.756342,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 256,
+      "nimi": "Portinvartijan koppi",
+      "leveysaste": 61.501997,
+      "pituusaste": 23.756314,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 257,
+      "nimi": "Porttirakennus",
+      "leveysaste": 62.253651,
+      "pituusaste": 25.762585,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 258,
+      "nimi": "Porttirakennus",
+      "leveysaste": 62.25366,
+      "pituusaste": 25.762556,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 259,
+      "nimi": "Puhelinkioski",
+      "leveysaste": 60.180834,
+      "pituusaste": 24.885725,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 260,
+      "nimi": "Puolakan talomuseo",
+      "leveysaste": 60.839144,
+      "pituusaste": 26.708898,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 261,
+      "nimi": "Puolakan talomuseo",
+      "leveysaste": 60.839147,
+      "pituusaste": 26.708931,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 262,
+      "nimi": "Puusepän talo",
+      "leveysaste": 62.237498,
+      "pituusaste": 25.74478,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 263,
+      "nimi": "Puutarhurien asunto",
+      "leveysaste": 60.28391,
+      "pituusaste": 24.951598,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 264,
+      "nimi": "Puutarhurien asunto",
+      "leveysaste": 60.283911,
+      "pituusaste": 24.951591,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 265,
+      "nimi": "Pyhän Henrikin lähde",
+      "leveysaste": 60.445821,
+      "pituusaste": 22.291918,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 266,
+      "nimi": "Pyhän Henrikin lähde",
+      "leveysaste": 60.445824,
+      "pituusaste": 22.291919,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 267,
+      "nimi": "Päällikön talo",
+      "leveysaste": 60.76077,
+      "pituusaste": 26.068728,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 268,
+      "nimi": "Päällikön talo",
+      "leveysaste": 60.760784,
+      "pituusaste": 26.068791,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 269,
+      "nimi": "Päämaja",
+      "leveysaste": 63.143326,
+      "pituusaste": 22.794484,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 270,
+      "nimi": "Päätalo",
+      "leveysaste": 60.939636,
+      "pituusaste": 27.060942,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 271,
+      "nimi": "Päätalo",
+      "leveysaste": 60.939639,
+      "pituusaste": 27.060996,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 272,
+      "nimi": "Päävartio",
+      "leveysaste": 60.872776,
+      "pituusaste": 26.684455,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 273,
+      "nimi": "Päävartio",
+      "leveysaste": 60.872788,
+      "pituusaste": 26.684477,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 274,
+      "nimi": "Päävartio",
+      "leveysaste": 60.889822,
+      "pituusaste": 26.898364,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 275,
+      "nimi": "Raamisaha",
+      "leveysaste": 61.062068,
+      "pituusaste": 26.637661,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 276,
+      "nimi": "Raamisaha",
+      "leveysaste": 61.062076,
+      "pituusaste": 26.637676,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 277,
+      "nimi": "Raatihuone",
+      "leveysaste": 64.226972,
+      "pituusaste": 27.72809,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 278,
+      "nimi": "Raatihuone",
+      "leveysaste": 64.226994,
+      "pituusaste": 27.728045,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 279,
+      "nimi": "Rajakenraalin maja Rukapirtti",
+      "leveysaste": 62.656948,
+      "pituusaste": 30.940968,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 280,
+      "nimi": "Rajakenraalin maja Rukapirtti",
+      "leveysaste": 62.656958,
+      "pituusaste": 30.940969,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 281,
+      "nimi": "Rantala",
+      "leveysaste": 61.114005,
+      "pituusaste": 24.32214,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 282,
+      "nimi": "Rantala",
+      "leveysaste": 61.114033,
+      "pituusaste": 24.322099,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 283,
+      "nimi": "Rautalammin museo",
+      "leveysaste": 62.621413,
+      "pituusaste": 26.833635,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 284,
+      "nimi": "Riihi",
+      "leveysaste": 60.61001,
+      "pituusaste": 23.988376,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 285,
+      "nimi": "Riihi",
+      "leveysaste": 61.159438,
+      "pituusaste": 26.566706,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 286,
+      "nimi": "Riihi",
+      "leveysaste": 61.202614,
+      "pituusaste": 27.685742,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 287,
+      "nimi": "Ristakosken mylly",
+      "leveysaste": 62.242498,
+      "pituusaste": 24.418722,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 288,
+      "nimi": "Ritakosken Kultala",
+      "leveysaste": 68.504106,
+      "pituusaste": 26.928408,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 289,
+      "nimi": "Rooseveltin Maja",
+      "leveysaste": 66.543836,
+      "pituusaste": 25.845895,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 290,
+      "nimi": "Rooseveltin Maja",
+      "leveysaste": 66.543845,
+      "pituusaste": 25.845882,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 291,
+      "nimi": "Rukoushuone",
+      "leveysaste": 60.625744,
+      "pituusaste": 24.46193,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 292,
+      "nimi": "Rukoushuone",
+      "leveysaste": 60.62577,
+      "pituusaste": 24.461922,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 293,
+      "nimi": "Ruoka-aitta",
+      "leveysaste": 60.610265,
+      "pituusaste": 23.987682,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 294,
+      "nimi": "Ruoka-aitta",
+      "leveysaste": 60.610272,
+      "pituusaste": 23.987675,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 295,
+      "nimi": "Ruotusotamiehentorppa",
+      "leveysaste": 61.203328,
+      "pituusaste": 27.686149,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 296,
+      "nimi": "Ruoveden lato",
+      "leveysaste": 60.83424,
+      "pituusaste": 22.98349,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 297,
+      "nimi": "Ruoveden lato",
+      "leveysaste": 60.834245,
+      "pituusaste": 22.983497,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 298,
+      "nimi": "Ruutikellari",
+      "leveysaste": 60.463494,
+      "pituusaste": 26.925742,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 299,
+      "nimi": "Ruutikellari",
+      "leveysaste": 60.463512,
+      "pituusaste": 26.925736,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 300,
+      "nimi": "Rytivaaran kruununmetsätorppa",
+      "leveysaste": 65.775974,
+      "pituusaste": 27.700715,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 301,
+      "nimi": "Rytivaaran kruununmetsätorppa",
+      "leveysaste": 65.775983,
+      "pituusaste": 27.700726,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 302,
+      "nimi": "Saarionkosken voimalaitosmuseo",
+      "leveysaste": 62.249082,
+      "pituusaste": 30.497185,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 303,
+      "nimi": "Sauna",
+      "leveysaste": 60.104845,
+      "pituusaste": 24.672785,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 304,
+      "nimi": "Savottakämppä",
+      "leveysaste": 63.603386,
+      "pituusaste": 27.805838,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 305,
+      "nimi": "Savupirtti",
+      "leveysaste": 62.62129,
+      "pituusaste": 26.834162,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 306,
+      "nimi": "Savupirtti",
+      "leveysaste": 62.621298,
+      "pituusaste": 26.834177,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 307,
+      "nimi": "Savusauna",
+      "leveysaste": 60.610085,
+      "pituusaste": 23.987168,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 308,
+      "nimi": "Savusauna",
+      "leveysaste": 60.610092,
+      "pituusaste": 23.987161,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 309,
+      "nimi": "Savusauna",
+      "leveysaste": 61.159597,
+      "pituusaste": 26.566671,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 310,
+      "nimi": "Savusauna",
+      "leveysaste": 61.203183,
+      "pituusaste": 27.686208,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 311,
+      "nimi": "Savusauna",
+      "leveysaste": 61.203191,
+      "pituusaste": 27.686222,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 312,
+      "nimi": "Sepän paja",
+      "leveysaste": 60.182462,
+      "pituusaste": 24.885662,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 313,
+      "nimi": "Sepän paja",
+      "leveysaste": 60.182471,
+      "pituusaste": 24.885665,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 314,
+      "nimi": "Sikala",
+      "leveysaste": 60.610252,
+      "pituusaste": 23.98792,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 315,
+      "nimi": "Sikala",
+      "leveysaste": 60.610259,
+      "pituusaste": 23.987913,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 316,
+      "nimi": "Siperia",
+      "leveysaste": 61.50111,
+      "pituusaste": 23.759338,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 317,
+      "nimi": "Siperia",
+      "leveysaste": 61.501111,
+      "pituusaste": 23.759347,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 318,
+      "nimi": "Sippolan luhti",
+      "leveysaste": 60.184523,
+      "pituusaste": 24.887367,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 319,
+      "nimi": "Sippolan luhti",
+      "leveysaste": 60.184537,
+      "pituusaste": 24.887352,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 320,
+      "nimi": "Siuntion rautatieasema",
+      "leveysaste": 60.140893,
+      "pituusaste": 24.222215,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 321,
+      "nimi": "Siuntion rautatieasema",
+      "leveysaste": 60.140905,
+      "pituusaste": 24.22214,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 322,
+      "nimi": "Sotilaskasarmi",
+      "leveysaste": 60.889466,
+      "pituusaste": 26.897929,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 323,
+      "nimi": "Sotilaskasarmi",
+      "leveysaste": 60.889539,
+      "pituusaste": 26.89818,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 324,
+      "nimi": "Sotilaskasarmi",
+      "leveysaste": 60.889756,
+      "pituusaste": 26.897596,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 325,
+      "nimi": "Sotilaskasarmi",
+      "leveysaste": 60.889824,
+      "pituusaste": 26.897854,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 326,
+      "nimi": "Sumusireeninhoitajan talo",
+      "leveysaste": 59.800476,
+      "pituusaste": 22.943233,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 327,
+      "nimi": "Sumusireeninhoitajan talo",
+      "leveysaste": 59.800495,
+      "pituusaste": 22.943269,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 328,
+      "nimi": "Suntialan päärakennus",
+      "leveysaste": 61.216104,
+      "pituusaste": 25.487268,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 329,
+      "nimi": "Suntialan päärakennus",
+      "leveysaste": 61.216113,
+      "pituusaste": 25.487273,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 330,
+      "nimi": "Suomunruoktu",
+      "leveysaste": 68.250451,
+      "pituusaste": 27.624358,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 331,
+      "nimi": "Suomussalmen kotiseutumuseo",
+      "leveysaste": 64.915445,
+      "pituusaste": 28.987744,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 332,
+      "nimi": "Suttikämppä autiotupa",
+      "leveysaste": 67.770445,
+      "pituusaste": 29.125541,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 333,
+      "nimi": "Suttikämppä autiotupa",
+      "leveysaste": 67.770457,
+      "pituusaste": 29.125542,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 334,
+      "nimi": "Suuri niittylato",
+      "leveysaste": 60.609806,
+      "pituusaste": 23.989703,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 335,
+      "nimi": "Suuri niittylato",
+      "leveysaste": 60.609815,
+      "pituusaste": 23.989692,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 336,
+      "nimi": "Säteri",
+      "leveysaste": 60.447626,
+      "pituusaste": 24.354461,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 337,
+      "nimi": "Säteri",
+      "leveysaste": 60.447643,
+      "pituusaste": 24.354452,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 338,
+      "nimi": "Talli",
+      "leveysaste": 60.610337,
+      "pituusaste": 23.988213,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 339,
+      "nimi": "Talli",
+      "leveysaste": 60.610345,
+      "pituusaste": 23.988204,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 340,
+      "nimi": "Talli",
+      "leveysaste": 61.061689,
+      "pituusaste": 26.638747,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 341,
+      "nimi": "Talli",
+      "leveysaste": 61.061699,
+      "pituusaste": 26.638766,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 342,
+      "nimi": "Talli",
+      "leveysaste": 64.915161,
+      "pituusaste": 28.988063,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 343,
+      "nimi": "Tampereen ensimmäinen postitalo",
+      "leveysaste": 61.501619,
+      "pituusaste": 23.755234,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 344,
+      "nimi": "Tampereen ensimmäinen postitalo",
+      "leveysaste": 61.501634,
+      "pituusaste": 23.755152,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 345,
+      "nimi": "Tehdasmuseo",
+      "leveysaste": 61.062268,
+      "pituusaste": 26.640769,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 346,
+      "nimi": "Tehdasmuseo",
+      "leveysaste": 61.062275,
+      "pituusaste": 26.640785,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 347,
+      "nimi": "Telegrafen",
+      "leveysaste": 60.099669,
+      "pituusaste": 19.941205,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 348,
+      "nimi": "Tervatalo",
+      "leveysaste": 61.159677,
+      "pituusaste": 26.566229,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 349,
+      "nimi": "Tervolan pappila",
+      "leveysaste": 66.083955,
+      "pituusaste": 24.802651,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 350,
+      "nimi": "Tervolan pappila",
+      "leveysaste": 66.083972,
+      "pituusaste": 24.802675,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 351,
+      "nimi": "Terälahden vanha mylly ja saha",
+      "leveysaste": 61.708823,
+      "pituusaste": 23.895998,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 352,
+      "nimi": "Terälahden vanha mylly ja saha",
+      "leveysaste": 61.708828,
+      "pituusaste": 23.896003,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 353,
+      "nimi": "Tilanhoitajan asuinrakennus",
+      "leveysaste": 60.283556,
+      "pituusaste": 24.952829,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 354,
+      "nimi": "Timmerholmen, lotsstation",
+      "leveysaste": 60.183319,
+      "pituusaste": 22.270151,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 355,
+      "nimi": "Tohmajärven lato",
+      "leveysaste": 60.833914,
+      "pituusaste": 22.984182,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 356,
+      "nimi": "Tohmajärven lato",
+      "leveysaste": 60.833923,
+      "pituusaste": 22.984199,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 357,
+      "nimi": "Toivikkeen maja",
+      "leveysaste": 60.553405,
+      "pituusaste": 24.272121,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 358,
+      "nimi": "Toivikkeen maja",
+      "leveysaste": 60.553412,
+      "pituusaste": 24.272159,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 359,
+      "nimi": "Toivolan talo",
+      "leveysaste": 62.237741,
+      "pituusaste": 25.744333,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 360,
+      "nimi": "Toivolan talo",
+      "leveysaste": 62.237748,
+      "pituusaste": 25.744347,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 361,
+      "nimi": "Turbiini",
+      "leveysaste": 61.501621,
+      "pituusaste": 23.760298,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 362,
+      "nimi": "Turbiini",
+      "leveysaste": 61.501622,
+      "pituusaste": 23.760316,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 363,
+      "nimi": "Tuulensuoja",
+      "leveysaste": 60.867012,
+      "pituusaste": 26.710823,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 364,
+      "nimi": "UKK-kämppä",
+      "leveysaste": 69.146505,
+      "pituusaste": 21.58629,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 365,
+      "nimi": "Uimaharjun rautatieasema",
+      "leveysaste": 62.91241,
+      "pituusaste": 30.241809,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 366,
+      "nimi": "Uotilan työväentalo",
+      "leveysaste": 61.130976,
+      "pituusaste": 21.555294,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 367,
+      "nimi": "Uusi konttorirakennus",
+      "leveysaste": 62.523876,
+      "pituusaste": 24.041388,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 368,
+      "nimi": "Uusi talli",
+      "leveysaste": 60.610406,
+      "pituusaste": 23.9882,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 369,
+      "nimi": "Uusi talli",
+      "leveysaste": 60.610413,
+      "pituusaste": 23.988183,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 370,
+      "nimi": "Vaalan rautatieasema",
+      "leveysaste": 64.558166,
+      "pituusaste": 26.84241,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 371,
+      "nimi": "Vaateaitta",
+      "leveysaste": 60.610242,
+      "pituusaste": 23.98758,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 372,
+      "nimi": "Vaateaitta",
+      "leveysaste": 60.610248,
+      "pituusaste": 23.987573,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 373,
+      "nimi": "Valkeiskylän Kansakoulumuseo",
+      "leveysaste": 63.668797,
+      "pituusaste": 27.061587,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 374,
+      "nimi": "Valkeiskylän Kansakoulumuseo",
+      "leveysaste": 63.668808,
+      "pituusaste": 27.061621,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 375,
+      "nimi": "Valmarinniemen mylly",
+      "leveysaste": 65.787571,
+      "pituusaste": 24.517935,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 376,
+      "nimi": "Vanha Asemarakennus",
+      "leveysaste": 64.88726,
+      "pituusaste": 28.904788,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 377,
+      "nimi": "Vanha Asemarakennus",
+      "leveysaste": 64.887282,
+      "pituusaste": 28.904805,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 378,
+      "nimi": "Vanha Asemarakennus",
+      "leveysaste": 64.887337,
+      "pituusaste": 28.903999,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 379,
+      "nimi": "Vanha Asemarakennus",
+      "leveysaste": 64.887358,
+      "pituusaste": 28.904016,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 380,
+      "nimi": "Vanha Koskipää",
+      "leveysaste": 61.568127,
+      "pituusaste": 26.017238,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 381,
+      "nimi": "Vanha Koskipää",
+      "leveysaste": 61.568138,
+      "pituusaste": 26.017232,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 382,
+      "nimi": "Vanha Paperitehdas",
+      "leveysaste": 62.252865,
+      "pituusaste": 25.758092,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 383,
+      "nimi": "Vanha Vesikosken seurakuntatalo",
+      "leveysaste": 60.860792,
+      "pituusaste": 23.030168,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 384,
+      "nimi": "Vanha Vesikosken seurakuntatalo",
+      "leveysaste": 60.860806,
+      "pituusaste": 23.030178,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 385,
+      "nimi": "Vanha jääkarhunlinna",
+      "leveysaste": 60.175615,
+      "pituusaste": 24.979846,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 386,
+      "nimi": "Vanha jääkarhunlinna",
+      "leveysaste": 60.175623,
+      "pituusaste": 24.979849,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 387,
+      "nimi": "Vanha karhulinna",
+      "leveysaste": 60.17555,
+      "pituusaste": 24.981607,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 388,
+      "nimi": "Vanha karhulinna",
+      "leveysaste": 60.176213,
+      "pituusaste": 24.98454,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 389,
+      "nimi": "Vanha karhulinna",
+      "leveysaste": 60.176213,
+      "pituusaste": 24.984542,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 390,
+      "nimi": "Vanha kellotapuli",
+      "leveysaste": 61.217541,
+      "pituusaste": 25.490792,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 391,
+      "nimi": "Vanha kellotapuli",
+      "leveysaste": 61.217543,
+      "pituusaste": 25.49077,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 392,
+      "nimi": "Vanha konttorirakennus",
+      "leveysaste": 62.524061,
+      "pituusaste": 24.040406,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 393,
+      "nimi": "Vanha odotuspaviljonki",
+      "leveysaste": 60.174714,
+      "pituusaste": 24.980647,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 394,
+      "nimi": "Vanha odotuspaviljonki",
+      "leveysaste": 60.174719,
+      "pituusaste": 24.980648,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 395,
+      "nimi": "Vanha pappila",
+      "leveysaste": 61.062616,
+      "pituusaste": 27.802611,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 396,
+      "nimi": "Vanha pappila",
+      "leveysaste": 61.062624,
+      "pituusaste": 27.802591,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 397,
+      "nimi": "Vanhankirkon hirsiaita",
+      "leveysaste": 60.864136,
+      "pituusaste": 22.963571,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 398,
+      "nimi": "Vanhankirkon hirsiaita",
+      "leveysaste": 60.86415,
+      "pituusaste": 22.963518,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 399,
+      "nimi": "Verstas",
+      "leveysaste": 62.523868,
+      "pituusaste": 24.040721,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 400,
+      "nimi": "Vesilaboratorio",
+      "leveysaste": 60.244518,
+      "pituusaste": 24.049825,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 401,
+      "nimi": "Vesimylly",
+      "leveysaste": 60.18481,
+      "pituusaste": 24.886197,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 402,
+      "nimi": "Vesimylly",
+      "leveysaste": 60.184816,
+      "pituusaste": 24.886199,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 403,
+      "nimi": "Vesisaha",
+      "leveysaste": 60.182511,
+      "pituusaste": 24.886031,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 404,
+      "nimi": "Vesisaha",
+      "leveysaste": 60.182523,
+      "pituusaste": 24.886034,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 405,
+      "nimi": "Veturitalli",
+      "leveysaste": 60.938374,
+      "pituusaste": 27.064962,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 406,
+      "nimi": "Veturitalli",
+      "leveysaste": 60.938383,
+      "pituusaste": 27.065003,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 407,
+      "nimi": "Veturitalli",
+      "leveysaste": 62.273513,
+      "pituusaste": 21.392714,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 408,
+      "nimi": "Vierumäen asemarakennus",
+      "leveysaste": 61.102117,
+      "pituusaste": 25.932842,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 409,
+      "nimi": "Vierumäen asemarakennus",
+      "leveysaste": 61.102126,
+      "pituusaste": 25.932915,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 410,
+      "nimi": "Viestikasarmi",
+      "leveysaste": 60.872479,
+      "pituusaste": 26.68216,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 411,
+      "nimi": "Vihannonkulma",
+      "leveysaste": 60.851737,
+      "pituusaste": 23.061066,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 412,
+      "nimi": "Vihannonkulma",
+      "leveysaste": 60.851781,
+      "pituusaste": 23.061108,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 413,
+      "nimi": "Vilja-aitta",
+      "leveysaste": 60.184806,
+      "pituusaste": 24.887113,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 414,
+      "nimi": "Vilja-aitta",
+      "leveysaste": 60.184817,
+      "pituusaste": 24.887121,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 415,
+      "nimi": "Vilja-aitta",
+      "leveysaste": 62.721046,
+      "pituusaste": 22.509138,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 416,
+      "nimi": "Vilja-aitta",
+      "leveysaste": 62.721059,
+      "pituusaste": 22.50915,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 417,
+      "nimi": "Viljamakasiini",
+      "leveysaste": 60.41609,
+      "pituusaste": 24.319201,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 418,
+      "nimi": "Viljamakasiini",
+      "leveysaste": 60.416102,
+      "pituusaste": 24.319241,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 419,
+      "nimi": "Viljamakasiini",
+      "leveysaste": 60.447322,
+      "pituusaste": 24.353776,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 420,
+      "nimi": "Viljamakasiini",
+      "leveysaste": 60.44734,
+      "pituusaste": 24.353723,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 421,
+      "nimi": "Viljamakasiini",
+      "leveysaste": 63.299035,
+      "pituusaste": 23.156806,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 422,
+      "nimi": "Viljankuivaamo",
+      "leveysaste": 60.413872,
+      "pituusaste": 24.325941,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 423,
+      "nimi": "Villa Apukka",
+      "leveysaste": 66.579531,
+      "pituusaste": 26.018613,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 424,
+      "nimi": "Villa Apukka",
+      "leveysaste": 66.579548,
+      "pituusaste": 26.018577,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 425,
+      "nimi": "Villa Herliz",
+      "leveysaste": 60.208518,
+      "pituusaste": 24.973497,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 426,
+      "nimi": "Villa Herliz",
+      "leveysaste": 60.208522,
+      "pituusaste": 24.9735,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 427,
+      "nimi": "Villa Ida",
+      "leveysaste": 60.90714,
+      "pituusaste": 26.640104,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 428,
+      "nimi": "Villa Ida",
+      "leveysaste": 60.907147,
+      "pituusaste": 26.640094,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 429,
+      "nimi": "Villa Järvelä",
+      "leveysaste": 60.458835,
+      "pituusaste": 22.389297,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 430,
+      "nimi": "Villa Järvelä",
+      "leveysaste": 60.458844,
+      "pituusaste": 22.389279,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 431,
+      "nimi": "Villa London",
+      "leveysaste": 61.606108,
+      "pituusaste": 21.450912,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 432,
+      "nimi": "Villa Rosengård",
+      "leveysaste": 60.106126,
+      "pituusaste": 24.674741,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 433,
+      "nimi": "Villa Ruths",
+      "leveysaste": 60.907774,
+      "pituusaste": 26.641311,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 434,
+      "nimi": "Villa Ruths",
+      "leveysaste": 60.907784,
+      "pituusaste": 26.641349,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 435,
+      "nimi": "Villa Tschepurnoff",
+      "leveysaste": 60.208029,
+      "pituusaste": 24.973258,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 436,
+      "nimi": "Villa Tschepurnoff",
+      "leveysaste": 60.20803,
+      "pituusaste": 24.973249,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 437,
+      "nimi": "Villa Wolmar",
+      "leveysaste": 60.905594,
+      "pituusaste": 26.642861,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 438,
+      "nimi": "Villa Wolmar",
+      "leveysaste": 60.905598,
+      "pituusaste": 26.642864,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 439,
+      "nimi": "Värjäämö",
+      "leveysaste": 61.501732,
+      "pituusaste": 23.760964,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 440,
+      "nimi": "Värjäämö",
+      "leveysaste": 61.50174,
+      "pituusaste": 23.760997,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 441,
+      "nimi": "Värjäämö",
+      "leveysaste": 61.502552,
+      "pituusaste": 23.758674,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 442,
+      "nimi": "Vääräkosken kartonkitehdas",
+      "leveysaste": 62.523463,
+      "pituusaste": 24.042111,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 443,
+      "nimi": "Vääräkosken kartonkitehdas",
+      "leveysaste": 62.52348,
+      "pituusaste": 24.042204,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 444,
+      "nimi": "Xamk Kouvola Campus Päärakennus",
+      "leveysaste": 60.873018,
+      "pituusaste": 26.679981,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 445,
+      "nimi": "Xamk Kouvola Campus Päärakennus",
+      "leveysaste": 60.873092,
+      "pituusaste": 26.679996,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 446,
+      "nimi": "Ylistalo",
+      "leveysaste": 60.179181,
+      "pituusaste": 25.053141,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 447,
+      "nimi": "Ylistalo",
+      "leveysaste": 60.179185,
+      "pituusaste": 25.053155,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 448,
+      "nimi": "Ypäjänkylän koulu",
+      "leveysaste": 60.865115,
+      "pituusaste": 23.211913,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 449,
+      "nimi": "Ypäjänkylän koulu",
+      "leveysaste": 60.86515,
+      "pituusaste": 23.21192,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 450,
+      "nimi": "Åkerfors hydroelectric power plant",
+      "leveysaste": 60.149745,
+      "pituusaste": 23.833779,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    },
+    {
+      "id": 451,
+      "nimi": "Åkerfors hydroelectric power plant",
+      "leveysaste": 60.149754,
+      "pituusaste": 23.833859,
+      "osm_avain": "historic",
+      "osm_arvo": "building",
+      "osm_luokka": "historic=building"
+    }
+  ],
+  "meta": {
+    "title": "Historialliset rakennukset – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Historialliset rakennukset Suomessa — 451 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `historic=building`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 89. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 451 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Historialliset rakennukset – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Historialliset rakennukset – Suomi (OpenStreetMap) — 451 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 451 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

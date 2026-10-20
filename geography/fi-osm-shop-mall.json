@@ -1,0 +1,4291 @@
+{
+  "id": "fi-osm-shop-mall",
+  "name": "Kauppakeskukset – Suomi (OpenStreetMap)",
+  "title": "Kauppakeskukset – Suomi (OpenStreetMap)",
+  "description": "Kauppakeskukset Suomessa — 470 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=mall`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 53. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 470,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A Bloc",
+      "leveysaste": 60.184844,
+      "pituusaste": 24.825278,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 2,
+      "nimi": "A Bloc",
+      "leveysaste": 60.184846,
+      "pituusaste": 24.825235,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 3,
+      "nimi": "ABC Pitkälahti",
+      "leveysaste": 62.838662,
+      "pituusaste": 27.608285,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 4,
+      "nimi": "ABC Pitkälahti",
+      "leveysaste": 62.838755,
+      "pituusaste": 27.608506,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 5,
+      "nimi": "Akseli",
+      "leveysaste": 61.68899,
+      "pituusaste": 27.271557,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 6,
+      "nimi": "Akseli",
+      "leveysaste": 61.689021,
+      "pituusaste": 27.271305,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 7,
+      "nimi": "Alexis",
+      "leveysaste": 63.07413,
+      "pituusaste": 27.658377,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 8,
+      "nimi": "Alexis",
+      "leveysaste": 63.074161,
+      "pituusaste": 27.658328,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 9,
+      "nimi": "Armada",
+      "leveysaste": 61.059317,
+      "pituusaste": 28.184639,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 10,
+      "nimi": "Asemankulma",
+      "leveysaste": 60.118538,
+      "pituusaste": 24.439841,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 11,
+      "nimi": "Asemankulma",
+      "leveysaste": 60.118549,
+      "pituusaste": 24.439842,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 12,
+      "nimi": "BePop",
+      "leveysaste": 61.482561,
+      "pituusaste": 21.797064,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 13,
+      "nimi": "BePop",
+      "leveysaste": 61.482574,
+      "pituusaste": 21.797128,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 14,
+      "nimi": "Capri Shopping Centre",
+      "leveysaste": 61.192954,
+      "pituusaste": 28.690894,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 15,
+      "nimi": "Capri Shopping Centre",
+      "leveysaste": 61.192986,
+      "pituusaste": 28.690962,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 16,
+      "nimi": "Carlson",
+      "leveysaste": 62.891125,
+      "pituusaste": 27.675312,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 17,
+      "nimi": "Centrum",
+      "leveysaste": 60.449775,
+      "pituusaste": 22.262806,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 18,
+      "nimi": "Centrum",
+      "leveysaste": 60.449779,
+      "pituusaste": 22.262818,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 19,
+      "nimi": "Citycenter",
+      "leveysaste": 60.16979,
+      "pituusaste": 24.941725,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 20,
+      "nimi": "Duo",
+      "leveysaste": 61.450858,
+      "pituusaste": 23.850746,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 21,
+      "nimi": "Duo",
+      "leveysaste": 61.450871,
+      "pituusaste": 23.850801,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 22,
+      "nimi": "Easton Hansakäytävä",
+      "leveysaste": 60.209394,
+      "pituusaste": 25.083016,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 23,
+      "nimi": "Easton Hansakäytävä",
+      "leveysaste": 60.209403,
+      "pituusaste": 25.082939,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 24,
+      "nimi": "Easton Helsinki",
+      "leveysaste": 60.209641,
+      "pituusaste": 25.08604,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 25,
+      "nimi": "Easton Helsinki",
+      "leveysaste": 60.209674,
+      "pituusaste": 25.085899,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 26,
+      "nimi": "Entresse",
+      "leveysaste": 60.203403,
+      "pituusaste": 24.659361,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 27,
+      "nimi": "Entresse",
+      "leveysaste": 60.203411,
+      "pituusaste": 24.659321,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 28,
+      "nimi": "Epstori",
+      "leveysaste": 62.790032,
+      "pituusaste": 22.841301,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 29,
+      "nimi": "Espen",
+      "leveysaste": 63.096229,
+      "pituusaste": 21.617548,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 30,
+      "nimi": "Espoontori",
+      "leveysaste": 60.204129,
+      "pituusaste": 24.656358,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 31,
+      "nimi": "Espoontori",
+      "leveysaste": 60.204129,
+      "pituusaste": 24.656379,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 32,
+      "nimi": "Family Center",
+      "leveysaste": 61.043845,
+      "pituusaste": 28.221155,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 33,
+      "nimi": "Forum",
+      "leveysaste": 60.169253,
+      "pituusaste": 24.938201,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 34,
+      "nimi": "Forum",
+      "leveysaste": 60.169257,
+      "pituusaste": 24.938195,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 35,
+      "nimi": "Forum",
+      "leveysaste": 60.450798,
+      "pituusaste": 22.268737,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 36,
+      "nimi": "Forum",
+      "leveysaste": 60.450807,
+      "pituusaste": 22.268626,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 37,
+      "nimi": "Forum",
+      "leveysaste": 61.863722,
+      "pituusaste": 25.191457,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 38,
+      "nimi": "Forum",
+      "leveysaste": 61.863743,
+      "pituusaste": 25.191385,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 39,
+      "nimi": "Forum",
+      "leveysaste": 62.316042,
+      "pituusaste": 27.86706,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 40,
+      "nimi": "Forum",
+      "leveysaste": 62.316076,
+      "pituusaste": 27.866954,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 41,
+      "nimi": "GW Galleria",
+      "leveysaste": 63.111661,
+      "pituusaste": 21.657874,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 42,
+      "nimi": "GW Galleria",
+      "leveysaste": 63.111723,
+      "pituusaste": 21.657813,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 43,
+      "nimi": "Galleria",
+      "leveysaste": 60.221434,
+      "pituusaste": 24.812481,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 44,
+      "nimi": "Galleria",
+      "leveysaste": 60.221449,
+      "pituusaste": 24.812435,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 45,
+      "nimi": "Galleria Wasa",
+      "leveysaste": 63.096092,
+      "pituusaste": 21.61956,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 46,
+      "nimi": "Gammelbackan liikekeskus",
+      "leveysaste": 60.374214,
+      "pituusaste": 25.632514,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 47,
+      "nimi": "Graanin liikekeskus",
+      "leveysaste": 61.686159,
+      "pituusaste": 27.295823,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 48,
+      "nimi": "H-Talo",
+      "leveysaste": 62.891205,
+      "pituusaste": 27.676562,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 49,
+      "nimi": "H-Talo",
+      "leveysaste": 62.891213,
+      "pituusaste": 27.676717,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 50,
+      "nimi": "Hakunilan keskus",
+      "leveysaste": 60.2783,
+      "pituusaste": 25.104723,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 51,
+      "nimi": "Hakunilan keskus",
+      "leveysaste": 60.278342,
+      "pituusaste": 25.104641,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 52,
+      "nimi": "Hansakortteli",
+      "leveysaste": 60.45044,
+      "pituusaste": 22.264262,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 53,
+      "nimi": "Hansakortteli",
+      "leveysaste": 60.450456,
+      "pituusaste": 22.26431,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 54,
+      "nimi": "Heikintori",
+      "leveysaste": 60.176534,
+      "pituusaste": 24.801785,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 55,
+      "nimi": "Herman",
+      "leveysaste": 62.873176,
+      "pituusaste": 27.625391,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 56,
+      "nimi": "Herman",
+      "leveysaste": 62.873196,
+      "pituusaste": 27.62534,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 57,
+      "nimi": "Herttoniemen ostoskeskus",
+      "leveysaste": 60.204632,
+      "pituusaste": 25.034062,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 58,
+      "nimi": "Herttoniemen ostoskeskus",
+      "leveysaste": 60.204636,
+      "pituusaste": 25.034046,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 59,
+      "nimi": "Huhtakeskus",
+      "leveysaste": 62.270402,
+      "pituusaste": 25.800648,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 60,
+      "nimi": "Huhtakeskus",
+      "leveysaste": 62.270412,
+      "pituusaste": 25.800631,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 61,
+      "nimi": "Humppilan Lasi",
+      "leveysaste": 60.941565,
+      "pituusaste": 23.365764,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 62,
+      "nimi": "Hämeenkyrön liikekeskus",
+      "leveysaste": 61.639455,
+      "pituusaste": 23.196843,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 63,
+      "nimi": "Hämeenkyrön liikekeskus",
+      "leveysaste": 61.639476,
+      "pituusaste": 23.196756,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 64,
+      "nimi": "ICCO",
+      "leveysaste": 61.452421,
+      "pituusaste": 21.837493,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 65,
+      "nimi": "ICCO",
+      "leveysaste": 61.452511,
+      "pituusaste": 21.837351,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 66,
+      "nimi": "Ideapark",
+      "leveysaste": 61.362079,
+      "pituusaste": 23.795389,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 67,
+      "nimi": "Ideapark",
+      "leveysaste": 65.076269,
+      "pituusaste": 25.447787,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 68,
+      "nimi": "Ideapark Seinäjoki",
+      "leveysaste": 62.794071,
+      "pituusaste": 22.793141,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 69,
+      "nimi": "Ideapark Seinäjoki",
+      "leveysaste": 62.794086,
+      "pituusaste": 22.793393,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 70,
+      "nimi": "Iso Omena",
+      "leveysaste": 60.161239,
+      "pituusaste": 24.738511,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 71,
+      "nimi": "Iso Omena",
+      "leveysaste": 60.16124,
+      "pituusaste": 24.738512,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 72,
+      "nimi": "Iso-Myy",
+      "leveysaste": 62.601812,
+      "pituusaste": 29.763025,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 73,
+      "nimi": "Iso-Oskari",
+      "leveysaste": 62.974717,
+      "pituusaste": 28.478612,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 74,
+      "nimi": "Iso-Oskari",
+      "leveysaste": 62.974726,
+      "pituusaste": 28.478588,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 75,
+      "nimi": "IsoKarhu",
+      "leveysaste": 61.484355,
+      "pituusaste": 21.798123,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 76,
+      "nimi": "IsoKarhu",
+      "leveysaste": 61.484468,
+      "pituusaste": 21.798176,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 77,
+      "nimi": "Joulupukkin Lahjatalo",
+      "leveysaste": 66.543951,
+      "pituusaste": 25.847479,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 78,
+      "nimi": "Joulupukkin Lahjatalo",
+      "leveysaste": 66.543956,
+      "pituusaste": 25.847513,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 79,
+      "nimi": "Joulutalo",
+      "leveysaste": 66.543131,
+      "pituusaste": 25.842907,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 80,
+      "nimi": "Joulutalo",
+      "leveysaste": 66.54314,
+      "pituusaste": 25.842949,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 81,
+      "nimi": "Jumalniemen kauppakeskus",
+      "leveysaste": 60.505062,
+      "pituusaste": 26.917283,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 82,
+      "nimi": "Jumbo",
+      "leveysaste": 60.291772,
+      "pituusaste": 24.964597,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 83,
+      "nimi": "Jumbo",
+      "leveysaste": 60.291774,
+      "pituusaste": 24.964598,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 84,
+      "nimi": "Jyväskeskus",
+      "leveysaste": 62.242749,
+      "pituusaste": 25.746253,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 85,
+      "nimi": "Jyväskeskus",
+      "leveysaste": 62.242768,
+      "pituusaste": 25.74629,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 86,
+      "nimi": "KOP-kolmio",
+      "leveysaste": 60.450118,
+      "pituusaste": 22.266493,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 87,
+      "nimi": "KOP-kolmio",
+      "leveysaste": 60.450129,
+      "pituusaste": 22.266445,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 88,
+      "nimi": "Kaari",
+      "leveysaste": 60.236841,
+      "pituusaste": 24.891914,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 89,
+      "nimi": "Kaari",
+      "leveysaste": 60.236846,
+      "pituusaste": 24.891929,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 90,
+      "nimi": "Kallentori",
+      "leveysaste": 63.837634,
+      "pituusaste": 23.14151,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 91,
+      "nimi": "Kallentori",
+      "leveysaste": 63.837635,
+      "pituusaste": 23.141476,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 92,
+      "nimi": "Karuselli",
+      "leveysaste": 60.403224,
+      "pituusaste": 25.100077,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 93,
+      "nimi": "Kastelli",
+      "leveysaste": 61.870312,
+      "pituusaste": 28.878453,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 94,
+      "nimi": "Kauppa- ja kulttuurikeskus Merta",
+      "leveysaste": 64.259725,
+      "pituusaste": 23.947194,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 95,
+      "nimi": "Kauppa- ja kulttuurikeskus Merta",
+      "leveysaste": 64.259746,
+      "pituusaste": 23.947128,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 96,
+      "nimi": "Kauppahalli",
+      "leveysaste": 63.094947,
+      "pituusaste": 21.617801,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 97,
+      "nimi": "Kauppahuone Corner",
+      "leveysaste": 62.273779,
+      "pituusaste": 21.3767,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 98,
+      "nimi": "Kauppahuone Corner",
+      "leveysaste": 62.273787,
+      "pituusaste": 21.376651,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 99,
+      "nimi": "Kauppakeskus Aalloppi Järvenpää",
+      "leveysaste": 60.475504,
+      "pituusaste": 25.08999,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 100,
+      "nimi": "Kauppakeskus Aalloppi Järvenpää",
+      "leveysaste": 60.475535,
+      "pituusaste": 25.089944,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 101,
+      "nimi": "Kauppakeskus Aapeli",
+      "leveysaste": 62.891366,
+      "pituusaste": 27.67773,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 102,
+      "nimi": "Kauppakeskus Ainoa",
+      "leveysaste": 60.175412,
+      "pituusaste": 24.804664,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 103,
+      "nimi": "Kauppakeskus Arabia",
+      "leveysaste": 60.202808,
+      "pituusaste": 24.96801,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 104,
+      "nimi": "Kauppakeskus Arabia",
+      "leveysaste": 60.202821,
+      "pituusaste": 24.967978,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 105,
+      "nimi": "Kauppakeskus Atomi",
+      "leveysaste": 60.73282,
+      "pituusaste": 24.779744,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 106,
+      "nimi": "Kauppakeskus Atomi",
+      "leveysaste": 60.73282,
+      "pituusaste": 24.779747,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 107,
+      "nimi": "Kauppakeskus Brunni",
+      "leveysaste": 60.374509,
+      "pituusaste": 24.758983,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 108,
+      "nimi": "Kauppakeskus Brunni",
+      "leveysaste": 60.374566,
+      "pituusaste": 24.758912,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 109,
+      "nimi": "Kauppakeskus Cantti",
+      "leveysaste": 62.870865,
+      "pituusaste": 27.628139,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 110,
+      "nimi": "Kauppakeskus Cantti",
+      "leveysaste": 62.870905,
+      "pituusaste": 27.628035,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 111,
+      "nimi": "Kauppakeskus Chydenia",
+      "leveysaste": 63.835578,
+      "pituusaste": 23.13258,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 112,
+      "nimi": "Kauppakeskus Columbus",
+      "leveysaste": 60.207368,
+      "pituusaste": 25.145734,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 113,
+      "nimi": "Kauppakeskus Columbus",
+      "leveysaste": 60.207395,
+      "pituusaste": 25.145691,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 114,
+      "nimi": "Kauppakeskus Elo",
+      "leveysaste": 61.55763,
+      "pituusaste": 23.570025,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 115,
+      "nimi": "Kauppakeskus Elo",
+      "leveysaste": 61.557631,
+      "pituusaste": 23.570026,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 116,
+      "nimi": "Kauppakeskus Forum",
+      "leveysaste": 62.242078,
+      "pituusaste": 25.747635,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 117,
+      "nimi": "Kauppakeskus Forum",
+      "leveysaste": 62.242102,
+      "pituusaste": 25.747579,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 118,
+      "nimi": "Kauppakeskus Galleria",
+      "leveysaste": 61.055751,
+      "pituusaste": 28.18997,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 119,
+      "nimi": "Kauppakeskus Goodman",
+      "leveysaste": 60.993563,
+      "pituusaste": 24.456536,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 120,
+      "nimi": "Kauppakeskus Goodman",
+      "leveysaste": 60.993596,
+      "pituusaste": 24.456478,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 121,
+      "nimi": "Kauppakeskus Grani",
+      "leveysaste": 60.21053,
+      "pituusaste": 24.728634,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 122,
+      "nimi": "Kauppakeskus Grani",
+      "leveysaste": 60.210537,
+      "pituusaste": 24.728576,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 123,
+      "nimi": "Kauppakeskus Häijään Äijä",
+      "leveysaste": 61.50008,
+      "pituusaste": 23.089972,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 124,
+      "nimi": "Kauppakeskus Häijään Äijä",
+      "leveysaste": 61.500109,
+      "pituusaste": 23.089982,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 125,
+      "nimi": "Kauppakeskus IsoKristiina",
+      "leveysaste": 61.056815,
+      "pituusaste": 28.19338,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 126,
+      "nimi": "Kauppakeskus IsoKristiina",
+      "leveysaste": 61.056829,
+      "pituusaste": 28.193479,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 127,
+      "nimi": "Kauppakeskus Isomyyri",
+      "leveysaste": 60.263083,
+      "pituusaste": 24.853607,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 128,
+      "nimi": "Kauppakeskus Isomyyri",
+      "leveysaste": 60.2631,
+      "pituusaste": 24.853611,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 129,
+      "nimi": "Kauppakeskus Itis",
+      "leveysaste": 60.21203,
+      "pituusaste": 25.082665,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 130,
+      "nimi": "Kauppakeskus Itis",
+      "leveysaste": 60.212044,
+      "pituusaste": 25.082692,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 131,
+      "nimi": "Kauppakeskus Itäväylä",
+      "leveysaste": 60.564243,
+      "pituusaste": 27.163144,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 132,
+      "nimi": "Kauppakeskus Juho-Kusti",
+      "leveysaste": 60.405699,
+      "pituusaste": 25.10437,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 133,
+      "nimi": "Kauppakeskus Juho-Kusti",
+      "leveysaste": 60.405724,
+      "pituusaste": 25.10441,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 134,
+      "nimi": "Kauppakeskus Kapteeni",
+      "leveysaste": 64.934751,
+      "pituusaste": 25.40187,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 135,
+      "nimi": "Kauppakeskus Kapteeni",
+      "leveysaste": 64.934765,
+      "pituusaste": 25.401859,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 136,
+      "nimi": "Kauppakeskus Karisma",
+      "leveysaste": 60.981618,
+      "pituusaste": 25.736827,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 137,
+      "nimi": "Kauppakeskus Karisma",
+      "leveysaste": 60.981737,
+      "pituusaste": 25.737182,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 138,
+      "nimi": "Kauppakeskus Kartanokeskus",
+      "leveysaste": 60.816987,
+      "pituusaste": 23.629144,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 139,
+      "nimi": "Kauppakeskus Kartanokeskus",
+      "leveysaste": 60.817002,
+      "pituusaste": 23.629207,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 140,
+      "nimi": "Kauppakeskus Karuselli",
+      "leveysaste": 60.403023,
+      "pituusaste": 25.09946,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 141,
+      "nimi": "Kauppakeskus Karuselli",
+      "leveysaste": 60.403028,
+      "pituusaste": 25.099483,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 142,
+      "nimi": "Kauppakeskus Kivis",
+      "leveysaste": 60.313115,
+      "pituusaste": 24.846525,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 143,
+      "nimi": "Kauppakeskus Kivis",
+      "leveysaste": 60.313161,
+      "pituusaste": 24.846611,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 144,
+      "nimi": "Kauppakeskus Kluuvi",
+      "leveysaste": 60.169414,
+      "pituusaste": 24.947994,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 145,
+      "nimi": "Kauppakeskus Kluuvi",
+      "leveysaste": 60.169423,
+      "pituusaste": 24.947924,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 146,
+      "nimi": "Kauppakeskus Koivukeskus",
+      "leveysaste": 60.324561,
+      "pituusaste": 25.057693,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 147,
+      "nimi": "Kauppakeskus Koivukeskus",
+      "leveysaste": 60.324586,
+      "pituusaste": 25.057718,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 148,
+      "nimi": "Kauppakeskus Komppi",
+      "leveysaste": 61.756434,
+      "pituusaste": 23.060941,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 149,
+      "nimi": "Kauppakeskus Kumpare",
+      "leveysaste": 66.16719,
+      "pituusaste": 29.138088,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 150,
+      "nimi": "Kauppakeskus Kumpare",
+      "leveysaste": 66.167198,
+      "pituusaste": 29.138094,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 151,
+      "nimi": "Kauppakeskus Kupiainen",
+      "leveysaste": 62.096518,
+      "pituusaste": 30.141837,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 152,
+      "nimi": "Kauppakeskus Kupiainen",
+      "leveysaste": 62.096544,
+      "pituusaste": 30.141873,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 153,
+      "nimi": "Kauppakeskus Kuurna",
+      "leveysaste": 62.805247,
+      "pituusaste": 23.506274,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 154,
+      "nimi": "Kauppakeskus Liila",
+      "leveysaste": 60.159687,
+      "pituusaste": 24.693778,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 155,
+      "nimi": "Kauppakeskus Liila",
+      "leveysaste": 60.159703,
+      "pituusaste": 24.69399,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 156,
+      "nimi": "Kauppakeskus Like",
+      "leveysaste": 61.519939,
+      "pituusaste": 23.669144,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 157,
+      "nimi": "Kauppakeskus Like",
+      "leveysaste": 61.519948,
+      "pituusaste": 23.669109,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 158,
+      "nimi": "Kauppakeskus Lohi",
+      "leveysaste": 60.250592,
+      "pituusaste": 24.069952,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 159,
+      "nimi": "Kauppakeskus Lohjantähti",
+      "leveysaste": 60.249792,
+      "pituusaste": 24.0669,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 160,
+      "nimi": "Kauppakeskus Lohjantähti",
+      "leveysaste": 60.249812,
+      "pituusaste": 24.066954,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 161,
+      "nimi": "Kauppakeskus Länsituuli",
+      "leveysaste": 60.175966,
+      "pituusaste": 24.803718,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 162,
+      "nimi": "Kauppakeskus Länsituuli",
+      "leveysaste": 60.175973,
+      "pituusaste": 24.803769,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 163,
+      "nimi": "Kauppakeskus Maili",
+      "leveysaste": 60.963574,
+      "pituusaste": 25.657087,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 164,
+      "nimi": "Kauppakeskus Maili",
+      "leveysaste": 60.963597,
+      "pituusaste": 25.657155,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 165,
+      "nimi": "Kauppakeskus Malmin Nova",
+      "leveysaste": 60.251417,
+      "pituusaste": 25.01322,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 166,
+      "nimi": "Kauppakeskus Malmin Nova",
+      "leveysaste": 60.251427,
+      "pituusaste": 25.013264,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 167,
+      "nimi": "Kauppakeskus Malmintori",
+      "leveysaste": 60.251821,
+      "pituusaste": 25.010467,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 168,
+      "nimi": "Kauppakeskus Malmintori",
+      "leveysaste": 60.251828,
+      "pituusaste": 25.010506,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 169,
+      "nimi": "Kauppakeskus Masto",
+      "leveysaste": 64.677613,
+      "pituusaste": 24.486368,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 170,
+      "nimi": "Kauppakeskus Masto",
+      "leveysaste": 64.677616,
+      "pituusaste": 24.486424,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 171,
+      "nimi": "Kauppakeskus Matkus",
+      "leveysaste": 62.823234,
+      "pituusaste": 27.603635,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 172,
+      "nimi": "Kauppakeskus Matkus",
+      "leveysaste": 62.823305,
+      "pituusaste": 27.603685,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 173,
+      "nimi": "Kauppakeskus Merituuli",
+      "leveysaste": 60.163287,
+      "pituusaste": 24.706912,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 174,
+      "nimi": "Kauppakeskus Merituuli",
+      "leveysaste": 60.163311,
+      "pituusaste": 24.706782,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 175,
+      "nimi": "Kauppakeskus Minna",
+      "leveysaste": 62.89066,
+      "pituusaste": 27.676799,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 176,
+      "nimi": "Kauppakeskus Minna",
+      "leveysaste": 62.890665,
+      "pituusaste": 27.676857,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 177,
+      "nimi": "Kauppakeskus Mylly",
+      "leveysaste": 60.490586,
+      "pituusaste": 22.199885,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 178,
+      "nimi": "Kauppakeskus Niitty",
+      "leveysaste": 60.170302,
+      "pituusaste": 24.763563,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 179,
+      "nimi": "Kauppakeskus Optelli",
+      "leveysaste": 60.995407,
+      "pituusaste": 24.463171,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 180,
+      "nimi": "Kauppakeskus Optelli",
+      "leveysaste": 60.995419,
+      "pituusaste": 24.463148,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 181,
+      "nimi": "Kauppakeskus Orimatti",
+      "leveysaste": 60.804442,
+      "pituusaste": 25.731823,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 182,
+      "nimi": "Kauppakeskus Orimatti",
+      "leveysaste": 60.804469,
+      "pituusaste": 25.731715,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 183,
+      "nimi": "Kauppakeskus Paavolantori",
+      "leveysaste": 63.000826,
+      "pituusaste": 23.816711,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 184,
+      "nimi": "Kauppakeskus Pasaati",
+      "leveysaste": 60.466591,
+      "pituusaste": 26.943955,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 185,
+      "nimi": "Kauppakeskus Pasaati",
+      "leveysaste": 60.466657,
+      "pituusaste": 26.943854,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 186,
+      "nimi": "Kauppakeskus Potkur",
+      "leveysaste": 61.1278,
+      "pituusaste": 21.506709,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 187,
+      "nimi": "Kauppakeskus Potkur",
+      "leveysaste": 61.127832,
+      "pituusaste": 21.506717,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 188,
+      "nimi": "Kauppakeskus Puuvilla",
+      "leveysaste": 61.49454,
+      "pituusaste": 21.79998,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 189,
+      "nimi": "Kauppakeskus Puuvilla",
+      "leveysaste": 61.494545,
+      "pituusaste": 21.799936,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 190,
+      "nimi": "Kauppakeskus Ratina",
+      "leveysaste": 61.493267,
+      "pituusaste": 23.767339,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 191,
+      "nimi": "Kauppakeskus Revontuli",
+      "leveysaste": 66.502742,
+      "pituusaste": 25.723431,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 192,
+      "nimi": "Kauppakeskus Revontuli",
+      "leveysaste": 66.502765,
+      "pituusaste": 25.723554,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 193,
+      "nimi": "Kauppakeskus Rinteenkulma",
+      "leveysaste": 66.503001,
+      "pituusaste": 25.725791,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 194,
+      "nimi": "Kauppakeskus Rinteenkulma",
+      "leveysaste": 66.503016,
+      "pituusaste": 25.725745,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 195,
+      "nimi": "Kauppakeskus Ristikko",
+      "leveysaste": 60.239074,
+      "pituusaste": 24.84969,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 196,
+      "nimi": "Kauppakeskus Ristikko",
+      "leveysaste": 60.239077,
+      "pituusaste": 24.849669,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 197,
+      "nimi": "Kauppakeskus Ruoholahti",
+      "leveysaste": 60.163752,
+      "pituusaste": 24.910944,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 198,
+      "nimi": "Kauppakeskus Ruoholahti",
+      "leveysaste": 60.163756,
+      "pituusaste": 24.910986,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 199,
+      "nimi": "Kauppakeskus Ruuti",
+      "leveysaste": 62.973196,
+      "pituusaste": 23.029328,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 200,
+      "nimi": "Kauppakeskus Saari",
+      "leveysaste": 60.179372,
+      "pituusaste": 25.051677,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 201,
+      "nimi": "Kauppakeskus Saari",
+      "leveysaste": 60.179396,
+      "pituusaste": 25.051666,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 202,
+      "nimi": "Kauppakeskus Sektori",
+      "leveysaste": 62.893031,
+      "pituusaste": 27.679893,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 203,
+      "nimi": "Kauppakeskus Sektori",
+      "leveysaste": 62.893032,
+      "pituusaste": 27.679899,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 204,
+      "nimi": "Kauppakeskus Seppä",
+      "leveysaste": 62.256098,
+      "pituusaste": 25.774728,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 205,
+      "nimi": "Kauppakeskus Seppä",
+      "leveysaste": 62.256129,
+      "pituusaste": 25.774742,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 206,
+      "nimi": "Kauppakeskus Sokkari",
+      "leveysaste": 62.24263,
+      "pituusaste": 25.748893,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 207,
+      "nimi": "Kauppakeskus Sokkari",
+      "leveysaste": 62.242668,
+      "pituusaste": 25.74897,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 208,
+      "nimi": "Kauppakeskus Spektri",
+      "leveysaste": 62.518382,
+      "pituusaste": 25.691917,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 209,
+      "nimi": "Kauppakeskus Stella",
+      "leveysaste": 61.689091,
+      "pituusaste": 27.273776,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 210,
+      "nimi": "Kauppakeskus Stella",
+      "leveysaste": 61.689146,
+      "pituusaste": 27.273807,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 211,
+      "nimi": "Kauppakeskus Syke",
+      "leveysaste": 60.987286,
+      "pituusaste": 25.664165,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 212,
+      "nimi": "Kauppakeskus Syke",
+      "leveysaste": 60.987327,
+      "pituusaste": 25.664119,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 213,
+      "nimi": "Kauppakeskus Tawast",
+      "leveysaste": 62.243001,
+      "pituusaste": 25.747516,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 214,
+      "nimi": "Kauppakeskus Tawast",
+      "leveysaste": 62.243014,
+      "pituusaste": 25.747543,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 215,
+      "nimi": "Kauppakeskus Tawast",
+      "leveysaste": 62.243063,
+      "pituusaste": 25.7471,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 216,
+      "nimi": "Kauppakeskus Tawast",
+      "leveysaste": 62.243083,
+      "pituusaste": 25.747054,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 217,
+      "nimi": "Kauppakeskus Tawast",
+      "leveysaste": 62.243265,
+      "pituusaste": 25.747702,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 218,
+      "nimi": "Kauppakeskus Tawast",
+      "leveysaste": 62.24327,
+      "pituusaste": 25.747727,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 219,
+      "nimi": "Kauppakeskus Tehtaankatu 12",
+      "leveysaste": 63.836824,
+      "pituusaste": 23.128578,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 220,
+      "nimi": "Kauppakeskus Tehtaankatu 12",
+      "leveysaste": 63.836825,
+      "pituusaste": 23.128604,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 221,
+      "nimi": "Kauppakeskus Tikkuri",
+      "leveysaste": 60.292061,
+      "pituusaste": 25.041739,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 222,
+      "nimi": "Kauppakeskus Torikulma",
+      "leveysaste": 62.892882,
+      "pituusaste": 27.676337,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 223,
+      "nimi": "Kauppakeskus Torikulma",
+      "leveysaste": 62.8929,
+      "pituusaste": 27.676079,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 224,
+      "nimi": "Kauppakeskus Torikulma",
+      "leveysaste": 62.892907,
+      "pituusaste": 27.676209,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 225,
+      "nimi": "Kauppakeskus Tuulonen",
+      "leveysaste": 61.105401,
+      "pituusaste": 24.865544,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 226,
+      "nimi": "Kauppakeskus Tuulonen",
+      "leveysaste": 61.105403,
+      "pituusaste": 24.865545,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 227,
+      "nimi": "Kauppakeskus Ulvilan Hansa",
+      "leveysaste": 61.428756,
+      "pituusaste": 21.876265,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 228,
+      "nimi": "Kauppakeskus Ulvilan Hansa",
+      "leveysaste": 61.428766,
+      "pituusaste": 21.876225,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 229,
+      "nimi": "Kauppakeskus Valkea",
+      "leveysaste": 65.011417,
+      "pituusaste": 25.472822,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 230,
+      "nimi": "Kauppakeskus Valo",
+      "leveysaste": 60.968484,
+      "pituusaste": 25.658059,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 231,
+      "nimi": "Kauppakeskus Valo",
+      "leveysaste": 60.96856,
+      "pituusaste": 25.658222,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 232,
+      "nimi": "Kauppakeskus Valtari",
+      "leveysaste": 60.867625,
+      "pituusaste": 26.70731,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 233,
+      "nimi": "Kauppakeskus Valtari",
+      "leveysaste": 60.867633,
+      "pituusaste": 26.707386,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 234,
+      "nimi": "Kauppakeskus Veturi",
+      "leveysaste": 60.876541,
+      "pituusaste": 26.652144,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 235,
+      "nimi": "Kauppakeskus Veturi",
+      "leveysaste": 60.876571,
+      "pituusaste": 26.652084,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 236,
+      "nimi": "Kauppakeskus Vihtori",
+      "leveysaste": 62.892108,
+      "pituusaste": 27.680297,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 237,
+      "nimi": "Kauppakeskus Viisari",
+      "leveysaste": 60.278557,
+      "pituusaste": 24.821514,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 238,
+      "nimi": "Kauppakeskus Viisari",
+      "leveysaste": 60.278585,
+      "pituusaste": 24.821585,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 239,
+      "nimi": "Kauppakeskus Volmari",
+      "leveysaste": 60.40499,
+      "pituusaste": 25.104146,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 240,
+      "nimi": "Kauppakeskus Willa",
+      "leveysaste": 60.632004,
+      "pituusaste": 24.863638,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 241,
+      "nimi": "Kauppakeskus Wänni",
+      "leveysaste": 61.130101,
+      "pituusaste": 21.507005,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 242,
+      "nimi": "Kauppakeskus Zeppelin",
+      "leveysaste": 64.902475,
+      "pituusaste": 25.53817,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 243,
+      "nimi": "Kauppakortteli Pekuri",
+      "leveysaste": 65.011724,
+      "pituusaste": 25.468742,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 244,
+      "nimi": "Kauppapaikka Tavastila",
+      "leveysaste": 60.993649,
+      "pituusaste": 24.459596,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 245,
+      "nimi": "Kauppapaikka Tavastila",
+      "leveysaste": 60.99365,
+      "pituusaste": 24.459596,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 246,
+      "nimi": "Kauppatalo",
+      "leveysaste": 60.379312,
+      "pituusaste": 24.753404,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 247,
+      "nimi": "Kauttuan Liikekeskus",
+      "leveysaste": 61.116167,
+      "pituusaste": 22.16287,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 248,
+      "nimi": "Kehräsaari",
+      "leveysaste": 61.495566,
+      "pituusaste": 23.763664,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 249,
+      "nimi": "Keljon Kauppakeskus",
+      "leveysaste": 62.215292,
+      "pituusaste": 25.719826,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 250,
+      "nimi": "Keljon Kauppakeskus",
+      "leveysaste": 62.215297,
+      "pituusaste": 25.719837,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 251,
+      "nimi": "Keskustalo Kauppapiha",
+      "leveysaste": 60.995969,
+      "pituusaste": 24.466765,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 252,
+      "nimi": "Kiimingin liikekeskus",
+      "leveysaste": 65.129773,
+      "pituusaste": 25.778277,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 253,
+      "nimi": "Kiimingin liikekeskus",
+      "leveysaste": 65.129777,
+      "pituusaste": 25.778257,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 254,
+      "nimi": "Kirkkonummen Ostari",
+      "leveysaste": 60.120953,
+      "pituusaste": 24.440416,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 255,
+      "nimi": "Kirsikka",
+      "leveysaste": 60.120435,
+      "pituusaste": 24.443875,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 256,
+      "nimi": "Kirsikka",
+      "leveysaste": 60.120462,
+      "pituusaste": 24.443793,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 257,
+      "nimi": "Klaava",
+      "leveysaste": 61.432453,
+      "pituusaste": 23.809333,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 258,
+      "nimi": "Kohtaamispaikka Loisto",
+      "leveysaste": 64.23135,
+      "pituusaste": 23.817968,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 259,
+      "nimi": "Kolmikulma",
+      "leveysaste": 62.244743,
+      "pituusaste": 25.751106,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 260,
+      "nimi": "Kolmisoppi",
+      "leveysaste": 62.864525,
+      "pituusaste": 27.612683,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 261,
+      "nimi": "Kolmisoppi",
+      "leveysaste": 62.864537,
+      "pituusaste": 27.612701,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 262,
+      "nimi": "Konalan Portti",
+      "leveysaste": 60.244883,
+      "pituusaste": 24.84649,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 263,
+      "nimi": "Konalan Portti",
+      "leveysaste": 60.24491,
+      "pituusaste": 24.846555,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 264,
+      "nimi": "Koskelan ostokeskus",
+      "leveysaste": 65.044786,
+      "pituusaste": 25.446408,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 265,
+      "nimi": "Koskelan ostokeskus",
+      "leveysaste": 65.044842,
+      "pituusaste": 25.446346,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 266,
+      "nimi": "Koskentori",
+      "leveysaste": 61.169936,
+      "pituusaste": 28.768933,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 267,
+      "nimi": "Koskentori",
+      "leveysaste": 61.170517,
+      "pituusaste": 28.770169,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 268,
+      "nimi": "Koskentori",
+      "leveysaste": 61.170683,
+      "pituusaste": 28.769483,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 269,
+      "nimi": "Koskentori",
+      "leveysaste": 61.170687,
+      "pituusaste": 28.769393,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 270,
+      "nimi": "Koskikara",
+      "leveysaste": 61.266653,
+      "pituusaste": 24.028361,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 271,
+      "nimi": "Koskikara",
+      "leveysaste": 61.266671,
+      "pituusaste": 24.028321,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 272,
+      "nimi": "Koskikeskus",
+      "leveysaste": 61.495697,
+      "pituusaste": 23.767355,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 273,
+      "nimi": "Koskikeskus",
+      "leveysaste": 61.495708,
+      "pituusaste": 23.767365,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 274,
+      "nimi": "Kotikeskus",
+      "leveysaste": 62.286717,
+      "pituusaste": 25.720114,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 275,
+      "nimi": "Kotikeskus",
+      "leveysaste": 62.28674,
+      "pituusaste": 25.720123,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 276,
+      "nimi": "Kourulan ostari",
+      "leveysaste": 61.048861,
+      "pituusaste": 28.134103,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 277,
+      "nimi": "Kristalli",
+      "leveysaste": 61.869823,
+      "pituusaste": 28.876718,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 278,
+      "nimi": "Kristalli",
+      "leveysaste": 61.869827,
+      "pituusaste": 28.876689,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 279,
+      "nimi": "Krossikeskus",
+      "leveysaste": 60.420077,
+      "pituusaste": 22.37913,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 280,
+      "nimi": "Krossikeskus",
+      "leveysaste": 60.420303,
+      "pituusaste": 22.378762,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 281,
+      "nimi": "Kuninkaankulma",
+      "leveysaste": 61.499904,
+      "pituusaste": 23.755484,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 282,
+      "nimi": "Kuninkaankulma",
+      "leveysaste": 61.499908,
+      "pituusaste": 23.75549,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 283,
+      "nimi": "Kuninkojan kotikeskus",
+      "leveysaste": 60.491786,
+      "pituusaste": 22.22098,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 284,
+      "nimi": "Kuninkojan kotikeskus",
+      "leveysaste": 60.49179,
+      "pituusaste": 22.221037,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 285,
+      "nimi": "Kuokkalan ostoskeskus",
+      "leveysaste": 62.227675,
+      "pituusaste": 25.772147,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 286,
+      "nimi": "Kuusaantori",
+      "leveysaste": 60.907298,
+      "pituusaste": 26.626089,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 287,
+      "nimi": "Kuusaantori",
+      "leveysaste": 60.907309,
+      "pituusaste": 26.626079,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 288,
+      "nimi": "Kvevlax affärshus",
+      "leveysaste": 63.161167,
+      "pituusaste": 21.841428,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 289,
+      "nimi": "Kvevlax affärshus",
+      "leveysaste": 63.16117,
+      "pituusaste": 21.841429,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 290,
+      "nimi": "Kyntäjä",
+      "leveysaste": 62.585358,
+      "pituusaste": 23.61583,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 291,
+      "nimi": "Kyntäjä",
+      "leveysaste": 62.585374,
+      "pituusaste": 23.615768,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 292,
+      "nimi": "Kämp Galleria",
+      "leveysaste": 60.168113,
+      "pituusaste": 24.946419,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 293,
+      "nimi": "Kämp Galleria",
+      "leveysaste": 60.16814,
+      "pituusaste": 24.946365,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 294,
+      "nimi": "Lansantien liikekiinteistö",
+      "leveysaste": 60.21191,
+      "pituusaste": 24.768053,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 295,
+      "nimi": "Lansantien liikekiinteistö",
+      "leveysaste": 60.211921,
+      "pituusaste": 24.768011,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 296,
+      "nimi": "Lanterna",
+      "leveysaste": 60.209847,
+      "pituusaste": 25.062612,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 297,
+      "nimi": "Lanterna",
+      "leveysaste": 60.209847,
+      "pituusaste": 25.062658,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 298,
+      "nimi": "Lauttis",
+      "leveysaste": 60.159903,
+      "pituusaste": 24.880786,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 299,
+      "nimi": "Lauttis",
+      "leveysaste": 60.159908,
+      "pituusaste": 24.880794,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 300,
+      "nimi": "Liikekeskus Fresko",
+      "leveysaste": 60.277564,
+      "pituusaste": 24.818595,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 301,
+      "nimi": "Liikekeskus Fresko",
+      "leveysaste": 60.277564,
+      "pituusaste": 24.818681,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 302,
+      "nimi": "Liikekeskus Pyhäntä",
+      "leveysaste": 64.096735,
+      "pituusaste": 26.335714,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 303,
+      "nimi": "Liikekeskus Pyhäntä",
+      "leveysaste": 64.09678,
+      "pituusaste": 26.335798,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 304,
+      "nimi": "Liikekeskus Setri",
+      "leveysaste": 61.681087,
+      "pituusaste": 27.270679,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 305,
+      "nimi": "Liikekeskus Setri",
+      "leveysaste": 61.681097,
+      "pituusaste": 27.270719,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 306,
+      "nimi": "Liikeportti",
+      "leveysaste": 60.11753,
+      "pituusaste": 24.442603,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 307,
+      "nimi": "Liikeportti",
+      "leveysaste": 60.117536,
+      "pituusaste": 24.442609,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 308,
+      "nimi": "Linjuri",
+      "leveysaste": 60.387144,
+      "pituusaste": 23.121876,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 309,
+      "nimi": "Linjuri",
+      "leveysaste": 60.387157,
+      "pituusaste": 23.121898,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 310,
+      "nimi": "Lippulaiva",
+      "leveysaste": 60.149488,
+      "pituusaste": 24.654863,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 311,
+      "nimi": "Lippulaiva",
+      "leveysaste": 60.149527,
+      "pituusaste": 24.654795,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 312,
+      "nimi": "Louhelan Ostoskeskus",
+      "leveysaste": 60.270974,
+      "pituusaste": 24.856133,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 313,
+      "nimi": "Louhelan Ostoskeskus",
+      "leveysaste": 60.270985,
+      "pituusaste": 24.856113,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 314,
+      "nimi": "Lundi",
+      "leveysaste": 60.393746,
+      "pituusaste": 25.663598,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 315,
+      "nimi": "Lundi",
+      "leveysaste": 60.393787,
+      "pituusaste": 25.663561,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 316,
+      "nimi": "Lähde",
+      "leveysaste": 60.527742,
+      "pituusaste": 24.748056,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 317,
+      "nimi": "Lähdekeskus",
+      "leveysaste": 60.239757,
+      "pituusaste": 24.740068,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 318,
+      "nimi": "Lähdekeskus",
+      "leveysaste": 60.239764,
+      "pituusaste": 24.740134,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 319,
+      "nimi": "Lähderannan Ostoskeskus",
+      "leveysaste": 60.240865,
+      "pituusaste": 24.740709,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 320,
+      "nimi": "Lähderannan Ostoskeskus",
+      "leveysaste": 60.240876,
+      "pituusaste": 24.74074,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 321,
+      "nimi": "Lähipalvelukeskus Hertsi",
+      "leveysaste": 60.194727,
+      "pituusaste": 25.033975,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 322,
+      "nimi": "Lähipalvelukeskus Hertsi",
+      "leveysaste": 60.19474,
+      "pituusaste": 25.033994,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 323,
+      "nimi": "Länsi 1",
+      "leveysaste": 60.473812,
+      "pituusaste": 22.223576,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 324,
+      "nimi": "Länsi 1",
+      "leveysaste": 60.473834,
+      "pituusaste": 22.223577,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 325,
+      "nimi": "Länsiportti",
+      "leveysaste": 60.473632,
+      "pituusaste": 22.23002,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 326,
+      "nimi": "Länsiportti",
+      "leveysaste": 60.473686,
+      "pituusaste": 22.230107,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 327,
+      "nimi": "Länsiviitta",
+      "leveysaste": 60.162914,
+      "pituusaste": 24.775818,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 328,
+      "nimi": "Länsiviitta",
+      "leveysaste": 60.162915,
+      "pituusaste": 24.77579,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 329,
+      "nimi": "Manhattan",
+      "leveysaste": 60.457465,
+      "pituusaste": 22.234001,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 330,
+      "nimi": "Manhattan",
+      "leveysaste": 60.457469,
+      "pituusaste": 22.234007,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 331,
+      "nimi": "Martinlaakson Ostari",
+      "leveysaste": 60.278449,
+      "pituusaste": 24.853886,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 332,
+      "nimi": "Martinlaakson Ostari",
+      "leveysaste": 60.278454,
+      "pituusaste": 24.853856,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 333,
+      "nimi": "Maxinge",
+      "leveysaste": 60.130332,
+      "pituusaste": 19.933428,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 334,
+      "nimi": "Maxinge",
+      "leveysaste": 60.130345,
+      "pituusaste": 19.933443,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 335,
+      "nimi": "Metropol",
+      "leveysaste": 62.603145,
+      "pituusaste": 29.764067,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 336,
+      "nimi": "Metropol",
+      "leveysaste": 62.6032,
+      "pituusaste": 29.76412,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 337,
+      "nimi": "Metsätalo",
+      "leveysaste": 60.462045,
+      "pituusaste": 22.329633,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 338,
+      "nimi": "Metsätalo",
+      "leveysaste": 60.462054,
+      "pituusaste": 22.329786,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 339,
+      "nimi": "Minimani",
+      "leveysaste": 62.254126,
+      "pituusaste": 25.764116,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 340,
+      "nimi": "Minimani",
+      "leveysaste": 62.25416,
+      "pituusaste": 25.763941,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 341,
+      "nimi": "MotorCenter Espoonlahti",
+      "leveysaste": 60.154262,
+      "pituusaste": 24.668411,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 342,
+      "nimi": "MotorCenter Espoonlahti",
+      "leveysaste": 60.154298,
+      "pituusaste": 24.668406,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 343,
+      "nimi": "Munkkivuoren ostoskeskus",
+      "leveysaste": 60.205863,
+      "pituusaste": 24.878188,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 344,
+      "nimi": "Munkkivuoren ostoskeskus",
+      "leveysaste": 60.205872,
+      "pituusaste": 24.87809,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 345,
+      "nimi": "Muuramen kauppakeskus",
+      "leveysaste": 62.137141,
+      "pituusaste": 25.673257,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 346,
+      "nimi": "Muuramen kauppakeskus",
+      "leveysaste": 62.137155,
+      "pituusaste": 25.673225,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 347,
+      "nimi": "Myllypuron ostoskeskus",
+      "leveysaste": 60.224209,
+      "pituusaste": 25.073558,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 348,
+      "nimi": "Mylläri",
+      "leveysaste": 62.61328,
+      "pituusaste": 29.543259,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 349,
+      "nimi": "Myyrmanni",
+      "leveysaste": 60.260198,
+      "pituusaste": 24.853402,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 350,
+      "nimi": "Myyrmanni",
+      "leveysaste": 60.260214,
+      "pituusaste": 24.853382,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 351,
+      "nimi": "Noljakan ostoskeskus",
+      "leveysaste": 62.625087,
+      "pituusaste": 29.694458,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 352,
+      "nimi": "OP-Center",
+      "leveysaste": 61.314536,
+      "pituusaste": 23.753025,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 353,
+      "nimi": "OP-Center",
+      "leveysaste": 61.314553,
+      "pituusaste": 23.753035,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 354,
+      "nimi": "Ogelin liikekeskus",
+      "leveysaste": 60.228415,
+      "pituusaste": 24.963451,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 355,
+      "nimi": "Ogelin liikekeskus",
+      "leveysaste": 60.22842,
+      "pituusaste": 24.96344,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 356,
+      "nimi": "Olarin ostoskeskus",
+      "leveysaste": 60.17349,
+      "pituusaste": 24.725406,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 357,
+      "nimi": "Onnentien kaupat",
+      "leveysaste": 62.601351,
+      "pituusaste": 23.728615,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 358,
+      "nimi": "Opri",
+      "leveysaste": 61.058487,
+      "pituusaste": 28.184545,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 359,
+      "nimi": "Ostokeskus",
+      "leveysaste": 62.705977,
+      "pituusaste": 25.259678,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 360,
+      "nimi": "Ostokeskus",
+      "leveysaste": 62.706008,
+      "pituusaste": 25.259626,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 361,
+      "nimi": "Paletti",
+      "leveysaste": 63.042349,
+      "pituusaste": 24.558909,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 362,
+      "nimi": "Palokan kauppakeskus",
+      "leveysaste": 62.287289,
+      "pituusaste": 25.712975,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 363,
+      "nimi": "Palokan kauppakeskus",
+      "leveysaste": 62.287331,
+      "pituusaste": 25.713106,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 364,
+      "nimi": "Plaza",
+      "leveysaste": 60.386315,
+      "pituusaste": 23.123703,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 365,
+      "nimi": "Plaza Centrum",
+      "leveysaste": 62.603213,
+      "pituusaste": 29.762403,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 366,
+      "nimi": "Pohjoinen ostoskeskus",
+      "leveysaste": 60.221404,
+      "pituusaste": 25.138974,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 367,
+      "nimi": "Pohjoinen ostoskeskus",
+      "leveysaste": 60.221443,
+      "pituusaste": 25.138982,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 368,
+      "nimi": "Porttipuiston liikekeskus",
+      "leveysaste": 60.279973,
+      "pituusaste": 25.089493,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 369,
+      "nimi": "Prisma",
+      "leveysaste": 61.189213,
+      "pituusaste": 28.765684,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 370,
+      "nimi": "Prisma",
+      "leveysaste": 61.189255,
+      "pituusaste": 28.765755,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 371,
+      "nimi": "Prisma",
+      "leveysaste": 62.288301,
+      "pituusaste": 25.717163,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 372,
+      "nimi": "Prisma",
+      "leveysaste": 62.28832,
+      "pituusaste": 25.71721,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 373,
+      "nimi": "Prisma Jyväskylä Keljo",
+      "leveysaste": 62.217543,
+      "pituusaste": 25.721915,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 374,
+      "nimi": "Prisma Jyväskylä Keljo",
+      "leveysaste": 62.217545,
+      "pituusaste": 25.721833,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 375,
+      "nimi": "Prisma Kouvola",
+      "leveysaste": 60.872,
+      "pituusaste": 26.655984,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 376,
+      "nimi": "Prisma-keskus Kerava",
+      "leveysaste": 60.401816,
+      "pituusaste": 25.103358,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 377,
+      "nimi": "Prisma-keskus Kerava",
+      "leveysaste": 60.401818,
+      "pituusaste": 25.103338,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 378,
+      "nimi": "Prismakeskus",
+      "leveysaste": 60.856826,
+      "pituusaste": 23.045775,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 379,
+      "nimi": "Prismakeskus",
+      "leveysaste": 60.856844,
+      "pituusaste": 23.045803,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 380,
+      "nimi": "Puhos",
+      "leveysaste": 60.213684,
+      "pituusaste": 25.081704,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 381,
+      "nimi": "Rajalla På Gränsen",
+      "leveysaste": 65.842975,
+      "pituusaste": 24.143983,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 382,
+      "nimi": "Rajalla På Gränsen",
+      "leveysaste": 65.843003,
+      "pituusaste": 24.143826,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 383,
+      "nimi": "Rajamarket Vaalimaa Shopping Center",
+      "leveysaste": 60.600247,
+      "pituusaste": 27.835519,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 384,
+      "nimi": "Rantakylän ostoskeskus",
+      "leveysaste": 62.614847,
+      "pituusaste": 29.814974,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 385,
+      "nimi": "Redi",
+      "leveysaste": 60.186814,
+      "pituusaste": 24.978953,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 386,
+      "nimi": "Redi",
+      "leveysaste": 60.186863,
+      "pituusaste": 24.979025,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 387,
+      "nimi": "Rewell Center",
+      "leveysaste": 63.0955,
+      "pituusaste": 21.613994,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 388,
+      "nimi": "Road House",
+      "leveysaste": 63.230172,
+      "pituusaste": 22.844024,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 389,
+      "nimi": "Road House",
+      "leveysaste": 63.230278,
+      "pituusaste": 22.84402,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 390,
+      "nimi": "Roihuvuoren ostoskeskus",
+      "leveysaste": 60.202182,
+      "pituusaste": 25.059076,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 391,
+      "nimi": "Sahankulman kauppakeskus",
+      "leveysaste": 60.388335,
+      "pituusaste": 25.023715,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 392,
+      "nimi": "Salo Retail Park",
+      "leveysaste": 60.39361,
+      "pituusaste": 23.090212,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 393,
+      "nimi": "Salo Retail Park",
+      "leveysaste": 60.393648,
+      "pituusaste": 23.090097,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 394,
+      "nimi": "Sammonlahden ostoskeskus",
+      "leveysaste": 61.051556,
+      "pituusaste": 28.104341,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 395,
+      "nimi": "Sammontori",
+      "leveysaste": 61.05046,
+      "pituusaste": 28.109775,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 396,
+      "nimi": "Sampokeskus",
+      "leveysaste": 66.502181,
+      "pituusaste": 25.729418,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 397,
+      "nimi": "Savarikeskus",
+      "leveysaste": 64.063117,
+      "pituusaste": 24.555125,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 398,
+      "nimi": "Savion ostari",
+      "leveysaste": 60.380264,
+      "pituusaste": 25.095653,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 399,
+      "nimi": "Savion ostari",
+      "leveysaste": 60.380318,
+      "pituusaste": 25.095669,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 400,
+      "nimi": "Sello",
+      "leveysaste": 60.217938,
+      "pituusaste": 24.812572,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 401,
+      "nimi": "Sello",
+      "leveysaste": 60.21795,
+      "pituusaste": 24.812617,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 402,
+      "nimi": "Sellon Vapaa-ajankeskus",
+      "leveysaste": 60.218169,
+      "pituusaste": 24.808445,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 403,
+      "nimi": "Sellon Vapaa-ajankeskus",
+      "leveysaste": 60.218185,
+      "pituusaste": 24.808489,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 404,
+      "nimi": "Sittkoff",
+      "leveysaste": 60.099006,
+      "pituusaste": 19.942989,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 405,
+      "nimi": "Sittkoff",
+      "leveysaste": 60.09901,
+      "pituusaste": 19.942991,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 406,
+      "nimi": "Skanssi",
+      "leveysaste": 60.429843,
+      "pituusaste": 22.32176,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 407,
+      "nimi": "Soukan ostoskeskus",
+      "leveysaste": 60.141972,
+      "pituusaste": 24.669965,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 408,
+      "nimi": "Soukan ostoskeskus",
+      "leveysaste": 60.141987,
+      "pituusaste": 24.669924,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 409,
+      "nimi": "Stopmanni",
+      "leveysaste": 62.976942,
+      "pituusaste": 22.010503,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 410,
+      "nimi": "Stopmanni",
+      "leveysaste": 62.976953,
+      "pituusaste": 22.010615,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 411,
+      "nimi": "Strand",
+      "leveysaste": 60.043452,
+      "pituusaste": 24.006631,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 412,
+      "nimi": "Strand",
+      "leveysaste": 60.043476,
+      "pituusaste": 24.006565,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 413,
+      "nimi": "Suikkilan ostoskeskus",
+      "leveysaste": 60.46687,
+      "pituusaste": 22.224318,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 414,
+      "nimi": "Suikkilan ostoskeskus",
+      "leveysaste": 60.466893,
+      "pituusaste": 22.224378,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 415,
+      "nimi": "Suuris",
+      "leveysaste": 60.186335,
+      "pituusaste": 24.746789,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 416,
+      "nimi": "Suuris",
+      "leveysaste": 60.186345,
+      "pituusaste": 24.746705,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 417,
+      "nimi": "Suvelan Ostari",
+      "leveysaste": 60.200543,
+      "pituusaste": 24.670207,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 418,
+      "nimi": "Taidetehdas",
+      "leveysaste": 60.38861,
+      "pituusaste": 25.656755,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 419,
+      "nimi": "Taidetehdas",
+      "leveysaste": 60.388644,
+      "pituusaste": 25.656837,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 420,
+      "nimi": "Tammiston Tähti",
+      "leveysaste": 60.283366,
+      "pituusaste": 24.972894,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 421,
+      "nimi": "Tammiston Tähti",
+      "leveysaste": 60.283367,
+      "pituusaste": 24.972834,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 422,
+      "nimi": "Telegrafen",
+      "leveysaste": 60.099658,
+      "pituusaste": 19.941324,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 423,
+      "nimi": "Telegrafen",
+      "leveysaste": 60.099673,
+      "pituusaste": 19.941262,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 424,
+      "nimi": "Teljäntori",
+      "leveysaste": 61.484581,
+      "pituusaste": 21.795741,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 425,
+      "nimi": "Torggallerian",
+      "leveysaste": 60.098307,
+      "pituusaste": 19.941968,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 426,
+      "nimi": "Torikeskus",
+      "leveysaste": 60.458341,
+      "pituusaste": 22.68831,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 427,
+      "nimi": "Torikeskus",
+      "leveysaste": 60.458354,
+      "pituusaste": 22.688354,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 428,
+      "nimi": "Torikeskus",
+      "leveysaste": 61.340261,
+      "pituusaste": 22.909056,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 429,
+      "nimi": "Torikeskus",
+      "leveysaste": 62.244112,
+      "pituusaste": 25.747096,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 430,
+      "nimi": "Torikeskus",
+      "leveysaste": 62.244115,
+      "pituusaste": 25.747101,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 431,
+      "nimi": "Torikeskus",
+      "leveysaste": 62.788374,
+      "pituusaste": 22.838754,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 432,
+      "nimi": "Torikeskus",
+      "leveysaste": 62.788385,
+      "pituusaste": 22.838768,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 433,
+      "nimi": "Torikulma",
+      "leveysaste": 60.851874,
+      "pituusaste": 23.05665,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 434,
+      "nimi": "Torikulma",
+      "leveysaste": 60.851878,
+      "pituusaste": 23.056613,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 435,
+      "nimi": "Torikulma",
+      "leveysaste": 62.243547,
+      "pituusaste": 25.746078,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 436,
+      "nimi": "Torikulma",
+      "leveysaste": 62.243556,
+      "pituusaste": 25.746094,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 437,
+      "nimi": "Tornion Portti",
+      "leveysaste": 65.843292,
+      "pituusaste": 24.194779,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 438,
+      "nimi": "Tornion Portti",
+      "leveysaste": 65.843375,
+      "pituusaste": 24.19489,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 439,
+      "nimi": "Tourukeskus",
+      "leveysaste": 62.25197,
+      "pituusaste": 25.769389,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 440,
+      "nimi": "Tourukeskus",
+      "leveysaste": 62.25198,
+      "pituusaste": 25.769421,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 441,
+      "nimi": "Trio",
+      "leveysaste": 60.982772,
+      "pituusaste": 25.663238,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 442,
+      "nimi": "Trio",
+      "leveysaste": 60.982775,
+      "pituusaste": 25.663158,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 443,
+      "nimi": "Trio",
+      "leveysaste": 60.983416,
+      "pituusaste": 25.663852,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 444,
+      "nimi": "Trio",
+      "leveysaste": 60.983418,
+      "pituusaste": 25.66385,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 445,
+      "nimi": "Tullintori",
+      "leveysaste": 61.497038,
+      "pituusaste": 23.777166,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 446,
+      "nimi": "Turtolan Kauppakeskus",
+      "leveysaste": 61.475558,
+      "pituusaste": 23.839827,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 447,
+      "nimi": "Turtolan Kauppakeskus",
+      "leveysaste": 61.475583,
+      "pituusaste": 23.839998,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 448,
+      "nimi": "Turtolan Kauppakeskus",
+      "leveysaste": 61.476085,
+      "pituusaste": 23.837111,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 449,
+      "nimi": "Turtolan Kauppakeskus",
+      "leveysaste": 61.476131,
+      "pituusaste": 23.83705,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 450,
+      "nimi": "Vantaanpuiston ostoskeskus",
+      "leveysaste": 60.301206,
+      "pituusaste": 24.856384,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 451,
+      "nimi": "Vantaanpuiston ostoskeskus",
+      "leveysaste": 60.301224,
+      "pituusaste": 24.856414,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 452,
+      "nimi": "Varissuon liikekeskus",
+      "leveysaste": 60.442857,
+      "pituusaste": 22.359326,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 453,
+      "nimi": "Varissuon liikekeskus",
+      "leveysaste": 60.442863,
+      "pituusaste": 22.359319,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 454,
+      "nimi": "Veljekset Keskinen",
+      "leveysaste": 62.602882,
+      "pituusaste": 23.723991,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 455,
+      "nimi": "Veljekset Keskinen",
+      "leveysaste": 62.602882,
+      "pituusaste": 23.723994,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 456,
+      "nimi": "Vesikoskitalo",
+      "leveysaste": 60.85825,
+      "pituusaste": 23.025977,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 457,
+      "nimi": "Vesikoskitalo",
+      "leveysaste": 60.858279,
+      "pituusaste": 23.025943,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 458,
+      "nimi": "Veska",
+      "leveysaste": 61.467639,
+      "pituusaste": 23.719878,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 459,
+      "nimi": "Veska",
+      "leveysaste": 61.467656,
+      "pituusaste": 23.719871,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 460,
+      "nimi": "Viherlaakson ostoskeskus",
+      "leveysaste": 60.226928,
+      "pituusaste": 24.741779,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 461,
+      "nimi": "Viihdekeskus Minna",
+      "leveysaste": 62.890598,
+      "pituusaste": 27.675517,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 462,
+      "nimi": "Vuokatin liikekeskus",
+      "leveysaste": 64.140137,
+      "pituusaste": 28.267649,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 463,
+      "nimi": "Vuokatin liikekeskus",
+      "leveysaste": 64.140177,
+      "pituusaste": 28.267643,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 464,
+      "nimi": "Väinönkeskus",
+      "leveysaste": 62.243981,
+      "pituusaste": 25.749362,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 465,
+      "nimi": "Westeri",
+      "leveysaste": 61.50534,
+      "pituusaste": 23.628459,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 466,
+      "nimi": "Wiitakeskus",
+      "leveysaste": 63.074371,
+      "pituusaste": 25.860344,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 467,
+      "nimi": "Ykkösrasti",
+      "leveysaste": 62.881423,
+      "pituusaste": 27.666571,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 468,
+      "nimi": "ZEIPELS",
+      "leveysaste": 60.099803,
+      "pituusaste": 19.942211,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 469,
+      "nimi": "Äyhön liikekeskus / ABC",
+      "leveysaste": 61.131743,
+      "pituusaste": 21.537856,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    },
+    {
+      "id": 470,
+      "nimi": "Äyhön liikekeskus / ABC",
+      "leveysaste": 61.131804,
+      "pituusaste": 21.537799,
+      "osm_avain": "shop",
+      "osm_arvo": "mall",
+      "osm_luokka": "shop=mall"
+    }
+  ],
+  "meta": {
+    "title": "Kauppakeskukset – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Kauppakeskukset Suomessa — 470 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=mall`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 53. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 470 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Kauppakeskukset – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Kauppakeskukset – Suomi (OpenStreetMap) — 470 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 470 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,6361 @@
+{
+  "id": "fi-osm-amenity-clinic",
+  "name": "Lääkäriasemat – Suomi (OpenStreetMap)",
+  "title": "Lääkäriasemat – Suomi (OpenStreetMap)",
+  "description": "Lääkäriasemat Suomessa — 700 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=clinic`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 45. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 700,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A-klinikka Kouvola",
+      "leveysaste": 60.868254,
+      "pituusaste": 26.706248,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 2,
+      "nimi": "Aava Helsinki Itäkeskus",
+      "leveysaste": 60.210114,
+      "pituusaste": 25.079862,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 3,
+      "nimi": "Aava Helsinki Kamppi",
+      "leveysaste": 60.168358,
+      "pituusaste": 24.934603,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 4,
+      "nimi": "Aava Helsinki Pasila",
+      "leveysaste": 60.196349,
+      "pituusaste": 24.928533,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 5,
+      "nimi": "Aava Hyvinkää",
+      "leveysaste": 60.632977,
+      "pituusaste": 24.862707,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 6,
+      "nimi": "Aava Kerava",
+      "leveysaste": 60.403765,
+      "pituusaste": 25.098946,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 7,
+      "nimi": "Aava Oulu",
+      "leveysaste": 65.010927,
+      "pituusaste": 25.480302,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 8,
+      "nimi": "Aava Oulu Rusko",
+      "leveysaste": 65.051251,
+      "pituusaste": 25.584688,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 9,
+      "nimi": "Aava Tuusula",
+      "leveysaste": 60.400624,
+      "pituusaste": 25.02288,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 10,
+      "nimi": "Aino klinikka",
+      "leveysaste": 60.172699,
+      "pituusaste": 24.920052,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 11,
+      "nimi": "Akupunktio",
+      "leveysaste": 60.168299,
+      "pituusaste": 24.925203,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 12,
+      "nimi": "Alahärmän hyvinvointiasema näytteenotto ja kotihoito",
+      "leveysaste": 63.242475,
+      "pituusaste": 22.852988,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 13,
+      "nimi": "Alavieskan terveyskeskus",
+      "leveysaste": 64.164344,
+      "pituusaste": 24.308428,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 14,
+      "nimi": "Aronkylän neuvola",
+      "leveysaste": 62.454302,
+      "pituusaste": 22.223383,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 15,
+      "nimi": "Asikkalan sote-keskus",
+      "leveysaste": 61.172193,
+      "pituusaste": 25.542237,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 16,
+      "nimi": "Asikkalan sote-keskus",
+      "leveysaste": 61.172197,
+      "pituusaste": 25.542308,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 17,
+      "nimi": "Askolan sosiaali- ja terveysasema",
+      "leveysaste": 60.525226,
+      "pituusaste": 25.600888,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 18,
+      "nimi": "Askolan sosiaali- ja terveysasema",
+      "leveysaste": 60.525327,
+      "pituusaste": 25.60116,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 19,
+      "nimi": "Auran terveysasema",
+      "leveysaste": 60.650063,
+      "pituusaste": 22.584963,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 20,
+      "nimi": "Auran terveysasema",
+      "leveysaste": 60.650073,
+      "pituusaste": 22.584964,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 21,
+      "nimi": "Botnia Företagshälsovård",
+      "leveysaste": 63.673997,
+      "pituusaste": 22.707611,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 22,
+      "nimi": "Cityläkarna",
+      "leveysaste": 60.098164,
+      "pituusaste": 19.936685,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 23,
+      "nimi": "Coronaria kuntoutus- ja terapiapalvelut",
+      "leveysaste": 65.01051,
+      "pituusaste": 25.515868,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 24,
+      "nimi": "Coronaria kuntoutus- ja terapiapalvelut",
+      "leveysaste": 65.01052,
+      "pituusaste": 25.51587,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 25,
+      "nimi": "Debora",
+      "leveysaste": 60.153814,
+      "pituusaste": 24.643099,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 26,
+      "nimi": "Dextra",
+      "leveysaste": 60.164217,
+      "pituusaste": 24.940835,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 27,
+      "nimi": "Diabetesvastaanotto",
+      "leveysaste": 60.451776,
+      "pituusaste": 22.259163,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 28,
+      "nimi": "Ekenäs hälsostation",
+      "leveysaste": 59.969018,
+      "pituusaste": 23.441278,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 29,
+      "nimi": "Elielinaukion röntgen",
+      "leveysaste": 60.171546,
+      "pituusaste": 24.93841,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 30,
+      "nimi": "Enon terveysasema",
+      "leveysaste": 62.799407,
+      "pituusaste": 30.154347,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 31,
+      "nimi": "Enonkosken terveysasema",
+      "leveysaste": 62.089009,
+      "pituusaste": 28.919967,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 32,
+      "nimi": "Enonkosken terveysasema",
+      "leveysaste": 62.089019,
+      "pituusaste": 28.919978,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 33,
+      "nimi": "Ensiapu",
+      "leveysaste": 60.990441,
+      "pituusaste": 24.414762,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 34,
+      "nimi": "Ensiapu",
+      "leveysaste": 60.990449,
+      "pituusaste": 24.414692,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 35,
+      "nimi": "Eräjärven terveysasema",
+      "leveysaste": 61.580003,
+      "pituusaste": 24.557145,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 36,
+      "nimi": "Espoon keskuksen Perhekeskus",
+      "leveysaste": 60.204066,
+      "pituusaste": 24.652922,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 37,
+      "nimi": "Espoon keskuksen Perhekeskus",
+      "leveysaste": 60.204068,
+      "pituusaste": 24.652922,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 38,
+      "nimi": "Espoon keskuksen perheneuvola ja -sosiaalityö",
+      "leveysaste": 60.204121,
+      "pituusaste": 24.653126,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 39,
+      "nimi": "Espoon keskuksen äititys- ja lastenneuvola",
+      "leveysaste": 60.204141,
+      "pituusaste": 24.653239,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 40,
+      "nimi": "Esse välfärdsstation",
+      "leveysaste": 63.623675,
+      "pituusaste": 22.985947,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 41,
+      "nimi": "Eurajoen sotepiste",
+      "leveysaste": 61.198292,
+      "pituusaste": 21.73156,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 42,
+      "nimi": "Euran terveyskeskus",
+      "leveysaste": 61.127715,
+      "pituusaste": 22.142981,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 43,
+      "nimi": "Euran terveyskeskus",
+      "leveysaste": 61.12772,
+      "pituusaste": 22.143058,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 44,
+      "nimi": "Femeda lääkäriasema",
+      "leveysaste": 60.167425,
+      "pituusaste": 24.93797,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 45,
+      "nimi": "Finla",
+      "leveysaste": 60.451241,
+      "pituusaste": 22.257961,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 46,
+      "nimi": "Finla",
+      "leveysaste": 61.447565,
+      "pituusaste": 23.860892,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 47,
+      "nimi": "Finla Työterveys",
+      "leveysaste": 61.360841,
+      "pituusaste": 23.796965,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 48,
+      "nimi": "Finla työterveys",
+      "leveysaste": 61.478433,
+      "pituusaste": 23.508061,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 49,
+      "nimi": "Foniatrian poliklinikka",
+      "leveysaste": 61.506585,
+      "pituusaste": 23.815229,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 50,
+      "nimi": "Geriatrian poliklinikka",
+      "leveysaste": 61.481977,
+      "pituusaste": 23.752624,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 51,
+      "nimi": "Gynekologian poliklinikka",
+      "leveysaste": 61.484279,
+      "pituusaste": 23.754345,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 52,
+      "nimi": "Haagan terveysasema",
+      "leveysaste": 60.222281,
+      "pituusaste": 24.903979,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 53,
+      "nimi": "Haagan terveysasema",
+      "leveysaste": 60.222325,
+      "pituusaste": 24.904075,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 54,
+      "nimi": "Haapajärven sosiaali- ja terveysasema",
+      "leveysaste": 63.759371,
+      "pituusaste": 25.314116,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 55,
+      "nimi": "Hailuodon terveyskeskus",
+      "leveysaste": 65.016424,
+      "pituusaste": 24.738153,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 56,
+      "nimi": "Hakunilan terveysasema",
+      "leveysaste": 60.27844,
+      "pituusaste": 25.105304,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 57,
+      "nimi": "Halikon terveysasema",
+      "leveysaste": 60.397775,
+      "pituusaste": 23.075181,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 58,
+      "nimi": "Halsuan terveyskeskus",
+      "leveysaste": 63.46283,
+      "pituusaste": 24.175665,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 59,
+      "nimi": "Halsuan terveyskeskus",
+      "leveysaste": 63.46284,
+      "pituusaste": 24.175658,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 60,
+      "nimi": "Hammas Mehiläinen Hämeentie",
+      "leveysaste": 60.1819,
+      "pituusaste": 24.954959,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 61,
+      "nimi": "Hankasalmen terveysasema",
+      "leveysaste": 62.394559,
+      "pituusaste": 26.432359,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 62,
+      "nimi": "Hankasalmen terveysasema",
+      "leveysaste": 62.394564,
+      "pituusaste": 26.432448,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 63,
+      "nimi": "Hannulan neuvola",
+      "leveysaste": 65.841228,
+      "pituusaste": 24.171373,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 64,
+      "nimi": "Hannulan neuvola",
+      "leveysaste": 65.841324,
+      "pituusaste": 24.171431,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 65,
+      "nimi": "Hatanpään sosiaali- ja terveysasema",
+      "leveysaste": 61.48404,
+      "pituusaste": 23.755083,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 66,
+      "nimi": "Hauhon terveysasema",
+      "leveysaste": 61.172797,
+      "pituusaste": 24.566073,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 67,
+      "nimi": "Haukivuoren hyvinvointiasema",
+      "leveysaste": 62.018447,
+      "pituusaste": 27.212777,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 68,
+      "nimi": "Haukivuoren hyvinvointiasema",
+      "leveysaste": 62.018447,
+      "pituusaste": 27.212802,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 69,
+      "nimi": "Heela Terveys Oy",
+      "leveysaste": 60.239342,
+      "pituusaste": 24.875242,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 70,
+      "nimi": "Heinolan sote-keskus",
+      "leveysaste": 61.20592,
+      "pituusaste": 26.034184,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 71,
+      "nimi": "Heinolan sote-keskus",
+      "leveysaste": 61.205997,
+      "pituusaste": 26.034248,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 72,
+      "nimi": "Helsingin Fysioterapiaklinikka",
+      "leveysaste": 60.168851,
+      "pituusaste": 24.927969,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 73,
+      "nimi": "Helsingin kaupungin jalkavastaanotto ja jalkaterapia",
+      "leveysaste": 60.160425,
+      "pituusaste": 24.941052,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 74,
+      "nimi": "Helsingin urheilulääkäriasema",
+      "leveysaste": 60.184784,
+      "pituusaste": 24.939726,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 75,
+      "nimi": "Helsinki Clinic",
+      "leveysaste": 60.168151,
+      "pituusaste": 24.975543,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 76,
+      "nimi": "Hetan terveysasema",
+      "leveysaste": 68.383961,
+      "pituusaste": 23.638387,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 77,
+      "nimi": "Hetan terveysasema",
+      "leveysaste": 68.383967,
+      "pituusaste": 23.63832,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 78,
+      "nimi": "Hirvensalmen terveysasema",
+      "leveysaste": 61.641898,
+      "pituusaste": 26.793167,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 79,
+      "nimi": "Huittisten sote-keskus",
+      "leveysaste": 61.178292,
+      "pituusaste": 22.714973,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 80,
+      "nimi": "Hyvinkään sairaalan päivystys",
+      "leveysaste": 60.610152,
+      "pituusaste": 24.82857,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 81,
+      "nimi": "Hyvinvointikioski",
+      "leveysaste": 61.313598,
+      "pituusaste": 23.755604,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 82,
+      "nimi": "Hälsostation",
+      "leveysaste": 62.272903,
+      "pituusaste": 21.403274,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 83,
+      "nimi": "Hämeenkyrön sosiaali- ja terveysasema",
+      "leveysaste": 61.637173,
+      "pituusaste": 23.192931,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 84,
+      "nimi": "Hämeenkyrön sosiaali- ja terveysasema",
+      "leveysaste": 61.637348,
+      "pituusaste": 23.193209,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 85,
+      "nimi": "Härmämedi Oy",
+      "leveysaste": 63.140952,
+      "pituusaste": 22.825949,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 86,
+      "nimi": "Ihotautien poliklinikka",
+      "leveysaste": 61.505522,
+      "pituusaste": 23.815834,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 87,
+      "nimi": "Ikäkeskus",
+      "leveysaste": 62.790589,
+      "pituusaste": 22.84485,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 88,
+      "nimi": "Ilmajoen perhekeskus",
+      "leveysaste": 62.736923,
+      "pituusaste": 22.569984,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 89,
+      "nimi": "Ilomantsin terveysasema",
+      "leveysaste": 62.675286,
+      "pituusaste": 30.911941,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 90,
+      "nimi": "Infektiopoliklinikka",
+      "leveysaste": 61.505793,
+      "pituusaste": 23.815514,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 91,
+      "nimi": "Ingå hälsocentral",
+      "leveysaste": 60.044165,
+      "pituusaste": 24.0058,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 92,
+      "nimi": "Ingå hälsocentral",
+      "leveysaste": 60.044197,
+      "pituusaste": 24.00589,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 93,
+      "nimi": "Ison Omenan terveysasema",
+      "leveysaste": 60.160025,
+      "pituusaste": 24.738229,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 94,
+      "nimi": "Isonkyrön sosiaali- ja terveysasema",
+      "leveysaste": 62.986167,
+      "pituusaste": 22.32056,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 95,
+      "nimi": "Itä-Porin lähipalvelukeskus",
+      "leveysaste": 61.476111,
+      "pituusaste": 21.819409,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 96,
+      "nimi": "Ivalon terveyskeskus",
+      "leveysaste": 68.656779,
+      "pituusaste": 27.524606,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 97,
+      "nimi": "Jaalan terveysasema",
+      "leveysaste": 61.05069,
+      "pituusaste": 26.482688,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 98,
+      "nimi": "Jakomäen terveysasema",
+      "leveysaste": 60.260176,
+      "pituusaste": 25.075302,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 99,
+      "nimi": "Jakomäen terveysasema",
+      "leveysaste": 60.260177,
+      "pituusaste": 25.075327,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 100,
+      "nimi": "Jalkahoito Askelfix",
+      "leveysaste": 60.948465,
+      "pituusaste": 25.931993,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 101,
+      "nimi": "Jokelan terveysasema",
+      "leveysaste": 60.551449,
+      "pituusaste": 24.96424,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 102,
+      "nimi": "Jokelan terveyskeskus",
+      "leveysaste": 60.551449,
+      "pituusaste": 24.964242,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 103,
+      "nimi": "Jokioisten Terveyskeskus",
+      "leveysaste": 60.804571,
+      "pituusaste": 23.488506,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 104,
+      "nimi": "Jokioisten Terveyskeskus",
+      "leveysaste": 60.804588,
+      "pituusaste": 23.488522,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 105,
+      "nimi": "Jouren Malmska",
+      "leveysaste": 63.680713,
+      "pituusaste": 22.723329,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 106,
+      "nimi": "Juupajoen terveysasema",
+      "leveysaste": 61.797045,
+      "pituusaste": 24.368718,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 107,
+      "nimi": "Järvenpään uusi sosiaali- ja terveysasema JUST",
+      "leveysaste": 60.47736,
+      "pituusaste": 25.099829,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 108,
+      "nimi": "Järvenpään uusi sosiaali- ja terveysasema JUST",
+      "leveysaste": 60.477408,
+      "pituusaste": 25.099809,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 109,
+      "nimi": "Järvi-Pohjanmaan sote-keskus, Lappajärven toimipiste",
+      "leveysaste": 63.213588,
+      "pituusaste": 23.639046,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 110,
+      "nimi": "Järvi-Pohjanmaan sote-keskus, Lappajärven toimipiste",
+      "leveysaste": 63.213612,
+      "pituusaste": 23.639013,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 111,
+      "nimi": "Järvi-Pohjanmaan sote-keskus, Vimpelin toimipiste",
+      "leveysaste": 63.161656,
+      "pituusaste": 23.819695,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 112,
+      "nimi": "KKT-keskus Arvo",
+      "leveysaste": 60.180744,
+      "pituusaste": 24.952815,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 113,
+      "nimi": "KMedi",
+      "leveysaste": 60.868159,
+      "pituusaste": 26.705602,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 114,
+      "nimi": "Kalajoen sosiaali- ja terveyskeskus",
+      "leveysaste": 64.26138,
+      "pituusaste": 23.940727,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 115,
+      "nimi": "Kalajoen sosiaali- ja terveyskeskus",
+      "leveysaste": 64.261411,
+      "pituusaste": 23.940821,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 116,
+      "nimi": "Kannelmäen terveysasema",
+      "leveysaste": 60.239339,
+      "pituusaste": 24.879162,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 117,
+      "nimi": "Kannuksen terveyskeskus",
+      "leveysaste": 63.896821,
+      "pituusaste": 23.920393,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 118,
+      "nimi": "Karhulan terveysasema",
+      "leveysaste": 60.515734,
+      "pituusaste": 26.939682,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 119,
+      "nimi": "Karijoen sosiaali- ja terveysasema",
+      "leveysaste": 62.306084,
+      "pituusaste": 21.707078,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 120,
+      "nimi": "Karijoen sosiaali- ja terveysasema",
+      "leveysaste": 62.306116,
+      "pituusaste": 21.707112,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 121,
+      "nimi": "Karis hälsostation",
+      "leveysaste": 60.073298,
+      "pituusaste": 23.657332,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 122,
+      "nimi": "Karstulan terveysasema",
+      "leveysaste": 62.879397,
+      "pituusaste": 24.806504,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 123,
+      "nimi": "Karstulan terveysasema",
+      "leveysaste": 62.879427,
+      "pituusaste": 24.806417,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 124,
+      "nimi": "Kartanonkosken neuvola",
+      "leveysaste": 60.287019,
+      "pituusaste": 24.961158,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 125,
+      "nimi": "Kartanonkosken neuvola",
+      "leveysaste": 60.287072,
+      "pituusaste": 24.961207,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 126,
+      "nimi": "Karttulan terveysasema",
+      "leveysaste": 62.90254,
+      "pituusaste": 26.958356,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 127,
+      "nimi": "Karvian terveysasema",
+      "leveysaste": 62.143565,
+      "pituusaste": 22.566943,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 128,
+      "nimi": "Karvian terveysasema",
+      "leveysaste": 62.14358,
+      "pituusaste": 22.566943,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 129,
+      "nimi": "Kaskisten terveyskeskus",
+      "leveysaste": 62.390802,
+      "pituusaste": 21.229282,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 130,
+      "nimi": "Kasvatus- ja perheneuvola, Jokilaakso",
+      "leveysaste": 62.965511,
+      "pituusaste": 23.004301,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 131,
+      "nimi": "Katajaharjun terveysasema",
+      "leveysaste": 60.878482,
+      "pituusaste": 26.660149,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 132,
+      "nimi": "Katajaharjun terveysasema",
+      "leveysaste": 60.878485,
+      "pituusaste": 26.660139,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 133,
+      "nimi": "Kauhajoen neuvola",
+      "leveysaste": 62.415241,
+      "pituusaste": 22.171668,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 134,
+      "nimi": "Kaukajärven terveysasema",
+      "leveysaste": 61.473041,
+      "pituusaste": 23.876861,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 135,
+      "nimi": "Kauniaisten terveysasema",
+      "leveysaste": 60.21455,
+      "pituusaste": 24.7161,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 136,
+      "nimi": "Kauniaisten terveysasema",
+      "leveysaste": 60.21455,
+      "pituusaste": 24.716132,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 137,
+      "nimi": "Kauvatsan terveysasema",
+      "leveysaste": 61.336682,
+      "pituusaste": 22.500427,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 138,
+      "nimi": "Kellokosken sosiaali- ja terveysasema",
+      "leveysaste": 60.531073,
+      "pituusaste": 25.096241,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 139,
+      "nimi": "Kempeleen terveyskeskus",
+      "leveysaste": 64.914552,
+      "pituusaste": 25.489254,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 140,
+      "nimi": "Keski-Suomen hyvinvointialueen henkilökohtaisen avun keskus\"",
+      "leveysaste": 62.22653,
+      "pituusaste": 25.743906,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 141,
+      "nimi": "Keski-Uudenmaan Työterveys Oy",
+      "leveysaste": 60.245554,
+      "pituusaste": 24.053267,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 142,
+      "nimi": "Keskustan terveysasema",
+      "leveysaste": 60.448597,
+      "pituusaste": 22.258814,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 143,
+      "nimi": "Keskustan äitiys- ja lastenneuvola",
+      "leveysaste": 60.487783,
+      "pituusaste": 22.163744,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 144,
+      "nimi": "Kiikalan terveysasema",
+      "leveysaste": 60.46154,
+      "pituusaste": 23.551006,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 145,
+      "nimi": "Kilon terveysasema",
+      "leveysaste": 60.218097,
+      "pituusaste": 24.786385,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 146,
+      "nimi": "Kilon terveysasema",
+      "leveysaste": 60.218103,
+      "pituusaste": 24.786346,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 147,
+      "nimi": "Kilonpuiston neuvola",
+      "leveysaste": 60.213727,
+      "pituusaste": 24.789051,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 148,
+      "nimi": "Kinaporin seniorikeskus",
+      "leveysaste": 60.18865,
+      "pituusaste": 24.961896,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 149,
+      "nimi": "Kinaporin seniorikeskus",
+      "leveysaste": 60.188955,
+      "pituusaste": 24.962409,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 150,
+      "nimi": "Kirkkonummen hyvinvointikeskus",
+      "leveysaste": 60.131082,
+      "pituusaste": 24.44841,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 151,
+      "nimi": "Kirkkonummen hyvinvointikeskus",
+      "leveysaste": 60.131099,
+      "pituusaste": 24.448387,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 152,
+      "nimi": "Kirkkonummen terveyskeskus",
+      "leveysaste": 60.130733,
+      "pituusaste": 24.448391,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 153,
+      "nimi": "Kirkkotien terveysasema",
+      "leveysaste": 60.456304,
+      "pituusaste": 22.293136,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 154,
+      "nimi": "Kirkkotien terveysasema",
+      "leveysaste": 60.456334,
+      "pituusaste": 22.293143,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 155,
+      "nimi": "Kirurgian koulutuskeskus / Tampere Surgical Education Centre",
+      "leveysaste": 61.507008,
+      "pituusaste": 23.816921,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 156,
+      "nimi": "Kirurgian poliklinikka",
+      "leveysaste": 61.484187,
+      "pituusaste": 23.754351,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 157,
+      "nimi": "Kiskon terveysasema",
+      "leveysaste": 60.263982,
+      "pituusaste": 23.44465,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 158,
+      "nimi": "Kiskon terveysasema",
+      "leveysaste": 60.263998,
+      "pituusaste": 23.444702,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 159,
+      "nimi": "Kivelän terveysasema",
+      "leveysaste": 60.180908,
+      "pituusaste": 24.918569,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 160,
+      "nimi": "Kivenlahden terveysasema",
+      "leveysaste": 60.154688,
+      "pituusaste": 24.635737,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 161,
+      "nimi": "Kivenlahden terveysasema",
+      "leveysaste": 60.154689,
+      "pituusaste": 24.635735,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 162,
+      "nimi": "Kivikon terveysasema",
+      "leveysaste": 60.237139,
+      "pituusaste": 25.066172,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 163,
+      "nimi": "Kivistön terveysasema",
+      "leveysaste": 60.31372,
+      "pituusaste": 24.846487,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 164,
+      "nimi": "Klinikka",
+      "leveysaste": 60.623037,
+      "pituusaste": 26.155234,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 165,
+      "nimi": "Koivuhaan terveysasema",
+      "leveysaste": 63.826516,
+      "pituusaste": 23.071151,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 166,
+      "nimi": "Koivukylän terveysasema",
+      "leveysaste": 60.319467,
+      "pituusaste": 25.059469,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 167,
+      "nimi": "Koivukylän terveysasema",
+      "leveysaste": 60.319472,
+      "pituusaste": 25.059447,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 168,
+      "nimi": "Kokkolan pääterveysasema",
+      "leveysaste": 63.844205,
+      "pituusaste": 23.106034,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 169,
+      "nimi": "Kontinkankaan neuvola 1",
+      "leveysaste": 65.011025,
+      "pituusaste": 25.514134,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 170,
+      "nimi": "Kontinkankaan neuvola 1",
+      "leveysaste": 65.011052,
+      "pituusaste": 25.514106,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 171,
+      "nimi": "Kontinkankaan neuvola 2",
+      "leveysaste": 65.005403,
+      "pituusaste": 25.527208,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 172,
+      "nimi": "Kontulan terveysasema",
+      "leveysaste": 60.237802,
+      "pituusaste": 25.084291,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 173,
+      "nimi": "Kontulan terveysasema",
+      "leveysaste": 60.237802,
+      "pituusaste": 25.084292,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 174,
+      "nimi": "Korian neuvola",
+      "leveysaste": 60.846511,
+      "pituusaste": 26.601707,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 175,
+      "nimi": "Korpilahden terveysasema",
+      "leveysaste": 62.016911,
+      "pituusaste": 25.562496,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 176,
+      "nimi": "Korson terveysasema",
+      "leveysaste": 60.349499,
+      "pituusaste": 25.078595,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 177,
+      "nimi": "Kosken terveysasema",
+      "leveysaste": 60.652248,
+      "pituusaste": 23.133402,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 178,
+      "nimi": "Kosken terveysasema",
+      "leveysaste": 60.652259,
+      "pituusaste": 23.133311,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 179,
+      "nimi": "Koskiklinikka",
+      "leveysaste": 61.495915,
+      "pituusaste": 23.624693,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 180,
+      "nimi": "Kotkansaaren terveysasema",
+      "leveysaste": 60.464262,
+      "pituusaste": 26.944713,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 181,
+      "nimi": "Kotkansaaren terveysasema",
+      "leveysaste": 60.464272,
+      "pituusaste": 26.944738,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 182,
+      "nimi": "Koulu- ja opiskeluterveydenhuollon keskitetty toimipiste",
+      "leveysaste": 60.203611,
+      "pituusaste": 24.654357,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 183,
+      "nimi": "Kouvolan Työterveys Ry",
+      "leveysaste": 60.871653,
+      "pituusaste": 26.657391,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 184,
+      "nimi": "KristinaMedi",
+      "leveysaste": 62.427819,
+      "pituusaste": 22.17737,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 185,
+      "nimi": "Kuhmoisten terveysasema",
+      "leveysaste": 61.559276,
+      "pituusaste": 25.159741,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 186,
+      "nimi": "Kuhmoisten terveysasema",
+      "leveysaste": 61.559282,
+      "pituusaste": 25.159741,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 187,
+      "nimi": "Kuortaneen terveysasema",
+      "leveysaste": 62.807228,
+      "pituusaste": 23.505405,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 188,
+      "nimi": "Kuortaneen terveysasema",
+      "leveysaste": 62.807248,
+      "pituusaste": 23.50536,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 189,
+      "nimi": "Kurun lähiasiointipiste",
+      "leveysaste": 61.881651,
+      "pituusaste": 23.729296,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 190,
+      "nimi": "Kurun lähiasiointipiste",
+      "leveysaste": 61.881662,
+      "pituusaste": 23.729318,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 191,
+      "nimi": "Kustavin terveysasema",
+      "leveysaste": 60.550263,
+      "pituusaste": 21.354689,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 192,
+      "nimi": "Kuusamon Neuvola",
+      "leveysaste": 65.963995,
+      "pituusaste": 29.194019,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 193,
+      "nimi": "Kuusamon sosiaali- ja terveyskeskus",
+      "leveysaste": 65.965057,
+      "pituusaste": 29.194188,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 194,
+      "nimi": "Kuusjoen terveysasema",
+      "leveysaste": 60.520422,
+      "pituusaste": 23.22342,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 195,
+      "nimi": "Kuusjoen terveysasema",
+      "leveysaste": 60.520466,
+      "pituusaste": 23.223489,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 196,
+      "nimi": "Kuvantaminen",
+      "leveysaste": 61.484275,
+      "pituusaste": 23.756109,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 197,
+      "nimi": "Kärkölän sote-keskus",
+      "leveysaste": 60.867669,
+      "pituusaste": 25.27091,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 198,
+      "nimi": "Kärkölän sote-keskus",
+      "leveysaste": 60.8677,
+      "pituusaste": 25.270956,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 199,
+      "nimi": "Kärsämäen sosiaali- ja terveysasema",
+      "leveysaste": 63.979726,
+      "pituusaste": 25.763061,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 200,
+      "nimi": "Laajasalon terveysasema",
+      "leveysaste": 60.17848,
+      "pituusaste": 25.055254,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 201,
+      "nimi": "Laboratorio ja röntgen",
+      "leveysaste": 60.448805,
+      "pituusaste": 22.258248,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 202,
+      "nimi": "Lahden sosiaali- ja terveyskeskus",
+      "leveysaste": 60.980883,
+      "pituusaste": 25.66402,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 203,
+      "nimi": "Lahden sosiaali- ja terveyskeskus",
+      "leveysaste": 60.980909,
+      "pituusaste": 25.663971,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 204,
+      "nimi": "Laitilan Lääkäripalvelut",
+      "leveysaste": 60.881631,
+      "pituusaste": 21.696265,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 205,
+      "nimi": "Laitilan Työterveys",
+      "leveysaste": 60.879457,
+      "pituusaste": 21.693898,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 206,
+      "nimi": "Lapin sotepiste",
+      "leveysaste": 61.102822,
+      "pituusaste": 21.841202,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 207,
+      "nimi": "Larsmo välfärdsstation",
+      "leveysaste": 63.753611,
+      "pituusaste": 22.745985,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 208,
+      "nimi": "Lasten ja nuorten kuntoutuksen palvelupiste",
+      "leveysaste": 65.010699,
+      "pituusaste": 25.513592,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 209,
+      "nimi": "Lastenkirurgian poliklinikka",
+      "leveysaste": 61.504197,
+      "pituusaste": 23.814089,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 210,
+      "nimi": "Laukaan terveyskeskus",
+      "leveysaste": 62.409043,
+      "pituusaste": 25.950525,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 211,
+      "nimi": "Laukaan terveyskeskus",
+      "leveysaste": 62.409053,
+      "pituusaste": 25.950579,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 212,
+      "nimi": "Lauttasaaren terveyskeskus",
+      "leveysaste": 60.161213,
+      "pituusaste": 24.882672,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 213,
+      "nimi": "Lauttasaaren terveyskeskus",
+      "leveysaste": 60.161217,
+      "pituusaste": 24.882674,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 214,
+      "nimi": "Lavian lähipalvelupiste",
+      "leveysaste": 61.596981,
+      "pituusaste": 22.579813,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 215,
+      "nimi": "Lempäälän Lääkäriasema",
+      "leveysaste": 61.314589,
+      "pituusaste": 23.752979,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 216,
+      "nimi": "Lempäälän sosiaali- ja terveysasema",
+      "leveysaste": 61.317369,
+      "pituusaste": 23.749058,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 217,
+      "nimi": "Leppävaaran terveysasema",
+      "leveysaste": 60.22152,
+      "pituusaste": 24.813835,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 218,
+      "nimi": "Leppävaaran terveysasema",
+      "leveysaste": 60.221527,
+      "pituusaste": 24.813835,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 219,
+      "nimi": "Lestijärven terveyskeskus",
+      "leveysaste": 63.532081,
+      "pituusaste": 24.650369,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 220,
+      "nimi": "Lestijärven terveyskeskus",
+      "leveysaste": 63.532102,
+      "pituusaste": 24.650374,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 221,
+      "nimi": "Liedon terveyskeskus",
+      "leveysaste": 60.507516,
+      "pituusaste": 22.458928,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 222,
+      "nimi": "Liedon terveyskeskus",
+      "leveysaste": 60.507612,
+      "pituusaste": 22.458864,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 223,
+      "nimi": "Lieksan sosiaali- ja terveyskeskus",
+      "leveysaste": 63.318558,
+      "pituusaste": 30.020193,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 224,
+      "nimi": "Lieksan sosiaali- ja terveyskeskus",
+      "leveysaste": 63.318595,
+      "pituusaste": 30.019971,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 225,
+      "nimi": "Lielahden sosiaali- ja terveysasema",
+      "leveysaste": 61.520267,
+      "pituusaste": 23.669197,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 226,
+      "nimi": "Limingan terveyskeskus",
+      "leveysaste": 64.808459,
+      "pituusaste": 25.409491,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 227,
+      "nimi": "Linkki Leppävaara",
+      "leveysaste": 60.221105,
+      "pituusaste": 24.812667,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 228,
+      "nimi": "Linnainmaan sosiaali- ja terveysasema",
+      "leveysaste": 61.494685,
+      "pituusaste": 23.882056,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 229,
+      "nimi": "Linnainmaan sosiaali- ja terveysasema",
+      "leveysaste": 61.494686,
+      "pituusaste": 23.881968,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 230,
+      "nimi": "Lohtajan terveysasema",
+      "leveysaste": 64.022023,
+      "pituusaste": 23.508995,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 231,
+      "nimi": "Lohtajan terveysasema",
+      "leveysaste": 64.022026,
+      "pituusaste": 23.509071,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 232,
+      "nimi": "Lopen terveysasema",
+      "leveysaste": 60.718655,
+      "pituusaste": 24.427217,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 233,
+      "nimi": "Lopen terveysasema",
+      "leveysaste": 60.718686,
+      "pituusaste": 24.427138,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 234,
+      "nimi": "Lopen terveysasema",
+      "leveysaste": 60.719836,
+      "pituusaste": 24.440249,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 235,
+      "nimi": "Loviisan terveyskeskus",
+      "leveysaste": 60.460237,
+      "pituusaste": 26.229707,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 236,
+      "nimi": "Luhangan terveysasema",
+      "leveysaste": 61.796184,
+      "pituusaste": 25.700491,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 237,
+      "nimi": "Luhangan terveysasema",
+      "leveysaste": 61.796214,
+      "pituusaste": 25.700549,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 238,
+      "nimi": "Lumijoen terveysasema",
+      "leveysaste": 64.83795,
+      "pituusaste": 25.186555,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 239,
+      "nimi": "Lumijoen terveysasema",
+      "leveysaste": 64.837955,
+      "pituusaste": 25.186565,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 240,
+      "nimi": "Luonetjärven varuskunnan terveysasema",
+      "leveysaste": 62.39772,
+      "pituusaste": 25.608234,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 241,
+      "nimi": "Luopioisten lähiasiointipiste",
+      "leveysaste": 61.364406,
+      "pituusaste": 24.658309,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 242,
+      "nimi": "Luumäen hyvinvointiasema",
+      "leveysaste": 60.921349,
+      "pituusaste": 27.570124,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 243,
+      "nimi": "Länsi-Kotkan terveysasema",
+      "leveysaste": 60.483134,
+      "pituusaste": 26.85907,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 244,
+      "nimi": "Länsimäen terveysasema",
+      "leveysaste": 60.241714,
+      "pituusaste": 25.112284,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 245,
+      "nimi": "Länsimäen terveysasema",
+      "leveysaste": 60.241723,
+      "pituusaste": 25.112293,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 246,
+      "nimi": "Läntinen terveysasema",
+      "leveysaste": 60.389793,
+      "pituusaste": 23.118362,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 247,
+      "nimi": "Läntinen terveysasema",
+      "leveysaste": 60.389812,
+      "pituusaste": 23.11832,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 248,
+      "nimi": "Lääkäriasema Anselmi",
+      "leveysaste": 63.000777,
+      "pituusaste": 23.817282,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 249,
+      "nimi": "Lääkäriasema Pikkujätti",
+      "leveysaste": 60.175925,
+      "pituusaste": 24.804475,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 250,
+      "nimi": "Lääkärikeskus Aava",
+      "leveysaste": 60.260769,
+      "pituusaste": 24.852296,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 251,
+      "nimi": "Lääkärikeskus Aava",
+      "leveysaste": 61.494794,
+      "pituusaste": 23.768506,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 252,
+      "nimi": "Lääkärikeskus Aava Espoo Tapiola",
+      "leveysaste": 60.176198,
+      "pituusaste": 24.805023,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 253,
+      "nimi": "Lääkärisi.fi",
+      "leveysaste": 64.916414,
+      "pituusaste": 25.533878,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 254,
+      "nimi": "Maaningan terveysasema",
+      "leveysaste": 63.156925,
+      "pituusaste": 27.294892,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 255,
+      "nimi": "Maikkulan terveysneuvola",
+      "leveysaste": 64.982206,
+      "pituusaste": 25.57056,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 256,
+      "nimi": "Maikkulan terveysneuvola",
+      "leveysaste": 64.982208,
+      "pituusaste": 25.570543,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 257,
+      "nimi": "Malax-Korsnäs hälsovårdscentral",
+      "leveysaste": 62.945725,
+      "pituusaste": 21.544498,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 258,
+      "nimi": "Malmin sisätautien poliklinikka",
+      "leveysaste": 60.208534,
+      "pituusaste": 25.03704,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 259,
+      "nimi": "Malmin terveysasema ja hammashoitola",
+      "leveysaste": 60.254034,
+      "pituusaste": 25.00137,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 260,
+      "nimi": "Malminkartanon terveysasema",
+      "leveysaste": 60.247208,
+      "pituusaste": 24.864572,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 261,
+      "nimi": "Martinlaakson sosiaali- ja terveyskeskus",
+      "leveysaste": 60.277231,
+      "pituusaste": 24.851327,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 262,
+      "nimi": "Masalan terveysasema",
+      "leveysaste": 60.153436,
+      "pituusaste": 24.53248,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 263,
+      "nimi": "Masalan terveysasema",
+      "leveysaste": 60.15347,
+      "pituusaste": 24.532426,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 264,
+      "nimi": "Maskun terveyskeskus",
+      "leveysaste": 60.579952,
+      "pituusaste": 22.098377,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 265,
+      "nimi": "Maskun terveyskeskus",
+      "leveysaste": 60.579962,
+      "pituusaste": 22.098502,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 266,
+      "nimi": "Matinkadun terveysasema",
+      "leveysaste": 60.160277,
+      "pituusaste": 24.748707,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 267,
+      "nimi": "Maunulan terveysasema",
+      "leveysaste": 60.234811,
+      "pituusaste": 24.934409,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 268,
+      "nimi": "Maunulan terveysasema",
+      "leveysaste": 60.234825,
+      "pituusaste": 24.934406,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 269,
+      "nimi": "Medi Ylläs",
+      "leveysaste": 67.603998,
+      "pituusaste": 24.169533,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 270,
+      "nimi": "Medi Ylläs",
+      "leveysaste": 67.604029,
+      "pituusaste": 24.169416,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 271,
+      "nimi": "Medika",
+      "leveysaste": 64.125116,
+      "pituusaste": 29.529161,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 272,
+      "nimi": "Medimar",
+      "leveysaste": 60.11427,
+      "pituusaste": 19.912623,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 273,
+      "nimi": "Medimar",
+      "leveysaste": 60.114312,
+      "pituusaste": 19.912645,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 274,
+      "nimi": "Mehiläinen",
+      "leveysaste": 60.21049,
+      "pituusaste": 25.079572,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 275,
+      "nimi": "Mehiläinen",
+      "leveysaste": 60.452912,
+      "pituusaste": 22.266356,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 276,
+      "nimi": "Mehiläinen",
+      "leveysaste": 60.463692,
+      "pituusaste": 26.936081,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 277,
+      "nimi": "Mehiläinen",
+      "leveysaste": 60.79948,
+      "pituusaste": 21.411779,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 278,
+      "nimi": "Mehiläinen",
+      "leveysaste": 60.852576,
+      "pituusaste": 23.057051,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 279,
+      "nimi": "Mehiläinen",
+      "leveysaste": 60.867577,
+      "pituusaste": 26.696918,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 280,
+      "nimi": "Mehiläinen",
+      "leveysaste": 61.056039,
+      "pituusaste": 28.190211,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 281,
+      "nimi": "Mehiläinen",
+      "leveysaste": 63.095554,
+      "pituusaste": 21.620166,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 282,
+      "nimi": "Mehiläinen",
+      "leveysaste": 63.095593,
+      "pituusaste": 21.620383,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 283,
+      "nimi": "Mehiläinen",
+      "leveysaste": 63.928618,
+      "pituusaste": 24.963097,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 284,
+      "nimi": "Mehiläinen",
+      "leveysaste": 64.072726,
+      "pituusaste": 24.536652,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 285,
+      "nimi": "Mehiläinen",
+      "leveysaste": 64.125191,
+      "pituusaste": 29.528927,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 286,
+      "nimi": "Mehiläinen",
+      "leveysaste": 64.22658,
+      "pituusaste": 27.728734,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 287,
+      "nimi": "Mehiläinen Airport",
+      "leveysaste": 60.316106,
+      "pituusaste": 24.965961,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 288,
+      "nimi": "Mehiläinen Espoo Leppävaara",
+      "leveysaste": 60.217751,
+      "pituusaste": 24.814339,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 289,
+      "nimi": "Mehiläinen Forssa",
+      "leveysaste": 60.810114,
+      "pituusaste": 23.614694,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 290,
+      "nimi": "Mehiläinen Hamina",
+      "leveysaste": 60.567653,
+      "pituusaste": 27.193945,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 291,
+      "nimi": "Mehiläinen Helsinki Forum",
+      "leveysaste": 60.16946,
+      "pituusaste": 24.938104,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 292,
+      "nimi": "Mehiläinen Hermia",
+      "leveysaste": 61.447354,
+      "pituusaste": 23.861735,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 293,
+      "nimi": "Mehiläinen Hyvinkää",
+      "leveysaste": 60.632158,
+      "pituusaste": 24.862511,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 294,
+      "nimi": "Mehiläinen Hämeenlinna",
+      "leveysaste": 60.999033,
+      "pituusaste": 24.47872,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 295,
+      "nimi": "Mehiläinen Joensuu",
+      "leveysaste": 62.600794,
+      "pituusaste": 29.766177,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 296,
+      "nimi": "Mehiläinen Jyväskylä",
+      "leveysaste": 62.243263,
+      "pituusaste": 25.747417,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 297,
+      "nimi": "Mehiläinen Kalajoki",
+      "leveysaste": 64.258269,
+      "pituusaste": 23.949047,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 298,
+      "nimi": "Mehiläinen Karkkila",
+      "leveysaste": 60.531278,
+      "pituusaste": 24.204455,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 299,
+      "nimi": "Mehiläinen Kokkola",
+      "leveysaste": 63.835361,
+      "pituusaste": 23.133502,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 300,
+      "nimi": "Mehiläinen Lahti",
+      "leveysaste": 60.982606,
+      "pituusaste": 25.649411,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 301,
+      "nimi": "Mehiläinen Lieto",
+      "leveysaste": 60.507812,
+      "pituusaste": 22.458611,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 302,
+      "nimi": "Mehiläinen Lohja",
+      "leveysaste": 60.249098,
+      "pituusaste": 24.062159,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 303,
+      "nimi": "Mehiläinen Loviisa",
+      "leveysaste": 60.45644,
+      "pituusaste": 26.225465,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 304,
+      "nimi": "Mehiläinen Matinkylä",
+      "leveysaste": 60.164701,
+      "pituusaste": 24.736012,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 305,
+      "nimi": "Mehiläinen Nummela",
+      "leveysaste": 60.336244,
+      "pituusaste": 24.320313,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 306,
+      "nimi": "Mehiläinen Oulu",
+      "leveysaste": 65.012352,
+      "pituusaste": 25.468827,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 307,
+      "nimi": "Mehiläinen Paimio",
+      "leveysaste": 60.457613,
+      "pituusaste": 22.68762,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 308,
+      "nimi": "Mehiläinen Pori",
+      "leveysaste": 61.479607,
+      "pituusaste": 21.802319,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 309,
+      "nimi": "Mehiläinen Raisio",
+      "leveysaste": 60.486167,
+      "pituusaste": 22.167444,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 310,
+      "nimi": "Mehiläinen Rauma",
+      "leveysaste": 61.12349,
+      "pituusaste": 21.502366,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 311,
+      "nimi": "Mehiläinen Seinäjoki",
+      "leveysaste": 62.790053,
+      "pituusaste": 22.843854,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 312,
+      "nimi": "Mehiläinen Tammisaari",
+      "leveysaste": 59.976996,
+      "pituusaste": 23.43951,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 313,
+      "nimi": "Mehiläinen Tampere Finlayson",
+      "leveysaste": 61.501961,
+      "pituusaste": 23.759211,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 314,
+      "nimi": "Mehiläinen Tampere Kauppi",
+      "leveysaste": 61.508206,
+      "pituusaste": 23.808308,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 315,
+      "nimi": "Mehiläinen Tapiola",
+      "leveysaste": 60.175891,
+      "pituusaste": 24.803519,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 316,
+      "nimi": "Mehiläinen Töölö",
+      "leveysaste": 60.17729,
+      "pituusaste": 24.922806,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 317,
+      "nimi": "Mehiläinen Vantaa Myyrmäki",
+      "leveysaste": 60.262873,
+      "pituusaste": 24.851718,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 318,
+      "nimi": "Mehiläinen Vantaa Tikkurila",
+      "leveysaste": 60.293003,
+      "pituusaste": 25.045824,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 319,
+      "nimi": "Mehiläinen Ympyrätalo",
+      "leveysaste": 60.180044,
+      "pituusaste": 24.949153,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 320,
+      "nimi": "Mellilän terveyskeskus",
+      "leveysaste": 60.778053,
+      "pituusaste": 22.926076,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 321,
+      "nimi": "Merikarvian terveysasema",
+      "leveysaste": 61.856522,
+      "pituusaste": 21.516282,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 322,
+      "nimi": "Miehikkälän terveyskeskus",
+      "leveysaste": 60.671377,
+      "pituusaste": 27.699695,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 323,
+      "nimi": "Mouhijärven lähiasiointipiste",
+      "leveysaste": 61.512988,
+      "pituusaste": 23.001532,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 324,
+      "nimi": "Mouhijärven lähiasiointipiste",
+      "leveysaste": 61.512991,
+      "pituusaste": 23.001534,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 325,
+      "nimi": "Multian terveysasema",
+      "leveysaste": 62.404718,
+      "pituusaste": 24.79217,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 326,
+      "nimi": "Multian terveysasema",
+      "leveysaste": 62.404735,
+      "pituusaste": 24.792186,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 327,
+      "nimi": "Munkkiniemen terveysasema",
+      "leveysaste": 60.201457,
+      "pituusaste": 24.876371,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 328,
+      "nimi": "Munkkiniemen terveysasema",
+      "leveysaste": 60.201461,
+      "pituusaste": 24.87636,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 329,
+      "nimi": "Munkkiniemen terveysasema",
+      "leveysaste": 60.201809,
+      "pituusaste": 24.876345,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 330,
+      "nimi": "Munkkiniemen terveysasema",
+      "leveysaste": 60.20183,
+      "pituusaste": 24.876409,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 331,
+      "nimi": "Munuaiskeskuksen poliklinikka",
+      "leveysaste": 61.505661,
+      "pituusaste": 23.81528,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 332,
+      "nimi": "Muuramen terveysasema",
+      "leveysaste": 62.129323,
+      "pituusaste": 25.680602,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 333,
+      "nimi": "Muuramen terveysasema",
+      "leveysaste": 62.129333,
+      "pituusaste": 25.680587,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 334,
+      "nimi": "Myllyojan terveysasema",
+      "leveysaste": 65.018189,
+      "pituusaste": 25.553228,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 335,
+      "nimi": "Myllypuron terveysasema",
+      "leveysaste": 60.225909,
+      "pituusaste": 25.076101,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 336,
+      "nimi": "Myllypuron terveysasema",
+      "leveysaste": 60.225911,
+      "pituusaste": 25.076112,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 337,
+      "nimi": "Mynämäen terveyskeskus",
+      "leveysaste": 60.675264,
+      "pituusaste": 21.977273,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 338,
+      "nimi": "Myrskylän sote-keskus",
+      "leveysaste": 60.670285,
+      "pituusaste": 25.851757,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 339,
+      "nimi": "Myyrmäen neuvola",
+      "leveysaste": 60.264293,
+      "pituusaste": 24.859186,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 340,
+      "nimi": "Myyrmäen sosiaali- ja terveysasema",
+      "leveysaste": 60.260618,
+      "pituusaste": 24.855932,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 341,
+      "nimi": "Myyrmäen sosiaali- ja terveysasema",
+      "leveysaste": 60.260622,
+      "pituusaste": 24.855932,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 342,
+      "nimi": "Mäntsälän terveysasema",
+      "leveysaste": 60.635603,
+      "pituusaste": 25.326294,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 343,
+      "nimi": "Mäntymäen terveysasema",
+      "leveysaste": 60.439419,
+      "pituusaste": 22.275838,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 344,
+      "nimi": "Naantalin terveyskeskus",
+      "leveysaste": 60.469385,
+      "pituusaste": 22.026023,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 345,
+      "nimi": "Naantalin terveyskeskus",
+      "leveysaste": 60.469467,
+      "pituusaste": 22.026165,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 346,
+      "nimi": "Neurologian poliklinikka",
+      "leveysaste": 61.506685,
+      "pituusaste": 23.813553,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 347,
+      "nimi": "Neuromodulaatioyksikkö",
+      "leveysaste": 65.016021,
+      "pituusaste": 25.514384,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 348,
+      "nimi": "Neuvola",
+      "leveysaste": 60.624376,
+      "pituusaste": 24.460851,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 349,
+      "nimi": "Neuvola",
+      "leveysaste": 61.172416,
+      "pituusaste": 25.541517,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 350,
+      "nimi": "Neuvola",
+      "leveysaste": 64.127577,
+      "pituusaste": 29.518734,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 351,
+      "nimi": "Niinivaaran terveysasema",
+      "leveysaste": 62.592548,
+      "pituusaste": 29.777912,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 352,
+      "nimi": "Niittykummun perheneuvola ja -sosiaalityö",
+      "leveysaste": 60.169463,
+      "pituusaste": 24.770963,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 353,
+      "nimi": "Niittykummun äitiys- ja lastenneuvola",
+      "leveysaste": 60.16956,
+      "pituusaste": 24.770029,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 354,
+      "nimi": "Nikkilän neuvola",
+      "leveysaste": 60.377898,
+      "pituusaste": 25.265667,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 355,
+      "nimi": "Nikkilän sosiaali- ja terveysasema",
+      "leveysaste": 60.377548,
+      "pituusaste": 25.265888,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 356,
+      "nimi": "Nuorisopsykiatrian osasto 86",
+      "leveysaste": 65.016897,
+      "pituusaste": 25.516284,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 357,
+      "nimi": "Närpes social- och hälsocentral",
+      "leveysaste": 62.470342,
+      "pituusaste": 21.333105,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 358,
+      "nimi": "Nöykkiön hammashoitola",
+      "leveysaste": 60.165947,
+      "pituusaste": 24.665039,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 359,
+      "nimi": "Nöykkiön neuvola",
+      "leveysaste": 60.166102,
+      "pituusaste": 24.66498,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 360,
+      "nimi": "OYS D-talo",
+      "leveysaste": 65.009285,
+      "pituusaste": 25.514871,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 361,
+      "nimi": "OYS Konsti",
+      "leveysaste": 65.014405,
+      "pituusaste": 25.51384,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 362,
+      "nimi": "Obduktio",
+      "leveysaste": 61.506921,
+      "pituusaste": 23.817058,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 363,
+      "nimi": "Oitin terveysasema",
+      "leveysaste": 60.786274,
+      "pituusaste": 25.026445,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 364,
+      "nimi": "Ojoisten terveysasema",
+      "leveysaste": 61.011852,
+      "pituusaste": 24.437506,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 365,
+      "nimi": "Ojoisten terveysasema",
+      "leveysaste": 61.011871,
+      "pituusaste": 24.437522,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 366,
+      "nimi": "Oloni-klinikka",
+      "leveysaste": 60.162868,
+      "pituusaste": 24.915319,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 367,
+      "nimi": "Onni",
+      "leveysaste": 60.163196,
+      "pituusaste": 24.937455,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 368,
+      "nimi": "Orimattilan sote-keskus",
+      "leveysaste": 60.797447,
+      "pituusaste": 25.719397,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 369,
+      "nimi": "Orimattilan sote-keskus",
+      "leveysaste": 60.79746,
+      "pituusaste": 25.71941,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 370,
+      "nimi": "Ortopedian poliklinikka",
+      "leveysaste": 61.483905,
+      "pituusaste": 23.754147,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 371,
+      "nimi": "Osteopaatti Olli Kuusisto",
+      "leveysaste": 60.212167,
+      "pituusaste": 24.900121,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 372,
+      "nimi": "Osteopatiaklinikka Kaj Tuominen",
+      "leveysaste": 60.161227,
+      "pituusaste": 24.941129,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 373,
+      "nimi": "Oulaisten sosiaali- ja terveyskeskus",
+      "leveysaste": 64.267245,
+      "pituusaste": 24.839177,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 374,
+      "nimi": "Oulun Ultra",
+      "leveysaste": 65.011277,
+      "pituusaste": 25.479416,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 375,
+      "nimi": "Oulun asunnottomien palvelukeskus",
+      "leveysaste": 65.009914,
+      "pituusaste": 25.516093,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 376,
+      "nimi": "Oulunkylän terveysasema",
+      "leveysaste": 60.227835,
+      "pituusaste": 24.964415,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 377,
+      "nimi": "Oulunkylän terveysasema",
+      "leveysaste": 60.227853,
+      "pituusaste": 24.964452,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 378,
+      "nimi": "Ovumia Jyväskylä",
+      "leveysaste": 62.244491,
+      "pituusaste": 25.748486,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 379,
+      "nimi": "Padasjoen sote-keskus",
+      "leveysaste": 61.357075,
+      "pituusaste": 25.275828,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 380,
+      "nimi": "Paikkarin terveystalo",
+      "leveysaste": 60.487834,
+      "pituusaste": 22.10752,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 381,
+      "nimi": "Paimion terveysasema",
+      "leveysaste": 60.441086,
+      "pituusaste": 22.688271,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 382,
+      "nimi": "Pajuniityn neuvola",
+      "leveysaste": 60.329298,
+      "pituusaste": 24.321367,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 383,
+      "nimi": "Paloheinän terveysasema",
+      "leveysaste": 60.24914,
+      "pituusaste": 24.941832,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 384,
+      "nimi": "Palokan neuvola",
+      "leveysaste": 62.287602,
+      "pituusaste": 25.745433,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 385,
+      "nimi": "Palokan terveysasema",
+      "leveysaste": 62.287669,
+      "pituusaste": 25.745421,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 386,
+      "nimi": "Panelian neuvola ja terveysasema",
+      "leveysaste": 61.226744,
+      "pituusaste": 21.972279,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 387,
+      "nimi": "Pansion terveysasema",
+      "leveysaste": 60.452427,
+      "pituusaste": 22.161012,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 388,
+      "nimi": "Pappilanniemen terveysasema",
+      "leveysaste": 61.063683,
+      "pituusaste": 24.405398,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 389,
+      "nimi": "Pasilan osteopatiakeskus",
+      "leveysaste": 60.197714,
+      "pituusaste": 24.925068,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 390,
+      "nimi": "Perhe- ja sosiaalikeskus Pajala",
+      "leveysaste": 63.547514,
+      "pituusaste": 23.69504,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 391,
+      "nimi": "Perhe-Arte",
+      "leveysaste": 60.986555,
+      "pituusaste": 25.665275,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 392,
+      "nimi": "Perinnöllisyyspoliklinikka",
+      "leveysaste": 61.506571,
+      "pituusaste": 23.813822,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 393,
+      "nimi": "Perkkaan neuvola",
+      "leveysaste": 60.216587,
+      "pituusaste": 24.817741,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 394,
+      "nimi": "Petäjäveden sosiaali- ja terveysasema",
+      "leveysaste": 62.260711,
+      "pituusaste": 25.178135,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 395,
+      "nimi": "Pihlajalinna",
+      "leveysaste": 60.45061,
+      "pituusaste": 22.260795,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 396,
+      "nimi": "Pihlajalinna",
+      "leveysaste": 60.983741,
+      "pituusaste": 25.6535,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 397,
+      "nimi": "Pihlajalinna",
+      "leveysaste": 62.974601,
+      "pituusaste": 28.481189,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 398,
+      "nimi": "Pihlajalinna Hermia työterveys",
+      "leveysaste": 61.447403,
+      "pituusaste": 23.857705,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 399,
+      "nimi": "Pihlajalinna Hiironen",
+      "leveysaste": 64.984088,
+      "pituusaste": 25.508899,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 400,
+      "nimi": "Pihlajalinna Ikaalinen",
+      "leveysaste": 61.76936,
+      "pituusaste": 23.067541,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 401,
+      "nimi": "Pihlajalinna Ite Joensuu",
+      "leveysaste": 62.602003,
+      "pituusaste": 29.763868,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 402,
+      "nimi": "Pihlajalinna Jyväskylä",
+      "leveysaste": 62.238978,
+      "pituusaste": 25.741501,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 403,
+      "nimi": "Pihlajalinna Jyväskylä",
+      "leveysaste": 62.239018,
+      "pituusaste": 25.74141,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 404,
+      "nimi": "Pihlajalinna Kangasala",
+      "leveysaste": 61.471434,
+      "pituusaste": 23.991207,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 405,
+      "nimi": "Pihlajalinna Kangasala",
+      "leveysaste": 61.47147,
+      "pituusaste": 23.991219,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 406,
+      "nimi": "Pihlajalinna Kehräsaari",
+      "leveysaste": 61.495409,
+      "pituusaste": 23.763835,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 407,
+      "nimi": "Pihlajalinna Kuopio Leväsentie",
+      "leveysaste": 62.883789,
+      "pituusaste": 27.641264,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 408,
+      "nimi": "Pihlajalinna Levi",
+      "leveysaste": 67.802481,
+      "pituusaste": 24.798678,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 409,
+      "nimi": "Pihlajalinna Pietarsaari",
+      "leveysaste": 63.674617,
+      "pituusaste": 22.70081,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 410,
+      "nimi": "Pihlajalinna Pirkkala",
+      "leveysaste": 61.469189,
+      "pituusaste": 23.716873,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 411,
+      "nimi": "Pihlajalinna Raahe",
+      "leveysaste": 64.685209,
+      "pituusaste": 24.479274,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 412,
+      "nimi": "Pihlajalinna Seinäjoki",
+      "leveysaste": 62.791318,
+      "pituusaste": 22.840208,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 413,
+      "nimi": "Pihlajalinna Sello",
+      "leveysaste": 60.217395,
+      "pituusaste": 24.811211,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 414,
+      "nimi": "Pihlajalinna Särkänniemi",
+      "leveysaste": 61.505819,
+      "pituusaste": 23.74658,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 415,
+      "nimi": "Pihlajalinna Vantaa",
+      "leveysaste": 60.288638,
+      "pituusaste": 24.952426,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 416,
+      "nimi": "Pihlajamäen terveysasema",
+      "leveysaste": 60.234413,
+      "pituusaste": 25.009424,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 417,
+      "nimi": "Pihlavan terveysasema",
+      "leveysaste": 61.558746,
+      "pituusaste": 21.612141,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 418,
+      "nimi": "Pihlavan terveysasema",
+      "leveysaste": 61.558779,
+      "pituusaste": 21.612068,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 419,
+      "nimi": "Piikkiön terveyskeskus",
+      "leveysaste": 60.422204,
+      "pituusaste": 22.525977,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 420,
+      "nimi": "Piikkiön terveyskeskus",
+      "leveysaste": 60.422285,
+      "pituusaste": 22.526165,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 421,
+      "nimi": "Pikkujätti",
+      "leveysaste": 61.49465,
+      "pituusaste": 23.768212,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 422,
+      "nimi": "Pitäjänmäen terveysasema",
+      "leveysaste": 60.226362,
+      "pituusaste": 24.85197,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 423,
+      "nimi": "Pitäjänmäen terveysasema",
+      "leveysaste": 60.226371,
+      "pituusaste": 24.85198,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 424,
+      "nimi": "Plastiikkakirurgia Fin-Est",
+      "leveysaste": 60.162945,
+      "pituusaste": 24.943291,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 425,
+      "nimi": "Plastiikkakirurgia W",
+      "leveysaste": 61.49784,
+      "pituusaste": 23.768207,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 426,
+      "nimi": "Pohjois-Porin Terveysasema",
+      "leveysaste": 61.493365,
+      "pituusaste": 21.798955,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 427,
+      "nimi": "Polvijärven sosiaali- ja terveysasema",
+      "leveysaste": 62.857766,
+      "pituusaste": 29.371172,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 428,
+      "nimi": "Pomarkun sotepiste",
+      "leveysaste": 61.691684,
+      "pituusaste": 22.017071,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 429,
+      "nimi": "Pomarkun sotepiste",
+      "leveysaste": 61.691699,
+      "pituusaste": 22.017078,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 430,
+      "nimi": "Porin Sininauha Ry",
+      "leveysaste": 61.486289,
+      "pituusaste": 21.780269,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 431,
+      "nimi": "Porin Sininauha Ry",
+      "leveysaste": 61.48629,
+      "pituusaste": 21.780258,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 432,
+      "nimi": "Pornaisten terveysasema",
+      "leveysaste": 60.475619,
+      "pituusaste": 25.377516,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 433,
+      "nimi": "Pornaisten terveysasema",
+      "leveysaste": 60.475646,
+      "pituusaste": 25.377518,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 434,
+      "nimi": "Porvoon sosiaali- ja terveysasema",
+      "leveysaste": 60.385282,
+      "pituusaste": 25.645246,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 435,
+      "nimi": "Porvoon sosiaali- ja terveysasema",
+      "leveysaste": 60.385344,
+      "pituusaste": 25.645131,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 436,
+      "nimi": "Psykiatrian poliklinikka",
+      "leveysaste": 62.132551,
+      "pituusaste": 25.674543,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 437,
+      "nimi": "Psykiatrian poliklinikka",
+      "leveysaste": 62.132565,
+      "pituusaste": 25.674569,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 438,
+      "nimi": "Psykiatrian poliklinikka",
+      "leveysaste": 62.247804,
+      "pituusaste": 25.75867,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 439,
+      "nimi": "Psykiatrian päivystys",
+      "leveysaste": 65.015539,
+      "pituusaste": 25.51631,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 440,
+      "nimi": "Puijonlaakson lääkärikeskus",
+      "leveysaste": 62.90114,
+      "pituusaste": 27.649677,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 441,
+      "nimi": "Puistolan terveysasema",
+      "leveysaste": 60.27481,
+      "pituusaste": 25.034903,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 442,
+      "nimi": "Pukkilan sote-keskus",
+      "leveysaste": 60.644932,
+      "pituusaste": 25.577866,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 443,
+      "nimi": "Punkalaitumen lähiasiointipiste",
+      "leveysaste": 61.112798,
+      "pituusaste": 23.101073,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 444,
+      "nimi": "Punkalaitumen lähiasiointipiste",
+      "leveysaste": 61.1128,
+      "pituusaste": 23.101019,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 445,
+      "nimi": "Pusulan terveysasema",
+      "leveysaste": 60.4741,
+      "pituusaste": 23.985912,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 446,
+      "nimi": "Pusulan terveysasema",
+      "leveysaste": 60.474173,
+      "pituusaste": 23.985816,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 447,
+      "nimi": "Pyhtään terveysasema",
+      "leveysaste": 60.491797,
+      "pituusaste": 26.736855,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 448,
+      "nimi": "Pyhtään terveysasema",
+      "leveysaste": 60.491804,
+      "pituusaste": 26.736854,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 449,
+      "nimi": "Pyhäjoen terveysasema",
+      "leveysaste": 64.46366,
+      "pituusaste": 24.250861,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 450,
+      "nimi": "Pyhäjoen terveysasema",
+      "leveysaste": 64.463661,
+      "pituusaste": 24.250894,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 451,
+      "nimi": "Pyörön terveysasema",
+      "leveysaste": 62.83885,
+      "pituusaste": 27.643891,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 452,
+      "nimi": "Päihde- ja mielenterveysyksikkö",
+      "leveysaste": 60.486069,
+      "pituusaste": 22.171224,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 453,
+      "nimi": "Päihde- ja mielenterveysyksikkö",
+      "leveysaste": 60.486102,
+      "pituusaste": 22.171257,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 454,
+      "nimi": "Päihdeklinikka",
+      "leveysaste": 65.009674,
+      "pituusaste": 25.516613,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 455,
+      "nimi": "Päiväsairaala",
+      "leveysaste": 60.202429,
+      "pituusaste": 24.653896,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 456,
+      "nimi": "Pälkäneen Oma Asema",
+      "leveysaste": 61.339314,
+      "pituusaste": 24.270434,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 457,
+      "nimi": "Pälkäneen Oma Asema",
+      "leveysaste": 61.339318,
+      "pituusaste": 24.270432,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 458,
+      "nimi": "Raahen sosiaali- ja terveyskeskus",
+      "leveysaste": 64.696467,
+      "pituusaste": 24.471743,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 459,
+      "nimi": "Raision perhekeskus",
+      "leveysaste": 60.486332,
+      "pituusaste": 22.172587,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 460,
+      "nimi": "Raision perhekeskus",
+      "leveysaste": 60.486356,
+      "pituusaste": 22.172614,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 461,
+      "nimi": "Raision terveyskeskus",
+      "leveysaste": 60.503232,
+      "pituusaste": 22.142661,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 462,
+      "nimi": "Rantakylän terveysasema",
+      "leveysaste": 62.614109,
+      "pituusaste": 29.816289,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 463,
+      "nimi": "Rantakylän terveysasema",
+      "leveysaste": 62.614111,
+      "pituusaste": 29.81629,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 464,
+      "nimi": "Rautalammin terveyskeskus",
+      "leveysaste": 62.617003,
+      "pituusaste": 26.853687,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 465,
+      "nimi": "Reisjärven sosiaali- ja terveysasema",
+      "leveysaste": 63.608419,
+      "pituusaste": 24.923873,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 466,
+      "nimi": "Reisjärven sosiaali- ja terveysasema",
+      "leveysaste": 63.608433,
+      "pituusaste": 24.92391,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 467,
+      "nimi": "Reposaaren terveysasema",
+      "leveysaste": 61.612348,
+      "pituusaste": 21.443983,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 468,
+      "nimi": "Reumakeskus",
+      "leveysaste": 61.506061,
+      "pituusaste": 23.813045,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 469,
+      "nimi": "Rintaklinikka",
+      "leveysaste": 61.485288,
+      "pituusaste": 23.755635,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 470,
+      "nimi": "Rinteenkulman terveysasema",
+      "leveysaste": 66.502489,
+      "pituusaste": 25.724188,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 471,
+      "nimi": "Ritaharjun hyvinvointipiste",
+      "leveysaste": 65.07603,
+      "pituusaste": 25.445719,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 472,
+      "nimi": "Rokoteklinikka Ateneum",
+      "leveysaste": 60.169673,
+      "pituusaste": 24.943757,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 473,
+      "nimi": "Runosmäen terveysasema",
+      "leveysaste": 60.4854,
+      "pituusaste": 22.267736,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 474,
+      "nimi": "Runosmäen terveysasema",
+      "leveysaste": 60.485432,
+      "pituusaste": 22.267771,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 475,
+      "nimi": "Ruoholahden terveysasema",
+      "leveysaste": 60.162514,
+      "pituusaste": 24.902722,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 476,
+      "nimi": "Ruskon Terveysasema",
+      "leveysaste": 60.539864,
+      "pituusaste": 22.218593,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 477,
+      "nimi": "Ruskon Terveysasema",
+      "leveysaste": 60.5399,
+      "pituusaste": 22.218603,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 478,
+      "nimi": "Ruukin sosiaali- ja terveysasema",
+      "leveysaste": 64.660093,
+      "pituusaste": 25.104661,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 479,
+      "nimi": "Rönngården",
+      "leveysaste": 60.159648,
+      "pituusaste": 19.946161,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 480,
+      "nimi": "Rönngården",
+      "leveysaste": 60.159655,
+      "pituusaste": 19.946153,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 481,
+      "nimi": "Sahalahden OmaAsema",
+      "leveysaste": 61.476545,
+      "pituusaste": 24.334419,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 482,
+      "nimi": "Salpausselän Terveys",
+      "leveysaste": 60.982773,
+      "pituusaste": 25.65306,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 483,
+      "nimi": "Samarian terveysasema",
+      "leveysaste": 60.201947,
+      "pituusaste": 24.654052,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 484,
+      "nimi": "Sampoharjun neuvola",
+      "leveysaste": 62.248007,
+      "pituusaste": 25.869291,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 485,
+      "nimi": "Sampoharjun terveysasema",
+      "leveysaste": 62.248043,
+      "pituusaste": 25.869385,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 486,
+      "nimi": "Santahaminan terveysasema",
+      "leveysaste": 60.149563,
+      "pituusaste": 25.040215,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 487,
+      "nimi": "Santahaminan terveysasema",
+      "leveysaste": 60.149623,
+      "pituusaste": 25.040399,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 488,
+      "nimi": "Santahaminan terveysasema",
+      "leveysaste": 60.149625,
+      "pituusaste": 25.040266,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 489,
+      "nimi": "Santahaminan terveysasema",
+      "leveysaste": 60.149637,
+      "pituusaste": 25.04043,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 490,
+      "nimi": "Sarastus",
+      "leveysaste": 60.507762,
+      "pituusaste": 22.457179,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 491,
+      "nimi": "Sarastus",
+      "leveysaste": 60.507803,
+      "pituusaste": 22.45714,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 492,
+      "nimi": "Saunalahden neuvola",
+      "leveysaste": 60.164158,
+      "pituusaste": 24.615928,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 493,
+      "nimi": "Savukosken terveysasema",
+      "leveysaste": 67.292017,
+      "pituusaste": 28.15816,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 494,
+      "nimi": "Seinäjoen perhekeskus",
+      "leveysaste": 62.790781,
+      "pituusaste": 22.844985,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 495,
+      "nimi": "Selkäydinvammapoliklinikka",
+      "leveysaste": 61.48206,
+      "pituusaste": 23.752809,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 496,
+      "nimi": "Seppälääkärit",
+      "leveysaste": 62.261209,
+      "pituusaste": 25.778559,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 497,
+      "nimi": "Seulontamammografia",
+      "leveysaste": 61.484546,
+      "pituusaste": 23.756252,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 498,
+      "nimi": "Siilinjärven psykiatrian poliklinikka",
+      "leveysaste": 63.077635,
+      "pituusaste": 27.662407,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 499,
+      "nimi": "Silmäklinikka",
+      "leveysaste": 60.982831,
+      "pituusaste": 25.663294,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 500,
+      "nimi": "Silmäsairaala Espoo",
+      "leveysaste": 60.218147,
+      "pituusaste": 24.809445,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 501,
+      "nimi": "Silmäsairaala Pasila",
+      "leveysaste": 60.201499,
+      "pituusaste": 24.939366,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 502,
+      "nimi": "Silmäsairaala VALO Kouvola",
+      "leveysaste": 60.86839,
+      "pituusaste": 26.708756,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 503,
+      "nimi": "Simon terveyskeskus",
+      "leveysaste": 65.658059,
+      "pituusaste": 25.059401,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 504,
+      "nimi": "Simon terveyskeskus",
+      "leveysaste": 65.65811,
+      "pituusaste": 25.059414,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 505,
+      "nimi": "Sisätautien poliklinikka",
+      "leveysaste": 61.483917,
+      "pituusaste": 23.754546,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 506,
+      "nimi": "Soinin sosiaali- ja terveyspiste",
+      "leveysaste": 62.871494,
+      "pituusaste": 24.20745,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 507,
+      "nimi": "Soinin sosiaali- ja terveyspiste",
+      "leveysaste": 62.871524,
+      "pituusaste": 24.207484,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 508,
+      "nimi": "Sosiaali- ja terveystalo Samaria",
+      "leveysaste": 60.202004,
+      "pituusaste": 24.654186,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 509,
+      "nimi": "Sosiaali- ja terveystalo Samaria",
+      "leveysaste": 60.202014,
+      "pituusaste": 24.654221,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 510,
+      "nimi": "Suu- ja leukasairauksien poliklinikka",
+      "leveysaste": 61.506329,
+      "pituusaste": 23.812429,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 511,
+      "nimi": "Suupohjan perhekeskus",
+      "leveysaste": 62.415112,
+      "pituusaste": 22.171563,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 512,
+      "nimi": "Suutarilan terveysasema",
+      "leveysaste": 60.274985,
+      "pituusaste": 24.997934,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 513,
+      "nimi": "Suutarilan terveysasema",
+      "leveysaste": 60.274998,
+      "pituusaste": 24.997942,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 514,
+      "nimi": "Sydän­sai­raala",
+      "leveysaste": 61.504545,
+      "pituusaste": 23.813001,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 515,
+      "nimi": "Synlab",
+      "leveysaste": 60.169339,
+      "pituusaste": 24.92956,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 516,
+      "nimi": "Synlab",
+      "leveysaste": 60.176059,
+      "pituusaste": 24.804247,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 517,
+      "nimi": "Synlab",
+      "leveysaste": 60.867629,
+      "pituusaste": 26.701559,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 518,
+      "nimi": "Synlab",
+      "leveysaste": 61.492885,
+      "pituusaste": 23.768295,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 519,
+      "nimi": "Sysmän Sotekeskus",
+      "leveysaste": 61.510451,
+      "pituusaste": 25.683934,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 520,
+      "nimi": "Söderkullan lastenneuvola",
+      "leveysaste": 60.298619,
+      "pituusaste": 25.331787,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 521,
+      "nimi": "Söderkullan sosiaali- ja terveysasema",
+      "leveysaste": 60.298588,
+      "pituusaste": 25.331803,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 522,
+      "nimi": "Taipalsaaren hyvinvointiasema",
+      "leveysaste": 61.161833,
+      "pituusaste": 28.058882,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 523,
+      "nimi": "Taipalsaaren hyvinvointiasema",
+      "leveysaste": 61.161855,
+      "pituusaste": 28.058909,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 524,
+      "nimi": "Taivassalon terveysasema",
+      "leveysaste": 60.559278,
+      "pituusaste": 21.61052,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 525,
+      "nimi": "Tammelakeskuksen sosiaali- ja terveysasema",
+      "leveysaste": 61.499179,
+      "pituusaste": 23.78343,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 526,
+      "nimi": "Tarvasjoen terveysasema",
+      "leveysaste": 60.583271,
+      "pituusaste": 22.731343,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 527,
+      "nimi": "Tays Ensiapu Acuta",
+      "leveysaste": 61.505505,
+      "pituusaste": 23.813456,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 528,
+      "nimi": "Tays Silmäkeskus",
+      "leveysaste": 61.506935,
+      "pituusaste": 23.815884,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 529,
+      "nimi": "Tekonivelsairaala Coxa",
+      "leveysaste": 61.506197,
+      "pituusaste": 23.814866,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 530,
+      "nimi": "Tereveyskeskus",
+      "leveysaste": 69.405851,
+      "pituusaste": 25.837489,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 531,
+      "nimi": "Terveysasema",
+      "leveysaste": 61.026125,
+      "pituusaste": 21.689331,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 532,
+      "nimi": "Terveysasema",
+      "leveysaste": 61.026144,
+      "pituusaste": 21.689347,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 533,
+      "nimi": "Terveysasema",
+      "leveysaste": 61.206696,
+      "pituusaste": 22.083262,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 534,
+      "nimi": "Terveyskeskus",
+      "leveysaste": 62.812026,
+      "pituusaste": 28.488734,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 535,
+      "nimi": "Terveyskeskus",
+      "leveysaste": 62.812035,
+      "pituusaste": 28.488768,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 536,
+      "nimi": "Terveyskeskus Mehiläinen",
+      "leveysaste": 61.451085,
+      "pituusaste": 23.851188,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 537,
+      "nimi": "Terveyskeskus Mehiläinen Espoontori",
+      "leveysaste": 60.204277,
+      "pituusaste": 24.654853,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 538,
+      "nimi": "Terveyskeskus Mehiläinen Tampere Tesoma",
+      "leveysaste": 61.505204,
+      "pituusaste": 23.628409,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 539,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.161867,
+      "pituusaste": 24.738993,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 540,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.162751,
+      "pituusaste": 24.73709,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 541,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.175073,
+      "pituusaste": 24.805286,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 542,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.183411,
+      "pituusaste": 24.828245,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 543,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.184267,
+      "pituusaste": 24.830751,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 544,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.187535,
+      "pituusaste": 24.980095,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 545,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.189165,
+      "pituusaste": 24.826417,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 546,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.198755,
+      "pituusaste": 24.934038,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 547,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.210566,
+      "pituusaste": 25.078597,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 548,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.237145,
+      "pituusaste": 24.891392,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 549,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.252178,
+      "pituusaste": 25.011012,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 550,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.259969,
+      "pituusaste": 24.85298,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 551,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.292576,
+      "pituusaste": 25.043791,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 552,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.388176,
+      "pituusaste": 23.123883,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 553,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.449971,
+      "pituusaste": 22.259234,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 554,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.456871,
+      "pituusaste": 22.269773,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 555,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.456872,
+      "pituusaste": 22.269824,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 556,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.63655,
+      "pituusaste": 25.319135,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 557,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.799482,
+      "pituusaste": 21.41262,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 558,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.809371,
+      "pituusaste": 23.631188,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 559,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.852401,
+      "pituusaste": 23.057045,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 560,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.856939,
+      "pituusaste": 23.044517,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 561,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.868069,
+      "pituusaste": 26.704452,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 562,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.982438,
+      "pituusaste": 25.666269,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 563,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.982816,
+      "pituusaste": 25.656498,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 564,
+      "nimi": "Terveystalo",
+      "leveysaste": 60.988271,
+      "pituusaste": 25.514162,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 565,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.130486,
+      "pituusaste": 22.134554,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 566,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.131291,
+      "pituusaste": 21.499709,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 567,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.198847,
+      "pituusaste": 21.73114,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 568,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.203217,
+      "pituusaste": 26.031484,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 569,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.339515,
+      "pituusaste": 22.911515,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 570,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.451031,
+      "pituusaste": 23.851794,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 571,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.480379,
+      "pituusaste": 23.508659,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 572,
+      "nimi": "Terveystalo",
+      "leveysaste": 61.497557,
+      "pituusaste": 23.772691,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 573,
+      "nimi": "Terveystalo",
+      "leveysaste": 62.428956,
+      "pituusaste": 22.179475,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 574,
+      "nimi": "Terveystalo",
+      "leveysaste": 62.599568,
+      "pituusaste": 29.759558,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 575,
+      "nimi": "Terveystalo",
+      "leveysaste": 62.896529,
+      "pituusaste": 27.680542,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 576,
+      "nimi": "Terveystalo",
+      "leveysaste": 63.006228,
+      "pituusaste": 23.803669,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 577,
+      "nimi": "Terveystalo",
+      "leveysaste": 63.073376,
+      "pituusaste": 27.661657,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 578,
+      "nimi": "Terveystalo",
+      "leveysaste": 63.100825,
+      "pituusaste": 23.041543,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 579,
+      "nimi": "Terveystalo",
+      "leveysaste": 63.325742,
+      "pituusaste": 30.024483,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 580,
+      "nimi": "Terveystalo",
+      "leveysaste": 64.137913,
+      "pituusaste": 25.369567,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 581,
+      "nimi": "Terveystalo",
+      "leveysaste": 64.224457,
+      "pituusaste": 27.732363,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 582,
+      "nimi": "Terveystalo",
+      "leveysaste": 64.227977,
+      "pituusaste": 27.727335,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 583,
+      "nimi": "Terveystalo",
+      "leveysaste": 64.684954,
+      "pituusaste": 24.482855,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 584,
+      "nimi": "Terveystalo",
+      "leveysaste": 64.916368,
+      "pituusaste": 25.533768,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 585,
+      "nimi": "Terveystalo",
+      "leveysaste": 65.008934,
+      "pituusaste": 25.470048,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 586,
+      "nimi": "Terveystalo",
+      "leveysaste": 65.048966,
+      "pituusaste": 25.576074,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 587,
+      "nimi": "Terveystalo",
+      "leveysaste": 65.060744,
+      "pituusaste": 25.466545,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 588,
+      "nimi": "Terveystalo",
+      "leveysaste": 67.417696,
+      "pituusaste": 26.592774,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 589,
+      "nimi": "Terveystalo Bioteknia",
+      "leveysaste": 62.890052,
+      "pituusaste": 27.632292,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 590,
+      "nimi": "Terveystalo Espoontori",
+      "leveysaste": 60.204295,
+      "pituusaste": 24.65498,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 591,
+      "nimi": "Terveystalo Flamingo",
+      "leveysaste": 60.290379,
+      "pituusaste": 24.969856,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 592,
+      "nimi": "Terveystalo Fysioterapia",
+      "leveysaste": 61.203277,
+      "pituusaste": 26.031499,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 593,
+      "nimi": "Terveystalo Hamina Työterveys",
+      "leveysaste": 60.567657,
+      "pituusaste": 27.193725,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 594,
+      "nimi": "Terveystalo Helsinki Uniklinikka",
+      "leveysaste": 60.220149,
+      "pituusaste": 24.878899,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 595,
+      "nimi": "Terveystalo Herttoniemi",
+      "leveysaste": 60.193649,
+      "pituusaste": 25.035256,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 596,
+      "nimi": "Terveystalo Hyvinkää",
+      "leveysaste": 60.631604,
+      "pituusaste": 24.859687,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 597,
+      "nimi": "Terveystalo Jyväskylä",
+      "leveysaste": 62.244024,
+      "pituusaste": 25.748608,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 598,
+      "nimi": "Terveystalo Jämsä",
+      "leveysaste": 61.865085,
+      "pituusaste": 25.194406,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 599,
+      "nimi": "Terveystalo Kalajoki",
+      "leveysaste": 64.262687,
+      "pituusaste": 23.945055,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 600,
+      "nimi": "Terveystalo Kamppi",
+      "leveysaste": 60.169944,
+      "pituusaste": 24.931762,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 601,
+      "nimi": "Terveystalo Kerava",
+      "leveysaste": 60.400953,
+      "pituusaste": 25.106477,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 602,
+      "nimi": "Terveystalo Keskuskatu",
+      "leveysaste": 60.169557,
+      "pituusaste": 24.943504,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 603,
+      "nimi": "Terveystalo Kokkola",
+      "leveysaste": 63.838566,
+      "pituusaste": 23.129186,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 604,
+      "nimi": "Terveystalo Lahti Työterveys",
+      "leveysaste": 60.981902,
+      "pituusaste": 25.656925,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 605,
+      "nimi": "Terveystalo Lappeenranta",
+      "leveysaste": 61.056348,
+      "pituusaste": 28.191809,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 606,
+      "nimi": "Terveystalo Lapua",
+      "leveysaste": 62.972049,
+      "pituusaste": 23.030073,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 607,
+      "nimi": "Terveystalo Leppävaara",
+      "leveysaste": 60.216954,
+      "pituusaste": 24.814888,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 608,
+      "nimi": "Terveystalo Nummela",
+      "leveysaste": 60.330632,
+      "pituusaste": 24.32081,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 609,
+      "nimi": "Terveystalo Pitäjänmäki",
+      "leveysaste": 60.217968,
+      "pituusaste": 24.876279,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 610,
+      "nimi": "Terveystalo Pulssi",
+      "leveysaste": 60.452129,
+      "pituusaste": 22.25742,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 611,
+      "nimi": "Terveystalo Rauma",
+      "leveysaste": 61.129988,
+      "pituusaste": 21.503165,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 612,
+      "nimi": "Terveystalo Ruoholahti",
+      "leveysaste": 60.164054,
+      "pituusaste": 24.909482,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 613,
+      "nimi": "Terveystalo Savonlinna",
+      "leveysaste": 61.869079,
+      "pituusaste": 28.878635,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 614,
+      "nimi": "Terveystalo Seinäjoki",
+      "leveysaste": 62.788995,
+      "pituusaste": 22.833656,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 615,
+      "nimi": "Terveystalo Seinäjoki työterveys",
+      "leveysaste": 62.788492,
+      "pituusaste": 22.83382,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 616,
+      "nimi": "Terveystalo Tammisaari Ekenäs",
+      "leveysaste": 59.97517,
+      "pituusaste": 23.433951,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 617,
+      "nimi": "Terveystalo Tampere Prima",
+      "leveysaste": 61.497947,
+      "pituusaste": 23.768301,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 618,
+      "nimi": "Terveystalo Tornio",
+      "leveysaste": 65.842617,
+      "pituusaste": 24.143713,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 619,
+      "nimi": "Terveystalo Tuuri",
+      "leveysaste": 62.603279,
+      "pituusaste": 23.731306,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 620,
+      "nimi": "Terveystalo Vaasa",
+      "leveysaste": 63.098076,
+      "pituusaste": 21.616417,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 621,
+      "nimi": "Terveystalo Ylivieska",
+      "leveysaste": 64.07238,
+      "pituusaste": 24.539059,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 622,
+      "nimi": "Tervon terveysasema",
+      "leveysaste": 62.957768,
+      "pituusaste": 26.760413,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 623,
+      "nimi": "Tikkakosken neuvola",
+      "leveysaste": 62.389583,
+      "pituusaste": 25.647722,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 624,
+      "nimi": "Tikkakosken terveysasema",
+      "leveysaste": 62.389629,
+      "pituusaste": 25.64773,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 625,
+      "nimi": "Tikkurilan neuvola",
+      "leveysaste": 60.297376,
+      "pituusaste": 25.039574,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 626,
+      "nimi": "Tikkurilan sosiaali- ja terveysasema",
+      "leveysaste": 60.292947,
+      "pituusaste": 25.038439,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 627,
+      "nimi": "Tipotien sosiaali- ja terveysasema",
+      "leveysaste": 61.499364,
+      "pituusaste": 23.729085,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 628,
+      "nimi": "Tipotien sosiaali- ja terveysasema",
+      "leveysaste": 61.499371,
+      "pituusaste": 23.729087,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 629,
+      "nimi": "Tohmajärven terveysasema",
+      "leveysaste": 62.222047,
+      "pituusaste": 30.345474,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 630,
+      "nimi": "Torkinmäen terveysasema",
+      "leveysaste": 63.840116,
+      "pituusaste": 23.159107,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 631,
+      "nimi": "Torkinmäen terveysasema",
+      "leveysaste": 63.840142,
+      "pituusaste": 23.158924,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 632,
+      "nimi": "Tullinkulman työterveys",
+      "leveysaste": 61.497595,
+      "pituusaste": 23.777908,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 633,
+      "nimi": "Tullinkulman työterveys opiskelijaterveydenhuolto",
+      "leveysaste": 61.497123,
+      "pituusaste": 23.777914,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 634,
+      "nimi": "Tunkkarin terveyskeskus",
+      "leveysaste": 63.502017,
+      "pituusaste": 23.757728,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 635,
+      "nimi": "Tupoksen Kouluterveydenhuolto",
+      "leveysaste": 64.859195,
+      "pituusaste": 25.466474,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 636,
+      "nimi": "Tupoksen neuvola",
+      "leveysaste": 64.859287,
+      "pituusaste": 25.466628,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 637,
+      "nimi": "Turengin terveysasema",
+      "leveysaste": 60.928107,
+      "pituusaste": 24.64589,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 638,
+      "nimi": "Turengin terveysasema",
+      "leveysaste": 60.928134,
+      "pituusaste": 24.645824,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 639,
+      "nimi": "Turun Työterveystalo",
+      "leveysaste": 60.451353,
+      "pituusaste": 22.281837,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 640,
+      "nimi": "Tuupovaaran terveysasema",
+      "leveysaste": 62.480912,
+      "pituusaste": 30.619455,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 641,
+      "nimi": "Tuupovaaran terveysasema",
+      "leveysaste": 62.480919,
+      "pituusaste": 30.619461,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 642,
+      "nimi": "Tyks Aikuispsykiatrian poliklinikka Raisio",
+      "leveysaste": 60.485767,
+      "pituusaste": 22.167951,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 643,
+      "nimi": "Tyks Loimaan päivystys",
+      "leveysaste": 60.851644,
+      "pituusaste": 23.049952,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 644,
+      "nimi": "Työterveysasema",
+      "leveysaste": 60.316992,
+      "pituusaste": 25.501151,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 645,
+      "nimi": "Työterveysasema",
+      "leveysaste": 60.317006,
+      "pituusaste": 25.501171,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 646,
+      "nimi": "Työterveyshuolto Aurinkoristeys",
+      "leveysaste": 60.481097,
+      "pituusaste": 22.167353,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 647,
+      "nimi": "Työterveyspalvelut",
+      "leveysaste": 60.203557,
+      "pituusaste": 24.654678,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 648,
+      "nimi": "Unilabs Mediscan Oy",
+      "leveysaste": 60.167223,
+      "pituusaste": 24.931525,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 649,
+      "nimi": "Unipoliklinikka",
+      "leveysaste": 61.506592,
+      "pituusaste": 23.814798,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 650,
+      "nimi": "Urheilukadun terveysasema",
+      "leveysaste": 66.498731,
+      "pituusaste": 25.720642,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 651,
+      "nimi": "Urjalan lähiasema",
+      "leveysaste": 61.082285,
+      "pituusaste": 23.561756,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 652,
+      "nimi": "Urjalan lähiasema",
+      "leveysaste": 61.082367,
+      "pituusaste": 23.561805,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 653,
+      "nimi": "Utajärven terveysasema",
+      "leveysaste": 64.762038,
+      "pituusaste": 26.417972,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 654,
+      "nimi": "Utsjoen terveyskeskus",
+      "leveysaste": 69.900869,
+      "pituusaste": 27.016076,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 655,
+      "nimi": "Uudenkaupungin terveyskeskus",
+      "leveysaste": 60.794079,
+      "pituusaste": 21.426845,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 656,
+      "nimi": "Uudenmaan Työterveys Oy",
+      "leveysaste": 60.245466,
+      "pituusaste": 24.053171,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 657,
+      "nimi": "Uuraisten terveysasema",
+      "leveysaste": 62.501663,
+      "pituusaste": 25.431678,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 658,
+      "nimi": "Uuraisten terveysasema",
+      "leveysaste": 62.501668,
+      "pituusaste": 25.431708,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 659,
+      "nimi": "Vaalan terveysasema",
+      "leveysaste": 64.559173,
+      "pituusaste": 26.830014,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 660,
+      "nimi": "Vaalan terveysasema",
+      "leveysaste": 64.559228,
+      "pituusaste": 26.830052,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 661,
+      "nimi": "Valkealan terveysasema",
+      "leveysaste": 60.935129,
+      "pituusaste": 26.796931,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 662,
+      "nimi": "Vammaispalvelut",
+      "leveysaste": 60.203573,
+      "pituusaste": 24.654354,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 663,
+      "nimi": "Vankiterveydenhuolto",
+      "leveysaste": 60.201214,
+      "pituusaste": 24.898007,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 664,
+      "nimi": "Varissuon terveysasema",
+      "leveysaste": 60.448338,
+      "pituusaste": 22.2983,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 665,
+      "nimi": "Varissuon terveysasema",
+      "leveysaste": 60.44838,
+      "pituusaste": 22.298371,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 666,
+      "nimi": "Varuskuntasairaala",
+      "leveysaste": 60.75122,
+      "pituusaste": 24.790356,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 667,
+      "nimi": "Varuskuntasairaala",
+      "leveysaste": 60.751254,
+      "pituusaste": 24.790391,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 668,
+      "nimi": "Vatialan OmaAsema",
+      "leveysaste": 61.474779,
+      "pituusaste": 23.946576,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 669,
+      "nimi": "Vatsakeskus",
+      "leveysaste": 61.484104,
+      "pituusaste": 23.755464,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 670,
+      "nimi": "Veikkolan lastenneuvola",
+      "leveysaste": 60.271595,
+      "pituusaste": 24.445928,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 671,
+      "nimi": "Verisairauksien hoitopoliklinikka",
+      "leveysaste": 61.505041,
+      "pituusaste": 23.816871,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 672,
+      "nimi": "Vesannon terveysasema",
+      "leveysaste": 62.923424,
+      "pituusaste": 26.44225,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 673,
+      "nimi": "Vesannon terveysasema",
+      "leveysaste": 62.930707,
+      "pituusaste": 26.412834,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 674,
+      "nimi": "Vesannon terveysasema",
+      "leveysaste": 62.930707,
+      "pituusaste": 26.412884,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 675,
+      "nimi": "Vieremän terveysasema",
+      "leveysaste": 63.745463,
+      "pituusaste": 27.003545,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 676,
+      "nimi": "Vieremän terveysasema",
+      "leveysaste": 63.745514,
+      "pituusaste": 27.003698,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 677,
+      "nimi": "Vihannin sosiaali- ja terveysasema",
+      "leveysaste": 64.484842,
+      "pituusaste": 24.99184,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 678,
+      "nimi": "Viiskulman terveysasema",
+      "leveysaste": 60.160321,
+      "pituusaste": 24.940742,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 679,
+      "nimi": "Virkkalan terveysasema",
+      "leveysaste": 60.188437,
+      "pituusaste": 23.99811,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 680,
+      "nimi": "Virolahden terveysasema",
+      "leveysaste": 60.584173,
+      "pituusaste": 27.71373,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 681,
+      "nimi": "Virolahden terveysasema",
+      "leveysaste": 60.584275,
+      "pituusaste": 27.713839,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 682,
+      "nimi": "Vuosaaren terveysasema",
+      "leveysaste": 60.206356,
+      "pituusaste": 25.146569,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 683,
+      "nimi": "Vähäkyrön terveysasema",
+      "leveysaste": 63.054441,
+      "pituusaste": 22.110377,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 684,
+      "nimi": "WellMedic",
+      "leveysaste": 63.096494,
+      "pituusaste": 21.612168,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 685,
+      "nimi": "YTHS",
+      "leveysaste": 60.182249,
+      "pituusaste": 24.923,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 686,
+      "nimi": "YTHS",
+      "leveysaste": 61.063976,
+      "pituusaste": 28.09448,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 687,
+      "nimi": "YTHS",
+      "leveysaste": 62.894824,
+      "pituusaste": 27.656083,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 688,
+      "nimi": "YTHS",
+      "leveysaste": 65.057757,
+      "pituusaste": 25.471288,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 689,
+      "nimi": "YTHS Jyväskylä",
+      "leveysaste": 62.245554,
+      "pituusaste": 25.750657,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 690,
+      "nimi": "Yleissairaalapsykiatrian poliklinikka",
+      "leveysaste": 61.507349,
+      "pituusaste": 23.817757,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 691,
+      "nimi": "Ylioppilaiden terveydenhoitosäätiö",
+      "leveysaste": 60.190995,
+      "pituusaste": 24.831966,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 692,
+      "nimi": "Ylioppilaiden terveydenhoitosäätiö",
+      "leveysaste": 60.19101,
+      "pituusaste": 24.831958,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 693,
+      "nimi": "Ylioppilaiden terveydenhoitosäätiö",
+      "leveysaste": 60.456557,
+      "pituusaste": 22.293044,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 694,
+      "nimi": "Ylioppilaiden terveydenhoitosäätiö",
+      "leveysaste": 62.603584,
+      "pituusaste": 29.747967,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 695,
+      "nimi": "Ylioppilaiden terveydenhoitosäätiö - YTHS Tulli",
+      "leveysaste": 61.497938,
+      "pituusaste": 23.776026,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 696,
+      "nimi": "Ystadsgården",
+      "leveysaste": 59.974493,
+      "pituusaste": 23.444881,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 697,
+      "nimi": "Ystadsgården",
+      "leveysaste": 59.974551,
+      "pituusaste": 23.444843,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 698,
+      "nimi": "Ähtärin pääterveysasema",
+      "leveysaste": 62.553965,
+      "pituusaste": 24.07257,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 699,
+      "nimi": "Äänekosken terveysasema",
+      "leveysaste": 62.598181,
+      "pituusaste": 25.724964,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    },
+    {
+      "id": 700,
+      "nimi": "Övertorneå Vårdcentral",
+      "leveysaste": 66.38896,
+      "pituusaste": 23.652247,
+      "osm_avain": "amenity",
+      "osm_arvo": "clinic",
+      "osm_luokka": "amenity=clinic"
+    }
+  ],
+  "meta": {
+    "title": "Lääkäriasemat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Lääkäriasemat Suomessa — 700 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=clinic`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 45. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 700 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Lääkäriasemat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Lääkäriasemat – Suomi (OpenStreetMap) — 700 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 700 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

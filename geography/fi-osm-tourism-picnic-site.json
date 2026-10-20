@@ -1,0 +1,3211 @@
+{
+  "id": "fi-osm-tourism-picnic-site",
+  "name": "Retkeily- ja eväspaikat – Suomi (OpenStreetMap)",
+  "title": "Retkeily- ja eväspaikat – Suomi (OpenStreetMap)",
+  "description": "Retkeily- ja eväspaikat Suomessa — 350 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=picnic_site`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 7. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 350,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Aarnitulen varaustulipaikka",
+      "leveysaste": 60.297223,
+      "pituusaste": 24.559726,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 2,
+      "nimi": "Aarnitulen varaustulipaikka",
+      "leveysaste": 60.297232,
+      "pituusaste": 24.559789,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 3,
+      "nimi": "Aatsinginhauta",
+      "leveysaste": 66.834588,
+      "pituusaste": 28.894505,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 4,
+      "nimi": "Ahokoski",
+      "leveysaste": 63.190188,
+      "pituusaste": 30.899868,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 5,
+      "nimi": "Ahveniston kota",
+      "leveysaste": 60.99248,
+      "pituusaste": 24.418904,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 6,
+      "nimi": "Ahvenjärven tulipaikka",
+      "leveysaste": 64.020031,
+      "pituusaste": 26.644018,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 7,
+      "nimi": "Ahvenkoski",
+      "leveysaste": 60.492279,
+      "pituusaste": 26.452036,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 8,
+      "nimi": "Airovirta",
+      "leveysaste": 63.382682,
+      "pituusaste": 30.440048,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 9,
+      "nimi": "Aittojärvi",
+      "leveysaste": 64.767878,
+      "pituusaste": 29.85653,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 10,
+      "nimi": "Akionlahden lintutorni",
+      "leveysaste": 64.987262,
+      "pituusaste": 25.304336,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 11,
+      "nimi": "Amazonian evästila",
+      "leveysaste": 60.175473,
+      "pituusaste": 24.982952,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 12,
+      "nimi": "Annan Kaapin kenttä nuotiopaikka",
+      "leveysaste": 68.510479,
+      "pituusaste": 26.62744,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 13,
+      "nimi": "Ansakämppä tulentekopaikka",
+      "leveysaste": 66.348779,
+      "pituusaste": 29.443627,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 14,
+      "nimi": "Antinlahti tulipaikka + liiteri + käymälä",
+      "leveysaste": 66.568912,
+      "pituusaste": 27.43355,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 15,
+      "nimi": "Apajalahden tulipaikka",
+      "leveysaste": 62.99433,
+      "pituusaste": 29.930841,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 16,
+      "nimi": "Aurinkoterassi",
+      "leveysaste": 60.187348,
+      "pituusaste": 24.940915,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 17,
+      "nimi": "Bajimus Nammajavri",
+      "leveysaste": 69.826816,
+      "pituusaste": 26.922189,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 18,
+      "nimi": "Beahcelavojavrrit",
+      "leveysaste": 69.658556,
+      "pituusaste": 26.921232,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 19,
+      "nimi": "Bisajärven piknik-alue",
+      "leveysaste": 60.30732,
+      "pituusaste": 25.148807,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 20,
+      "nimi": "Bisajärven piknik-alue",
+      "leveysaste": 60.307321,
+      "pituusaste": 25.148847,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 21,
+      "nimi": "Björnviken keittokatos",
+      "leveysaste": 60.046763,
+      "pituusaste": 23.892343,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 22,
+      "nimi": "Björnviken keittokatos",
+      "leveysaste": 60.046777,
+      "pituusaste": 23.892341,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 23,
+      "nimi": "Eräholi",
+      "leveysaste": 63.691906,
+      "pituusaste": 27.993214,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 24,
+      "nimi": "Evon leirialue, Hiilestäjän tulentekopaikka",
+      "leveysaste": 61.204865,
+      "pituusaste": 25.124788,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 25,
+      "nimi": "Evon leirialue, Kulottajan tulentekopaikka",
+      "leveysaste": 61.205548,
+      "pituusaste": 25.119091,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 26,
+      "nimi": "Evon leirialue, Kympin nuotiopaikka",
+      "leveysaste": 61.20275,
+      "pituusaste": 25.120417,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 27,
+      "nimi": "Evon leirialue, Uittajan nuotiopaikka",
+      "leveysaste": 61.201578,
+      "pituusaste": 25.120996,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 28,
+      "nimi": "Gamajotnjalmmeluobbal nuotiopaikka",
+      "leveysaste": 69.591446,
+      "pituusaste": 26.808157,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 29,
+      "nimi": "Gamajotnsuohppasaja",
+      "leveysaste": 69.604015,
+      "pituusaste": 26.806854,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 30,
+      "nimi": "Gaskkamus Suohppasaja nuotiopaikka",
+      "leveysaste": 69.505834,
+      "pituusaste": 26.548144,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 31,
+      "nimi": "Geavvogeasladdot",
+      "leveysaste": 69.46438,
+      "pituusaste": 26.349656,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 32,
+      "nimi": "Grabbskog",
+      "leveysaste": 60.01619,
+      "pituusaste": 23.377389,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 33,
+      "nimi": "Grill",
+      "leveysaste": 61.842534,
+      "pituusaste": 29.23476,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 34,
+      "nimi": "Grilli paikka - Linnavuori",
+      "leveysaste": 61.752298,
+      "pituusaste": 28.32111,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 35,
+      "nimi": "Grillikatos",
+      "leveysaste": 67.021527,
+      "pituusaste": 27.251892,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 36,
+      "nimi": "Gölisnäs",
+      "leveysaste": 59.950864,
+      "pituusaste": 23.915473,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 37,
+      "nimi": "Haapaniemi",
+      "leveysaste": 63.644042,
+      "pituusaste": 28.838419,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 38,
+      "nimi": "Haljamin kota",
+      "leveysaste": 61.055078,
+      "pituusaste": 24.354005,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 39,
+      "nimi": "Hamarijärvi tulentekopaikka",
+      "leveysaste": 60.264054,
+      "pituusaste": 23.008799,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 40,
+      "nimi": "Hansun grilli",
+      "leveysaste": 60.666181,
+      "pituusaste": 22.27043,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 41,
+      "nimi": "Haravaniemi",
+      "leveysaste": 61.856576,
+      "pituusaste": 27.933166,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 42,
+      "nimi": "Harjujärvi",
+      "leveysaste": 61.886939,
+      "pituusaste": 26.012107,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 43,
+      "nimi": "Harrimukkajärvi",
+      "leveysaste": 68.412202,
+      "pituusaste": 28.247371,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 44,
+      "nimi": "Harrisuvanto",
+      "leveysaste": 68.417735,
+      "pituusaste": 28.285071,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 45,
+      "nimi": "Harrisuvanto alamutka tulentekopaikka",
+      "leveysaste": 66.266899,
+      "pituusaste": 29.470436,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 46,
+      "nimi": "Heargevarri tulentekopaikka",
+      "leveysaste": 69.869028,
+      "pituusaste": 26.952147,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 47,
+      "nimi": "Heinälammit",
+      "leveysaste": 60.796537,
+      "pituusaste": 27.26412,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 48,
+      "nimi": "Hepoköngäs",
+      "leveysaste": 64.819349,
+      "pituusaste": 27.876427,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 49,
+      "nimi": "Heraniemen keittokatos",
+      "leveysaste": 63.003683,
+      "pituusaste": 29.904563,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 50,
+      "nimi": "Hevonperseenmutka",
+      "leveysaste": 65.403936,
+      "pituusaste": 29.109053,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 51,
+      "nimi": "Hiidensaari virkistysalue",
+      "leveysaste": 61.00495,
+      "pituusaste": 26.436338,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 52,
+      "nimi": "Hirvashaudanoja tulipaikka",
+      "leveysaste": 67.897926,
+      "pituusaste": 29.256011,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 53,
+      "nimi": "Hoikanpään tulentekopaikka",
+      "leveysaste": 65.15704,
+      "pituusaste": 29.793865,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 54,
+      "nimi": "Holinlampi tulipaikka",
+      "leveysaste": 63.549728,
+      "pituusaste": 28.650138,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 55,
+      "nimi": "Holinmäki",
+      "leveysaste": 63.693036,
+      "pituusaste": 28.004284,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 56,
+      "nimi": "Holinpuro",
+      "leveysaste": 63.93359,
+      "pituusaste": 28.306208,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 57,
+      "nimi": "Hollihaan grillauspaikka",
+      "leveysaste": 65.009251,
+      "pituusaste": 25.453618,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 58,
+      "nimi": "Hollihaan grillauspaikka",
+      "leveysaste": 65.009254,
+      "pituusaste": 25.453627,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 59,
+      "nimi": "Honkakoski",
+      "leveysaste": 62.353043,
+      "pituusaste": 27.798089,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 60,
+      "nimi": "Honkaniemi",
+      "leveysaste": 61.931303,
+      "pituusaste": 23.417029,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 61,
+      "nimi": "Huhmarisvaara",
+      "leveysaste": 62.783585,
+      "pituusaste": 29.546286,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 62,
+      "nimi": "Hukkalammin tulipaikka",
+      "leveysaste": 63.213372,
+      "pituusaste": 30.937489,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 63,
+      "nimi": "Hukkalampi",
+      "leveysaste": 64.78886,
+      "pituusaste": 29.707338,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 64,
+      "nimi": "Huttujärvi grillikatos",
+      "leveysaste": 67.03026,
+      "pituusaste": 27.039346,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 65,
+      "nimi": "Hynkänlammen keittokatos",
+      "leveysaste": 60.269597,
+      "pituusaste": 24.615949,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 66,
+      "nimi": "Hynkänlammen keittokatos",
+      "leveysaste": 60.269604,
+      "pituusaste": 24.615949,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 67,
+      "nimi": "Hypöistenkoski katto",
+      "leveysaste": 60.649035,
+      "pituusaste": 22.59816,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 68,
+      "nimi": "Häkärinteiden nuotiopaikka",
+      "leveysaste": 62.354207,
+      "pituusaste": 26.614444,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 69,
+      "nimi": "Iso Pajuluoma tulipaikka",
+      "leveysaste": 65.58759,
+      "pituusaste": 28.888035,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 70,
+      "nimi": "Iso-Holman pieni tulentekopaikka",
+      "leveysaste": 60.311654,
+      "pituusaste": 24.488562,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 71,
+      "nimi": "Iso-Holman tulentekopaikka",
+      "leveysaste": 60.31259,
+      "pituusaste": 24.485392,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 72,
+      "nimi": "Iso-Kukkonen",
+      "leveysaste": 64.098335,
+      "pituusaste": 30.401102,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 73,
+      "nimi": "Iso-Kypärä",
+      "leveysaste": 60.649052,
+      "pituusaste": 24.742984,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 74,
+      "nimi": "Iso-Tuunainen",
+      "leveysaste": 62.060125,
+      "pituusaste": 28.586642,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 75,
+      "nimi": "Iso-Valkee",
+      "leveysaste": 60.50777,
+      "pituusaste": 23.715154,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 76,
+      "nimi": "Iso-Valkeinen",
+      "leveysaste": 63.81944,
+      "pituusaste": 29.192438,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 77,
+      "nimi": "Isoholma tulentekopaikka",
+      "leveysaste": 60.215068,
+      "pituusaste": 22.927485,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 78,
+      "nimi": "Isonkiven kämppä",
+      "leveysaste": 65.416519,
+      "pituusaste": 25.482437,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 79,
+      "nimi": "Isovuoren rengaspolun taukopaikka",
+      "leveysaste": 60.483941,
+      "pituusaste": 22.109558,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 80,
+      "nimi": "Jumalanhyväaho",
+      "leveysaste": 64.75401,
+      "pituusaste": 29.864618,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 81,
+      "nimi": "Juoksetuksenaho tulentekopaikka",
+      "leveysaste": 65.197297,
+      "pituusaste": 29.732304,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 82,
+      "nimi": "Jyrävä pohjoispuoli tulentekopaikka",
+      "leveysaste": 66.254776,
+      "pituusaste": 29.434613,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 83,
+      "nimi": "Kalavankka",
+      "leveysaste": 68.315821,
+      "pituusaste": 27.845477,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 84,
+      "nimi": "Kalkiaisuopaja",
+      "leveysaste": 66.835074,
+      "pituusaste": 27.546871,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 85,
+      "nimi": "Kalkkiruukki",
+      "leveysaste": 60.296176,
+      "pituusaste": 25.157497,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 86,
+      "nimi": "Kalliojärven nuotiopaikka",
+      "leveysaste": 63.916188,
+      "pituusaste": 28.469833,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 87,
+      "nimi": "Kalliosaaren keittokatos",
+      "leveysaste": 60.184665,
+      "pituusaste": 25.164276,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 88,
+      "nimi": "Kapiavesi",
+      "leveysaste": 61.162864,
+      "pituusaste": 26.843795,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 89,
+      "nimi": "Karhulahti",
+      "leveysaste": 61.184415,
+      "pituusaste": 26.824637,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 90,
+      "nimi": "Karhulinnan evästila",
+      "leveysaste": 60.174767,
+      "pituusaste": 24.988771,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 91,
+      "nimi": "Karhunkämmen",
+      "leveysaste": 62.917559,
+      "pituusaste": 31.567373,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 92,
+      "nimi": "Kariholma keittokatos",
+      "leveysaste": 60.211645,
+      "pituusaste": 22.931141,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 93,
+      "nimi": "Karinnokka",
+      "leveysaste": 67.6627,
+      "pituusaste": 24.910328,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 94,
+      "nimi": "Karkkimalan Myllyranta",
+      "leveysaste": 63.032815,
+      "pituusaste": 21.861406,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 95,
+      "nimi": "Katkeimanlampi tulipaikka",
+      "leveysaste": 65.580087,
+      "pituusaste": 28.89147,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 96,
+      "nimi": "Kattilajärvi tulipaikka",
+      "leveysaste": 60.29828,
+      "pituusaste": 24.620385,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 97,
+      "nimi": "Kattilakoski",
+      "leveysaste": 62.33046,
+      "pituusaste": 30.481733,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 98,
+      "nimi": "Kattilan keittokatos",
+      "leveysaste": 60.325873,
+      "pituusaste": 24.492581,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 99,
+      "nimi": "Kattilan tulentekopaikka",
+      "leveysaste": 60.325638,
+      "pituusaste": 24.494101,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 100,
+      "nimi": "Kattilan uusi tulipaikka",
+      "leveysaste": 60.325511,
+      "pituusaste": 24.494032,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 101,
+      "nimi": "Kattilaniemi",
+      "leveysaste": 63.386598,
+      "pituusaste": 30.442186,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 102,
+      "nimi": "Keittokatos",
+      "leveysaste": 60.657158,
+      "pituusaste": 24.643671,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 103,
+      "nimi": "Keittokatos",
+      "leveysaste": 62.313132,
+      "pituusaste": 29.750501,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 104,
+      "nimi": "Keittokatos Halkolammenoja",
+      "leveysaste": 60.331923,
+      "pituusaste": 24.670158,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 105,
+      "nimi": "Keittokatos Halkolammenoja",
+      "leveysaste": 60.331934,
+      "pituusaste": 24.670162,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 106,
+      "nimi": "Keittokatos Halkolampi",
+      "leveysaste": 60.329169,
+      "pituusaste": 24.665513,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 107,
+      "nimi": "Keittokatos Kaitalammenlahti",
+      "leveysaste": 60.319702,
+      "pituusaste": 24.663736,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 108,
+      "nimi": "Keittokatos Kaitalammenlahti",
+      "leveysaste": 60.319707,
+      "pituusaste": 24.663747,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 109,
+      "nimi": "Keittokatos Kaitalammensuo",
+      "leveysaste": 60.317493,
+      "pituusaste": 24.662845,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 110,
+      "nimi": "Keittokatos Kaitalampi",
+      "leveysaste": 60.32327,
+      "pituusaste": 24.663958,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 111,
+      "nimi": "Kelkutteen tulipaikka",
+      "leveysaste": 61.257092,
+      "pituusaste": 25.253483,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 112,
+      "nimi": "Kellokallio",
+      "leveysaste": 61.897793,
+      "pituusaste": 25.167946,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 113,
+      "nimi": "Keskiharju tulipaikka",
+      "leveysaste": 67.991878,
+      "pituusaste": 28.911619,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 114,
+      "nimi": "Kiiskilampi tulipaikka",
+      "leveysaste": 60.64655,
+      "pituusaste": 24.721517,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 115,
+      "nimi": "Kirkkosalmi",
+      "leveysaste": 61.32906,
+      "pituusaste": 25.451797,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 116,
+      "nimi": "Kirppuniemi, tulentekopaikka,",
+      "leveysaste": 64.129354,
+      "pituusaste": 27.231098,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 117,
+      "nimi": "Kirppuvirta",
+      "leveysaste": 63.384657,
+      "pituusaste": 30.462451,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 118,
+      "nimi": "Kiutaköngäs esteetön tulipaikka",
+      "leveysaste": 66.369766,
+      "pituusaste": 29.336,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 119,
+      "nimi": "Kivijärvenkoskien tulentekopaikka",
+      "leveysaste": 64.714006,
+      "pituusaste": 30.011197,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 120,
+      "nimi": "Kivisalmi",
+      "leveysaste": 63.78669,
+      "pituusaste": 29.894478,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 121,
+      "nimi": "Kiviselän levähdyspaikka",
+      "leveysaste": 62.262943,
+      "pituusaste": 24.649612,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 122,
+      "nimi": "Kokalmus",
+      "leveysaste": 65.461529,
+      "pituusaste": 29.360671,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 123,
+      "nimi": "Kolmensolan koivula",
+      "leveysaste": 60.46983,
+      "pituusaste": 21.932672,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 124,
+      "nimi": "Kolmoislammenranta varaustulentekopaikka",
+      "leveysaste": 60.294426,
+      "pituusaste": 24.502947,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 125,
+      "nimi": "Korkeasaaren tulipaikka",
+      "leveysaste": 65.920413,
+      "pituusaste": 29.579548,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 126,
+      "nimi": "Korkia-Maura nuotiopaikka",
+      "leveysaste": 68.838644,
+      "pituusaste": 27.645021,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 127,
+      "nimi": "Korsklinten",
+      "leveysaste": 60.049762,
+      "pituusaste": 22.676761,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 128,
+      "nimi": "Korsolampi",
+      "leveysaste": 60.152669,
+      "pituusaste": 24.365807,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 129,
+      "nimi": "Korvajokisuu",
+      "leveysaste": 66.061743,
+      "pituusaste": 27.27613,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 130,
+      "nimi": "Kotajärvi keittokatos",
+      "leveysaste": 62.854872,
+      "pituusaste": 25.465104,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 131,
+      "nimi": "Koukkulahti",
+      "leveysaste": 61.372364,
+      "pituusaste": 25.452426,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 132,
+      "nimi": "Koveron tulipaikka",
+      "leveysaste": 61.251668,
+      "pituusaste": 25.227053,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 133,
+      "nimi": "Kuikkalahti",
+      "leveysaste": 64.312671,
+      "pituusaste": 30.108476,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 134,
+      "nimi": "Kuottiinlampi",
+      "leveysaste": 63.266719,
+      "pituusaste": 30.834513,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 135,
+      "nimi": "Kurimon koski",
+      "leveysaste": 64.95407,
+      "pituusaste": 27.22782,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 136,
+      "nimi": "Kuutinkanava",
+      "leveysaste": 61.175078,
+      "pituusaste": 26.863666,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 137,
+      "nimi": "Kylmäluomenjärven tulipaikka",
+      "leveysaste": 65.571022,
+      "pituusaste": 28.630943,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 138,
+      "nimi": "Kynsiluoto",
+      "leveysaste": 63.133658,
+      "pituusaste": 21.541556,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 139,
+      "nimi": "Kynsiluoto",
+      "leveysaste": 63.13444,
+      "pituusaste": 21.545379,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 140,
+      "nimi": "Kyyhkysenvaara",
+      "leveysaste": 64.262195,
+      "pituusaste": 28.218321,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 141,
+      "nimi": "Käenpesä nuotiopaikka",
+      "leveysaste": 61.20154,
+      "pituusaste": 25.11722,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 142,
+      "nimi": "Kähkösenniemi",
+      "leveysaste": 66.165445,
+      "pituusaste": 25.197795,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 143,
+      "nimi": "Lakkapäänlahti",
+      "leveysaste": 63.385214,
+      "pituusaste": 30.488571,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 144,
+      "nimi": "Lamminranta",
+      "leveysaste": 60.898357,
+      "pituusaste": 26.684933,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 145,
+      "nimi": "Lapinsaaren grillikatos",
+      "leveysaste": 61.537328,
+      "pituusaste": 24.133811,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 146,
+      "nimi": "Lapinsalmi",
+      "leveysaste": 61.164556,
+      "pituusaste": 26.836648,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 147,
+      "nimi": "Lapinsalmi sisäänkäynti",
+      "leveysaste": 61.160318,
+      "pituusaste": 26.836429,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 148,
+      "nimi": "Lehtovaara",
+      "leveysaste": 65.427912,
+      "pituusaste": 28.698113,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 149,
+      "nimi": "Lempaankoski",
+      "leveysaste": 62.221744,
+      "pituusaste": 30.50474,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 150,
+      "nimi": "Lepopiste",
+      "leveysaste": 60.187085,
+      "pituusaste": 24.940863,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 151,
+      "nimi": "Lepopiste",
+      "leveysaste": 60.187103,
+      "pituusaste": 24.941075,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 152,
+      "nimi": "Levo",
+      "leveysaste": 61.057274,
+      "pituusaste": 21.579677,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 153,
+      "nimi": "Levonkallion nuotiopaikka",
+      "leveysaste": 61.025655,
+      "pituusaste": 24.483498,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 154,
+      "nimi": "Levähdyspaikka",
+      "leveysaste": 60.317554,
+      "pituusaste": 24.679978,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 155,
+      "nimi": "Levähdyspaikka",
+      "leveysaste": 60.318503,
+      "pituusaste": 24.681569,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 156,
+      "nimi": "Levähdyspaikka",
+      "leveysaste": 60.319133,
+      "pituusaste": 24.677348,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 157,
+      "nimi": "Levähdyspaikka Hauklampi",
+      "leveysaste": 60.334716,
+      "pituusaste": 24.684451,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 158,
+      "nimi": "Levähdyspaikka Mustalampi",
+      "leveysaste": 60.338746,
+      "pituusaste": 24.670396,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 159,
+      "nimi": "Levähdyspaikka Väärälampi",
+      "leveysaste": 60.334049,
+      "pituusaste": 24.663967,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 160,
+      "nimi": "Leväranta",
+      "leveysaste": 66.804113,
+      "pituusaste": 27.413553,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 161,
+      "nimi": "Likolahti",
+      "leveysaste": 63.089998,
+      "pituusaste": 29.833361,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 162,
+      "nimi": "Limpurinlampi tulentekopaikka",
+      "leveysaste": 64.871151,
+      "pituusaste": 29.595762,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 163,
+      "nimi": "Linlo marina",
+      "leveysaste": 60.030973,
+      "pituusaste": 24.423,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 164,
+      "nimi": "Lojukoski",
+      "leveysaste": 61.176462,
+      "pituusaste": 26.896,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 165,
+      "nimi": "Lotjanankoski",
+      "leveysaste": 68.402181,
+      "pituusaste": 28.220175,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 166,
+      "nimi": "Louhisaari tulentekopaikka",
+      "leveysaste": 62.078518,
+      "pituusaste": 28.605933,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 167,
+      "nimi": "Loukkojärvi",
+      "leveysaste": 64.577811,
+      "pituusaste": 26.5202,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 168,
+      "nimi": "Láŋkkája",
+      "leveysaste": 69.422236,
+      "pituusaste": 25.958149,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 169,
+      "nimi": "Löydönranta",
+      "leveysaste": 61.54934,
+      "pituusaste": 27.279299,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 170,
+      "nimi": "Majaniemi",
+      "leveysaste": 63.061261,
+      "pituusaste": 30.785105,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 171,
+      "nimi": "Malmviikinlahti tulentekopaikka",
+      "leveysaste": 60.240733,
+      "pituusaste": 22.90997,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 172,
+      "nimi": "Marjaniemen Nuotiopaikka",
+      "leveysaste": 65.04008,
+      "pituusaste": 24.550822,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 173,
+      "nimi": "Marjaniemen nuotiopaikka",
+      "leveysaste": 65.03958,
+      "pituusaste": 24.553204,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 174,
+      "nimi": "Markkuun luontopolku: kota",
+      "leveysaste": 64.767465,
+      "pituusaste": 25.777626,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 175,
+      "nimi": "Matin kota",
+      "leveysaste": 61.779709,
+      "pituusaste": 22.643444,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 176,
+      "nimi": "Merenoja",
+      "leveysaste": 66.356948,
+      "pituusaste": 29.370895,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 177,
+      "nimi": "Metsähallituksen nuotiopaikka",
+      "leveysaste": 63.958306,
+      "pituusaste": 29.560652,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 178,
+      "nimi": "Metsästysmaja",
+      "leveysaste": 61.354634,
+      "pituusaste": 29.112965,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 179,
+      "nimi": "Miikkula",
+      "leveysaste": 63.384755,
+      "pituusaste": 30.519818,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 180,
+      "nimi": "Muhikko",
+      "leveysaste": 60.717785,
+      "pituusaste": 27.681228,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 181,
+      "nimi": "Muorrakanmutka",
+      "leveysaste": 68.352368,
+      "pituusaste": 28.253528,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 182,
+      "nimi": "Muorravaarakanjoki",
+      "leveysaste": 68.308061,
+      "pituusaste": 28.265415,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 183,
+      "nimi": "Murrookangas",
+      "leveysaste": 63.35293,
+      "pituusaste": 30.465723,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 184,
+      "nimi": "Murrookoski",
+      "leveysaste": 63.349109,
+      "pituusaste": 30.473442,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 185,
+      "nimi": "Murroosuvanto",
+      "leveysaste": 63.349057,
+      "pituusaste": 30.478782,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 186,
+      "nimi": "Mustakoski",
+      "leveysaste": 69.358391,
+      "pituusaste": 25.814186,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 187,
+      "nimi": "Mustalahden tulentekopaikka",
+      "leveysaste": 64.695677,
+      "pituusaste": 29.619823,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 188,
+      "nimi": "Mutiansaari",
+      "leveysaste": 61.118873,
+      "pituusaste": 26.638244,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 189,
+      "nimi": "Mämminiemi",
+      "leveysaste": 62.065945,
+      "pituusaste": 25.80239,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 190,
+      "nimi": "Määkijä",
+      "leveysaste": 61.157368,
+      "pituusaste": 26.858307,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 191,
+      "nimi": "Määtänniemi",
+      "leveysaste": 64.314799,
+      "pituusaste": 30.166562,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 192,
+      "nimi": "Naltiojoki silta tulipaikka",
+      "leveysaste": 67.978792,
+      "pituusaste": 29.088252,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 193,
+      "nimi": "Nammalakuru tulentekopaikka",
+      "leveysaste": 68.129883,
+      "pituusaste": 24.056009,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 194,
+      "nimi": "Narkiperän venesatama",
+      "leveysaste": 66.627362,
+      "pituusaste": 27.445124,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 195,
+      "nimi": "Naukuniemi",
+      "leveysaste": 63.374713,
+      "pituusaste": 30.446816,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 196,
+      "nimi": "Niskakoski",
+      "leveysaste": 65.420041,
+      "pituusaste": 29.552525,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 197,
+      "nimi": "Niskala",
+      "leveysaste": 60.274269,
+      "pituusaste": 24.938075,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 198,
+      "nimi": "Niskalahti",
+      "leveysaste": 63.349636,
+      "pituusaste": 30.462462,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 199,
+      "nimi": "Njaggaleapmi",
+      "leveysaste": 69.63809,
+      "pituusaste": 26.904734,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 200,
+      "nimi": "Nuorttijoki tulipaikka",
+      "leveysaste": 67.786907,
+      "pituusaste": 29.207416,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 201,
+      "nimi": "Nuotio",
+      "leveysaste": 62.275561,
+      "pituusaste": 29.865351,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 202,
+      "nimi": "Nuotiopaikka",
+      "leveysaste": 60.357839,
+      "pituusaste": 24.984531,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 203,
+      "nimi": "Nuotiopaikka",
+      "leveysaste": 60.475208,
+      "pituusaste": 25.122547,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 204,
+      "nimi": "Nuotiopaikka",
+      "leveysaste": 60.490798,
+      "pituusaste": 25.051543,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 205,
+      "nimi": "Nuotiopaikka Ala-Livon / Korpikosken rantautumispaikan yhteydessä",
+      "leveysaste": 65.501809,
+      "pituusaste": 26.831891,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 206,
+      "nimi": "Nurmisaarenniemi tulentekopaikka",
+      "leveysaste": 66.348206,
+      "pituusaste": 29.445376,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 207,
+      "nimi": "Nuumaniemi",
+      "leveysaste": 61.100836,
+      "pituusaste": 26.657417,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 208,
+      "nimi": "Näköpelto",
+      "leveysaste": 61.614993,
+      "pituusaste": 27.253744,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 209,
+      "nimi": "Oleskelupaikka",
+      "leveysaste": 61.501479,
+      "pituusaste": 23.742929,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 210,
+      "nimi": "Olhava",
+      "leveysaste": 61.184891,
+      "pituusaste": 26.839096,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 211,
+      "nimi": "Oravankolon tulentekopaikka",
+      "leveysaste": 60.334473,
+      "pituusaste": 24.464506,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 212,
+      "nimi": "Ounasjärven tulistelupaikka",
+      "leveysaste": 68.368299,
+      "pituusaste": 23.549357,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 213,
+      "nimi": "Paasikoski",
+      "leveysaste": 63.406091,
+      "pituusaste": 30.493072,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 214,
+      "nimi": "Paasjoki",
+      "leveysaste": 68.263612,
+      "pituusaste": 27.880291,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 215,
+      "nimi": "Paaskoski",
+      "leveysaste": 60.898094,
+      "pituusaste": 26.792589,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 216,
+      "nimi": "Paasonkoski",
+      "leveysaste": 64.739654,
+      "pituusaste": 29.826327,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 217,
+      "nimi": "Pajuniemi tulipaikka",
+      "leveysaste": 65.587243,
+      "pituusaste": 28.891765,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 218,
+      "nimi": "Pakasaivon nuotiopaikka",
+      "leveysaste": 67.616957,
+      "pituusaste": 23.799799,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 219,
+      "nimi": "Palolampi",
+      "leveysaste": 60.65752,
+      "pituusaste": 24.342125,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 220,
+      "nimi": "Paratiisi",
+      "leveysaste": 60.365144,
+      "pituusaste": 24.48406,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 221,
+      "nimi": "Partala",
+      "leveysaste": 61.862775,
+      "pituusaste": 28.257259,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 222,
+      "nimi": "Peltosaari",
+      "leveysaste": 66.715768,
+      "pituusaste": 27.407105,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 223,
+      "nimi": "Perävaara, Hurtinranta",
+      "leveysaste": 66.747156,
+      "pituusaste": 27.471162,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 224,
+      "nimi": "Petäikköluoto tulentekopaikka pohj.",
+      "leveysaste": 62.085775,
+      "pituusaste": 28.555984,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 225,
+      "nimi": "Piilo",
+      "leveysaste": 63.173321,
+      "pituusaste": 30.862328,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 226,
+      "nimi": "Piknik-niitty",
+      "leveysaste": 60.13772,
+      "pituusaste": 24.995411,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 227,
+      "nimi": "Piknik-niitty",
+      "leveysaste": 60.137723,
+      "pituusaste": 24.995368,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 228,
+      "nimi": "Pirttimäki",
+      "leveysaste": 60.269928,
+      "pituusaste": 24.648222,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 229,
+      "nimi": "Pissinperän taukopaikka",
+      "leveysaste": 66.555455,
+      "pituusaste": 25.465009,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 230,
+      "nimi": "Pitkäjärvi",
+      "leveysaste": 64.554794,
+      "pituusaste": 26.49681,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 231,
+      "nimi": "Pitkäsaari eteläinen tulentekopaikka",
+      "leveysaste": 62.307241,
+      "pituusaste": 28.747429,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 232,
+      "nimi": "Pitkäsaari pohjoinen tulentekopaikka",
+      "leveysaste": 62.308479,
+      "pituusaste": 28.745441,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 233,
+      "nimi": "Pohjoisen Käärmeluodon avotulisija",
+      "leveysaste": 60.147814,
+      "pituusaste": 24.849117,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 234,
+      "nimi": "Pokkaniemi",
+      "leveysaste": 63.14652,
+      "pituusaste": 30.775052,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 235,
+      "nimi": "Pokkaniemi",
+      "leveysaste": 63.147824,
+      "pituusaste": 30.774114,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 236,
+      "nimi": "Portinjoki tulipaikka",
+      "leveysaste": 66.606412,
+      "pituusaste": 28.007086,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 237,
+      "nimi": "Porttikoski",
+      "leveysaste": 68.341886,
+      "pituusaste": 27.884119,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 238,
+      "nimi": "Porttimäen taukopaikka",
+      "leveysaste": 64.086286,
+      "pituusaste": 28.241693,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 239,
+      "nimi": "Puukonvuori",
+      "leveysaste": 61.395983,
+      "pituusaste": 27.114647,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 240,
+      "nimi": "Puumanni",
+      "leveysaste": 60.370482,
+      "pituusaste": 24.261814,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 241,
+      "nimi": "Puumanni",
+      "leveysaste": 60.370493,
+      "pituusaste": 24.2618,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 242,
+      "nimi": "Puuterassi",
+      "leveysaste": 60.188182,
+      "pituusaste": 24.836836,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 243,
+      "nimi": "Puuterassi",
+      "leveysaste": 60.188183,
+      "pituusaste": 24.836844,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 244,
+      "nimi": "Pyylinoja tulentekopaikka",
+      "leveysaste": 62.274527,
+      "pituusaste": 28.743445,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 245,
+      "nimi": "Pälkkimäoja",
+      "leveysaste": 68.252706,
+      "pituusaste": 28.061702,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 246,
+      "nimi": "Pälväniemi",
+      "leveysaste": 61.73195,
+      "pituusaste": 26.936018,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 247,
+      "nimi": "Pöllylampi",
+      "leveysaste": 64.125525,
+      "pituusaste": 28.265549,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 248,
+      "nimi": "Pöytä",
+      "leveysaste": 62.845686,
+      "pituusaste": 27.54861,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 249,
+      "nimi": "Rajakivi tulentekopaikka",
+      "leveysaste": 63.88236,
+      "pituusaste": 28.500792,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 250,
+      "nimi": "Rantakangas",
+      "leveysaste": 63.385875,
+      "pituusaste": 30.59398,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 251,
+      "nimi": "Rautatiesillan nuotiopaikka",
+      "leveysaste": 61.014188,
+      "pituusaste": 24.450284,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 252,
+      "nimi": "Rautuoja",
+      "leveysaste": 68.301829,
+      "pituusaste": 27.804077,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 253,
+      "nimi": "Riemiö",
+      "leveysaste": 61.857149,
+      "pituusaste": 28.001132,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 254,
+      "nimi": "Rihmakuru tulentekopaikka",
+      "leveysaste": 68.108475,
+      "pituusaste": 24.049494,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 255,
+      "nimi": "Riistapolku",
+      "leveysaste": 64.103286,
+      "pituusaste": 28.511386,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 256,
+      "nimi": "Ritajärventie",
+      "leveysaste": 61.450499,
+      "pituusaste": 22.92117,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 257,
+      "nimi": "Riuttasalmen leirikeskus",
+      "leveysaste": 61.642101,
+      "pituusaste": 22.12038,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 258,
+      "nimi": "Riuttasalmen leirikeskus",
+      "leveysaste": 61.642231,
+      "pituusaste": 22.120007,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 259,
+      "nimi": "Roajjasjavri",
+      "leveysaste": 69.573682,
+      "pituusaste": 26.773048,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 260,
+      "nimi": "Ruplahden tulipaikka",
+      "leveysaste": 61.275788,
+      "pituusaste": 25.247871,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 261,
+      "nimi": "Ruunaanjärvi",
+      "leveysaste": 63.40437,
+      "pituusaste": 30.538206,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 262,
+      "nimi": "Rysätarha",
+      "leveysaste": 60.3785,
+      "pituusaste": 24.274641,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 263,
+      "nimi": "Rysätarha",
+      "leveysaste": 60.378586,
+      "pituusaste": 24.274585,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 264,
+      "nimi": "Saapaskosken keittokatos",
+      "leveysaste": 64.732723,
+      "pituusaste": 29.790596,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 265,
+      "nimi": "Saapaskosken keittokatos",
+      "leveysaste": 64.732735,
+      "pituusaste": 29.790599,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 266,
+      "nimi": "Saarijärvi",
+      "leveysaste": 64.357094,
+      "pituusaste": 28.332584,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 267,
+      "nimi": "Saarikoski",
+      "leveysaste": 66.295337,
+      "pituusaste": 29.276098,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 268,
+      "nimi": "Saarinen",
+      "leveysaste": 64.583627,
+      "pituusaste": 26.452825,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 269,
+      "nimi": "Salpalinja - Marjalan museobunkkeri",
+      "leveysaste": 62.629863,
+      "pituusaste": 29.67103,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 270,
+      "nimi": "Sandö",
+      "leveysaste": 60.036332,
+      "pituusaste": 22.335757,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 271,
+      "nimi": "Saunaniemi",
+      "leveysaste": 63.36678,
+      "pituusaste": 30.543488,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 272,
+      "nimi": "Saunasaari",
+      "leveysaste": 62.808445,
+      "pituusaste": 29.565023,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 273,
+      "nimi": "Savilampi",
+      "leveysaste": 66.431907,
+      "pituusaste": 29.156677,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 274,
+      "nimi": "Selkäsaaren tulipaikka",
+      "leveysaste": 64.068436,
+      "pituusaste": 28.350945,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 275,
+      "nimi": "Siikajokisuun Kota",
+      "leveysaste": 64.852552,
+      "pituusaste": 24.7062,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 276,
+      "nimi": "Siikakoski",
+      "leveysaste": 63.341467,
+      "pituusaste": 30.474223,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 277,
+      "nimi": "Siikaniva tulentekopaikka",
+      "leveysaste": 64.742329,
+      "pituusaste": 29.935338,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 278,
+      "nimi": "Siilastupa alapuolinen tulentekopaikka",
+      "leveysaste": 66.254631,
+      "pituusaste": 29.437216,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 279,
+      "nimi": "Siilastupa tulentekopaikka",
+      "leveysaste": 66.253814,
+      "pituusaste": 29.436632,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 280,
+      "nimi": "Siltakoski",
+      "leveysaste": 63.763222,
+      "pituusaste": 29.870052,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 281,
+      "nimi": "Siltakoski",
+      "leveysaste": 63.79514,
+      "pituusaste": 29.795106,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 282,
+      "nimi": "Simstrand",
+      "leveysaste": 62.971909,
+      "pituusaste": 21.156787,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 283,
+      "nimi": "Sotajoki 1 tulipaikka",
+      "leveysaste": 67.803957,
+      "pituusaste": 29.116488,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 284,
+      "nimi": "Sotalampi",
+      "leveysaste": 64.71262,
+      "pituusaste": 29.21472,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 285,
+      "nimi": "Souru",
+      "leveysaste": 61.86362,
+      "pituusaste": 28.034244,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 286,
+      "nimi": "Stora Fagerö",
+      "leveysaste": 59.994686,
+      "pituusaste": 24.040478,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 287,
+      "nimi": "Storträskin eteläinen tulentekopaikka",
+      "leveysaste": 60.270361,
+      "pituusaste": 25.157951,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 288,
+      "nimi": "Storträskin pohjoinen esteetön keittokatos",
+      "leveysaste": 60.272526,
+      "pituusaste": 25.158151,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 289,
+      "nimi": "Sukeltajaniemi",
+      "leveysaste": 61.191909,
+      "pituusaste": 26.866154,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 290,
+      "nimi": "Sulalampi",
+      "leveysaste": 60.271684,
+      "pituusaste": 24.621381,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 291,
+      "nimi": "Suurijoki",
+      "leveysaste": 63.33745,
+      "pituusaste": 30.682535,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 292,
+      "nimi": "Syvyydenkaivo",
+      "leveysaste": 64.573104,
+      "pituusaste": 26.47516,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 293,
+      "nimi": "Syväniemi tulentekopaikka etelä",
+      "leveysaste": 62.23871,
+      "pituusaste": 28.814899,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 294,
+      "nimi": "Syväniemi tulentekopaikka pohjoinen",
+      "leveysaste": 62.239185,
+      "pituusaste": 28.813638,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 295,
+      "nimi": "Särkänpolvi",
+      "leveysaste": 64.757352,
+      "pituusaste": 30.00087,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 296,
+      "nimi": "Taimenlamminoja",
+      "leveysaste": 68.337059,
+      "pituusaste": 27.864616,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 297,
+      "nimi": "Taimenlampi",
+      "leveysaste": 68.342559,
+      "pituusaste": 27.836731,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 298,
+      "nimi": "Taivalkoski tulentekopaikka",
+      "leveysaste": 65.204167,
+      "pituusaste": 29.674043,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 299,
+      "nimi": "Takaniitunvuori nuotiopaikka",
+      "leveysaste": 60.73558,
+      "pituusaste": 22.339856,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 300,
+      "nimi": "Talas",
+      "leveysaste": 61.158816,
+      "pituusaste": 26.87889,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 301,
+      "nimi": "Tammikämpän autiotuvan tulipaikka",
+      "leveysaste": 67.900388,
+      "pituusaste": 23.863894,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 302,
+      "nimi": "Tapiola goahti",
+      "leveysaste": 69.64351,
+      "pituusaste": 26.912158,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 303,
+      "nimi": "Taruksenmäen tulipaikka",
+      "leveysaste": 61.287333,
+      "pituusaste": 25.260443,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 304,
+      "nimi": "Teerivaaran koulu",
+      "leveysaste": 63.999015,
+      "pituusaste": 28.250613,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 305,
+      "nimi": "Tervalammin laavu",
+      "leveysaste": 62.292104,
+      "pituusaste": 29.766765,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 306,
+      "nimi": "Tiilitehtaanmäki",
+      "leveysaste": 62.286891,
+      "pituusaste": 21.402947,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 307,
+      "nimi": "Toivio",
+      "leveysaste": 61.84622,
+      "pituusaste": 27.959884,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 308,
+      "nimi": "Tulentekopaikka",
+      "leveysaste": 62.748242,
+      "pituusaste": 27.814986,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 309,
+      "nimi": "Tulentekopaikka",
+      "leveysaste": 62.750365,
+      "pituusaste": 27.809686,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 310,
+      "nimi": "Tulentekopaikka",
+      "leveysaste": 64.301353,
+      "pituusaste": 27.467908,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 311,
+      "nimi": "Tulentekopaikka",
+      "leveysaste": 67.857585,
+      "pituusaste": 29.159756,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 312,
+      "nimi": "Tulijärvi tulentekopaikka",
+      "leveysaste": 65.309407,
+      "pituusaste": 29.637123,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 313,
+      "nimi": "Tulipaikka",
+      "leveysaste": 60.597231,
+      "pituusaste": 24.788676,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 314,
+      "nimi": "Tulipaikka",
+      "leveysaste": 60.625969,
+      "pituusaste": 24.698077,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 315,
+      "nimi": "Tulipaikka",
+      "leveysaste": 60.637198,
+      "pituusaste": 24.675633,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 316,
+      "nimi": "Tulipaikka",
+      "leveysaste": 60.640986,
+      "pituusaste": 24.766412,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 317,
+      "nimi": "Tulipaikka",
+      "leveysaste": 60.735093,
+      "pituusaste": 24.162791,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 318,
+      "nimi": "Tuppilampi",
+      "leveysaste": 66.077336,
+      "pituusaste": 27.315081,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 319,
+      "nimi": "Uimarannan keittokatos",
+      "leveysaste": 62.23324,
+      "pituusaste": 29.576031,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 320,
+      "nimi": "Urjan tulentekopaikka",
+      "leveysaste": 60.296931,
+      "pituusaste": 24.594641,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 321,
+      "nimi": "Valkealampi",
+      "leveysaste": 63.255647,
+      "pituusaste": 30.851139,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 322,
+      "nimi": "Valkjärvi",
+      "leveysaste": 61.1862,
+      "pituusaste": 26.855713,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 323,
+      "nimi": "Valkjärvi",
+      "leveysaste": 61.186406,
+      "pituusaste": 26.858201,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 324,
+      "nimi": "Varisköngäs",
+      "leveysaste": 64.843828,
+      "pituusaste": 28.789744,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 325,
+      "nimi": "Varjakan venesataman nuotiopaikka",
+      "leveysaste": 64.989538,
+      "pituusaste": 25.319795,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 326,
+      "nimi": "Varjakansaaren saunan nuotiopaikka",
+      "leveysaste": 64.99329,
+      "pituusaste": 25.315569,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 327,
+      "nimi": "Vasasuvanto keittokatos",
+      "leveysaste": 67.753334,
+      "pituusaste": 28.362758,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 328,
+      "nimi": "Veihtijärvi tulentekopaikka",
+      "leveysaste": 64.60125,
+      "pituusaste": 29.952784,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 329,
+      "nimi": "Vennynpuisto",
+      "leveysaste": 60.261424,
+      "pituusaste": 24.89418,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 330,
+      "nimi": "Vennynpuisto",
+      "leveysaste": 60.261424,
+      "pituusaste": 24.894182,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 331,
+      "nimi": "Verkkovaara",
+      "leveysaste": 63.062557,
+      "pituusaste": 29.787286,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 332,
+      "nimi": "Versö",
+      "leveysaste": 60.410722,
+      "pituusaste": 26.61061,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 333,
+      "nimi": "Vieremänjärvi tulentekopaikka",
+      "leveysaste": 65.403645,
+      "pituusaste": 29.635504,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 334,
+      "nimi": "Vikaköngäs",
+      "leveysaste": 66.619548,
+      "pituusaste": 26.187672,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 335,
+      "nimi": "Vintrinrauman kota",
+      "leveysaste": 60.892178,
+      "pituusaste": 21.256679,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 336,
+      "nimi": "Virtaniemi",
+      "leveysaste": 63.140938,
+      "pituusaste": 30.791658,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 337,
+      "nimi": "Visamäen piknikpaikka",
+      "leveysaste": 60.976773,
+      "pituusaste": 24.484497,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 338,
+      "nimi": "Vitta-apajanlehto tulentekopaikka",
+      "leveysaste": 67.846532,
+      "pituusaste": 29.155704,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 339,
+      "nimi": "Vortikka",
+      "leveysaste": 64.716929,
+      "pituusaste": 28.282469,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 340,
+      "nimi": "Vuorissalo virkistysalue",
+      "leveysaste": 61.793744,
+      "pituusaste": 25.527696,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 341,
+      "nimi": "Välioja",
+      "leveysaste": 60.213846,
+      "pituusaste": 22.948625,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 342,
+      "nimi": "Vääräjärvenmaan tulentekopaikka",
+      "leveysaste": 61.829294,
+      "pituusaste": 24.197025,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 343,
+      "nimi": "Väärälampi tulipaikka",
+      "leveysaste": 64.292368,
+      "pituusaste": 29.371177,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 344,
+      "nimi": "Ylikota tulentekopaikka",
+      "leveysaste": 66.273751,
+      "pituusaste": 29.539729,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 345,
+      "nimi": "Ylä-Murhi",
+      "leveysaste": 63.035825,
+      "pituusaste": 29.921095,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 346,
+      "nimi": "Ystävyydenpuisto",
+      "leveysaste": 60.303932,
+      "pituusaste": 25.00792,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 347,
+      "nimi": "melontareitin nuotiopaikka",
+      "leveysaste": 61.333376,
+      "pituusaste": 26.773919,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 348,
+      "nimi": "Äijäkoski",
+      "leveysaste": 67.904757,
+      "pituusaste": 23.60656,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 349,
+      "nimi": "Äitipetäjänlampi",
+      "leveysaste": 67.356071,
+      "pituusaste": 27.932977,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    },
+    {
+      "id": 350,
+      "nimi": "Ängesbölen tulipaikka",
+      "leveysaste": 60.343606,
+      "pituusaste": 25.206306,
+      "osm_avain": "tourism",
+      "osm_arvo": "picnic_site",
+      "osm_luokka": "tourism=picnic_site"
+    }
+  ],
+  "meta": {
+    "title": "Retkeily- ja eväspaikat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Retkeily- ja eväspaikat Suomessa — 350 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `tourism=picnic_site`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 7. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 350 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Retkeily- ja eväspaikat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Retkeily- ja eväspaikat – Suomi (OpenStreetMap) — 350 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 350 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

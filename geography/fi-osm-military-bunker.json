@@ -1,0 +1,2185 @@
+{
+  "id": "fi-osm-military-bunker",
+  "name": "Bunkkerit – Suomi (OpenStreetMap)",
+  "title": "Bunkkerit – Suomi (OpenStreetMap)",
+  "description": "Bunkkerit Suomessa — 236 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `military=bunker`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 236,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "100 56 TK",
+      "leveysaste": 60.130684,
+      "pituusaste": 24.996069,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 2,
+      "nimi": "100 56 TK",
+      "leveysaste": 60.131924,
+      "pituusaste": 25.000768,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 3,
+      "nimi": "100 56 TK",
+      "leveysaste": 60.132824,
+      "pituusaste": 24.996028,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 4,
+      "nimi": "100 56 TK",
+      "leveysaste": 60.133577,
+      "pituusaste": 24.997044,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 5,
+      "nimi": "130 TK",
+      "leveysaste": 60.369838,
+      "pituusaste": 26.96583,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 6,
+      "nimi": "152/22 D",
+      "leveysaste": 60.140067,
+      "pituusaste": 24.989238,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 7,
+      "nimi": "152/45 C naval gun",
+      "leveysaste": 60.100713,
+      "pituusaste": 25.014955,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 8,
+      "nimi": "152/50 T turret gun",
+      "leveysaste": 60.100766,
+      "pituusaste": 25.015422,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 9,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.096395,
+      "pituusaste": 25.045633,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 10,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.096395,
+      "pituusaste": 25.045637,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 11,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.097014,
+      "pituusaste": 25.045834,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 12,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.097015,
+      "pituusaste": 25.045834,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 13,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.097541,
+      "pituusaste": 25.047568,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 14,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.097542,
+      "pituusaste": 25.047568,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 15,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.101226,
+      "pituusaste": 25.056206,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 16,
+      "nimi": "152:mm tornikanuuna",
+      "leveysaste": 60.102369,
+      "pituusaste": 25.059171,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 17,
+      "nimi": "229 RM 77",
+      "leveysaste": 60.140184,
+      "pituusaste": 24.989169,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 18,
+      "nimi": "241",
+      "leveysaste": 60.640819,
+      "pituusaste": 27.603951,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 19,
+      "nimi": "242",
+      "leveysaste": 60.638785,
+      "pituusaste": 27.606508,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 20,
+      "nimi": "244",
+      "leveysaste": 60.648756,
+      "pituusaste": 27.614314,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 21,
+      "nimi": "246",
+      "leveysaste": 60.651121,
+      "pituusaste": 27.616341,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 22,
+      "nimi": "246A",
+      "leveysaste": 60.651011,
+      "pituusaste": 27.616419,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 23,
+      "nimi": "248",
+      "leveysaste": 60.653083,
+      "pituusaste": 27.615638,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 24,
+      "nimi": "249",
+      "leveysaste": 60.653786,
+      "pituusaste": 27.610956,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 25,
+      "nimi": "254/45 D naval gun",
+      "leveysaste": 60.10066,
+      "pituusaste": 25.014008,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 26,
+      "nimi": "272",
+      "leveysaste": 60.646575,
+      "pituusaste": 27.608788,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 27,
+      "nimi": "280 RK 77 tykki",
+      "leveysaste": 60.138391,
+      "pituusaste": 24.987758,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 28,
+      "nimi": "280 RK 77 tykki",
+      "leveysaste": 60.138394,
+      "pituusaste": 24.987091,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 29,
+      "nimi": "280 RK 77 tykki",
+      "leveysaste": 60.138412,
+      "pituusaste": 24.988198,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 30,
+      "nimi": "280 RK 77 tykki",
+      "leveysaste": 60.138484,
+      "pituusaste": 24.988689,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 31,
+      "nimi": "301",
+      "leveysaste": 59.936871,
+      "pituusaste": 23.285268,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 32,
+      "nimi": "301",
+      "leveysaste": 59.936904,
+      "pituusaste": 23.28532,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 33,
+      "nimi": "305/52 O2 turret gun",
+      "leveysaste": 60.100687,
+      "pituusaste": 25.01448,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 34,
+      "nimi": "351",
+      "leveysaste": 60.692795,
+      "pituusaste": 27.691198,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 35,
+      "nimi": "377",
+      "leveysaste": 60.688825,
+      "pituusaste": 27.690757,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 36,
+      "nimi": "378",
+      "leveysaste": 60.687943,
+      "pituusaste": 27.689746,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 37,
+      "nimi": "379",
+      "leveysaste": 60.689371,
+      "pituusaste": 27.689244,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 38,
+      "nimi": "386",
+      "leveysaste": 60.68787,
+      "pituusaste": 27.689269,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 39,
+      "nimi": "572",
+      "leveysaste": 60.695636,
+      "pituusaste": 27.690467,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 40,
+      "nimi": "573",
+      "leveysaste": 60.69416,
+      "pituusaste": 27.69152,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 41,
+      "nimi": "Aleksanterinpatteri",
+      "leveysaste": 60.134852,
+      "pituusaste": 24.998961,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 42,
+      "nimi": "Aleksanterinpatteri",
+      "leveysaste": 60.134854,
+      "pituusaste": 24.998964,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 43,
+      "nimi": "B132",
+      "leveysaste": 60.78434,
+      "pituusaste": 27.793489,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 44,
+      "nimi": "B150",
+      "leveysaste": 60.778783,
+      "pituusaste": 27.790695,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 45,
+      "nimi": "B182",
+      "leveysaste": 60.769028,
+      "pituusaste": 27.788221,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 46,
+      "nimi": "B186",
+      "leveysaste": 60.767728,
+      "pituusaste": 27.788167,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 47,
+      "nimi": "B304",
+      "leveysaste": 60.802408,
+      "pituusaste": 27.802499,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 48,
+      "nimi": "Bommari",
+      "leveysaste": 61.451028,
+      "pituusaste": 23.861674,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 49,
+      "nimi": "Bunkkeri 301",
+      "leveysaste": 59.938324,
+      "pituusaste": 23.289243,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 50,
+      "nimi": "Bunkkeri 303",
+      "leveysaste": 59.930059,
+      "pituusaste": 23.307772,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 51,
+      "nimi": "Bunkkeri 306",
+      "leveysaste": 59.925406,
+      "pituusaste": 23.308011,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 52,
+      "nimi": "Bunkkeri 307",
+      "leveysaste": 59.924922,
+      "pituusaste": 23.312972,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 53,
+      "nimi": "Bunkkeri 453",
+      "leveysaste": 59.924292,
+      "pituusaste": 23.309237,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 54,
+      "nimi": "Dummy 100 TK 56",
+      "leveysaste": 60.103122,
+      "pituusaste": 25.013837,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 55,
+      "nimi": "Dummy 100 TK 56",
+      "leveysaste": 60.103123,
+      "pituusaste": 25.013836,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 56,
+      "nimi": "Hostika C166",
+      "leveysaste": 60.775184,
+      "pituusaste": 27.790512,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 57,
+      "nimi": "Hostika C173",
+      "leveysaste": 60.773326,
+      "pituusaste": 27.790507,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 58,
+      "nimi": "Hostika C403+C402",
+      "leveysaste": 60.772223,
+      "pituusaste": 27.791146,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 59,
+      "nimi": "Itätorni - 305 mm:n Obuhov",
+      "leveysaste": 60.103484,
+      "pituusaste": 25.062893,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 60,
+      "nimi": "Itätorni - 305 mm:n Obuhov",
+      "leveysaste": 60.103498,
+      "pituusaste": 25.062909,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 61,
+      "nimi": "Kenttälinnoite",
+      "leveysaste": 60.849179,
+      "pituusaste": 26.601742,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 62,
+      "nimi": "Kenttälinnoite",
+      "leveysaste": 60.849215,
+      "pituusaste": 26.601792,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 63,
+      "nimi": "Kivikukko",
+      "leveysaste": 62.247805,
+      "pituusaste": 24.454525,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 64,
+      "nimi": "Koillisosan Patteri",
+      "leveysaste": 60.137684,
+      "pituusaste": 25.023859,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 65,
+      "nimi": "Koivusaaren metroaseman yleinen väestönsuoja",
+      "leveysaste": 60.163533,
+      "pituusaste": 24.854027,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 66,
+      "nimi": "Konekivääri ja Tykkikorsu 1",
+      "leveysaste": 61.074939,
+      "pituusaste": 28.135842,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 67,
+      "nimi": "Konekivääri ja Tykkikorsu 2",
+      "leveysaste": 61.07613,
+      "pituusaste": 28.137585,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 68,
+      "nimi": "Konekivääri/pst-tykkikorsu 25",
+      "leveysaste": 61.055772,
+      "pituusaste": 28.089653,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 69,
+      "nimi": "Konekiväärikorsu 139-900",
+      "leveysaste": 61.037129,
+      "pituusaste": 28.032924,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 70,
+      "nimi": "Konekiväärikorsu 18",
+      "leveysaste": 61.04194,
+      "pituusaste": 28.05059,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 71,
+      "nimi": "Konekiväärikorsu 23",
+      "leveysaste": 61.053218,
+      "pituusaste": 28.0866,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 72,
+      "nimi": "Konekiväärikorsu 24",
+      "leveysaste": 61.054029,
+      "pituusaste": 28.085873,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 73,
+      "nimi": "Konekiväärikorsu 27",
+      "leveysaste": 61.057844,
+      "pituusaste": 28.102833,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 74,
+      "nimi": "Konekiväärikorsu 4",
+      "leveysaste": 61.077094,
+      "pituusaste": 28.147315,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 75,
+      "nimi": "Konekiväärikorsu 5",
+      "leveysaste": 61.076421,
+      "pituusaste": 28.150391,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 76,
+      "nimi": "Konekiväärikorsu 6",
+      "leveysaste": 61.075763,
+      "pituusaste": 28.15275,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 77,
+      "nimi": "Konekiväärikorsu 8",
+      "leveysaste": 61.074697,
+      "pituusaste": 28.154279,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 78,
+      "nimi": "Konekiväärikorsu 86",
+      "leveysaste": 61.036573,
+      "pituusaste": 28.031682,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 79,
+      "nimi": "Konekiväärikorsu 901",
+      "leveysaste": 61.038592,
+      "pituusaste": 28.037923,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 80,
+      "nimi": "Konekiväärikorsu 903",
+      "leveysaste": 61.036723,
+      "pituusaste": 28.026394,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 81,
+      "nimi": "Konekiväärikorsu 904",
+      "leveysaste": 61.055838,
+      "pituusaste": 28.09358,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 82,
+      "nimi": "Korsu 104/7",
+      "leveysaste": 61.13456,
+      "pituusaste": 28.091525,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 83,
+      "nimi": "Korsu 104/8",
+      "leveysaste": 61.135196,
+      "pituusaste": 28.09364,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 84,
+      "nimi": "Korsu 131/143",
+      "leveysaste": 61.040254,
+      "pituusaste": 28.041744,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 85,
+      "nimi": "Korsu 252",
+      "leveysaste": 60.656917,
+      "pituusaste": 27.609534,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 86,
+      "nimi": "Korsu 301",
+      "leveysaste": 60.661806,
+      "pituusaste": 27.611729,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 87,
+      "nimi": "Korsu 302",
+      "leveysaste": 60.658208,
+      "pituusaste": 27.609071,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 88,
+      "nimi": "Korsu 303",
+      "leveysaste": 60.662555,
+      "pituusaste": 27.613166,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 89,
+      "nimi": "Korsu 304",
+      "leveysaste": 60.665525,
+      "pituusaste": 27.614266,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 90,
+      "nimi": "Korsu 306",
+      "leveysaste": 60.66722,
+      "pituusaste": 27.619562,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 91,
+      "nimi": "Korsu 307",
+      "leveysaste": 60.666858,
+      "pituusaste": 27.619012,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 92,
+      "nimi": "Korsu 308",
+      "leveysaste": 60.670076,
+      "pituusaste": 27.629836,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 93,
+      "nimi": "Korsu 309",
+      "leveysaste": 60.671054,
+      "pituusaste": 27.632803,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 94,
+      "nimi": "Korsu 310-443",
+      "leveysaste": 60.671132,
+      "pituusaste": 27.63645,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 95,
+      "nimi": "Korsu 312",
+      "leveysaste": 60.665178,
+      "pituusaste": 27.612167,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 96,
+      "nimi": "Korsu 313",
+      "leveysaste": 60.672132,
+      "pituusaste": 27.636479,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 97,
+      "nimi": "Korsu 314",
+      "leveysaste": 60.668694,
+      "pituusaste": 27.625712,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 98,
+      "nimi": "Korsu 316",
+      "leveysaste": 60.668715,
+      "pituusaste": 27.628867,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 99,
+      "nimi": "Korsu 329",
+      "leveysaste": 60.67968,
+      "pituusaste": 27.666303,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 100,
+      "nimi": "Korsu 330",
+      "leveysaste": 60.680601,
+      "pituusaste": 27.666651,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 101,
+      "nimi": "Korsu 333/332",
+      "leveysaste": 60.677674,
+      "pituusaste": 27.663047,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 102,
+      "nimi": "Korsu 334",
+      "leveysaste": 60.677114,
+      "pituusaste": 27.654654,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 103,
+      "nimi": "Korsu 335",
+      "leveysaste": 60.676484,
+      "pituusaste": 27.652194,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 104,
+      "nimi": "Korsu 352",
+      "leveysaste": 60.668347,
+      "pituusaste": 27.62577,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 105,
+      "nimi": "Korsu 354",
+      "leveysaste": 60.676363,
+      "pituusaste": 27.646854,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 106,
+      "nimi": "Korsu 355",
+      "leveysaste": 60.676165,
+      "pituusaste": 27.64315,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 107,
+      "nimi": "Korsu 384",
+      "leveysaste": 60.662236,
+      "pituusaste": 27.608564,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 108,
+      "nimi": "Korsu 4/R",
+      "leveysaste": 61.014496,
+      "pituusaste": 27.921776,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 109,
+      "nimi": "Korsu 427",
+      "leveysaste": 60.658492,
+      "pituusaste": 27.606784,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 110,
+      "nimi": "Korsu 433",
+      "leveysaste": 60.657705,
+      "pituusaste": 27.610402,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 111,
+      "nimi": "Korsu 437",
+      "leveysaste": 60.679325,
+      "pituusaste": 27.66668,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 112,
+      "nimi": "Korsu 5/R",
+      "leveysaste": 61.012613,
+      "pituusaste": 27.917836,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 113,
+      "nimi": "Korsu 624",
+      "leveysaste": 60.67216,
+      "pituusaste": 27.629851,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 114,
+      "nimi": "Korsu 8/R",
+      "leveysaste": 61.01421,
+      "pituusaste": 27.903658,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 115,
+      "nimi": "Korsu 9/R",
+      "leveysaste": 61.014069,
+      "pituusaste": 27.902732,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 116,
+      "nimi": "Korsu C10",
+      "leveysaste": 60.960203,
+      "pituusaste": 27.82373,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 117,
+      "nimi": "Korsu C11",
+      "leveysaste": 60.961426,
+      "pituusaste": 27.823365,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 118,
+      "nimi": "Korsu C113",
+      "leveysaste": 60.962593,
+      "pituusaste": 27.819148,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 119,
+      "nimi": "Korsu C12",
+      "leveysaste": 60.962807,
+      "pituusaste": 27.822714,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 120,
+      "nimi": "Korsu C401",
+      "leveysaste": 60.958022,
+      "pituusaste": 27.824096,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 121,
+      "nimi": "Korsu C402",
+      "leveysaste": 60.951869,
+      "pituusaste": 27.829575,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 122,
+      "nimi": "Korsu C417",
+      "leveysaste": 60.95848,
+      "pituusaste": 27.822606,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 123,
+      "nimi": "Korsu C418",
+      "leveysaste": 60.954996,
+      "pituusaste": 27.823794,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 124,
+      "nimi": "Korsu C419",
+      "leveysaste": 60.953912,
+      "pituusaste": 27.824682,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 125,
+      "nimi": "Korsu C420",
+      "leveysaste": 60.952334,
+      "pituusaste": 27.828436,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 126,
+      "nimi": "Korsu C498",
+      "leveysaste": 60.953198,
+      "pituusaste": 27.825628,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 127,
+      "nimi": "Korsu C57",
+      "leveysaste": 60.955391,
+      "pituusaste": 27.82291,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 128,
+      "nimi": "Korsu C58",
+      "leveysaste": 60.958915,
+      "pituusaste": 27.822209,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 129,
+      "nimi": "Korsu C59",
+      "leveysaste": 60.961258,
+      "pituusaste": 27.82207,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 130,
+      "nimi": "Korsu C60",
+      "leveysaste": 60.962632,
+      "pituusaste": 27.82135,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 131,
+      "nimi": "Korsu C8",
+      "leveysaste": 60.951579,
+      "pituusaste": 27.83052,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 132,
+      "nimi": "Korsu C9",
+      "leveysaste": 60.955607,
+      "pituusaste": 27.82391,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 133,
+      "nimi": "Kuuvuoren väestönsuoja",
+      "leveysaste": 60.4589,
+      "pituusaste": 22.298219,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 134,
+      "nimi": "Lillagråttan",
+      "leveysaste": 59.780811,
+      "pituusaste": 21.369787,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 135,
+      "nimi": "Länsijyrkänteen patteri",
+      "leveysaste": 60.135892,
+      "pituusaste": 24.996806,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 136,
+      "nimi": "Länsijyrkänteen patteri",
+      "leveysaste": 60.135901,
+      "pituusaste": 24.99682,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 137,
+      "nimi": "Majoitusbunkkerit 6/R ja 7/R",
+      "leveysaste": 61.012701,
+      "pituusaste": 27.91205,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 138,
+      "nimi": "Majoituskorsu 14",
+      "leveysaste": 61.038857,
+      "pituusaste": 28.038807,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 139,
+      "nimi": "Majoituskorsu 89",
+      "leveysaste": 61.055287,
+      "pituusaste": 28.092022,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 140,
+      "nimi": "Majoituskorsu 90",
+      "leveysaste": 61.055681,
+      "pituusaste": 28.093563,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 141,
+      "nimi": "Mallan luonnonpuiston korsu",
+      "leveysaste": 69.069006,
+      "pituusaste": 20.689708,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 142,
+      "nimi": "Maskingevärsnäste",
+      "leveysaste": 59.78045,
+      "pituusaste": 21.368175,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 143,
+      "nimi": "Mehikkala",
+      "leveysaste": 60.683453,
+      "pituusaste": 27.669926,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 144,
+      "nimi": "Mehikkala C321",
+      "leveysaste": 60.685018,
+      "pituusaste": 27.678107,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 145,
+      "nimi": "Mehikkala C322",
+      "leveysaste": 60.684975,
+      "pituusaste": 27.676046,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 146,
+      "nimi": "Mehikkala Pallokorsu C611",
+      "leveysaste": 60.683597,
+      "pituusaste": 27.66754,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 147,
+      "nimi": "Mikkolanmäen ilmatorjuntapatteri",
+      "leveysaste": 60.442916,
+      "pituusaste": 22.317751,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 148,
+      "nimi": "Museoitu raunio",
+      "leveysaste": 60.078717,
+      "pituusaste": 24.144959,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 149,
+      "nimi": "Obuhov cannon",
+      "leveysaste": 59.807167,
+      "pituusaste": 22.338576,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 150,
+      "nimi": "Obuhov cannon",
+      "leveysaste": 59.807168,
+      "pituusaste": 22.338592,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 151,
+      "nimi": "Pallokorsu 179",
+      "leveysaste": 61.059016,
+      "pituusaste": 28.093906,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 152,
+      "nimi": "Pallokorsu 180",
+      "leveysaste": 61.059807,
+      "pituusaste": 28.097482,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 153,
+      "nimi": "Pallokorsu 181",
+      "leveysaste": 61.058741,
+      "pituusaste": 28.101626,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 154,
+      "nimi": "Pallokorsu 182",
+      "leveysaste": 61.058836,
+      "pituusaste": 28.102318,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 155,
+      "nimi": "Pallokorsu 612",
+      "leveysaste": 60.683194,
+      "pituusaste": 27.668069,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 156,
+      "nimi": "Pallokorsu 613",
+      "leveysaste": 60.682344,
+      "pituusaste": 27.66749,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 157,
+      "nimi": "Pallokorsu 615",
+      "leveysaste": 60.679169,
+      "pituusaste": 27.664162,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 158,
+      "nimi": "Pallokorsu 616",
+      "leveysaste": 60.678475,
+      "pituusaste": 27.661079,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 159,
+      "nimi": "Pallokorsu 619",
+      "leveysaste": 60.679056,
+      "pituusaste": 27.655942,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 160,
+      "nimi": "Pallokorsu 620",
+      "leveysaste": 60.678319,
+      "pituusaste": 27.654726,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 161,
+      "nimi": "Pallokorsu 621",
+      "leveysaste": 60.674733,
+      "pituusaste": 27.640386,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 162,
+      "nimi": "Pallokorsu 622",
+      "leveysaste": 60.674265,
+      "pituusaste": 27.640024,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 163,
+      "nimi": "Pallokorsu 623",
+      "leveysaste": 60.673358,
+      "pituusaste": 27.636319,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 164,
+      "nimi": "Pallokorsu 625",
+      "leveysaste": 60.669637,
+      "pituusaste": 27.623296,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 165,
+      "nimi": "Patteri I",
+      "leveysaste": 60.133956,
+      "pituusaste": 25.020486,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 166,
+      "nimi": "Patteri II",
+      "leveysaste": 60.134058,
+      "pituusaste": 25.01811,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 167,
+      "nimi": "Patteri III",
+      "leveysaste": 60.13419,
+      "pituusaste": 25.015821,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 168,
+      "nimi": "Patteri IV",
+      "leveysaste": 60.134081,
+      "pituusaste": 25.0146,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 169,
+      "nimi": "Patteri IV",
+      "leveysaste": 60.134084,
+      "pituusaste": 25.014573,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 170,
+      "nimi": "Patteri IX",
+      "leveysaste": 60.13265,
+      "pituusaste": 25.000928,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 171,
+      "nimi": "Patteri V",
+      "leveysaste": 60.13562,
+      "pituusaste": 25.019419,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 172,
+      "nimi": "Patteri V",
+      "leveysaste": 60.135623,
+      "pituusaste": 25.019458,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 173,
+      "nimi": "Patteri VI",
+      "leveysaste": 60.134117,
+      "pituusaste": 25.022621,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 174,
+      "nimi": "Patteri VII",
+      "leveysaste": 60.132158,
+      "pituusaste": 24.99704,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 175,
+      "nimi": "Patteri VII",
+      "leveysaste": 60.134567,
+      "pituusaste": 25.013266,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 176,
+      "nimi": "Patteri VIII",
+      "leveysaste": 60.130837,
+      "pituusaste": 24.997558,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 177,
+      "nimi": "Patteri VIII",
+      "leveysaste": 60.130838,
+      "pituusaste": 24.997559,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 178,
+      "nimi": "Patteri X",
+      "leveysaste": 60.134977,
+      "pituusaste": 25.004975,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 179,
+      "nimi": "Patteri X",
+      "leveysaste": 60.134981,
+      "pituusaste": 25.004953,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 180,
+      "nimi": "Patteri XI",
+      "leveysaste": 60.138889,
+      "pituusaste": 25.008975,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 181,
+      "nimi": "Patteri Xb",
+      "leveysaste": 60.13535,
+      "pituusaste": 25.008895,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 182,
+      "nimi": "Raatikanvaara korsu",
+      "leveysaste": 65.241379,
+      "pituusaste": 29.581213,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 183,
+      "nimi": "Ruutikellari 50",
+      "leveysaste": 60.135441,
+      "pituusaste": 24.997792,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 184,
+      "nimi": "Ruutikellari 50",
+      "leveysaste": 60.135463,
+      "pituusaste": 24.99783,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 185,
+      "nimi": "Ruutikellari 51",
+      "leveysaste": 60.13583,
+      "pituusaste": 24.996817,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 186,
+      "nimi": "Ruutikellari 51",
+      "leveysaste": 60.135852,
+      "pituusaste": 24.996856,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 187,
+      "nimi": "Ruutikellari 53",
+      "leveysaste": 60.136289,
+      "pituusaste": 24.995886,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 188,
+      "nimi": "Ruutikellari 53",
+      "leveysaste": 60.136318,
+      "pituusaste": 24.995937,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 189,
+      "nimi": "Ruutikellari 55",
+      "leveysaste": 60.13657,
+      "pituusaste": 24.996092,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 190,
+      "nimi": "Ruutikellari 56",
+      "leveysaste": 60.137113,
+      "pituusaste": 24.995787,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 191,
+      "nimi": "Ruutikellari 57",
+      "leveysaste": 60.137251,
+      "pituusaste": 24.995696,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 192,
+      "nimi": "Ruutikellari 58",
+      "leveysaste": 60.137175,
+      "pituusaste": 24.996406,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 193,
+      "nimi": "Ruutivarasto 54",
+      "leveysaste": 60.136464,
+      "pituusaste": 24.996577,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 194,
+      "nimi": "Ruutivarasto 61",
+      "leveysaste": 60.139176,
+      "pituusaste": 24.99482,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 195,
+      "nimi": "Saksalaiskasematti",
+      "leveysaste": 60.099837,
+      "pituusaste": 25.054383,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 196,
+      "nimi": "Salpa-Asema",
+      "leveysaste": 60.961487,
+      "pituusaste": 27.823219,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 197,
+      "nimi": "Salpa-Asema",
+      "leveysaste": 61.400189,
+      "pituusaste": 28.648439,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 198,
+      "nimi": "Soikonvuoren luola",
+      "leveysaste": 60.635012,
+      "pituusaste": 27.61407,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 199,
+      "nimi": "Storagråttan",
+      "leveysaste": 59.78053,
+      "pituusaste": 21.369875,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 200,
+      "nimi": "Teräspesäke 1336",
+      "leveysaste": 60.951587,
+      "pituusaste": 27.828836,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 201,
+      "nimi": "Teräspesäke 1338",
+      "leveysaste": 60.958716,
+      "pituusaste": 27.821763,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 202,
+      "nimi": "Teräspesäke 1340",
+      "leveysaste": 60.961451,
+      "pituusaste": 27.823239,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 203,
+      "nimi": "Teräspesäke 1341",
+      "leveysaste": 60.962812,
+      "pituusaste": 27.822515,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 204,
+      "nimi": "Teräspesäke 1342",
+      "leveysaste": 60.96264,
+      "pituusaste": 27.820867,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 205,
+      "nimi": "Tietoyhteysbunkkeri",
+      "leveysaste": 62.259667,
+      "pituusaste": 24.455685,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 206,
+      "nimi": "Tiilikallion tykkiasema",
+      "leveysaste": 60.496249,
+      "pituusaste": 27.430525,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 207,
+      "nimi": "Tulenjohtokorsu 149",
+      "leveysaste": 61.065891,
+      "pituusaste": 28.110703,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 208,
+      "nimi": "Tulenjohtokorsu 149",
+      "leveysaste": 61.065914,
+      "pituusaste": 28.110759,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 209,
+      "nimi": "Tulenjohtokorsu 3",
+      "leveysaste": 61.074658,
+      "pituusaste": 28.137574,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 210,
+      "nimi": "Tykkiasema 65 Artillery station 65 (WW 1)",
+      "leveysaste": 60.21895,
+      "pituusaste": 25.067224,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 211,
+      "nimi": "Vanha pommisuoja",
+      "leveysaste": 61.136483,
+      "pituusaste": 21.49087,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 212,
+      "nimi": "Vanha pommisuoja",
+      "leveysaste": 61.136493,
+      "pituusaste": 21.49088,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 213,
+      "nimi": "Vesikonvuoren tykkiasema",
+      "leveysaste": 60.49617,
+      "pituusaste": 27.446134,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 214,
+      "nimi": "Viaporin maarintaman ampumatarvikevarasto",
+      "leveysaste": 60.187707,
+      "pituusaste": 24.895405,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 215,
+      "nimi": "Virolahti C10",
+      "leveysaste": 60.526104,
+      "pituusaste": 27.549819,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 216,
+      "nimi": "Virolahti C11",
+      "leveysaste": 60.527165,
+      "pituusaste": 27.546956,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 217,
+      "nimi": "Virolahti C15",
+      "leveysaste": 60.535446,
+      "pituusaste": 27.552155,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 218,
+      "nimi": "Virolahti C16",
+      "leveysaste": 60.535172,
+      "pituusaste": 27.548219,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 219,
+      "nimi": "Virolahti C164",
+      "leveysaste": 60.492034,
+      "pituusaste": 27.563887,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 220,
+      "nimi": "Virolahti C164A",
+      "leveysaste": 60.492103,
+      "pituusaste": 27.564518,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 221,
+      "nimi": "Virolahti C165",
+      "leveysaste": 60.495192,
+      "pituusaste": 27.573982,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 222,
+      "nimi": "Virolahti C17",
+      "leveysaste": 60.541089,
+      "pituusaste": 27.548293,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 223,
+      "nimi": "Virolahti C170-171",
+      "leveysaste": 60.509878,
+      "pituusaste": 27.565943,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 224,
+      "nimi": "Virolahti C179",
+      "leveysaste": 60.521467,
+      "pituusaste": 27.55232,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 225,
+      "nimi": "Virolahti C181",
+      "leveysaste": 60.531329,
+      "pituusaste": 27.551902,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 226,
+      "nimi": "Virolahti C182",
+      "leveysaste": 60.531515,
+      "pituusaste": 27.553218,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 227,
+      "nimi": "Virolahti C2",
+      "leveysaste": 60.526809,
+      "pituusaste": 27.546249,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 228,
+      "nimi": "Virolahti C20",
+      "leveysaste": 60.501595,
+      "pituusaste": 27.569064,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 229,
+      "nimi": "Virolahti C3",
+      "leveysaste": 60.528464,
+      "pituusaste": 27.542186,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 230,
+      "nimi": "Virolahti C43",
+      "leveysaste": 60.494156,
+      "pituusaste": 27.565741,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 231,
+      "nimi": "Virolahti C44",
+      "leveysaste": 60.49123,
+      "pituusaste": 27.564429,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 232,
+      "nimi": "Virolahti C48A",
+      "leveysaste": 60.521986,
+      "pituusaste": 27.553885,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 233,
+      "nimi": "Virolahti C5",
+      "leveysaste": 60.535291,
+      "pituusaste": 27.544137,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 234,
+      "nimi": "Virolahti C7",
+      "leveysaste": 60.488646,
+      "pituusaste": 27.562356,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 235,
+      "nimi": "Virolahti C82",
+      "leveysaste": 60.54173,
+      "pituusaste": 27.550078,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    },
+    {
+      "id": 236,
+      "nimi": "Öljyvarasto ja miina-asema",
+      "leveysaste": 60.103762,
+      "pituusaste": 25.014514,
+      "osm_avain": "military",
+      "osm_arvo": "bunker",
+      "osm_luokka": "military=bunker"
+    }
+  ],
+  "meta": {
+    "title": "Bunkkerit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Bunkkerit Suomessa — 236 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `military=bunker`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 236 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Bunkkerit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Bunkkerit – Suomi (OpenStreetMap) — 236 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 236 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

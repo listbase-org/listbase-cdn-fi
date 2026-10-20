@@ -1,0 +1,315 @@
+{
+  "id": "fi-central-finland-region-rautatieasemat",
+  "name": "Rautatieasemat — Central Finland Region",
+  "title": "Rautatieasemat — Central Finland Region",
+  "description": "Rautatieasemat ja seisakkeet Central Finland Regionn maakunnassa, Suomessa (8 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28735,
+      "name": "Haapamäki",
+      "slug": "haapamaki",
+      "uic": "1000200",
+      "latitude": 62.247272,
+      "longitude": 24.455385,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Haapamäki",
+      "etaisyys_km": 1.441,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28738,
+      "name": "Hankasalmi",
+      "slug": "hankasalmi",
+      "uic": "1000427",
+      "latitude": 62.303691,
+      "longitude": 26.479277,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Hankasalmi As",
+      "etaisyys_km": 0.541,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28766,
+      "name": "Jyväskylä",
+      "slug": "jyvaskyla",
+      "uic": "1000240",
+      "latitude": 62.240723,
+      "longitude": 25.752358,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Jyväskylä",
+      "etaisyys_km": 0.222,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28767,
+      "name": "Jämsä",
+      "slug": "jamsa",
+      "uic": "1000204",
+      "latitude": 61.866335,
+      "longitude": 25.173841,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Jämsä",
+      "etaisyys_km": 0.88,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28785,
+      "name": "Keuruu",
+      "slug": "keuruu",
+      "uic": "1000235",
+      "latitude": 62.256177,
+      "longitude": 24.707683,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Keuruu",
+      "etaisyys_km": 0.123,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Keuru",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28823,
+      "name": "Lievestuore",
+      "slug": "lievestuore",
+      "uic": "1000246",
+      "latitude": 62.260768,
+      "longitude": 26.197179,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Lievestuore",
+      "etaisyys_km": 0.115,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 7,
+      "station_id": 28864,
+      "name": "Petäjävesi",
+      "slug": "petajavesi",
+      "uic": "1000237",
+      "latitude": 62.257835,
+      "longitude": 25.189921,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Petäjävesi",
+      "etaisyys_km": 0.421,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 8,
+      "station_id": 28866,
+      "name": "Pihlajavesi",
+      "slug": "pihlajavesi",
+      "uic": "1000261",
+      "latitude": 62.347128,
+      "longitude": 24.39584,
+      "maakunta": "Central Finland Region",
+      "maakunta_slug": "central-finland-region",
+      "maakunta_code": "13",
+      "lahin_postitoimipaikka": "Pihlajavesi",
+      "etaisyys_km": 4.555,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — Central Finland Region - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet Central Finland Regionn maakunnassa, Suomessa (8 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 8 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — Central Finland Region | ListBase",
+    "seo_description": "Lataa Rautatieasemat — Central Finland Region — 8 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 8 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

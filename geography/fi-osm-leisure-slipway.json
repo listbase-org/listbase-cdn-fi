@@ -1,0 +1,2806 @@
+{
+  "id": "fi-osm-leisure-slipway",
+  "name": "Veneluiskat – Suomi (OpenStreetMap)",
+  "title": "Veneluiskat – Suomi (OpenStreetMap)",
+  "description": "Veneluiskat Suomessa — 305 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `leisure=slipway`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 305,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Ahtolan sataman veneluiska",
+      "leveysaste": 62.256442,
+      "pituusaste": 24.698671,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 2,
+      "nimi": "Aidanpääniemen veneluiska",
+      "leveysaste": 60.802815,
+      "pituusaste": 21.270628,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 3,
+      "nimi": "Allunlahden veneluiska",
+      "leveysaste": 62.470348,
+      "pituusaste": 26.027049,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 4,
+      "nimi": "Alvettulan veneenlaskupaikka",
+      "leveysaste": 61.203186,
+      "pituusaste": 24.485452,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 5,
+      "nimi": "Annanniemen veneluiska",
+      "leveysaste": 64.131123,
+      "pituusaste": 29.549798,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 6,
+      "nimi": "Anttola keskusta",
+      "leveysaste": 61.583706,
+      "pituusaste": 27.652686,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 7,
+      "nimi": "Appilanranta",
+      "leveysaste": 62.462409,
+      "pituusaste": 24.446081,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 8,
+      "nimi": "Aurlahden veneenlaskupaikka",
+      "leveysaste": 60.246453,
+      "pituusaste": 24.05173,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 9,
+      "nimi": "Avusranta",
+      "leveysaste": 61.246865,
+      "pituusaste": 24.836147,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 10,
+      "nimi": "Backsteninrannan veneluiska",
+      "leveysaste": 60.426491,
+      "pituusaste": 26.047806,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 11,
+      "nimi": "Baggö Marina property",
+      "leveysaste": 59.889256,
+      "pituusaste": 23.513748,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 12,
+      "nimi": "Boxbyn veneluiska",
+      "leveysaste": 59.939926,
+      "pituusaste": 23.629235,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 13,
+      "nimi": "Edenin ramppi",
+      "leveysaste": 61.468634,
+      "pituusaste": 23.530897,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 14,
+      "nimi": "Edenin ramppi",
+      "leveysaste": 61.468646,
+      "pituusaste": 23.530912,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 15,
+      "nimi": "Edesniemen veneluiska",
+      "leveysaste": 61.738119,
+      "pituusaste": 25.317207,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 16,
+      "nimi": "Emäsalon veneluiska",
+      "leveysaste": 60.309413,
+      "pituusaste": 25.590587,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 17,
+      "nimi": "Furuvikens båthamn",
+      "leveysaste": 63.750419,
+      "pituusaste": 22.698642,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 18,
+      "nimi": "Gammelbackan veneluiska",
+      "leveysaste": 60.36966,
+      "pituusaste": 25.651781,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 19,
+      "nimi": "Glännvikenin veneluiska",
+      "leveysaste": 59.896091,
+      "pituusaste": 23.419125,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 20,
+      "nimi": "Granvik",
+      "leveysaste": 60.196699,
+      "pituusaste": 22.261642,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 21,
+      "nimi": "Haarlan rannan veneluiska",
+      "leveysaste": 62.26528,
+      "pituusaste": 26.198555,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 22,
+      "nimi": "Haikkoon veneluiska",
+      "leveysaste": 60.343717,
+      "pituusaste": 25.619208,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 23,
+      "nimi": "Haislahden veneluiska",
+      "leveysaste": 61.86749,
+      "pituusaste": 28.873748,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 24,
+      "nimi": "Hangaslahden veneluiska",
+      "leveysaste": 61.400078,
+      "pituusaste": 26.614716,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 25,
+      "nimi": "Hangon itäsataman veneluiska",
+      "leveysaste": 59.82043,
+      "pituusaste": 22.966233,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 26,
+      "nimi": "Harjunlahti veneluiska",
+      "leveysaste": 61.908762,
+      "pituusaste": 26.02006,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 27,
+      "nimi": "Heikinpohjan veneluiska",
+      "leveysaste": 61.86386,
+      "pituusaste": 28.866231,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 28,
+      "nimi": "Herralan veneramppi",
+      "leveysaste": 62.740153,
+      "pituusaste": 22.580389,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 29,
+      "nimi": "Hevossaaren veneluiska",
+      "leveysaste": 61.206427,
+      "pituusaste": 25.98234,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 30,
+      "nimi": "Hietaperän veneluiska",
+      "leveysaste": 64.192566,
+      "pituusaste": 29.160935,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 31,
+      "nimi": "Hietasalon portti",
+      "leveysaste": 61.219939,
+      "pituusaste": 24.867174,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 32,
+      "nimi": "Hiidenlahti, kanoottilaituri",
+      "leveysaste": 61.666606,
+      "pituusaste": 27.741857,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 33,
+      "nimi": "Hiidenpirtin veneluiska",
+      "leveysaste": 60.363663,
+      "pituusaste": 24.166898,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 34,
+      "nimi": "Hiidenrannan veneluiska",
+      "leveysaste": 60.346304,
+      "pituusaste": 24.287708,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 35,
+      "nimi": "Himalansaaren veneluiska",
+      "leveysaste": 61.432271,
+      "pituusaste": 27.556441,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 36,
+      "nimi": "Hirvensalmi",
+      "leveysaste": 61.639908,
+      "pituusaste": 26.775721,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 37,
+      "nimi": "Huikonlahden veneluiska",
+      "leveysaste": 61.814473,
+      "pituusaste": 25.256688,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 38,
+      "nimi": "Huutotöyryn veneluiska",
+      "leveysaste": 61.083884,
+      "pituusaste": 26.182722,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 39,
+      "nimi": "Hyypiänniemen veneluiska",
+      "leveysaste": 62.107461,
+      "pituusaste": 28.877361,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 40,
+      "nimi": "Härmälänsaaren veneenlaskupaikka",
+      "leveysaste": 61.476367,
+      "pituusaste": 23.731574,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 41,
+      "nimi": "Höstnäsin veneluiska",
+      "leveysaste": 59.974527,
+      "pituusaste": 23.746034,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 42,
+      "nimi": "Ilveslahden veneluiska",
+      "leveysaste": 62.34248,
+      "pituusaste": 25.886522,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 43,
+      "nimi": "Inhanjoki",
+      "leveysaste": 62.515259,
+      "pituusaste": 24.14889,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 44,
+      "nimi": "Iso-Palosen veneenlaskupaikka",
+      "leveysaste": 64.323391,
+      "pituusaste": 30.047238,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 45,
+      "nimi": "Itälahden veneluiska",
+      "leveysaste": 62.172249,
+      "pituusaste": 28.778472,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 46,
+      "nimi": "Jerisjoen melontareittien lähtö- ja päätepiste",
+      "leveysaste": 67.955475,
+      "pituusaste": 23.672315,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 47,
+      "nimi": "Joensuun tilan veneluiska",
+      "leveysaste": 60.287999,
+      "pituusaste": 25.319212,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 48,
+      "nimi": "Jokiniemen veneluiska",
+      "leveysaste": 62.429881,
+      "pituusaste": 25.952214,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 49,
+      "nimi": "Jokuen veneluiska",
+      "leveysaste": 60.919996,
+      "pituusaste": 26.275786,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 50,
+      "nimi": "Jonkerin veneluiska",
+      "leveysaste": 63.846424,
+      "pituusaste": 29.841095,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 51,
+      "nimi": "Jouhenlahden veneluiska",
+      "leveysaste": 61.907888,
+      "pituusaste": 29.286364,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 52,
+      "nimi": "Juurakko-oja veneenlaskupaikka",
+      "leveysaste": 68.763621,
+      "pituusaste": 26.237663,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 53,
+      "nimi": "Juurikkasalmen veneluiska",
+      "leveysaste": 62.559547,
+      "pituusaste": 28.78684,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 54,
+      "nimi": "Jyrängön veneluiska",
+      "leveysaste": 61.192951,
+      "pituusaste": 26.037858,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 55,
+      "nimi": "Jämäksen veneluiska",
+      "leveysaste": 64.096372,
+      "pituusaste": 29.420791,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 56,
+      "nimi": "Kaaranneskosken veneenlaskupaikka",
+      "leveysaste": 66.644722,
+      "pituusaste": 24.435183,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 57,
+      "nimi": "Kalastajakylän veneluiska",
+      "leveysaste": 61.865548,
+      "pituusaste": 28.839434,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 58,
+      "nimi": "Kalettomanlahden veneenlaskupaikka",
+      "leveysaste": 62.236742,
+      "pituusaste": 23.758435,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 59,
+      "nimi": "Kalkkirannan veneluiska",
+      "leveysaste": 60.252963,
+      "pituusaste": 25.39186,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 60,
+      "nimi": "Kallioistenniemi",
+      "leveysaste": 61.034675,
+      "pituusaste": 26.507114,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 61,
+      "nimi": "Kangasniemen paloaseman veneluiska",
+      "leveysaste": 61.987136,
+      "pituusaste": 26.645123,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 62,
+      "nimi": "Kanootin laskupaikka",
+      "leveysaste": 66.434965,
+      "pituusaste": 29.163023,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 63,
+      "nimi": "Kanootinlaskupaikka",
+      "leveysaste": 61.04853,
+      "pituusaste": 26.580247,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 64,
+      "nimi": "Kanoottienlaskupaikka",
+      "leveysaste": 62.179803,
+      "pituusaste": 28.911399,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 65,
+      "nimi": "Karjalohjan veneluiska",
+      "leveysaste": 60.251157,
+      "pituusaste": 23.749951,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 66,
+      "nimi": "Karsikon kalasataman veneluiska",
+      "leveysaste": 65.636894,
+      "pituusaste": 24.719125,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 67,
+      "nimi": "Kartanon venekerhon ramppi",
+      "leveysaste": 60.192546,
+      "pituusaste": 25.012743,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 68,
+      "nimi": "Kasnäs båtramp",
+      "leveysaste": 59.921123,
+      "pituusaste": 22.409435,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 69,
+      "nimi": "Kausalan veneluiska",
+      "leveysaste": 60.916346,
+      "pituusaste": 26.325283,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 70,
+      "nimi": "Keihässalmen veneluiska",
+      "leveysaste": 60.432928,
+      "pituusaste": 26.652214,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 71,
+      "nimi": "Kelloperän veneluiska",
+      "leveysaste": 64.252435,
+      "pituusaste": 28.92881,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 72,
+      "nimi": "Kellosalmen veneluiska",
+      "leveysaste": 61.433978,
+      "pituusaste": 25.275825,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 73,
+      "nimi": "Kelviikin kalasataman veneluiska",
+      "leveysaste": 60.497349,
+      "pituusaste": 27.46596,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 74,
+      "nimi": "Kermanrannan veneluiska",
+      "leveysaste": 62.438159,
+      "pituusaste": 28.63783,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 75,
+      "nimi": "Kermanvirran veneluiska",
+      "leveysaste": 62.397211,
+      "pituusaste": 28.729755,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 76,
+      "nimi": "Keskustan veneluiska",
+      "leveysaste": 61.203389,
+      "pituusaste": 26.02454,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 77,
+      "nimi": "Keyrityn veneluiska",
+      "leveysaste": 63.321234,
+      "pituusaste": 28.063507,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 78,
+      "nimi": "Kiehuvuopio veneenlaskupaikka",
+      "leveysaste": 68.565586,
+      "pituusaste": 21.95671,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 79,
+      "nimi": "Kirkonkylän veneenlaskupaikka",
+      "leveysaste": 61.170452,
+      "pituusaste": 24.557945,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 80,
+      "nimi": "Kirkonkylän veneluiska",
+      "leveysaste": 61.408744,
+      "pituusaste": 26.819621,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 81,
+      "nimi": "Kirkonpohjan veneluiska",
+      "leveysaste": 61.250708,
+      "pituusaste": 26.045087,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 82,
+      "nimi": "Kisarannan veneluiska",
+      "leveysaste": 61.345475,
+      "pituusaste": 24.277055,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 83,
+      "nimi": "Kiviperänlahden veneluiska",
+      "leveysaste": 64.269809,
+      "pituusaste": 29.379316,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 84,
+      "nimi": "Koivusaaren veneluiska",
+      "leveysaste": 60.162922,
+      "pituusaste": 24.851117,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 85,
+      "nimi": "Koivusaaren veneluiska",
+      "leveysaste": 60.163391,
+      "pituusaste": 24.847895,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 86,
+      "nimi": "Kopparnäsin veneluiska",
+      "leveysaste": 60.050977,
+      "pituusaste": 24.232321,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 87,
+      "nimi": "Korkkitehdas",
+      "leveysaste": 61.057079,
+      "pituusaste": 28.166503,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 88,
+      "nimi": "Korpilahden sataman veneluiska",
+      "leveysaste": 62.014164,
+      "pituusaste": 25.554205,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 89,
+      "nimi": "Korssundin luonnon veneluiska",
+      "leveysaste": 59.992436,
+      "pituusaste": 23.849027,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 90,
+      "nimi": "Korvajokisuu veneluiska",
+      "leveysaste": 66.057457,
+      "pituusaste": 27.270929,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 91,
+      "nimi": "Koskenlaskuveneiden laskupaikka",
+      "leveysaste": 66.302358,
+      "pituusaste": 29.144916,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 92,
+      "nimi": "Kulosaaren veneluiska",
+      "leveysaste": 60.179908,
+      "pituusaste": 25.017218,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 93,
+      "nimi": "Kuohijoen veneranta",
+      "leveysaste": 61.300836,
+      "pituusaste": 24.814755,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 94,
+      "nimi": "Kuokkastenkoski",
+      "leveysaste": 63.546807,
+      "pituusaste": 28.950102,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 95,
+      "nimi": "Kuoppaniemen veneluiska",
+      "leveysaste": 60.940041,
+      "pituusaste": 26.393672,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 96,
+      "nimi": "Kuotaan veneenlaskupaikka",
+      "leveysaste": 61.172027,
+      "pituusaste": 25.582781,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 97,
+      "nimi": "Kupparinojan veneluiska",
+      "leveysaste": 60.943656,
+      "pituusaste": 26.425875,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 98,
+      "nimi": "Kupparinojan veneluiska",
+      "leveysaste": 60.943692,
+      "pituusaste": 26.425907,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 99,
+      "nimi": "Kurkilahden veneluiska",
+      "leveysaste": 62.265624,
+      "pituusaste": 24.712784,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 100,
+      "nimi": "Kurun sataman veneluiska",
+      "leveysaste": 61.877464,
+      "pituusaste": 23.730942,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 101,
+      "nimi": "Kuusan veneluiska",
+      "leveysaste": 62.460226,
+      "pituusaste": 25.939374,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 102,
+      "nimi": "Käntinsalmen veneluiska",
+      "leveysaste": 64.386991,
+      "pituusaste": 29.828863,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 103,
+      "nimi": "Könkään kuohun kanootinlaskupaikka",
+      "leveysaste": 66.370692,
+      "pituusaste": 29.337001,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 104,
+      "nimi": "Laajalahden veneluiska",
+      "leveysaste": 60.203078,
+      "pituusaste": 24.829151,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 105,
+      "nimi": "Lammasniemi, Veneluiska",
+      "leveysaste": 61.31094,
+      "pituusaste": 23.598921,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 106,
+      "nimi": "Lammassaari slipway",
+      "leveysaste": 61.211054,
+      "pituusaste": 28.713796,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 107,
+      "nimi": "Lappohjan veneluiska",
+      "leveysaste": 59.898952,
+      "pituusaste": 23.258564,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 108,
+      "nimi": "Laskuluiska",
+      "leveysaste": 61.462052,
+      "pituusaste": 23.532508,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 109,
+      "nimi": "Laukaan sataman veneluiska",
+      "leveysaste": 62.410395,
+      "pituusaste": 25.962309,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 110,
+      "nimi": "Leinolan veneluiska",
+      "leveysaste": 62.435197,
+      "pituusaste": 26.037363,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 111,
+      "nimi": "Lemislahden veneluiska",
+      "leveysaste": 60.163268,
+      "pituusaste": 24.869955,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 112,
+      "nimi": "Lepaanranta",
+      "leveysaste": 61.123018,
+      "pituusaste": 24.189511,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 113,
+      "nimi": "Lepikonrannan veneluiska",
+      "leveysaste": 60.563088,
+      "pituusaste": 27.193415,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 114,
+      "nimi": "Leppälahden veneluiska",
+      "leveysaste": 62.236773,
+      "pituusaste": 25.959674,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 115,
+      "nimi": "Leppävirran veneluiska",
+      "leveysaste": 62.487356,
+      "pituusaste": 27.808322,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 116,
+      "nimi": "Leppävirran veneluiska",
+      "leveysaste": 62.488108,
+      "pituusaste": 27.773514,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 117,
+      "nimi": "Leppävirran veneluiska",
+      "leveysaste": 62.488541,
+      "pituusaste": 27.770294,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 118,
+      "nimi": "Leppävirran veneluiska",
+      "leveysaste": 62.489456,
+      "pituusaste": 27.80327,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 119,
+      "nimi": "Liiansaaren veneluiska",
+      "leveysaste": 61.362301,
+      "pituusaste": 27.701015,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 120,
+      "nimi": "Likonsenlahti slipway",
+      "leveysaste": 61.141371,
+      "pituusaste": 28.489781,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 121,
+      "nimi": "Lintukymi",
+      "leveysaste": 61.013224,
+      "pituusaste": 26.589034,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 122,
+      "nimi": "Lohiapajanlahden veneluiska",
+      "leveysaste": 60.155099,
+      "pituusaste": 24.887013,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 123,
+      "nimi": "Lohiapajanlahden veneluiska",
+      "leveysaste": 60.15829,
+      "pituusaste": 24.887935,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 124,
+      "nimi": "Loppijärven veneluiska",
+      "leveysaste": 60.705854,
+      "pituusaste": 24.428077,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 125,
+      "nimi": "Luhangan sataman veneluiska",
+      "leveysaste": 61.794855,
+      "pituusaste": 25.701769,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 126,
+      "nimi": "Luodelahden kanoottilaituri, Tiilikkajärven kansallispuisto",
+      "leveysaste": 63.67775,
+      "pituusaste": 28.246033,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 127,
+      "nimi": "Luotsilahden veneluiska",
+      "leveysaste": 61.983822,
+      "pituusaste": 26.644745,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 128,
+      "nimi": "Lutakonlahti",
+      "leveysaste": 61.797406,
+      "pituusaste": 26.815202,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 129,
+      "nimi": "Luusuan veneluiska",
+      "leveysaste": 60.689472,
+      "pituusaste": 24.132179,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 130,
+      "nimi": "Länkipohjan sataman veneluiska",
+      "leveysaste": 61.72819,
+      "pituusaste": 24.780839,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 131,
+      "nimi": "Läsäkoski",
+      "leveysaste": 61.909568,
+      "pituusaste": 26.880996,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 132,
+      "nimi": "Löydönranta",
+      "leveysaste": 61.548795,
+      "pituusaste": 27.279295,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 133,
+      "nimi": "Maakunnanranta",
+      "leveysaste": 64.128828,
+      "pituusaste": 29.51481,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 134,
+      "nimi": "Mainiemen veneluiska",
+      "leveysaste": 61.812117,
+      "pituusaste": 26.530002,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 135,
+      "nimi": "Mantereenpää",
+      "leveysaste": 61.206866,
+      "pituusaste": 21.511375,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 136,
+      "nimi": "Mesikämmenen veneramppi",
+      "leveysaste": 62.536928,
+      "pituusaste": 24.179645,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 137,
+      "nimi": "Miekankosken veneluiska",
+      "leveysaste": 61.421947,
+      "pituusaste": 26.669836,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 138,
+      "nimi": "Mikkeli satama",
+      "leveysaste": 61.687437,
+      "pituusaste": 27.281345,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 139,
+      "nimi": "Moision veneluiska",
+      "leveysaste": 60.260331,
+      "pituusaste": 24.080662,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 140,
+      "nimi": "Muroleen veneluiska",
+      "leveysaste": 61.856337,
+      "pituusaste": 23.905827,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 141,
+      "nimi": "Mustalahden veneenlaskupaikka",
+      "leveysaste": 64.695773,
+      "pituusaste": 29.619005,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 142,
+      "nimi": "Mustalahden veneluiska",
+      "leveysaste": 62.085175,
+      "pituusaste": 28.334218,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 143,
+      "nimi": "Mustion veneluiska",
+      "leveysaste": 60.162881,
+      "pituusaste": 23.83102,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 144,
+      "nimi": "Muuruveden venesataman veneluiska",
+      "leveysaste": 63.009606,
+      "pituusaste": 28.214645,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 145,
+      "nimi": "Mäkisen rannan veneluiska",
+      "leveysaste": 62.258234,
+      "pituusaste": 24.711758,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 146,
+      "nimi": "Mäntlahden veneluiska",
+      "leveysaste": 60.511395,
+      "pituusaste": 27.358645,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 147,
+      "nimi": "Mäntyharju",
+      "leveysaste": 61.425422,
+      "pituusaste": 26.894012,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 148,
+      "nimi": "Mäntylaki veneenlaskupaikka",
+      "leveysaste": 66.609706,
+      "pituusaste": 24.432366,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 149,
+      "nimi": "Möllerin veneluiska",
+      "leveysaste": 63.910399,
+      "pituusaste": 23.183085,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 150,
+      "nimi": "Narkiperän veneenlaskupaikka",
+      "leveysaste": 66.627475,
+      "pituusaste": 27.444051,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 151,
+      "nimi": "Naumanniemi",
+      "leveysaste": 66.246622,
+      "pituusaste": 25.359752,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 152,
+      "nimi": "Neitikoski",
+      "leveysaste": 63.389249,
+      "pituusaste": 30.446041,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 153,
+      "nimi": "Nivanpään Telaranta",
+      "leveysaste": 66.78618,
+      "pituusaste": 23.942211,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 154,
+      "nimi": "Nokipohja veneenlaskupaikka",
+      "leveysaste": 61.716943,
+      "pituusaste": 24.926015,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 155,
+      "nimi": "Norra hamnens båtramp",
+      "leveysaste": 59.97762,
+      "pituusaste": 23.433594,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 156,
+      "nimi": "Nuotniemen veneluiska",
+      "leveysaste": 61.979465,
+      "pituusaste": 28.616983,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 157,
+      "nimi": "Nätynginnokka",
+      "leveysaste": 66.489471,
+      "pituusaste": 25.728627,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 158,
+      "nimi": "Ohrasaaren veneluiska",
+      "leveysaste": 61.497705,
+      "pituusaste": 25.679542,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 159,
+      "nimi": "Ollinsalmen veneluiska",
+      "leveysaste": 61.676813,
+      "pituusaste": 26.327669,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 160,
+      "nimi": "Onkilahden veneluiska",
+      "leveysaste": 64.313463,
+      "pituusaste": 29.532471,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 161,
+      "nimi": "Otavan veneluiska",
+      "leveysaste": 61.653812,
+      "pituusaste": 27.065637,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 162,
+      "nimi": "Otsolahden veneluiska",
+      "leveysaste": 60.173533,
+      "pituusaste": 24.815337,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 163,
+      "nimi": "Paavalinkiven veneluiska",
+      "leveysaste": 62.267434,
+      "pituusaste": 27.907484,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 164,
+      "nimi": "Pajakkasuvanto",
+      "leveysaste": 64.127834,
+      "pituusaste": 29.507897,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 165,
+      "nimi": "Pajulahden veneluiska",
+      "leveysaste": 61.783744,
+      "pituusaste": 25.418973,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 166,
+      "nimi": "Paksuniemen veneluiska",
+      "leveysaste": 62.332293,
+      "pituusaste": 29.630573,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 167,
+      "nimi": "Pallasjärvi Hirvaslahti veneenlaskupaikka",
+      "leveysaste": 68.040981,
+      "pituusaste": 24.140997,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 168,
+      "nimi": "Pallasjärvi Pallaslompolon veneenlaskupaikka",
+      "leveysaste": 68.002,
+      "pituusaste": 24.194341,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 169,
+      "nimi": "Paloniemen veneluiska",
+      "leveysaste": 64.115128,
+      "pituusaste": 29.286729,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 170,
+      "nimi": "Papinsaaren veneluiska",
+      "leveysaste": 61.557505,
+      "pituusaste": 25.185046,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 171,
+      "nimi": "Paukarlahden veneluiska",
+      "leveysaste": 62.645066,
+      "pituusaste": 27.621916,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 172,
+      "nimi": "Pelastustie",
+      "leveysaste": 60.051971,
+      "pituusaste": 24.563844,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 173,
+      "nimi": "Pelloksen veneluiska",
+      "leveysaste": 61.472892,
+      "pituusaste": 27.281948,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 174,
+      "nimi": "Pertunmaan veneluiska",
+      "leveysaste": 61.504635,
+      "pituusaste": 26.479975,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 175,
+      "nimi": "Peruveden veneluiska",
+      "leveysaste": 61.507893,
+      "pituusaste": 26.496737,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 176,
+      "nimi": "Petäjäniemen veneluiska",
+      "leveysaste": 64.380697,
+      "pituusaste": 29.780707,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 177,
+      "nimi": "Petäjäs",
+      "leveysaste": 61.13339,
+      "pituusaste": 21.45684,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 178,
+      "nimi": "Pihlajakosken veneluiska",
+      "leveysaste": 61.682132,
+      "pituusaste": 25.356232,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 179,
+      "nimi": "Pikonniemen venelaskupaikka",
+      "leveysaste": 63.07701,
+      "pituusaste": 28.313909,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 180,
+      "nimi": "Pirttiniemi",
+      "leveysaste": 62.90474,
+      "pituusaste": 27.729257,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 181,
+      "nimi": "Pohjanmäen veneluiska",
+      "leveysaste": 60.93326,
+      "pituusaste": 26.378271,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 182,
+      "nimi": "Porokari",
+      "leveysaste": 67.103329,
+      "pituusaste": 25.075561,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 183,
+      "nimi": "Prediumin veneluiska",
+      "leveysaste": 59.90875,
+      "pituusaste": 23.296253,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 184,
+      "nimi": "Pruukinrannan veneenlaskupaikka",
+      "leveysaste": 62.759434,
+      "pituusaste": 22.819699,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 185,
+      "nimi": "Puokamalahden veneluiska",
+      "leveysaste": 64.410746,
+      "pituusaste": 29.490302,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 186,
+      "nimi": "Puulanniemen veneluiska",
+      "leveysaste": 61.853108,
+      "pituusaste": 26.508104,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 187,
+      "nimi": "Pähkinäniemen veneluiska",
+      "leveysaste": 60.199327,
+      "pituusaste": 23.982958,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 188,
+      "nimi": "Pääskylahden veneluiska",
+      "leveysaste": 61.855897,
+      "pituusaste": 28.941211,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 189,
+      "nimi": "Pöykkölä",
+      "leveysaste": 66.483932,
+      "pituusaste": 25.746297,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 190,
+      "nimi": "Rakilan veneluiska",
+      "leveysaste": 60.519084,
+      "pituusaste": 27.306582,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 191,
+      "nimi": "Ramppi",
+      "leveysaste": 63.681391,
+      "pituusaste": 22.6861,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 192,
+      "nimi": "Rantautumispaikka",
+      "leveysaste": 67.566122,
+      "pituusaste": 24.04317,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 193,
+      "nimi": "Rautaveden vesillelaskupaikka",
+      "leveysaste": 61.647612,
+      "pituusaste": 26.025723,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 194,
+      "nimi": "Retulahti",
+      "leveysaste": 63.246741,
+      "pituusaste": 29.276779,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 195,
+      "nimi": "Riihiniemen veneluiska",
+      "leveysaste": 61.901596,
+      "pituusaste": 29.670929,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 196,
+      "nimi": "Ristiinan veneluiska",
+      "leveysaste": 61.511237,
+      "pituusaste": 27.244756,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 197,
+      "nimi": "Ristiinan vierasvenelaituri",
+      "leveysaste": 61.500919,
+      "pituusaste": 27.263625,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 198,
+      "nimi": "Ruhtinansalmi",
+      "leveysaste": 65.15358,
+      "pituusaste": 29.344989,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 199,
+      "nimi": "Rullarannan veneluiska",
+      "leveysaste": 61.196249,
+      "pituusaste": 26.044244,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 200,
+      "nimi": "Ruolahden veneluiska",
+      "leveysaste": 61.601764,
+      "pituusaste": 25.373654,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 201,
+      "nimi": "Ruoveden veneluiska",
+      "leveysaste": 61.989051,
+      "pituusaste": 24.076361,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 202,
+      "nimi": "Rykiniemen veneluiska",
+      "leveysaste": 62.20406,
+      "pituusaste": 28.106302,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 203,
+      "nimi": "Rönnin veneluiska",
+      "leveysaste": 61.617332,
+      "pituusaste": 24.505364,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 204,
+      "nimi": "Rösundin veneluiska",
+      "leveysaste": 59.93843,
+      "pituusaste": 23.678139,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 205,
+      "nimi": "Röölän boat slip",
+      "leveysaste": 60.345436,
+      "pituusaste": 21.956664,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 206,
+      "nimi": "Saarenrannan veneluiska",
+      "leveysaste": 65.666632,
+      "pituusaste": 24.758122,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 207,
+      "nimi": "Saarikoski veneenlaskupaikka",
+      "leveysaste": 68.804645,
+      "pituusaste": 21.251491,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 208,
+      "nimi": "Saharannan veneluiska",
+      "leveysaste": 61.249385,
+      "pituusaste": 26.04667,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 209,
+      "nimi": "Sandnäsuddin veneluiska",
+      "leveysaste": 59.940998,
+      "pituusaste": 23.726389,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 210,
+      "nimi": "Santaniemen veneluiska",
+      "leveysaste": 60.560855,
+      "pituusaste": 27.722234,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 211,
+      "nimi": "Sarviniemi",
+      "leveysaste": 61.278755,
+      "pituusaste": 28.063324,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 212,
+      "nimi": "Saunajärven veneluiska",
+      "leveysaste": 63.930325,
+      "pituusaste": 29.974232,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 213,
+      "nimi": "Saunalahti",
+      "leveysaste": 60.192204,
+      "pituusaste": 24.882052,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 214,
+      "nimi": "Savilahden veneluiska",
+      "leveysaste": 61.690352,
+      "pituusaste": 27.288123,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 215,
+      "nimi": "Savion veneluiska",
+      "leveysaste": 62.274404,
+      "pituusaste": 26.048075,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 216,
+      "nimi": "Sepänniemen veneluiska",
+      "leveysaste": 61.199828,
+      "pituusaste": 26.016089,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 217,
+      "nimi": "Siikakoski",
+      "leveysaste": 63.337884,
+      "pituusaste": 30.456643,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 218,
+      "nimi": "Siikasalmen veneluiska",
+      "leveysaste": 61.612885,
+      "pituusaste": 27.293699,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 219,
+      "nimi": "Simoniemen eteläinen veneluiska",
+      "leveysaste": 65.649819,
+      "pituusaste": 24.900659,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 220,
+      "nimi": "Simoniemen pohjoinen veneluiska",
+      "leveysaste": 65.651391,
+      "pituusaste": 24.900227,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 221,
+      "nimi": "Sinilähteen veneluiska",
+      "leveysaste": 61.193929,
+      "pituusaste": 25.984612,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 222,
+      "nimi": "Sipoonlahden veneluiska",
+      "leveysaste": 60.269109,
+      "pituusaste": 25.34631,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 223,
+      "nimi": "Skåldön veneluiska",
+      "leveysaste": 59.89331,
+      "pituusaste": 23.470297,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 224,
+      "nimi": "Sonamo båthamn",
+      "leveysaste": 63.800009,
+      "pituusaste": 22.679965,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 225,
+      "nimi": "Soutuveneranta",
+      "leveysaste": 61.08641,
+      "pituusaste": 24.136756,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 226,
+      "nimi": "Suninsalmen veneluiska",
+      "leveysaste": 60.246638,
+      "pituusaste": 25.898128,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 227,
+      "nimi": "Suninsalmen veneluiska",
+      "leveysaste": 62.784485,
+      "pituusaste": 24.014776,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 228,
+      "nimi": "Suopellon veneluiska",
+      "leveysaste": 61.491884,
+      "pituusaste": 25.578309,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 229,
+      "nimi": "Syvälahden veneluiska",
+      "leveysaste": 61.195624,
+      "pituusaste": 26.118788,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 230,
+      "nimi": "Särkisalmen veneluiska",
+      "leveysaste": 61.60011,
+      "pituusaste": 29.482173,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 231,
+      "nimi": "Säynätsalon venesataman veneluiska",
+      "leveysaste": 62.140258,
+      "pituusaste": 25.779791,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 232,
+      "nimi": "Tarvaalan veneluiska",
+      "leveysaste": 62.372002,
+      "pituusaste": 26.074825,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 233,
+      "nimi": "Tervasalmen veneluiska",
+      "leveysaste": 64.085923,
+      "pituusaste": 29.097324,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 234,
+      "nimi": "Tiiliruukki",
+      "leveysaste": 61.443979,
+      "pituusaste": 29.350186,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 235,
+      "nimi": "Tikkalansalmen kanoottilaituri",
+      "leveysaste": 64.160455,
+      "pituusaste": 28.253958,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 236,
+      "nimi": "Toijalan sataman veneluiska",
+      "leveysaste": 61.190984,
+      "pituusaste": 23.907161,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 237,
+      "nimi": "Tolkkisen veneluiska",
+      "leveysaste": 60.325794,
+      "pituusaste": 25.597174,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 238,
+      "nimi": "Tolkkisen veneluiska",
+      "leveysaste": 60.334415,
+      "pituusaste": 25.596384,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 239,
+      "nimi": "Torikan veneluiska",
+      "leveysaste": 62.502832,
+      "pituusaste": 25.86983,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 240,
+      "nimi": "Torvoilan veneluiska",
+      "leveysaste": 61.255008,
+      "pituusaste": 24.567547,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 241,
+      "nimi": "Tuusanlahden veneluiska",
+      "leveysaste": 60.200799,
+      "pituusaste": 23.988782,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 242,
+      "nimi": "Tvärminnen veneluiska",
+      "leveysaste": 59.839131,
+      "pituusaste": 23.207392,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 243,
+      "nimi": "Typynrannan veneluiska",
+      "leveysaste": 61.363694,
+      "pituusaste": 23.566891,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 244,
+      "nimi": "Tönölän veneluiska",
+      "leveysaste": 64.119727,
+      "pituusaste": 29.587217,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 245,
+      "nimi": "Ukkosaaren veneluiska",
+      "leveysaste": 60.578136,
+      "pituusaste": 27.736297,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 246,
+      "nimi": "Ukonniemen veneluiska",
+      "leveysaste": 61.892678,
+      "pituusaste": 26.847728,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 247,
+      "nimi": "Urajärven veneluiska",
+      "leveysaste": 60.919477,
+      "pituusaste": 26.386728,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 248,
+      "nimi": "Vaaherlahti",
+      "leveysaste": 61.776837,
+      "pituusaste": 29.283827,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 249,
+      "nimi": "Vaatunki veneenlaskupaikka",
+      "leveysaste": 66.612285,
+      "pituusaste": 26.152336,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 250,
+      "nimi": "Vaherin veneluiska",
+      "leveysaste": 61.823879,
+      "pituusaste": 25.463249,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 251,
+      "nimi": "Vanhankylänniemen veneluiska",
+      "leveysaste": 60.452772,
+      "pituusaste": 25.057453,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 252,
+      "nimi": "Vanhankylänniemen veneluiska",
+      "leveysaste": 60.452805,
+      "pituusaste": 25.057543,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 253,
+      "nimi": "Vanhankylänniemen veneluiska",
+      "leveysaste": 60.452829,
+      "pituusaste": 25.057606,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 254,
+      "nimi": "Vartiuksen veneluiska",
+      "leveysaste": 64.467635,
+      "pituusaste": 29.903563,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 255,
+      "nimi": "Vattunokan veneluiska",
+      "leveysaste": 60.149961,
+      "pituusaste": 24.890319,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 256,
+      "nimi": "Vattunokan veneluiska",
+      "leveysaste": 60.150883,
+      "pituusaste": 24.889934,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 257,
+      "nimi": "Vehkataipale slipway",
+      "leveysaste": 61.152572,
+      "pituusaste": 28.226711,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 258,
+      "nimi": "Vehmersalmen veneluiska",
+      "leveysaste": 62.762968,
+      "pituusaste": 28.016473,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 259,
+      "nimi": "Veneelaskupaikka",
+      "leveysaste": 62.170038,
+      "pituusaste": 29.210123,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 260,
+      "nimi": "Veneelaskupaikka",
+      "leveysaste": 62.287741,
+      "pituusaste": 28.268152,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 261,
+      "nimi": "Veneelaskupaikka",
+      "leveysaste": 63.180363,
+      "pituusaste": 26.35465,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 262,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 60.642085,
+      "pituusaste": 25.002809,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 263,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 61.850685,
+      "pituusaste": 24.828595,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 264,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 62.167068,
+      "pituusaste": 29.207602,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 265,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 62.527135,
+      "pituusaste": 29.387098,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 266,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 62.527462,
+      "pituusaste": 29.385499,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 267,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 62.532841,
+      "pituusaste": 25.834171,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 268,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 63.112809,
+      "pituusaste": 29.807106,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 269,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 64.190044,
+      "pituusaste": 27.006453,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 270,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 64.392003,
+      "pituusaste": 27.023911,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 271,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 64.397013,
+      "pituusaste": 27.128596,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 272,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 64.508737,
+      "pituusaste": 28.207485,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 273,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 64.848568,
+      "pituusaste": 25.373817,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 274,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 66.292251,
+      "pituusaste": 29.619483,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 275,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 66.405155,
+      "pituusaste": 28.101457,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 276,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 66.499092,
+      "pituusaste": 27.358739,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 277,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 66.578396,
+      "pituusaste": 27.92284,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 278,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 66.593546,
+      "pituusaste": 26.114406,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 279,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 66.655398,
+      "pituusaste": 24.351786,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 280,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 66.657972,
+      "pituusaste": 24.691253,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 281,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 67.349899,
+      "pituusaste": 25.932001,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 282,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 68.076081,
+      "pituusaste": 26.570302,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 283,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 68.572492,
+      "pituusaste": 27.308999,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 284,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 68.660771,
+      "pituusaste": 27.544297,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 285,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 68.678266,
+      "pituusaste": 21.522818,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 286,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 68.848128,
+      "pituusaste": 28.320296,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 287,
+      "nimi": "Veneenlaskupaikka",
+      "leveysaste": 69.580489,
+      "pituusaste": 28.707186,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 288,
+      "nimi": "Veneenlaskupaikka, Jurvanoja",
+      "leveysaste": 66.085702,
+      "pituusaste": 24.809627,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 289,
+      "nimi": "Veneluiska",
+      "leveysaste": 61.04269,
+      "pituusaste": 27.772861,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 290,
+      "nimi": "Veneluiska",
+      "leveysaste": 61.537652,
+      "pituusaste": 24.131123,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 291,
+      "nimi": "Veneluiska",
+      "leveysaste": 63.359472,
+      "pituusaste": 21.298237,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 292,
+      "nimi": "Veneramppi",
+      "leveysaste": 61.877523,
+      "pituusaste": 29.915192,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 293,
+      "nimi": "Veneramppi",
+      "leveysaste": 62.436118,
+      "pituusaste": 29.631086,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 294,
+      "nimi": "Vihajärven veneenlaskupaikka",
+      "leveysaste": 61.277928,
+      "pituusaste": 24.671647,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 295,
+      "nimi": "Vihavuoden veneenlaskupaikka",
+      "leveysaste": 61.275463,
+      "pituusaste": 24.666447,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 296,
+      "nimi": "Vihdin kirkonkylän veneluiska",
+      "leveysaste": 60.415361,
+      "pituusaste": 24.316714,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 297,
+      "nimi": "Vilkonpää",
+      "leveysaste": 61.704296,
+      "pituusaste": 26.871202,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 298,
+      "nimi": "Vintinniemen veneluiska",
+      "leveysaste": 61.726597,
+      "pituusaste": 26.694588,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 299,
+      "nimi": "Voudinpuiston veneluiska",
+      "leveysaste": 60.238354,
+      "pituusaste": 24.026194,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 300,
+      "nimi": "Vuonteen veneluiska",
+      "leveysaste": 62.320173,
+      "pituusaste": 25.966116,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 301,
+      "nimi": "Vähä-Evon ranta",
+      "leveysaste": 61.209461,
+      "pituusaste": 24.951111,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 302,
+      "nimi": "Vähäniva",
+      "leveysaste": 68.338387,
+      "pituusaste": 22.913055,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 303,
+      "nimi": "Väisälänsaaren silta",
+      "leveysaste": 61.73477,
+      "pituusaste": 26.866769,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 304,
+      "nimi": "Yleinen veneluiska",
+      "leveysaste": 62.909335,
+      "pituusaste": 30.23864,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    },
+    {
+      "id": 305,
+      "nimi": "Äijälän veneluiska",
+      "leveysaste": 62.51892,
+      "pituusaste": 26.067456,
+      "osm_avain": "leisure",
+      "osm_arvo": "slipway",
+      "osm_luokka": "leisure=slipway"
+    }
+  ],
+  "meta": {
+    "title": "Veneluiskat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Veneluiskat Suomessa — 305 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `leisure=slipway`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 305 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Veneluiskat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Veneluiskat – Suomi (OpenStreetMap) — 305 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 305 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

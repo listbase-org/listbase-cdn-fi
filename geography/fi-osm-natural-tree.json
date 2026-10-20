@@ -1,0 +1,2275 @@
+{
+  "id": "fi-osm-natural-tree",
+  "name": "Merkittävät puut – Suomi (OpenStreetMap)",
+  "title": "Merkittävät puut – Suomi (OpenStreetMap)",
+  "description": "Merkittävät puut Suomessa — 246 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `natural=tree`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 0. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 246,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "number"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "22",
+      "leveysaste": 61.135223,
+      "pituusaste": 25.659238,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 2,
+      "nimi": "Aiju von Schönemanin puu",
+      "leveysaste": 60.445969,
+      "pituusaste": 22.269481,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 3,
+      "nimi": "Ann-Christin Antellin puu",
+      "leveysaste": 60.446045,
+      "pituusaste": 22.267728,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 4,
+      "nimi": "Anssi Kela 2020",
+      "leveysaste": 60.321818,
+      "pituusaste": 24.316602,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 5,
+      "nimi": "Antinkuusi",
+      "leveysaste": 62.819801,
+      "pituusaste": 23.954186,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 6,
+      "nimi": "Asemiesrakentajien tammi",
+      "leveysaste": 60.434942,
+      "pituusaste": 22.276409,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 7,
+      "nimi": "Bergbomin mänty",
+      "leveysaste": 65.084021,
+      "pituusaste": 25.399148,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 8,
+      "nimi": "Bergenin puu",
+      "leveysaste": 60.445316,
+      "pituusaste": 22.289685,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 9,
+      "nimi": "Big Pine Tree",
+      "leveysaste": 60.363908,
+      "pituusaste": 24.986622,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 10,
+      "nimi": "Bratislavan puu",
+      "leveysaste": 60.445294,
+      "pituusaste": 22.288762,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 11,
+      "nimi": "Constanzan puu",
+      "leveysaste": 60.445367,
+      "pituusaste": 22.289543,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 12,
+      "nimi": "Eeli Tolvanen 2019",
+      "leveysaste": 60.322097,
+      "pituusaste": 24.317007,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 13,
+      "nimi": "Eeron mänty",
+      "leveysaste": 66.077325,
+      "pituusaste": 25.897348,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 14,
+      "nimi": "Eilantien lehmus",
+      "leveysaste": 60.327949,
+      "pituusaste": 25.097814,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 15,
+      "nimi": "Ekbackan tammi",
+      "leveysaste": 60.225053,
+      "pituusaste": 24.76329,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 16,
+      "nimi": "Erik Bassen tien tammet",
+      "leveysaste": 60.192883,
+      "pituusaste": 24.608247,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 17,
+      "nimi": "Erika Adamssonin puu",
+      "leveysaste": 60.445509,
+      "pituusaste": 22.269367,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 18,
+      "nimi": "Esa Sievinen 2020",
+      "leveysaste": 60.322376,
+      "pituusaste": 24.316486,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 19,
+      "nimi": "Esanpetäjä",
+      "leveysaste": 62.457078,
+      "pituusaste": 25.307658,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 20,
+      "nimi": "Gdanskin puu",
+      "leveysaste": 60.445341,
+      "pituusaste": 22.289615,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 21,
+      "nimi": "Göteborgin puu",
+      "leveysaste": 60.445381,
+      "pituusaste": 22.289456,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 22,
+      "nimi": "Haapa",
+      "leveysaste": 60.197723,
+      "pituusaste": 25.015821,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 23,
+      "nimi": "Hannu Manninen 2019",
+      "leveysaste": 60.322348,
+      "pituusaste": 24.31689,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 24,
+      "nimi": "Harri Raittiin puu",
+      "leveysaste": 60.446209,
+      "pituusaste": 22.269112,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 25,
+      "nimi": "Hattu ja Myssy",
+      "leveysaste": 61.483285,
+      "pituusaste": 23.749519,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 26,
+      "nimi": "Heijastinpuu",
+      "leveysaste": 61.69916,
+      "pituusaste": 23.812247,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 27,
+      "nimi": "Helsingin suurin mänty",
+      "leveysaste": 60.178892,
+      "pituusaste": 25.065011,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 28,
+      "nimi": "Henri Marttinen 2019",
+      "leveysaste": 60.322161,
+      "pituusaste": 24.317099,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 29,
+      "nimi": "Herttoniemen mänty",
+      "leveysaste": 60.1905,
+      "pituusaste": 25.020827,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 30,
+      "nimi": "Hiskin puu",
+      "leveysaste": 64.225866,
+      "pituusaste": 25.763744,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 31,
+      "nimi": "Hopeapoppeli",
+      "leveysaste": 60.175588,
+      "pituusaste": 25.058744,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 32,
+      "nimi": "Hornean Petäjä",
+      "leveysaste": 64.426232,
+      "pituusaste": 29.944581,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 33,
+      "nimi": "Hyvien ajatusten puu",
+      "leveysaste": 60.273962,
+      "pituusaste": 24.935866,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 34,
+      "nimi": "Högnäsin tammi",
+      "leveysaste": 60.248874,
+      "pituusaste": 24.684136,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 35,
+      "nimi": "ITLA itsenäisyyden kuusi",
+      "leveysaste": 60.216883,
+      "pituusaste": 24.700013,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 36,
+      "nimi": "Ikipetäjä",
+      "leveysaste": 60.663922,
+      "pituusaste": 22.358669,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 37,
+      "nimi": "Iso Mänty",
+      "leveysaste": 62.772779,
+      "pituusaste": 23.469082,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 38,
+      "nimi": "Iso Mänty",
+      "leveysaste": 63.207362,
+      "pituusaste": 28.313578,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 39,
+      "nimi": "Iso Tammi",
+      "leveysaste": 60.291344,
+      "pituusaste": 24.853668,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 40,
+      "nimi": "Isotammi",
+      "leveysaste": 60.364303,
+      "pituusaste": 25.704421,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 41,
+      "nimi": "Itsenäisyyden kuusi",
+      "leveysaste": 60.286023,
+      "pituusaste": 25.065238,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 42,
+      "nimi": "Itsenäisyyden kuusi",
+      "leveysaste": 60.434565,
+      "pituusaste": 22.22904,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 43,
+      "nimi": "Itsenäisyyden kuusi",
+      "leveysaste": 61.493274,
+      "pituusaste": 23.799692,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 44,
+      "nimi": "Jani Sivinen 2020",
+      "leveysaste": 60.322326,
+      "pituusaste": 24.316574,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 45,
+      "nimi": "Janina Bermanin puu",
+      "leveysaste": 60.445641,
+      "pituusaste": 22.269108,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 46,
+      "nimi": "Janne Hirsimäki, Teemu Nissinen 2019",
+      "leveysaste": 60.322023,
+      "pituusaste": 24.316914,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 47,
+      "nimi": "Jarkko Laineen pihlaja",
+      "leveysaste": 60.439114,
+      "pituusaste": 22.260428,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 48,
+      "nimi": "Joanna Remes, Vilja Veikkolainen, Vanessa Sohlberg 2019",
+      "leveysaste": 60.322221,
+      "pituusaste": 24.317188,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 49,
+      "nimi": "Joukolan mänty",
+      "leveysaste": 60.513677,
+      "pituusaste": 22.121671,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 50,
+      "nimi": "Juliaanan koivu",
+      "leveysaste": 62.760536,
+      "pituusaste": 28.773023,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 51,
+      "nimi": "Jättikataja",
+      "leveysaste": 61.498326,
+      "pituusaste": 23.622703,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 52,
+      "nimi": "Jättiläiskuusi Rainer",
+      "leveysaste": 62.213946,
+      "pituusaste": 25.679113,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 53,
+      "nimi": "Kaksi koivua",
+      "leveysaste": 60.184468,
+      "pituusaste": 24.999507,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 54,
+      "nimi": "Kalmin tammi",
+      "leveysaste": 60.453897,
+      "pituusaste": 22.276787,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 55,
+      "nimi": "Karhumänty",
+      "leveysaste": 61.171825,
+      "pituusaste": 26.243958,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 56,
+      "nimi": "Kari J. Kettulan puu",
+      "leveysaste": 60.446148,
+      "pituusaste": 22.26979,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 57,
+      "nimi": "Karita Mattilan puu",
+      "leveysaste": 60.44616,
+      "pituusaste": 22.267496,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 58,
+      "nimi": "Kaupin mattokuusi",
+      "leveysaste": 61.513425,
+      "pituusaste": 23.817117,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 59,
+      "nimi": "Kaupunginpuutarhurien seuran puu",
+      "leveysaste": 60.445745,
+      "pituusaste": 22.286846,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 60,
+      "nimi": "Keisarinmänty",
+      "leveysaste": 61.015671,
+      "pituusaste": 24.391871,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 61,
+      "nimi": "Kekkosen tammi",
+      "leveysaste": 61.076915,
+      "pituusaste": 22.257099,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 62,
+      "nimi": "Kelo",
+      "leveysaste": 60.198556,
+      "pituusaste": 25.015347,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 63,
+      "nimi": "Kilon heijastinpuu",
+      "leveysaste": 60.217502,
+      "pituusaste": 24.780081,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 64,
+      "nimi": "Koivu",
+      "leveysaste": 60.198267,
+      "pituusaste": 25.015655,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 65,
+      "nimi": "Koivuvaaran lehmukset",
+      "leveysaste": 60.252301,
+      "pituusaste": 24.817081,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 66,
+      "nimi": "Konttipihlaja",
+      "leveysaste": 62.622254,
+      "pituusaste": 26.833416,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 67,
+      "nimi": "Korvenperän koivu",
+      "leveysaste": 62.113386,
+      "pituusaste": 25.660409,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 68,
+      "nimi": "Kotikuusi",
+      "leveysaste": 60.851062,
+      "pituusaste": 23.0575,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 69,
+      "nimi": "Kuninkaantammi",
+      "leveysaste": 60.266303,
+      "pituusaste": 24.895798,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 70,
+      "nimi": "Kurusen mänty",
+      "leveysaste": 61.543517,
+      "pituusaste": 23.849873,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 71,
+      "nimi": "Kuusi",
+      "leveysaste": 60.197851,
+      "pituusaste": 25.015798,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 72,
+      "nimi": "Kuusisen mänty 1",
+      "leveysaste": 61.033539,
+      "pituusaste": 24.47051,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 73,
+      "nimi": "Kuusisen mänty 2",
+      "leveysaste": 61.033491,
+      "pituusaste": 24.470601,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 74,
+      "nimi": "Kynäjalavaryhmä",
+      "leveysaste": 60.277132,
+      "pituusaste": 24.944775,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 75,
+      "nimi": "Kynäjalavat",
+      "leveysaste": 61.269032,
+      "pituusaste": 23.993277,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 76,
+      "nimi": "Kyrölän mänty",
+      "leveysaste": 60.456831,
+      "pituusaste": 25.08657,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 77,
+      "nimi": "Käärmekuusi",
+      "leveysaste": 60.255758,
+      "pituusaste": 24.967873,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 78,
+      "nimi": "Käärmekuusi",
+      "leveysaste": 62.752111,
+      "pituusaste": 22.803969,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 79,
+      "nimi": "Käärmekuusi",
+      "leveysaste": 64.994105,
+      "pituusaste": 26.098624,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 80,
+      "nimi": "Käärmekuusi",
+      "leveysaste": 66.658882,
+      "pituusaste": 25.441852,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 81,
+      "nimi": "Kölnin puu",
+      "leveysaste": 60.445375,
+      "pituusaste": 22.289359,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 82,
+      "nimi": "Laihian Rahapuu",
+      "leveysaste": 63.000231,
+      "pituusaste": 21.905663,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 83,
+      "nimi": "Lasipalatsin salava",
+      "leveysaste": 60.170705,
+      "pituusaste": 24.935651,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 84,
+      "nimi": "Laulupuu",
+      "leveysaste": 61.811818,
+      "pituusaste": 22.517749,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 85,
+      "nimi": "Laurintien lehmukset",
+      "leveysaste": 60.320982,
+      "pituusaste": 25.123156,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 86,
+      "nimi": "Laurintien lehmukset",
+      "leveysaste": 60.3211,
+      "pituusaste": 25.123088,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 87,
+      "nimi": "Laurintien tammi",
+      "leveysaste": 60.32969,
+      "pituusaste": 25.082883,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 88,
+      "nimi": "Leena Jokitalo 2019",
+      "leveysaste": 60.321683,
+      "pituusaste": 24.316406,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 89,
+      "nimi": "Lehmon jätti (Suomen pisin mänty, 42 m)",
+      "leveysaste": 62.644989,
+      "pituusaste": 29.826496,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 90,
+      "nimi": "Leningradin puu",
+      "leveysaste": 60.445363,
+      "pituusaste": 22.289274,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 91,
+      "nimi": "Loimaan tammi",
+      "leveysaste": 60.874489,
+      "pituusaste": 22.976139,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 92,
+      "nimi": "Lorisevanpuiston kynäjalava",
+      "leveysaste": 61.499867,
+      "pituusaste": 23.70881,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 93,
+      "nimi": "Luonnon muistomerkki",
+      "leveysaste": 60.645435,
+      "pituusaste": 23.208015,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 94,
+      "nimi": "Lyyrapuu",
+      "leveysaste": 62.472395,
+      "pituusaste": 26.461929,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 95,
+      "nimi": "Lönnrotin petäjä",
+      "leveysaste": 62.071664,
+      "pituusaste": 29.662089,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 96,
+      "nimi": "Maailman tammi",
+      "leveysaste": 61.314767,
+      "pituusaste": 23.750053,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 97,
+      "nimi": "Mando",
+      "leveysaste": 60.390937,
+      "pituusaste": 25.038011,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 98,
+      "nimi": "Mando",
+      "leveysaste": 60.390996,
+      "pituusaste": 25.037866,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 99,
+      "nimi": "Mando",
+      "leveysaste": 60.391252,
+      "pituusaste": 25.038071,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 100,
+      "nimi": "Mando",
+      "leveysaste": 60.391298,
+      "pituusaste": 25.038139,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 101,
+      "nimi": "Mannerheimintien ruhtinaanpoppeli",
+      "leveysaste": 60.195172,
+      "pituusaste": 24.902033,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 102,
+      "nimi": "Mannisen petäjä",
+      "leveysaste": 62.199572,
+      "pituusaste": 25.654111,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 103,
+      "nimi": "Mantshurian jalopähkinä",
+      "leveysaste": 60.24686,
+      "pituusaste": 25.001418,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 104,
+      "nimi": "Markkinan vanha uhrimänty",
+      "leveysaste": 68.48768,
+      "pituusaste": 22.297517,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 105,
+      "nimi": "Markus Selin 2019",
+      "leveysaste": 60.322365,
+      "pituusaste": 24.317061,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 106,
+      "nimi": "Martti Parkkarin puu",
+      "leveysaste": 60.446415,
+      "pituusaste": 22.271036,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 107,
+      "nimi": "Marttojen 100-vuotisjuhlasyreeni",
+      "leveysaste": 60.851085,
+      "pituusaste": 23.056966,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 108,
+      "nimi": "Matias Lunnin ja Oltermannin kuusi",
+      "leveysaste": 62.188811,
+      "pituusaste": 25.67747,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 109,
+      "nimi": "Matti Rag Paanasen puu",
+      "leveysaste": 60.44558,
+      "pituusaste": 22.269366,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 110,
+      "nimi": "Matti Salmisen puu",
+      "leveysaste": 60.446218,
+      "pituusaste": 22.271174,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 111,
+      "nimi": "Matti ja teppo Ruohosen puu",
+      "leveysaste": 60.44624,
+      "pituusaste": 22.270314,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 112,
+      "nimi": "Meilahden mänty",
+      "leveysaste": 60.188042,
+      "pituusaste": 24.890948,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 113,
+      "nimi": "Mikko Koukin puu",
+      "leveysaste": 60.446106,
+      "pituusaste": 22.267575,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 114,
+      "nimi": "Muistotammi",
+      "leveysaste": 61.052184,
+      "pituusaste": 25.433981,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 115,
+      "nimi": "Mukuramänty",
+      "leveysaste": 60.176977,
+      "pituusaste": 25.039836,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 116,
+      "nimi": "Murhapetäjä",
+      "leveysaste": 66.843848,
+      "pituusaste": 28.694141,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 117,
+      "nimi": "Mäkelän mänty",
+      "leveysaste": 62.329345,
+      "pituusaste": 24.065153,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 118,
+      "nimi": "Mänty",
+      "leveysaste": 60.197432,
+      "pituusaste": 25.015172,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 119,
+      "nimi": "Mänty",
+      "leveysaste": 60.551187,
+      "pituusaste": 25.062616,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 120,
+      "nimi": "Mänty ja muurahaispesä",
+      "leveysaste": 60.181317,
+      "pituusaste": 24.885991,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 121,
+      "nimi": "Mäntyryhmä",
+      "leveysaste": 60.264995,
+      "pituusaste": 25.021423,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 122,
+      "nimi": "Naapuruuden tammi",
+      "leveysaste": 61.484572,
+      "pituusaste": 21.777932,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 123,
+      "nimi": "Naskuttajanpetäjä",
+      "leveysaste": 62.147149,
+      "pituusaste": 25.370025,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 124,
+      "nimi": "Nelirunkoinen koivu",
+      "leveysaste": 60.253825,
+      "pituusaste": 24.876333,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 125,
+      "nimi": "Niiniahon lehmus",
+      "leveysaste": 62.200881,
+      "pituusaste": 25.534981,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 126,
+      "nimi": "Nääjärven sypressikatajat",
+      "leveysaste": 61.326899,
+      "pituusaste": 23.818334,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 127,
+      "nimi": "Nääjärven sypressikatajat",
+      "leveysaste": 61.327725,
+      "pituusaste": 23.822221,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 128,
+      "nimi": "Oilinmänty",
+      "leveysaste": 60.730169,
+      "pituusaste": 26.748678,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 129,
+      "nimi": "Oilinmänty",
+      "leveysaste": 60.736882,
+      "pituusaste": 26.782731,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 130,
+      "nimi": "Paavolan tammi",
+      "leveysaste": 60.226524,
+      "pituusaste": 23.890712,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 131,
+      "nimi": "Paimenpojan mänty",
+      "leveysaste": 62.39879,
+      "pituusaste": 22.897115,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 132,
+      "nimi": "Pekka Korpi 2020",
+      "leveysaste": 60.321893,
+      "pituusaste": 24.316705,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 133,
+      "nimi": "Peltolammin Herrainsuonkadun mänty",
+      "leveysaste": 61.449827,
+      "pituusaste": 23.755323,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 134,
+      "nimi": "Peltorättälin petäjät",
+      "leveysaste": 62.122989,
+      "pituusaste": 25.680934,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 135,
+      "nimi": "Petäja",
+      "leveysaste": 61.625777,
+      "pituusaste": 29.674598,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 136,
+      "nimi": "Pieksupetäjä",
+      "leveysaste": 62.892197,
+      "pituusaste": 28.238151,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 137,
+      "nimi": "Piiskauspetäjä",
+      "leveysaste": 62.621484,
+      "pituusaste": 26.83685,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 138,
+      "nimi": "Piiskuupetäjä",
+      "leveysaste": 63.307491,
+      "pituusaste": 30.005328,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 139,
+      "nimi": "Pilvi Huhta 2019",
+      "leveysaste": 60.322334,
+      "pituusaste": 24.316723,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 140,
+      "nimi": "Pohjois-Haagan käärmekuusi",
+      "leveysaste": 60.232756,
+      "pituusaste": 24.889841,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 141,
+      "nimi": "Punatorpan metsälehmus",
+      "leveysaste": 60.321902,
+      "pituusaste": 24.715563,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 142,
+      "nimi": "Puolivälinmänty",
+      "leveysaste": 65.793577,
+      "pituusaste": 29.216467,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 143,
+      "nimi": "Puu vuonna 2021 syntyneille lapsille",
+      "leveysaste": 60.184556,
+      "pituusaste": 24.976819,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 144,
+      "nimi": "Puu vuonna 2022 syntyneille lapsille",
+      "leveysaste": 60.195524,
+      "pituusaste": 25.049777,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 145,
+      "nimi": "Puu vuonna 2023 syntyneille lapsille",
+      "leveysaste": 60.231117,
+      "pituusaste": 24.929056,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 146,
+      "nimi": "Puu vuonna 2024 syntyneille lapsille",
+      "leveysaste": 60.235772,
+      "pituusaste": 25.122428,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 147,
+      "nimi": "Puu vuonna 2025 syntyneille lapsille",
+      "leveysaste": 60.186618,
+      "pituusaste": 24.963048,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 148,
+      "nimi": "Puumainen tyrni",
+      "leveysaste": 60.153734,
+      "pituusaste": 24.940957,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 149,
+      "nimi": "Puun päivä 2006",
+      "leveysaste": 60.484783,
+      "pituusaste": 22.173354,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 150,
+      "nimi": "Puun päivän puu 2012",
+      "leveysaste": 60.445661,
+      "pituusaste": 22.28728,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 151,
+      "nimi": "Puun päivän puu 2016",
+      "leveysaste": 60.447532,
+      "pituusaste": 22.271891,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 152,
+      "nimi": "Puun päivän puu 2017",
+      "leveysaste": 60.457606,
+      "pituusaste": 22.282632,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 153,
+      "nimi": "Puun päivän puu 2018",
+      "leveysaste": 60.440112,
+      "pituusaste": 22.307225,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 154,
+      "nimi": "Puun päivän puu 2020",
+      "leveysaste": 60.440331,
+      "pituusaste": 22.261842,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 155,
+      "nimi": "Puun päivän puu 2021",
+      "leveysaste": 60.444969,
+      "pituusaste": 22.288953,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 156,
+      "nimi": "Puun päivän puu 2022",
+      "leveysaste": 60.445128,
+      "pituusaste": 22.288863,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 157,
+      "nimi": "Puun päivän puu 2023",
+      "leveysaste": 60.434621,
+      "pituusaste": 22.226224,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 158,
+      "nimi": "Puun päivän puu 2024",
+      "leveysaste": 60.447062,
+      "pituusaste": 22.290037,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 159,
+      "nimi": "Raija Lehmussaaren puu",
+      "leveysaste": 60.446185,
+      "pituusaste": 22.267292,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 160,
+      "nimi": "Raisio kaupunkina 40 vuotta",
+      "leveysaste": 60.484863,
+      "pituusaste": 22.173623,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 161,
+      "nimi": "Raita",
+      "leveysaste": 60.197263,
+      "pituusaste": 25.015002,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 162,
+      "nimi": "Ramsayn tammi",
+      "leveysaste": 60.386671,
+      "pituusaste": 22.304557,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 163,
+      "nimi": "Rauhanpuu",
+      "leveysaste": 60.869841,
+      "pituusaste": 26.69807,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 164,
+      "nimi": "Rauhoitettu puu",
+      "leveysaste": 61.262803,
+      "pituusaste": 24.960028,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 165,
+      "nimi": "Rauno Lahtisen puu",
+      "leveysaste": 60.446247,
+      "pituusaste": 22.267356,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 166,
+      "nimi": "Rehtori Kalervo Väänäsen puu",
+      "leveysaste": 60.457978,
+      "pituusaste": 22.285963,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 167,
+      "nimi": "Reijo Mäen puu",
+      "leveysaste": 60.446086,
+      "pituusaste": 22.267491,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 168,
+      "nimi": "Riina Saksa 2019",
+      "leveysaste": 60.321962,
+      "pituusaste": 24.316813,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 169,
+      "nimi": "Rostockin puu",
+      "leveysaste": 60.445351,
+      "pituusaste": 22.289185,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 170,
+      "nimi": "Ryhmä jättihaapoja",
+      "leveysaste": 60.219692,
+      "pituusaste": 24.955727,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 171,
+      "nimi": "Rönnbergs Björk",
+      "leveysaste": 60.10389,
+      "pituusaste": 19.945387,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 172,
+      "nimi": "Saara Ekströmin puu",
+      "leveysaste": 60.446053,
+      "pituusaste": 22.267551,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 173,
+      "nimi": "Sahamäenkujan mänty",
+      "leveysaste": 60.318766,
+      "pituusaste": 25.08805,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 174,
+      "nimi": "Sakkolantien tammi",
+      "leveysaste": 60.193946,
+      "pituusaste": 24.808168,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 175,
+      "nimi": "Salinmäen mänty",
+      "leveysaste": 61.18724,
+      "pituusaste": 23.848945,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 176,
+      "nimi": "Satalatva merkkipuu",
+      "leveysaste": 64.75449,
+      "pituusaste": 29.984575,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 177,
+      "nimi": "Seminaarinkuusi",
+      "leveysaste": 62.237105,
+      "pituusaste": 25.735322,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 178,
+      "nimi": "Seppo Lahtisen puu",
+      "leveysaste": 60.446073,
+      "pituusaste": 22.269651,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 179,
+      "nimi": "Shellin mänty",
+      "leveysaste": 62.137664,
+      "pituusaste": 25.673083,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 180,
+      "nimi": "Sipilän käärmekuusi",
+      "leveysaste": 61.423665,
+      "pituusaste": 23.741859,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 181,
+      "nimi": "Sotamänty",
+      "leveysaste": 65.026886,
+      "pituusaste": 24.777552,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 182,
+      "nimi": "Suolamänty",
+      "leveysaste": 65.052537,
+      "pituusaste": 25.431881,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 183,
+      "nimi": "Suomen itsenäisyys 100 vuotta-kuusi",
+      "leveysaste": 61.20439,
+      "pituusaste": 26.029233,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 184,
+      "nimi": "Suomen pisin mänty",
+      "leveysaste": 61.807349,
+      "pituusaste": 29.304236,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 185,
+      "nimi": "Suomen suurin puu",
+      "leveysaste": 61.808825,
+      "pituusaste": 29.305812,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 186,
+      "nimi": "Suomi 100 -kuusi",
+      "leveysaste": 60.440771,
+      "pituusaste": 22.308211,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 187,
+      "nimi": "Suomi 100 vuotta",
+      "leveysaste": 60.855588,
+      "pituusaste": 23.055844,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 188,
+      "nimi": "Suomi 100 vuotta -juhlakuusi",
+      "leveysaste": 60.84589,
+      "pituusaste": 23.055865,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 189,
+      "nimi": "Suomi 100 vuotta -juhlakuusi",
+      "leveysaste": 60.875095,
+      "pituusaste": 22.976434,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 190,
+      "nimi": "Suuri pihakuusi Pöytäalhossa",
+      "leveysaste": 60.478924,
+      "pituusaste": 25.098271,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 191,
+      "nimi": "Suvelan tammi",
+      "leveysaste": 60.202449,
+      "pituusaste": 24.664799,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 192,
+      "nimi": "Szegedin puu",
+      "leveysaste": 60.445339,
+      "pituusaste": 22.289098,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 193,
+      "nimi": "Taatalan Perähaanpuiston lehtikuusi",
+      "leveysaste": 61.470525,
+      "pituusaste": 23.780203,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 194,
+      "nimi": "Taavetti Lukkarisen hirttopuu",
+      "leveysaste": 65.009149,
+      "pituusaste": 25.510189,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 195,
+      "nimi": "Talin tammi",
+      "leveysaste": 60.211849,
+      "pituusaste": 24.858646,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 196,
+      "nimi": "Talvikkirinteen kuusi",
+      "leveysaste": 60.299338,
+      "pituusaste": 25.036347,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 197,
+      "nimi": "Tammi",
+      "leveysaste": 60.245564,
+      "pituusaste": 24.686161,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 198,
+      "nimi": "Tapionpöytäkuusi",
+      "leveysaste": 60.794505,
+      "pituusaste": 27.132241,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 199,
+      "nimi": "Tapionpöytäkuusi",
+      "leveysaste": 62.054871,
+      "pituusaste": 23.909833,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 200,
+      "nimi": "Tasa-arvon tammi",
+      "leveysaste": 60.227651,
+      "pituusaste": 25.013594,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 201,
+      "nimi": "Tempakan kuusi",
+      "leveysaste": 62.26681,
+      "pituusaste": 24.902313,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 202,
+      "nimi": "Teodor Koskeniemi 2020",
+      "leveysaste": 60.321749,
+      "pituusaste": 24.316506,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 203,
+      "nimi": "Tieteen tammi",
+      "leveysaste": 60.454483,
+      "pituusaste": 22.284029,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 204,
+      "nimi": "Timin mänty",
+      "leveysaste": 61.644247,
+      "pituusaste": 23.262185,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 205,
+      "nimi": "Tryggve Forssellin puu",
+      "leveysaste": 60.445851,
+      "pituusaste": 22.267406,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 206,
+      "nimi": "Träskändan tammi",
+      "leveysaste": 60.235549,
+      "pituusaste": 24.709591,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 207,
+      "nimi": "Tsaarinpoppeli",
+      "leveysaste": 61.200789,
+      "pituusaste": 26.030994,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 208,
+      "nimi": "Tulevaisuuden kuusi",
+      "leveysaste": 60.416683,
+      "pituusaste": 24.32068,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 209,
+      "nimi": "Tullisaaren kaksihaarainen metsälehmus",
+      "leveysaste": 60.177192,
+      "pituusaste": 25.033275,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 210,
+      "nimi": "Tullisaaren metsälehmus",
+      "leveysaste": 60.176793,
+      "pituusaste": 25.032311,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 211,
+      "nimi": "Tullisaaren tammi",
+      "leveysaste": 60.178664,
+      "pituusaste": 25.032458,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 212,
+      "nimi": "Tupsumänty",
+      "leveysaste": 60.371028,
+      "pituusaste": 24.276589,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 213,
+      "nimi": "Turun puu",
+      "leveysaste": 60.445326,
+      "pituusaste": 22.289013,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 214,
+      "nimi": "Tuulenpesä",
+      "leveysaste": 62.752787,
+      "pituusaste": 22.805011,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 215,
+      "nimi": "Uusi iso puu",
+      "leveysaste": 62.844541,
+      "pituusaste": 25.478728,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 216,
+      "nimi": "Vaahtera",
+      "leveysaste": 60.230884,
+      "pituusaste": 25.005658,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 217,
+      "nimi": "Vaarinkuusi",
+      "leveysaste": 62.785638,
+      "pituusaste": 24.038466,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 218,
+      "nimi": "Vallikallion tammi",
+      "leveysaste": 60.22765,
+      "pituusaste": 24.822483,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 219,
+      "nimi": "Vanha iso puu",
+      "leveysaste": 62.842362,
+      "pituusaste": 25.477815,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 220,
+      "nimi": "Vanha kataja",
+      "leveysaste": 60.372276,
+      "pituusaste": 24.94041,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 221,
+      "nimi": "Vanha mänty",
+      "leveysaste": 60.258948,
+      "pituusaste": 25.027048,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 222,
+      "nimi": "Vanha suojeltu mänty",
+      "leveysaste": 65.053656,
+      "pituusaste": 25.43022,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 223,
+      "nimi": "Vanha tammi",
+      "leveysaste": 60.235966,
+      "pituusaste": 24.708965,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 224,
+      "nimi": "Vanhan Myllypolun kuuset",
+      "leveysaste": 60.316962,
+      "pituusaste": 25.080568,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 225,
+      "nimi": "Vanhan Myllypolun kuuset",
+      "leveysaste": 60.316975,
+      "pituusaste": 25.080473,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 226,
+      "nimi": "Vanhan Myllypolun mänty",
+      "leveysaste": 60.314892,
+      "pituusaste": 25.078321,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 227,
+      "nimi": "Vanhan männyn kanto",
+      "leveysaste": 64.400182,
+      "pituusaste": 29.655393,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 228,
+      "nimi": "Vanhankartanon raita",
+      "leveysaste": 60.259863,
+      "pituusaste": 24.73959,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 229,
+      "nimi": "Vanhankartanon tammi",
+      "leveysaste": 60.253499,
+      "pituusaste": 24.729198,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 230,
+      "nimi": "Vanhankylänniemen mänty",
+      "leveysaste": 60.457582,
+      "pituusaste": 25.054938,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 231,
+      "nimi": "Vanhankylänniemen tammet",
+      "leveysaste": 60.455575,
+      "pituusaste": 25.063249,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 232,
+      "nimi": "Vanhankylänniemen tammet",
+      "leveysaste": 60.455598,
+      "pituusaste": 25.063436,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 233,
+      "nimi": "Vanhankylänniemen tammet",
+      "leveysaste": 60.455711,
+      "pituusaste": 25.063415,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 234,
+      "nimi": "Vanhankylänniemen tammet",
+      "leveysaste": 60.455809,
+      "pituusaste": 25.063399,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 235,
+      "nimi": "Vanhankylänniemen tammet",
+      "leveysaste": 60.45595,
+      "pituusaste": 25.063269,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 236,
+      "nimi": "Vanhankylänniemen tammet",
+      "leveysaste": 60.456086,
+      "pituusaste": 25.063142,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 237,
+      "nimi": "Varnan puu",
+      "leveysaste": 60.445315,
+      "pituusaste": 22.28893,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 238,
+      "nimi": "Vesalan mänty",
+      "leveysaste": 60.236803,
+      "pituusaste": 25.103548,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 239,
+      "nimi": "Viherlaakson metsälehmus",
+      "leveysaste": 60.22629,
+      "pituusaste": 24.744668,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 240,
+      "nimi": "Viikinsaaren laivarannan lehmus",
+      "leveysaste": 61.484418,
+      "pituusaste": 23.698958,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 241,
+      "nimi": "Vähä-Heikkilän mäkitupalaisyhdistys 60 vuotta",
+      "leveysaste": 60.427363,
+      "pituusaste": 22.238223,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 242,
+      "nimi": "Yksinäinen puu",
+      "leveysaste": 68.065772,
+      "pituusaste": 24.052079,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 243,
+      "nimi": "Yliskylän kartanon haltiamänty",
+      "leveysaste": 60.1797,
+      "pituusaste": 25.052715,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 244,
+      "nimi": "Ystävyyskuntapuut",
+      "leveysaste": 60.850633,
+      "pituusaste": 23.0536,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 245,
+      "nimi": "iso mänty",
+      "leveysaste": 66.737942,
+      "pituusaste": 24.424569,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    },
+    {
+      "id": 246,
+      "nimi": "Århusin puu",
+      "leveysaste": 60.445304,
+      "pituusaste": 22.288846,
+      "osm_avain": "natural",
+      "osm_arvo": "tree",
+      "osm_luokka": "natural=tree"
+    }
+  ],
+  "meta": {
+    "title": "Merkittävät puut – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Merkittävät puut Suomessa — 246 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `natural=tree`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 0. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 246 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Merkittävät puut – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Merkittävät puut – Suomi (OpenStreetMap) — 246 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 246 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

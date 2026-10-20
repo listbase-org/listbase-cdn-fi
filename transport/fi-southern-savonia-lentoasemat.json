@@ -1,0 +1,170 @@
+{
+  "id": "fi-southern-savonia-lentoasemat",
+  "name": "Finland / Etelä-Savo — Airports (lentoasemat)",
+  "title": "Finland / Etelä-Savo — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Etelä-Savo (Southern Savonia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Southern Savonia'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFMI",
+      "iata": "MIK",
+      "name": "Mikkeli Airport",
+      "city": "Mikkeli",
+      "subdivision": "Southern Savonia",
+      "subdivision_name_fi": "Etelä-Savo",
+      "country": "FI",
+      "elevation_ft": 329,
+      "latitude": 61.6866,
+      "longitude": 27.2018,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPK",
+      "iata": "",
+      "name": "Pieksamaki Airport",
+      "city": "Pieksamaki",
+      "subdivision": "Southern Savonia",
+      "subdivision_name_fi": "Etelä-Savo",
+      "country": "FI",
+      "elevation_ft": 390,
+      "latitude": 62.2647,
+      "longitude": 27.0028,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPN",
+      "iata": "",
+      "name": "Punkaharju Airport",
+      "city": "",
+      "subdivision": "Southern Savonia",
+      "subdivision_name_fi": "Etelä-Savo",
+      "country": "FI",
+      "elevation_ft": 253,
+      "latitude": 61.7289,
+      "longitude": 29.3936,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFRN",
+      "iata": "",
+      "name": "Rantasalmi Airport",
+      "city": "",
+      "subdivision": "Southern Savonia",
+      "subdivision_name_fi": "Etelä-Savo",
+      "country": "FI",
+      "elevation_ft": 292,
+      "latitude": 62.0655,
+      "longitude": 28.3565,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFSA",
+      "iata": "SVL",
+      "name": "Savonlinna Airport",
+      "city": "Savonlinna",
+      "subdivision": "Southern Savonia",
+      "subdivision_name_fi": "Etelä-Savo",
+      "country": "FI",
+      "elevation_ft": 311,
+      "latitude": 61.9431,
+      "longitude": 28.9451,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFVR",
+      "iata": "VRK",
+      "name": "Varkaus Airport",
+      "city": "Varkaus / Joroinen",
+      "subdivision": "Southern Savonia",
+      "subdivision_name_fi": "Etelä-Savo",
+      "country": "FI",
+      "elevation_ft": 286,
+      "latitude": 62.1711,
+      "longitude": 27.8686,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Etelä-Savo — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Etelä-Savo (Southern Savonia), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Southern Savonia'. Sisältää 6 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Etelä-Savo — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Etelä-Savo — Airports (lentoasemat) — 6 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 6 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

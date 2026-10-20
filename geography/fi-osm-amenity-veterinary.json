@@ -1,0 +1,2176 @@
+{
+  "id": "fi-osm-amenity-veterinary",
+  "name": "Eläinlääkärit – Suomi (OpenStreetMap)",
+  "title": "Eläinlääkärit – Suomi (OpenStreetMap)",
+  "description": "Eläinlääkärit Suomessa — 235 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=veterinary`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 12. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 235,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "9lives Espoo",
+      "leveysaste": 60.210368,
+      "pituusaste": 24.642713,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 2,
+      "nimi": "Ahma Eläinklinikka",
+      "leveysaste": 60.233318,
+      "pituusaste": 25.032993,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 3,
+      "nimi": "AitoVet",
+      "leveysaste": 60.862969,
+      "pituusaste": 26.845462,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 4,
+      "nimi": "AitoVet",
+      "leveysaste": 60.862974,
+      "pituusaste": 26.845522,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 5,
+      "nimi": "Alajärven eläinlääkäri",
+      "leveysaste": 62.997588,
+      "pituusaste": 23.828036,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 6,
+      "nimi": "Alfapet Eläinlääkärit",
+      "leveysaste": 60.191045,
+      "pituusaste": 24.602396,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 7,
+      "nimi": "AlmaVet Oy",
+      "leveysaste": 62.259839,
+      "pituusaste": 25.771539,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 8,
+      "nimi": "Anident",
+      "leveysaste": 60.281681,
+      "pituusaste": 24.445353,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 9,
+      "nimi": "Animagi",
+      "leveysaste": 61.044569,
+      "pituusaste": 28.19894,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 10,
+      "nimi": "Animagi HauMau",
+      "leveysaste": 60.170108,
+      "pituusaste": 24.923185,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 11,
+      "nimi": "Anjalan eläinlääkäriasema",
+      "leveysaste": 60.68756,
+      "pituusaste": 26.798564,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 12,
+      "nimi": "Annan eläinlääkäripalvelut",
+      "leveysaste": 61.350505,
+      "pituusaste": 25.27974,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 13,
+      "nimi": "Apex",
+      "leveysaste": 60.252788,
+      "pituusaste": 25.004868,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 14,
+      "nimi": "ApriVet",
+      "leveysaste": 61.992267,
+      "pituusaste": 26.63591,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 15,
+      "nimi": "Balance koirien hyvinvointipalvelut",
+      "leveysaste": 60.196399,
+      "pituusaste": 24.599496,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 16,
+      "nimi": "Brahenkulman Eläinlääkärit",
+      "leveysaste": 60.456139,
+      "pituusaste": 22.265192,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 17,
+      "nimi": "CatVet Kissaklinikka Oy",
+      "leveysaste": 60.207647,
+      "pituusaste": 24.878889,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 18,
+      "nimi": "Eläinklinikka",
+      "leveysaste": 60.487942,
+      "pituusaste": 22.107216,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 19,
+      "nimi": "Eläinklinikka Amos",
+      "leveysaste": 60.212831,
+      "pituusaste": 24.898767,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 20,
+      "nimi": "Eläinklinikka Equivet",
+      "leveysaste": 60.215087,
+      "pituusaste": 24.845179,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 21,
+      "nimi": "Eläinklinikka Hakametsä",
+      "leveysaste": 61.493837,
+      "pituusaste": 23.828304,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 22,
+      "nimi": "Eläinklinikka Hertta",
+      "leveysaste": 60.190257,
+      "pituusaste": 25.027342,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 23,
+      "nimi": "Eläinklinikka Hertta",
+      "leveysaste": 60.190257,
+      "pituusaste": 25.027376,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 24,
+      "nimi": "Eläinklinikka Inuvet",
+      "leveysaste": 61.501643,
+      "pituusaste": 23.847985,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 25,
+      "nimi": "Eläinklinikka Karvakamut",
+      "leveysaste": 60.278135,
+      "pituusaste": 25.104836,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 26,
+      "nimi": "Eläinklinikka Katse",
+      "leveysaste": 61.517364,
+      "pituusaste": 23.663873,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 27,
+      "nimi": "Eläinklinikka Lexavet",
+      "leveysaste": 60.24235,
+      "pituusaste": 24.991621,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 28,
+      "nimi": "Eläinklinikka Linnunmäki",
+      "leveysaste": 60.344115,
+      "pituusaste": 25.483278,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 29,
+      "nimi": "Eläinklinikka Livet",
+      "leveysaste": 60.201794,
+      "pituusaste": 24.878713,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 30,
+      "nimi": "Eläinklinikka Mar-Vet",
+      "leveysaste": 60.564255,
+      "pituusaste": 27.162692,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 31,
+      "nimi": "Eläinklinikka Morelius",
+      "leveysaste": 60.379683,
+      "pituusaste": 25.265113,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 32,
+      "nimi": "Eläinklinikka Nivel",
+      "leveysaste": 63.929221,
+      "pituusaste": 24.960184,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 33,
+      "nimi": "Eläinklinikka Norppa",
+      "leveysaste": 61.876718,
+      "pituusaste": 28.981404,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 34,
+      "nimi": "Eläinklinikka Norppa",
+      "leveysaste": 61.876781,
+      "pituusaste": 28.981405,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 35,
+      "nimi": "Eläinklinikka Paras Kaveri",
+      "leveysaste": 60.552003,
+      "pituusaste": 24.968561,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 36,
+      "nimi": "Eläinklinikka Pets Award",
+      "leveysaste": 60.267544,
+      "pituusaste": 24.120447,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 37,
+      "nimi": "Eläinklinikka Syli",
+      "leveysaste": 60.483272,
+      "pituusaste": 22.166533,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 38,
+      "nimi": "Eläinklinikka Tammi",
+      "leveysaste": 60.220608,
+      "pituusaste": 25.118553,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 39,
+      "nimi": "Eläinklinikka Tassuvaara",
+      "leveysaste": 62.249779,
+      "pituusaste": 25.762547,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 40,
+      "nimi": "Eläinklinikka Timantti",
+      "leveysaste": 61.470583,
+      "pituusaste": 23.7422,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 41,
+      "nimi": "Eläinklinikka Vetset",
+      "leveysaste": 60.117599,
+      "pituusaste": 24.442361,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 42,
+      "nimi": "Eläinklinikka Viksu",
+      "leveysaste": 61.338085,
+      "pituusaste": 22.918596,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 43,
+      "nimi": "Eläinlääkintähuolto",
+      "leveysaste": 62.424685,
+      "pituusaste": 22.174667,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 44,
+      "nimi": "Eläinlääkintähuolto",
+      "leveysaste": 62.42469,
+      "pituusaste": 22.174669,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 45,
+      "nimi": "Eläinlääkäri",
+      "leveysaste": 61.312027,
+      "pituusaste": 22.150605,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 46,
+      "nimi": "Eläinlääkäri",
+      "leveysaste": 64.277633,
+      "pituusaste": 23.956896,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 47,
+      "nimi": "Eläinlääkäri",
+      "leveysaste": 67.647737,
+      "pituusaste": 24.926507,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 48,
+      "nimi": "Eläinlääkäri",
+      "leveysaste": 68.65602,
+      "pituusaste": 27.526875,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 49,
+      "nimi": "Eläinlääkäri Friskis",
+      "leveysaste": 60.183524,
+      "pituusaste": 24.794541,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 50,
+      "nimi": "Eläinlääkäri Heli Haukioja",
+      "leveysaste": 61.430211,
+      "pituusaste": 21.869626,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 51,
+      "nimi": "Eläinlääkäri Helin",
+      "leveysaste": 60.373748,
+      "pituusaste": 25.01756,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 52,
+      "nimi": "Eläinlääkäri Iitti",
+      "leveysaste": 60.890584,
+      "pituusaste": 26.345624,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 53,
+      "nimi": "Eläinlääkäri Jaana Kekki",
+      "leveysaste": 61.498884,
+      "pituusaste": 23.746,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 54,
+      "nimi": "Eläinlääkäri Johanna Raulio",
+      "leveysaste": 60.301269,
+      "pituusaste": 24.856454,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 55,
+      "nimi": "Eläinlääkäri Jokivek",
+      "leveysaste": 62.590706,
+      "pituusaste": 29.791669,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 56,
+      "nimi": "Eläinlääkäri Kaisa Wuorimaa",
+      "leveysaste": 60.042995,
+      "pituusaste": 24.002504,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 57,
+      "nimi": "Eläinlääkäri Kangasala",
+      "leveysaste": 61.458757,
+      "pituusaste": 24.085754,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 58,
+      "nimi": "Eläinlääkäri Kangasala",
+      "leveysaste": 61.458781,
+      "pituusaste": 24.085755,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 59,
+      "nimi": "Eläinlääkäri Kari Volanto",
+      "leveysaste": 62.580932,
+      "pituusaste": 23.538853,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 60,
+      "nimi": "Eläinlääkäri Kirsu",
+      "leveysaste": 60.350905,
+      "pituusaste": 25.076475,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 61,
+      "nimi": "Eläinlääkäri Kontu",
+      "leveysaste": 62.574251,
+      "pituusaste": 29.797628,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 62,
+      "nimi": "Eläinlääkäri Kontu",
+      "leveysaste": 62.574284,
+      "pituusaste": 29.797635,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 63,
+      "nimi": "Eläinlääkäri Marja Mallat",
+      "leveysaste": 62.248884,
+      "pituusaste": 25.864403,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 64,
+      "nimi": "Eläinlääkäri Minna Laeslahti",
+      "leveysaste": 61.130375,
+      "pituusaste": 21.566901,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 65,
+      "nimi": "Eläinlääkäri Nivala",
+      "leveysaste": 63.920018,
+      "pituusaste": 24.990669,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 66,
+      "nimi": "Eläinlääkäri Oili Alakukku",
+      "leveysaste": 60.827282,
+      "pituusaste": 23.096484,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 67,
+      "nimi": "Eläinlääkäri Orimattila",
+      "leveysaste": 60.818132,
+      "pituusaste": 25.735709,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 68,
+      "nimi": "Eläinlääkäri Otto Wejberg",
+      "leveysaste": 60.228066,
+      "pituusaste": 24.020492,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 69,
+      "nimi": "Eläinlääkäri Pirjo Pirjola",
+      "leveysaste": 60.779158,
+      "pituusaste": 24.998635,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 70,
+      "nimi": "Eläinlääkäri Sanna-Mari Artukka",
+      "leveysaste": 61.130452,
+      "pituusaste": 21.566571,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 71,
+      "nimi": "Eläinlääkäri Yläne",
+      "leveysaste": 60.878682,
+      "pituusaste": 22.407561,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 72,
+      "nimi": "Eläinlääkäri, Loviisan kaupunki",
+      "leveysaste": 60.458539,
+      "pituusaste": 26.191129,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 73,
+      "nimi": "Eläinlääkäriasema Arkki",
+      "leveysaste": 60.201711,
+      "pituusaste": 24.710012,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 74,
+      "nimi": "Eläinlääkäriasema Askel",
+      "leveysaste": 60.387502,
+      "pituusaste": 25.023879,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 75,
+      "nimi": "Eläinlääkäriasema Evidensia",
+      "leveysaste": 60.640804,
+      "pituusaste": 25.322241,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 76,
+      "nimi": "Eläinlääkäriasema Evidensia Salo",
+      "leveysaste": 60.383851,
+      "pituusaste": 23.13015,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 77,
+      "nimi": "Eläinlääkäriasema Kamu",
+      "leveysaste": 65.007619,
+      "pituusaste": 25.471961,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 78,
+      "nimi": "Eläinlääkäriasema Lemmikkiaitta",
+      "leveysaste": 61.489547,
+      "pituusaste": 21.809067,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 79,
+      "nimi": "Eläinlääkäriasema Lillvet",
+      "leveysaste": 61.462542,
+      "pituusaste": 23.736272,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 80,
+      "nimi": "Eläinlääkäriasema Nemo",
+      "leveysaste": 64.912384,
+      "pituusaste": 25.506783,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 81,
+      "nimi": "Eläinlääkäriasema Peninkulma",
+      "leveysaste": 60.309583,
+      "pituusaste": 25.031165,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 82,
+      "nimi": "Eläinlääkäriasema Tassu",
+      "leveysaste": 60.280126,
+      "pituusaste": 25.109955,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 83,
+      "nimi": "Eläinlääkäriasema Valjakko",
+      "leveysaste": 60.28896,
+      "pituusaste": 24.95224,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 84,
+      "nimi": "Eläinlääkäriasema Veteira",
+      "leveysaste": 60.188427,
+      "pituusaste": 24.917794,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 85,
+      "nimi": "Eläinlääkärikeskus SoVet",
+      "leveysaste": 60.163621,
+      "pituusaste": 24.721691,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 86,
+      "nimi": "Eläinlääkärivastaanotto",
+      "leveysaste": 64.995992,
+      "pituusaste": 25.479812,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 87,
+      "nimi": "Eläinsairaala Evidensia Tammisto",
+      "leveysaste": 60.285976,
+      "pituusaste": 24.976664,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 88,
+      "nimi": "Eläinsairaala Huoma",
+      "leveysaste": 60.296665,
+      "pituusaste": 25.057666,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 89,
+      "nimi": "Eläinsairaala Mevet",
+      "leveysaste": 60.217098,
+      "pituusaste": 24.876527,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 90,
+      "nimi": "Eläinsairaala Sacrum",
+      "leveysaste": 60.278158,
+      "pituusaste": 25.083682,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 91,
+      "nimi": "Eläinsairaala Savon Murre",
+      "leveysaste": 62.886032,
+      "pituusaste": 27.630055,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 92,
+      "nimi": "Eläinsairaala Veter",
+      "leveysaste": 61.50392,
+      "pituusaste": 23.774408,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 93,
+      "nimi": "Eläinsairaala Vethaus",
+      "leveysaste": 61.016986,
+      "pituusaste": 24.418348,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 94,
+      "nimi": "Eläintohtori Kivuton",
+      "leveysaste": 62.542252,
+      "pituusaste": 29.841189,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 95,
+      "nimi": "Eläinystäväsi Lääkäri",
+      "leveysaste": 61.498915,
+      "pituusaste": 23.654064,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 96,
+      "nimi": "Elälinlääkäripalvelut",
+      "leveysaste": 60.377211,
+      "pituusaste": 25.269163,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 97,
+      "nimi": "Elänlääkäri Markus Kiili",
+      "leveysaste": 67.597796,
+      "pituusaste": 24.113291,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 98,
+      "nimi": "Enon eläinlääkäri",
+      "leveysaste": 62.796533,
+      "pituusaste": 30.13943,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 99,
+      "nimi": "Espoon Eläinlääkäriasema",
+      "leveysaste": 60.213622,
+      "pituusaste": 24.82141,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 100,
+      "nimi": "Espoon Eläinlääkäritalo",
+      "leveysaste": 60.225271,
+      "pituusaste": 24.740912,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 101,
+      "nimi": "Espoon Eläinsairaala",
+      "leveysaste": 60.159305,
+      "pituusaste": 24.701565,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 102,
+      "nimi": "Etelä-Helsingin eläinlääkäriasema",
+      "leveysaste": 60.160779,
+      "pituusaste": 24.936002,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 103,
+      "nimi": "Etelä-Hämeen Eläinlääkäriasema",
+      "leveysaste": 60.725942,
+      "pituusaste": 24.734666,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 104,
+      "nimi": "Euran Eläinlääkäri",
+      "leveysaste": 61.129009,
+      "pituusaste": 22.130578,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 105,
+      "nimi": "Euromedivet",
+      "leveysaste": 65.842747,
+      "pituusaste": 24.175907,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 106,
+      "nimi": "Evidensia",
+      "leveysaste": 60.240057,
+      "pituusaste": 24.873861,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 107,
+      "nimi": "Evidensia",
+      "leveysaste": 60.439149,
+      "pituusaste": 22.245668,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 108,
+      "nimi": "Evidensia Kouvolan Eläinsairaala",
+      "leveysaste": 60.873234,
+      "pituusaste": 26.718407,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 109,
+      "nimi": "Evidensia Lohja",
+      "leveysaste": 60.247599,
+      "pituusaste": 24.061565,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 110,
+      "nimi": "Evidensia Tikkurilan eläinlääkäriasema",
+      "leveysaste": 60.29096,
+      "pituusaste": 25.044788,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 111,
+      "nimi": "Evidensia Vettori Raisio",
+      "leveysaste": 60.47859,
+      "pituusaste": 22.159062,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 112,
+      "nimi": "FinProVet",
+      "leveysaste": 60.175872,
+      "pituusaste": 24.793337,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 113,
+      "nimi": "Fiskars Veterinär",
+      "leveysaste": 60.131544,
+      "pituusaste": 23.553407,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 114,
+      "nimi": "HaVet",
+      "leveysaste": 59.824991,
+      "pituusaste": 22.965573,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 115,
+      "nimi": "Haminan eläinklinikka",
+      "leveysaste": 60.571164,
+      "pituusaste": 27.189801,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 116,
+      "nimi": "Hervannan Eläinlääkärit",
+      "leveysaste": 61.446932,
+      "pituusaste": 23.832199,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 117,
+      "nimi": "Hiskinmäen Eläinsairaala Oy",
+      "leveysaste": 62.602439,
+      "pituusaste": 25.737652,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 118,
+      "nimi": "Hollolan eläinlääkäriasema",
+      "leveysaste": 60.988346,
+      "pituusaste": 25.53555,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 119,
+      "nimi": "Hyvinkään Hevossairaala",
+      "leveysaste": 60.632866,
+      "pituusaste": 24.803542,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 120,
+      "nimi": "Hyvinkään Hevossairaala",
+      "leveysaste": 60.63291,
+      "pituusaste": 24.803693,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 121,
+      "nimi": "Ilmajoen eläinlääkäri",
+      "leveysaste": 62.691774,
+      "pituusaste": 22.455203,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 122,
+      "nimi": "Joen Eläinlääkäriasema",
+      "leveysaste": 62.614176,
+      "pituusaste": 29.740285,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 123,
+      "nimi": "Joensuun eläinklinikka",
+      "leveysaste": 62.597872,
+      "pituusaste": 29.726964,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 124,
+      "nimi": "Jokivet",
+      "leveysaste": 60.817777,
+      "pituusaste": 23.628513,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 125,
+      "nimi": "Juvan eläinklinikka - Eläinlääkäri",
+      "leveysaste": 61.885441,
+      "pituusaste": 27.793774,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 126,
+      "nimi": "Jyväskylän Eläinsairaala",
+      "leveysaste": 62.251663,
+      "pituusaste": 25.769427,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 127,
+      "nimi": "Jämsän Pieneläinklinikka",
+      "leveysaste": 61.864493,
+      "pituusaste": 25.19183,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 128,
+      "nimi": "Kaarinan Eläinlääkäriasema Oy",
+      "leveysaste": 60.408119,
+      "pituusaste": 22.375303,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 129,
+      "nimi": "Kangasniemen kunnan eläinlääkäri",
+      "leveysaste": 61.992307,
+      "pituusaste": 26.635881,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 130,
+      "nimi": "Kanta-Hämeen Eläinklinikka",
+      "leveysaste": 60.996476,
+      "pituusaste": 24.458949,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 131,
+      "nimi": "Karkkilan Eläinlääkäriasema",
+      "leveysaste": 60.533177,
+      "pituusaste": 24.210608,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 132,
+      "nimi": "Kaupungineläinlääkäri",
+      "leveysaste": 60.631099,
+      "pituusaste": 24.853639,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 133,
+      "nimi": "Keravan eläinklinikka, Evidensia Kerava",
+      "leveysaste": 60.389746,
+      "pituusaste": 25.113701,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 134,
+      "nimi": "Keski-Suomen eläinklinikka",
+      "leveysaste": 62.305889,
+      "pituusaste": 25.703385,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 135,
+      "nimi": "Keski-Uudenmaan eläinlääkäriasema",
+      "leveysaste": 60.399086,
+      "pituusaste": 25.108912,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 136,
+      "nimi": "Kontiolahden eläinlääkäri",
+      "leveysaste": 62.763,
+      "pituusaste": 29.845107,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 137,
+      "nimi": "Kouvolan pieneläinklinikka",
+      "leveysaste": 60.859897,
+      "pituusaste": 26.711622,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 138,
+      "nimi": "Kuninkaantien Eläinklinikka Oy",
+      "leveysaste": 60.386138,
+      "pituusaste": 23.060823,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 139,
+      "nimi": "Kunnan eläinlääkäri",
+      "leveysaste": 60.679486,
+      "pituusaste": 21.987359,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 140,
+      "nimi": "Kunnaneläinlääkäri Maria Schildt",
+      "leveysaste": 64.127609,
+      "pituusaste": 29.516228,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 141,
+      "nimi": "Kunnaneläinlääkäri Sirpa Korhonen",
+      "leveysaste": 62.626551,
+      "pituusaste": 27.126395,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 142,
+      "nimi": "Kunnaneläinlääkäri, Keski-Uusimaa",
+      "leveysaste": 60.37445,
+      "pituusaste": 25.02977,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 143,
+      "nimi": "Kuopion yksityinen eläinlääkäriasema",
+      "leveysaste": 62.901199,
+      "pituusaste": 27.649514,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 144,
+      "nimi": "Kuortaneen kunnaneläinlääkäri",
+      "leveysaste": 62.803297,
+      "pituusaste": 23.520256,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 145,
+      "nimi": "Käpylän eläinlääkäriasema Vetek",
+      "leveysaste": 60.216682,
+      "pituusaste": 24.967231,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 146,
+      "nimi": "Käpylän eläinlääkäriasema Vetek",
+      "leveysaste": 60.216699,
+      "pituusaste": 24.967237,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 147,
+      "nimi": "Käsämän eläinlääkäriasema",
+      "leveysaste": 62.638902,
+      "pituusaste": 29.376028,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 148,
+      "nimi": "Käsämän eläinlääkäriasema",
+      "leveysaste": 62.638919,
+      "pituusaste": 29.37607,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 149,
+      "nimi": "Lahden eläinlääkäriasema",
+      "leveysaste": 60.971059,
+      "pituusaste": 25.655734,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 150,
+      "nimi": "Lauttasaaren Eläinlääkäriasema",
+      "leveysaste": 60.159328,
+      "pituusaste": 24.880294,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 151,
+      "nimi": "Lempäälän Pieneläinklinikka",
+      "leveysaste": 61.312877,
+      "pituusaste": 23.751922,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 152,
+      "nimi": "Liedon pieneläinklinikka",
+      "leveysaste": 60.50553,
+      "pituusaste": 22.457495,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 153,
+      "nimi": "Loime Eläinklinikka",
+      "leveysaste": 61.06424,
+      "pituusaste": 28.231441,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 154,
+      "nimi": "Loimijoen Eläinlääkäriasema",
+      "leveysaste": 61.029573,
+      "pituusaste": 22.68254,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 155,
+      "nimi": "Loviisan Eläinklinikka LOVET",
+      "leveysaste": 60.446039,
+      "pituusaste": 26.222837,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 156,
+      "nimi": "Loviisan Eläinlääkäriasema",
+      "leveysaste": 60.472442,
+      "pituusaste": 26.226708,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 157,
+      "nimi": "Lupsakka",
+      "leveysaste": 62.839137,
+      "pituusaste": 27.639512,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 158,
+      "nimi": "Länsi-Vantaan Eläinklinikka",
+      "leveysaste": 60.26256,
+      "pituusaste": 24.853589,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 159,
+      "nimi": "Länsirannikon Eläinklinikka",
+      "leveysaste": 63.118558,
+      "pituusaste": 21.659566,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 160,
+      "nimi": "Mankkaan Eläinlääkäri",
+      "leveysaste": 60.196876,
+      "pituusaste": 24.764984,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 161,
+      "nimi": "Masalan eläinlääkäri",
+      "leveysaste": 60.156892,
+      "pituusaste": 24.531488,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 162,
+      "nimi": "Miljöhälsan Kallan",
+      "leveysaste": 63.669081,
+      "pituusaste": 22.696509,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 163,
+      "nimi": "MyllyVet",
+      "leveysaste": 60.224326,
+      "pituusaste": 25.073885,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 164,
+      "nimi": "Nikkilän eläinlääkärit",
+      "leveysaste": 60.37769,
+      "pituusaste": 25.267669,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 165,
+      "nimi": "Nurmeksen eläinlääkäri",
+      "leveysaste": 63.547719,
+      "pituusaste": 29.136163,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 166,
+      "nimi": "Nurmijärven pieneläinklinikka",
+      "leveysaste": 60.458058,
+      "pituusaste": 24.824375,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 167,
+      "nimi": "Oiva Eläinklinikka",
+      "leveysaste": 61.450459,
+      "pituusaste": 23.648755,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 168,
+      "nimi": "Omaeläinklinikka",
+      "leveysaste": 60.473555,
+      "pituusaste": 22.206094,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 169,
+      "nimi": "Omaeläinklinikka Lohja",
+      "leveysaste": 60.228569,
+      "pituusaste": 24.022852,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 170,
+      "nimi": "Omaeläinklinikka Vihtivet",
+      "leveysaste": 60.351528,
+      "pituusaste": 24.321537,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 171,
+      "nimi": "Ortopet",
+      "leveysaste": 61.156241,
+      "pituusaste": 23.883831,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 172,
+      "nimi": "Oulun eläinklinikka",
+      "leveysaste": 64.957932,
+      "pituusaste": 25.528864,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 173,
+      "nimi": "Paraisten Kaupunki Eläinlääkäri",
+      "leveysaste": 60.302896,
+      "pituusaste": 22.30346,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 174,
+      "nimi": "Pet-Vet",
+      "leveysaste": 60.431673,
+      "pituusaste": 22.330207,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 175,
+      "nimi": "Petvet orto",
+      "leveysaste": 60.431157,
+      "pituusaste": 22.330075,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 176,
+      "nimi": "Pieneläinklinikka Kaikenkarvaiset",
+      "leveysaste": 60.974275,
+      "pituusaste": 24.456253,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 177,
+      "nimi": "Pieneläinklinikka Tuhatjalka",
+      "leveysaste": 61.50017,
+      "pituusaste": 23.754969,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 178,
+      "nimi": "Pieneläinklinikka Veterica",
+      "leveysaste": 60.128474,
+      "pituusaste": 24.474448,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 179,
+      "nimi": "Porin eläinlääkäripalvelu",
+      "leveysaste": 61.476119,
+      "pituusaste": 21.817709,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 180,
+      "nimi": "Punavuoren eläinlääkärivastaanotto",
+      "leveysaste": 60.158583,
+      "pituusaste": 24.937785,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 181,
+      "nimi": "Pups 'n Pets",
+      "leveysaste": 60.156172,
+      "pituusaste": 24.910312,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 182,
+      "nimi": "Pups 'n Pets",
+      "leveysaste": 60.182555,
+      "pituusaste": 24.976096,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 183,
+      "nimi": "Pyynikin Eläinlääkärit",
+      "leveysaste": 61.49836,
+      "pituusaste": 23.740409,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 184,
+      "nimi": "Raahen pieneläinklinikka",
+      "leveysaste": 64.696165,
+      "pituusaste": 24.472562,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 185,
+      "nimi": "Rauman Kunnaneläinlääkäri",
+      "leveysaste": 61.123155,
+      "pituusaste": 21.521717,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 186,
+      "nimi": "Reviiri",
+      "leveysaste": 61.507802,
+      "pituusaste": 23.665788,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 187,
+      "nimi": "Saaren eläinklinikka",
+      "leveysaste": 60.735702,
+      "pituusaste": 25.418455,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 188,
+      "nimi": "Saela Savonlinnan eläinlääkäriasema",
+      "leveysaste": 61.879526,
+      "pituusaste": 28.943397,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 189,
+      "nimi": "Saimaan eläinklinikka",
+      "leveysaste": 61.072181,
+      "pituusaste": 28.259683,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 190,
+      "nimi": "Salpakankaan Eläinklinikka",
+      "leveysaste": 60.984285,
+      "pituusaste": 25.536512,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 191,
+      "nimi": "SanVet – Eläinlääkäripalvelu Sanna Sirkiä",
+      "leveysaste": 60.215625,
+      "pituusaste": 25.089036,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 192,
+      "nimi": "Sari Sievänen",
+      "leveysaste": 64.126485,
+      "pituusaste": 29.516394,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 193,
+      "nimi": "Savisillan eläinklinikka",
+      "leveysaste": 64.074366,
+      "pituusaste": 24.539478,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 194,
+      "nimi": "Savonlinnan Eläinlääkäriasema",
+      "leveysaste": 61.885946,
+      "pituusaste": 28.795525,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 195,
+      "nimi": "Savonlinnan kunnallinen eläinlääkäriasema",
+      "leveysaste": 61.884592,
+      "pituusaste": 29.096497,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 196,
+      "nimi": "Savonlinnan kunnallinen eläinlääkäriasema",
+      "leveysaste": 61.884597,
+      "pituusaste": 29.096609,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 197,
+      "nimi": "Siilinjärven kunnan eläinlääkäri",
+      "leveysaste": 63.081458,
+      "pituusaste": 27.663424,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 198,
+      "nimi": "Smådjurskliniken Zoodiaken",
+      "leveysaste": 60.098426,
+      "pituusaste": 19.936266,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 199,
+      "nimi": "Sopulitien eläinlääkäriasema",
+      "leveysaste": 60.216435,
+      "pituusaste": 25.041925,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 200,
+      "nimi": "Suomen Urheiluhevosklinikka",
+      "leveysaste": 60.45847,
+      "pituusaste": 24.509561,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 201,
+      "nimi": "Taikatassu",
+      "leveysaste": 60.377212,
+      "pituusaste": 24.755784,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 202,
+      "nimi": "Talliklinikka",
+      "leveysaste": 60.209144,
+      "pituusaste": 24.643196,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 203,
+      "nimi": "Tampereen Hevosklinikka",
+      "leveysaste": 61.532667,
+      "pituusaste": 23.626874,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 204,
+      "nimi": "Tassu",
+      "leveysaste": 60.303286,
+      "pituusaste": 25.04396,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 205,
+      "nimi": "Tassuasema",
+      "leveysaste": 60.211217,
+      "pituusaste": 24.730246,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 206,
+      "nimi": "Tassupaikka",
+      "leveysaste": 61.466426,
+      "pituusaste": 23.622198,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 207,
+      "nimi": "Tietokuja 2",
+      "leveysaste": 60.201954,
+      "pituusaste": 24.878159,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 208,
+      "nimi": "Toijalan eläinlääkäriasema",
+      "leveysaste": 61.172136,
+      "pituusaste": 23.865716,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 209,
+      "nimi": "Tuusvet",
+      "leveysaste": 60.405066,
+      "pituusaste": 24.985219,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 210,
+      "nimi": "Univet",
+      "leveysaste": 61.122886,
+      "pituusaste": 21.501958,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 211,
+      "nimi": "Valkeakosken eläinsairaala",
+      "leveysaste": 61.265876,
+      "pituusaste": 23.955079,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 212,
+      "nimi": "Valkohammas Eläinklinikka",
+      "leveysaste": 61.44601,
+      "pituusaste": 23.445952,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 213,
+      "nimi": "VallilaVet",
+      "leveysaste": 60.190637,
+      "pituusaste": 24.964216,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 214,
+      "nimi": "Valo",
+      "leveysaste": 60.495918,
+      "pituusaste": 22.244917,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 215,
+      "nimi": "Vantaa Aisti",
+      "leveysaste": 60.267136,
+      "pituusaste": 24.846356,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 216,
+      "nimi": "Vantaan Pieneläinsairaala",
+      "leveysaste": 60.321761,
+      "pituusaste": 24.868439,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 217,
+      "nimi": "Vet-palvelu",
+      "leveysaste": 60.323254,
+      "pituusaste": 25.063659,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 218,
+      "nimi": "VetMedi",
+      "leveysaste": 60.335046,
+      "pituusaste": 23.054112,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 219,
+      "nimi": "Vetea",
+      "leveysaste": 60.492744,
+      "pituusaste": 22.28604,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 220,
+      "nimi": "Veteira",
+      "leveysaste": 60.15914,
+      "pituusaste": 24.933151,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 221,
+      "nimi": "Veterinär",
+      "leveysaste": 63.521147,
+      "pituusaste": 22.542042,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 222,
+      "nimi": "Veterinär Minna Hakala",
+      "leveysaste": 60.171426,
+      "pituusaste": 22.756458,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 223,
+      "nimi": "Vetson",
+      "leveysaste": 60.208499,
+      "pituusaste": 24.630664,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 224,
+      "nimi": "Vetsy",
+      "leveysaste": 60.197255,
+      "pituusaste": 24.879281,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 225,
+      "nimi": "Vetvuores",
+      "leveysaste": 61.433101,
+      "pituusaste": 23.808172,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 226,
+      "nimi": "Viitaniemen eläinlääkäriasema",
+      "leveysaste": 62.252869,
+      "pituusaste": 25.7381,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 227,
+      "nimi": "Vuovet",
+      "leveysaste": 60.202474,
+      "pituusaste": 25.155385,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 228,
+      "nimi": "Yliopistollinen eläinsairaala",
+      "leveysaste": 60.223701,
+      "pituusaste": 25.020019,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 229,
+      "nimi": "Yliopistollinen eläinsairaala",
+      "leveysaste": 60.223703,
+      "pituusaste": 25.02002,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 230,
+      "nimi": "Yliopistollisen eläinsairaalan Hevossairaala",
+      "leveysaste": 60.22353,
+      "pituusaste": 25.020813,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 231,
+      "nimi": "Yliopistollisen eläinsairaalan Pieneläinsairaala",
+      "leveysaste": 60.223941,
+      "pituusaste": 25.018792,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 232,
+      "nimi": "Ypäjän Hevossairaala",
+      "leveysaste": 60.80399,
+      "pituusaste": 23.304035,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 233,
+      "nimi": "kissaklinikka Felina",
+      "leveysaste": 60.166932,
+      "pituusaste": 24.924136,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 234,
+      "nimi": "Ålands smådjursklinik",
+      "leveysaste": 60.228563,
+      "pituusaste": 19.986439,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    },
+    {
+      "id": 235,
+      "nimi": "Östernäs Smådjursklinik & Butik",
+      "leveysaste": 60.084554,
+      "pituusaste": 19.959522,
+      "osm_avain": "amenity",
+      "osm_arvo": "veterinary",
+      "osm_luokka": "amenity=veterinary"
+    }
+  ],
+  "meta": {
+    "title": "Eläinlääkärit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Eläinlääkärit Suomessa — 235 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=veterinary`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 12. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 235 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Eläinlääkärit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Eläinlääkärit – Suomi (OpenStreetMap) — 235 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 235 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

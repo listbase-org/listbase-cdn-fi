@@ -1,0 +1,170 @@
+{
+  "id": "fi-ydinvoimalat",
+  "name": "Suomen ydinvoimalat",
+  "title": "Suomen ydinvoimalat",
+  "description": "Suomen ydinvoimalat — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Loviisa-1",
+      "latitude": 60.372,
+      "longitude": 26.342,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1971-05-01",
+      "operational_from": "1977-05-09",
+      "operational_to": "",
+      "capacity_mw": 420,
+      "iaea_id": 157,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Loviisa-2",
+      "latitude": 60.372,
+      "longitude": 26.342,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-213",
+      "construction_start": "1972-08-01",
+      "operational_from": "1981-01-05",
+      "operational_to": "",
+      "capacity_mw": 420,
+      "iaea_id": 158,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Olkiluoto-1",
+      "latitude": 61.235,
+      "longitude": 21.444,
+      "status": "Operational",
+      "reactor_type": "BWR",
+      "reactor_model": "AA-III, BWR-2500",
+      "construction_start": "1974-02-01",
+      "operational_from": "1979-10-10",
+      "operational_to": "",
+      "capacity_mw": 660,
+      "iaea_id": 159,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Olkiluoto-2",
+      "latitude": 61.235,
+      "longitude": 21.444,
+      "status": "Operational",
+      "reactor_type": "BWR",
+      "reactor_model": "AA-III, BWR-2500",
+      "construction_start": "1975-11-01",
+      "operational_from": "1982-07-10",
+      "operational_to": "",
+      "capacity_mw": 660,
+      "iaea_id": 160,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Olkiluoto-3",
+      "latitude": 61.234,
+      "longitude": 21.435,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "EPR",
+      "construction_start": "2005-08-12",
+      "operational_from": "2023-05-01",
+      "operational_to": "",
+      "capacity_mw": 1600,
+      "iaea_id": 860,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Olkiluoto-4",
+      "latitude": 61.234352,
+      "longitude": 21.436287,
+      "status": "Planned",
+      "reactor_type": "",
+      "reactor_model": "",
+      "construction_start": "",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": "",
+      "iaea_id": "",
+      "data_source": "WNA"
+    }
+  ],
+  "meta": {
+    "title": "Suomen ydinvoimalat - Ilmainen lataus",
+    "description": "Suomen ydinvoimalat — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Sisältää 6 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Suomen ydinvoimalat | ListBase",
+    "seo_description": "Lataa Suomen ydinvoimalat — 6 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 6 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

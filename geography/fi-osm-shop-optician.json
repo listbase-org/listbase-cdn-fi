@@ -1,0 +1,4498 @@
+{
+  "id": "fi-osm-shop-optician",
+  "name": "Optikot – Suomi (OpenStreetMap)",
+  "title": "Optikot – Suomi (OpenStreetMap)",
+  "description": "Optikot Suomessa — 493 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=optician`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 10. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 493,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "AnnMar Optiikka",
+      "leveysaste": 60.391989,
+      "pituusaste": 25.666655,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 2,
+      "nimi": "Anni-optikko",
+      "leveysaste": 60.199437,
+      "pituusaste": 24.924429,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 3,
+      "nimi": "Asema-Optiikka",
+      "leveysaste": 61.498903,
+      "pituusaste": 23.771383,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 4,
+      "nimi": "Asematunnelin Silmälasi",
+      "leveysaste": 61.498309,
+      "pituusaste": 23.771228,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 5,
+      "nimi": "Backmans optik",
+      "leveysaste": 60.09936,
+      "pituusaste": 19.942198,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 6,
+      "nimi": "Biko-Optiikka",
+      "leveysaste": 60.462357,
+      "pituusaste": 24.804943,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 7,
+      "nimi": "Brillet",
+      "leveysaste": 66.50305,
+      "pituusaste": 25.728353,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 8,
+      "nimi": "Brillet",
+      "leveysaste": 66.503071,
+      "pituusaste": 25.728126,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 9,
+      "nimi": "Bromans optik",
+      "leveysaste": 59.975335,
+      "pituusaste": 23.436531,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 10,
+      "nimi": "Citykatse",
+      "leveysaste": 61.4981,
+      "pituusaste": 23.770414,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 11,
+      "nimi": "Ekenäs Optik",
+      "leveysaste": 59.975136,
+      "pituusaste": 23.436356,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 12,
+      "nimi": "Eliisan Optiikka",
+      "leveysaste": 60.84994,
+      "pituusaste": 23.059339,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 13,
+      "nimi": "Esan Optiikka",
+      "leveysaste": 60.189301,
+      "pituusaste": 24.917499,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 14,
+      "nimi": "Euran Optiikka",
+      "leveysaste": 61.130779,
+      "pituusaste": 22.139778,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 15,
+      "nimi": "Face Optiikka",
+      "leveysaste": 60.402509,
+      "pituusaste": 25.030575,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 16,
+      "nimi": "Fenno Optiikka",
+      "leveysaste": 60.175517,
+      "pituusaste": 24.803699,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 17,
+      "nimi": "Fenno Optiikka",
+      "leveysaste": 60.416924,
+      "pituusaste": 24.323137,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 18,
+      "nimi": "Fenno Optiikka",
+      "leveysaste": 61.177968,
+      "pituusaste": 22.696955,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 19,
+      "nimi": "Fenno Optiikka",
+      "leveysaste": 62.136885,
+      "pituusaste": 25.672993,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 20,
+      "nimi": "Fenno Optiikka",
+      "leveysaste": 62.603164,
+      "pituusaste": 29.762757,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 21,
+      "nimi": "Fenno Optiikka (Kompassin Optiikka)",
+      "leveysaste": 60.986644,
+      "pituusaste": 25.491717,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 22,
+      "nimi": "Fenno Optiikka Annansilmä",
+      "leveysaste": 61.20366,
+      "pituusaste": 26.031112,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 23,
+      "nimi": "Fenno Optiikko",
+      "leveysaste": 60.34989,
+      "pituusaste": 25.075027,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 24,
+      "nimi": "Fenno optiikka",
+      "leveysaste": 60.168726,
+      "pituusaste": 24.943498,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 25,
+      "nimi": "Fenno optiikka näkökeskus",
+      "leveysaste": 60.993691,
+      "pituusaste": 24.458721,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 26,
+      "nimi": "Fenno-optiikka Kaakinen",
+      "leveysaste": 64.225175,
+      "pituusaste": 27.733298,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 27,
+      "nimi": "Hakula",
+      "leveysaste": 60.450911,
+      "pituusaste": 22.262211,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 28,
+      "nimi": "Hakunilan optiikka",
+      "leveysaste": 60.278415,
+      "pituusaste": 25.104059,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 29,
+      "nimi": "Haukiputaan Optiikka- ja silmälääkärikeskus",
+      "leveysaste": 65.177695,
+      "pituusaste": 25.352986,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 30,
+      "nimi": "Helsingin optiikka",
+      "leveysaste": 60.167902,
+      "pituusaste": 24.932202,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 31,
+      "nimi": "Herttoniemen silmälasi",
+      "leveysaste": 60.194808,
+      "pituusaste": 25.028029,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 32,
+      "nimi": "Hyvän Tuurin Silmälasi",
+      "leveysaste": 62.6017,
+      "pituusaste": 23.730186,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 33,
+      "nimi": "Ilomantsin Optiikka",
+      "leveysaste": 62.672287,
+      "pituusaste": 30.932909,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 34,
+      "nimi": "Ilosilmä",
+      "leveysaste": 62.671036,
+      "pituusaste": 30.930608,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 35,
+      "nimi": "Instrumentarium",
+      "leveysaste": 59.976259,
+      "pituusaste": 23.438695,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 36,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.16022,
+      "pituusaste": 24.880954,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 37,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.162584,
+      "pituusaste": 24.737885,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 38,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.163911,
+      "pituusaste": 24.943038,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 39,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.168311,
+      "pituusaste": 24.941444,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 40,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.169015,
+      "pituusaste": 24.944868,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 41,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.169505,
+      "pituusaste": 24.933713,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 42,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.175878,
+      "pituusaste": 24.803976,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 43,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.178709,
+      "pituusaste": 24.923509,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 44,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.179536,
+      "pituusaste": 24.949526,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 45,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.1872,
+      "pituusaste": 24.978501,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 46,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.20378,
+      "pituusaste": 24.659056,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 47,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.205755,
+      "pituusaste": 24.878469,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 48,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.207597,
+      "pituusaste": 25.145018,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 49,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.210569,
+      "pituusaste": 25.080718,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 50,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.218336,
+      "pituusaste": 24.813235,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 51,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.236991,
+      "pituusaste": 24.89104,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 52,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.250594,
+      "pituusaste": 24.066552,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 53,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.260864,
+      "pituusaste": 24.853719,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 54,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.291162,
+      "pituusaste": 24.964784,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 55,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.293559,
+      "pituusaste": 25.035952,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 56,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.386265,
+      "pituusaste": 23.124898,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 57,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.386616,
+      "pituusaste": 23.127444,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 58,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.393737,
+      "pituusaste": 25.664336,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 59,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.403452,
+      "pituusaste": 25.099527,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 60,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.403455,
+      "pituusaste": 25.09951,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 61,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.430025,
+      "pituusaste": 22.323066,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 62,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.45026,
+      "pituusaste": 22.26024,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 63,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.451152,
+      "pituusaste": 22.265483,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 64,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.451762,
+      "pituusaste": 22.25795,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 65,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.451988,
+      "pituusaste": 22.271138,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 66,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.455821,
+      "pituusaste": 26.228157,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 67,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.46234,
+      "pituusaste": 24.80484,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 68,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.485838,
+      "pituusaste": 22.166171,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 69,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.50378,
+      "pituusaste": 22.457361,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 70,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.527728,
+      "pituusaste": 24.747789,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 71,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.568336,
+      "pituusaste": 27.194883,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 72,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.632117,
+      "pituusaste": 24.863029,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 73,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.799817,
+      "pituusaste": 21.411434,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 74,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.804573,
+      "pituusaste": 25.731905,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 75,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.815708,
+      "pituusaste": 23.627433,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 76,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.851076,
+      "pituusaste": 23.059847,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 77,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.869701,
+      "pituusaste": 26.70394,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 78,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.876277,
+      "pituusaste": 26.652228,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 79,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.876287,
+      "pituusaste": 26.652214,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 80,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.88013,
+      "pituusaste": 21.693916,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 81,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.981522,
+      "pituusaste": 25.736444,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 82,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.982818,
+      "pituusaste": 25.657614,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 83,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.989427,
+      "pituusaste": 25.51497,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 84,
+      "nimi": "Instrumentarium",
+      "leveysaste": 60.993053,
+      "pituusaste": 24.456572,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 85,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.058584,
+      "pituusaste": 28.187187,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 86,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.17031,
+      "pituusaste": 28.768622,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 87,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.202095,
+      "pituusaste": 26.030353,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 88,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.267049,
+      "pituusaste": 24.030334,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 89,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.31361,
+      "pituusaste": 22.139325,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 90,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.360783,
+      "pituusaste": 23.796081,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 91,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.360799,
+      "pituusaste": 23.796079,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 92,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.450541,
+      "pituusaste": 23.849931,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 93,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.478075,
+      "pituusaste": 23.512045,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 94,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.48419,
+      "pituusaste": 21.796754,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 95,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.492908,
+      "pituusaste": 23.766919,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 96,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.494779,
+      "pituusaste": 21.80078,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 97,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.555169,
+      "pituusaste": 29.500834,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 98,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.557271,
+      "pituusaste": 23.570314,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 99,
+      "nimi": "Instrumentarium",
+      "leveysaste": 61.68889,
+      "pituusaste": 27.275647,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 100,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.215512,
+      "pituusaste": 25.720813,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 101,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.241899,
+      "pituusaste": 25.748577,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 102,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.256465,
+      "pituusaste": 25.774389,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 103,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.259391,
+      "pituusaste": 24.708489,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 104,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.299765,
+      "pituusaste": 27.159148,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 105,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.427651,
+      "pituusaste": 22.180014,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 106,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.586782,
+      "pituusaste": 23.617225,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 107,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.600447,
+      "pituusaste": 29.760295,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 108,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.616556,
+      "pituusaste": 22.398138,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 109,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.625726,
+      "pituusaste": 27.119735,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 110,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.706603,
+      "pituusaste": 25.257959,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 111,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.790162,
+      "pituusaste": 22.839812,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 112,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.793797,
+      "pituusaste": 22.791646,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 113,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.822794,
+      "pituusaste": 27.60304,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 114,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.891506,
+      "pituusaste": 27.677828,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 115,
+      "nimi": "Instrumentarium",
+      "leveysaste": 62.968445,
+      "pituusaste": 23.00938,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 116,
+      "nimi": "Instrumentarium",
+      "leveysaste": 63.074324,
+      "pituusaste": 25.860387,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 117,
+      "nimi": "Instrumentarium",
+      "leveysaste": 63.074367,
+      "pituusaste": 27.658367,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 118,
+      "nimi": "Instrumentarium",
+      "leveysaste": 63.096056,
+      "pituusaste": 21.614519,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 119,
+      "nimi": "Instrumentarium",
+      "leveysaste": 63.100683,
+      "pituusaste": 23.046943,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 120,
+      "nimi": "Instrumentarium",
+      "leveysaste": 63.675922,
+      "pituusaste": 22.703336,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 121,
+      "nimi": "Instrumentarium",
+      "leveysaste": 63.836513,
+      "pituusaste": 23.132401,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 122,
+      "nimi": "Instrumentarium",
+      "leveysaste": 64.072991,
+      "pituusaste": 24.538769,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 123,
+      "nimi": "Instrumentarium",
+      "leveysaste": 64.127741,
+      "pituusaste": 29.518957,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 124,
+      "nimi": "Instrumentarium",
+      "leveysaste": 64.226012,
+      "pituusaste": 27.730739,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 125,
+      "nimi": "Instrumentarium",
+      "leveysaste": 64.684969,
+      "pituusaste": 24.481703,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 126,
+      "nimi": "Instrumentarium",
+      "leveysaste": 64.902697,
+      "pituusaste": 25.537194,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 127,
+      "nimi": "Instrumentarium",
+      "leveysaste": 65.011149,
+      "pituusaste": 25.473069,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 128,
+      "nimi": "Instrumentarium",
+      "leveysaste": 65.012356,
+      "pituusaste": 25.476827,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 129,
+      "nimi": "Instrumentarium",
+      "leveysaste": 65.077345,
+      "pituusaste": 25.446882,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 130,
+      "nimi": "Instrumentarium",
+      "leveysaste": 65.176128,
+      "pituusaste": 25.350888,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 131,
+      "nimi": "Instrumentarium",
+      "leveysaste": 65.843214,
+      "pituusaste": 24.144894,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 132,
+      "nimi": "Instrumentarium",
+      "leveysaste": 66.502483,
+      "pituusaste": 25.729043,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 133,
+      "nimi": "Instrumentarium",
+      "leveysaste": 67.416762,
+      "pituusaste": 26.592811,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 134,
+      "nimi": "Instrumentarium",
+      "leveysaste": 67.649664,
+      "pituusaste": 24.917784,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 135,
+      "nimi": "Instrumentarium Jämsä",
+      "leveysaste": 61.864129,
+      "pituusaste": 25.191823,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 136,
+      "nimi": "Instrumentarium Kalajoki",
+      "leveysaste": 64.25803,
+      "pituusaste": 23.948379,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 137,
+      "nimi": "Instrumentarium Laajasalo",
+      "leveysaste": 60.179668,
+      "pituusaste": 25.051638,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 138,
+      "nimi": "Instrumentarium Laajasalo",
+      "leveysaste": 60.179672,
+      "pituusaste": 25.051673,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 139,
+      "nimi": "Instrumentarium Naantali",
+      "leveysaste": 60.467204,
+      "pituusaste": 22.025645,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 140,
+      "nimi": "Instrumentarium Tampere Koilliskeskus CM Linnainmaa",
+      "leveysaste": 61.497141,
+      "pituusaste": 23.890185,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 141,
+      "nimi": "Instrumentarium Tampere Koskipuisto",
+      "leveysaste": 61.497925,
+      "pituusaste": 23.766094,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 142,
+      "nimi": "Instrumentarium Tampere Lielahti",
+      "leveysaste": 61.519642,
+      "pituusaste": 23.665706,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 143,
+      "nimi": "Instrumentarium Tampere Sokos",
+      "leveysaste": 61.496601,
+      "pituusaste": 23.757834,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 144,
+      "nimi": "Instrumentarium Tampere Tesoma",
+      "leveysaste": 61.505257,
+      "pituusaste": 23.627199,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 145,
+      "nimi": "Instrumentarium Yhdyskulman Kello-Optiikka",
+      "leveysaste": 64.883257,
+      "pituusaste": 28.910412,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 146,
+      "nimi": "Joen optiikka",
+      "leveysaste": 62.601702,
+      "pituusaste": 29.763714,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 147,
+      "nimi": "Juvan Optiikka",
+      "leveysaste": 62.063729,
+      "pituusaste": 28.303013,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 148,
+      "nimi": "Jyväs Optiikka",
+      "leveysaste": 62.238898,
+      "pituusaste": 25.739624,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 149,
+      "nimi": "Kaakon Näkökulma",
+      "leveysaste": 60.568281,
+      "pituusaste": 27.195062,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 150,
+      "nimi": "Kaavin Optiikka",
+      "leveysaste": 62.974851,
+      "pituusaste": 28.478453,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 151,
+      "nimi": "Kainuun näkökulma",
+      "leveysaste": 64.225809,
+      "pituusaste": 27.7319,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 152,
+      "nimi": "Karhupuiston Optiikka Ky",
+      "leveysaste": 60.184337,
+      "pituusaste": 24.952493,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 153,
+      "nimi": "Karis optik",
+      "leveysaste": 60.071182,
+      "pituusaste": 23.659183,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 154,
+      "nimi": "Kauppatorin Optiikka",
+      "leveysaste": 62.245259,
+      "pituusaste": 25.746482,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 155,
+      "nimi": "Keloa Eyewear",
+      "leveysaste": 67.415278,
+      "pituusaste": 26.592609,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 156,
+      "nimi": "Keops",
+      "leveysaste": 60.167071,
+      "pituusaste": 24.948236,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 157,
+      "nimi": "Keops Optiikka",
+      "leveysaste": 60.170137,
+      "pituusaste": 24.937313,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 158,
+      "nimi": "Keops Optiikka",
+      "leveysaste": 61.49832,
+      "pituusaste": 23.766469,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 159,
+      "nimi": "Keravan Silmäkulma",
+      "leveysaste": 60.405586,
+      "pituusaste": 25.104036,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 160,
+      "nimi": "Keskusoptiikka",
+      "leveysaste": 60.630579,
+      "pituusaste": 24.86571,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 161,
+      "nimi": "Klaukkalan silmäasema",
+      "leveysaste": 60.380552,
+      "pituusaste": 24.752581,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 162,
+      "nimi": "Korson optiikka",
+      "leveysaste": 60.350735,
+      "pituusaste": 25.075002,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 163,
+      "nimi": "Kruunu Optiikka",
+      "leveysaste": 60.175233,
+      "pituusaste": 24.950622,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 164,
+      "nimi": "Kulta ja Optiikka Nyyssönen",
+      "leveysaste": 61.342141,
+      "pituusaste": 22.911853,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 165,
+      "nimi": "Kultaoptiikka S & V. Kemppainen",
+      "leveysaste": 65.847139,
+      "pituusaste": 24.147444,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 166,
+      "nimi": "Kupittaan optiikka",
+      "leveysaste": 60.442049,
+      "pituusaste": 22.285785,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 167,
+      "nimi": "La Lunette",
+      "leveysaste": 60.165644,
+      "pituusaste": 24.934929,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 168,
+      "nimi": "Laukaan Optikko",
+      "leveysaste": 62.414797,
+      "pituusaste": 25.953225,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 169,
+      "nimi": "Liedon Optiikka ja Valokuvaamo",
+      "leveysaste": 60.504799,
+      "pituusaste": 22.457173,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 170,
+      "nimi": "Lieksan silmälasi",
+      "leveysaste": 63.31742,
+      "pituusaste": 30.031119,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 171,
+      "nimi": "M. Broman",
+      "leveysaste": 59.827608,
+      "pituusaste": 22.966273,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 172,
+      "nimi": "ML-Optiikka",
+      "leveysaste": 62.261598,
+      "pituusaste": 24.707084,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 173,
+      "nimi": "Malmin Optiikka",
+      "leveysaste": 60.251286,
+      "pituusaste": 25.01261,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 174,
+      "nimi": "MediOptik",
+      "leveysaste": 59.825207,
+      "pituusaste": 22.965646,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 175,
+      "nimi": "Munkkiniemen Optiikka",
+      "leveysaste": 60.197953,
+      "pituusaste": 24.87511,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 176,
+      "nimi": "Nissen",
+      "leveysaste": 60.161343,
+      "pituusaste": 24.738445,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 177,
+      "nimi": "Nissen",
+      "leveysaste": 60.169545,
+      "pituusaste": 24.933842,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 178,
+      "nimi": "Nissen",
+      "leveysaste": 60.187212,
+      "pituusaste": 24.9782,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 179,
+      "nimi": "Nissen",
+      "leveysaste": 60.21051,
+      "pituusaste": 25.080494,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 180,
+      "nimi": "Nissen",
+      "leveysaste": 60.218374,
+      "pituusaste": 24.813387,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 181,
+      "nimi": "Nissen",
+      "leveysaste": 60.23696,
+      "pituusaste": 24.890873,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 182,
+      "nimi": "Nissen",
+      "leveysaste": 60.250867,
+      "pituusaste": 24.069892,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 183,
+      "nimi": "Nissen",
+      "leveysaste": 60.291283,
+      "pituusaste": 24.964691,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 184,
+      "nimi": "Nissen",
+      "leveysaste": 60.292422,
+      "pituusaste": 25.043653,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 185,
+      "nimi": "Nissen",
+      "leveysaste": 60.330727,
+      "pituusaste": 24.320892,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 186,
+      "nimi": "Nissen",
+      "leveysaste": 60.392812,
+      "pituusaste": 25.665888,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 187,
+      "nimi": "Nissen",
+      "leveysaste": 60.430425,
+      "pituusaste": 22.322074,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 188,
+      "nimi": "Nissen",
+      "leveysaste": 60.49074,
+      "pituusaste": 22.19952,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 189,
+      "nimi": "Nissen",
+      "leveysaste": 60.535365,
+      "pituusaste": 24.209687,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 190,
+      "nimi": "Nissen",
+      "leveysaste": 60.738288,
+      "pituusaste": 24.774265,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 191,
+      "nimi": "Nissen",
+      "leveysaste": 60.868075,
+      "pituusaste": 26.703395,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 192,
+      "nimi": "Nissen",
+      "leveysaste": 60.981417,
+      "pituusaste": 25.736119,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 193,
+      "nimi": "Nissen",
+      "leveysaste": 60.982903,
+      "pituusaste": 25.661876,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 194,
+      "nimi": "Nissen",
+      "leveysaste": 60.993107,
+      "pituusaste": 24.456545,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 195,
+      "nimi": "Nissen",
+      "leveysaste": 61.058599,
+      "pituusaste": 28.187297,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 196,
+      "nimi": "Nissen",
+      "leveysaste": 61.188492,
+      "pituusaste": 28.765281,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 197,
+      "nimi": "Nissen",
+      "leveysaste": 61.36041,
+      "pituusaste": 23.795816,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 198,
+      "nimi": "Nissen",
+      "leveysaste": 61.477543,
+      "pituusaste": 21.756699,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 199,
+      "nimi": "Nissen",
+      "leveysaste": 61.483364,
+      "pituusaste": 21.796855,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 200,
+      "nimi": "Nissen",
+      "leveysaste": 61.493269,
+      "pituusaste": 23.767815,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 201,
+      "nimi": "Nissen",
+      "leveysaste": 61.496708,
+      "pituusaste": 23.757958,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 202,
+      "nimi": "Nissen",
+      "leveysaste": 61.870468,
+      "pituusaste": 28.877296,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 203,
+      "nimi": "Nissen",
+      "leveysaste": 62.241844,
+      "pituusaste": 25.74865,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 204,
+      "nimi": "Nissen",
+      "leveysaste": 62.287198,
+      "pituusaste": 25.712579,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 205,
+      "nimi": "Nissen",
+      "leveysaste": 62.601831,
+      "pituusaste": 29.762148,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 206,
+      "nimi": "Nissen",
+      "leveysaste": 62.790056,
+      "pituusaste": 22.839187,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 207,
+      "nimi": "Nissen",
+      "leveysaste": 62.891518,
+      "pituusaste": 27.677972,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 208,
+      "nimi": "Nissen",
+      "leveysaste": 63.095772,
+      "pituusaste": 21.614184,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 209,
+      "nimi": "Nissen",
+      "leveysaste": 63.556224,
+      "pituusaste": 27.190065,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 210,
+      "nimi": "Nissen",
+      "leveysaste": 63.836362,
+      "pituusaste": 23.130556,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 211,
+      "nimi": "Nissen",
+      "leveysaste": 64.225463,
+      "pituusaste": 27.732637,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 212,
+      "nimi": "Nissen",
+      "leveysaste": 64.684928,
+      "pituusaste": 24.481818,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 213,
+      "nimi": "Nissen",
+      "leveysaste": 64.902648,
+      "pituusaste": 25.537541,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 214,
+      "nimi": "Nissen",
+      "leveysaste": 65.742853,
+      "pituusaste": 24.580406,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 215,
+      "nimi": "Nissen",
+      "leveysaste": 65.843426,
+      "pituusaste": 24.144217,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 216,
+      "nimi": "Nissen",
+      "leveysaste": 66.502873,
+      "pituusaste": 25.729723,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 217,
+      "nimi": "Nissen Karuselli",
+      "leveysaste": 60.403468,
+      "pituusaste": 25.099344,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 218,
+      "nimi": "Nissen Karuselli",
+      "leveysaste": 60.403483,
+      "pituusaste": 25.099324,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 219,
+      "nimi": "Nissen Kuusamo",
+      "leveysaste": 65.963979,
+      "pituusaste": 29.188985,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 220,
+      "nimi": "Nissen Optikko",
+      "leveysaste": 60.179394,
+      "pituusaste": 24.949538,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 221,
+      "nimi": "Nivalan Optiikka",
+      "leveysaste": 63.930325,
+      "pituusaste": 24.962277,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 222,
+      "nimi": "Nordic Optik",
+      "leveysaste": 66.385748,
+      "pituusaste": 23.657475,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 223,
+      "nimi": "Näkö Kerttu",
+      "leveysaste": 60.457776,
+      "pituusaste": 22.68562,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 224,
+      "nimi": "Näkö-Kammari Oy",
+      "leveysaste": 63.100807,
+      "pituusaste": 23.043019,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 225,
+      "nimi": "Näkö-Kulma",
+      "leveysaste": 64.128162,
+      "pituusaste": 29.522299,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 226,
+      "nimi": "NäköPiste",
+      "leveysaste": 62.601411,
+      "pituusaste": 29.76259,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 227,
+      "nimi": "Näkökenttä",
+      "leveysaste": 61.496248,
+      "pituusaste": 23.757233,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 228,
+      "nimi": "Näkökeskus",
+      "leveysaste": 63.837504,
+      "pituusaste": 23.130641,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 229,
+      "nimi": "Näkökeskus",
+      "leveysaste": 64.06231,
+      "pituusaste": 24.563686,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 230,
+      "nimi": "Näköstudio",
+      "leveysaste": 61.201717,
+      "pituusaste": 26.031629,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 231,
+      "nimi": "Näkövirrat",
+      "leveysaste": 62.240417,
+      "pituusaste": 23.771218,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 232,
+      "nimi": "Näkövisio",
+      "leveysaste": 61.058853,
+      "pituusaste": 28.187161,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 233,
+      "nimi": "Oculus Optiikka",
+      "leveysaste": 61.497802,
+      "pituusaste": 23.769922,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 234,
+      "nimi": "Ogelin optiikka",
+      "leveysaste": 60.228555,
+      "pituusaste": 24.963668,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 235,
+      "nimi": "Oopperan optiikka",
+      "leveysaste": 60.182498,
+      "pituusaste": 24.925779,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 236,
+      "nimi": "Opti-Aika Järvelä",
+      "leveysaste": 64.074301,
+      "pituusaste": 24.534332,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 237,
+      "nimi": "Opti-Aika Järvelä",
+      "leveysaste": 64.267933,
+      "pituusaste": 24.824182,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 238,
+      "nimi": "Opti-Aika Järvelä Nivala",
+      "leveysaste": 63.929274,
+      "pituusaste": 24.961438,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 239,
+      "nimi": "Opti-Aika Järvelä Sievi",
+      "leveysaste": 63.906825,
+      "pituusaste": 24.5209,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 240,
+      "nimi": "Opti-Silmä",
+      "leveysaste": 65.011916,
+      "pituusaste": 25.473724,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 241,
+      "nimi": "Opti-Tukku",
+      "leveysaste": 61.201676,
+      "pituusaste": 26.032228,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 242,
+      "nimi": "OptiAnna",
+      "leveysaste": 60.161528,
+      "pituusaste": 24.940726,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 243,
+      "nimi": "OptiShop",
+      "leveysaste": 60.163892,
+      "pituusaste": 24.937388,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 244,
+      "nimi": "Opticat",
+      "leveysaste": 60.165209,
+      "pituusaste": 24.944192,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 245,
+      "nimi": "Optiikka-asema",
+      "leveysaste": 60.867862,
+      "pituusaste": 26.706751,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 246,
+      "nimi": "Optiikkahuone",
+      "leveysaste": 60.163149,
+      "pituusaste": 24.938424,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 247,
+      "nimi": "Optikko Heiniö",
+      "leveysaste": 61.499658,
+      "pituusaste": 23.770449,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 248,
+      "nimi": "Optikko Keravan Katse",
+      "leveysaste": 60.403004,
+      "pituusaste": 25.101326,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 249,
+      "nimi": "Optikko Kirkassilmä",
+      "leveysaste": 60.815191,
+      "pituusaste": 23.624683,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 250,
+      "nimi": "Optikko Kivinen",
+      "leveysaste": 60.995929,
+      "pituusaste": 24.466933,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 251,
+      "nimi": "Optikko Lehtinen",
+      "leveysaste": 61.058881,
+      "pituusaste": 28.189256,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 252,
+      "nimi": "Optikko Mäkelä",
+      "leveysaste": 60.965176,
+      "pituusaste": 25.657432,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 253,
+      "nimi": "Optikko Mäkelä",
+      "leveysaste": 60.982169,
+      "pituusaste": 25.657334,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 254,
+      "nimi": "Optikko Nyman",
+      "leveysaste": 60.93642,
+      "pituusaste": 25.959668,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 255,
+      "nimi": "Optikko Pertti Puurunen",
+      "leveysaste": 64.137102,
+      "pituusaste": 25.371379,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 256,
+      "nimi": "Optikko Poca Oy",
+      "leveysaste": 62.891421,
+      "pituusaste": 27.677511,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 257,
+      "nimi": "Optikko Sjöblom Oy",
+      "leveysaste": 60.251703,
+      "pituusaste": 25.009973,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 258,
+      "nimi": "Optikko Tirkkonen",
+      "leveysaste": 63.072749,
+      "pituusaste": 27.661147,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 259,
+      "nimi": "Optikko ja Kello Seppänen",
+      "leveysaste": 62.300281,
+      "pituusaste": 27.158093,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 260,
+      "nimi": "Optiminäkö",
+      "leveysaste": 60.984045,
+      "pituusaste": 25.65779,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 261,
+      "nimi": "Optimo",
+      "leveysaste": 63.557748,
+      "pituusaste": 27.190544,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 262,
+      "nimi": "Optimo",
+      "leveysaste": 63.653243,
+      "pituusaste": 26.619294,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 263,
+      "nimi": "Orimattilan Näkökeskus",
+      "leveysaste": 60.804252,
+      "pituusaste": 25.732363,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 264,
+      "nimi": "Outokummun Optiikka",
+      "leveysaste": 62.726267,
+      "pituusaste": 29.016809,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 265,
+      "nimi": "Paasi optiikka",
+      "leveysaste": 60.178439,
+      "pituusaste": 24.949053,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 266,
+      "nimi": "Pihlajamäen optiikka",
+      "leveysaste": 60.234741,
+      "pituusaste": 25.00941,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 267,
+      "nimi": "Priva Optiikka",
+      "leveysaste": 60.451132,
+      "pituusaste": 22.262906,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 268,
+      "nimi": "Proud Optiikka",
+      "leveysaste": 60.162321,
+      "pituusaste": 24.946492,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 269,
+      "nimi": "Pudasjärven Optiikka",
+      "leveysaste": 65.360491,
+      "pituusaste": 26.993698,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 270,
+      "nimi": "Puulan optiikka ja kello",
+      "leveysaste": 61.989735,
+      "pituusaste": 26.643079,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 271,
+      "nimi": "Raahen Silmälasi",
+      "leveysaste": 64.683737,
+      "pituusaste": 24.478918,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 272,
+      "nimi": "Raision Näkökulma",
+      "leveysaste": 60.485258,
+      "pituusaste": 22.164373,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 273,
+      "nimi": "Rimless",
+      "leveysaste": 60.431258,
+      "pituusaste": 22.272144,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 274,
+      "nimi": "Runebergin Silmälasi",
+      "leveysaste": 60.180576,
+      "pituusaste": 24.925014,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 275,
+      "nimi": "Saimaan Optiikka",
+      "leveysaste": 61.05818,
+      "pituusaste": 28.189401,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 276,
+      "nimi": "Salme",
+      "leveysaste": 60.16802,
+      "pituusaste": 24.93837,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 277,
+      "nimi": "Sankarilli",
+      "leveysaste": 60.451709,
+      "pituusaste": 22.269998,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 278,
+      "nimi": "Sellon Katse",
+      "leveysaste": 60.218458,
+      "pituusaste": 24.812837,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 279,
+      "nimi": "Silmaäsema",
+      "leveysaste": 60.450332,
+      "pituusaste": 22.259973,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 280,
+      "nimi": "Silmä-Asema",
+      "leveysaste": 61.744209,
+      "pituusaste": 26.109205,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 281,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.160107,
+      "pituusaste": 24.738142,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 282,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.160111,
+      "pituusaste": 24.738087,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 283,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.16626,
+      "pituusaste": 24.942992,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 284,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.169265,
+      "pituusaste": 24.938764,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 285,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.169746,
+      "pituusaste": 24.940599,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 286,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.169748,
+      "pituusaste": 24.942334,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 287,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.175974,
+      "pituusaste": 24.805394,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 288,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.187426,
+      "pituusaste": 24.978594,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 289,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.195165,
+      "pituusaste": 25.033653,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 290,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.203734,
+      "pituusaste": 24.658834,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 291,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.212555,
+      "pituusaste": 25.084125,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 292,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.218168,
+      "pituusaste": 24.811218,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 293,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.218251,
+      "pituusaste": 24.810989,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 294,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.227264,
+      "pituusaste": 25.008252,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 295,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.237245,
+      "pituusaste": 24.892272,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 296,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.248559,
+      "pituusaste": 24.062575,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 297,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.259902,
+      "pituusaste": 24.853045,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 298,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.290851,
+      "pituusaste": 24.966205,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 299,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.293259,
+      "pituusaste": 25.036759,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 300,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.393738,
+      "pituusaste": 25.662431,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 301,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.401388,
+      "pituusaste": 25.103163,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 302,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.40139,
+      "pituusaste": 25.103142,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 303,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.415524,
+      "pituusaste": 22.325774,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 304,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.429664,
+      "pituusaste": 22.322025,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 305,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.446212,
+      "pituusaste": 22.322465,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 306,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.4532,
+      "pituusaste": 22.265946,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 307,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.45625,
+      "pituusaste": 26.227716,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 308,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.470833,
+      "pituusaste": 25.083881,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 309,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.473821,
+      "pituusaste": 22.22702,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 310,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.49068,
+      "pituusaste": 22.1992,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 311,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.534189,
+      "pituusaste": 24.232407,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 312,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.568436,
+      "pituusaste": 27.190292,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 313,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.637441,
+      "pituusaste": 25.317821,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 314,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.804791,
+      "pituusaste": 25.730898,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 315,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.856464,
+      "pituusaste": 23.045821,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 316,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.871972,
+      "pituusaste": 26.657076,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 317,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.907616,
+      "pituusaste": 26.626289,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 318,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.95966,
+      "pituusaste": 25.655321,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 319,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.983403,
+      "pituusaste": 25.659215,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 320,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.989561,
+      "pituusaste": 25.514903,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 321,
+      "nimi": "Silmäasema",
+      "leveysaste": 60.993743,
+      "pituusaste": 24.45614,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 322,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.012109,
+      "pituusaste": 24.412958,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 323,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.131325,
+      "pituusaste": 21.499642,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 324,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.18841,
+      "pituusaste": 28.765293,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 325,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.197192,
+      "pituusaste": 27.683068,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 326,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.203037,
+      "pituusaste": 26.031985,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 327,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.313739,
+      "pituusaste": 23.759092,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 328,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.475951,
+      "pituusaste": 23.978561,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 329,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.491658,
+      "pituusaste": 23.82037,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 330,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.493228,
+      "pituusaste": 23.766827,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 331,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.495593,
+      "pituusaste": 23.767179,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 332,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.498528,
+      "pituusaste": 23.769415,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 333,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.519318,
+      "pituusaste": 23.667009,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 334,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.689236,
+      "pituusaste": 27.27507,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 335,
+      "nimi": "Silmäasema",
+      "leveysaste": 61.870048,
+      "pituusaste": 28.878025,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 336,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.242483,
+      "pituusaste": 25.747532,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 337,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.257318,
+      "pituusaste": 25.77409,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 338,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.287859,
+      "pituusaste": 25.716767,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 339,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.301212,
+      "pituusaste": 27.163291,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 340,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.586859,
+      "pituusaste": 23.61547,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 341,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.601009,
+      "pituusaste": 29.760882,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 342,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.705931,
+      "pituusaste": 25.257141,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 343,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.789469,
+      "pituusaste": 22.840421,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 344,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.892078,
+      "pituusaste": 27.68009,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 345,
+      "nimi": "Silmäasema",
+      "leveysaste": 62.968248,
+      "pituusaste": 23.011203,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 346,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.001113,
+      "pituusaste": 23.816288,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 347,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.072826,
+      "pituusaste": 21.699462,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 348,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.073468,
+      "pituusaste": 27.660619,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 349,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.094545,
+      "pituusaste": 21.614306,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 350,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.100676,
+      "pituusaste": 23.046221,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 351,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.317455,
+      "pituusaste": 30.03007,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 352,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.366533,
+      "pituusaste": 27.397671,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 353,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.55603,
+      "pituusaste": 27.190485,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 354,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.67792,
+      "pituusaste": 22.716508,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 355,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.831761,
+      "pituusaste": 23.125674,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 356,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.836252,
+      "pituusaste": 23.134557,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 357,
+      "nimi": "Silmäasema",
+      "leveysaste": 63.902009,
+      "pituusaste": 23.915764,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 358,
+      "nimi": "Silmäasema",
+      "leveysaste": 64.06064,
+      "pituusaste": 24.557459,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 359,
+      "nimi": "Silmäasema",
+      "leveysaste": 64.130755,
+      "pituusaste": 28.386005,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 360,
+      "nimi": "Silmäasema",
+      "leveysaste": 64.226335,
+      "pituusaste": 27.730733,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 361,
+      "nimi": "Silmäasema",
+      "leveysaste": 64.666243,
+      "pituusaste": 24.483777,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 362,
+      "nimi": "Silmäasema",
+      "leveysaste": 64.807349,
+      "pituusaste": 25.995795,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 363,
+      "nimi": "Silmäasema",
+      "leveysaste": 64.902324,
+      "pituusaste": 25.538163,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 364,
+      "nimi": "Silmäasema",
+      "leveysaste": 65.009261,
+      "pituusaste": 25.469533,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 365,
+      "nimi": "Silmäasema",
+      "leveysaste": 65.01131,
+      "pituusaste": 25.473242,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 366,
+      "nimi": "Silmäasema",
+      "leveysaste": 65.012523,
+      "pituusaste": 25.476252,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 367,
+      "nimi": "Silmäasema",
+      "leveysaste": 65.077255,
+      "pituusaste": 25.446541,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 368,
+      "nimi": "Silmäasema",
+      "leveysaste": 65.322491,
+      "pituusaste": 25.375031,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 369,
+      "nimi": "Silmäasema",
+      "leveysaste": 67.417892,
+      "pituusaste": 26.592578,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 370,
+      "nimi": "Silmäasema Fennica",
+      "leveysaste": 63.2325,
+      "pituusaste": 26.754331,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 371,
+      "nimi": "Silmäasema Ivalo",
+      "leveysaste": 68.659969,
+      "pituusaste": 27.543117,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 372,
+      "nimi": "Silmäasema Jyväskylä Keljo",
+      "leveysaste": 62.217327,
+      "pituusaste": 25.721698,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 373,
+      "nimi": "Silmäasema Kalajoki",
+      "leveysaste": 64.259707,
+      "pituusaste": 23.947381,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 374,
+      "nimi": "Silmäasema Karhula",
+      "leveysaste": 60.514743,
+      "pituusaste": 26.930945,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 375,
+      "nimi": "Silmäasema Lappeenranta IsoKristiina",
+      "leveysaste": 61.056521,
+      "pituusaste": 28.192221,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 376,
+      "nimi": "Silmäasema Nummela Prisma",
+      "leveysaste": 60.330844,
+      "pituusaste": 24.321,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 377,
+      "nimi": "Silmäasema Silmäterveys ja Optiikka Sipoo",
+      "leveysaste": 60.376979,
+      "pituusaste": 25.271257,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 378,
+      "nimi": "Silmäkulma",
+      "leveysaste": 64.687037,
+      "pituusaste": 24.54588,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 379,
+      "nimi": "Silmälasikeskus",
+      "leveysaste": 60.168425,
+      "pituusaste": 24.938185,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 380,
+      "nimi": "Silmälasikeskus",
+      "leveysaste": 61.058492,
+      "pituusaste": 28.185848,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 381,
+      "nimi": "Silmälasistudio",
+      "leveysaste": 60.164769,
+      "pituusaste": 24.936672,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 382,
+      "nimi": "Silmäoptiikka Oy",
+      "leveysaste": 60.907324,
+      "pituusaste": 26.626084,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 383,
+      "nimi": "Silmäoptiikka Riipinen",
+      "leveysaste": 60.851269,
+      "pituusaste": 23.061159,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 384,
+      "nimi": "Silmäoptikot Palmu",
+      "leveysaste": 61.12896,
+      "pituusaste": 21.508934,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 385,
+      "nimi": "Silmäset",
+      "leveysaste": 60.202716,
+      "pituusaste": 24.967396,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 386,
+      "nimi": "Silmässema",
+      "leveysaste": 61.484377,
+      "pituusaste": 21.796824,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 387,
+      "nimi": "Silmäterä",
+      "leveysaste": 62.240297,
+      "pituusaste": 25.72344,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 388,
+      "nimi": "Specsavers",
+      "leveysaste": 60.149756,
+      "pituusaste": 24.655296,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 389,
+      "nimi": "Specsavers",
+      "leveysaste": 60.161384,
+      "pituusaste": 24.738384,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 390,
+      "nimi": "Specsavers",
+      "leveysaste": 60.169048,
+      "pituusaste": 24.947171,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 391,
+      "nimi": "Specsavers",
+      "leveysaste": 60.175474,
+      "pituusaste": 24.804732,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 392,
+      "nimi": "Specsavers",
+      "leveysaste": 60.186823,
+      "pituusaste": 24.978348,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 393,
+      "nimi": "Specsavers",
+      "leveysaste": 60.19884,
+      "pituusaste": 24.930037,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 394,
+      "nimi": "Specsavers",
+      "leveysaste": 60.203616,
+      "pituusaste": 24.658773,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 395,
+      "nimi": "Specsavers",
+      "leveysaste": 60.207345,
+      "pituusaste": 25.144799,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 396,
+      "nimi": "Specsavers",
+      "leveysaste": 60.217838,
+      "pituusaste": 24.81097,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 397,
+      "nimi": "Specsavers",
+      "leveysaste": 60.236902,
+      "pituusaste": 24.890599,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 398,
+      "nimi": "Specsavers",
+      "leveysaste": 60.25976,
+      "pituusaste": 24.853472,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 399,
+      "nimi": "Specsavers",
+      "leveysaste": 60.290852,
+      "pituusaste": 24.964865,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 400,
+      "nimi": "Specsavers",
+      "leveysaste": 60.292473,
+      "pituusaste": 25.043673,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 401,
+      "nimi": "Specsavers",
+      "leveysaste": 60.402294,
+      "pituusaste": 25.102562,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 402,
+      "nimi": "Specsavers",
+      "leveysaste": 60.402763,
+      "pituusaste": 25.03116,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 403,
+      "nimi": "Specsavers",
+      "leveysaste": 60.429966,
+      "pituusaste": 22.322962,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 404,
+      "nimi": "Specsavers",
+      "leveysaste": 60.451469,
+      "pituusaste": 22.26386,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 405,
+      "nimi": "Specsavers",
+      "leveysaste": 60.472563,
+      "pituusaste": 22.232422,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 406,
+      "nimi": "Specsavers",
+      "leveysaste": 60.631206,
+      "pituusaste": 24.864652,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 407,
+      "nimi": "Specsavers",
+      "leveysaste": 60.876351,
+      "pituusaste": 26.652264,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 408,
+      "nimi": "Specsavers",
+      "leveysaste": 60.876361,
+      "pituusaste": 26.65226,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 409,
+      "nimi": "Specsavers",
+      "leveysaste": 60.983074,
+      "pituusaste": 25.659122,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 410,
+      "nimi": "Specsavers",
+      "leveysaste": 60.995692,
+      "pituusaste": 24.461735,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 411,
+      "nimi": "Specsavers",
+      "leveysaste": 61.058472,
+      "pituusaste": 28.186463,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 412,
+      "nimi": "Specsavers",
+      "leveysaste": 61.475943,
+      "pituusaste": 23.838518,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 413,
+      "nimi": "Specsavers",
+      "leveysaste": 61.484458,
+      "pituusaste": 21.796858,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 414,
+      "nimi": "Specsavers",
+      "leveysaste": 61.493043,
+      "pituusaste": 23.767373,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 415,
+      "nimi": "Specsavers",
+      "leveysaste": 61.497421,
+      "pituusaste": 23.758927,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 416,
+      "nimi": "Specsavers",
+      "leveysaste": 61.557413,
+      "pituusaste": 23.570008,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 417,
+      "nimi": "Specsavers",
+      "leveysaste": 62.256303,
+      "pituusaste": 25.774852,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 418,
+      "nimi": "Specsavers",
+      "leveysaste": 62.60264,
+      "pituusaste": 29.763058,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 419,
+      "nimi": "Specsavers",
+      "leveysaste": 62.790019,
+      "pituusaste": 22.841455,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 420,
+      "nimi": "Specsavers",
+      "leveysaste": 62.865325,
+      "pituusaste": 27.612604,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 421,
+      "nimi": "Specsavers",
+      "leveysaste": 63.073194,
+      "pituusaste": 27.659356,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 422,
+      "nimi": "Specsavers",
+      "leveysaste": 63.095258,
+      "pituusaste": 21.614624,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 423,
+      "nimi": "Specsavers",
+      "leveysaste": 63.835836,
+      "pituusaste": 23.131826,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 424,
+      "nimi": "Specsavers",
+      "leveysaste": 64.225769,
+      "pituusaste": 27.731981,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 425,
+      "nimi": "Specsavers",
+      "leveysaste": 64.902218,
+      "pituusaste": 25.539163,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 426,
+      "nimi": "Specsavers",
+      "leveysaste": 65.011344,
+      "pituusaste": 25.471298,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 427,
+      "nimi": "Specsavers",
+      "leveysaste": 65.846437,
+      "pituusaste": 24.146372,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 428,
+      "nimi": "Specsavers",
+      "leveysaste": 66.501386,
+      "pituusaste": 25.727117,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 429,
+      "nimi": "Specsavers Jyväskylä keskusta",
+      "leveysaste": 62.243298,
+      "pituusaste": 25.748928,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 430,
+      "nimi": "Specsavers Optikko",
+      "leveysaste": 60.210411,
+      "pituusaste": 25.080602,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 431,
+      "nimi": "Specsavers Optikko Eura",
+      "leveysaste": 61.129926,
+      "pituusaste": 22.138879,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 432,
+      "nimi": "Suomen Silmäproteesiklinikka",
+      "leveysaste": 60.224191,
+      "pituusaste": 24.814083,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 433,
+      "nimi": "Suonenjoen Näkökeskus",
+      "leveysaste": 62.625719,
+      "pituusaste": 27.119634,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 434,
+      "nimi": "Synsam",
+      "leveysaste": 59.976695,
+      "pituusaste": 23.43867,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 435,
+      "nimi": "Synsam",
+      "leveysaste": 60.149828,
+      "pituusaste": 24.65517,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 436,
+      "nimi": "Synsam",
+      "leveysaste": 60.162179,
+      "pituusaste": 24.738178,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 437,
+      "nimi": "Synsam",
+      "leveysaste": 60.162187,
+      "pituusaste": 24.738171,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 438,
+      "nimi": "Synsam",
+      "leveysaste": 60.1689,
+      "pituusaste": 24.941244,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 439,
+      "nimi": "Synsam",
+      "leveysaste": 60.169435,
+      "pituusaste": 24.938294,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 440,
+      "nimi": "Synsam",
+      "leveysaste": 60.169532,
+      "pituusaste": 24.934048,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 441,
+      "nimi": "Synsam",
+      "leveysaste": 60.174936,
+      "pituusaste": 24.804037,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 442,
+      "nimi": "Synsam",
+      "leveysaste": 60.198807,
+      "pituusaste": 24.931909,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 443,
+      "nimi": "Synsam",
+      "leveysaste": 60.212596,
+      "pituusaste": 25.084198,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 444,
+      "nimi": "Synsam",
+      "leveysaste": 60.21822,
+      "pituusaste": 24.813241,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 445,
+      "nimi": "Synsam",
+      "leveysaste": 60.237046,
+      "pituusaste": 24.891345,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 446,
+      "nimi": "Synsam",
+      "leveysaste": 60.26034,
+      "pituusaste": 24.853082,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 447,
+      "nimi": "Synsam",
+      "leveysaste": 60.292333,
+      "pituusaste": 24.964666,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 448,
+      "nimi": "Synsam",
+      "leveysaste": 60.293259,
+      "pituusaste": 25.043973,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 449,
+      "nimi": "Synsam",
+      "leveysaste": 60.313378,
+      "pituusaste": 24.847227,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 450,
+      "nimi": "Synsam",
+      "leveysaste": 60.332571,
+      "pituusaste": 24.326188,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 451,
+      "nimi": "Synsam",
+      "leveysaste": 60.393846,
+      "pituusaste": 25.662794,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 452,
+      "nimi": "Synsam",
+      "leveysaste": 60.402328,
+      "pituusaste": 25.030155,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 453,
+      "nimi": "Synsam",
+      "leveysaste": 60.450317,
+      "pituusaste": 22.266418,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 454,
+      "nimi": "Synsam",
+      "leveysaste": 60.450979,
+      "pituusaste": 22.265425,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 455,
+      "nimi": "Synsam",
+      "leveysaste": 60.632646,
+      "pituusaste": 24.863392,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 456,
+      "nimi": "Synsam",
+      "leveysaste": 60.722942,
+      "pituusaste": 24.73505,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 457,
+      "nimi": "Synsam",
+      "leveysaste": 60.800307,
+      "pituusaste": 21.411263,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 458,
+      "nimi": "Synsam",
+      "leveysaste": 60.921992,
+      "pituusaste": 24.647287,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 459,
+      "nimi": "Synsam",
+      "leveysaste": 60.993157,
+      "pituusaste": 24.456515,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 460,
+      "nimi": "Synsam",
+      "leveysaste": 61.172132,
+      "pituusaste": 25.551862,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 461,
+      "nimi": "Synsam",
+      "leveysaste": 61.360164,
+      "pituusaste": 23.796267,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 462,
+      "nimi": "Synsam",
+      "leveysaste": 61.450592,
+      "pituusaste": 23.850797,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 463,
+      "nimi": "Synsam",
+      "leveysaste": 61.498337,
+      "pituusaste": 23.766784,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 464,
+      "nimi": "Synsam",
+      "leveysaste": 62.215351,
+      "pituusaste": 25.720897,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 465,
+      "nimi": "Synsam",
+      "leveysaste": 62.241796,
+      "pituusaste": 25.748789,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 466,
+      "nimi": "Synsam",
+      "leveysaste": 62.256395,
+      "pituusaste": 25.773817,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 467,
+      "nimi": "Synsam",
+      "leveysaste": 62.601993,
+      "pituusaste": 29.762333,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 468,
+      "nimi": "Synsam",
+      "leveysaste": 62.793848,
+      "pituusaste": 22.791642,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 469,
+      "nimi": "Synsam",
+      "leveysaste": 62.823078,
+      "pituusaste": 27.603213,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 470,
+      "nimi": "Synsam",
+      "leveysaste": 62.892224,
+      "pituusaste": 27.680143,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 471,
+      "nimi": "Synsam",
+      "leveysaste": 63.095796,
+      "pituusaste": 21.613513,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 472,
+      "nimi": "Synsam",
+      "leveysaste": 64.903063,
+      "pituusaste": 25.538437,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 473,
+      "nimi": "Synsam",
+      "leveysaste": 65.076655,
+      "pituusaste": 25.445193,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 474,
+      "nimi": "Synsam Erottaja",
+      "leveysaste": 60.166632,
+      "pituusaste": 24.942748,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 475,
+      "nimi": "Synsam Jakob Center",
+      "leveysaste": 63.674991,
+      "pituusaste": 22.701822,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 476,
+      "nimi": "Synsam Maxinge",
+      "leveysaste": 60.129919,
+      "pituusaste": 19.933374,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 477,
+      "nimi": "Synsam Sysmä",
+      "leveysaste": 61.501813,
+      "pituusaste": 25.685187,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 478,
+      "nimi": "Synsam Telegrafen",
+      "leveysaste": 60.099807,
+      "pituusaste": 19.941653,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 479,
+      "nimi": "T-Optik",
+      "leveysaste": 60.167541,
+      "pituusaste": 24.938947,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 480,
+      "nimi": "Tampereen näkökeskus",
+      "leveysaste": 61.497623,
+      "pituusaste": 23.772771,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 481,
+      "nimi": "TeleOptiikka",
+      "leveysaste": 61.500662,
+      "pituusaste": 23.755896,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 482,
+      "nimi": "Toptik",
+      "leveysaste": 60.166097,
+      "pituusaste": 24.934751,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 483,
+      "nimi": "Tori Optiikka",
+      "leveysaste": 60.996474,
+      "pituusaste": 24.463726,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 484,
+      "nimi": "Trend Optic",
+      "leveysaste": 60.164302,
+      "pituusaste": 24.936465,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 485,
+      "nimi": "Turun Kultaseppä",
+      "leveysaste": 65.012099,
+      "pituusaste": 25.468508,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 486,
+      "nimi": "Uusi-Optiikka",
+      "leveysaste": 60.800345,
+      "pituusaste": 21.414966,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 487,
+      "nimi": "Vuori",
+      "leveysaste": 64.130386,
+      "pituusaste": 28.384872,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 488,
+      "nimi": "Vuosaaren Optikko",
+      "leveysaste": 60.209764,
+      "pituusaste": 25.143548,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 489,
+      "nimi": "Walter",
+      "leveysaste": 60.167896,
+      "pituusaste": 24.939985,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 490,
+      "nimi": "Wickströms Optik Synsam",
+      "leveysaste": 60.098769,
+      "pituusaste": 19.941392,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 491,
+      "nimi": "Winberg Optiikka",
+      "leveysaste": 60.183467,
+      "pituusaste": 24.958273,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 492,
+      "nimi": "Wirkkala",
+      "leveysaste": 65.844333,
+      "pituusaste": 24.146959,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    },
+    {
+      "id": 493,
+      "nimi": "optiholm",
+      "leveysaste": 65.011973,
+      "pituusaste": 25.46924,
+      "osm_avain": "shop",
+      "osm_arvo": "optician",
+      "osm_luokka": "shop=optician"
+    }
+  ],
+  "meta": {
+    "title": "Optikot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Optikot Suomessa — 493 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=optician`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 10. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 493 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Optikot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Optikot – Suomi (OpenStreetMap) — 493 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 493 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

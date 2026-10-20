@@ -1,0 +1,156 @@
+{
+  "id": "fi-satakunta-lentoasemat",
+  "name": "Finland / Satakunta — Airports (lentoasemat)",
+  "title": "Finland / Satakunta — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Satakunta (Satakunta), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Satakunta'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFEU",
+      "iata": "",
+      "name": "Eura Airport",
+      "city": "",
+      "subdivision": "Satakunta",
+      "subdivision_name_fi": "Satakunta",
+      "country": "FI",
+      "elevation_ft": 259,
+      "latitude": 61.1161,
+      "longitude": 22.2014,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFJM",
+      "iata": "",
+      "name": "Jamijarvi Airport",
+      "city": "Jamijarvi",
+      "subdivision": "Satakunta",
+      "subdivision_name_fi": "Satakunta",
+      "country": "FI",
+      "elevation_ft": 505,
+      "latitude": 61.7786,
+      "longitude": 22.7161,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPI",
+      "iata": "",
+      "name": "Piikajarvi Airport",
+      "city": "",
+      "subdivision": "Satakunta",
+      "subdivision_name_fi": "Satakunta",
+      "country": "FI",
+      "elevation_ft": 148,
+      "latitude": 61.2456,
+      "longitude": 22.1934,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFPO",
+      "iata": "POR",
+      "name": "Pori Airport",
+      "city": "Pori",
+      "subdivision": "Satakunta",
+      "subdivision_name_fi": "Satakunta",
+      "country": "FI",
+      "elevation_ft": 44,
+      "latitude": 61.4617,
+      "longitude": 21.8,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFVP",
+      "iata": "",
+      "name": "Vampula Airport",
+      "city": "",
+      "subdivision": "Satakunta",
+      "subdivision_name_fi": "Satakunta",
+      "country": "FI",
+      "elevation_ft": 295,
+      "latitude": 61.0397,
+      "longitude": 22.5917,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Satakunta — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Satakunta (Satakunta), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Satakunta'. Sisältää 5 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Satakunta — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Satakunta — Airports (lentoasemat) — 5 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 5 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

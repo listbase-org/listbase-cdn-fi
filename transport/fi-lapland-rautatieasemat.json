@@ -1,0 +1,361 @@
+{
+  "id": "fi-lapland-rautatieasemat",
+  "name": "Rautatieasemat — Lapland",
+  "title": "Rautatieasemat — Lapland",
+  "description": "Rautatieasemat ja seisakkeet Laplandn maakunnassa, Suomessa (10 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28779,
+      "name": "Kemi",
+      "slug": "kemi",
+      "uic": "1000347",
+      "latitude": 65.73897,
+      "longitude": 24.574765,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Kemi",
+      "etaisyys_km": 0.581,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28780,
+      "name": "Kemijärvi",
+      "slug": "kemijarvi",
+      "uic": "1000367",
+      "latitude": 66.726915,
+      "longitude": 27.405572,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Kemijärvi",
+      "etaisyys_km": 1.001,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28797,
+      "name": "Kolari",
+      "slug": "kolari",
+      "uic": "1000358",
+      "latitude": 67.351616,
+      "longitude": 23.836288,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Kolari",
+      "etaisyys_km": 1.764,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28834,
+      "name": "Misi",
+      "slug": "misi",
+      "uic": "1000366",
+      "latitude": 66.620528,
+      "longitude": 26.688715,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Misi",
+      "etaisyys_km": 2.991,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28837,
+      "name": "Muurola",
+      "slug": "muurola",
+      "uic": "1000363",
+      "latitude": 66.373387,
+      "longitude": 25.375909,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Totonvaara",
+      "etaisyys_km": 1.769,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28863,
+      "name": "Pello",
+      "slug": "pello",
+      "uic": "1000356",
+      "latitude": 66.787347,
+      "longitude": 23.9935,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Pello",
+      "etaisyys_km": 0.997,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 7,
+      "station_id": 28881,
+      "name": "Rovaniemi",
+      "slug": "rovaniemi",
+      "uic": "1000364",
+      "latitude": 66.50024,
+      "longitude": 25.706297,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Rovaniemi",
+      "etaisyys_km": 0.462,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 8,
+      "station_id": 28902,
+      "name": "Tervola",
+      "slug": "tervola",
+      "uic": "1000361",
+      "latitude": 66.084215,
+      "longitude": 24.772789,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Tervola",
+      "etaisyys_km": 3.529,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 9,
+      "station_id": 28906,
+      "name": "Tornio-Itäinen",
+      "slug": "tornio-itainen",
+      "uic": "1001318",
+      "latitude": 65.853135,
+      "longitude": 24.185287,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Tornio",
+      "etaisyys_km": 0.266,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 10,
+      "station_id": 28931,
+      "name": "Ylitornio",
+      "slug": "ylitornio",
+      "uic": "1000789",
+      "latitude": 66.327838,
+      "longitude": 23.683154,
+      "maakunta": "Lapland",
+      "maakunta_slug": "lapland",
+      "maakunta_code": "19",
+      "lahin_postitoimipaikka": "Ylitornio",
+      "etaisyys_km": 2.122,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Övertorneå",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — Lapland - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet Laplandn maakunnassa, Suomessa (10 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 10 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — Lapland | ListBase",
+    "seo_description": "Lataa Rautatieasemat — Lapland — 10 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 10 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

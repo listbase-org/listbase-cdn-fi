@@ -1,0 +1,1798 @@
+{
+  "id": "fi-osm-amenity-post-office",
+  "name": "Postit – Suomi (OpenStreetMap)",
+  "title": "Postit – Suomi (OpenStreetMap)",
+  "description": "Postit Suomessa — 193 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=post_office`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 193,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "00750 tilapäinen pakettien noutopiste",
+      "leveysaste": 60.274566,
+      "pituusaste": 25.034093,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 2,
+      "nimi": "11120",
+      "leveysaste": 60.747248,
+      "pituusaste": 24.768629,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 3,
+      "nimi": "33250 Tampere",
+      "leveysaste": 61.505407,
+      "pituusaste": 23.708867,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 4,
+      "nimi": "41500 Hankasalmi as",
+      "leveysaste": 62.300804,
+      "pituusaste": 26.479704,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 5,
+      "nimi": "58700 Sulkava",
+      "leveysaste": 61.786948,
+      "pituusaste": 28.370995,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 6,
+      "nimi": "63510 Lehtimäki",
+      "leveysaste": 62.792759,
+      "pituusaste": 23.92693,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 7,
+      "nimi": "66800 Oravais",
+      "leveysaste": 63.304303,
+      "pituusaste": 22.378352,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 8,
+      "nimi": "ABC Koria",
+      "leveysaste": 60.859421,
+      "pituusaste": 26.567419,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 9,
+      "nimi": "Alavus MH asiamiesposti",
+      "leveysaste": 62.585468,
+      "pituusaste": 23.616446,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 10,
+      "nimi": "Asiamiesposti",
+      "leveysaste": 61.050833,
+      "pituusaste": 26.480517,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 11,
+      "nimi": "Asiamiesposti 01480 Vantaa",
+      "leveysaste": 60.344128,
+      "pituusaste": 25.09942,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 12,
+      "nimi": "Asiamiesposti Kauvatsa",
+      "leveysaste": 61.334377,
+      "pituusaste": 22.50452,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 13,
+      "nimi": "Asiamiesposti Mellilä",
+      "leveysaste": 60.77887,
+      "pituusaste": 22.924873,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 14,
+      "nimi": "Asiamiesposti Panelia",
+      "leveysaste": 61.223416,
+      "pituusaste": 21.974953,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 15,
+      "nimi": "Asiamiesposti, Siuro",
+      "leveysaste": 61.475765,
+      "pituusaste": 23.344165,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 16,
+      "nimi": "DHL Service Point, Noutopiste Haverinen",
+      "leveysaste": 65.038482,
+      "pituusaste": 25.5407,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 17,
+      "nimi": "Helsinki 80",
+      "leveysaste": 60.194442,
+      "pituusaste": 25.02896,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 18,
+      "nimi": "ICA posten",
+      "leveysaste": 66.383111,
+      "pituusaste": 23.653086,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 19,
+      "nimi": "Imatra 55100",
+      "leveysaste": 61.171367,
+      "pituusaste": 28.770785,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 20,
+      "nimi": "Joulupukin Pääposti",
+      "leveysaste": 66.543501,
+      "pituusaste": 25.845419,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 21,
+      "nimi": "Joulupukin Pääposti",
+      "leveysaste": 66.543504,
+      "pituusaste": 25.845391,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 22,
+      "nimi": "Jounin Kauppa",
+      "leveysaste": 67.605311,
+      "pituusaste": 24.154495,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 23,
+      "nimi": "Karvionkanava",
+      "leveysaste": 62.514236,
+      "pituusaste": 28.645593,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 24,
+      "nimi": "Kierrasmyymälä Löytylä",
+      "leveysaste": 65.963648,
+      "pituusaste": 29.186373,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 25,
+      "nimi": "Kupittaan posti",
+      "leveysaste": 60.441774,
+      "pituusaste": 22.2853,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 26,
+      "nimi": "Kvevlax Posten",
+      "leveysaste": 63.161739,
+      "pituusaste": 21.840397,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 27,
+      "nimi": "Kyrön Kulta-Kellon postitoimipiste",
+      "leveysaste": 60.702461,
+      "pituusaste": 22.757143,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 28,
+      "nimi": "Kälviän posti",
+      "leveysaste": 63.858872,
+      "pituusaste": 23.45993,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 29,
+      "nimi": "Lapinlahden kirjakauppa (posti)",
+      "leveysaste": 63.366518,
+      "pituusaste": 27.397499,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 30,
+      "nimi": "Lasihytin posti",
+      "leveysaste": 60.185399,
+      "pituusaste": 24.596139,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 31,
+      "nimi": "Lemlands Postombud",
+      "leveysaste": 60.070739,
+      "pituusaste": 20.084832,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 32,
+      "nimi": "Lyytin pubi",
+      "leveysaste": 67.291774,
+      "pituusaste": 28.161509,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 33,
+      "nimi": "M-Market Nikkilä",
+      "leveysaste": 61.451999,
+      "pituusaste": 24.388953,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 34,
+      "nimi": "Matkahuolto",
+      "leveysaste": 60.118579,
+      "pituusaste": 24.437183,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 35,
+      "nimi": "Matkahuolto",
+      "leveysaste": 60.401649,
+      "pituusaste": 25.027969,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 36,
+      "nimi": "Matkahuolto",
+      "leveysaste": 60.57651,
+      "pituusaste": 21.982024,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 37,
+      "nimi": "Matkahuolto",
+      "leveysaste": 61.223368,
+      "pituusaste": 21.975169,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 38,
+      "nimi": "Matkahuolto",
+      "leveysaste": 61.314799,
+      "pituusaste": 23.754308,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 39,
+      "nimi": "Matkahuolto",
+      "leveysaste": 61.686956,
+      "pituusaste": 27.276858,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 40,
+      "nimi": "Matkahuolto - Aron Soitin",
+      "leveysaste": 60.197685,
+      "pituusaste": 25.047026,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 41,
+      "nimi": "Matkahuolto Asiamies piste",
+      "leveysaste": 62.095537,
+      "pituusaste": 26.078743,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 42,
+      "nimi": "Matkahuolto Kamppi - Rahtipalvelut",
+      "leveysaste": 60.170009,
+      "pituusaste": 24.93427,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 43,
+      "nimi": "Matkahuolto Oulu Yrityspiste",
+      "leveysaste": 64.989859,
+      "pituusaste": 25.428639,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 44,
+      "nimi": "Matkahuolto Vantaa-Pakkala Asiamies",
+      "leveysaste": 60.299035,
+      "pituusaste": 24.943482,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 45,
+      "nimi": "Matkahuolto palvelupiste",
+      "leveysaste": 60.494547,
+      "pituusaste": 22.300347,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 46,
+      "nimi": "Matkahuoltoasiamies",
+      "leveysaste": 60.405015,
+      "pituusaste": 25.104649,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 47,
+      "nimi": "Mikkeli 50600",
+      "leveysaste": 61.676044,
+      "pituusaste": 27.200448,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 48,
+      "nimi": "Munkkivuoren posti 00350",
+      "leveysaste": 60.205979,
+      "pituusaste": 24.87644,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 49,
+      "nimi": "Muuramen Postitoimisto",
+      "leveysaste": 62.137617,
+      "pituusaste": 25.672268,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 50,
+      "nimi": "Mäntyharju 52700",
+      "leveysaste": 61.416683,
+      "pituusaste": 26.881469,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 51,
+      "nimi": "OmaPosti Rykmentinpuisto",
+      "leveysaste": 60.398619,
+      "pituusaste": 25.049152,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 52,
+      "nimi": "OmaPosti Rykmentinpuisto",
+      "leveysaste": 60.398631,
+      "pituusaste": 25.049141,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 53,
+      "nimi": "OmaPosti-kioski",
+      "leveysaste": 60.185551,
+      "pituusaste": 24.961468,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 54,
+      "nimi": "OmaPosti-kioski",
+      "leveysaste": 65.075417,
+      "pituusaste": 25.445512,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 55,
+      "nimi": "Ombudet",
+      "leveysaste": 60.130974,
+      "pituusaste": 19.933555,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 56,
+      "nimi": "Ombudsposten Nagu",
+      "leveysaste": 60.192648,
+      "pituusaste": 21.911063,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 57,
+      "nimi": "Oulu 90620",
+      "leveysaste": 65.039164,
+      "pituusaste": 25.552651,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 58,
+      "nimi": "Pornaisten posti 07170",
+      "leveysaste": 60.477314,
+      "pituusaste": 25.374673,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 59,
+      "nimi": "Post Utö",
+      "leveysaste": 59.781382,
+      "pituusaste": 21.370405,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 60,
+      "nimi": "PostNord",
+      "leveysaste": 64.989837,
+      "pituusaste": 25.428752,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 61,
+      "nimi": "Poste Restante Tampere, Pakettiautomaatti",
+      "leveysaste": 61.516044,
+      "pituusaste": 23.67211,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 62,
+      "nimi": "Posten",
+      "leveysaste": 60.221638,
+      "pituusaste": 20.090044,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 63,
+      "nimi": "Posti",
+      "leveysaste": 60.156158,
+      "pituusaste": 24.921173,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 64,
+      "nimi": "Posti",
+      "leveysaste": 60.161404,
+      "pituusaste": 24.738345,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 65,
+      "nimi": "Posti",
+      "leveysaste": 60.161423,
+      "pituusaste": 24.738329,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 66,
+      "nimi": "Posti",
+      "leveysaste": 60.187056,
+      "pituusaste": 24.977637,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 67,
+      "nimi": "Posti",
+      "leveysaste": 60.251946,
+      "pituusaste": 25.014665,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 68,
+      "nimi": "Posti",
+      "leveysaste": 60.263895,
+      "pituusaste": 24.873956,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 69,
+      "nimi": "Posti",
+      "leveysaste": 60.278666,
+      "pituusaste": 24.854181,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 70,
+      "nimi": "Posti",
+      "leveysaste": 60.324161,
+      "pituusaste": 25.057148,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 71,
+      "nimi": "Posti",
+      "leveysaste": 60.472405,
+      "pituusaste": 22.231588,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 72,
+      "nimi": "Posti",
+      "leveysaste": 60.637184,
+      "pituusaste": 25.317587,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 73,
+      "nimi": "Posti",
+      "leveysaste": 60.675608,
+      "pituusaste": 21.994606,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 74,
+      "nimi": "Posti",
+      "leveysaste": 60.688412,
+      "pituusaste": 26.805395,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 75,
+      "nimi": "Posti",
+      "leveysaste": 60.722965,
+      "pituusaste": 24.734455,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 76,
+      "nimi": "Posti",
+      "leveysaste": 60.73992,
+      "pituusaste": 27.002315,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 77,
+      "nimi": "Posti",
+      "leveysaste": 60.765522,
+      "pituusaste": 26.786721,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 78,
+      "nimi": "Posti",
+      "leveysaste": 60.790129,
+      "pituusaste": 28.01045,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 79,
+      "nimi": "Posti",
+      "leveysaste": 60.815655,
+      "pituusaste": 24.624348,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 80,
+      "nimi": "Posti",
+      "leveysaste": 60.875782,
+      "pituusaste": 26.652205,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 81,
+      "nimi": "Posti",
+      "leveysaste": 60.964596,
+      "pituusaste": 25.657406,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 82,
+      "nimi": "Posti",
+      "leveysaste": 61.132874,
+      "pituusaste": 21.516508,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 83,
+      "nimi": "Posti",
+      "leveysaste": 61.133922,
+      "pituusaste": 21.528627,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 84,
+      "nimi": "Posti",
+      "leveysaste": 61.173119,
+      "pituusaste": 24.572031,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 85,
+      "nimi": "Posti",
+      "leveysaste": 61.292267,
+      "pituusaste": 28.817296,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 86,
+      "nimi": "Posti",
+      "leveysaste": 61.292282,
+      "pituusaste": 28.817338,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 87,
+      "nimi": "Posti",
+      "leveysaste": 61.314008,
+      "pituusaste": 22.146505,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 88,
+      "nimi": "Posti",
+      "leveysaste": 61.428734,
+      "pituusaste": 21.875986,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 89,
+      "nimi": "Posti",
+      "leveysaste": 61.466016,
+      "pituusaste": 23.722923,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 90,
+      "nimi": "Posti",
+      "leveysaste": 61.466679,
+      "pituusaste": 23.511056,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 91,
+      "nimi": "Posti",
+      "leveysaste": 61.483621,
+      "pituusaste": 21.797718,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 92,
+      "nimi": "Posti",
+      "leveysaste": 61.68725,
+      "pituusaste": 27.270684,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 93,
+      "nimi": "Posti",
+      "leveysaste": 62.250828,
+      "pituusaste": 26.177395,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 94,
+      "nimi": "Posti",
+      "leveysaste": 62.259003,
+      "pituusaste": 24.707533,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 95,
+      "nimi": "Posti",
+      "leveysaste": 62.30321,
+      "pituusaste": 27.165152,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 96,
+      "nimi": "Posti",
+      "leveysaste": 62.864356,
+      "pituusaste": 27.611907,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 97,
+      "nimi": "Posti",
+      "leveysaste": 63.09504,
+      "pituusaste": 21.613911,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 98,
+      "nimi": "Posti",
+      "leveysaste": 63.835681,
+      "pituusaste": 23.142319,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 99,
+      "nimi": "Posti",
+      "leveysaste": 64.167994,
+      "pituusaste": 24.302761,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 100,
+      "nimi": "Posti",
+      "leveysaste": 65.01034,
+      "pituusaste": 25.491844,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 101,
+      "nimi": "Posti",
+      "leveysaste": 65.010349,
+      "pituusaste": 25.491882,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 102,
+      "nimi": "Posti",
+      "leveysaste": 65.044891,
+      "pituusaste": 25.44642,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 103,
+      "nimi": "Posti",
+      "leveysaste": 66.322241,
+      "pituusaste": 23.669382,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 104,
+      "nimi": "Posti",
+      "leveysaste": 67.15821,
+      "pituusaste": 26.917149,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 105,
+      "nimi": "Posti",
+      "leveysaste": 67.422358,
+      "pituusaste": 26.586863,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 106,
+      "nimi": "Posti 00510",
+      "leveysaste": 60.192269,
+      "pituusaste": 24.953198,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 107,
+      "nimi": "Posti 00531 postilokerot",
+      "leveysaste": 60.179407,
+      "pituusaste": 24.948864,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 108,
+      "nimi": "Posti 97900",
+      "leveysaste": 66.111853,
+      "pituusaste": 28.164544,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 109,
+      "nimi": "Posti Business Point",
+      "leveysaste": 60.456139,
+      "pituusaste": 22.232133,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 110,
+      "nimi": "Posti Evijärvi",
+      "leveysaste": 63.367338,
+      "pituusaste": 23.477522,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 111,
+      "nimi": "Posti Helsinki 10",
+      "leveysaste": 60.171809,
+      "pituusaste": 24.938427,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 112,
+      "nimi": "Posti Hirvikoski",
+      "leveysaste": 60.868549,
+      "pituusaste": 22.991372,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 113,
+      "nimi": "Posti Honkajoki",
+      "leveysaste": 61.992043,
+      "pituusaste": 22.261456,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 114,
+      "nimi": "Posti Jyväskylä Keskusta",
+      "leveysaste": 62.241924,
+      "pituusaste": 25.75104,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 115,
+      "nimi": "Posti K-Citymarket Easton",
+      "leveysaste": 60.20942,
+      "pituusaste": 25.086636,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 116,
+      "nimi": "Posti K-Citymarket Tornio",
+      "leveysaste": 65.843137,
+      "pituusaste": 24.143421,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 117,
+      "nimi": "Posti K-Citymarket Vantaa Tammisto",
+      "leveysaste": 60.273104,
+      "pituusaste": 24.973551,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 118,
+      "nimi": "Posti K-Supermarket Lapua",
+      "leveysaste": 62.973101,
+      "pituusaste": 23.029595,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 119,
+      "nimi": "Posti Kristiinankaupunki",
+      "leveysaste": 62.274884,
+      "pituusaste": 21.381013,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 120,
+      "nimi": "Posti Kuortane",
+      "leveysaste": 62.809074,
+      "pituusaste": 23.511344,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 121,
+      "nimi": "Posti Lempäälä",
+      "leveysaste": 61.313837,
+      "pituusaste": 23.759499,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 122,
+      "nimi": "Posti Loimaa",
+      "leveysaste": 60.854615,
+      "pituusaste": 23.042532,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 123,
+      "nimi": "Posti Neste Vihti Siippoo",
+      "leveysaste": 60.410944,
+      "pituusaste": 24.45238,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 124,
+      "nimi": "Posti Noutopiste",
+      "leveysaste": 60.186545,
+      "pituusaste": 24.746718,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 125,
+      "nimi": "Posti Noutopiste",
+      "leveysaste": 60.297993,
+      "pituusaste": 22.301967,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 126,
+      "nimi": "Posti Noutopiste, Frans Logistic Solutions",
+      "leveysaste": 60.488507,
+      "pituusaste": 22.327642,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 127,
+      "nimi": "Posti Nuorgam",
+      "leveysaste": 70.08114,
+      "pituusaste": 27.870933,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 128,
+      "nimi": "Posti Oripää",
+      "leveysaste": 60.85656,
+      "pituusaste": 22.694618,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 129,
+      "nimi": "Posti Orivesi",
+      "leveysaste": 61.678506,
+      "pituusaste": 24.357119,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 130,
+      "nimi": "Posti Orivesi",
+      "leveysaste": 61.678515,
+      "pituusaste": 24.357122,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 131,
+      "nimi": "Posti Otava",
+      "leveysaste": 61.644333,
+      "pituusaste": 27.072869,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 132,
+      "nimi": "Posti R-kioski Paimio",
+      "leveysaste": 60.457372,
+      "pituusaste": 22.687142,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 133,
+      "nimi": "Posti S-Market Jurva",
+      "leveysaste": 62.688927,
+      "pituusaste": 21.981501,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 134,
+      "nimi": "Posti Salla 98900",
+      "leveysaste": 66.833129,
+      "pituusaste": 28.669596,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 135,
+      "nimi": "Posti Tuuri",
+      "leveysaste": 62.602942,
+      "pituusaste": 23.726121,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 136,
+      "nimi": "Posti Unioninkatu",
+      "leveysaste": 60.166325,
+      "pituusaste": 24.951011,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 137,
+      "nimi": "Posti Utsjoki",
+      "leveysaste": 69.907266,
+      "pituusaste": 27.026981,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 138,
+      "nimi": "Posti Vuosaari (K-Citymarket)",
+      "leveysaste": 60.208102,
+      "pituusaste": 25.145859,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 139,
+      "nimi": "Posti Vuotso",
+      "leveysaste": 68.100096,
+      "pituusaste": 27.120317,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 140,
+      "nimi": "Posti Ylöjärvi",
+      "leveysaste": 61.548784,
+      "pituusaste": 23.597088,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 141,
+      "nimi": "Posti Yrityspiste, Limingantulli",
+      "leveysaste": 64.995337,
+      "pituusaste": 25.468041,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 142,
+      "nimi": "Posti yrityksille",
+      "leveysaste": 62.785648,
+      "pituusaste": 22.882231,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 143,
+      "nimi": "Posti, 90570 Oulu",
+      "leveysaste": 65.059077,
+      "pituusaste": 25.47695,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 144,
+      "nimi": "Posti, BMA Miljö öppet bolag",
+      "leveysaste": 60.162439,
+      "pituusaste": 21.559839,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 145,
+      "nimi": "Posti, Espoon keskus, Espoontori",
+      "leveysaste": 60.204212,
+      "pituusaste": 24.656568,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 146,
+      "nimi": "Posti, K-Citymarket Hämeenlinna Hämeensaari",
+      "leveysaste": 60.991765,
+      "pituusaste": 24.460857,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 147,
+      "nimi": "Posti, K-Citymarket Kerava",
+      "leveysaste": 60.400477,
+      "pituusaste": 25.100483,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 148,
+      "nimi": "Posti, K-Citymarket Kerava",
+      "leveysaste": 60.400488,
+      "pituusaste": 25.100531,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 149,
+      "nimi": "Posti, K-Citymarket Kirkkonummi",
+      "leveysaste": 60.120483,
+      "pituusaste": 24.443709,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 150,
+      "nimi": "Posti, K-Citymarket Pietarsaari",
+      "leveysaste": 63.677077,
+      "pituusaste": 22.71433,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 151,
+      "nimi": "Posti, K-Market Jäkärlä",
+      "leveysaste": 60.543299,
+      "pituusaste": 22.342857,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 152,
+      "nimi": "Posti, K-Market Ravioli",
+      "leveysaste": 60.229706,
+      "pituusaste": 24.716,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 153,
+      "nimi": "Posti, K-Market Riihitori",
+      "leveysaste": 60.717561,
+      "pituusaste": 22.600939,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 154,
+      "nimi": "Posti, K-Mehtonen",
+      "leveysaste": 62.150394,
+      "pituusaste": 25.471653,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 155,
+      "nimi": "Posti, K-Supermarket Korso",
+      "leveysaste": 60.350255,
+      "pituusaste": 25.079314,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 156,
+      "nimi": "Posti, Kilpishalli / Neste Enontekiö Kilpisjärvi",
+      "leveysaste": 69.016802,
+      "pituusaste": 20.87563,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 157,
+      "nimi": "Posti, Kjellman & Co",
+      "leveysaste": 63.593666,
+      "pituusaste": 23.051061,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 158,
+      "nimi": "Posti, Neste Lintulahti",
+      "leveysaste": 62.819797,
+      "pituusaste": 25.801563,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 159,
+      "nimi": "Posti, Neste Pedersöre",
+      "leveysaste": 63.632781,
+      "pituusaste": 22.856942,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 160,
+      "nimi": "Posti, Neste Rautalampi",
+      "leveysaste": 62.625425,
+      "pituusaste": 26.819875,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 161,
+      "nimi": "Posti, Oy Rauta-Järn Österholm Ab",
+      "leveysaste": 60.623353,
+      "pituusaste": 26.197739,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 162,
+      "nimi": "Posti, Pias livs",
+      "leveysaste": 63.805884,
+      "pituusaste": 22.78031,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 163,
+      "nimi": "Posti, Prisma Linnainmaa / asiakaspalvelupiste",
+      "leveysaste": 61.495725,
+      "pituusaste": 23.883128,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 164,
+      "nimi": "Posti, Purmoservice",
+      "leveysaste": 63.479351,
+      "pituusaste": 23.008377,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 165,
+      "nimi": "Posti, S-MarketMegakeskus",
+      "leveysaste": 62.792128,
+      "pituusaste": 22.840498,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 166,
+      "nimi": "Posti, S-market Kauppakatu",
+      "leveysaste": 62.603196,
+      "pituusaste": 29.762364,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 167,
+      "nimi": "Posti, S-market Kauppakatu",
+      "leveysaste": 62.603204,
+      "pituusaste": 29.762371,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 168,
+      "nimi": "Posti, Shell Haukilahti",
+      "leveysaste": 60.166317,
+      "pituusaste": 24.773089,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 169,
+      "nimi": "Posti, T:mi Marika Mäkimattila",
+      "leveysaste": 60.923101,
+      "pituusaste": 23.367708,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 170,
+      "nimi": "Postin Palvelupiste",
+      "leveysaste": 63.054072,
+      "pituusaste": 22.10884,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 171,
+      "nimi": "Postin automaatti, S-market Vallila",
+      "leveysaste": 60.189889,
+      "pituusaste": 24.95259,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 172,
+      "nimi": "Postin jakelukeskus",
+      "leveysaste": 60.733323,
+      "pituusaste": 24.781992,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 173,
+      "nimi": "Postin palvelupiste",
+      "leveysaste": 62.674704,
+      "pituusaste": 29.793477,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 174,
+      "nimi": "Postipiste, Bennäs apotek",
+      "leveysaste": 63.600611,
+      "pituusaste": 22.79504,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 175,
+      "nimi": "Postkontoret Mariehamn",
+      "leveysaste": 60.100315,
+      "pituusaste": 19.941341,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 176,
+      "nimi": "Postnord",
+      "leveysaste": 60.980925,
+      "pituusaste": 24.496412,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 177,
+      "nimi": "Postombud Handlar'n Karesuando",
+      "leveysaste": 68.439349,
+      "pituusaste": 22.461111,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 178,
+      "nimi": "Punavuori",
+      "leveysaste": 60.163824,
+      "pituusaste": 24.940954,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 179,
+      "nimi": "Pyhämaan asiamiesposti",
+      "leveysaste": 60.949564,
+      "pituusaste": 21.368646,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 180,
+      "nimi": "Ruoveden asiamiesposti",
+      "leveysaste": 61.981405,
+      "pituusaste": 24.069717,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 181,
+      "nimi": "Saarentaus",
+      "leveysaste": 60.72971,
+      "pituusaste": 25.418346,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 182,
+      "nimi": "Salon postitoimisto",
+      "leveysaste": 60.389786,
+      "pituusaste": 23.12667,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 183,
+      "nimi": "Sokos Tampere",
+      "leveysaste": 61.496835,
+      "pituusaste": 23.758081,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 184,
+      "nimi": "Sviby postterminal - Åland Post",
+      "leveysaste": 60.12079,
+      "pituusaste": 19.914667,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 185,
+      "nimi": "Söderby boden",
+      "leveysaste": 60.211128,
+      "pituusaste": 25.853236,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 186,
+      "nimi": "Tesjoen kirjasto",
+      "leveysaste": 60.474648,
+      "pituusaste": 26.310312,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 187,
+      "nimi": "Tunturi-Lapin Leipä",
+      "leveysaste": 68.38546,
+      "pituusaste": 23.619733,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 188,
+      "nimi": "Tuustaipale",
+      "leveysaste": 61.503906,
+      "pituusaste": 26.704261,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 189,
+      "nimi": "Tyrnävän asiamiesposti",
+      "leveysaste": 64.760644,
+      "pituusaste": 25.658832,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 190,
+      "nimi": "Töölön Posti 00250",
+      "leveysaste": 60.184869,
+      "pituusaste": 24.915592,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 191,
+      "nimi": "UPS Access Point",
+      "leveysaste": 65.088028,
+      "pituusaste": 25.405196,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 192,
+      "nimi": "Vuorenkylä",
+      "leveysaste": 61.73538,
+      "pituusaste": 25.885723,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    },
+    {
+      "id": 193,
+      "nimi": "Åland Post",
+      "leveysaste": 60.246017,
+      "pituusaste": 20.351198,
+      "osm_avain": "amenity",
+      "osm_arvo": "post_office",
+      "osm_luokka": "amenity=post_office"
+    }
+  ],
+  "meta": {
+    "title": "Postit – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Postit Suomessa — 193 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=post_office`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 1. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 193 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Postit – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Postit – Suomi (OpenStreetMap) — 193 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 193 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

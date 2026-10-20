@@ -1,0 +1,2797 @@
+{
+  "id": "fi-osm-amenity-parking-space",
+  "name": "Pysäköintipaikat – Suomi (OpenStreetMap)",
+  "title": "Pysäköintipaikat – Suomi (OpenStreetMap)",
+  "description": "Pysäköintipaikat Suomessa — 304 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=parking_space`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 116. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 304,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "number"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "1",
+      "leveysaste": 61.440371,
+      "pituusaste": 23.810248,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 2,
+      "nimi": "10",
+      "leveysaste": 61.440306,
+      "pituusaste": 23.810523,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 3,
+      "nimi": "11",
+      "leveysaste": 61.44032,
+      "pituusaste": 23.810559,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 4,
+      "nimi": "12",
+      "leveysaste": 61.440199,
+      "pituusaste": 23.8104,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 5,
+      "nimi": "12",
+      "leveysaste": 61.440205,
+      "pituusaste": 23.81039,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 6,
+      "nimi": "13",
+      "leveysaste": 61.440215,
+      "pituusaste": 23.81044,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 7,
+      "nimi": "14",
+      "leveysaste": 61.440226,
+      "pituusaste": 23.810471,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 8,
+      "nimi": "15",
+      "leveysaste": 61.440244,
+      "pituusaste": 23.810505,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 9,
+      "nimi": "16",
+      "leveysaste": 61.440257,
+      "pituusaste": 23.810542,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 10,
+      "nimi": "17",
+      "leveysaste": 61.44027,
+      "pituusaste": 23.810579,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 11,
+      "nimi": "18",
+      "leveysaste": 61.440284,
+      "pituusaste": 23.810616,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 12,
+      "nimi": "19",
+      "leveysaste": 61.440103,
+      "pituusaste": 23.810522,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 13,
+      "nimi": "19",
+      "leveysaste": 61.440107,
+      "pituusaste": 23.810532,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 14,
+      "nimi": "2",
+      "leveysaste": 61.440382,
+      "pituusaste": 23.810289,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 15,
+      "nimi": "20",
+      "leveysaste": 61.44012,
+      "pituusaste": 23.810568,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 16,
+      "nimi": "21",
+      "leveysaste": 61.440134,
+      "pituusaste": 23.810605,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 17,
+      "nimi": "22",
+      "leveysaste": 61.440147,
+      "pituusaste": 23.810642,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 18,
+      "nimi": "23",
+      "leveysaste": 61.440161,
+      "pituusaste": 23.810679,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 19,
+      "nimi": "24",
+      "leveysaste": 61.440175,
+      "pituusaste": 23.810716,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 20,
+      "nimi": "25",
+      "leveysaste": 61.440189,
+      "pituusaste": 23.810754,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 21,
+      "nimi": "26",
+      "leveysaste": 61.440162,
+      "pituusaste": 23.810982,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 22,
+      "nimi": "27",
+      "leveysaste": 61.440145,
+      "pituusaste": 23.811011,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 23,
+      "nimi": "28",
+      "leveysaste": 61.440127,
+      "pituusaste": 23.811039,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 24,
+      "nimi": "29",
+      "leveysaste": 61.440109,
+      "pituusaste": 23.811068,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 25,
+      "nimi": "3",
+      "leveysaste": 61.440394,
+      "pituusaste": 23.81033,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 26,
+      "nimi": "30",
+      "leveysaste": 61.440092,
+      "pituusaste": 23.811097,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 27,
+      "nimi": "31",
+      "leveysaste": 61.440074,
+      "pituusaste": 23.811126,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 28,
+      "nimi": "32",
+      "leveysaste": 61.440056,
+      "pituusaste": 23.811154,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 29,
+      "nimi": "33",
+      "leveysaste": 61.440039,
+      "pituusaste": 23.811183,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 30,
+      "nimi": "34",
+      "leveysaste": 61.440023,
+      "pituusaste": 23.811221,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 31,
+      "nimi": "35",
+      "leveysaste": 61.440003,
+      "pituusaste": 23.811241,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 32,
+      "nimi": "36",
+      "leveysaste": 61.439986,
+      "pituusaste": 23.81127,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 33,
+      "nimi": "37",
+      "leveysaste": 61.439968,
+      "pituusaste": 23.811298,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 34,
+      "nimi": "38",
+      "leveysaste": 61.43995,
+      "pituusaste": 23.811327,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 35,
+      "nimi": "39",
+      "leveysaste": 61.439933,
+      "pituusaste": 23.811356,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 36,
+      "nimi": "4",
+      "leveysaste": 61.440405,
+      "pituusaste": 23.81037,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 37,
+      "nimi": "40",
+      "leveysaste": 61.439915,
+      "pituusaste": 23.811385,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 38,
+      "nimi": "41",
+      "leveysaste": 61.440221,
+      "pituusaste": 23.811195,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 39,
+      "nimi": "41",
+      "leveysaste": 61.440227,
+      "pituusaste": 23.811187,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 40,
+      "nimi": "42",
+      "leveysaste": 61.440204,
+      "pituusaste": 23.811223,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 41,
+      "nimi": "43",
+      "leveysaste": 61.440186,
+      "pituusaste": 23.811252,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 42,
+      "nimi": "44",
+      "leveysaste": 61.440169,
+      "pituusaste": 23.811281,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 43,
+      "nimi": "45",
+      "leveysaste": 61.440151,
+      "pituusaste": 23.81131,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 44,
+      "nimi": "46",
+      "leveysaste": 61.440133,
+      "pituusaste": 23.811338,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 45,
+      "nimi": "47",
+      "leveysaste": 61.440116,
+      "pituusaste": 23.811367,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 46,
+      "nimi": "48",
+      "leveysaste": 61.440098,
+      "pituusaste": 23.811396,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 47,
+      "nimi": "49",
+      "leveysaste": 61.44008,
+      "pituusaste": 23.811425,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 48,
+      "nimi": "5",
+      "leveysaste": 61.440416,
+      "pituusaste": 23.810411,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 49,
+      "nimi": "50",
+      "leveysaste": 61.440063,
+      "pituusaste": 23.811453,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 50,
+      "nimi": "51",
+      "leveysaste": 61.440045,
+      "pituusaste": 23.811482,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 51,
+      "nimi": "52",
+      "leveysaste": 61.440027,
+      "pituusaste": 23.811511,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 52,
+      "nimi": "53",
+      "leveysaste": 61.44001,
+      "pituusaste": 23.81154,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 53,
+      "nimi": "54",
+      "leveysaste": 61.439992,
+      "pituusaste": 23.811568,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 54,
+      "nimi": "55",
+      "leveysaste": 61.439974,
+      "pituusaste": 23.811597,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 55,
+      "nimi": "6",
+      "leveysaste": 61.440248,
+      "pituusaste": 23.810364,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 56,
+      "nimi": "6",
+      "leveysaste": 61.440252,
+      "pituusaste": 23.810375,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 57,
+      "nimi": "7",
+      "leveysaste": 61.44027,
+      "pituusaste": 23.810412,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 58,
+      "nimi": "8",
+      "leveysaste": 61.440281,
+      "pituusaste": 23.810443,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 59,
+      "nimi": "9",
+      "leveysaste": 61.440293,
+      "pituusaste": 23.810486,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 60,
+      "nimi": "Apuvälinepalvelut",
+      "leveysaste": 60.241514,
+      "pituusaste": 24.852882,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 61,
+      "nimi": "C1",
+      "leveysaste": 60.285544,
+      "pituusaste": 25.318029,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 62,
+      "nimi": "C10",
+      "leveysaste": 60.285067,
+      "pituusaste": 25.31844,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 63,
+      "nimi": "C10",
+      "leveysaste": 60.285071,
+      "pituusaste": 25.318447,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 64,
+      "nimi": "C11",
+      "leveysaste": 60.285023,
+      "pituusaste": 25.318871,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 65,
+      "nimi": "C11",
+      "leveysaste": 60.285027,
+      "pituusaste": 25.318878,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 66,
+      "nimi": "C12",
+      "leveysaste": 60.285147,
+      "pituusaste": 25.318555,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 67,
+      "nimi": "C12",
+      "leveysaste": 60.285149,
+      "pituusaste": 25.318562,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 68,
+      "nimi": "C13",
+      "leveysaste": 60.285079,
+      "pituusaste": 25.31896,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 69,
+      "nimi": "C13",
+      "leveysaste": 60.285083,
+      "pituusaste": 25.318967,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 70,
+      "nimi": "C14",
+      "leveysaste": 60.285204,
+      "pituusaste": 25.318656,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 71,
+      "nimi": "C14",
+      "leveysaste": 60.285207,
+      "pituusaste": 25.318663,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 72,
+      "nimi": "C15",
+      "leveysaste": 60.285131,
+      "pituusaste": 25.319085,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 73,
+      "nimi": "C15",
+      "leveysaste": 60.285134,
+      "pituusaste": 25.319092,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 74,
+      "nimi": "C16",
+      "leveysaste": 60.285287,
+      "pituusaste": 25.318763,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 75,
+      "nimi": "C16",
+      "leveysaste": 60.28529,
+      "pituusaste": 25.31877,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 76,
+      "nimi": "C17",
+      "leveysaste": 60.285207,
+      "pituusaste": 25.319218,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 77,
+      "nimi": "C17",
+      "leveysaste": 60.285211,
+      "pituusaste": 25.319223,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 78,
+      "nimi": "C18",
+      "leveysaste": 60.285356,
+      "pituusaste": 25.318899,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 79,
+      "nimi": "C18",
+      "leveysaste": 60.285359,
+      "pituusaste": 25.318906,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 80,
+      "nimi": "C19",
+      "leveysaste": 60.285313,
+      "pituusaste": 25.31928,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 81,
+      "nimi": "C19",
+      "leveysaste": 60.285315,
+      "pituusaste": 25.319253,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 82,
+      "nimi": "C2",
+      "leveysaste": 60.285582,
+      "pituusaste": 25.318359,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 83,
+      "nimi": "C20",
+      "leveysaste": 60.285428,
+      "pituusaste": 25.319054,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 84,
+      "nimi": "C20",
+      "leveysaste": 60.28544,
+      "pituusaste": 25.319066,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 85,
+      "nimi": "C21",
+      "leveysaste": 60.286113,
+      "pituusaste": 25.319152,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 86,
+      "nimi": "C22",
+      "leveysaste": 60.286042,
+      "pituusaste": 25.319208,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 87,
+      "nimi": "C23",
+      "leveysaste": 60.285968,
+      "pituusaste": 25.319266,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 88,
+      "nimi": "C24",
+      "leveysaste": 60.285893,
+      "pituusaste": 25.319337,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 89,
+      "nimi": "C25",
+      "leveysaste": 60.285815,
+      "pituusaste": 25.319409,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 90,
+      "nimi": "C26",
+      "leveysaste": 60.285737,
+      "pituusaste": 25.319533,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 91,
+      "nimi": "C27",
+      "leveysaste": 60.285667,
+      "pituusaste": 25.31966,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 92,
+      "nimi": "C28",
+      "leveysaste": 60.285601,
+      "pituusaste": 25.319795,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 93,
+      "nimi": "C29",
+      "leveysaste": 60.28553,
+      "pituusaste": 25.31989,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 94,
+      "nimi": "C3",
+      "leveysaste": 60.285479,
+      "pituusaste": 25.318041,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 95,
+      "nimi": "C30",
+      "leveysaste": 60.285472,
+      "pituusaste": 25.320012,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 96,
+      "nimi": "C31",
+      "leveysaste": 60.285416,
+      "pituusaste": 25.320128,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 97,
+      "nimi": "C32",
+      "leveysaste": 60.285352,
+      "pituusaste": 25.320254,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 98,
+      "nimi": "C33",
+      "leveysaste": 60.285292,
+      "pituusaste": 25.320358,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 99,
+      "nimi": "C4",
+      "leveysaste": 60.285508,
+      "pituusaste": 25.318399,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 100,
+      "nimi": "C5",
+      "leveysaste": 60.285394,
+      "pituusaste": 25.318085,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 101,
+      "nimi": "C6",
+      "leveysaste": 60.285431,
+      "pituusaste": 25.318415,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 102,
+      "nimi": "C8",
+      "leveysaste": 60.285367,
+      "pituusaste": 25.318447,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 103,
+      "nimi": "C9",
+      "leveysaste": 60.284974,
+      "pituusaste": 25.31869,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 104,
+      "nimi": "C9",
+      "leveysaste": 60.284977,
+      "pituusaste": 25.318697,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 105,
+      "nimi": "C?",
+      "leveysaste": 60.285667,
+      "pituusaste": 25.319358,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 106,
+      "nimi": "C?",
+      "leveysaste": 60.28567,
+      "pituusaste": 25.319365,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 107,
+      "nimi": "C?",
+      "leveysaste": 60.28575,
+      "pituusaste": 25.3192,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 108,
+      "nimi": "C?",
+      "leveysaste": 60.285753,
+      "pituusaste": 25.319208,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 109,
+      "nimi": "C__",
+      "leveysaste": 60.284958,
+      "pituusaste": 25.318464,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 110,
+      "nimi": "Lot # ?",
+      "leveysaste": 60.831069,
+      "pituusaste": 24.819747,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 111,
+      "nimi": "Lot #10",
+      "leveysaste": 60.831621,
+      "pituusaste": 24.817549,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 112,
+      "nimi": "Lot #100",
+      "leveysaste": 60.831634,
+      "pituusaste": 24.820843,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 113,
+      "nimi": "Lot #100",
+      "leveysaste": 60.831643,
+      "pituusaste": 24.820815,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 114,
+      "nimi": "Lot #101",
+      "leveysaste": 60.831742,
+      "pituusaste": 24.820512,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 115,
+      "nimi": "Lot #101",
+      "leveysaste": 60.831754,
+      "pituusaste": 24.820489,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 116,
+      "nimi": "Lot #102",
+      "leveysaste": 60.831666,
+      "pituusaste": 24.820402,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 117,
+      "nimi": "Lot #102",
+      "leveysaste": 60.831677,
+      "pituusaste": 24.820379,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 118,
+      "nimi": "Lot #103",
+      "leveysaste": 60.831616,
+      "pituusaste": 24.8203,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 119,
+      "nimi": "Lot #103",
+      "leveysaste": 60.831628,
+      "pituusaste": 24.820277,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 120,
+      "nimi": "Lot #104",
+      "leveysaste": 60.831745,
+      "pituusaste": 24.820198,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 121,
+      "nimi": "Lot #105",
+      "leveysaste": 60.831816,
+      "pituusaste": 24.820098,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 122,
+      "nimi": "Lot #11",
+      "leveysaste": 60.83154,
+      "pituusaste": 24.817608,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 123,
+      "nimi": "Lot #12",
+      "leveysaste": 60.831452,
+      "pituusaste": 24.817651,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 124,
+      "nimi": "Lot #13",
+      "leveysaste": 60.831373,
+      "pituusaste": 24.817686,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 125,
+      "nimi": "Lot #14",
+      "leveysaste": 60.83151,
+      "pituusaste": 24.817898,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 126,
+      "nimi": "Lot #15",
+      "leveysaste": 60.831432,
+      "pituusaste": 24.817946,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 127,
+      "nimi": "Lot #16",
+      "leveysaste": 60.831352,
+      "pituusaste": 24.818002,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 128,
+      "nimi": "Lot #17",
+      "leveysaste": 60.831268,
+      "pituusaste": 24.818048,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 129,
+      "nimi": "Lot #18",
+      "leveysaste": 60.831525,
+      "pituusaste": 24.818114,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 130,
+      "nimi": "Lot #18",
+      "leveysaste": 60.831528,
+      "pituusaste": 24.818132,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 131,
+      "nimi": "Lot #19",
+      "leveysaste": 60.831541,
+      "pituusaste": 24.818259,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 132,
+      "nimi": "Lot #19",
+      "leveysaste": 60.831543,
+      "pituusaste": 24.818277,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 133,
+      "nimi": "Lot #2",
+      "leveysaste": 60.831637,
+      "pituusaste": 24.817332,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 134,
+      "nimi": "Lot #2",
+      "leveysaste": 60.831639,
+      "pituusaste": 24.817014,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 135,
+      "nimi": "Lot #20",
+      "leveysaste": 60.831123,
+      "pituusaste": 24.818204,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 136,
+      "nimi": "Lot #20",
+      "leveysaste": 60.831136,
+      "pituusaste": 24.818183,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 137,
+      "nimi": "Lot #21",
+      "leveysaste": 60.831063,
+      "pituusaste": 24.818091,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 138,
+      "nimi": "Lot #21",
+      "leveysaste": 60.831076,
+      "pituusaste": 24.81807,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 139,
+      "nimi": "Lot #22",
+      "leveysaste": 60.831003,
+      "pituusaste": 24.817979,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 140,
+      "nimi": "Lot #22",
+      "leveysaste": 60.831015,
+      "pituusaste": 24.817957,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 141,
+      "nimi": "Lot #23",
+      "leveysaste": 60.830982,
+      "pituusaste": 24.818488,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 142,
+      "nimi": "Lot #23",
+      "leveysaste": 60.830995,
+      "pituusaste": 24.818467,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 143,
+      "nimi": "Lot #24",
+      "leveysaste": 60.83087,
+      "pituusaste": 24.818375,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 144,
+      "nimi": "Lot #24",
+      "leveysaste": 60.830882,
+      "pituusaste": 24.818354,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 145,
+      "nimi": "Lot #25",
+      "leveysaste": 60.830899,
+      "pituusaste": 24.81815,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 146,
+      "nimi": "Lot #25",
+      "leveysaste": 60.8309,
+      "pituusaste": 24.818112,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 147,
+      "nimi": "Lot #26",
+      "leveysaste": 60.8308,
+      "pituusaste": 24.818007,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 148,
+      "nimi": "Lot #26",
+      "leveysaste": 60.830808,
+      "pituusaste": 24.817978,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 149,
+      "nimi": "Lot #27",
+      "leveysaste": 60.830769,
+      "pituusaste": 24.818281,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 150,
+      "nimi": "Lot #27",
+      "leveysaste": 60.830776,
+      "pituusaste": 24.818251,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 151,
+      "nimi": "Lot #28",
+      "leveysaste": 60.830698,
+      "pituusaste": 24.817937,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 152,
+      "nimi": "Lot #28",
+      "leveysaste": 60.830706,
+      "pituusaste": 24.817908,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 153,
+      "nimi": "Lot #29",
+      "leveysaste": 60.830654,
+      "pituusaste": 24.818222,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 154,
+      "nimi": "Lot #29",
+      "leveysaste": 60.830661,
+      "pituusaste": 24.818192,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 155,
+      "nimi": "Lot #3",
+      "leveysaste": 60.831552,
+      "pituusaste": 24.817045,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 156,
+      "nimi": "Lot #30",
+      "leveysaste": 60.830609,
+      "pituusaste": 24.817878,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 157,
+      "nimi": "Lot #30",
+      "leveysaste": 60.830614,
+      "pituusaste": 24.817846,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 158,
+      "nimi": "Lot #31",
+      "leveysaste": 60.830531,
+      "pituusaste": 24.818141,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 159,
+      "nimi": "Lot #31",
+      "leveysaste": 60.830539,
+      "pituusaste": 24.818112,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 160,
+      "nimi": "Lot #32",
+      "leveysaste": 60.830508,
+      "pituusaste": 24.81783,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 161,
+      "nimi": "Lot #32",
+      "leveysaste": 60.830515,
+      "pituusaste": 24.817801,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 162,
+      "nimi": "Lot #33",
+      "leveysaste": 60.83044,
+      "pituusaste": 24.818077,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 163,
+      "nimi": "Lot #33",
+      "leveysaste": 60.830447,
+      "pituusaste": 24.818047,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 164,
+      "nimi": "Lot #34",
+      "leveysaste": 60.830402,
+      "pituusaste": 24.817682,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 165,
+      "nimi": "Lot #34",
+      "leveysaste": 60.830412,
+      "pituusaste": 24.817656,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 166,
+      "nimi": "Lot #35",
+      "leveysaste": 60.830328,
+      "pituusaste": 24.817944,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 167,
+      "nimi": "Lot #35",
+      "leveysaste": 60.830342,
+      "pituusaste": 24.817926,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 168,
+      "nimi": "Lot #36",
+      "leveysaste": 60.830288,
+      "pituusaste": 24.817556,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 169,
+      "nimi": "Lot #36",
+      "leveysaste": 60.830295,
+      "pituusaste": 24.817527,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 170,
+      "nimi": "Lot #37",
+      "leveysaste": 60.830177,
+      "pituusaste": 24.817719,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 171,
+      "nimi": "Lot #37",
+      "leveysaste": 60.83019,
+      "pituusaste": 24.817701,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 172,
+      "nimi": "Lot #38",
+      "leveysaste": 60.831057,
+      "pituusaste": 24.818751,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 173,
+      "nimi": "Lot #38",
+      "leveysaste": 60.831066,
+      "pituusaste": 24.818756,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 174,
+      "nimi": "Lot #39",
+      "leveysaste": 60.830975,
+      "pituusaste": 24.818709,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 175,
+      "nimi": "Lot #39",
+      "leveysaste": 60.830984,
+      "pituusaste": 24.818711,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 176,
+      "nimi": "Lot #4",
+      "leveysaste": 60.831554,
+      "pituusaste": 24.817372,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 177,
+      "nimi": "Lot #40",
+      "leveysaste": 60.830899,
+      "pituusaste": 24.818683,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 178,
+      "nimi": "Lot #41",
+      "leveysaste": 60.83082,
+      "pituusaste": 24.818672,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 179,
+      "nimi": "Lot #42",
+      "leveysaste": 60.831742,
+      "pituusaste": 24.816855,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 180,
+      "nimi": "Lot #43",
+      "leveysaste": 60.831678,
+      "pituusaste": 24.816663,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 181,
+      "nimi": "Lot #43",
+      "leveysaste": 60.831694,
+      "pituusaste": 24.816657,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 182,
+      "nimi": "Lot #44",
+      "leveysaste": 60.831607,
+      "pituusaste": 24.816536,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 183,
+      "nimi": "Lot #44",
+      "leveysaste": 60.831623,
+      "pituusaste": 24.816526,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 184,
+      "nimi": "Lot #45",
+      "leveysaste": 60.831537,
+      "pituusaste": 24.816764,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 185,
+      "nimi": "Lot #45",
+      "leveysaste": 60.831546,
+      "pituusaste": 24.816767,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 186,
+      "nimi": "Lot #46",
+      "leveysaste": 60.831388,
+      "pituusaste": 24.816522,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 187,
+      "nimi": "Lot #46",
+      "leveysaste": 60.831404,
+      "pituusaste": 24.816518,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 188,
+      "nimi": "Lot #47",
+      "leveysaste": 60.831398,
+      "pituusaste": 24.816844,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 189,
+      "nimi": "Lot #47",
+      "leveysaste": 60.831414,
+      "pituusaste": 24.81684,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 190,
+      "nimi": "Lot #48",
+      "leveysaste": 60.831122,
+      "pituusaste": 24.816143,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 191,
+      "nimi": "Lot #48",
+      "leveysaste": 60.831138,
+      "pituusaste": 24.816141,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 192,
+      "nimi": "Lot #49",
+      "leveysaste": 60.831227,
+      "pituusaste": 24.816502,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 193,
+      "nimi": "Lot #5",
+      "leveysaste": 60.831456,
+      "pituusaste": 24.817082,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 194,
+      "nimi": "Lot #50",
+      "leveysaste": 60.8312,
+      "pituusaste": 24.816852,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 195,
+      "nimi": "Lot #50",
+      "leveysaste": 60.831216,
+      "pituusaste": 24.816848,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 196,
+      "nimi": "Lot #51",
+      "leveysaste": 60.831145,
+      "pituusaste": 24.817212,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 197,
+      "nimi": "Lot #51",
+      "leveysaste": 60.831161,
+      "pituusaste": 24.817207,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 198,
+      "nimi": "Lot #52",
+      "leveysaste": 60.831074,
+      "pituusaste": 24.817744,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 199,
+      "nimi": "Lot #52",
+      "leveysaste": 60.831089,
+      "pituusaste": 24.817732,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 200,
+      "nimi": "Lot #53",
+      "leveysaste": 60.831021,
+      "pituusaste": 24.816443,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 201,
+      "nimi": "Lot #54",
+      "leveysaste": 60.830967,
+      "pituusaste": 24.816797,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 202,
+      "nimi": "Lot #54",
+      "leveysaste": 60.830983,
+      "pituusaste": 24.816796,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 203,
+      "nimi": "Lot #551",
+      "leveysaste": 60.831002,
+      "pituusaste": 24.817234,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 204,
+      "nimi": "Lot #551",
+      "leveysaste": 60.831012,
+      "pituusaste": 24.817234,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 205,
+      "nimi": "Lot #56",
+      "leveysaste": 60.830912,
+      "pituusaste": 24.817689,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 206,
+      "nimi": "Lot #57",
+      "leveysaste": 60.831176,
+      "pituusaste": 24.819476,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 207,
+      "nimi": "Lot #58",
+      "leveysaste": 60.831108,
+      "pituusaste": 24.819511,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 208,
+      "nimi": "Lot #59",
+      "leveysaste": 60.831011,
+      "pituusaste": 24.819506,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 209,
+      "nimi": "Lot #59",
+      "leveysaste": 60.83102,
+      "pituusaste": 24.819512,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 210,
+      "nimi": "Lot #6",
+      "leveysaste": 60.831463,
+      "pituusaste": 24.817423,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 211,
+      "nimi": "Lot #60",
+      "leveysaste": 60.830938,
+      "pituusaste": 24.819439,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 212,
+      "nimi": "Lot #60",
+      "leveysaste": 60.830946,
+      "pituusaste": 24.81945,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 213,
+      "nimi": "Lot #61",
+      "leveysaste": 60.830875,
+      "pituusaste": 24.819373,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 214,
+      "nimi": "Lot #61",
+      "leveysaste": 60.830882,
+      "pituusaste": 24.819385,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 215,
+      "nimi": "Lot #62",
+      "leveysaste": 60.830795,
+      "pituusaste": 24.819255,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 216,
+      "nimi": "Lot #62",
+      "leveysaste": 60.830801,
+      "pituusaste": 24.819267,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 217,
+      "nimi": "Lot #63",
+      "leveysaste": 60.830724,
+      "pituusaste": 24.819153,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 218,
+      "nimi": "Lot #63",
+      "leveysaste": 60.830731,
+      "pituusaste": 24.819166,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 219,
+      "nimi": "Lot #68",
+      "leveysaste": 60.831937,
+      "pituusaste": 24.81906,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 220,
+      "nimi": "Lot #68",
+      "leveysaste": 60.831947,
+      "pituusaste": 24.819092,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 221,
+      "nimi": "Lot #69",
+      "leveysaste": 60.831905,
+      "pituusaste": 24.819272,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 222,
+      "nimi": "Lot #69",
+      "leveysaste": 60.831917,
+      "pituusaste": 24.819301,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 223,
+      "nimi": "Lot #7",
+      "leveysaste": 60.831366,
+      "pituusaste": 24.817123,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 224,
+      "nimi": "Lot #70",
+      "leveysaste": 60.831771,
+      "pituusaste": 24.819112,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 225,
+      "nimi": "Lot #71",
+      "leveysaste": 60.831658,
+      "pituusaste": 24.819119,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 226,
+      "nimi": "Lot #71",
+      "leveysaste": 60.831674,
+      "pituusaste": 24.819114,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 227,
+      "nimi": "Lot #72",
+      "leveysaste": 60.83156,
+      "pituusaste": 24.819007,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 228,
+      "nimi": "Lot #72",
+      "leveysaste": 60.831565,
+      "pituusaste": 24.81897,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 229,
+      "nimi": "Lot #73",
+      "leveysaste": 60.831513,
+      "pituusaste": 24.81919,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 230,
+      "nimi": "Lot #74",
+      "leveysaste": 60.83192,
+      "pituusaste": 24.819514,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 231,
+      "nimi": "Lot #74",
+      "leveysaste": 60.831934,
+      "pituusaste": 24.819537,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 232,
+      "nimi": "Lot #75",
+      "leveysaste": 60.831714,
+      "pituusaste": 24.819331,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 233,
+      "nimi": "Lot #76",
+      "leveysaste": 60.831648,
+      "pituusaste": 24.819489,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 234,
+      "nimi": "Lot #77",
+      "leveysaste": 60.831501,
+      "pituusaste": 24.819401,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 235,
+      "nimi": "Lot #78",
+      "leveysaste": 60.831395,
+      "pituusaste": 24.819233,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 236,
+      "nimi": "Lot #79",
+      "leveysaste": 60.831362,
+      "pituusaste": 24.819421,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 237,
+      "nimi": "Lot #8",
+      "leveysaste": 60.831391,
+      "pituusaste": 24.817447,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 238,
+      "nimi": "Lot #80",
+      "leveysaste": 60.831485,
+      "pituusaste": 24.819758,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 239,
+      "nimi": "Lot #80",
+      "leveysaste": 60.831501,
+      "pituusaste": 24.819757,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 240,
+      "nimi": "Lot #81",
+      "leveysaste": 60.831806,
+      "pituusaste": 24.819731,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 241,
+      "nimi": "Lot #81",
+      "leveysaste": 60.831815,
+      "pituusaste": 24.819733,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 242,
+      "nimi": "Lot #82",
+      "leveysaste": 60.831733,
+      "pituusaste": 24.819902,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 243,
+      "nimi": "Lot #82",
+      "leveysaste": 60.831742,
+      "pituusaste": 24.819904,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 244,
+      "nimi": "Lot #83",
+      "leveysaste": 60.831636,
+      "pituusaste": 24.819909,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 245,
+      "nimi": "Lot #83",
+      "leveysaste": 60.83164,
+      "pituusaste": 24.819877,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 246,
+      "nimi": "Lot #84",
+      "leveysaste": 60.831503,
+      "pituusaste": 24.819981,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 247,
+      "nimi": "Lot #84",
+      "leveysaste": 60.83206,
+      "pituusaste": 24.81878,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 248,
+      "nimi": "Lot #84",
+      "leveysaste": 60.832069,
+      "pituusaste": 24.818786,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 249,
+      "nimi": "Lot #85",
+      "leveysaste": 60.831397,
+      "pituusaste": 24.819975,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 250,
+      "nimi": "Lot #85",
+      "leveysaste": 60.831401,
+      "pituusaste": 24.820003,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 251,
+      "nimi": "Lot #85",
+      "leveysaste": 60.831981,
+      "pituusaste": 24.818732,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 252,
+      "nimi": "Lot #85",
+      "leveysaste": 60.83199,
+      "pituusaste": 24.818737,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 253,
+      "nimi": "Lot #86",
+      "leveysaste": 60.831358,
+      "pituusaste": 24.820173,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 254,
+      "nimi": "Lot #86",
+      "leveysaste": 60.831366,
+      "pituusaste": 24.820138,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 255,
+      "nimi": "Lot #86",
+      "leveysaste": 60.831913,
+      "pituusaste": 24.818705,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 256,
+      "nimi": "Lot #86",
+      "leveysaste": 60.831922,
+      "pituusaste": 24.81871,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 257,
+      "nimi": "Lot #87",
+      "leveysaste": 60.83126,
+      "pituusaste": 24.820009,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 258,
+      "nimi": "Lot #87",
+      "leveysaste": 60.831273,
+      "pituusaste": 24.81999,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 259,
+      "nimi": "Lot #87 -.VOID",
+      "leveysaste": 60.831865,
+      "pituusaste": 24.818687,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 260,
+      "nimi": "Lot #87 -.VOID",
+      "leveysaste": 60.831866,
+      "pituusaste": 24.818687,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 261,
+      "nimi": "Lot #88",
+      "leveysaste": 60.831302,
+      "pituusaste": 24.820254,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 262,
+      "nimi": "Lot #88",
+      "leveysaste": 60.831303,
+      "pituusaste": 24.820216,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 263,
+      "nimi": "Lot #89",
+      "leveysaste": 60.831224,
+      "pituusaste": 24.820343,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 264,
+      "nimi": "Lot #89",
+      "leveysaste": 60.831226,
+      "pituusaste": 24.820305,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 265,
+      "nimi": "Lot #9",
+      "leveysaste": 60.83171,
+      "pituusaste": 24.817495,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 266,
+      "nimi": "Lot #90",
+      "leveysaste": 60.831182,
+      "pituusaste": 24.820463,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 267,
+      "nimi": "Lot #90",
+      "leveysaste": 60.83119,
+      "pituusaste": 24.820497,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 268,
+      "nimi": "Lot #91",
+      "leveysaste": 60.831082,
+      "pituusaste": 24.820105,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 269,
+      "nimi": "Lot #91",
+      "leveysaste": 60.831085,
+      "pituusaste": 24.820142,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 270,
+      "nimi": "Lot #92",
+      "leveysaste": 60.831046,
+      "pituusaste": 24.820531,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 271,
+      "nimi": "Lot #93",
+      "leveysaste": 60.83114,
+      "pituusaste": 24.820787,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 272,
+      "nimi": "Lot #93",
+      "leveysaste": 60.831145,
+      "pituusaste": 24.820755,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 273,
+      "nimi": "Lot #94",
+      "leveysaste": 60.831305,
+      "pituusaste": 24.820918,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 274,
+      "nimi": "Lot #94",
+      "leveysaste": 60.831307,
+      "pituusaste": 24.82088,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 275,
+      "nimi": "Lot #95",
+      "leveysaste": 60.831382,
+      "pituusaste": 24.820731,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 276,
+      "nimi": "Lot #95",
+      "leveysaste": 60.83139,
+      "pituusaste": 24.820766,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 277,
+      "nimi": "Lot #96",
+      "leveysaste": 60.831418,
+      "pituusaste": 24.82052,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 278,
+      "nimi": "Lot #96",
+      "leveysaste": 60.831418,
+      "pituusaste": 24.820553,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 279,
+      "nimi": "Lot #97",
+      "leveysaste": 60.831472,
+      "pituusaste": 24.820352,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 280,
+      "nimi": "Lot #97",
+      "leveysaste": 60.83148,
+      "pituusaste": 24.820324,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 281,
+      "nimi": "Lot #98",
+      "leveysaste": 60.831516,
+      "pituusaste": 24.820529,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 282,
+      "nimi": "Lot #98",
+      "leveysaste": 60.831525,
+      "pituusaste": 24.820501,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 283,
+      "nimi": "Lot #99",
+      "leveysaste": 60.831566,
+      "pituusaste": 24.820696,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 284,
+      "nimi": "Lot #99",
+      "leveysaste": 60.831575,
+      "pituusaste": 24.820668,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 285,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831175,
+      "pituusaste": 24.817526,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 286,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831182,
+      "pituusaste": 24.817742,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 287,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831189,
+      "pituusaste": 24.817522,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 288,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831193,
+      "pituusaste": 24.819756,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 289,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831209,
+      "pituusaste": 24.819755,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 290,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831248,
+      "pituusaste": 24.81942,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 291,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831289,
+      "pituusaste": 24.819677,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 292,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831304,
+      "pituusaste": 24.819665,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 293,
+      "nimi": "Lot #?",
+      "leveysaste": 60.831312,
+      "pituusaste": 24.819146,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 294,
+      "nimi": "Sopimuspaikoitus Mp paikoitus",
+      "leveysaste": 60.159738,
+      "pituusaste": 24.935369,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 295,
+      "nimi": "Terrace",
+      "leveysaste": 60.831814,
+      "pituusaste": 24.818709,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 296,
+      "nimi": "Terrace",
+      "leveysaste": 60.831816,
+      "pituusaste": 24.818678,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 297,
+      "nimi": "Vieras",
+      "leveysaste": 61.432031,
+      "pituusaste": 23.807676,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 298,
+      "nimi": "Vieras",
+      "leveysaste": 61.432034,
+      "pituusaste": 23.807693,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 299,
+      "nimi": "Vieras",
+      "leveysaste": 61.432054,
+      "pituusaste": 23.807654,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 300,
+      "nimi": "Vieras",
+      "leveysaste": 61.432073,
+      "pituusaste": 23.807636,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 301,
+      "nimi": "Vieras",
+      "leveysaste": 61.432093,
+      "pituusaste": 23.807618,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 302,
+      "nimi": "Vieraspaikka",
+      "leveysaste": 60.425448,
+      "pituusaste": 22.207406,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 303,
+      "nimi": "Vieraspaikka",
+      "leveysaste": 60.425454,
+      "pituusaste": 22.207422,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    },
+    {
+      "id": 304,
+      "nimi": "Vieraspaikka",
+      "leveysaste": 60.458406,
+      "pituusaste": 22.332511,
+      "osm_avain": "amenity",
+      "osm_arvo": "parking_space",
+      "osm_luokka": "amenity=parking_space"
+    }
+  ],
+  "meta": {
+    "title": "Pysäköintipaikat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Pysäköintipaikat Suomessa — 304 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=parking_space`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 116. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 304 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Pysäköintipaikat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Pysäköintipaikat – Suomi (OpenStreetMap) — 304 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 304 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

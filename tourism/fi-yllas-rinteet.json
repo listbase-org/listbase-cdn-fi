@@ -1,0 +1,619 @@
+{
+  "id": "fi-yllas-rinteet",
+  "name": "Ylläksen laskettelurinteet",
+  "title": "Ylläksen laskettelurinteet",
+  "description": "Ylläksen hiihtokeskuksen (Kolari/Kittilä, Lappi) laskettelurinteet. Jokaisessa tietueessa rinnealue, rinteen nimi, pituus metreinä ja vaikeustaso. Yhteensä 62 rinnettä.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "keskus",
+      "label": "Keskus",
+      "type": "string"
+    },
+    {
+      "key": "alue",
+      "label": "Alue",
+      "type": "string"
+    },
+    {
+      "key": "rinteen_numero",
+      "label": "Rinteen Numero",
+      "type": "string"
+    },
+    {
+      "key": "rinne",
+      "label": "Rinne",
+      "type": "string"
+    },
+    {
+      "key": "pituus_m",
+      "label": "Pituus M",
+      "type": "number"
+    },
+    {
+      "key": "vaikeustaso",
+      "label": "Vaikeustaso",
+      "type": "string"
+    },
+    {
+      "key": "vaikeustaso_en",
+      "label": "Vaikeustaso En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Pikkulaenrinne",
+      "pituus_m": 1400,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Länsiraja",
+      "pituus_m": 1400,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Aleksin rinne",
+      "pituus_m": 400,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Käärmemäki",
+      "pituus_m": 700,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Formulamäki",
+      "pituus_m": 650,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Pomppurinne (Mini Park)",
+      "pituus_m": 250,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Veikan rinne",
+      "pituus_m": 600,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Mummon ja vaarin rinne",
+      "pituus_m": 600,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Saaganrinne",
+      "pituus_m": 1000,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Riemurinne",
+      "pituus_m": 1300,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Ylläs Pro Park",
+      "pituus_m": 600,
+      "vaikeustaso": "Musta",
+      "vaikeustaso_en": "Black (advanced)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Treenirinne",
+      "pituus_m": 1200,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Sporttirinne",
+      "pituus_m": 1200,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Ylipitkä",
+      "pituus_m": 3000,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Jättipitkä",
+      "pituus_m": 3000,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Gondolirinne",
+      "pituus_m": 2300,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Maailman Cup",
+      "pituus_m": 2300,
+      "vaikeustaso": "Musta",
+      "vaikeustaso_en": "Black (advanced)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Off-pisterinne",
+      "pituus_m": 1600,
+      "vaikeustaso": "Musta",
+      "vaikeustaso_en": "Black (advanced)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Täyspitkä",
+      "pituus_m": 2600,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Harrinrinne",
+      "pituus_m": 2000,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Vekkulirinne 1",
+      "pituus_m": 260,
+      "vaikeustaso": "Vihreä",
+      "vaikeustaso_en": "Green (beginner)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Vekkulirinne 2",
+      "pituus_m": 260,
+      "vaikeustaso": "Vihreä",
+      "vaikeustaso_en": "Green (beginner)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Tekniikkarinne",
+      "pituus_m": 1200,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Ylläs Snow Park",
+      "pituus_m": 1200,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Auringonlasku",
+      "pituus_m": 1200,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Ylläsjärvi",
+      "rinteen_numero": "",
+      "rinne": "Aurinkorinne",
+      "pituus_m": 1400,
+      "vaikeustaso": "Punainen",
+      "vaikeustaso_en": "Red (intermediate)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Perherinne 1",
+      "pituus_m": 450,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Perherinne 2",
+      "pituus_m": 480,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Joutsenrinne",
+      "pituus_m": 550,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Kulkurinrinne",
+      "pituus_m": 500,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Off-pisterinne (49)",
+      "pituus_m": 850,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Off-pisterinne (50)",
+      "pituus_m": 850,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Paten rinne",
+      "pituus_m": 700,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Pokeririnne",
+      "pituus_m": 750,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Yhdysrinne 3",
+      "pituus_m": 400,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Jokeririnne 1",
+      "pituus_m": 1250,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Jokeririnne 2",
+      "pituus_m": 1250,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Alavelhonrinne",
+      "pituus_m": 1200,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Kuuntervaajaukonrinne",
+      "pituus_m": 1000,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Off-pisterinne (34)",
+      "pituus_m": 800,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Ylävelhonrinne",
+      "pituus_m": 1100,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Kurun pitkäveto",
+      "pituus_m": 2300,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Huipun pitkäveto",
+      "pituus_m": 2400,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Yhdysrinne I",
+      "pituus_m": 650,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Yhdysrinne II",
+      "pituus_m": 400,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Fis-vauhtirinne",
+      "pituus_m": 1100,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Superrinne",
+      "pituus_m": 900,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Länsirinne",
+      "pituus_m": 1100,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Koulurinne",
+      "pituus_m": 300,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Tenavarinne",
+      "pituus_m": 450,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Pikkuvelhonrinne",
+      "pituus_m": 550,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Akkavelhonrinne",
+      "pituus_m": 750,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Isonvelhonrinne",
+      "pituus_m": 580,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Ukkovelhonrinne",
+      "pituus_m": 800,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Jääkausiränni",
+      "pituus_m": 900,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Menninkäisen rinne",
+      "pituus_m": 500,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Päivänsäteen rinne",
+      "pituus_m": 500,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Päävelhonrinne",
+      "pituus_m": 1300,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Aurinkokurun Haipakka",
+      "pituus_m": 1300,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Aurinkokurun Lännenleveä 1",
+      "pituus_m": 1200,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Aurinkokurun Lännenleveä 2",
+      "pituus_m": 1250,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    },
+    {
+      "keskus": "Ylläs",
+      "alue": "Äkäslompolo",
+      "rinteen_numero": "",
+      "rinne": "Off-pisterinne (74)",
+      "pituus_m": 1500,
+      "vaikeustaso": "Sininen",
+      "vaikeustaso_en": "Blue (easy)"
+    }
+  ],
+  "meta": {
+    "title": "Ylläksen laskettelurinteet - Ilmainen lataus",
+    "description": "Ylläksen hiihtokeskuksen (Kolari/Kittilä, Lappi) laskettelurinteet. Jokaisessa tietueessa rinnealue, rinteen nimi, pituus metreinä ja vaikeustaso. Yhteensä 62 rinnettä. Sisältää 62 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Ylläksen laskettelurinteet | ListBase",
+    "seo_description": "Lataa Ylläksen laskettelurinteet — 62 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 62 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

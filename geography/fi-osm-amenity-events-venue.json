@@ -1,0 +1,3625 @@
+{
+  "id": "fi-osm-amenity-events-venue",
+  "name": "Tapahtumapaikat – Suomi (OpenStreetMap)",
+  "title": "Tapahtumapaikat – Suomi (OpenStreetMap)",
+  "description": "Tapahtumapaikat Suomessa — 396 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=events_venue`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 57. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 396,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A",
+      "leveysaste": 62.239997,
+      "pituusaste": 25.758528,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 2,
+      "nimi": "AA-Kilta",
+      "leveysaste": 60.403694,
+      "pituusaste": 22.360753,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 3,
+      "nimi": "Ahjo",
+      "leveysaste": 62.258867,
+      "pituusaste": 25.780007,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 4,
+      "nimi": "Ahjola",
+      "leveysaste": 60.768761,
+      "pituusaste": 24.917156,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 5,
+      "nimi": "Ahjola",
+      "leveysaste": 60.768775,
+      "pituusaste": 24.917126,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 6,
+      "nimi": "Aikakeskus",
+      "leveysaste": 60.293453,
+      "pituusaste": 25.110532,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 7,
+      "nimi": "Aikakeskus",
+      "leveysaste": 60.293454,
+      "pituusaste": 25.110596,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 8,
+      "nimi": "Aino Areena",
+      "leveysaste": 60.458999,
+      "pituusaste": 25.09255,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 9,
+      "nimi": "Aitoon Honkala",
+      "leveysaste": 61.345466,
+      "pituusaste": 24.481079,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 10,
+      "nimi": "Aitoon Honkala",
+      "leveysaste": 61.345486,
+      "pituusaste": 24.481023,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 11,
+      "nimi": "Alaruokasen talo",
+      "leveysaste": 66.499531,
+      "pituusaste": 25.734087,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 12,
+      "nimi": "Alaruokasen talo",
+      "leveysaste": 66.499573,
+      "pituusaste": 25.734121,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 13,
+      "nimi": "Alastaron Seuraintalo",
+      "leveysaste": 60.95783,
+      "pituusaste": 22.862019,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 14,
+      "nimi": "Alastaron Seuraintalo",
+      "leveysaste": 60.957845,
+      "pituusaste": 22.862057,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 15,
+      "nimi": "Aleksinkulma",
+      "leveysaste": 65.014162,
+      "pituusaste": 25.468817,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 16,
+      "nimi": "Alppimaja",
+      "leveysaste": 65.035097,
+      "pituusaste": 25.462912,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 17,
+      "nimi": "Annin Kartano",
+      "leveysaste": 62.169632,
+      "pituusaste": 29.980276,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 18,
+      "nimi": "Annin Kartano",
+      "leveysaste": 62.169684,
+      "pituusaste": 29.980298,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 19,
+      "nimi": "Arasalon elämyskota",
+      "leveysaste": 61.765886,
+      "pituusaste": 23.194789,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 20,
+      "nimi": "Arasalon elämyskota",
+      "leveysaste": 61.765895,
+      "pituusaste": 23.194895,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 21,
+      "nimi": "Auditorio Virtanen",
+      "leveysaste": 60.28796,
+      "pituusaste": 25.040161,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 22,
+      "nimi": "Auditoriot",
+      "leveysaste": 62.240144,
+      "pituusaste": 25.757616,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 23,
+      "nimi": "B",
+      "leveysaste": 62.239416,
+      "pituusaste": 25.759239,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 24,
+      "nimi": "B1",
+      "leveysaste": 62.239753,
+      "pituusaste": 25.759004,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 25,
+      "nimi": "B2",
+      "leveysaste": 62.239142,
+      "pituusaste": 25.759577,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 26,
+      "nimi": "Bastu Hyvinkää",
+      "leveysaste": 60.643958,
+      "pituusaste": 24.848266,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 27,
+      "nimi": "Billnäs lokalen - Pinjantalo Oy",
+      "leveysaste": 60.083218,
+      "pituusaste": 23.63934,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 28,
+      "nimi": "Billnäs lokalen - Pinjantalo Oy",
+      "leveysaste": 60.08322,
+      "pituusaste": 23.639306,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 29,
+      "nimi": "Blomma Juhlatila",
+      "leveysaste": 60.117544,
+      "pituusaste": 24.442371,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 30,
+      "nimi": "Brahegården",
+      "leveysaste": 62.275012,
+      "pituusaste": 21.377123,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 31,
+      "nimi": "Brahegården",
+      "leveysaste": 62.275033,
+      "pituusaste": 21.377131,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 32,
+      "nimi": "Byagården",
+      "leveysaste": 60.347842,
+      "pituusaste": 25.499968,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 33,
+      "nimi": "Bygdehemmet",
+      "leveysaste": 60.225861,
+      "pituusaste": 25.111915,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 34,
+      "nimi": "Bygdehemmet",
+      "leveysaste": 60.225888,
+      "pituusaste": 25.111956,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 35,
+      "nimi": "C1",
+      "leveysaste": 62.239509,
+      "pituusaste": 25.758163,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 36,
+      "nimi": "C2",
+      "leveysaste": 62.239001,
+      "pituusaste": 25.757372,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 37,
+      "nimi": "D",
+      "leveysaste": 62.238724,
+      "pituusaste": 25.759177,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 38,
+      "nimi": "Datariina",
+      "leveysaste": 60.459344,
+      "pituusaste": 26.933106,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 39,
+      "nimi": "Datariina",
+      "leveysaste": 60.459365,
+      "pituusaste": 26.93307,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 40,
+      "nimi": "Elontuli Kurssikeskus",
+      "leveysaste": 60.255583,
+      "pituusaste": 23.680746,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 41,
+      "nimi": "Elontuli Kurssikeskus",
+      "leveysaste": 60.25559,
+      "pituusaste": 23.680761,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 42,
+      "nimi": "Euphoria",
+      "leveysaste": 60.187674,
+      "pituusaste": 24.969173,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 43,
+      "nimi": "Fagerlund",
+      "leveysaste": 60.274877,
+      "pituusaste": 25.135129,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 44,
+      "nimi": "Fagerlund",
+      "leveysaste": 60.274889,
+      "pituusaste": 25.135147,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 45,
+      "nimi": "Future Lake",
+      "leveysaste": 60.378402,
+      "pituusaste": 24.263358,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 46,
+      "nimi": "Future Lake",
+      "leveysaste": 60.378404,
+      "pituusaste": 24.263359,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 47,
+      "nimi": "Gerda",
+      "leveysaste": 61.134358,
+      "pituusaste": 21.469235,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 48,
+      "nimi": "Gumnäs Festivity Place",
+      "leveysaste": 60.089944,
+      "pituusaste": 23.534657,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 49,
+      "nimi": "Gumnäs Festivity Place",
+      "leveysaste": 60.08995,
+      "pituusaste": 23.53466,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 50,
+      "nimi": "Haljastennokka",
+      "leveysaste": 61.311056,
+      "pituusaste": 23.747445,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 51,
+      "nimi": "Haljastennokka",
+      "leveysaste": 61.311064,
+      "pituusaste": 23.747473,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 52,
+      "nimi": "Halkivahan seurojentalo",
+      "leveysaste": 61.193246,
+      "pituusaste": 23.300574,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 53,
+      "nimi": "Halkivahan seurojentalo",
+      "leveysaste": 61.193254,
+      "pituusaste": 23.300539,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 54,
+      "nimi": "Haukilampi",
+      "leveysaste": 60.50234,
+      "pituusaste": 24.671317,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 55,
+      "nimi": "Heimolinna",
+      "leveysaste": 60.849457,
+      "pituusaste": 23.057029,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 56,
+      "nimi": "Heimolinna",
+      "leveysaste": 60.849466,
+      "pituusaste": 23.057039,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 57,
+      "nimi": "Hietalinna",
+      "leveysaste": 65.02096,
+      "pituusaste": 25.42956,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 58,
+      "nimi": "Hietalinna",
+      "leveysaste": 65.020971,
+      "pituusaste": 25.429478,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 59,
+      "nimi": "Hietasaaren veljeskoti",
+      "leveysaste": 65.024905,
+      "pituusaste": 25.425115,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 60,
+      "nimi": "Hietasaaren veljeskoti",
+      "leveysaste": 65.024976,
+      "pituusaste": 25.425209,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 61,
+      "nimi": "Hietsun Paviljonki",
+      "leveysaste": 60.173673,
+      "pituusaste": 24.907918,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 62,
+      "nimi": "Hietsun Paviljonki",
+      "leveysaste": 60.173726,
+      "pituusaste": 24.907984,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 63,
+      "nimi": "Honkavaaran perinnetila",
+      "leveysaste": 62.438423,
+      "pituusaste": 30.028498,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 64,
+      "nimi": "Honkilahden Seuratalo",
+      "leveysaste": 60.964773,
+      "pituusaste": 22.165035,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 65,
+      "nimi": "Honkilahden Seuratalo",
+      "leveysaste": 60.964787,
+      "pituusaste": 22.165098,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 66,
+      "nimi": "Hyvelän Maja",
+      "leveysaste": 61.531326,
+      "pituusaste": 21.824727,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 67,
+      "nimi": "Härkälän monitoimikeskus",
+      "leveysaste": 60.391107,
+      "pituusaste": 24.51476,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 68,
+      "nimi": "Härkälän monitoimikeskus",
+      "leveysaste": 60.391131,
+      "pituusaste": 24.514734,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 69,
+      "nimi": "Härmän käräjätalo",
+      "leveysaste": 63.243856,
+      "pituusaste": 22.856702,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 70,
+      "nimi": "Härmän käräjätalo",
+      "leveysaste": 63.243865,
+      "pituusaste": 22.856719,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 71,
+      "nimi": "Hättänen",
+      "leveysaste": 60.437052,
+      "pituusaste": 22.20284,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 72,
+      "nimi": "Hättänen",
+      "leveysaste": 60.437099,
+      "pituusaste": 22.202886,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 73,
+      "nimi": "Ilmailumuseo auditorio",
+      "leveysaste": 60.304676,
+      "pituusaste": 24.960695,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 74,
+      "nimi": "Innilän urheilumaja",
+      "leveysaste": 61.29992,
+      "pituusaste": 23.807909,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 75,
+      "nimi": "Irjalan Makasiini",
+      "leveysaste": 61.497052,
+      "pituusaste": 23.851648,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 76,
+      "nimi": "Irjalan Makasiini",
+      "leveysaste": 61.497062,
+      "pituusaste": 23.851629,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 77,
+      "nimi": "Isännöintipalvelu Pöysti Ky kokoustila",
+      "leveysaste": 61.172716,
+      "pituusaste": 25.549426,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 78,
+      "nimi": "Jazzvintti",
+      "leveysaste": 65.0389,
+      "pituusaste": 25.432071,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 79,
+      "nimi": "Jazzvintti",
+      "leveysaste": 65.038919,
+      "pituusaste": 25.432064,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 80,
+      "nimi": "Johteenhovi",
+      "leveysaste": 65.014487,
+      "pituusaste": 25.431664,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 81,
+      "nimi": "Jokirannan kartano",
+      "leveysaste": 60.335811,
+      "pituusaste": 25.11885,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 82,
+      "nimi": "Jonel Lounge",
+      "leveysaste": 60.983614,
+      "pituusaste": 25.659826,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 83,
+      "nimi": "Joroisten vanha meijeri",
+      "leveysaste": 62.177779,
+      "pituusaste": 27.821245,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 84,
+      "nimi": "Joroisten vanha meijeri",
+      "leveysaste": 62.177785,
+      "pituusaste": 27.821191,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 85,
+      "nimi": "Joutsela",
+      "leveysaste": 60.346081,
+      "pituusaste": 24.303466,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 86,
+      "nimi": "Juhlakartano Kappelinranta",
+      "leveysaste": 60.332843,
+      "pituusaste": 22.38957,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 87,
+      "nimi": "Juhlakartano Kappelinranta",
+      "leveysaste": 60.33285,
+      "pituusaste": 22.38957,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 88,
+      "nimi": "Juhlatalo Humina",
+      "leveysaste": 62.260402,
+      "pituusaste": 26.194759,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 89,
+      "nimi": "Juhlatalo Johtola",
+      "leveysaste": 61.120981,
+      "pituusaste": 21.478233,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 90,
+      "nimi": "Juhlatalo Johtola",
+      "leveysaste": 61.121014,
+      "pituusaste": 21.478279,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 91,
+      "nimi": "Juhlatalo Kahvimylly",
+      "leveysaste": 62.172217,
+      "pituusaste": 22.592672,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 92,
+      "nimi": "Juhlatalo Kahvimylly",
+      "leveysaste": 62.172359,
+      "pituusaste": 22.592499,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 93,
+      "nimi": "Juhlatalo Ooperi",
+      "leveysaste": 61.100362,
+      "pituusaste": 21.508472,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 94,
+      "nimi": "Juhlatila Calla",
+      "leveysaste": 60.889124,
+      "pituusaste": 26.339149,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 95,
+      "nimi": "Juhlatila Calla",
+      "leveysaste": 60.889137,
+      "pituusaste": 26.339135,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 96,
+      "nimi": "Juhlatila Rulla",
+      "leveysaste": 60.632467,
+      "pituusaste": 24.867656,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 97,
+      "nimi": "Juhlava",
+      "leveysaste": 60.426828,
+      "pituusaste": 22.266383,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 98,
+      "nimi": "Jukkolanmäen Navetanvintti",
+      "leveysaste": 64.033506,
+      "pituusaste": 23.504226,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 99,
+      "nimi": "Jukkolanmäen Navetanvintti",
+      "leveysaste": 64.033528,
+      "pituusaste": 23.504198,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 100,
+      "nimi": "Julius-Sali",
+      "leveysaste": 60.158566,
+      "pituusaste": 24.863593,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 101,
+      "nimi": "Julius-Sali",
+      "leveysaste": 60.158576,
+      "pituusaste": 24.863605,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 102,
+      "nimi": "Julumetun sali",
+      "leveysaste": 62.294304,
+      "pituusaste": 22.451168,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 103,
+      "nimi": "Jumikkalan kartano",
+      "leveysaste": 62.070039,
+      "pituusaste": 28.2942,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 104,
+      "nimi": "Jumikkalan kartano",
+      "leveysaste": 62.070041,
+      "pituusaste": 28.294249,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 105,
+      "nimi": "Jylhänrinne",
+      "leveysaste": 63.85963,
+      "pituusaste": 23.128682,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 106,
+      "nimi": "Jätinlinna",
+      "leveysaste": 60.564933,
+      "pituusaste": 24.830145,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 107,
+      "nimi": "Kahvi-Kaisa",
+      "leveysaste": 60.154444,
+      "pituusaste": 24.633332,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 108,
+      "nimi": "Kakolan Sali",
+      "leveysaste": 60.442685,
+      "pituusaste": 22.243678,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 109,
+      "nimi": "Kakskerran Hirvilampi",
+      "leveysaste": 60.358432,
+      "pituusaste": 22.271094,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 110,
+      "nimi": "Kalevasali",
+      "leveysaste": 61.50201,
+      "pituusaste": 23.789362,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 111,
+      "nimi": "Kallion kotiseututalo",
+      "leveysaste": 64.256503,
+      "pituusaste": 24.601345,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 112,
+      "nimi": "Kallion kotiseututalo",
+      "leveysaste": 64.256505,
+      "pituusaste": 24.601337,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 113,
+      "nimi": "Kalliopohja",
+      "leveysaste": 60.620816,
+      "pituusaste": 22.122316,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 114,
+      "nimi": "Kangasala-sali",
+      "leveysaste": 61.463356,
+      "pituusaste": 24.073125,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 115,
+      "nimi": "Kangasalan Areenan kokoustila",
+      "leveysaste": 61.463695,
+      "pituusaste": 24.048139,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 116,
+      "nimi": "Kangasalan pirtti",
+      "leveysaste": 61.464363,
+      "pituusaste": 24.068205,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 117,
+      "nimi": "Kankahaispirtti",
+      "leveysaste": 60.917742,
+      "pituusaste": 25.253177,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 118,
+      "nimi": "Kankahaispirtti",
+      "leveysaste": 60.917743,
+      "pituusaste": 25.253186,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 119,
+      "nimi": "Kankahovi",
+      "leveysaste": 61.352807,
+      "pituusaste": 24.474548,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 120,
+      "nimi": "Kankahovi",
+      "leveysaste": 61.352822,
+      "pituusaste": 24.474515,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 121,
+      "nimi": "Kannonnokka",
+      "leveysaste": 60.438017,
+      "pituusaste": 25.594421,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 122,
+      "nimi": "Karhusali",
+      "leveysaste": 60.174944,
+      "pituusaste": 24.98864,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 123,
+      "nimi": "Karijoen Nuorisoseura",
+      "leveysaste": 62.307035,
+      "pituusaste": 21.703902,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 124,
+      "nimi": "Karijoen Nuorisoseura",
+      "leveysaste": 62.307059,
+      "pituusaste": 21.703977,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 125,
+      "nimi": "Karijoen nuorisoseura",
+      "leveysaste": 62.307108,
+      "pituusaste": 21.703855,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 126,
+      "nimi": "Karis Stora Prästgården",
+      "leveysaste": 60.082834,
+      "pituusaste": 23.696709,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 127,
+      "nimi": "Karis Stora Prästgården",
+      "leveysaste": 60.082839,
+      "pituusaste": 23.696685,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 128,
+      "nimi": "Karjalaisten juhlahuoneisto",
+      "leveysaste": 60.448576,
+      "pituusaste": 22.156054,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 129,
+      "nimi": "Karjalaisten juhlahuoneisto",
+      "leveysaste": 60.448609,
+      "pituusaste": 22.156056,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 130,
+      "nimi": "Karstulan Suoja",
+      "leveysaste": 62.87393,
+      "pituusaste": 24.801813,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 131,
+      "nimi": "Karstulan Suoja",
+      "leveysaste": 62.873993,
+      "pituusaste": 24.801931,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 132,
+      "nimi": "Kartanon Talli",
+      "leveysaste": 60.613865,
+      "pituusaste": 24.674899,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 133,
+      "nimi": "Kartanon Talli",
+      "leveysaste": 60.613873,
+      "pituusaste": 24.674898,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 134,
+      "nimi": "Kartanon Talli",
+      "leveysaste": 62.226282,
+      "pituusaste": 25.80658,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 135,
+      "nimi": "Kartanon Talli",
+      "leveysaste": 62.226294,
+      "pituusaste": 25.806575,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 136,
+      "nimi": "Kasarmiklubi",
+      "leveysaste": 65.018001,
+      "pituusaste": 25.50065,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 137,
+      "nimi": "Kasavuoren koulukeskus",
+      "leveysaste": 60.215513,
+      "pituusaste": 24.703433,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 138,
+      "nimi": "Kattilankota",
+      "leveysaste": 60.327408,
+      "pituusaste": 24.491115,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 139,
+      "nimi": "Kattilankota",
+      "leveysaste": 60.327411,
+      "pituusaste": 24.491116,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 140,
+      "nimi": "Kavalton tila",
+      "leveysaste": 60.41062,
+      "pituusaste": 22.511122,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 141,
+      "nimi": "Kavalton tila",
+      "leveysaste": 60.410634,
+      "pituusaste": 22.511124,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 142,
+      "nimi": "Kellahden kartano",
+      "leveysaste": 61.598639,
+      "pituusaste": 21.720739,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 143,
+      "nimi": "Kerhis",
+      "leveysaste": 60.462793,
+      "pituusaste": 22.287352,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 144,
+      "nimi": "Kerhotila Brankkari",
+      "leveysaste": 60.566515,
+      "pituusaste": 22.092426,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 145,
+      "nimi": "Kertunmäki",
+      "leveysaste": 60.855932,
+      "pituusaste": 22.902136,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 146,
+      "nimi": "Kertunmäki",
+      "leveysaste": 60.855958,
+      "pituusaste": 22.902168,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 147,
+      "nimi": "Kiviojan Helmi",
+      "leveysaste": 61.783983,
+      "pituusaste": 24.00566,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 148,
+      "nimi": "Klubi 57",
+      "leveysaste": 61.49936,
+      "pituusaste": 23.778309,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 149,
+      "nimi": "Kokous ja galleria Marita",
+      "leveysaste": 62.725836,
+      "pituusaste": 29.016689,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 150,
+      "nimi": "Kokous- ja juhlatila Tilhentupa",
+      "leveysaste": 61.492298,
+      "pituusaste": 23.801566,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 151,
+      "nimi": "Kokous- ja juhlatila Tilhentupa",
+      "leveysaste": 61.49231,
+      "pituusaste": 23.801572,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 152,
+      "nimi": "Kokouskeskus",
+      "leveysaste": 60.206244,
+      "pituusaste": 24.653708,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 153,
+      "nimi": "Kokouskeskus Falco",
+      "leveysaste": 62.397981,
+      "pituusaste": 25.632238,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 154,
+      "nimi": "Kokouskeskus Falco",
+      "leveysaste": 62.397998,
+      "pituusaste": 25.632204,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 155,
+      "nimi": "Kokoustilat Alfa, Beta ja Gamma",
+      "leveysaste": 60.287787,
+      "pituusaste": 25.040081,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 156,
+      "nimi": "Korvenkylän kokkopaikka",
+      "leveysaste": 61.76215,
+      "pituusaste": 24.750215,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 157,
+      "nimi": "Kotkanmaja",
+      "leveysaste": 62.186442,
+      "pituusaste": 27.872699,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 158,
+      "nimi": "Kupla",
+      "leveysaste": 60.17727,
+      "pituusaste": 24.804009,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 159,
+      "nimi": "Kurssikeskus Hvittorp",
+      "leveysaste": 60.17414,
+      "pituusaste": 24.488763,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 160,
+      "nimi": "Kurssikeskus Hvittorp",
+      "leveysaste": 60.174141,
+      "pituusaste": 24.488759,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 161,
+      "nimi": "Kustavi",
+      "leveysaste": 60.43954,
+      "pituusaste": 22.226727,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 162,
+      "nimi": "Kylmäkosken työväentalo",
+      "leveysaste": 61.157018,
+      "pituusaste": 23.688303,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 163,
+      "nimi": "Kylätalo Greija",
+      "leveysaste": 60.198518,
+      "pituusaste": 24.929057,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 164,
+      "nimi": "Kyykerin Kartano",
+      "leveysaste": 62.732063,
+      "pituusaste": 28.996583,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 165,
+      "nimi": "Kärppälän rustholli",
+      "leveysaste": 61.334529,
+      "pituusaste": 23.676794,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 166,
+      "nimi": "L-Halli",
+      "leveysaste": 60.898327,
+      "pituusaste": 26.332258,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 167,
+      "nimi": "L-Halli",
+      "leveysaste": 60.898345,
+      "pituusaste": 26.332265,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 168,
+      "nimi": "Lahden Messukeskus",
+      "leveysaste": 60.985196,
+      "pituusaste": 25.636758,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 169,
+      "nimi": "Lahden Messukeskus",
+      "leveysaste": 60.985242,
+      "pituusaste": 25.636881,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 170,
+      "nimi": "Lamerfest",
+      "leveysaste": 60.266444,
+      "pituusaste": 24.851244,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 171,
+      "nimi": "Lapinlahden Lähde Aleksis Kivi salonki ja juhlatila",
+      "leveysaste": 60.167569,
+      "pituusaste": 24.912226,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 172,
+      "nimi": "Lapinlahden Lähde Auditorio",
+      "leveysaste": 60.167457,
+      "pituusaste": 24.912955,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 173,
+      "nimi": "Lapinlahden Lähde Omenapuutalo",
+      "leveysaste": 60.167819,
+      "pituusaste": 24.914044,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 174,
+      "nimi": "Lapinlahden Lähde Osasto5",
+      "leveysaste": 60.167573,
+      "pituusaste": 24.912408,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 175,
+      "nimi": "Lapinlahden Lähde Puutarhapiha",
+      "leveysaste": 60.167688,
+      "pituusaste": 24.911734,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 176,
+      "nimi": "Lapinlahden Lähde Pylvässali",
+      "leveysaste": 60.167507,
+      "pituusaste": 24.912413,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 177,
+      "nimi": "Lapinlahden Lähde Sininen Huone",
+      "leveysaste": 60.168869,
+      "pituusaste": 24.912303,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 178,
+      "nimi": "Laulumaja",
+      "leveysaste": 61.49517,
+      "pituusaste": 23.802166,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 179,
+      "nimi": "Lempäälän työväentalo",
+      "leveysaste": 61.320069,
+      "pituusaste": 23.750424,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 180,
+      "nimi": "Lempäälän työväentalo",
+      "leveysaste": 61.32008,
+      "pituusaste": 23.750471,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 181,
+      "nimi": "Lepolan Talo",
+      "leveysaste": 60.786662,
+      "pituusaste": 24.944327,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 182,
+      "nimi": "Lepolan Talo",
+      "leveysaste": 60.78669,
+      "pituusaste": 24.944423,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 183,
+      "nimi": "Lindblom",
+      "leveysaste": 60.43602,
+      "pituusaste": 22.202066,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 184,
+      "nimi": "Lindblom",
+      "leveysaste": 60.436044,
+      "pituusaste": 22.202098,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 185,
+      "nimi": "Linjamäen Linjala",
+      "leveysaste": 60.539774,
+      "pituusaste": 25.042899,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 186,
+      "nimi": "Littoisten työväentalo",
+      "leveysaste": 60.452137,
+      "pituusaste": 22.405083,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 187,
+      "nimi": "Loimiranta",
+      "leveysaste": 60.851442,
+      "pituusaste": 23.063718,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 188,
+      "nimi": "Loimiranta",
+      "leveysaste": 60.851447,
+      "pituusaste": 23.063705,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 189,
+      "nimi": "Lootholman tapahtumahalli",
+      "leveysaste": 60.531127,
+      "pituusaste": 21.371315,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 190,
+      "nimi": "Lootholman tapahtumahalli",
+      "leveysaste": 60.531153,
+      "pituusaste": 21.371351,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 191,
+      "nimi": "Luovat palvelut",
+      "leveysaste": 60.194915,
+      "pituusaste": 24.950382,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 192,
+      "nimi": "Lähteentupa",
+      "leveysaste": 60.901897,
+      "pituusaste": 22.7102,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 193,
+      "nimi": "Lé Picco",
+      "leveysaste": 63.208038,
+      "pituusaste": 21.519444,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 194,
+      "nimi": "Madetojan sali",
+      "leveysaste": 65.00325,
+      "pituusaste": 25.480667,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 195,
+      "nimi": "Madetojan sali",
+      "leveysaste": 65.003251,
+      "pituusaste": 25.480712,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 196,
+      "nimi": "Magasinet",
+      "leveysaste": 60.158146,
+      "pituusaste": 23.841341,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 197,
+      "nimi": "Maijan kammari",
+      "leveysaste": 61.172784,
+      "pituusaste": 25.549008,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 198,
+      "nimi": "Malminharjun kurssikeskus",
+      "leveysaste": 61.333905,
+      "pituusaste": 26.1953,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 199,
+      "nimi": "Mancester Järvensivu",
+      "leveysaste": 61.493029,
+      "pituusaste": 23.803227,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 200,
+      "nimi": "Mancester Järvensivu",
+      "leveysaste": 61.493045,
+      "pituusaste": 23.803247,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 201,
+      "nimi": "Marttakulma",
+      "leveysaste": 60.446053,
+      "pituusaste": 22.283802,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 202,
+      "nimi": "Marttala",
+      "leveysaste": 61.494989,
+      "pituusaste": 23.75357,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 203,
+      "nimi": "Matinkylän Pirtti",
+      "leveysaste": 60.168107,
+      "pituusaste": 24.74118,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 204,
+      "nimi": "Matinkylän Pirtti",
+      "leveysaste": 60.168113,
+      "pituusaste": 24.741165,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 205,
+      "nimi": "MerSea Club",
+      "leveysaste": 63.208365,
+      "pituusaste": 21.518592,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 206,
+      "nimi": "Messukeskus Siipi",
+      "leveysaste": 60.20181,
+      "pituusaste": 24.937584,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 207,
+      "nimi": "Metsätupa",
+      "leveysaste": 60.313945,
+      "pituusaste": 25.112734,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 208,
+      "nimi": "Metsätupa",
+      "leveysaste": 60.313958,
+      "pituusaste": 25.112711,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 209,
+      "nimi": "Miltton House",
+      "leveysaste": 60.180721,
+      "pituusaste": 24.958615,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 210,
+      "nimi": "Mommilan seurakuntatupa",
+      "leveysaste": 60.882878,
+      "pituusaste": 25.055367,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 211,
+      "nimi": "Monitoimihalli Asuuli",
+      "leveysaste": 62.443352,
+      "pituusaste": 22.269693,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 212,
+      "nimi": "Motomonttu",
+      "leveysaste": 60.882243,
+      "pituusaste": 26.437049,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 213,
+      "nimi": "Museon puisto",
+      "leveysaste": 62.621519,
+      "pituusaste": 26.834065,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 214,
+      "nimi": "Muuramen Autotalo kokous- ja koulutustila",
+      "leveysaste": 62.146972,
+      "pituusaste": 25.675463,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 215,
+      "nimi": "Myrskylän Kino",
+      "leveysaste": 60.66434,
+      "pituusaste": 25.845712,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 216,
+      "nimi": "Männikkö ja rantasauna",
+      "leveysaste": 61.215387,
+      "pituusaste": 25.503359,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 217,
+      "nimi": "Mäntyniemen kartanon vanha heinälato",
+      "leveysaste": 61.885585,
+      "pituusaste": 29.850905,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 218,
+      "nimi": "Mäntyniemen kartanon vanha heinälato",
+      "leveysaste": 61.885596,
+      "pituusaste": 29.850871,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 219,
+      "nimi": "Möysän Musaklubi",
+      "leveysaste": 60.982179,
+      "pituusaste": 25.657199,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 220,
+      "nimi": "Naantali",
+      "leveysaste": 60.439622,
+      "pituusaste": 22.226727,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 221,
+      "nimi": "Navetan vintti",
+      "leveysaste": 60.461563,
+      "pituusaste": 22.271754,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 222,
+      "nimi": "Niemimäen juhla- ja majoitustila",
+      "leveysaste": 61.225721,
+      "pituusaste": 25.34104,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 223,
+      "nimi": "Nivalan NS",
+      "leveysaste": 63.9274,
+      "pituusaste": 24.962265,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 224,
+      "nimi": "Nivalan NS",
+      "leveysaste": 63.92743,
+      "pituusaste": 24.962313,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 225,
+      "nimi": "Nousiaisten Vanha Asema",
+      "leveysaste": 60.590953,
+      "pituusaste": 22.057846,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 226,
+      "nimi": "Nuijamies",
+      "leveysaste": 61.058781,
+      "pituusaste": 28.19047,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 227,
+      "nimi": "Nukarin pirtti",
+      "leveysaste": 60.514485,
+      "pituusaste": 24.921832,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 228,
+      "nimi": "Nukarin pirtti",
+      "leveysaste": 60.514511,
+      "pituusaste": 24.92184,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 229,
+      "nimi": "Nummen seurakuntatalo",
+      "leveysaste": 60.395974,
+      "pituusaste": 23.879549,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 230,
+      "nimi": "Nummirock",
+      "leveysaste": 62.297939,
+      "pituusaste": 22.433178,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 231,
+      "nimi": "Nummirock",
+      "leveysaste": 62.297978,
+      "pituusaste": 22.433107,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 232,
+      "nimi": "OK20 iso puoli",
+      "leveysaste": 60.186995,
+      "pituusaste": 24.833757,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 233,
+      "nimi": "OK20 pieni puoli",
+      "leveysaste": 60.18688,
+      "pituusaste": 24.833746,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 234,
+      "nimi": "OK20 yläkerta",
+      "leveysaste": 60.187014,
+      "pituusaste": 24.833768,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 235,
+      "nimi": "Ocean View",
+      "leveysaste": 60.439528,
+      "pituusaste": 22.226966,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 236,
+      "nimi": "Oitin Juhlatalo",
+      "leveysaste": 60.789171,
+      "pituusaste": 25.034871,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 237,
+      "nimi": "Oitin Juhlatalo",
+      "leveysaste": 60.789171,
+      "pituusaste": 25.034939,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 238,
+      "nimi": "Old Lion's Mill",
+      "leveysaste": 62.890396,
+      "pituusaste": 27.694601,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 239,
+      "nimi": "Olkkalan kartano",
+      "leveysaste": 60.447538,
+      "pituusaste": 24.355003,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 240,
+      "nimi": "Opiskelijatalo Saikku",
+      "leveysaste": 61.488157,
+      "pituusaste": 21.796193,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 241,
+      "nimi": "Osakuntasali",
+      "leveysaste": 60.454831,
+      "pituusaste": 22.28713,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 242,
+      "nimi": "Paalasmaan kylätalo",
+      "leveysaste": 63.291924,
+      "pituusaste": 29.447634,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 243,
+      "nimi": "Paasitorni",
+      "leveysaste": 60.178822,
+      "pituusaste": 24.947504,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 244,
+      "nimi": "Paasitorni",
+      "leveysaste": 60.178822,
+      "pituusaste": 24.947513,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 245,
+      "nimi": "Paidia",
+      "leveysaste": 61.493885,
+      "pituusaste": 23.774015,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 246,
+      "nimi": "Panelian pappila",
+      "leveysaste": 61.22089,
+      "pituusaste": 21.978518,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 247,
+      "nimi": "Panelian pappila",
+      "leveysaste": 61.220918,
+      "pituusaste": 21.978531,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 248,
+      "nimi": "Panelian työväentalo",
+      "leveysaste": 61.223698,
+      "pituusaste": 21.973517,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 249,
+      "nimi": "Panelian työväentalo",
+      "leveysaste": 61.223752,
+      "pituusaste": 21.973528,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 250,
+      "nimi": "Paviljongen",
+      "leveysaste": 63.161743,
+      "pituusaste": 21.704382,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 251,
+      "nimi": "Paviljongen",
+      "leveysaste": 63.161745,
+      "pituusaste": 21.70425,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 252,
+      "nimi": "Pellavalounge",
+      "leveysaste": 61.503216,
+      "pituusaste": 23.774872,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 253,
+      "nimi": "Perttulan Kansantalo",
+      "leveysaste": 60.44902,
+      "pituusaste": 24.688628,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 254,
+      "nimi": "Perttulan Kansantalo",
+      "leveysaste": 60.44903,
+      "pituusaste": 24.688622,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 255,
+      "nimi": "Peräniemen kasino",
+      "leveysaste": 62.880428,
+      "pituusaste": 27.699079,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 256,
+      "nimi": "Peräniemen kasino",
+      "leveysaste": 62.880466,
+      "pituusaste": 27.699151,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 257,
+      "nimi": "Pieni työhuone",
+      "leveysaste": 61.17519,
+      "pituusaste": 25.537858,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 258,
+      "nimi": "Pihlajasali",
+      "leveysaste": 60.441137,
+      "pituusaste": 22.268185,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 259,
+      "nimi": "PiiSpa",
+      "leveysaste": 63.013771,
+      "pituusaste": 25.180188,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 260,
+      "nimi": "PiiSpa",
+      "leveysaste": 63.013789,
+      "pituusaste": 25.180152,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 261,
+      "nimi": "Piparkakkutalo",
+      "leveysaste": 61.91878,
+      "pituusaste": 30.237158,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 262,
+      "nimi": "Pirkkala-sali",
+      "leveysaste": 61.463249,
+      "pituusaste": 23.644129,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 263,
+      "nimi": "Pohjankartanon sali",
+      "leveysaste": 65.005311,
+      "pituusaste": 25.482717,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 264,
+      "nimi": "Pohjankartanon sali",
+      "leveysaste": 65.00533,
+      "pituusaste": 25.482753,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 265,
+      "nimi": "Poliisien kesäkoti",
+      "leveysaste": 60.152684,
+      "pituusaste": 24.857839,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 266,
+      "nimi": "Poliisien kesäkoti",
+      "leveysaste": 60.152704,
+      "pituusaste": 24.857854,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 267,
+      "nimi": "Porin Mies-Laulun talo",
+      "leveysaste": 61.487197,
+      "pituusaste": 21.784519,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 268,
+      "nimi": "Porin Mies-Laulun talo",
+      "leveysaste": 61.487218,
+      "pituusaste": 21.784529,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 269,
+      "nimi": "Prosin talo",
+      "leveysaste": 62.308183,
+      "pituusaste": 21.709213,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 270,
+      "nimi": "Pukkilan kartano",
+      "leveysaste": 60.325616,
+      "pituusaste": 23.157206,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 271,
+      "nimi": "Pukkilan kartano",
+      "leveysaste": 60.32563,
+      "pituusaste": 23.157219,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 272,
+      "nimi": "Puu-Anttila",
+      "leveysaste": 60.251675,
+      "pituusaste": 24.066772,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 273,
+      "nimi": "Puu-Anttila",
+      "leveysaste": 60.251694,
+      "pituusaste": 24.066733,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 274,
+      "nimi": "Puutarhapaviljonki",
+      "leveysaste": 61.297268,
+      "pituusaste": 23.77847,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 275,
+      "nimi": "Pyssyhovi",
+      "leveysaste": 63.888701,
+      "pituusaste": 24.892886,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 276,
+      "nimi": "Pyssyhovi",
+      "leveysaste": 63.888722,
+      "pituusaste": 24.892914,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 277,
+      "nimi": "Pyyvilän kartano",
+      "leveysaste": 62.06339,
+      "pituusaste": 28.349694,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 278,
+      "nimi": "Pyörteen tila",
+      "leveysaste": 64.226877,
+      "pituusaste": 27.773449,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 279,
+      "nimi": "Rauhan Majatalo",
+      "leveysaste": 64.192882,
+      "pituusaste": 27.839996,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 280,
+      "nimi": "Ridalin kartano",
+      "leveysaste": 60.331291,
+      "pituusaste": 24.33863,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 281,
+      "nimi": "Ridalin kartano",
+      "leveysaste": 60.331302,
+      "pituusaste": 24.338646,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 282,
+      "nimi": "Riemulava",
+      "leveysaste": 60.564201,
+      "pituusaste": 22.421573,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 283,
+      "nimi": "Riusala",
+      "leveysaste": 64.100801,
+      "pituusaste": 29.389719,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 284,
+      "nimi": "Roba Lounge",
+      "leveysaste": 60.163481,
+      "pituusaste": 24.943088,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 285,
+      "nimi": "Roineen Helmi",
+      "leveysaste": 61.395976,
+      "pituusaste": 24.16196,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 286,
+      "nimi": "Ruosniemen Koitto",
+      "leveysaste": 61.503925,
+      "pituusaste": 21.849025,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 287,
+      "nimi": "Ruuma vuokratila",
+      "leveysaste": 60.990865,
+      "pituusaste": 25.662844,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 288,
+      "nimi": "Ruusuniemen huvila",
+      "leveysaste": 60.210259,
+      "pituusaste": 25.185139,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 289,
+      "nimi": "Ruusuniemen huvila",
+      "leveysaste": 60.210262,
+      "pituusaste": 25.185113,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 290,
+      "nimi": "S/S Ilona",
+      "leveysaste": 60.9948,
+      "pituusaste": 25.649422,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 291,
+      "nimi": "Saarniston seurakuntakoti",
+      "leveysaste": 60.818438,
+      "pituusaste": 21.410169,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 292,
+      "nimi": "Sandvikens festplats",
+      "leveysaste": 60.219048,
+      "pituusaste": 19.543759,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 293,
+      "nimi": "Satama Areena",
+      "leveysaste": 60.471068,
+      "pituusaste": 26.945885,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 294,
+      "nimi": "Satama Areena",
+      "leveysaste": 60.471113,
+      "pituusaste": 26.946075,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 295,
+      "nimi": "Saunapaviljonki",
+      "leveysaste": 61.178962,
+      "pituusaste": 25.54715,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 296,
+      "nimi": "Saunapaviljonki",
+      "leveysaste": 61.178974,
+      "pituusaste": 25.547135,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 297,
+      "nimi": "Seminaaritila Aitta",
+      "leveysaste": 60.834599,
+      "pituusaste": 22.986565,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 298,
+      "nimi": "Seminaaritila Pirtti",
+      "leveysaste": 60.833973,
+      "pituusaste": 22.987437,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 299,
+      "nimi": "Seminaaritila Riihi",
+      "leveysaste": 60.834032,
+      "pituusaste": 22.986755,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 300,
+      "nimi": "Servin mökki",
+      "leveysaste": 60.18845,
+      "pituusaste": 24.836587,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 301,
+      "nimi": "Servin mökki",
+      "leveysaste": 60.188458,
+      "pituusaste": 24.836573,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 302,
+      "nimi": "Seurahuone",
+      "leveysaste": 60.458207,
+      "pituusaste": 26.224624,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 303,
+      "nimi": "Seurakuntasali",
+      "leveysaste": 60.15842,
+      "pituusaste": 24.869352,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 304,
+      "nimi": "Simon Pirtti",
+      "leveysaste": 65.643238,
+      "pituusaste": 25.016884,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 305,
+      "nimi": "Simon Pirtti",
+      "leveysaste": 65.643278,
+      "pituusaste": 25.016905,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 306,
+      "nimi": "Sokeritilat",
+      "leveysaste": 60.374312,
+      "pituusaste": 23.113163,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 307,
+      "nimi": "Sokeritilat",
+      "leveysaste": 60.374365,
+      "pituusaste": 23.113227,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 308,
+      "nimi": "Soutupaviljonki",
+      "leveysaste": 61.486233,
+      "pituusaste": 23.758475,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 309,
+      "nimi": "Stenbäck",
+      "leveysaste": 60.437029,
+      "pituusaste": 22.203821,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 310,
+      "nimi": "Strandlid",
+      "leveysaste": 63.161237,
+      "pituusaste": 21.702958,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 311,
+      "nimi": "Strömforsin Sali",
+      "leveysaste": 60.523862,
+      "pituusaste": 26.472126,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 312,
+      "nimi": "Suojapirtti",
+      "leveysaste": 60.893897,
+      "pituusaste": 25.375024,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 313,
+      "nimi": "Suomen Kongressitekniikka",
+      "leveysaste": 60.171452,
+      "pituusaste": 24.690398,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 314,
+      "nimi": "Talli",
+      "leveysaste": 60.156847,
+      "pituusaste": 23.839802,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 315,
+      "nimi": "Tammikon Talli",
+      "leveysaste": 60.362335,
+      "pituusaste": 24.988701,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 316,
+      "nimi": "Tammikon Talli",
+      "leveysaste": 60.362338,
+      "pituusaste": 24.988729,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 317,
+      "nimi": "Tapiola",
+      "leveysaste": 61.500189,
+      "pituusaste": 23.822501,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 318,
+      "nimi": "Tavara-asema",
+      "leveysaste": 61.499924,
+      "pituusaste": 23.775321,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 319,
+      "nimi": "Tavara-asema",
+      "leveysaste": 61.49997,
+      "pituusaste": 23.775319,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 320,
+      "nimi": "Teatteri Forum",
+      "leveysaste": 60.168783,
+      "pituusaste": 24.936677,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 321,
+      "nimi": "Teiskon Salonsaari",
+      "leveysaste": 61.673264,
+      "pituusaste": 23.839919,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 322,
+      "nimi": "Tiihalan Tapahtumakartano",
+      "leveysaste": 61.445194,
+      "pituusaste": 24.10085,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 323,
+      "nimi": "Tilausravintola",
+      "leveysaste": 61.295909,
+      "pituusaste": 25.68275,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 324,
+      "nimi": "Toimintakeskus Lehtopirtti",
+      "leveysaste": 63.080365,
+      "pituusaste": 23.101439,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 325,
+      "nimi": "Toivon talo",
+      "leveysaste": 61.174555,
+      "pituusaste": 25.538248,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 326,
+      "nimi": "Tokoinranta",
+      "leveysaste": 60.180279,
+      "pituusaste": 24.941092,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 327,
+      "nimi": "Topeliussali",
+      "leveysaste": 60.375388,
+      "pituusaste": 25.26695,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 328,
+      "nimi": "Toukola",
+      "leveysaste": 60.905391,
+      "pituusaste": 22.960151,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 329,
+      "nimi": "Toukola",
+      "leveysaste": 60.905422,
+      "pituusaste": 22.960224,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 330,
+      "nimi": "Tryckeriteatern",
+      "leveysaste": 60.071082,
+      "pituusaste": 23.66138,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 331,
+      "nimi": "Tulindbergin sali",
+      "leveysaste": 65.003558,
+      "pituusaste": 25.480661,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 332,
+      "nimi": "Tullisali",
+      "leveysaste": 64.993481,
+      "pituusaste": 25.457351,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 333,
+      "nimi": "Tuonela",
+      "leveysaste": 62.801226,
+      "pituusaste": 27.561156,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 334,
+      "nimi": "Turkusali",
+      "leveysaste": 60.454117,
+      "pituusaste": 22.287005,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 335,
+      "nimi": "Tuulentupa",
+      "leveysaste": 60.546753,
+      "pituusaste": 21.355511,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 336,
+      "nimi": "Tuulentupa",
+      "leveysaste": 60.546778,
+      "pituusaste": 21.355523,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 337,
+      "nimi": "Tuulentupa",
+      "leveysaste": 60.958027,
+      "pituusaste": 22.904204,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 338,
+      "nimi": "Tuulentupa",
+      "leveysaste": 60.958039,
+      "pituusaste": 22.90418,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 339,
+      "nimi": "Tyrvään Pappilan kivinavetta",
+      "leveysaste": 61.347219,
+      "pituusaste": 22.898969,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 340,
+      "nimi": "Tyrvään Pappilan kivinavetta",
+      "leveysaste": 61.347232,
+      "pituusaste": 22.899066,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 341,
+      "nimi": "Tyrvään pappila",
+      "leveysaste": 61.346296,
+      "pituusaste": 22.899651,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 342,
+      "nimi": "Tyrvään pappila",
+      "leveysaste": 61.346315,
+      "pituusaste": 22.899757,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 343,
+      "nimi": "Työväentalo",
+      "leveysaste": 62.621141,
+      "pituusaste": 26.829982,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 344,
+      "nimi": "Työväentalo",
+      "leveysaste": 62.621165,
+      "pituusaste": 26.829998,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 345,
+      "nimi": "Työväentalo Karkkila",
+      "leveysaste": 60.53156,
+      "pituusaste": 24.215545,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 346,
+      "nimi": "Tönkän Tupa",
+      "leveysaste": 62.88787,
+      "pituusaste": 21.836728,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 347,
+      "nimi": "Törmänhovi",
+      "leveysaste": 64.243372,
+      "pituusaste": 24.809366,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 348,
+      "nimi": "Törmänhovi",
+      "leveysaste": 64.243381,
+      "pituusaste": 24.80944,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 349,
+      "nimi": "Urban Lab",
+      "leveysaste": 60.186622,
+      "pituusaste": 24.979902,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 350,
+      "nimi": "Utran uittotupa",
+      "leveysaste": 62.62048,
+      "pituusaste": 29.873533,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 351,
+      "nimi": "Vaarin Kellari",
+      "leveysaste": 60.274747,
+      "pituusaste": 24.422448,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 352,
+      "nimi": "Valkoinen Sali",
+      "leveysaste": 60.168805,
+      "pituusaste": 24.953828,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 353,
+      "nimi": "Vanha Pappila",
+      "leveysaste": 60.771936,
+      "pituusaste": 24.941658,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 354,
+      "nimi": "Vanha suojeluskunnan talo",
+      "leveysaste": 60.250872,
+      "pituusaste": 24.082479,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 355,
+      "nimi": "Vauhtifarmi",
+      "leveysaste": 60.475617,
+      "pituusaste": 24.684857,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 356,
+      "nimi": "Vehoniemen alamaja",
+      "leveysaste": 61.419697,
+      "pituusaste": 24.141787,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 357,
+      "nimi": "Vermon Huippu",
+      "leveysaste": 60.21501,
+      "pituusaste": 24.84149,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 358,
+      "nimi": "Vesilahden Nuorisoseura",
+      "leveysaste": 61.306511,
+      "pituusaste": 23.626301,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 359,
+      "nimi": "Vesilahden Nuorisoseura",
+      "leveysaste": 61.306515,
+      "pituusaste": 23.626371,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 360,
+      "nimi": "Veteraanitupa",
+      "leveysaste": 60.872342,
+      "pituusaste": 23.066254,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 361,
+      "nimi": "Vierailu- ja innovaatiokeskus Joki",
+      "leveysaste": 60.449048,
+      "pituusaste": 22.294001,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 362,
+      "nimi": "Vierailu- ja innovaatiokeskus Joki",
+      "leveysaste": 60.449054,
+      "pituusaste": 22.294021,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 363,
+      "nimi": "Viihdekeskus Wanha Kanala",
+      "leveysaste": 60.875271,
+      "pituusaste": 22.788658,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 364,
+      "nimi": "Vikingaborg",
+      "leveysaste": 60.12847,
+      "pituusaste": 24.696003,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 365,
+      "nimi": "Villa Björkas",
+      "leveysaste": 60.139356,
+      "pituusaste": 24.916682,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 366,
+      "nimi": "Villa Impiiria",
+      "leveysaste": 65.021361,
+      "pituusaste": 25.431162,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 367,
+      "nimi": "Villa Impiiria",
+      "leveysaste": 65.021414,
+      "pituusaste": 25.431362,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 368,
+      "nimi": "Villa Kaljaasi",
+      "leveysaste": 65.021971,
+      "pituusaste": 25.431672,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 369,
+      "nimi": "Villa Koivuranta",
+      "leveysaste": 62.911656,
+      "pituusaste": 30.251478,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 370,
+      "nimi": "Villa Onnela",
+      "leveysaste": 65.023352,
+      "pituusaste": 25.511208,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 371,
+      "nimi": "Villa Puomi",
+      "leveysaste": 65.022711,
+      "pituusaste": 25.430672,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 372,
+      "nimi": "Villa Pähkinämäki",
+      "leveysaste": 60.611087,
+      "pituusaste": 22.140367,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 373,
+      "nimi": "Villa Salmenranta",
+      "leveysaste": 65.023383,
+      "pituusaste": 25.4309,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 374,
+      "nimi": "Villa Sarfvik",
+      "leveysaste": 60.153771,
+      "pituusaste": 24.611993,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 375,
+      "nimi": "Villa Sarfvik",
+      "leveysaste": 60.153821,
+      "pituusaste": 24.612026,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 376,
+      "nimi": "Villa Smeds",
+      "leveysaste": 60.290107,
+      "pituusaste": 24.873185,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 377,
+      "nimi": "Villa Sofia",
+      "leveysaste": 61.503007,
+      "pituusaste": 23.784745,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 378,
+      "nimi": "Villa Viena",
+      "leveysaste": 65.021371,
+      "pituusaste": 25.425591,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 379,
+      "nimi": "Villa Vuosanta",
+      "leveysaste": 60.195349,
+      "pituusaste": 25.175099,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 380,
+      "nimi": "Virttaan työväentalo",
+      "leveysaste": 60.942733,
+      "pituusaste": 22.672068,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 381,
+      "nimi": "Virttaan työväentalo",
+      "leveysaste": 60.942742,
+      "pituusaste": 22.672073,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 382,
+      "nimi": "Voimala 1889",
+      "leveysaste": 65.017417,
+      "pituusaste": 25.480023,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 383,
+      "nimi": "Voionmajoitus",
+      "leveysaste": 61.642429,
+      "pituusaste": 23.597735,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 384,
+      "nimi": "Wanha Pankkisali",
+      "leveysaste": 60.850785,
+      "pituusaste": 23.062062,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 385,
+      "nimi": "Wanha Velada",
+      "leveysaste": 61.7468,
+      "pituusaste": 23.909036,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 386,
+      "nimi": "Wanha Velada",
+      "leveysaste": 61.746831,
+      "pituusaste": 23.908972,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 387,
+      "nimi": "Wanha Walimo",
+      "leveysaste": 60.987161,
+      "pituusaste": 25.662432,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 388,
+      "nimi": "Willa Mancester",
+      "leveysaste": 61.472674,
+      "pituusaste": 23.877146,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 389,
+      "nimi": "Wäinölä",
+      "leveysaste": 60.369551,
+      "pituusaste": 24.486227,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 390,
+      "nimi": "Ynninkulma",
+      "leveysaste": 65.015529,
+      "pituusaste": 25.476035,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 391,
+      "nimi": "Ynninkulma",
+      "leveysaste": 65.015543,
+      "pituusaste": 25.476056,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 392,
+      "nimi": "Ystävyyden Maja",
+      "leveysaste": 63.127606,
+      "pituusaste": 27.55397,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 393,
+      "nimi": "Ystävyyden Maja",
+      "leveysaste": 63.127613,
+      "pituusaste": 27.554032,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 394,
+      "nimi": "Åbo Båtvarf",
+      "leveysaste": 60.436756,
+      "pituusaste": 22.203604,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 395,
+      "nimi": "Åbo Båtvarf",
+      "leveysaste": 60.43678,
+      "pituusaste": 22.203632,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    },
+    {
+      "id": 396,
+      "nimi": "Åsvalla",
+      "leveysaste": 60.250657,
+      "pituusaste": 24.081477,
+      "osm_avain": "amenity",
+      "osm_arvo": "events_venue",
+      "osm_luokka": "amenity=events_venue"
+    }
+  ],
+  "meta": {
+    "title": "Tapahtumapaikat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Tapahtumapaikat Suomessa — 396 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=events_venue`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 57. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 396 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Tapahtumapaikat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Tapahtumapaikat – Suomi (OpenStreetMap) — 396 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 396 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "id": "fi-north-ostrobothnia-region-rautatieasemat",
+  "name": "Rautatieasemat — North Ostrobothnia Region",
+  "title": "Rautatieasemat — North Ostrobothnia Region",
+  "description": "Rautatieasemat ja seisakkeet North Ostrobothnia Regionn maakunnassa, Suomessa (10 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28734,
+      "name": "Haapajärvi",
+      "slug": "haapajarvi",
+      "uic": "1000330",
+      "latitude": 63.755986,
+      "longitude": 25.335044,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Oulainen",
+      "etaisyys_km": 0.583,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28836,
+      "name": "Muhos",
+      "slug": "muhos",
+      "uic": "1000375",
+      "latitude": 64.807281,
+      "longitude": 25.993043,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Muhos",
+      "etaisyys_km": 1.791,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28846,
+      "name": "Nivala",
+      "slug": "nivala",
+      "uic": "1000328",
+      "latitude": 63.937932,
+      "longitude": 24.961309,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Nivala",
+      "etaisyys_km": 1.622,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28853,
+      "name": "Oulainen",
+      "slug": "oulainen",
+      "uic": "1000322",
+      "latitude": 64.27115,
+      "longitude": 24.82147,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Oulainen",
+      "etaisyys_km": 0.253,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Oulais",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28854,
+      "name": "Oulu asema",
+      "slug": "oulu-asema",
+      "uic": "1000370",
+      "latitude": 65.014365,
+      "longitude": 25.486944,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Oulu",
+      "etaisyys_km": 0.226,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Uleåborg",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28875,
+      "name": "Pyhäsalmi",
+      "slug": "pyhasalmi",
+      "uic": "1000331",
+      "latitude": 63.684369,
+      "longitude": 25.983615,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Pyhäsalmi",
+      "etaisyys_km": 3.31,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 7,
+      "station_id": 28883,
+      "name": "Ruukki",
+      "slug": "ruukki",
+      "uic": "1000337",
+      "latitude": 64.662194,
+      "longitude": 25.098806,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Ruukki",
+      "etaisyys_km": 0.327,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 8,
+      "station_id": 28913,
+      "name": "Utajärvi",
+      "slug": "utajarvi",
+      "uic": "1000376",
+      "latitude": 64.760789,
+      "longitude": 26.414806,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Utajärvi",
+      "etaisyys_km": 2.834,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 9,
+      "station_id": 28923,
+      "name": "Vihanti",
+      "slug": "vihanti",
+      "uic": "1000334",
+      "latitude": 64.486277,
+      "longitude": 24.994202,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Vihanti",
+      "etaisyys_km": 0.215,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 10,
+      "station_id": 28932,
+      "name": "Ylivieska",
+      "slug": "ylivieska",
+      "uic": "1000320",
+      "latitude": 64.073502,
+      "longitude": 24.540943,
+      "maakunta": "North Ostrobothnia Region",
+      "maakunta_slug": "north-ostrobothnia-region",
+      "maakunta_code": "17",
+      "lahin_postitoimipaikka": "Ylivieska",
+      "etaisyys_km": 0.765,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — North Ostrobothnia Region - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet North Ostrobothnia Regionn maakunnassa, Suomessa (10 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 10 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — North Ostrobothnia Region | ListBase",
+    "seo_description": "Lataa Rautatieasemat — North Ostrobothnia Region — 10 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 10 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

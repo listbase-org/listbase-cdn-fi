@@ -1,0 +1,338 @@
+{
+  "id": "fi-northern-savo-rautatieasemat",
+  "name": "Rautatieasemat — Northern Savo",
+  "title": "Rautatieasemat — Northern Savo",
+  "description": "Rautatieasemat ja seisakkeet Northern Savon maakunnassa, Suomessa (9 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_slug",
+      "label": "Maakunta Slug",
+      "type": "string"
+    },
+    {
+      "key": "maakunta_code",
+      "label": "Maakunta Code",
+      "type": "number"
+    },
+    {
+      "key": "lahin_postitoimipaikka",
+      "label": "Lahin Postitoimipaikka",
+      "type": "string"
+    },
+    {
+      "key": "etaisyys_km",
+      "label": "Etaisyys Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_sv",
+      "label": "Info Sv",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 28754,
+      "name": "Iisalmi",
+      "slug": "iisalmi",
+      "uic": "1000420",
+      "latitude": 63.561479,
+      "longitude": 27.202628,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Iisalmi",
+      "etaisyys_km": 0.643,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "Idensalmi",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 2,
+      "station_id": 28790,
+      "name": "Kiuruvesi",
+      "slug": "kiuruvesi",
+      "uic": "1000417",
+      "latitude": 63.64232,
+      "longitude": 26.612607,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Kiuruvesi",
+      "etaisyys_km": 3.583,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 3,
+      "station_id": 28805,
+      "name": "Kuopio asema",
+      "slug": "kuopio-asema",
+      "uic": "1000408",
+      "latitude": 62.898314,
+      "longitude": 27.681239,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Kuopio",
+      "etaisyys_km": 0.222,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 4,
+      "station_id": 28813,
+      "name": "Lapinlahti",
+      "slug": "lapinlahti",
+      "uic": "1000416",
+      "latitude": 63.361954,
+      "longitude": 27.395169,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Lapinlahti",
+      "etaisyys_km": 0.052,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 5,
+      "station_id": 28882,
+      "name": "Runni",
+      "slug": "runni",
+      "uic": "1000886",
+      "latitude": 63.603445,
+      "longitude": 26.887892,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Runni",
+      "etaisyys_km": 2.232,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 6,
+      "station_id": 28891,
+      "name": "Siilinjärvi Asema",
+      "slug": "siilinjarvi-asema",
+      "uic": "1000413",
+      "latitude": 63.076121,
+      "longitude": 27.668271,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Siilinjärvi",
+      "etaisyys_km": 1.03,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 7,
+      "station_id": 28895,
+      "name": "Sukeva",
+      "slug": "sukeva",
+      "uic": "1000424",
+      "latitude": 63.866103,
+      "longitude": 27.423963,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Sukeva",
+      "etaisyys_km": 0.164,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 8,
+      "station_id": 28896,
+      "name": "Suonenjoki",
+      "slug": "suonenjoki",
+      "uic": "1000404",
+      "latitude": 62.624711,
+      "longitude": 27.125941,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Suonenjoki",
+      "etaisyys_km": 0.877,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    },
+    {
+      "id": 9,
+      "station_id": 28921,
+      "name": "Varkaus",
+      "slug": "varkaus",
+      "uic": "1000432",
+      "latitude": 62.313139,
+      "longitude": 27.875443,
+      "maakunta": "Northern Savo",
+      "maakunta_slug": "northern-savo",
+      "maakunta_code": "11",
+      "lahin_postitoimipaikka": "Varkaus",
+      "etaisyys_km": 0.441,
+      "time_zone": "Europe/Helsinki",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_sv": "",
+      "info_en": "",
+      "country": "FI"
+    }
+  ],
+  "meta": {
+    "title": "Rautatieasemat — Northern Savo - Ilmainen lataus",
+    "description": "Rautatieasemat ja seisakkeet Northern Savon maakunnassa, Suomessa (9 asemaa). Johdettu trainline-eu/stations -aineiston Suomen riveistä; maakuntaluokitus on JOHDETTU lähimmän kuratoidun postinumeropisteen perusteella (fi-postinumerot, haversine WGS84), koska lähdeaineistossa ei ole maakuntakenttää. Jokainen tietue sisältää lähimmän postitoimipaikan ja etäisyyden kilometreinä, joten luokitus on tarkistettavissa. Sisältää 9 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Rautatieasemat — Northern Savo | ListBase",
+    "seo_description": "Lataa Rautatieasemat — Northern Savo — 9 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 9 tietuetta / 21 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

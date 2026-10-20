@@ -1,0 +1,1420 @@
+{
+  "id": "fi-osm-office-religion",
+  "name": "Seurakuntatoimistot – Suomi (OpenStreetMap)",
+  "title": "Seurakuntatoimistot – Suomi (OpenStreetMap)",
+  "description": "Seurakuntatoimistot Suomessa — 151 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=religion`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "Alavuden kirkkoherrainvirasto",
+      "leveysaste": 62.587847,
+      "pituusaste": 23.618887,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 2,
+      "nimi": "Domkapitlet i Borgå",
+      "leveysaste": 60.39839,
+      "pituusaste": 25.657468,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 3,
+      "nimi": "Domkapitlet i Borgå",
+      "leveysaste": 60.398413,
+      "pituusaste": 25.657377,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 4,
+      "nimi": "Evangeliska Centret",
+      "leveysaste": 63.088504,
+      "pituusaste": 21.609726,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 5,
+      "nimi": "Finlands svenska baptistsamfund",
+      "leveysaste": 63.091678,
+      "pituusaste": 21.615584,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 6,
+      "nimi": "Finlands svenska metodistkyrka",
+      "leveysaste": 60.17589,
+      "pituusaste": 24.926967,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 7,
+      "nimi": "Heinolan seurakunta",
+      "leveysaste": 61.202483,
+      "pituusaste": 26.033577,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 8,
+      "nimi": "Helluntaiseurakunta",
+      "leveysaste": 62.669646,
+      "pituusaste": 24.807459,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 9,
+      "nimi": "Helsingfors Svenska Metodistförsamling Kansli",
+      "leveysaste": 60.17589,
+      "pituusaste": 24.926866,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 10,
+      "nimi": "Helsingin Raamattukoulu",
+      "leveysaste": 60.176087,
+      "pituusaste": 24.929761,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 11,
+      "nimi": "Hämeenlinnan Ortodoksinen Seurakunta",
+      "leveysaste": 60.993254,
+      "pituusaste": 24.446014,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 12,
+      "nimi": "Hämeenlinnan Raamattu Puhuu ry",
+      "leveysaste": 60.995334,
+      "pituusaste": 24.459184,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 13,
+      "nimi": "Hämeenlinnan rauhanyhdistys ry",
+      "leveysaste": 61.010897,
+      "pituusaste": 24.534153,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 14,
+      "nimi": "Hämeenlinnan seurakunnat",
+      "leveysaste": 60.998518,
+      "pituusaste": 24.467796,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 15,
+      "nimi": "Imatran seurakunta, kirkkoherranvirasto",
+      "leveysaste": 61.170132,
+      "pituusaste": 28.764001,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 16,
+      "nimi": "Jehovan Todistajat Hämeenlinnan seurakunta",
+      "leveysaste": 61.018609,
+      "pituusaste": 24.422979,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 17,
+      "nimi": "Jehovan todistajat",
+      "leveysaste": 60.30552,
+      "pituusaste": 24.997407,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 18,
+      "nimi": "Jehovan todistajien valtakunnansali",
+      "leveysaste": 60.187376,
+      "pituusaste": 24.962031,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 19,
+      "nimi": "Joutsenon seurakuntakeskus",
+      "leveysaste": 61.116509,
+      "pituusaste": 28.507924,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 20,
+      "nimi": "Joutsenon seurakuntakeskus",
+      "leveysaste": 61.116562,
+      "pituusaste": 28.50803,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 21,
+      "nimi": "Jämsäkosken SRK-talo",
+      "leveysaste": 61.921261,
+      "pituusaste": 25.168594,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 22,
+      "nimi": "Jämsäkosken SRK-talo",
+      "leveysaste": 61.92127,
+      "pituusaste": 25.168556,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 23,
+      "nimi": "Kajaanin ortodoksinen seurakunta",
+      "leveysaste": 64.226591,
+      "pituusaste": 27.724871,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 24,
+      "nimi": "Kajaanin seurakunnan virastotalo",
+      "leveysaste": 64.226283,
+      "pituusaste": 27.726188,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 25,
+      "nimi": "Kajaanin seurakunnan virastotalo",
+      "leveysaste": 64.226289,
+      "pituusaste": 27.726175,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 26,
+      "nimi": "Kalevankankaan hautausmaan talo",
+      "leveysaste": 61.493577,
+      "pituusaste": 23.787139,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 27,
+      "nimi": "Kannelmäen seurakunnan kirkkoherranvirasto",
+      "leveysaste": 60.238078,
+      "pituusaste": 24.875995,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 28,
+      "nimi": "Kansanlähetys",
+      "leveysaste": 61.059619,
+      "pituusaste": 28.190821,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 29,
+      "nimi": "Karjasillan seurakunnan kirkkoherranvirasto",
+      "leveysaste": 65.001449,
+      "pituusaste": 25.512179,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 30,
+      "nimi": "Karkkilan seurakuntatalo",
+      "leveysaste": 60.536113,
+      "pituusaste": 24.212282,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 31,
+      "nimi": "Karttulan seurakuntatalo",
+      "leveysaste": 62.896415,
+      "pituusaste": 26.969537,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 32,
+      "nimi": "Karvian Seurakunta",
+      "leveysaste": 62.136105,
+      "pituusaste": 22.558907,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 33,
+      "nimi": "Kauhajoen seurakuntavirasto",
+      "leveysaste": 62.419578,
+      "pituusaste": 22.177269,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 34,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 62.488615,
+      "pituusaste": 27.796078,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 35,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 62.802848,
+      "pituusaste": 23.49656,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 36,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 62.802897,
+      "pituusaste": 23.496552,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 37,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 63.979288,
+      "pituusaste": 25.76569,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 38,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 67.66692,
+      "pituusaste": 24.891084,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 39,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 67.958846,
+      "pituusaste": 23.674745,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 40,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 68.383717,
+      "pituusaste": 23.632876,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 41,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 68.383721,
+      "pituusaste": 23.632809,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 42,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 68.658867,
+      "pituusaste": 27.530449,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 43,
+      "nimi": "Kirkkoherranvirasto",
+      "leveysaste": 68.658873,
+      "pituusaste": 27.530448,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 44,
+      "nimi": "Kirkkotori",
+      "leveysaste": 60.456514,
+      "pituusaste": 26.225451,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 45,
+      "nimi": "Kirkon talo",
+      "leveysaste": 60.164748,
+      "pituusaste": 24.952238,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 46,
+      "nimi": "Kirkonkranni",
+      "leveysaste": 62.785891,
+      "pituusaste": 22.844616,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 47,
+      "nimi": "Kirkonkulma",
+      "leveysaste": 60.207121,
+      "pituusaste": 24.661945,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 48,
+      "nimi": "Kirkonkymppi",
+      "leveysaste": 60.209989,
+      "pituusaste": 24.657278,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 49,
+      "nimi": "Kirkonkymppi",
+      "leveysaste": 60.20999,
+      "pituusaste": 24.657302,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 50,
+      "nimi": "Korjaamo",
+      "leveysaste": 60.187215,
+      "pituusaste": 24.964995,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 51,
+      "nimi": "Kultaisen Ruusuristin Kansainvälinen Koulu",
+      "leveysaste": 60.208167,
+      "pituusaste": 24.875162,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 52,
+      "nimi": "Kuopion ortodoksinen seurakunta",
+      "leveysaste": 62.888296,
+      "pituusaste": 27.691022,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 53,
+      "nimi": "Lappeenrannan metodistiseurakunta",
+      "leveysaste": 61.058052,
+      "pituusaste": 28.192341,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 54,
+      "nimi": "Lasten ja nuorten keskus",
+      "leveysaste": 60.194305,
+      "pituusaste": 24.947702,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 55,
+      "nimi": "Lempäälän seurakunta",
+      "leveysaste": 61.313853,
+      "pituusaste": 23.755689,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 56,
+      "nimi": "Leppävaaran seurakunta",
+      "leveysaste": 60.216532,
+      "pituusaste": 24.811049,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 57,
+      "nimi": "Liperin seurakunta Kirkkoherranvirasto",
+      "leveysaste": 62.526696,
+      "pituusaste": 29.39285,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 58,
+      "nimi": "Liperin seurakunta Kirkkoherranvirasto",
+      "leveysaste": 62.526698,
+      "pituusaste": 29.392869,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 59,
+      "nimi": "Lähetyshiippakunta",
+      "leveysaste": 60.163808,
+      "pituusaste": 24.92756,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 60,
+      "nimi": "Malmin hautausmaan toimisto",
+      "leveysaste": 60.239071,
+      "pituusaste": 25.027567,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 61,
+      "nimi": "Martin kammari",
+      "leveysaste": 61.172759,
+      "pituusaste": 25.549209,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 62,
+      "nimi": "Martin seurakuntatalo",
+      "leveysaste": 60.440566,
+      "pituusaste": 22.255551,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 63,
+      "nimi": "Martin seurakuntatalo",
+      "leveysaste": 60.440568,
+      "pituusaste": 22.255537,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 64,
+      "nimi": "Miekkoniemen seurakuntakoti",
+      "leveysaste": 61.870032,
+      "pituusaste": 28.920808,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 65,
+      "nimi": "Miekkoniemen seurakuntakoti",
+      "leveysaste": 61.87004,
+      "pituusaste": 28.920883,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 66,
+      "nimi": "Mikaelin Seurakuntakoti",
+      "leveysaste": 60.448365,
+      "pituusaste": 22.250435,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 67,
+      "nimi": "Mikonmökki",
+      "leveysaste": 60.448813,
+      "pituusaste": 22.250628,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 68,
+      "nimi": "Missionskyrkan i Finland",
+      "leveysaste": 60.395487,
+      "pituusaste": 25.66334,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 69,
+      "nimi": "Nastolan seurakuntatalo",
+      "leveysaste": 60.948366,
+      "pituusaste": 25.935444,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 70,
+      "nimi": "Nastolan seurakuntatalo",
+      "leveysaste": 60.94839,
+      "pituusaste": 25.935381,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 71,
+      "nimi": "Nilsiän seurakuntatalo",
+      "leveysaste": 63.203776,
+      "pituusaste": 28.079344,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 72,
+      "nimi": "Nummen seurakuntatoimisto",
+      "leveysaste": 60.39491,
+      "pituusaste": 23.881338,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 73,
+      "nimi": "Nurmon kappeliseurakunta",
+      "leveysaste": 62.829357,
+      "pituusaste": 22.912511,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 74,
+      "nimi": "Ojamon kerhotila",
+      "leveysaste": 60.230894,
+      "pituusaste": 24.025794,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 75,
+      "nimi": "Ojamon seurakuntakoti",
+      "leveysaste": 60.230841,
+      "pituusaste": 24.026071,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 76,
+      "nimi": "Oulun hiippakunnan tuomiokapituli",
+      "leveysaste": 65.014883,
+      "pituusaste": 25.468224,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 77,
+      "nimi": "Oulun hiippakunnan tuomiokapituli",
+      "leveysaste": 65.014886,
+      "pituusaste": 25.468254,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 78,
+      "nimi": "Pappila",
+      "leveysaste": 63.898211,
+      "pituusaste": 23.922469,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 79,
+      "nimi": "Patmos Lähetyssäätiö",
+      "leveysaste": 60.216698,
+      "pituusaste": 24.905925,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 80,
+      "nimi": "Pello församlingshem",
+      "leveysaste": 66.804175,
+      "pituusaste": 23.982115,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 81,
+      "nimi": "Pello församlingshem",
+      "leveysaste": 66.804178,
+      "pituusaste": 23.982102,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 82,
+      "nimi": "Pirkkalan seurakunnan toimistot",
+      "leveysaste": 61.465927,
+      "pituusaste": 23.643075,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 83,
+      "nimi": "Pohjois-Karjalan Ev.Lut. Kansanlähetys Ry",
+      "leveysaste": 62.598725,
+      "pituusaste": 29.758491,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 84,
+      "nimi": "Pyhän Henrikin katedraaliseurakunta",
+      "leveysaste": 60.158829,
+      "pituusaste": 24.954253,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 85,
+      "nimi": "Pyhän Marian katolinen seurakunta",
+      "leveysaste": 60.19173,
+      "pituusaste": 24.900054,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 86,
+      "nimi": "Pälkäneen Seurakuntatalo",
+      "leveysaste": 61.338214,
+      "pituusaste": 24.266489,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 87,
+      "nimi": "Pälkäneen seurakunta",
+      "leveysaste": 61.343127,
+      "pituusaste": 24.274648,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 88,
+      "nimi": "Pälkäneen seurakunta",
+      "leveysaste": 61.343133,
+      "pituusaste": 24.274642,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 89,
+      "nimi": "River Church",
+      "leveysaste": 60.98463,
+      "pituusaste": 25.662987,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 90,
+      "nimi": "Romano Missio",
+      "leveysaste": 60.249012,
+      "pituusaste": 25.010243,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 91,
+      "nimi": "Sammatin seurakunta",
+      "leveysaste": 60.321525,
+      "pituusaste": 23.823073,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 92,
+      "nimi": "Seurakunnan virastotalo",
+      "leveysaste": 61.130435,
+      "pituusaste": 21.510766,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 93,
+      "nimi": "Seurakunnan virastotalo",
+      "leveysaste": 61.130442,
+      "pituusaste": 21.510769,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 94,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 60.474684,
+      "pituusaste": 25.374864,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 95,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 61.061675,
+      "pituusaste": 27.807186,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 96,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 61.061688,
+      "pituusaste": 27.807186,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 97,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 62.619652,
+      "pituusaste": 22.404088,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 98,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 62.619669,
+      "pituusaste": 22.404101,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 99,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 63.557746,
+      "pituusaste": 29.103849,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 100,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 63.557785,
+      "pituusaste": 29.103864,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 101,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 64.61032,
+      "pituusaste": 25.19485,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 102,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 64.674354,
+      "pituusaste": 28.496108,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 103,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 64.674372,
+      "pituusaste": 28.496079,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 104,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 64.766139,
+      "pituusaste": 26.412824,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 105,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 64.766153,
+      "pituusaste": 26.412834,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 106,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 64.811587,
+      "pituusaste": 25.987504,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 107,
+      "nimi": "Seurakuntakeskus",
+      "leveysaste": 64.811594,
+      "pituusaste": 25.987529,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 108,
+      "nimi": "Seurakuntakodin klubi",
+      "leveysaste": 60.448504,
+      "pituusaste": 22.250264,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 109,
+      "nimi": "Seurakuntakoti",
+      "leveysaste": 63.098655,
+      "pituusaste": 23.068344,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 110,
+      "nimi": "Seurakuntakoti",
+      "leveysaste": 63.098696,
+      "pituusaste": 23.068369,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 111,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 61.525397,
+      "pituusaste": 28.176534,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 112,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 61.525404,
+      "pituusaste": 28.17652,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 113,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 64.504496,
+      "pituusaste": 25.655074,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 114,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 64.504514,
+      "pituusaste": 25.65509,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 115,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 65.03019,
+      "pituusaste": 26.124907,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 116,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 65.030217,
+      "pituusaste": 26.124917,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 117,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 65.496978,
+      "pituusaste": 25.485205,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 118,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 65.496999,
+      "pituusaste": 25.485216,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 119,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 66.830412,
+      "pituusaste": 28.667409,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 120,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 67.411018,
+      "pituusaste": 26.595651,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 121,
+      "nimi": "Seurakuntatalo",
+      "leveysaste": 67.411031,
+      "pituusaste": 26.595657,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 122,
+      "nimi": "Seurakuntien talo",
+      "leveysaste": 60.18361,
+      "pituusaste": 24.945579,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 123,
+      "nimi": "Seurakuntien talo",
+      "leveysaste": 60.183636,
+      "pituusaste": 24.945434,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 124,
+      "nimi": "Sininauhaliitto",
+      "leveysaste": 60.197737,
+      "pituusaste": 24.927152,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 125,
+      "nimi": "Sininauhasäätiö",
+      "leveysaste": 60.196334,
+      "pituusaste": 24.951994,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 126,
+      "nimi": "Sipoon seurakunnan taloustoimisto",
+      "leveysaste": 60.370612,
+      "pituusaste": 25.261232,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 127,
+      "nimi": "Sjundeå Kyrkliga Samfällighet",
+      "leveysaste": 60.175507,
+      "pituusaste": 24.205631,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 128,
+      "nimi": "Srk-talo",
+      "leveysaste": 60.689367,
+      "pituusaste": 26.80878,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 129,
+      "nimi": "Srk-talo",
+      "leveysaste": 60.689369,
+      "pituusaste": 26.808781,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 130,
+      "nimi": "Suomen Adventtikirkko",
+      "leveysaste": 61.534521,
+      "pituusaste": 23.938944,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 131,
+      "nimi": "Suomen Ev.lut. Opiskelija- ja  Koululaislähetys",
+      "leveysaste": 60.212078,
+      "pituusaste": 24.978715,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 132,
+      "nimi": "Suomen Karmel-yhdistys",
+      "leveysaste": 60.160182,
+      "pituusaste": 24.950988,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 133,
+      "nimi": "Suomen Kristillinen Ylioppilasliitto",
+      "leveysaste": 60.174611,
+      "pituusaste": 24.954064,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 134,
+      "nimi": "Suomen Luterilainen Evankeliumiyhdistys",
+      "leveysaste": 60.166961,
+      "pituusaste": 24.932981,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 135,
+      "nimi": "Suomen Luther-säätiö",
+      "leveysaste": 60.163784,
+      "pituusaste": 24.927594,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 136,
+      "nimi": "Suomen Valkonauhaliitto",
+      "leveysaste": 60.17418,
+      "pituusaste": 24.951774,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 137,
+      "nimi": "Suomen helluntaikirkko",
+      "leveysaste": 60.211408,
+      "pituusaste": 25.050361,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 138,
+      "nimi": "Suomen metodistikirkko",
+      "leveysaste": 60.161604,
+      "pituusaste": 24.939758,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 139,
+      "nimi": "Suomen rauhanyhdistysten keskusyhdistys",
+      "leveysaste": 65.01144,
+      "pituusaste": 25.512669,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 140,
+      "nimi": "Suomen rauhanyhdistysten keskusyhdistys",
+      "leveysaste": 65.01145,
+      "pituusaste": 25.512672,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 141,
+      "nimi": "Tehtaanmäen seurakuntatalo",
+      "leveysaste": 60.894365,
+      "pituusaste": 26.649884,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 142,
+      "nimi": "Teuvan seurakunta",
+      "leveysaste": 62.47806,
+      "pituusaste": 21.740679,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 143,
+      "nimi": "Toimintakeskus Koinonia",
+      "leveysaste": 60.163769,
+      "pituusaste": 24.927541,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 144,
+      "nimi": "Turun adventtiseurakunta",
+      "leveysaste": 60.451207,
+      "pituusaste": 22.261271,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 145,
+      "nimi": "Turun ja Kaarinan seurakuntayhtymä",
+      "leveysaste": 60.453277,
+      "pituusaste": 22.273883,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 146,
+      "nimi": "Turun ortodoksinen seurakunta",
+      "leveysaste": 60.452449,
+      "pituusaste": 22.26553,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 147,
+      "nimi": "Töysän seurakuntakoti",
+      "leveysaste": 62.632721,
+      "pituusaste": 23.815073,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 148,
+      "nimi": "Töysän seurakuntakoti",
+      "leveysaste": 62.632726,
+      "pituusaste": 23.815195,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 149,
+      "nimi": "Uuraisten seurakunta",
+      "leveysaste": 62.502193,
+      "pituusaste": 25.433093,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 150,
+      "nimi": "Virtasalmen seurakuntakoti",
+      "leveysaste": 62.134398,
+      "pituusaste": 27.462831,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    },
+    {
+      "id": 151,
+      "nimi": "YWAM Helsinki",
+      "leveysaste": 60.175925,
+      "pituusaste": 24.926874,
+      "osm_avain": "office",
+      "osm_arvo": "religion",
+      "osm_luokka": "office=religion"
+    }
+  ],
+  "meta": {
+    "title": "Seurakuntatoimistot – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Seurakuntatoimistot Suomessa — 151 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `office=religion`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 17. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 151 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Seurakuntatoimistot – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Seurakuntatoimistot – Suomi (OpenStreetMap) — 151 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 151 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

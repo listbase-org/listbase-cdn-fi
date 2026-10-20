@@ -1,0 +1,2473 @@
+{
+  "id": "fi-osm-shop-gift",
+  "name": "Lahjatavarakaupat – Suomi (OpenStreetMap)",
+  "title": "Lahjatavarakaupat – Suomi (OpenStreetMap)",
+  "description": "Lahjatavarakaupat Suomessa — 268 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=gift`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 268,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "4H-puoti",
+      "leveysaste": 61.061743,
+      "pituusaste": 26.638748,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 2,
+      "nimi": "A'la Talli",
+      "leveysaste": 60.523542,
+      "pituusaste": 26.472288,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 3,
+      "nimi": "Aalto University Shop",
+      "leveysaste": 60.186425,
+      "pituusaste": 24.826216,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 4,
+      "nimi": "Aarnivalkea Gifts & Souvenirs",
+      "leveysaste": 66.502944,
+      "pituusaste": 25.729115,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 5,
+      "nimi": "Aarreaitta",
+      "leveysaste": 61.018012,
+      "pituusaste": 25.157436,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 6,
+      "nimi": "Ainomaria",
+      "leveysaste": 61.202104,
+      "pituusaste": 26.030234,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 7,
+      "nimi": "AittaPuttiikki",
+      "leveysaste": 65.013122,
+      "pituusaste": 25.462122,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 8,
+      "nimi": "AittaPuttiikki",
+      "leveysaste": 65.013131,
+      "pituusaste": 25.462135,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 9,
+      "nimi": "Alatalon Käsityö",
+      "leveysaste": 68.161953,
+      "pituusaste": 23.26687,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 10,
+      "nimi": "Ali-Ollin Alpakkatila",
+      "leveysaste": 60.374339,
+      "pituusaste": 24.737786,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 11,
+      "nimi": "Ali-Ollin Alpakkatila",
+      "leveysaste": 60.374354,
+      "pituusaste": 24.737806,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 12,
+      "nimi": "Alnilam",
+      "leveysaste": 60.168128,
+      "pituusaste": 24.937233,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 13,
+      "nimi": "Amos Rex Shop",
+      "leveysaste": 60.170553,
+      "pituusaste": 24.936673,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 14,
+      "nimi": "Anna Koo",
+      "leveysaste": 60.162913,
+      "pituusaste": 24.929308,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 15,
+      "nimi": "Anna&Eila Oy",
+      "leveysaste": 60.271581,
+      "pituusaste": 24.806852,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 16,
+      "nimi": "Annansilmät-Aitta",
+      "leveysaste": 60.20804,
+      "pituusaste": 25.074717,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 17,
+      "nimi": "Antiikin Vuoksi porttikirppis",
+      "leveysaste": 61.170466,
+      "pituusaste": 28.765622,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 18,
+      "nimi": "Antinmerja Souvenirs",
+      "leveysaste": 67.292274,
+      "pituusaste": 26.692866,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 19,
+      "nimi": "Anubis (Pottery House)",
+      "leveysaste": 61.089881,
+      "pituusaste": 24.12881,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 20,
+      "nimi": "Arctic Ceramics Centre",
+      "leveysaste": 66.108896,
+      "pituusaste": 28.289523,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 21,
+      "nimi": "Arctic Hill",
+      "leveysaste": 68.608347,
+      "pituusaste": 27.420484,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 22,
+      "nimi": "Arctic Knife",
+      "leveysaste": 68.162317,
+      "pituusaste": 23.267473,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 23,
+      "nimi": "Arcticum Gift Shop",
+      "leveysaste": 66.507677,
+      "pituusaste": 25.726268,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 24,
+      "nimi": "Artteli",
+      "leveysaste": 62.620946,
+      "pituusaste": 26.836187,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 25,
+      "nimi": "Askaretta",
+      "leveysaste": 61.055947,
+      "pituusaste": 28.186721,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 26,
+      "nimi": "Auraamon Kesäkauppa",
+      "leveysaste": 60.64639,
+      "pituusaste": 22.590143,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 27,
+      "nimi": "Axel & Ida",
+      "leveysaste": 60.524391,
+      "pituusaste": 26.471685,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 28,
+      "nimi": "Birginia",
+      "leveysaste": 60.524424,
+      "pituusaste": 26.471648,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 29,
+      "nimi": "Bladhin Puoti",
+      "leveysaste": 62.378186,
+      "pituusaste": 21.218753,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 30,
+      "nimi": "Carlina",
+      "leveysaste": 60.153527,
+      "pituusaste": 24.634655,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 31,
+      "nimi": "Christmas House Souvenir Shop",
+      "leveysaste": 66.543216,
+      "pituusaste": 25.843033,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 32,
+      "nimi": "Confetti",
+      "leveysaste": 60.273303,
+      "pituusaste": 24.969148,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 33,
+      "nimi": "Design Deli",
+      "leveysaste": 60.394637,
+      "pituusaste": 25.658391,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 34,
+      "nimi": "Design Hill",
+      "leveysaste": 60.423572,
+      "pituusaste": 23.046561,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 35,
+      "nimi": "Design Hill",
+      "leveysaste": 60.423604,
+      "pituusaste": 23.046545,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 36,
+      "nimi": "Design from Kainuu",
+      "leveysaste": 64.126718,
+      "pituusaste": 29.51585,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 37,
+      "nimi": "Design-puoti",
+      "leveysaste": 61.440967,
+      "pituusaste": 26.678765,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 38,
+      "nimi": "Design-puoti",
+      "leveysaste": 61.440976,
+      "pituusaste": 26.67878,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 39,
+      "nimi": "Dreamie",
+      "leveysaste": 60.224566,
+      "pituusaste": 24.857494,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 40,
+      "nimi": "Eleonora",
+      "leveysaste": 61.058893,
+      "pituusaste": 28.189368,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 41,
+      "nimi": "Eloosa",
+      "leveysaste": 62.685487,
+      "pituusaste": 21.985416,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 42,
+      "nimi": "Eloosa",
+      "leveysaste": 62.685492,
+      "pituusaste": 21.985432,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 43,
+      "nimi": "Elämyslahja",
+      "leveysaste": 60.169445,
+      "pituusaste": 24.933381,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 44,
+      "nimi": "Elämyslahjat",
+      "leveysaste": 60.161723,
+      "pituusaste": 24.73837,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 45,
+      "nimi": "Famosa",
+      "leveysaste": 60.251752,
+      "pituusaste": 25.01064,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 46,
+      "nimi": "Fatabur",
+      "leveysaste": 60.435193,
+      "pituusaste": 22.22923,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 47,
+      "nimi": "Finform",
+      "leveysaste": 60.393397,
+      "pituusaste": 25.659095,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 48,
+      "nimi": "Finn Spring Oy tehtaanmyymälä",
+      "leveysaste": 63.613788,
+      "pituusaste": 24.30145,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 49,
+      "nimi": "Finnish souvenirs",
+      "leveysaste": 61.497226,
+      "pituusaste": 25.695298,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 50,
+      "nimi": "Finnmari - tehtaanmyymälä",
+      "leveysaste": 60.905454,
+      "pituusaste": 25.607489,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 51,
+      "nimi": "Finnska",
+      "leveysaste": 60.168711,
+      "pituusaste": 24.950801,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 52,
+      "nimi": "Finspiration",
+      "leveysaste": 60.318925,
+      "pituusaste": 24.968416,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 53,
+      "nimi": "Finspiration (Non-Schengen)",
+      "leveysaste": 60.315848,
+      "pituusaste": 24.960389,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 54,
+      "nimi": "Föripuoti",
+      "leveysaste": 60.450506,
+      "pituusaste": 22.27571,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 55,
+      "nimi": "Galleria Kääntöpoiju",
+      "leveysaste": 61.064678,
+      "pituusaste": 28.183881,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 56,
+      "nimi": "Gift & Flower Shop Agave Co.",
+      "leveysaste": 60.20231,
+      "pituusaste": 24.922993,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 57,
+      "nimi": "Hanincon Oy",
+      "leveysaste": 61.214516,
+      "pituusaste": 23.759297,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 58,
+      "nimi": "Harjun Paperi",
+      "leveysaste": 62.239723,
+      "pituusaste": 25.737735,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 59,
+      "nimi": "HelmiHelena",
+      "leveysaste": 61.174976,
+      "pituusaste": 22.695131,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 60,
+      "nimi": "Herra Hakkaraisen talo",
+      "leveysaste": 61.342692,
+      "pituusaste": 22.909336,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 61,
+      "nimi": "Hetta Silver",
+      "leveysaste": 68.387357,
+      "pituusaste": 23.605042,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 62,
+      "nimi": "Heureka Shop",
+      "leveysaste": 60.16887,
+      "pituusaste": 24.932159,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 63,
+      "nimi": "Heureka shop",
+      "leveysaste": 60.287807,
+      "pituusaste": 25.040686,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 64,
+      "nimi": "Hollituvan käsityömyymälä",
+      "leveysaste": 61.834045,
+      "pituusaste": 24.28197,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 65,
+      "nimi": "Hushållska",
+      "leveysaste": 60.81452,
+      "pituusaste": 23.623055,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 66,
+      "nimi": "Hyvätuli Highland",
+      "leveysaste": 62.373716,
+      "pituusaste": 27.431516,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 67,
+      "nimi": "Höökarin puoti",
+      "leveysaste": 60.446986,
+      "pituusaste": 22.277387,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 68,
+      "nimi": "Idas bod",
+      "leveysaste": 60.086775,
+      "pituusaste": 21.975803,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 69,
+      "nimi": "Idas bod",
+      "leveysaste": 60.086783,
+      "pituusaste": 21.975796,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 70,
+      "nimi": "Ideaestradi",
+      "leveysaste": 60.449471,
+      "pituusaste": 22.26045,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 71,
+      "nimi": "Ihan Helmi",
+      "leveysaste": 61.558431,
+      "pituusaste": 29.50233,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 72,
+      "nimi": "Ihanuuksien Ihmemaa",
+      "leveysaste": 60.46958,
+      "pituusaste": 22.016617,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 73,
+      "nimi": "Iittala Outlet",
+      "leveysaste": 60.934929,
+      "pituusaste": 25.63431,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 74,
+      "nimi": "Jaakkolan puutarha",
+      "leveysaste": 60.802192,
+      "pituusaste": 23.61022,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 75,
+      "nimi": "Jalokivigalleria Tuulonen",
+      "leveysaste": 61.105352,
+      "pituusaste": 24.865441,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 76,
+      "nimi": "Jokioisten Museorautatien matkamuistomyymälä",
+      "leveysaste": 60.86255,
+      "pituusaste": 23.437942,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 77,
+      "nimi": "Jouni Nuorgam",
+      "leveysaste": 69.134567,
+      "pituusaste": 27.227003,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 78,
+      "nimi": "Kakolan myymälä",
+      "leveysaste": 60.443423,
+      "pituusaste": 22.243862,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 79,
+      "nimi": "Kalevantuli kynttiläpaja",
+      "leveysaste": 62.409355,
+      "pituusaste": 24.798572,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 80,
+      "nimi": "Kangasniemen koru- ja kelloliike",
+      "leveysaste": 61.988363,
+      "pituusaste": 26.639789,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 81,
+      "nimi": "Kankurin tupa",
+      "leveysaste": 60.318597,
+      "pituusaste": 24.968257,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 82,
+      "nimi": "Karhun tupa",
+      "leveysaste": 68.816984,
+      "pituusaste": 27.313975,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 83,
+      "nimi": "Kaunispään Huippu",
+      "leveysaste": 68.433766,
+      "pituusaste": 27.442958,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 84,
+      "nimi": "Keramiikkapaja Koiruuksia",
+      "leveysaste": 61.178047,
+      "pituusaste": 25.536395,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 85,
+      "nimi": "Keramiikkapaja Pikku Kippo",
+      "leveysaste": 60.865885,
+      "pituusaste": 26.691672,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 86,
+      "nimi": "Keramiikkapaja Pikku Kippo",
+      "leveysaste": 61.061673,
+      "pituusaste": 26.638908,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 87,
+      "nimi": "Kesäkipparit",
+      "leveysaste": 60.452212,
+      "pituusaste": 26.23441,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 88,
+      "nimi": "Kirpputori",
+      "leveysaste": 61.481131,
+      "pituusaste": 23.777572,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 89,
+      "nimi": "Kirpputori Kipinä",
+      "leveysaste": 61.501843,
+      "pituusaste": 25.690392,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 90,
+      "nimi": "Kirpputori Uusi Mahdollisuus Ry",
+      "leveysaste": 61.503408,
+      "pituusaste": 25.680879,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 91,
+      "nimi": "Kistupuad",
+      "leveysaste": 61.127932,
+      "pituusaste": 21.511328,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 92,
+      "nimi": "Kivigalleria J & J",
+      "leveysaste": 61.879488,
+      "pituusaste": 23.729185,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 93,
+      "nimi": "Kivisillan Mehiläistuote",
+      "leveysaste": 63.005027,
+      "pituusaste": 21.906661,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 94,
+      "nimi": "Koiramäen pajutalli",
+      "leveysaste": 60.340814,
+      "pituusaste": 25.004844,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 95,
+      "nimi": "Koiramäen pajutalli",
+      "leveysaste": 60.340911,
+      "pituusaste": 25.004808,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 96,
+      "nimi": "Korkeasaaren kauppa",
+      "leveysaste": 60.176754,
+      "pituusaste": 24.982834,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 97,
+      "nimi": "Korundi Shop",
+      "leveysaste": 66.50078,
+      "pituusaste": 25.718017,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 98,
+      "nimi": "Korvatunturin puoti",
+      "leveysaste": 67.29245,
+      "pituusaste": 28.159496,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 99,
+      "nimi": "Kristallit.fi",
+      "leveysaste": 60.173886,
+      "pituusaste": 24.932085,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 100,
+      "nimi": "Kristillinen kirja- ja lahjamyymälä",
+      "leveysaste": 60.229974,
+      "pituusaste": 24.012107,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 101,
+      "nimi": "Kuhmoisten Kädentaitajat",
+      "leveysaste": 61.565696,
+      "pituusaste": 25.18129,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 102,
+      "nimi": "Kultajousi",
+      "leveysaste": 60.470544,
+      "pituusaste": 25.084183,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 103,
+      "nimi": "Kummilusikka.fi",
+      "leveysaste": 61.062204,
+      "pituusaste": 24.343434,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 104,
+      "nimi": "Kusti-shop",
+      "leveysaste": 60.88393,
+      "pituusaste": 26.775605,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 105,
+      "nimi": "Kusti-shop",
+      "leveysaste": 60.883944,
+      "pituusaste": 26.775617,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 106,
+      "nimi": "Kuukorento",
+      "leveysaste": 65.010546,
+      "pituusaste": 25.466293,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 107,
+      "nimi": "Kuviokioski",
+      "leveysaste": 60.162327,
+      "pituusaste": 24.938496,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 108,
+      "nimi": "Käpytie Kuusi",
+      "leveysaste": 61.509117,
+      "pituusaste": 23.778927,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 109,
+      "nimi": "Käsityöläistalo",
+      "leveysaste": 62.599339,
+      "pituusaste": 29.763733,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 110,
+      "nimi": "Käsityöpuoti",
+      "leveysaste": 61.061737,
+      "pituusaste": 26.638765,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 111,
+      "nimi": "Käsityövaja",
+      "leveysaste": 61.422188,
+      "pituusaste": 26.669058,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 112,
+      "nimi": "Käsityövakka",
+      "leveysaste": 60.804298,
+      "pituusaste": 25.732149,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 113,
+      "nimi": "LahjaTavarat",
+      "leveysaste": 61.786722,
+      "pituusaste": 28.37186,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 114,
+      "nimi": "Lahjamaa",
+      "leveysaste": 60.169333,
+      "pituusaste": 24.93829,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 115,
+      "nimi": "Lahjamaa",
+      "leveysaste": 61.492659,
+      "pituusaste": 23.768253,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 116,
+      "nimi": "Lahjasirkus",
+      "leveysaste": 61.128133,
+      "pituusaste": 21.509242,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 117,
+      "nimi": "Lahjatalo Ivalo",
+      "leveysaste": 68.658224,
+      "pituusaste": 27.540935,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 118,
+      "nimi": "Lahjatalo Sodankylä",
+      "leveysaste": 67.416446,
+      "pituusaste": 26.594057,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 119,
+      "nimi": "Lahjatalo.fi",
+      "leveysaste": 60.250018,
+      "pituusaste": 24.951779,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 120,
+      "nimi": "Lahjataloo Heinäkenkä",
+      "leveysaste": 66.543345,
+      "pituusaste": 25.845729,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 121,
+      "nimi": "Lahjatavara puoti",
+      "leveysaste": 64.130287,
+      "pituusaste": 28.384497,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 122,
+      "nimi": "Lapin Savi",
+      "leveysaste": 66.770004,
+      "pituusaste": 23.965318,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 123,
+      "nimi": "Lappi Kasityo Shop Maahispaja /Maahisenkolo",
+      "leveysaste": 66.543979,
+      "pituusaste": 25.848605,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 124,
+      "nimi": "Lappi Shop",
+      "leveysaste": 67.804755,
+      "pituusaste": 24.804702,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 125,
+      "nimi": "Lappi-Tupa",
+      "leveysaste": 61.101055,
+      "pituusaste": 21.842017,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 126,
+      "nimi": "Lappimyymälä",
+      "leveysaste": 60.634239,
+      "pituusaste": 23.754079,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 127,
+      "nimi": "Lappituote Oy",
+      "leveysaste": 66.543905,
+      "pituusaste": 25.847008,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 128,
+      "nimi": "Lean Verstas",
+      "leveysaste": 63.146847,
+      "pituusaste": 22.795568,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 129,
+      "nimi": "Levi Art Shop",
+      "leveysaste": 67.805319,
+      "pituusaste": 24.807544,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 130,
+      "nimi": "Lokal",
+      "leveysaste": 60.163902,
+      "pituusaste": 24.941293,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 131,
+      "nimi": "Lumi Lappi Souvenir Shop",
+      "leveysaste": 66.543363,
+      "pituusaste": 25.847456,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 132,
+      "nimi": "Lumi Mari",
+      "leveysaste": 66.808777,
+      "pituusaste": 23.995564,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 133,
+      "nimi": "Lumi tähti",
+      "leveysaste": 67.655698,
+      "pituusaste": 24.910303,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 134,
+      "nimi": "Lumo-Puoti",
+      "leveysaste": 61.361456,
+      "pituusaste": 23.795077,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 135,
+      "nimi": "Lumo-Puoti",
+      "leveysaste": 61.361461,
+      "pituusaste": 23.795046,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 136,
+      "nimi": "Luostarinmäen museokauppa",
+      "leveysaste": 60.446929,
+      "pituusaste": 22.276835,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 137,
+      "nimi": "Lyydia",
+      "leveysaste": 62.704296,
+      "pituusaste": 25.256571,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 138,
+      "nimi": "Magee pajapuoti",
+      "leveysaste": 60.278513,
+      "pituusaste": 24.854108,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 139,
+      "nimi": "Mailan Putiikki",
+      "leveysaste": 67.606528,
+      "pituusaste": 24.142894,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 140,
+      "nimi": "Mantin Maailma",
+      "leveysaste": 61.128657,
+      "pituusaste": 21.514212,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 141,
+      "nimi": "Marimekko Outlet",
+      "leveysaste": 60.278536,
+      "pituusaste": 24.971736,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 142,
+      "nimi": "Matroona",
+      "leveysaste": 61.064616,
+      "pituusaste": 28.183901,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 143,
+      "nimi": "Moomin Shop",
+      "leveysaste": 60.169794,
+      "pituusaste": 24.937033,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 144,
+      "nimi": "Moomin Shop",
+      "leveysaste": 60.318779,
+      "pituusaste": 24.968059,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 145,
+      "nimi": "Moomin Shop (Non-Schengen)",
+      "leveysaste": 60.315969,
+      "pituusaste": 24.960671,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 146,
+      "nimi": "Moomin Shop Esplanadi",
+      "leveysaste": 60.167568,
+      "pituusaste": 24.943498,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 147,
+      "nimi": "Museokauppa",
+      "leveysaste": 60.145246,
+      "pituusaste": 24.987776,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 148,
+      "nimi": "Museokauppa",
+      "leveysaste": 60.416696,
+      "pituusaste": 24.321167,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 149,
+      "nimi": "Museokauppa",
+      "leveysaste": 60.625614,
+      "pituusaste": 24.849249,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 150,
+      "nimi": "Museokauppa",
+      "leveysaste": 61.003291,
+      "pituusaste": 24.459319,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 151,
+      "nimi": "Museokauppa (Ilmailumuseo)",
+      "leveysaste": 60.304534,
+      "pituusaste": 24.96068,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 152,
+      "nimi": "Museokauppa Lansetti",
+      "leveysaste": 60.532966,
+      "pituusaste": 24.19958,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 153,
+      "nimi": "Museomyymälä Muurikki",
+      "leveysaste": 60.833759,
+      "pituusaste": 22.987425,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 154,
+      "nimi": "Musta Lintu",
+      "leveysaste": 63.009622,
+      "pituusaste": 22.148562,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 155,
+      "nimi": "Muumimyymälä",
+      "leveysaste": 60.469122,
+      "pituusaste": 22.015406,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 156,
+      "nimi": "My o My Home",
+      "leveysaste": 60.168143,
+      "pituusaste": 24.946293,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 157,
+      "nimi": "My o My Home",
+      "leveysaste": 60.168979,
+      "pituusaste": 24.939233,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 158,
+      "nimi": "Nahkurin verstas",
+      "leveysaste": 61.177376,
+      "pituusaste": 25.537082,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 159,
+      "nimi": "Napapiirin Lahja",
+      "leveysaste": 66.543977,
+      "pituusaste": 25.84839,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 160,
+      "nimi": "Nasta-puoti",
+      "leveysaste": 62.819753,
+      "pituusaste": 23.945648,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 161,
+      "nimi": "Niittypala",
+      "leveysaste": 62.029038,
+      "pituusaste": 24.624277,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 162,
+      "nimi": "Ninja",
+      "leveysaste": 60.993821,
+      "pituusaste": 24.459503,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 163,
+      "nimi": "Nipsun putiikki",
+      "leveysaste": 60.4726,
+      "pituusaste": 22.006078,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 164,
+      "nimi": "Nivala-Puoti",
+      "leveysaste": 63.928171,
+      "pituusaste": 24.96462,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 165,
+      "nimi": "Nordic Star",
+      "leveysaste": 60.170837,
+      "pituusaste": 24.932546,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 166,
+      "nimi": "Nuppari",
+      "leveysaste": 60.876401,
+      "pituusaste": 22.394088,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 167,
+      "nimi": "Nupputiikki",
+      "leveysaste": 61.064508,
+      "pituusaste": 28.183934,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 168,
+      "nimi": "Nurkkapuati",
+      "leveysaste": 61.503528,
+      "pituusaste": 23.715072,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 169,
+      "nimi": "Näsinneula Shop",
+      "leveysaste": 61.505037,
+      "pituusaste": 23.743107,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 170,
+      "nimi": "OLO - TILA kauppa",
+      "leveysaste": 60.903523,
+      "pituusaste": 26.651303,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 171,
+      "nimi": "OLO - TILA kauppa",
+      "leveysaste": 60.903527,
+      "pituusaste": 26.651303,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 172,
+      "nimi": "Ohoi!",
+      "leveysaste": 60.470638,
+      "pituusaste": 22.014675,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 173,
+      "nimi": "Oona",
+      "leveysaste": 62.424985,
+      "pituusaste": 22.179546,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 174,
+      "nimi": "Ounasporo",
+      "leveysaste": 68.400077,
+      "pituusaste": 24.173093,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 175,
+      "nimi": "PENTIK",
+      "leveysaste": 65.177291,
+      "pituusaste": 25.350272,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 176,
+      "nimi": "Paperikuu",
+      "leveysaste": 60.983926,
+      "pituusaste": 25.659774,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 177,
+      "nimi": "Pellavakeskus",
+      "leveysaste": 60.635895,
+      "pituusaste": 23.512355,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 178,
+      "nimi": "Pentala museokauppa",
+      "leveysaste": 60.106146,
+      "pituusaste": 24.674739,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 179,
+      "nimi": "Pentik",
+      "leveysaste": 65.012258,
+      "pituusaste": 25.468809,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 180,
+      "nimi": "Pentik",
+      "leveysaste": 68.419972,
+      "pituusaste": 27.414151,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 181,
+      "nimi": "Pentik Outlet",
+      "leveysaste": 60.674908,
+      "pituusaste": 25.352171,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 182,
+      "nimi": "Pentik Vihreä Pysäkki",
+      "leveysaste": 66.808583,
+      "pituusaste": 23.995254,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 183,
+      "nimi": "Pertin Valinta",
+      "leveysaste": 60.178854,
+      "pituusaste": 24.954309,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 184,
+      "nimi": "Piece of Lapland",
+      "leveysaste": 66.544019,
+      "pituusaste": 25.847897,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 185,
+      "nimi": "Pieni Noitapuoti",
+      "leveysaste": 60.158228,
+      "pituusaste": 24.947849,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 186,
+      "nimi": "Piika ja Renki",
+      "leveysaste": 60.730473,
+      "pituusaste": 26.429834,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 187,
+      "nimi": "Pikku Kippo",
+      "leveysaste": 60.903332,
+      "pituusaste": 26.650645,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 188,
+      "nimi": "Pikkukylän Puoti",
+      "leveysaste": 60.800256,
+      "pituusaste": 21.402871,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 189,
+      "nimi": "Pikkupuoti Aino",
+      "leveysaste": 60.865604,
+      "pituusaste": 26.692178,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 190,
+      "nimi": "Pilailu-Puoti",
+      "leveysaste": 60.175708,
+      "pituusaste": 24.950978,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 191,
+      "nimi": "Pilke Gift Shop",
+      "leveysaste": 66.507342,
+      "pituusaste": 25.725002,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 192,
+      "nimi": "Poronpulkka",
+      "leveysaste": 66.54397,
+      "pituusaste": 25.848217,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 193,
+      "nimi": "Presenter & sånt",
+      "leveysaste": 60.100364,
+      "pituusaste": 19.941552,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 194,
+      "nimi": "Puijon Torni",
+      "leveysaste": 62.909327,
+      "pituusaste": 27.655455,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 195,
+      "nimi": "Pulju.net",
+      "leveysaste": 60.212735,
+      "pituusaste": 24.979045,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 196,
+      "nimi": "Pulmuspuoti",
+      "leveysaste": 68.395344,
+      "pituusaste": 23.667542,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 197,
+      "nimi": "Punainen talli",
+      "leveysaste": 61.11037,
+      "pituusaste": 22.164526,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 198,
+      "nimi": "Puoti poikettava",
+      "leveysaste": 60.62565,
+      "pituusaste": 24.459379,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 199,
+      "nimi": "Putinki",
+      "leveysaste": 60.16237,
+      "pituusaste": 24.946485,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 200,
+      "nimi": "Rauhalan Rustiikki",
+      "leveysaste": 60.456832,
+      "pituusaste": 25.058167,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 201,
+      "nimi": "Rauma Lace Shop Pits-Priia",
+      "leveysaste": 61.12791,
+      "pituusaste": 21.516984,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 202,
+      "nimi": "Riihipuoti Oy",
+      "leveysaste": 60.715839,
+      "pituusaste": 22.599729,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 203,
+      "nimi": "Ruukin Puoti",
+      "leveysaste": 60.903156,
+      "pituusaste": 26.650965,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 204,
+      "nimi": "Rõõm",
+      "leveysaste": 60.187265,
+      "pituusaste": 24.954423,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 205,
+      "nimi": "Saimatalon Kauppa",
+      "leveysaste": 61.864869,
+      "pituusaste": 28.894782,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 206,
+      "nimi": "Salt",
+      "leveysaste": 60.104787,
+      "pituusaste": 19.945303,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 207,
+      "nimi": "Samarund",
+      "leveysaste": 66.502194,
+      "pituusaste": 25.73033,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 208,
+      "nimi": "Santa Claus Offices",
+      "leveysaste": 66.543319,
+      "pituusaste": 25.847664,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 209,
+      "nimi": "Santa’s Gifts and Delicacies",
+      "leveysaste": 66.544021,
+      "pituusaste": 25.848205,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 210,
+      "nimi": "Sekatavarakauppa",
+      "leveysaste": 67.805523,
+      "pituusaste": 24.802511,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 211,
+      "nimi": "Serena myymälä",
+      "leveysaste": 60.325197,
+      "pituusaste": 24.739717,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 212,
+      "nimi": "Sesonkipuoti Selma",
+      "leveysaste": 62.500434,
+      "pituusaste": 25.437196,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 213,
+      "nimi": "Sevenon",
+      "leveysaste": 60.569429,
+      "pituusaste": 27.19398,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 214,
+      "nimi": "Siida Shop",
+      "leveysaste": 68.909698,
+      "pituusaste": 27.013797,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 215,
+      "nimi": "Siida Shop",
+      "leveysaste": 68.909716,
+      "pituusaste": 27.013767,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 216,
+      "nimi": "Sisustus ja Lahja Valkoinen talo Ky",
+      "leveysaste": 61.878992,
+      "pituusaste": 23.727458,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 217,
+      "nimi": "Skandi brand",
+      "leveysaste": 60.169829,
+      "pituusaste": 24.937125,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 218,
+      "nimi": "Sokeriportti Oy",
+      "leveysaste": 60.929293,
+      "pituusaste": 24.639544,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 219,
+      "nimi": "Sommaröhallen",
+      "leveysaste": 63.179066,
+      "pituusaste": 21.279652,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 220,
+      "nimi": "Sommaröhallen",
+      "leveysaste": 63.179082,
+      "pituusaste": 21.279589,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 221,
+      "nimi": "Sompion arja",
+      "leveysaste": 68.106563,
+      "pituusaste": 27.125813,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 222,
+      "nimi": "Souvenirs",
+      "leveysaste": 67.804984,
+      "pituusaste": 24.803626,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 223,
+      "nimi": "Souvenirs Center",
+      "leveysaste": 66.543711,
+      "pituusaste": 25.846317,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 224,
+      "nimi": "Souvenirs Workshop",
+      "leveysaste": 66.5029,
+      "pituusaste": 25.729429,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 225,
+      "nimi": "Sága Gifts",
+      "leveysaste": 66.544025,
+      "pituusaste": 25.848311,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 226,
+      "nimi": "TARU kauppa",
+      "leveysaste": 61.06164,
+      "pituusaste": 26.638988,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 227,
+      "nimi": "TaiTava-shop",
+      "leveysaste": 60.986652,
+      "pituusaste": 24.441129,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 228,
+      "nimi": "Taito Shop",
+      "leveysaste": 61.78588,
+      "pituusaste": 28.374479,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 229,
+      "nimi": "Taito Shop",
+      "leveysaste": 61.785886,
+      "pituusaste": 28.37446,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 230,
+      "nimi": "Taitulit",
+      "leveysaste": 60.903406,
+      "pituusaste": 26.65065,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 231,
+      "nimi": "Tammer-Tukku",
+      "leveysaste": 60.290452,
+      "pituusaste": 24.970036,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 232,
+      "nimi": "Tammeroutlet",
+      "leveysaste": 61.48047,
+      "pituusaste": 23.77902,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 233,
+      "nimi": "Tehtaan Hotellin Baari & Puoti",
+      "leveysaste": 60.533366,
+      "pituusaste": 24.198489,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 234,
+      "nimi": "The New Terminal",
+      "leveysaste": 60.318071,
+      "pituusaste": 24.965543,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 235,
+      "nimi": "Tjockt",
+      "leveysaste": 60.250248,
+      "pituusaste": 22.240813,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 236,
+      "nimi": "Tjockt",
+      "leveysaste": 60.250256,
+      "pituusaste": 22.24084,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 237,
+      "nimi": "Tonttu",
+      "leveysaste": 60.172088,
+      "pituusaste": 24.926564,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 238,
+      "nimi": "Torkel design shop",
+      "leveysaste": 61.06171,
+      "pituusaste": 26.638825,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 239,
+      "nimi": "Tre rum + kök",
+      "leveysaste": 59.974742,
+      "pituusaste": 23.434854,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 240,
+      "nimi": "Tulijaistupa",
+      "leveysaste": 62.854251,
+      "pituusaste": 29.369476,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 241,
+      "nimi": "Tunturi-tuote 1",
+      "leveysaste": 66.544035,
+      "pituusaste": 25.847422,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 242,
+      "nimi": "Tunturi-tuote 2",
+      "leveysaste": 66.544027,
+      "pituusaste": 25.848419,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 243,
+      "nimi": "Tunturi-tuote 3",
+      "leveysaste": 66.543987,
+      "pituusaste": 25.848698,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 244,
+      "nimi": "Turkupuoti",
+      "leveysaste": 60.449992,
+      "pituusaste": 22.265873,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 245,
+      "nimi": "Tuurin Laatupaino",
+      "leveysaste": 62.602335,
+      "pituusaste": 23.726431,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 246,
+      "nimi": "Tyyki",
+      "leveysaste": 61.064565,
+      "pituusaste": 28.183915,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 247,
+      "nimi": "Unelmien Puoti",
+      "leveysaste": 60.468542,
+      "pituusaste": 22.016545,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 248,
+      "nimi": "Uniikkitehdas",
+      "leveysaste": 60.192908,
+      "pituusaste": 24.601955,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 249,
+      "nimi": "Uusix-kauppa",
+      "leveysaste": 60.198306,
+      "pituusaste": 24.973284,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 250,
+      "nimi": "Valley Shop",
+      "leveysaste": 66.543951,
+      "pituusaste": 25.84794,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 251,
+      "nimi": "Verkkokauppa alemaa.fi / Tenwex Oy",
+      "leveysaste": 62.587191,
+      "pituusaste": 23.618988,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 252,
+      "nimi": "Viaminnet",
+      "leveysaste": 60.318665,
+      "pituusaste": 24.968649,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 253,
+      "nimi": "Vieno Puustjärvi",
+      "leveysaste": 60.168883,
+      "pituusaste": 24.953428,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 254,
+      "nimi": "Vihti Vintage",
+      "leveysaste": 60.411827,
+      "pituusaste": 24.453362,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 255,
+      "nimi": "Virttaan Kyläpuoti",
+      "leveysaste": 60.935295,
+      "pituusaste": 22.678439,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 256,
+      "nimi": "Vohvelikuningas",
+      "leveysaste": 64.928179,
+      "pituusaste": 25.374971,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 257,
+      "nimi": "Wahlsten",
+      "leveysaste": 60.021057,
+      "pituusaste": 22.507682,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 258,
+      "nimi": "Wanha Naantali",
+      "leveysaste": 60.468315,
+      "pituusaste": 22.01699,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 259,
+      "nimi": "Wanha Turku Kauppa",
+      "leveysaste": 60.449664,
+      "pituusaste": 22.266224,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 260,
+      "nimi": "Wanhan koulun puoti",
+      "leveysaste": 63.151102,
+      "pituusaste": 29.987869,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 261,
+      "nimi": "Wetterhoff",
+      "leveysaste": 60.995525,
+      "pituusaste": 24.467746,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 262,
+      "nimi": "Wood Jewel",
+      "leveysaste": 67.805236,
+      "pituusaste": 24.807978,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 263,
+      "nimi": "Wood Jewel lahjapaja",
+      "leveysaste": 67.335554,
+      "pituusaste": 23.817207,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 264,
+      "nimi": "Ylläspuoti",
+      "leveysaste": 67.525149,
+      "pituusaste": 24.30509,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 265,
+      "nimi": "Yläpytinki / Pytingin puoti",
+      "leveysaste": 60.455158,
+      "pituusaste": 25.063156,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 266,
+      "nimi": "Zinna",
+      "leveysaste": 63.837676,
+      "pituusaste": 23.130575,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 267,
+      "nimi": "Zippi & Suhaus",
+      "leveysaste": 67.804811,
+      "pituusaste": 24.808557,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    },
+    {
+      "id": 268,
+      "nimi": "lilla Gallerian",
+      "leveysaste": 59.97503,
+      "pituusaste": 23.436221,
+      "osm_avain": "shop",
+      "osm_arvo": "gift",
+      "osm_luokka": "shop=gift"
+    }
+  ],
+  "meta": {
+    "title": "Lahjatavarakaupat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Lahjatavarakaupat Suomessa — 268 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=gift`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 9. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 268 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Lahjatavarakaupat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Lahjatavarakaupat – Suomi (OpenStreetMap) — 268 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 268 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "fi-kymenlaakso-lentoasemat",
+  "name": "Finland / Kymenlaakso — Airports (lentoasemat)",
+  "title": "Finland / Kymenlaakso — Airports (lentoasemat)",
+  "description": "Airports, airfields, heliports and aerodromes located in Kymenlaakso (Kymenlaakso), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Kymenlaakso'.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "subdivision",
+      "label": "Subdivision",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_name_fi",
+      "label": "Subdivision Name Fi",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "lid",
+      "label": "Lid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "EFSE",
+      "iata": "",
+      "name": "Selanpaa Airport",
+      "city": "",
+      "subdivision": "Kymenlaakso",
+      "subdivision_name_fi": "Kymenlaakso",
+      "country": "FI",
+      "elevation_ft": 417,
+      "latitude": 61.0624,
+      "longitude": 26.7989,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFUT",
+      "iata": "UTI",
+      "name": "Utti Air Base",
+      "city": "Utti / Valkeala",
+      "subdivision": "Kymenlaakso",
+      "subdivision_name_fi": "Kymenlaakso",
+      "country": "FI",
+      "elevation_ft": 339,
+      "latitude": 60.8964,
+      "longitude": 26.9384,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    },
+    {
+      "icao": "EFWB",
+      "iata": "",
+      "name": "Wredeby Airport",
+      "city": "",
+      "subdivision": "Kymenlaakso",
+      "subdivision_name_fi": "Kymenlaakso",
+      "country": "FI",
+      "elevation_ft": 82,
+      "latitude": 60.6636,
+      "longitude": 26.7458,
+      "timezone": "Europe/Helsinki",
+      "lid": ""
+    }
+  ],
+  "meta": {
+    "title": "Finland / Kymenlaakso — Airports (lentoasemat) - Ilmainen lataus",
+    "description": "Airports, airfields, heliports and aerodromes located in Kymenlaakso (Kymenlaakso), a maakunta (region) of Finland. Each record carries the ICAO code, IATA code where assigned, facility name, city, subdivision, country code, elevation in feet, latitude/longitude (WGS-84), IANA timezone, and FAA/national LID. Extracted from the global mborsetti/airportsdata register by filtering country=='FI' AND subd=='Kymenlaakso'. Sisältää 3 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Finland / Kymenlaakso — Airports (lentoasemat) | ListBase",
+    "seo_description": "Lataa Finland / Kymenlaakso — Airports (lentoasemat) — 3 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 3 tietuetta / 12 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

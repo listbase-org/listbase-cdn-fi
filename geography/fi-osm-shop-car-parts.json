@@ -1,0 +1,1789 @@
+{
+  "id": "fi-osm-shop-car-parts",
+  "name": "Autotarvikeliikkeet – Suomi (OpenStreetMap)",
+  "title": "Autotarvikeliikkeet – Suomi (OpenStreetMap)",
+  "description": "Autotarvikeliikkeet Suomessa — 192 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=car_parts`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 7. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 192,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "A-Osat",
+      "leveysaste": 61.33803,
+      "pituusaste": 22.918747,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 2,
+      "nimi": "A-Osat",
+      "leveysaste": 61.338066,
+      "pituusaste": 22.918803,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 3,
+      "nimi": "A-Osat Vammala - Fixus",
+      "leveysaste": 61.337965,
+      "pituusaste": 22.918613,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 4,
+      "nimi": "AD Center",
+      "leveysaste": 60.05322,
+      "pituusaste": 23.645641,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 5,
+      "nimi": "AD Center",
+      "leveysaste": 60.053235,
+      "pituusaste": 23.645767,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 6,
+      "nimi": "AD-Center",
+      "leveysaste": 60.005708,
+      "pituusaste": 23.53508,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 7,
+      "nimi": "AD-Varaosamaailma",
+      "leveysaste": 62.614983,
+      "pituusaste": 29.736821,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 8,
+      "nimi": "AD-varaosat",
+      "leveysaste": 62.627196,
+      "pituusaste": 29.800973,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 9,
+      "nimi": "AH Tarvike",
+      "leveysaste": 63.242528,
+      "pituusaste": 22.854804,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 10,
+      "nimi": "AT-Osa Oy",
+      "leveysaste": 62.17762,
+      "pituusaste": 27.840304,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 11,
+      "nimi": "Akku-Ekspertti TAMPERE",
+      "leveysaste": 61.494692,
+      "pituusaste": 23.772297,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 12,
+      "nimi": "AkkuA Oy",
+      "leveysaste": 62.619654,
+      "pituusaste": 29.768546,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 13,
+      "nimi": "Akkuhuolto Sinkkonen",
+      "leveysaste": 62.618797,
+      "pituusaste": 29.740111,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 14,
+      "nimi": "Alavuden Auto",
+      "leveysaste": 62.588121,
+      "pituusaste": 23.61391,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 15,
+      "nimi": "Alavuden RA-SE Park Oy",
+      "leveysaste": 62.592939,
+      "pituusaste": 23.607541,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 16,
+      "nimi": "Askosaari Oy",
+      "leveysaste": 61.459764,
+      "pituusaste": 23.735703,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 17,
+      "nimi": "Askosaari Oy",
+      "leveysaste": 61.459832,
+      "pituusaste": 23.735753,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 18,
+      "nimi": "Atoy",
+      "leveysaste": 63.097114,
+      "pituusaste": 21.627035,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 19,
+      "nimi": "Auto Hegulit",
+      "leveysaste": 61.896803,
+      "pituusaste": 27.853749,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 20,
+      "nimi": "Auto-Artikkeli Oy",
+      "leveysaste": 60.297543,
+      "pituusaste": 25.056566,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 21,
+      "nimi": "Auto-Lehtinen Oy",
+      "leveysaste": 60.382309,
+      "pituusaste": 23.230887,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 22,
+      "nimi": "Auto-Start",
+      "leveysaste": 60.191699,
+      "pituusaste": 23.999137,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 23,
+      "nimi": "Auto-Start",
+      "leveysaste": 60.191713,
+      "pituusaste": 23.999109,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 24,
+      "nimi": "Automestarit Oy",
+      "leveysaste": 61.865004,
+      "pituusaste": 28.920328,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 25,
+      "nimi": "Autopalvelu Ojanperä",
+      "leveysaste": 65.849464,
+      "pituusaste": 24.178335,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 26,
+      "nimi": "Autopurkaamo Karjalan Purku-Pojat Oy",
+      "leveysaste": 62.62435,
+      "pituusaste": 29.745745,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 27,
+      "nimi": "Autopurkaamo Karjalan Purku-Pojat Oy",
+      "leveysaste": 62.62436,
+      "pituusaste": 29.74564,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 28,
+      "nimi": "Autoshop",
+      "leveysaste": 63.313144,
+      "pituusaste": 22.390558,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 29,
+      "nimi": "Autotarvikeliike Ilmari Mäkinen",
+      "leveysaste": 61.485436,
+      "pituusaste": 21.789202,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 30,
+      "nimi": "Autotarvikeliike Ilmari Mäkinen",
+      "leveysaste": 61.485443,
+      "pituusaste": 21.789206,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 31,
+      "nimi": "Bo Bil",
+      "leveysaste": 60.127999,
+      "pituusaste": 19.942805,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 32,
+      "nimi": "Bo Bil",
+      "leveysaste": 60.128005,
+      "pituusaste": 19.942773,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 33,
+      "nimi": "Fixus",
+      "leveysaste": 60.163234,
+      "pituusaste": 24.702199,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 34,
+      "nimi": "Fixus",
+      "leveysaste": 60.202038,
+      "pituusaste": 25.045022,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 35,
+      "nimi": "Fixus (Loviisan Autovaraosa)",
+      "leveysaste": 60.45781,
+      "pituusaste": 26.206743,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 36,
+      "nimi": "Fixus Autotarvike Sodankylän Varaosa oy",
+      "leveysaste": 67.418629,
+      "pituusaste": 26.590452,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 37,
+      "nimi": "Fixus Center",
+      "leveysaste": 62.617752,
+      "pituusaste": 29.7611,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 38,
+      "nimi": "Fixus Center",
+      "leveysaste": 62.617763,
+      "pituusaste": 29.760972,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 39,
+      "nimi": "Fixus Keltakangas",
+      "leveysaste": 60.751187,
+      "pituusaste": 26.837732,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 40,
+      "nimi": "Fixus Kitee",
+      "leveysaste": 62.10006,
+      "pituusaste": 30.12903,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 41,
+      "nimi": "Fixus Kitee",
+      "leveysaste": 62.100094,
+      "pituusaste": 30.128981,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 42,
+      "nimi": "H-Varaosa",
+      "leveysaste": 60.455556,
+      "pituusaste": 22.304396,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 43,
+      "nimi": "Haapaveden Autovaraosa Oy",
+      "leveysaste": 64.143853,
+      "pituusaste": 25.365176,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 44,
+      "nimi": "Haapaveden Varaosapojat Oy",
+      "leveysaste": 64.138391,
+      "pituusaste": 25.367708,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 45,
+      "nimi": "Haukiputaan varaosakeskus",
+      "leveysaste": 65.165983,
+      "pituusaste": 25.345945,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 46,
+      "nimi": "Hervannan Autotarvike",
+      "leveysaste": 61.460538,
+      "pituusaste": 23.866571,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 47,
+      "nimi": "Hervannan Autotarvike",
+      "leveysaste": 61.460566,
+      "pituusaste": 23.866569,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 48,
+      "nimi": "Hessumobiili",
+      "leveysaste": 60.269635,
+      "pituusaste": 24.804148,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 49,
+      "nimi": "Hessumobiili",
+      "leveysaste": 60.269642,
+      "pituusaste": 24.804131,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 50,
+      "nimi": "Hyvinkään Autosport",
+      "leveysaste": 60.609888,
+      "pituusaste": 24.854449,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 51,
+      "nimi": "Hyvinkään Autosport",
+      "leveysaste": 60.609929,
+      "pituusaste": 24.854486,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 52,
+      "nimi": "Hämeen Akku Oy",
+      "leveysaste": 60.996192,
+      "pituusaste": 24.450149,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 53,
+      "nimi": "Hämeen Autosähkö Oy",
+      "leveysaste": 60.984345,
+      "pituusaste": 24.443087,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 54,
+      "nimi": "Hämeenlinnan Maatalous ja Kone",
+      "leveysaste": 60.99975,
+      "pituusaste": 24.44305,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 55,
+      "nimi": "IS Automotive Oy",
+      "leveysaste": 62.289163,
+      "pituusaste": 26.23995,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 56,
+      "nimi": "Ihala Choppers",
+      "leveysaste": 60.497497,
+      "pituusaste": 22.256225,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 57,
+      "nimi": "Imatran Varaosakeskus",
+      "leveysaste": 61.198303,
+      "pituusaste": 28.776007,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 58,
+      "nimi": "Imatran Varaosakeskus",
+      "leveysaste": 61.198308,
+      "pituusaste": 28.77606,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 59,
+      "nimi": "Inkeroisten Laatuosa",
+      "leveysaste": 60.693873,
+      "pituusaste": 26.840323,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 60,
+      "nimi": "Jari Mäki Oy",
+      "leveysaste": 62.68424,
+      "pituusaste": 22.441966,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 61,
+      "nimi": "Joen Osa",
+      "leveysaste": 62.618455,
+      "pituusaste": 29.74009,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 62,
+      "nimi": "Joen Osa",
+      "leveysaste": 62.618459,
+      "pituusaste": 29.740008,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 63,
+      "nimi": "Joen Rengas-Expertit Oy",
+      "leveysaste": 62.617996,
+      "pituusaste": 29.759661,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 64,
+      "nimi": "Joensuun Laakeri Oy",
+      "leveysaste": 62.618105,
+      "pituusaste": 29.75235,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 65,
+      "nimi": "Jyväskylän Autovaruste",
+      "leveysaste": 62.246029,
+      "pituusaste": 25.74476,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 66,
+      "nimi": "KA Tarvike Oy",
+      "leveysaste": 60.474069,
+      "pituusaste": 22.283474,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 67,
+      "nimi": "KalvoTek",
+      "leveysaste": 61.460801,
+      "pituusaste": 23.776078,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 68,
+      "nimi": "Kampin Parkki",
+      "leveysaste": 60.16434,
+      "pituusaste": 24.929812,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 69,
+      "nimi": "Kampin rengas ja akkupalvelu",
+      "leveysaste": 60.164314,
+      "pituusaste": 24.929732,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 70,
+      "nimi": "Keravan Auto",
+      "leveysaste": 60.398239,
+      "pituusaste": 25.110934,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 71,
+      "nimi": "Keravan Auto",
+      "leveysaste": 60.398335,
+      "pituusaste": 25.110818,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 72,
+      "nimi": "Keski-Uudenmaan Diesel Oy",
+      "leveysaste": 60.240795,
+      "pituusaste": 24.849224,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 73,
+      "nimi": "Kiteen Varaosa",
+      "leveysaste": 62.098226,
+      "pituusaste": 30.139012,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 74,
+      "nimi": "Kittilän Autotarvike",
+      "leveysaste": 67.657391,
+      "pituusaste": 24.906969,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 75,
+      "nimi": "Konekorjaamo Marjakangas Oy",
+      "leveysaste": 64.168434,
+      "pituusaste": 24.302329,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 76,
+      "nimi": "Konekorjaamo Marjakangas Oy",
+      "leveysaste": 64.168459,
+      "pituusaste": 24.302363,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 77,
+      "nimi": "Koneveturi Oy",
+      "leveysaste": 61.866788,
+      "pituusaste": 28.865539,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 78,
+      "nimi": "Koukkupaja",
+      "leveysaste": 60.49917,
+      "pituusaste": 22.245767,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 79,
+      "nimi": "Kärkkäinen Autohuolto ja -varaosa",
+      "leveysaste": 60.93366,
+      "pituusaste": 25.624964,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 80,
+      "nimi": "Kärripojat Oy",
+      "leveysaste": 62.628855,
+      "pituusaste": 29.770334,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 81,
+      "nimi": "Kärripojat Oy",
+      "leveysaste": 62.628897,
+      "pituusaste": 29.770288,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 82,
+      "nimi": "Lahden Takuupurkamo",
+      "leveysaste": 60.937368,
+      "pituusaste": 25.583078,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 83,
+      "nimi": "Lapuan Autovaruste",
+      "leveysaste": 62.974326,
+      "pituusaste": 23.01665,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 84,
+      "nimi": "MKJ-Motorsport",
+      "leveysaste": 60.660972,
+      "pituusaste": 22.026841,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 85,
+      "nimi": "Mekonomen",
+      "leveysaste": 60.123894,
+      "pituusaste": 19.939104,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 86,
+      "nimi": "Mekonomen",
+      "leveysaste": 64.991068,
+      "pituusaste": 25.458598,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 87,
+      "nimi": "Merteil",
+      "leveysaste": 60.205829,
+      "pituusaste": 25.053018,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 88,
+      "nimi": "Merteil",
+      "leveysaste": 60.205878,
+      "pituusaste": 25.05289,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 89,
+      "nimi": "Moposport",
+      "leveysaste": 60.282461,
+      "pituusaste": 24.821002,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 90,
+      "nimi": "Motonet",
+      "leveysaste": 60.156661,
+      "pituusaste": 24.697274,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 91,
+      "nimi": "Motonet",
+      "leveysaste": 60.221816,
+      "pituusaste": 24.664308,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 92,
+      "nimi": "Motonet",
+      "leveysaste": 60.221818,
+      "pituusaste": 24.664313,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 93,
+      "nimi": "Motonet",
+      "leveysaste": 60.296299,
+      "pituusaste": 24.929617,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 94,
+      "nimi": "Motonet",
+      "leveysaste": 60.390105,
+      "pituusaste": 25.604679,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 95,
+      "nimi": "Motonet",
+      "leveysaste": 60.39464,
+      "pituusaste": 23.129896,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 96,
+      "nimi": "Motonet",
+      "leveysaste": 60.455756,
+      "pituusaste": 25.112525,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 97,
+      "nimi": "Motonet",
+      "leveysaste": 60.465666,
+      "pituusaste": 22.206277,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 98,
+      "nimi": "Motonet",
+      "leveysaste": 60.872982,
+      "pituusaste": 26.663159,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 99,
+      "nimi": "Motonet",
+      "leveysaste": 61.013484,
+      "pituusaste": 24.412721,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 100,
+      "nimi": "Motonet",
+      "leveysaste": 61.013504,
+      "pituusaste": 24.412702,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 101,
+      "nimi": "Motonet",
+      "leveysaste": 61.132882,
+      "pituusaste": 21.527782,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 102,
+      "nimi": "Motonet",
+      "leveysaste": 61.467445,
+      "pituusaste": 23.716308,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 103,
+      "nimi": "Motonet",
+      "leveysaste": 61.49051,
+      "pituusaste": 23.876026,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 104,
+      "nimi": "Motonet",
+      "leveysaste": 61.490575,
+      "pituusaste": 23.87604,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 105,
+      "nimi": "Motonet",
+      "leveysaste": 61.518059,
+      "pituusaste": 23.656053,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 106,
+      "nimi": "Motonet",
+      "leveysaste": 61.876864,
+      "pituusaste": 28.873096,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 107,
+      "nimi": "Motonet",
+      "leveysaste": 62.31767,
+      "pituusaste": 27.856384,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 108,
+      "nimi": "Motonet",
+      "leveysaste": 62.799191,
+      "pituusaste": 22.847014,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 109,
+      "nimi": "Motonet",
+      "leveysaste": 63.111337,
+      "pituusaste": 21.655348,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 110,
+      "nimi": "Motonet",
+      "leveysaste": 64.209814,
+      "pituusaste": 27.775171,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 111,
+      "nimi": "Motonet",
+      "leveysaste": 65.841735,
+      "pituusaste": 24.202612,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 112,
+      "nimi": "Motonet",
+      "leveysaste": 65.841783,
+      "pituusaste": 24.202377,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 113,
+      "nimi": "Motonet",
+      "leveysaste": 66.489427,
+      "pituusaste": 25.661969,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 114,
+      "nimi": "Motonet Konala",
+      "leveysaste": 60.241369,
+      "pituusaste": 24.847581,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 115,
+      "nimi": "Motonet Konala",
+      "leveysaste": 60.241386,
+      "pituusaste": 24.847623,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 116,
+      "nimi": "Motonet Kuopio",
+      "leveysaste": 62.882717,
+      "pituusaste": 27.645643,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 117,
+      "nimi": "Motonet Lohja",
+      "leveysaste": 60.273494,
+      "pituusaste": 24.120362,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 118,
+      "nimi": "Motor Power Finland Oy",
+      "leveysaste": 60.158626,
+      "pituusaste": 24.714841,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 119,
+      "nimi": "Motoral Oy",
+      "leveysaste": 60.241864,
+      "pituusaste": 25.046327,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 120,
+      "nimi": "Motoral Oy",
+      "leveysaste": 60.241922,
+      "pituusaste": 25.046229,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 121,
+      "nimi": "Motorset Oy",
+      "leveysaste": 63.902478,
+      "pituusaste": 23.898268,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 122,
+      "nimi": "Muonion autotarvike",
+      "leveysaste": 67.956102,
+      "pituusaste": 23.681727,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 123,
+      "nimi": "NVO Varaosamyynti Oy",
+      "leveysaste": 60.325211,
+      "pituusaste": 24.289379,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 124,
+      "nimi": "Nivalan JP-Osa Oy",
+      "leveysaste": 63.934693,
+      "pituusaste": 24.959865,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 125,
+      "nimi": "Nurmon Autopurkaamo",
+      "leveysaste": 62.822139,
+      "pituusaste": 22.898304,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 126,
+      "nimi": "O.K. Auto Oy",
+      "leveysaste": 62.602629,
+      "pituusaste": 25.702373,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 127,
+      "nimi": "Orimattilan akku ja varaosa",
+      "leveysaste": 60.802754,
+      "pituusaste": 25.737937,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 128,
+      "nimi": "Osaset",
+      "leveysaste": 60.634431,
+      "pituusaste": 24.866676,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 129,
+      "nimi": "Outokumpun Varaosa Oy",
+      "leveysaste": 62.726587,
+      "pituusaste": 29.021173,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 130,
+      "nimi": "Parikkalan Autotarvike",
+      "leveysaste": 61.555284,
+      "pituusaste": 29.500785,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 131,
+      "nimi": "Parthouse Oy",
+      "leveysaste": 60.556573,
+      "pituusaste": 24.965508,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 132,
+      "nimi": "Peso-Autot",
+      "leveysaste": 63.827149,
+      "pituusaste": 23.159479,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 133,
+      "nimi": "Pieksämäen akku ja varaosa ky",
+      "leveysaste": 62.289549,
+      "pituusaste": 27.109002,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 134,
+      "nimi": "Pieksän Auto-osa",
+      "leveysaste": 62.626788,
+      "pituusaste": 27.121579,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 135,
+      "nimi": "Polar Autovaruste",
+      "leveysaste": 61.490006,
+      "pituusaste": 23.772429,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 136,
+      "nimi": "Ponsse",
+      "leveysaste": 65.040635,
+      "pituusaste": 25.551118,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 137,
+      "nimi": "Pouts",
+      "leveysaste": 62.619564,
+      "pituusaste": 29.743566,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 138,
+      "nimi": "Pouts",
+      "leveysaste": 62.619568,
+      "pituusaste": 29.743499,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 139,
+      "nimi": "Race Performance",
+      "leveysaste": 60.484118,
+      "pituusaste": 25.367666,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 140,
+      "nimi": "Rally Corsa Shop",
+      "leveysaste": 63.091543,
+      "pituusaste": 27.657865,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 141,
+      "nimi": "Rally Corsa Shop",
+      "leveysaste": 63.09158,
+      "pituusaste": 27.657879,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 142,
+      "nimi": "Rannikon tarvike",
+      "leveysaste": 64.678365,
+      "pituusaste": 24.480727,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 143,
+      "nimi": "Rantakylän varaosa",
+      "leveysaste": 62.62674,
+      "pituusaste": 29.798472,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 144,
+      "nimi": "Raskasvaraosa Oy",
+      "leveysaste": 60.299988,
+      "pituusaste": 24.900401,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 145,
+      "nimi": "Rengas Planet",
+      "leveysaste": 62.619175,
+      "pituusaste": 29.764999,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 146,
+      "nimi": "Rengas Planet",
+      "leveysaste": 62.619181,
+      "pituusaste": 29.764918,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 147,
+      "nimi": "Rengasmyynti",
+      "leveysaste": 62.618651,
+      "pituusaste": 29.741522,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 148,
+      "nimi": "Rengasmyynti",
+      "leveysaste": 62.618654,
+      "pituusaste": 29.741439,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 149,
+      "nimi": "Rengaspiste Lieksa",
+      "leveysaste": 63.320836,
+      "pituusaste": 30.014748,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 150,
+      "nimi": "Rengastien Autotarvike",
+      "leveysaste": 62.800531,
+      "pituusaste": 22.837474,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 151,
+      "nimi": "Risto Rämä Oy",
+      "leveysaste": 60.564277,
+      "pituusaste": 27.19034,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 152,
+      "nimi": "Schmiedmann",
+      "leveysaste": 60.288985,
+      "pituusaste": 24.856898,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 153,
+      "nimi": "Seinäjoen Autopurkaamo Oy",
+      "leveysaste": 62.786132,
+      "pituusaste": 22.909103,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 154,
+      "nimi": "Seinäjoen Autopurkaamo Oy",
+      "leveysaste": 62.786222,
+      "pituusaste": 22.909597,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 155,
+      "nimi": "Sipoon autovaraosa",
+      "leveysaste": 60.379869,
+      "pituusaste": 25.271106,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 156,
+      "nimi": "Sipoon autovaraosa",
+      "leveysaste": 60.379878,
+      "pituusaste": 25.271042,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 157,
+      "nimi": "Southwest Trade Oy",
+      "leveysaste": 60.286177,
+      "pituusaste": 24.814829,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 158,
+      "nimi": "Startax Finland Oy",
+      "leveysaste": 61.416029,
+      "pituusaste": 23.750953,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 159,
+      "nimi": "Startax Finland Oy",
+      "leveysaste": 61.416029,
+      "pituusaste": 23.750988,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 160,
+      "nimi": "Suomen Akut",
+      "leveysaste": 60.861308,
+      "pituusaste": 26.643343,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 161,
+      "nimi": "Suomen Akut Oy",
+      "leveysaste": 61.516612,
+      "pituusaste": 23.670679,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 162,
+      "nimi": "Suomen Akut Oy",
+      "leveysaste": 66.493246,
+      "pituusaste": 25.695952,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 163,
+      "nimi": "Suupohjan Varaosa ja Huolto Oy",
+      "leveysaste": 62.434681,
+      "pituusaste": 22.186305,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 164,
+      "nimi": "TAVO",
+      "leveysaste": 65.039782,
+      "pituusaste": 25.540955,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 165,
+      "nimi": "TI-Tarvike",
+      "leveysaste": 60.219303,
+      "pituusaste": 24.960219,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 166,
+      "nimi": "Tarvike Valtsu",
+      "leveysaste": 62.627908,
+      "pituusaste": 23.813618,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 167,
+      "nimi": "Tarvike-Ahola",
+      "leveysaste": 60.863075,
+      "pituusaste": 26.655292,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 168,
+      "nimi": "Tarvike-auto J.Pudas",
+      "leveysaste": 67.331718,
+      "pituusaste": 23.781443,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 169,
+      "nimi": "Tarvikemotti",
+      "leveysaste": 64.268154,
+      "pituusaste": 23.949973,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 170,
+      "nimi": "Tarvikepiste",
+      "leveysaste": 66.328951,
+      "pituusaste": 23.678791,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 171,
+      "nimi": "Tarvikepiste Mäntynen",
+      "leveysaste": 67.418841,
+      "pituusaste": 26.591424,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 172,
+      "nimi": "Tarviketori",
+      "leveysaste": 64.966587,
+      "pituusaste": 25.499592,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 173,
+      "nimi": "Tarviketori",
+      "leveysaste": 65.010651,
+      "pituusaste": 25.476862,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 174,
+      "nimi": "Tesoman Autotarvike",
+      "leveysaste": 61.505042,
+      "pituusaste": 23.619421,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 175,
+      "nimi": "Tohmajärven Autotarvike",
+      "leveysaste": 62.224918,
+      "pituusaste": 30.329793,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 176,
+      "nimi": "Trailcon",
+      "leveysaste": 65.040905,
+      "pituusaste": 25.552005,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 177,
+      "nimi": "Turun autofiksaus",
+      "leveysaste": 60.446357,
+      "pituusaste": 22.25704,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 178,
+      "nimi": "Tuusulan Autovaraosa Oy",
+      "leveysaste": 60.380866,
+      "pituusaste": 25.039135,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 179,
+      "nimi": "Tuusulan Autovaraosa Oy",
+      "leveysaste": 60.380878,
+      "pituusaste": 25.039198,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 180,
+      "nimi": "Valinta-Akku",
+      "leveysaste": 60.448264,
+      "pituusaste": 22.232236,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 181,
+      "nimi": "Vallilan Takomo",
+      "leveysaste": 60.221598,
+      "pituusaste": 24.852284,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 182,
+      "nimi": "Varaosa Mikkonen Oy Fixus Center",
+      "leveysaste": 63.553115,
+      "pituusaste": 29.096624,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 183,
+      "nimi": "Varaosaliike",
+      "leveysaste": 61.131091,
+      "pituusaste": 21.500236,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 184,
+      "nimi": "Varaosamaailma Hämeenlinna",
+      "leveysaste": 61.014808,
+      "pituusaste": 24.408374,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 185,
+      "nimi": "Varaosamiehet",
+      "leveysaste": 61.03897,
+      "pituusaste": 28.199022,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 186,
+      "nimi": "Varaosaportti",
+      "leveysaste": 64.686648,
+      "pituusaste": 24.511409,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 187,
+      "nimi": "Vihdin Tarvike",
+      "leveysaste": 60.418091,
+      "pituusaste": 24.317622,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 188,
+      "nimi": "Virtansenkauppa.fi",
+      "leveysaste": 60.392464,
+      "pituusaste": 23.132368,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 189,
+      "nimi": "Virtasen moottori",
+      "leveysaste": 60.390501,
+      "pituusaste": 23.113147,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 190,
+      "nimi": "Vuoksen Ruuvi ja Autotarvike Oy",
+      "leveysaste": 61.223982,
+      "pituusaste": 28.836594,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 191,
+      "nimi": "Vuoksen Ruuvi ja Autotarvike Oy",
+      "leveysaste": 61.223994,
+      "pituusaste": 28.836612,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    },
+    {
+      "id": 192,
+      "nimi": "Välitysmyynti Antti Lehtonen",
+      "leveysaste": 62.414346,
+      "pituusaste": 22.173963,
+      "osm_avain": "shop",
+      "osm_arvo": "car_parts",
+      "osm_luokka": "shop=car_parts"
+    }
+  ],
+  "meta": {
+    "title": "Autotarvikeliikkeet – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Autotarvikeliikkeet Suomessa — 192 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `shop=car_parts`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 7. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 192 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Autotarvikeliikkeet – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Autotarvikeliikkeet – Suomi (OpenStreetMap) — 192 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 192 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}

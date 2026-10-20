@@ -1,0 +1,5047 @@
+{
+  "id": "fi-osm-amenity-charging-station",
+  "name": "Latausasemat – Suomi (OpenStreetMap)",
+  "title": "Latausasemat – Suomi (OpenStreetMap)",
+  "description": "Latausasemat Suomessa — 554 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=charging_station`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 11. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 554,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "leveysaste",
+      "label": "Leveysaste",
+      "type": "number"
+    },
+    {
+      "key": "pituusaste",
+      "label": "Pituusaste",
+      "type": "number"
+    },
+    {
+      "key": "osm_avain",
+      "label": "Osm Avain",
+      "type": "string"
+    },
+    {
+      "key": "osm_arvo",
+      "label": "Osm Arvo",
+      "type": "string"
+    },
+    {
+      "key": "osm_luokka",
+      "label": "Osm Luokka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "nimi": "ABC Amiraali",
+      "leveysaste": 60.542274,
+      "pituusaste": 26.978191,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 2,
+      "nimi": "ABC Hyvinkää",
+      "leveysaste": 60.61835,
+      "pituusaste": 24.806722,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 3,
+      "nimi": "ABC Kausala S-market Sähkölataus",
+      "leveysaste": 60.88885,
+      "pituusaste": 26.340793,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 4,
+      "nimi": "ABC Kivihaka",
+      "leveysaste": 63.111498,
+      "pituusaste": 21.653325,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 5,
+      "nimi": "ABC Kivihaka Vaasa",
+      "leveysaste": 63.111385,
+      "pituusaste": 21.651763,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 6,
+      "nimi": "ABC Kolmenkulma Nokia",
+      "leveysaste": 61.501775,
+      "pituusaste": 23.568042,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 7,
+      "nimi": "ABC Kontiolahti",
+      "leveysaste": 62.714962,
+      "pituusaste": 29.856969,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 8,
+      "nimi": "ABC Koulukatu Turku",
+      "leveysaste": 60.453938,
+      "pituusaste": 22.246047,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 9,
+      "nimi": "ABC Kristinestad",
+      "leveysaste": 62.262155,
+      "pituusaste": 21.483944,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 10,
+      "nimi": "ABC Kuninkaantie",
+      "leveysaste": 60.485019,
+      "pituusaste": 25.891215,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 11,
+      "nimi": "ABC Lataus",
+      "leveysaste": 60.269226,
+      "pituusaste": 24.758507,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 12,
+      "nimi": "ABC Lataus",
+      "leveysaste": 61.657854,
+      "pituusaste": 23.180886,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 13,
+      "nimi": "ABC Lataus",
+      "leveysaste": 66.112313,
+      "pituusaste": 28.157921,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 14,
+      "nimi": "ABC Lataus S-Market Oulunsalo",
+      "leveysaste": 64.935178,
+      "pituusaste": 25.412061,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 15,
+      "nimi": "ABC Lataus Vaasa City",
+      "leveysaste": 63.096978,
+      "pituusaste": 21.61962,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 16,
+      "nimi": "ABC Lataus Ähtäri",
+      "leveysaste": 62.549976,
+      "pituusaste": 24.087452,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 17,
+      "nimi": "ABC Piihovi",
+      "leveysaste": 60.418544,
+      "pituusaste": 23.162751,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 18,
+      "nimi": "ABC Piihovi",
+      "leveysaste": 60.418781,
+      "pituusaste": 23.164396,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 19,
+      "nimi": "ABC Prisma Liisanlehto",
+      "leveysaste": 63.072805,
+      "pituusaste": 21.699137,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 20,
+      "nimi": "ABC Prisma Länsikeskus",
+      "leveysaste": 60.473294,
+      "pituusaste": 22.226502,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 21,
+      "nimi": "ABC Prisma Tampereentie",
+      "leveysaste": 60.47404,
+      "pituusaste": 22.287619,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 22,
+      "nimi": "ABC Prisma Zeppelin Kempele",
+      "leveysaste": 64.901078,
+      "pituusaste": 25.539345,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 23,
+      "nimi": "ABC S-market Nurmijärvi",
+      "leveysaste": 60.458238,
+      "pituusaste": 24.822514,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 24,
+      "nimi": "ABC Talliketo Rauma",
+      "leveysaste": 61.131318,
+      "pituusaste": 21.510758,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 25,
+      "nimi": "ABC Talliketo Rauma",
+      "leveysaste": 61.131325,
+      "pituusaste": 21.510752,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 26,
+      "nimi": "ABC Tupos Liminka",
+      "leveysaste": 64.862824,
+      "pituusaste": 25.521607,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 27,
+      "nimi": "ABC lataus PRISMA Iisalmi",
+      "leveysaste": 63.574705,
+      "pituusaste": 27.17975,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 28,
+      "nimi": "ABC latauspiste",
+      "leveysaste": 62.592957,
+      "pituusaste": 23.60936,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 29,
+      "nimi": "ABC suurteholataus",
+      "leveysaste": 63.2388,
+      "pituusaste": 22.848806,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 30,
+      "nimi": "ABC suurteholataus",
+      "leveysaste": 63.238802,
+      "pituusaste": 22.848824,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 31,
+      "nimi": "ABC-Lataus",
+      "leveysaste": 63.552849,
+      "pituusaste": 29.099297,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 32,
+      "nimi": "ABC-Lataus Padasjoki",
+      "leveysaste": 61.343977,
+      "pituusaste": 25.250356,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 33,
+      "nimi": "ABC-Lataus Padasjoki",
+      "leveysaste": 61.344018,
+      "pituusaste": 25.250404,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 34,
+      "nimi": "ABC-Lataus Prisma Palokka",
+      "leveysaste": 62.288371,
+      "pituusaste": 25.718832,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 35,
+      "nimi": "ABC-lataus",
+      "leveysaste": 60.313439,
+      "pituusaste": 24.846872,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 36,
+      "nimi": "ABC-lataus",
+      "leveysaste": 60.380838,
+      "pituusaste": 24.748859,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 37,
+      "nimi": "ABC-lataus",
+      "leveysaste": 60.513292,
+      "pituusaste": 26.931496,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 38,
+      "nimi": "ABC-lataus",
+      "leveysaste": 60.731652,
+      "pituusaste": 24.778442,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 39,
+      "nimi": "ABC-lataus",
+      "leveysaste": 60.752447,
+      "pituusaste": 24.734711,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 40,
+      "nimi": "ABC-lataus",
+      "leveysaste": 61.714145,
+      "pituusaste": 26.069671,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 41,
+      "nimi": "ABC-lataus",
+      "leveysaste": 62.029327,
+      "pituusaste": 24.625448,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 42,
+      "nimi": "ABC-lataus",
+      "leveysaste": 62.804152,
+      "pituusaste": 22.8754,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 43,
+      "nimi": "ABC-lataus",
+      "leveysaste": 62.805081,
+      "pituusaste": 22.872205,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 44,
+      "nimi": "ABC-lataus",
+      "leveysaste": 62.805101,
+      "pituusaste": 22.872312,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 45,
+      "nimi": "ABC-lataus",
+      "leveysaste": 63.322141,
+      "pituusaste": 30.008314,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 46,
+      "nimi": "ABC-lataus",
+      "leveysaste": 63.675275,
+      "pituusaste": 22.750263,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 47,
+      "nimi": "ABC-lataus",
+      "leveysaste": 64.66659,
+      "pituusaste": 24.484902,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 48,
+      "nimi": "ABC-lataus Alepa Kaukalahti",
+      "leveysaste": 60.193873,
+      "pituusaste": 24.600968,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 49,
+      "nimi": "ABC-lataus Break Sokos Hotel Levi",
+      "leveysaste": 67.805424,
+      "pituusaste": 24.806075,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 50,
+      "nimi": "ABC-lataus Iitti",
+      "leveysaste": 60.894021,
+      "pituusaste": 26.336133,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 51,
+      "nimi": "ABC-lataus LähiStoppi Muhos",
+      "leveysaste": 64.808213,
+      "pituusaste": 25.989184,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 52,
+      "nimi": "ABC-lataus Prisma Iso Omena",
+      "leveysaste": 60.162191,
+      "pituusaste": 24.737984,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 53,
+      "nimi": "ABC-lataus Prisma Joensuu",
+      "leveysaste": 62.617632,
+      "pituusaste": 29.776172,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 54,
+      "nimi": "ABC-lataus Prisma Joensuu parkkihalli",
+      "leveysaste": 62.6166,
+      "pituusaste": 29.77908,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 55,
+      "nimi": "ABC-lataus Prisma Kemi",
+      "leveysaste": 65.741275,
+      "pituusaste": 24.578608,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 56,
+      "nimi": "ABC-lataus Prisma Linnanmaa Oulu",
+      "leveysaste": 65.054898,
+      "pituusaste": 25.456182,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 57,
+      "nimi": "ABC-lataus Prisma Olari",
+      "leveysaste": 60.166729,
+      "pituusaste": 24.734509,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 58,
+      "nimi": "ABC-lataus Prisma Rovaniemi",
+      "leveysaste": 66.49229,
+      "pituusaste": 25.685238,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 59,
+      "nimi": "ABC-lataus Prisma Tornio",
+      "leveysaste": 65.843011,
+      "pituusaste": 24.197459,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 60,
+      "nimi": "ABC-lataus Pudasjärvi",
+      "leveysaste": 65.357792,
+      "pituusaste": 26.98486,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 61,
+      "nimi": "ABC-lataus S-Market Saunalahti",
+      "leveysaste": 60.167881,
+      "pituusaste": 24.61742,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 62,
+      "nimi": "ABC-lataus S-market Espoonlahti",
+      "leveysaste": 60.152911,
+      "pituusaste": 24.657653,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 63,
+      "nimi": "ABC-lataus S-market Ivalo",
+      "leveysaste": 68.65911,
+      "pituusaste": 27.542207,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 64,
+      "nimi": "ABC-lataus S-market Kolari",
+      "leveysaste": 67.335434,
+      "pituusaste": 23.820693,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 65,
+      "nimi": "ABC-lataus S-market Levi",
+      "leveysaste": 67.808841,
+      "pituusaste": 24.805981,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 66,
+      "nimi": "ABC-lataus S-market Moisio Turku",
+      "leveysaste": 60.535114,
+      "pituusaste": 22.308775,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 67,
+      "nimi": "ABC-lataus S-market Muonio",
+      "leveysaste": 67.957154,
+      "pituusaste": 23.683567,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 68,
+      "nimi": "ABC-lataus S-market Nöykkiö",
+      "leveysaste": 60.168551,
+      "pituusaste": 24.662361,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 69,
+      "nimi": "ABC-lataus S-market Pello",
+      "leveysaste": 66.775073,
+      "pituusaste": 23.963714,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 70,
+      "nimi": "ABC-lataus S-market Pohjois-Tapiola",
+      "leveysaste": 60.18588,
+      "pituusaste": 24.807831,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 71,
+      "nimi": "ABC-lataus S-market Ranua",
+      "leveysaste": 65.928569,
+      "pituusaste": 26.515498,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 72,
+      "nimi": "ABC-lataus S-market Sodankylä",
+      "leveysaste": 67.415433,
+      "pituusaste": 26.590479,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 73,
+      "nimi": "ABC-lataus S-market Ylitornio",
+      "leveysaste": 66.322498,
+      "pituusaste": 23.670308,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 74,
+      "nimi": "ABC-lataus Sale Tornio",
+      "leveysaste": 65.847707,
+      "pituusaste": 24.146698,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 75,
+      "nimi": "ABC-latausasema",
+      "leveysaste": 60.453349,
+      "pituusaste": 26.207237,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 76,
+      "nimi": "Abc-lataus",
+      "leveysaste": 61.866455,
+      "pituusaste": 25.196847,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 77,
+      "nimi": "Aimo Charge Kauppakeskus Niitty",
+      "leveysaste": 60.170174,
+      "pituusaste": 24.764363,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 78,
+      "nimi": "Akaa-Toijala Supercharger",
+      "leveysaste": 61.18114,
+      "pituusaste": 23.88513,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 79,
+      "nimi": "Autoliitto Kääjäntie",
+      "leveysaste": 61.676206,
+      "pituusaste": 24.351609,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 80,
+      "nimi": "Autoliitto Lataus",
+      "leveysaste": 63.142665,
+      "pituusaste": 22.826913,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 81,
+      "nimi": "Autoliitto Lataus",
+      "leveysaste": 63.142672,
+      "pituusaste": 22.826927,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 82,
+      "nimi": "Autoliitto Merikarvia",
+      "leveysaste": 61.862257,
+      "pituusaste": 21.639834,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 83,
+      "nimi": "Autoliitto Rajapirtintie",
+      "leveysaste": 60.816514,
+      "pituusaste": 24.624044,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 84,
+      "nimi": "Axxell Karis",
+      "leveysaste": 60.068713,
+      "pituusaste": 23.660046,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 85,
+      "nimi": "Break Sokos Hotel Koli Kylä",
+      "leveysaste": 63.114603,
+      "pituusaste": 29.77458,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 86,
+      "nimi": "Charge And Drive Charging Station",
+      "leveysaste": 63.154943,
+      "pituusaste": 27.29935,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 87,
+      "nimi": "Charge And Drive Charging Station",
+      "leveysaste": 63.771248,
+      "pituusaste": 24.246028,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 88,
+      "nimi": "Ekenäs simhall",
+      "leveysaste": 59.971207,
+      "pituusaste": 23.44816,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 89,
+      "nimi": "Espen",
+      "leveysaste": 63.096316,
+      "pituusaste": 21.618351,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 90,
+      "nimi": "Eteläranta P-alue",
+      "leveysaste": 60.16524,
+      "pituusaste": 24.953187,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 91,
+      "nimi": "Eteläranta P-alue",
+      "leveysaste": 60.165249,
+      "pituusaste": 24.953166,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 92,
+      "nimi": "Eviny Lahtis",
+      "leveysaste": 67.313438,
+      "pituusaste": 23.742538,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 93,
+      "nimi": "Faast",
+      "leveysaste": 65.079796,
+      "pituusaste": 25.450989,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 94,
+      "nimi": "Faast Hartola",
+      "leveysaste": 61.578076,
+      "pituusaste": 26.009601,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 95,
+      "nimi": "Forssa Supercharger",
+      "leveysaste": 60.82676,
+      "pituusaste": 23.577956,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 96,
+      "nimi": "Fortum Charge & Drive",
+      "leveysaste": 60.230912,
+      "pituusaste": 25.054274,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 97,
+      "nimi": "Fortum Charge & Drive",
+      "leveysaste": 60.28355,
+      "pituusaste": 25.028539,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 98,
+      "nimi": "Fortum Charge & Drive",
+      "leveysaste": 60.45186,
+      "pituusaste": 26.233777,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 99,
+      "nimi": "Free charging station",
+      "leveysaste": 64.996972,
+      "pituusaste": 25.461029,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 100,
+      "nimi": "Gumbostrand Konst & Form",
+      "leveysaste": 60.258446,
+      "pituusaste": 25.305709,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 101,
+      "nimi": "Hankasalmi Supercharger",
+      "leveysaste": 62.358727,
+      "pituusaste": 26.570981,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 102,
+      "nimi": "Hartola Supercharger",
+      "leveysaste": 61.578466,
+      "pituusaste": 26.009547,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 103,
+      "nimi": "Helen",
+      "leveysaste": 60.160733,
+      "pituusaste": 24.738047,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 104,
+      "nimi": "Helen Haltia",
+      "leveysaste": 60.293661,
+      "pituusaste": 24.55865,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 105,
+      "nimi": "Helen Hesburger Espoo Friisilä",
+      "leveysaste": 60.163173,
+      "pituusaste": 24.722157,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 106,
+      "nimi": "Helen Hesburger Turku Linja-autoasema",
+      "leveysaste": 60.45776,
+      "pituusaste": 22.267164,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 107,
+      "nimi": "Helen IsoKarhu",
+      "leveysaste": 61.484796,
+      "pituusaste": 21.798736,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 108,
+      "nimi": "Helen Naavakalliontie",
+      "leveysaste": 60.176041,
+      "pituusaste": 24.792386,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 109,
+      "nimi": "Hotell Green star autotalli",
+      "leveysaste": 62.59903,
+      "pituusaste": 29.761887,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 110,
+      "nimi": "Huittinen Supercharger",
+      "leveysaste": 61.168407,
+      "pituusaste": 22.680156,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 111,
+      "nimi": "Hyvärilä",
+      "leveysaste": 63.532019,
+      "pituusaste": 29.198178,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 112,
+      "nimi": "Hämeenkyrön kunnantalo",
+      "leveysaste": 61.637722,
+      "pituusaste": 23.19568,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 113,
+      "nimi": "IONITY Charging Station",
+      "leveysaste": 67.42289,
+      "pituusaste": 26.586438,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 114,
+      "nimi": "IONITY Karisto",
+      "leveysaste": 60.98335,
+      "pituusaste": 25.736162,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 115,
+      "nimi": "Iitti Golf Oy - Virta",
+      "leveysaste": 60.926739,
+      "pituusaste": 26.3877,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 116,
+      "nimi": "Ikea Sähköautojen Latauspiste",
+      "leveysaste": 62.823807,
+      "pituusaste": 27.605472,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 117,
+      "nimi": "Ingman Solbacka latauspiste",
+      "leveysaste": 60.297582,
+      "pituusaste": 25.298278,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 118,
+      "nimi": "Intercontrol Oy",
+      "leveysaste": 60.437544,
+      "pituusaste": 22.351365,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 119,
+      "nimi": "Ionity",
+      "leveysaste": 60.269822,
+      "pituusaste": 24.974167,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 120,
+      "nimi": "Ionity",
+      "leveysaste": 60.293044,
+      "pituusaste": 24.845862,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 121,
+      "nimi": "Ionity Jalasjarvi",
+      "leveysaste": 62.487328,
+      "pituusaste": 22.75228,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 122,
+      "nimi": "Ionity Jyväskylä",
+      "leveysaste": 62.286881,
+      "pituusaste": 25.715018,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 123,
+      "nimi": "Ionity Kajaani",
+      "leveysaste": 64.22687,
+      "pituusaste": 27.726734,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 124,
+      "nimi": "Ionity Keminmaa",
+      "leveysaste": 65.793073,
+      "pituusaste": 24.528101,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 125,
+      "nimi": "Ionity Kokkola",
+      "leveysaste": 63.828306,
+      "pituusaste": 23.156725,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 126,
+      "nimi": "Ionity Kotka",
+      "leveysaste": 60.506331,
+      "pituusaste": 26.915542,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 127,
+      "nimi": "Ionity Kuopio (Kolmisoppi)",
+      "leveysaste": 62.862979,
+      "pituusaste": 27.615991,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 128,
+      "nimi": "Ionity Mikkeli",
+      "leveysaste": 61.686948,
+      "pituusaste": 27.29892,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 129,
+      "nimi": "Ionity Oulu",
+      "leveysaste": 64.957636,
+      "pituusaste": 25.524814,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 130,
+      "nimi": "Ionity Oulu",
+      "leveysaste": 64.957636,
+      "pituusaste": 25.524824,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 131,
+      "nimi": "Ionity Paimio",
+      "leveysaste": 60.426364,
+      "pituusaste": 22.722607,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 132,
+      "nimi": "Ionity Pori (Mikkola)",
+      "leveysaste": 61.451675,
+      "pituusaste": 21.83616,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 133,
+      "nimi": "Ionity Pudasjärvi",
+      "leveysaste": 65.360591,
+      "pituusaste": 26.986969,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 134,
+      "nimi": "Ionity Rovaniemi",
+      "leveysaste": 66.51764,
+      "pituusaste": 25.757004,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 135,
+      "nimi": "Ionity Tiiriö",
+      "leveysaste": 61.008707,
+      "pituusaste": 24.419775,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 136,
+      "nimi": "Ionity Vaasa (Kivihaka)",
+      "leveysaste": 63.108995,
+      "pituusaste": 21.649947,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 137,
+      "nimi": "Ionity Vaskikello",
+      "leveysaste": 63.71391,
+      "pituusaste": 25.919077,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 138,
+      "nimi": "Jalasjärvi Supercharger",
+      "leveysaste": 62.41709,
+      "pituusaste": 22.791911,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 139,
+      "nimi": "Jari-Pekka Hankasalmi",
+      "leveysaste": 62.358054,
+      "pituusaste": 26.573391,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 140,
+      "nimi": "Jari-Pekka Joroinen",
+      "leveysaste": 62.176259,
+      "pituusaste": 27.839858,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 141,
+      "nimi": "Joensuu Supercharger",
+      "leveysaste": 62.601154,
+      "pituusaste": 29.782092,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 142,
+      "nimi": "Johanneksenpuisto",
+      "leveysaste": 60.161341,
+      "pituusaste": 24.94288,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 143,
+      "nimi": "Joroinen Supercharger",
+      "leveysaste": 62.1757,
+      "pituusaste": 27.840423,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 144,
+      "nimi": "Juustoportti",
+      "leveysaste": 61.55626,
+      "pituusaste": 23.561922,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 145,
+      "nimi": "Jämsä Supercharger",
+      "leveysaste": 61.869982,
+      "pituusaste": 25.235152,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 146,
+      "nimi": "Järviseudun Golf",
+      "leveysaste": 63.251598,
+      "pituusaste": 23.63703,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 147,
+      "nimi": "K-Lataus",
+      "leveysaste": 60.297564,
+      "pituusaste": 25.329538,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 148,
+      "nimi": "K-Lataus",
+      "leveysaste": 60.443511,
+      "pituusaste": 22.232472,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 149,
+      "nimi": "K-Lataus",
+      "leveysaste": 60.472751,
+      "pituusaste": 22.231854,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 150,
+      "nimi": "K-Lataus",
+      "leveysaste": 60.473529,
+      "pituusaste": 22.233165,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 151,
+      "nimi": "K-Lataus",
+      "leveysaste": 60.604421,
+      "pituusaste": 25.254395,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 152,
+      "nimi": "K-Lataus",
+      "leveysaste": 60.722161,
+      "pituusaste": 24.735792,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 153,
+      "nimi": "K-Lataus",
+      "leveysaste": 60.740932,
+      "pituusaste": 24.749373,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 154,
+      "nimi": "K-Lataus",
+      "leveysaste": 63.318175,
+      "pituusaste": 30.024647,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 155,
+      "nimi": "K-Lataus",
+      "leveysaste": 63.31819,
+      "pituusaste": 30.024666,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 156,
+      "nimi": "K-Lataus",
+      "leveysaste": 64.26087,
+      "pituusaste": 23.950333,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 157,
+      "nimi": "K-Lataus (K-Citymarket Ideapark Seinäjoki)",
+      "leveysaste": 62.792871,
+      "pituusaste": 22.791689,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 158,
+      "nimi": "K-Lataus (K-Citymarket Kajaani)",
+      "leveysaste": 64.222964,
+      "pituusaste": 27.736667,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 159,
+      "nimi": "K-Lataus (K-Citymarket Kokkola)",
+      "leveysaste": 63.829123,
+      "pituusaste": 23.154493,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 160,
+      "nimi": "K-Lataus (K-Citymarket Kotka)",
+      "leveysaste": 60.506036,
+      "pituusaste": 26.91388,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 161,
+      "nimi": "K-Lataus (K-Citymarket Kuopio Kolmisoppi)",
+      "leveysaste": 62.863492,
+      "pituusaste": 27.614218,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 162,
+      "nimi": "K-Lataus (K-Citymarket Kuopio Päiväranta)",
+      "leveysaste": 62.933685,
+      "pituusaste": 27.673012,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 163,
+      "nimi": "K-Lataus (K-Citymarket Lappeenranta)",
+      "leveysaste": 61.044832,
+      "pituusaste": 28.20213,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 164,
+      "nimi": "K-Lataus (K-Citymarket Mikkeli)",
+      "leveysaste": 61.686009,
+      "pituusaste": 27.297617,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 165,
+      "nimi": "K-Lataus (K-Citymarket Mikkeli)",
+      "leveysaste": 61.68603,
+      "pituusaste": 27.297573,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 166,
+      "nimi": "K-Lataus (K-Citymarket Oulu Kaakkuri)",
+      "leveysaste": 64.957133,
+      "pituusaste": 25.527523,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 167,
+      "nimi": "K-Lataus (K-Citymarket Pilkko)",
+      "leveysaste": 62.628745,
+      "pituusaste": 29.703299,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 168,
+      "nimi": "K-Lataus (K-Citymarket Rovaniemi)",
+      "leveysaste": 66.518917,
+      "pituusaste": 25.754472,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 169,
+      "nimi": "K-Lataus (K-Citymarket Seppälä)",
+      "leveysaste": 62.26372,
+      "pituusaste": 25.775515,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 170,
+      "nimi": "K-Lataus (K-Citymarket Vaasa Kivihaka)",
+      "leveysaste": 63.108731,
+      "pituusaste": 21.652696,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 171,
+      "nimi": "K-Lataus (K-Citymarket Veturi)",
+      "leveysaste": 60.876233,
+      "pituusaste": 26.653225,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 172,
+      "nimi": "K-Lataus (K-Supermarket Hämeenkylä)",
+      "leveysaste": 60.27151,
+      "pituusaste": 24.804578,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 173,
+      "nimi": "K-Lataus (K-Supermarket Leppävirta)",
+      "leveysaste": 62.491217,
+      "pituusaste": 27.785594,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 174,
+      "nimi": "K-Lataus (K-Supermarket Pihtipudas)",
+      "leveysaste": 63.36926,
+      "pituusaste": 25.584884,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 175,
+      "nimi": "K-Lataus (K-Supermarket Rakuuna)",
+      "leveysaste": 61.057162,
+      "pituusaste": 28.18454,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 176,
+      "nimi": "K-Lataus (K-Supermarket Toppila)",
+      "leveysaste": 65.03586,
+      "pituusaste": 25.441409,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 177,
+      "nimi": "K-Lataus (K-Supermarket Vuokatti)",
+      "leveysaste": 64.140002,
+      "pituusaste": 28.267372,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 178,
+      "nimi": "K-Lataus (Neste K Imatra)",
+      "leveysaste": 61.186643,
+      "pituusaste": 28.743932,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 179,
+      "nimi": "K-Lataus (Neste K Kirri)",
+      "leveysaste": 62.301549,
+      "pituusaste": 25.71208,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 180,
+      "nimi": "K-Lataus (Neste K Lapintuuli)",
+      "leveysaste": 65.697469,
+      "pituusaste": 24.677779,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 181,
+      "nimi": "K-Lataus (Neste K Lappeenranta)",
+      "leveysaste": 61.044405,
+      "pituusaste": 28.179993,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 182,
+      "nimi": "K-Lataus (Neste K Ouluntulli)",
+      "leveysaste": 64.939652,
+      "pituusaste": 25.535721,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 183,
+      "nimi": "K-Lataus Citymarket Palokka",
+      "leveysaste": 62.287467,
+      "pituusaste": 25.714515,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 184,
+      "nimi": "K-Lataus Eerikkilä Sport & Outdoor Resort",
+      "leveysaste": 60.724695,
+      "pituusaste": 23.789973,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 185,
+      "nimi": "K-Lataus Eerikkilä Sport & Outdoor Resort",
+      "leveysaste": 60.724695,
+      "pituusaste": 23.789992,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 186,
+      "nimi": "K-Lataus K-Citymarket Iso Omena",
+      "leveysaste": 60.161889,
+      "pituusaste": 24.738282,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 187,
+      "nimi": "K-Lataus K-Supermarket Knuutilankangas",
+      "leveysaste": 64.996201,
+      "pituusaste": 25.554569,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 188,
+      "nimi": "K-Lataus K-Supermarket Orivesi",
+      "leveysaste": 61.676697,
+      "pituusaste": 24.352085,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 189,
+      "nimi": "K-Lataus Torkkari",
+      "leveysaste": 60.874843,
+      "pituusaste": 26.741838,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 190,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.391166,
+      "pituusaste": 23.126878,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 191,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.425826,
+      "pituusaste": 22.724127,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 192,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.429944,
+      "pituusaste": 22.322741,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 193,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.441941,
+      "pituusaste": 22.285062,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 194,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.45535,
+      "pituusaste": 22.679453,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 195,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.457699,
+      "pituusaste": 22.308175,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 196,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.489917,
+      "pituusaste": 22.170779,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 197,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.542199,
+      "pituusaste": 22.121251,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 198,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 60.805024,
+      "pituusaste": 21.425045,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 199,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.133065,
+      "pituusaste": 21.50785,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 200,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.466294,
+      "pituusaste": 23.722132,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 201,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.466561,
+      "pituusaste": 23.509776,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 202,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.476375,
+      "pituusaste": 23.838921,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 203,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.496852,
+      "pituusaste": 23.890207,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 204,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.502885,
+      "pituusaste": 23.858868,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 205,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.505272,
+      "pituusaste": 23.629181,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 206,
+      "nimi": "K-Lataus latauspiste",
+      "leveysaste": 61.515494,
+      "pituusaste": 23.66663,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 207,
+      "nimi": "K-Lataus-asema",
+      "leveysaste": 60.29381,
+      "pituusaste": 25.031,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 208,
+      "nimi": "K-Market Kilpishalli",
+      "leveysaste": 69.016663,
+      "pituusaste": 20.875614,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 209,
+      "nimi": "K-Supermarket Lähderanta",
+      "leveysaste": 60.239193,
+      "pituusaste": 24.741019,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 210,
+      "nimi": "K-Supermarket Minttu",
+      "leveysaste": 62.707378,
+      "pituusaste": 25.257069,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 211,
+      "nimi": "K-Supermarket Nurmijärvi",
+      "leveysaste": 60.462268,
+      "pituusaste": 24.810626,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 212,
+      "nimi": "K-Supermarket Runosmäki",
+      "leveysaste": 60.483865,
+      "pituusaste": 22.272131,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 213,
+      "nimi": "K-Supermarket Runosmäki",
+      "leveysaste": 60.483873,
+      "pituusaste": 22.272137,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 214,
+      "nimi": "K-lataus",
+      "leveysaste": 65.360163,
+      "pituusaste": 26.988236,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 215,
+      "nimi": "K-lataus (K-Citymarket Lahti Karisma)",
+      "leveysaste": 60.982195,
+      "pituusaste": 25.735388,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 216,
+      "nimi": "K-lataus (K-Supermarket Kauhava)",
+      "leveysaste": 63.101864,
+      "pituusaste": 23.056813,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 217,
+      "nimi": "K-lataus (Neste K Pukaron Paroni)",
+      "leveysaste": 60.671727,
+      "pituusaste": 26.252689,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 218,
+      "nimi": "K-lataus K-market Hiukkavaara",
+      "leveysaste": 65.010136,
+      "pituusaste": 25.590675,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 219,
+      "nimi": "K-supermarket Hirvensalo",
+      "leveysaste": 60.418408,
+      "pituusaste": 22.230274,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 220,
+      "nimi": "KSSe lataus Kausalan Matkakeidas",
+      "leveysaste": 60.91074,
+      "pituusaste": 26.275467,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 221,
+      "nimi": "Kajaani Supercharger",
+      "leveysaste": 64.222931,
+      "pituusaste": 27.739027,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 222,
+      "nimi": "Kapteeninpuistikko",
+      "leveysaste": 60.157629,
+      "pituusaste": 24.944909,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 223,
+      "nimi": "Karesuvanto Supercharger",
+      "leveysaste": 68.450152,
+      "pituusaste": 22.481251,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 224,
+      "nimi": "Kempele Supercharger",
+      "leveysaste": 64.90178,
+      "pituusaste": 25.535597,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 225,
+      "nimi": "Kesko Logistiikkakeskus",
+      "leveysaste": 61.443001,
+      "pituusaste": 23.883709,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 226,
+      "nimi": "Kesälahti Supercharger",
+      "leveysaste": 61.90474,
+      "pituusaste": 29.812766,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 227,
+      "nimi": "Keuruun sähkön latauspiste",
+      "leveysaste": 62.258741,
+      "pituusaste": 24.696031,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 228,
+      "nimi": "Kokkola Supercharger",
+      "leveysaste": 63.829277,
+      "pituusaste": 23.148533,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 229,
+      "nimi": "Kople Ishavsveien Levajok",
+      "leveysaste": 69.909403,
+      "pituusaste": 26.430307,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 230,
+      "nimi": "Korttelilataus",
+      "leveysaste": 59.820804,
+      "pituusaste": 22.959635,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 231,
+      "nimi": "KoskiGolf",
+      "leveysaste": 60.92576,
+      "pituusaste": 26.65976,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 232,
+      "nimi": "Kotikeskus Jyväskylä",
+      "leveysaste": 62.286617,
+      "pituusaste": 25.718915,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 233,
+      "nimi": "Kotkan toriparkki",
+      "leveysaste": 60.467863,
+      "pituusaste": 26.946453,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 234,
+      "nimi": "Kuopio Supercharger",
+      "leveysaste": 62.820648,
+      "pituusaste": 27.608016,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 235,
+      "nimi": "Kuusamo Supercharger",
+      "leveysaste": 65.958887,
+      "pituusaste": 29.156457,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 236,
+      "nimi": "Kärsämäki Supercharger",
+      "leveysaste": 63.974092,
+      "pituusaste": 25.76059,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 237,
+      "nimi": "Laddstation",
+      "leveysaste": 60.192398,
+      "pituusaste": 21.909422,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 238,
+      "nimi": "Lahnajärvi",
+      "leveysaste": 60.372356,
+      "pituusaste": 23.700996,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 239,
+      "nimi": "Lappeenranta Supercharger",
+      "leveysaste": 61.052676,
+      "pituusaste": 28.261149,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 240,
+      "nimi": "Latauspiste - ABC S-market Söderkulla",
+      "leveysaste": 60.297515,
+      "pituusaste": 25.331477,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 241,
+      "nimi": "Latauspiste Innopark",
+      "leveysaste": 60.97546,
+      "pituusaste": 24.478058,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 242,
+      "nimi": "Latauspiste, Energia Areena",
+      "leveysaste": 60.259734,
+      "pituusaste": 24.840221,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 243,
+      "nimi": "Leppäkoski latauspiste",
+      "leveysaste": 61.555952,
+      "pituusaste": 23.564093,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 244,
+      "nimi": "Lidl",
+      "leveysaste": 61.309927,
+      "pituusaste": 22.136256,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 245,
+      "nimi": "Lidl Haapaniemi latauspiste",
+      "leveysaste": 62.880671,
+      "pituusaste": 27.667806,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 246,
+      "nimi": "Lidl Hyvinkää, Kauppalankatu 20",
+      "leveysaste": 60.636039,
+      "pituusaste": 24.851959,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 247,
+      "nimi": "Lidl Hyvinkää, Kauppalankatu 20",
+      "leveysaste": 60.636039,
+      "pituusaste": 24.852002,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 248,
+      "nimi": "Lidl Latauspiste",
+      "leveysaste": 60.472141,
+      "pituusaste": 22.219443,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 249,
+      "nimi": "Lidl Niittykumpu latauspiste",
+      "leveysaste": 60.170831,
+      "pituusaste": 24.776302,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 250,
+      "nimi": "Lidl Nokia",
+      "leveysaste": 61.466202,
+      "pituusaste": 23.504939,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 251,
+      "nimi": "Lidl Palokka",
+      "leveysaste": 62.290033,
+      "pituusaste": 25.716443,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 252,
+      "nimi": "Lidl Peltokylä",
+      "leveysaste": 60.730128,
+      "pituusaste": 24.768241,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 253,
+      "nimi": "Lidl Peltokylä",
+      "leveysaste": 60.73014,
+      "pituusaste": 24.768248,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 254,
+      "nimi": "Lidl-lataus",
+      "leveysaste": 60.297558,
+      "pituusaste": 25.325891,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 255,
+      "nimi": "Liikennevirta Oy (CPO) Charging Station",
+      "leveysaste": 60.279262,
+      "pituusaste": 24.814139,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 256,
+      "nimi": "Liikennevirta Oy (CPO) Charging Station",
+      "leveysaste": 60.283521,
+      "pituusaste": 24.817217,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 257,
+      "nimi": "Liikennevirta Oy (CPO) Charging Station",
+      "leveysaste": 60.284329,
+      "pituusaste": 24.817936,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 258,
+      "nimi": "Lohihovi latausasema",
+      "leveysaste": 67.167261,
+      "pituusaste": 24.956095,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 259,
+      "nimi": "Lounaskahvila Tuli-Tauko 1 x 11 Kw",
+      "leveysaste": 65.398165,
+      "pituusaste": 27.315042,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 260,
+      "nimi": "Lyhty Viitasaaren latauspiste",
+      "leveysaste": 63.072908,
+      "pituusaste": 25.858296,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 261,
+      "nimi": "Lyhty Viitasaaren latauspiste",
+      "leveysaste": 63.072973,
+      "pituusaste": 25.858597,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 262,
+      "nimi": "Mariehamn Airport Finavia AC",
+      "leveysaste": 60.124377,
+      "pituusaste": 19.908049,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 263,
+      "nimi": "Mariehamn Airport Finavia AC",
+      "leveysaste": 60.124424,
+      "pituusaste": 19.908102,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 264,
+      "nimi": "Mattssons i Godby AC",
+      "leveysaste": 60.230018,
+      "pituusaste": 19.988644,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 265,
+      "nimi": "Mattssons i Godby DC",
+      "leveysaste": 60.230015,
+      "pituusaste": 19.988636,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 266,
+      "nimi": "Maxinge AC",
+      "leveysaste": 60.128831,
+      "pituusaste": 19.933538,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 267,
+      "nimi": "McDonald's Joensuu",
+      "leveysaste": 62.61869,
+      "pituusaste": 29.771806,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 268,
+      "nimi": "Mikkeli Supercharger",
+      "leveysaste": 61.688385,
+      "pituusaste": 27.280593,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 269,
+      "nimi": "Mikkelin toriparkki",
+      "leveysaste": 61.688069,
+      "pituusaste": 27.274225,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 270,
+      "nimi": "Minimani latauspiste",
+      "leveysaste": 62.790253,
+      "pituusaste": 22.880932,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 271,
+      "nimi": "Motolataus",
+      "leveysaste": 62.617927,
+      "pituusaste": 29.77169,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 272,
+      "nimi": "Motolataus Hyvinkää",
+      "leveysaste": 60.615156,
+      "pituusaste": 24.809134,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 273,
+      "nimi": "Motolataus Hyvinkää",
+      "leveysaste": 60.615165,
+      "pituusaste": 24.809139,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 274,
+      "nimi": "Motolataus Mikkeli",
+      "leveysaste": 61.688528,
+      "pituusaste": 27.300061,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 275,
+      "nimi": "Motonet charging station",
+      "leveysaste": 60.221426,
+      "pituusaste": 24.66388,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 276,
+      "nimi": "Mäntsälä Supercharger",
+      "leveysaste": 60.625029,
+      "pituusaste": 25.290217,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 277,
+      "nimi": "Möckelö Företagsby AC",
+      "leveysaste": 60.109667,
+      "pituusaste": 19.904811,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 278,
+      "nimi": "Neste Lataus Espoo Muurala",
+      "leveysaste": 60.214649,
+      "pituusaste": 24.652798,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 279,
+      "nimi": "Neste Lataus Espoo Muurala",
+      "leveysaste": 60.214653,
+      "pituusaste": 24.652857,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 280,
+      "nimi": "Neste Lataus Kemi Lapintuuli",
+      "leveysaste": 65.69741,
+      "pituusaste": 24.677727,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 281,
+      "nimi": "Neste Lataus Kemi Lapintuuli",
+      "leveysaste": 65.697422,
+      "pituusaste": 24.677636,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 282,
+      "nimi": "Neste Lataus Kokkola Minimani",
+      "leveysaste": 63.836418,
+      "pituusaste": 23.112123,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 283,
+      "nimi": "Neste Lataus Orimattila Tuuliharja us",
+      "leveysaste": 60.82579,
+      "pituusaste": 25.527927,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 284,
+      "nimi": "Neste Lataus Paltamo Kontiomäki",
+      "leveysaste": 64.319293,
+      "pituusaste": 28.044218,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 285,
+      "nimi": "Neste Lataus Tornio Röyttäntie",
+      "leveysaste": 65.843776,
+      "pituusaste": 24.167407,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 286,
+      "nimi": "Neste Lataus Tornio Röyttäntie",
+      "leveysaste": 65.843812,
+      "pituusaste": 24.167452,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 287,
+      "nimi": "Neste MY Uusiutuva Lataus",
+      "leveysaste": 60.28573,
+      "pituusaste": 25.331236,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 288,
+      "nimi": "Neste Pudasjärvi charging station",
+      "leveysaste": 65.372019,
+      "pituusaste": 26.993527,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 289,
+      "nimi": "Neste-latausasema",
+      "leveysaste": 60.605104,
+      "pituusaste": 25.253287,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 290,
+      "nimi": "Neste-latausasema",
+      "leveysaste": 60.605122,
+      "pituusaste": 25.253308,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 291,
+      "nimi": "Nobil Charging Station",
+      "leveysaste": 62.605529,
+      "pituusaste": 23.734047,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 292,
+      "nimi": "Norra Strandgatan 12",
+      "leveysaste": 59.97791,
+      "pituusaste": 23.434164,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 293,
+      "nimi": "Nummelan lentokenttä",
+      "leveysaste": 60.334842,
+      "pituusaste": 24.298208,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 294,
+      "nimi": "Nurmes-talo",
+      "leveysaste": 63.54975,
+      "pituusaste": 29.126109,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 295,
+      "nimi": "OP Auramaa",
+      "leveysaste": 60.585179,
+      "pituusaste": 22.900824,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 296,
+      "nimi": "OP Raasepori Tammisaari",
+      "leveysaste": 59.97646,
+      "pituusaste": 23.43917,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 297,
+      "nimi": "PAF",
+      "leveysaste": 60.128219,
+      "pituusaste": 19.935328,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 298,
+      "nimi": "Pajarinhovi",
+      "leveysaste": 62.045317,
+      "pituusaste": 29.898355,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 299,
+      "nimi": "Paksuniemi",
+      "leveysaste": 62.331296,
+      "pituusaste": 29.631492,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 300,
+      "nimi": "Pellas Gästhem",
+      "leveysaste": 60.318107,
+      "pituusaste": 20.986486,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 301,
+      "nimi": "Peura keskinopea",
+      "leveysaste": 66.16149,
+      "pituusaste": 25.105504,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 302,
+      "nimi": "Pikalatausasema Pitkälahti ABC",
+      "leveysaste": 62.837097,
+      "pituusaste": 27.608365,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 303,
+      "nimi": "PlugIt P-Hämeenpuisto",
+      "leveysaste": 61.493146,
+      "pituusaste": 23.755065,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 304,
+      "nimi": "Plugit",
+      "leveysaste": 60.483854,
+      "pituusaste": 25.888557,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 305,
+      "nimi": "Plugit ABC Lapua",
+      "leveysaste": 62.974137,
+      "pituusaste": 23.024034,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 306,
+      "nimi": "Plugit Ilmatar Areena",
+      "leveysaste": 60.15865,
+      "pituusaste": 24.751141,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 307,
+      "nimi": "Plugit Lippulaiva",
+      "leveysaste": 60.149761,
+      "pituusaste": 24.655053,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 308,
+      "nimi": "Plugit Äkäshotelli",
+      "leveysaste": 67.604224,
+      "pituusaste": 24.171772,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 309,
+      "nimi": "Prisma Holma",
+      "leveysaste": 61.007453,
+      "pituusaste": 25.677981,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 310,
+      "nimi": "Pyhtää Supercharger",
+      "leveysaste": 60.489039,
+      "pituusaste": 26.554917,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 311,
+      "nimi": "Pyhäjärvi Supercharger",
+      "leveysaste": 63.715194,
+      "pituusaste": 25.920066,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 312,
+      "nimi": "Rajabaari",
+      "leveysaste": 68.449493,
+      "pituusaste": 22.482346,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 313,
+      "nimi": "Ramin Konditoria - Visulahti",
+      "leveysaste": 61.715734,
+      "pituusaste": 27.337482,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 314,
+      "nimi": "Ranta-kivi",
+      "leveysaste": 62.698881,
+      "pituusaste": 25.280728,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 315,
+      "nimi": "Rautalammin kunnantalo",
+      "leveysaste": 62.621099,
+      "pituusaste": 26.836722,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 316,
+      "nimi": "Recharge",
+      "leveysaste": 59.825763,
+      "pituusaste": 22.966155,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 317,
+      "nimi": "Recharge",
+      "leveysaste": 60.121698,
+      "pituusaste": 24.441224,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 318,
+      "nimi": "Recharge",
+      "leveysaste": 60.206117,
+      "pituusaste": 24.659939,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 319,
+      "nimi": "Recharge",
+      "leveysaste": 60.270317,
+      "pituusaste": 24.974327,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 320,
+      "nimi": "Recharge",
+      "leveysaste": 60.27417,
+      "pituusaste": 25.081638,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 321,
+      "nimi": "Recharge",
+      "leveysaste": 60.313288,
+      "pituusaste": 24.840044,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 322,
+      "nimi": "Recharge",
+      "leveysaste": 60.335425,
+      "pituusaste": 24.321079,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 323,
+      "nimi": "Recharge",
+      "leveysaste": 60.393168,
+      "pituusaste": 25.611491,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 324,
+      "nimi": "Recharge",
+      "leveysaste": 60.445732,
+      "pituusaste": 22.56851,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 325,
+      "nimi": "Recharge",
+      "leveysaste": 60.609456,
+      "pituusaste": 24.831402,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 326,
+      "nimi": "Recharge",
+      "leveysaste": 60.609462,
+      "pituusaste": 24.83142,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 327,
+      "nimi": "Recharge",
+      "leveysaste": 60.716063,
+      "pituusaste": 24.735791,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 328,
+      "nimi": "Recharge",
+      "leveysaste": 60.716074,
+      "pituusaste": 24.735789,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 329,
+      "nimi": "Recharge",
+      "leveysaste": 60.720572,
+      "pituusaste": 24.740705,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 330,
+      "nimi": "Recharge",
+      "leveysaste": 60.738485,
+      "pituusaste": 24.775033,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 331,
+      "nimi": "Recharge",
+      "leveysaste": 60.773472,
+      "pituusaste": 24.835856,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 332,
+      "nimi": "Recharge",
+      "leveysaste": 61.491214,
+      "pituusaste": 23.783899,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 333,
+      "nimi": "Recharge",
+      "leveysaste": 61.868561,
+      "pituusaste": 28.886135,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 334,
+      "nimi": "Recharge",
+      "leveysaste": 61.868863,
+      "pituusaste": 28.882414,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 335,
+      "nimi": "Recharge",
+      "leveysaste": 61.870361,
+      "pituusaste": 28.880122,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 336,
+      "nimi": "Recharge",
+      "leveysaste": 62.586343,
+      "pituusaste": 27.05074,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 337,
+      "nimi": "Recharge",
+      "leveysaste": 62.601277,
+      "pituusaste": 29.781512,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 338,
+      "nimi": "Recharge",
+      "leveysaste": 64.992443,
+      "pituusaste": 25.460524,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 339,
+      "nimi": "Recharge",
+      "leveysaste": 66.085552,
+      "pituusaste": 24.771262,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 340,
+      "nimi": "Recharge",
+      "leveysaste": 68.906749,
+      "pituusaste": 27.025737,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 341,
+      "nimi": "Recharge",
+      "leveysaste": 69.017354,
+      "pituusaste": 20.875103,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 342,
+      "nimi": "Recharge",
+      "leveysaste": 69.905802,
+      "pituusaste": 27.022492,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 343,
+      "nimi": "Recharge ABC Deli Pohjois-Tapiola",
+      "leveysaste": 60.185992,
+      "pituusaste": 24.807727,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 344,
+      "nimi": "Recharge ABC Nihtisilta",
+      "leveysaste": 60.207257,
+      "pituusaste": 24.750041,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 345,
+      "nimi": "Recharge Charging Station",
+      "leveysaste": 61.897359,
+      "pituusaste": 27.806125,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 346,
+      "nimi": "Recharge Charging Station",
+      "leveysaste": 62.602451,
+      "pituusaste": 23.727703,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 347,
+      "nimi": "Recharge Espoonlahden jäähalli",
+      "leveysaste": 60.147525,
+      "pituusaste": 24.66287,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 348,
+      "nimi": "Recharge Infra",
+      "leveysaste": 64.684641,
+      "pituusaste": 24.480428,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 349,
+      "nimi": "Recharge Leppävirta",
+      "leveysaste": 62.49088,
+      "pituusaste": 27.79217,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 350,
+      "nimi": "Recharge McDonald's Espoo Niittykumpu",
+      "leveysaste": 60.171397,
+      "pituusaste": 24.77832,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 351,
+      "nimi": "Recharge McDonald's Jyväskylä Palokka",
+      "leveysaste": 62.287841,
+      "pituusaste": 25.720051,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 352,
+      "nimi": "Recharge McDonald's Jyväskylä Tourula",
+      "leveysaste": 62.250992,
+      "pituusaste": 25.768588,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 353,
+      "nimi": "Recharge McDonald's Suomenoja",
+      "leveysaste": 60.161988,
+      "pituusaste": 24.711345,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 354,
+      "nimi": "Recharge Nokkalan vierasvenesatama",
+      "leveysaste": 60.148254,
+      "pituusaste": 24.753417,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 355,
+      "nimi": "Recharge SEO Pello",
+      "leveysaste": 66.77561,
+      "pituusaste": 23.965276,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 356,
+      "nimi": "Recharge latausasema",
+      "leveysaste": 61.802401,
+      "pituusaste": 29.294374,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 357,
+      "nimi": "Recharge latauspiste",
+      "leveysaste": 61.55644,
+      "pituusaste": 23.562101,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 358,
+      "nimi": "Recharge latauspiste",
+      "leveysaste": 62.592891,
+      "pituusaste": 23.609786,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 359,
+      "nimi": "Recharge latauspiste, ABC Oritupa",
+      "leveysaste": 61.671067,
+      "pituusaste": 24.285929,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 360,
+      "nimi": "RechargeVesileppis",
+      "leveysaste": 62.488527,
+      "pituusaste": 27.777158,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 361,
+      "nimi": "Rovaniemi keskinopea 2",
+      "leveysaste": 66.50198,
+      "pituusaste": 25.72257,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 362,
+      "nimi": "Ruohoparkki latausasema",
+      "leveysaste": 60.163938,
+      "pituusaste": 24.91788,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 363,
+      "nimi": "S-Market Jomala AC",
+      "leveysaste": 60.11371,
+      "pituusaste": 19.914889,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 364,
+      "nimi": "S-Market Majakkaranta",
+      "leveysaste": 60.429917,
+      "pituusaste": 22.239009,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 365,
+      "nimi": "Salo Supercharger",
+      "leveysaste": 60.418677,
+      "pituusaste": 23.162561,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 366,
+      "nimi": "Satamaparkki Länsiterminaali",
+      "leveysaste": 60.152328,
+      "pituusaste": 24.916351,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 367,
+      "nimi": "Scandic",
+      "leveysaste": 62.887332,
+      "pituusaste": 27.694748,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 368,
+      "nimi": "Sello charging points",
+      "leveysaste": 60.218307,
+      "pituusaste": 24.810518,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 369,
+      "nimi": "Sittkoffs Galleria",
+      "leveysaste": 60.09899,
+      "pituusaste": 19.942615,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 370,
+      "nimi": "Sjundeå Hälsostation",
+      "leveysaste": 60.136385,
+      "pituusaste": 24.231301,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 371,
+      "nimi": "Smakbyn",
+      "leveysaste": 60.231314,
+      "pituusaste": 20.085688,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 372,
+      "nimi": "Soljan lastentalo",
+      "leveysaste": 61.467443,
+      "pituusaste": 23.632314,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 373,
+      "nimi": "St1 Kokkola Vitsari",
+      "leveysaste": 63.851506,
+      "pituusaste": 23.203451,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 374,
+      "nimi": "St1 Lataus",
+      "leveysaste": 66.498188,
+      "pituusaste": 25.717081,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 375,
+      "nimi": "St1 Satashell Turku",
+      "leveysaste": 60.457583,
+      "pituusaste": 22.269404,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 376,
+      "nimi": "St1 Satashell Turku",
+      "leveysaste": 60.4576,
+      "pituusaste": 22.269413,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 377,
+      "nimi": "St1 Äänekoski",
+      "leveysaste": 62.515355,
+      "pituusaste": 25.690252,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 378,
+      "nimi": "Stallhagen",
+      "leveysaste": 60.240428,
+      "pituusaste": 19.963665,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 379,
+      "nimi": "Supercharger Levi",
+      "leveysaste": 67.785864,
+      "pituusaste": 24.818435,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 380,
+      "nimi": "Supercharger Paimio",
+      "leveysaste": 60.442977,
+      "pituusaste": 22.60559,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 381,
+      "nimi": "Supercharger Rovaniemi",
+      "leveysaste": 66.501853,
+      "pituusaste": 25.723153,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 382,
+      "nimi": "Supercharger Äänekoski",
+      "leveysaste": 62.51678,
+      "pituusaste": 25.691329,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 383,
+      "nimi": "Sähköautojen latausasema Myyrmäen liityntäpysäköinti, Punamultapolku",
+      "leveysaste": 60.259428,
+      "pituusaste": 24.85505,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 384,
+      "nimi": "Sähköautojen latauspaikka / Prisma Koivistonkylä",
+      "leveysaste": 61.468515,
+      "pituusaste": 23.778451,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 385,
+      "nimi": "Sähköauton latausasema",
+      "leveysaste": 62.803917,
+      "pituusaste": 23.507917,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 386,
+      "nimi": "Sähköauton latausasema",
+      "leveysaste": 65.012031,
+      "pituusaste": 25.468636,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 387,
+      "nimi": "Sähköauton latauspiste",
+      "leveysaste": 62.242145,
+      "pituusaste": 23.773878,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 388,
+      "nimi": "Sähköauton latauspiste",
+      "leveysaste": 63.524984,
+      "pituusaste": 24.664689,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 389,
+      "nimi": "Sähköauton latauspiste OP Järvi-Häme Sysmä",
+      "leveysaste": 61.501704,
+      "pituusaste": 25.686322,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 390,
+      "nimi": "Sähköauton latauspiste Sysmän Sotekeskus",
+      "leveysaste": 61.510498,
+      "pituusaste": 25.683531,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 391,
+      "nimi": "Sähköauton latauspiste, Tokmanni Virrat",
+      "leveysaste": 62.24075,
+      "pituusaste": 23.783208,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 392,
+      "nimi": "Sähköbussin latausasema",
+      "leveysaste": 60.250913,
+      "pituusaste": 24.849068,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 393,
+      "nimi": "Sähköpyörän latauspiste",
+      "leveysaste": 60.129178,
+      "pituusaste": 23.543004,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 394,
+      "nimi": "Sähköpyörän latauspiste",
+      "leveysaste": 60.130845,
+      "pituusaste": 23.551099,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 395,
+      "nimi": "Tammipiha",
+      "leveysaste": 63.097753,
+      "pituusaste": 21.617009,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 396,
+      "nimi": "Tapainlinnan koulu",
+      "leveysaste": 60.625889,
+      "pituusaste": 24.874889,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 397,
+      "nimi": "Tapainlinnan koulu",
+      "leveysaste": 60.625889,
+      "pituusaste": 24.874909,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 398,
+      "nimi": "Taskuparkki",
+      "leveysaste": 60.176818,
+      "pituusaste": 24.807354,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 399,
+      "nimi": "Tawast Golf",
+      "leveysaste": 60.998357,
+      "pituusaste": 24.525358,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 400,
+      "nimi": "Telakkaranta Parking",
+      "leveysaste": 60.159414,
+      "pituusaste": 24.931608,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 401,
+      "nimi": "Tesla",
+      "leveysaste": 60.270271,
+      "pituusaste": 24.878251,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 402,
+      "nimi": "Tesla",
+      "leveysaste": 61.556734,
+      "pituusaste": 23.562438,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 403,
+      "nimi": "Tesla Destination Charger",
+      "leveysaste": 60.156442,
+      "pituusaste": 24.921062,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 404,
+      "nimi": "Tesla Destination Charger",
+      "leveysaste": 61.511541,
+      "pituusaste": 23.773441,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 405,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 60.214498,
+      "pituusaste": 24.652897,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 406,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 60.214508,
+      "pituusaste": 24.652907,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 407,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 60.214641,
+      "pituusaste": 24.653081,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 408,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 60.214669,
+      "pituusaste": 24.653187,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 409,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 61.45166,
+      "pituusaste": 23.769847,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 410,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 62.214371,
+      "pituusaste": 25.7224,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 411,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 63.112498,
+      "pituusaste": 21.65644,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 412,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 66.808785,
+      "pituusaste": 23.996293,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 413,
+      "nimi": "Tesla Supercharger",
+      "leveysaste": 67.419869,
+      "pituusaste": 26.591171,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 414,
+      "nimi": "Tesla Supercharger Espoo IKEA",
+      "leveysaste": 60.216884,
+      "pituusaste": 24.665936,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 415,
+      "nimi": "Tesla Supercharger Inari",
+      "leveysaste": 68.906658,
+      "pituusaste": 27.025269,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 416,
+      "nimi": "Tesla Supercharger Lohja",
+      "leveysaste": 60.292637,
+      "pituusaste": 24.061906,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 417,
+      "nimi": "Tesla Övertorneå Supercharger",
+      "leveysaste": 66.3832,
+      "pituusaste": 23.655156,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 418,
+      "nimi": "Tiedepuisto",
+      "leveysaste": 62.598534,
+      "pituusaste": 29.74457,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 419,
+      "nimi": "Tokmanni Nurmijärvi",
+      "leveysaste": 60.466406,
+      "pituusaste": 24.806634,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 420,
+      "nimi": "Tunturikeskus Galdotieva",
+      "leveysaste": 68.570442,
+      "pituusaste": 23.335749,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 421,
+      "nimi": "Ukko-Pekka",
+      "leveysaste": 60.624141,
+      "pituusaste": 24.847523,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 422,
+      "nimi": "Ukko-Pekka",
+      "leveysaste": 60.624149,
+      "pituusaste": 24.847543,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 423,
+      "nimi": "VIRTA",
+      "leveysaste": 59.820826,
+      "pituusaste": 22.966476,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 424,
+      "nimi": "VIRTA",
+      "leveysaste": 59.831271,
+      "pituusaste": 22.990394,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 425,
+      "nimi": "VIRTA",
+      "leveysaste": 59.834237,
+      "pituusaste": 22.992682,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 426,
+      "nimi": "VIRTA",
+      "leveysaste": 59.909082,
+      "pituusaste": 23.295673,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 427,
+      "nimi": "VIRTA",
+      "leveysaste": 60.018983,
+      "pituusaste": 22.508533,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 428,
+      "nimi": "VIRTA",
+      "leveysaste": 60.100622,
+      "pituusaste": 19.941622,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 429,
+      "nimi": "VIRTA",
+      "leveysaste": 60.108861,
+      "pituusaste": 24.574057,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 430,
+      "nimi": "VIRTA",
+      "leveysaste": 60.126764,
+      "pituusaste": 23.537524,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 431,
+      "nimi": "VIRTA",
+      "leveysaste": 60.137574,
+      "pituusaste": 24.226251,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 432,
+      "nimi": "VIRTA",
+      "leveysaste": 60.160351,
+      "pituusaste": 24.739198,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 433,
+      "nimi": "VIRTA",
+      "leveysaste": 60.160488,
+      "pituusaste": 24.738819,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 434,
+      "nimi": "VIRTA",
+      "leveysaste": 60.160513,
+      "pituusaste": 24.738943,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 435,
+      "nimi": "VIRTA",
+      "leveysaste": 60.160767,
+      "pituusaste": 24.738281,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 436,
+      "nimi": "VIRTA",
+      "leveysaste": 60.168504,
+      "pituusaste": 24.765994,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 437,
+      "nimi": "VIRTA",
+      "leveysaste": 60.169434,
+      "pituusaste": 24.771271,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 438,
+      "nimi": "VIRTA",
+      "leveysaste": 60.170447,
+      "pituusaste": 24.773164,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 439,
+      "nimi": "VIRTA",
+      "leveysaste": 60.176741,
+      "pituusaste": 24.922763,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 440,
+      "nimi": "VIRTA",
+      "leveysaste": 60.188231,
+      "pituusaste": 24.975847,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 441,
+      "nimi": "VIRTA",
+      "leveysaste": 60.202904,
+      "pituusaste": 24.968906,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 442,
+      "nimi": "VIRTA",
+      "leveysaste": 60.203155,
+      "pituusaste": 24.961471,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 443,
+      "nimi": "VIRTA",
+      "leveysaste": 60.203795,
+      "pituusaste": 24.870708,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 444,
+      "nimi": "VIRTA",
+      "leveysaste": 60.20678,
+      "pituusaste": 25.145779,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 445,
+      "nimi": "VIRTA",
+      "leveysaste": 60.210599,
+      "pituusaste": 24.829181,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 446,
+      "nimi": "VIRTA",
+      "leveysaste": 60.211495,
+      "pituusaste": 24.654041,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 447,
+      "nimi": "VIRTA",
+      "leveysaste": 60.22122,
+      "pituusaste": 24.877734,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 448,
+      "nimi": "VIRTA",
+      "leveysaste": 60.221334,
+      "pituusaste": 24.876488,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 449,
+      "nimi": "VIRTA",
+      "leveysaste": 60.223569,
+      "pituusaste": 24.818127,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 450,
+      "nimi": "VIRTA",
+      "leveysaste": 60.240051,
+      "pituusaste": 24.850233,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 451,
+      "nimi": "VIRTA",
+      "leveysaste": 60.294148,
+      "pituusaste": 25.040984,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 452,
+      "nimi": "VIRTA",
+      "leveysaste": 60.392669,
+      "pituusaste": 25.665559,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 453,
+      "nimi": "VIRTA",
+      "leveysaste": 60.439165,
+      "pituusaste": 22.239814,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 454,
+      "nimi": "VIRTA",
+      "leveysaste": 60.44022,
+      "pituusaste": 22.227184,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 455,
+      "nimi": "VIRTA",
+      "leveysaste": 60.44023,
+      "pituusaste": 22.227184,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 456,
+      "nimi": "VIRTA",
+      "leveysaste": 60.443308,
+      "pituusaste": 22.354267,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 457,
+      "nimi": "VIRTA",
+      "leveysaste": 60.447452,
+      "pituusaste": 22.251159,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 458,
+      "nimi": "VIRTA",
+      "leveysaste": 60.452029,
+      "pituusaste": 22.293839,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 459,
+      "nimi": "VIRTA",
+      "leveysaste": 60.452132,
+      "pituusaste": 22.283382,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 460,
+      "nimi": "VIRTA",
+      "leveysaste": 60.452681,
+      "pituusaste": 22.261716,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 461,
+      "nimi": "VIRTA",
+      "leveysaste": 60.456438,
+      "pituusaste": 22.268145,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 462,
+      "nimi": "VIRTA",
+      "leveysaste": 60.463384,
+      "pituusaste": 22.265882,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 463,
+      "nimi": "VIRTA",
+      "leveysaste": 60.549436,
+      "pituusaste": 24.959146,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 464,
+      "nimi": "VIRTA",
+      "leveysaste": 60.549884,
+      "pituusaste": 24.962088,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 465,
+      "nimi": "VIRTA",
+      "leveysaste": 60.549945,
+      "pituusaste": 24.962383,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 466,
+      "nimi": "VIRTA",
+      "leveysaste": 60.558661,
+      "pituusaste": 24.973441,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 467,
+      "nimi": "VIRTA",
+      "leveysaste": 60.852379,
+      "pituusaste": 23.047967,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 468,
+      "nimi": "VIRTA",
+      "leveysaste": 60.995341,
+      "pituusaste": 24.449233,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 469,
+      "nimi": "VIRTA",
+      "leveysaste": 61.002652,
+      "pituusaste": 24.389488,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 470,
+      "nimi": "VIRTA",
+      "leveysaste": 61.005322,
+      "pituusaste": 25.663061,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 471,
+      "nimi": "VIRTA",
+      "leveysaste": 61.005345,
+      "pituusaste": 25.663074,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 472,
+      "nimi": "VIRTA",
+      "leveysaste": 61.005366,
+      "pituusaste": 25.663087,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 473,
+      "nimi": "VIRTA",
+      "leveysaste": 61.005386,
+      "pituusaste": 25.663099,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 474,
+      "nimi": "VIRTA",
+      "leveysaste": 61.00541,
+      "pituusaste": 25.663113,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 475,
+      "nimi": "VIRTA",
+      "leveysaste": 61.005431,
+      "pituusaste": 25.663125,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 476,
+      "nimi": "VIRTA",
+      "leveysaste": 61.059093,
+      "pituusaste": 28.184279,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 477,
+      "nimi": "VIRTA",
+      "leveysaste": 61.193704,
+      "pituusaste": 27.69759,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 478,
+      "nimi": "VIRTA",
+      "leveysaste": 61.196248,
+      "pituusaste": 27.695271,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 479,
+      "nimi": "VIRTA",
+      "leveysaste": 61.199236,
+      "pituusaste": 27.677488,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 480,
+      "nimi": "VIRTA",
+      "leveysaste": 61.308407,
+      "pituusaste": 23.751815,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 481,
+      "nimi": "VIRTA",
+      "leveysaste": 61.310485,
+      "pituusaste": 22.14532,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 482,
+      "nimi": "VIRTA",
+      "leveysaste": 61.310494,
+      "pituusaste": 22.145332,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 483,
+      "nimi": "VIRTA",
+      "leveysaste": 61.313364,
+      "pituusaste": 22.136619,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 484,
+      "nimi": "VIRTA",
+      "leveysaste": 61.313375,
+      "pituusaste": 22.136639,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 485,
+      "nimi": "VIRTA",
+      "leveysaste": 61.313857,
+      "pituusaste": 22.144148,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 486,
+      "nimi": "VIRTA",
+      "leveysaste": 61.314026,
+      "pituusaste": 22.145323,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 487,
+      "nimi": "VIRTA",
+      "leveysaste": 61.314033,
+      "pituusaste": 22.14533,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 488,
+      "nimi": "VIRTA",
+      "leveysaste": 61.315049,
+      "pituusaste": 22.148402,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 489,
+      "nimi": "VIRTA",
+      "leveysaste": 61.463789,
+      "pituusaste": 23.729942,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 490,
+      "nimi": "VIRTA",
+      "leveysaste": 61.466124,
+      "pituusaste": 23.644751,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 491,
+      "nimi": "VIRTA",
+      "leveysaste": 61.49179,
+      "pituusaste": 23.75217,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 492,
+      "nimi": "VIRTA",
+      "leveysaste": 61.495416,
+      "pituusaste": 21.799037,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 493,
+      "nimi": "VIRTA",
+      "leveysaste": 61.495504,
+      "pituusaste": 23.760378,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 494,
+      "nimi": "VIRTA",
+      "leveysaste": 61.495567,
+      "pituusaste": 23.78266,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 495,
+      "nimi": "VIRTA",
+      "leveysaste": 61.495609,
+      "pituusaste": 23.782657,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 496,
+      "nimi": "VIRTA",
+      "leveysaste": 61.495848,
+      "pituusaste": 23.780196,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 497,
+      "nimi": "VIRTA",
+      "leveysaste": 61.496504,
+      "pituusaste": 23.82277,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 498,
+      "nimi": "VIRTA",
+      "leveysaste": 61.498324,
+      "pituusaste": 23.806433,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 499,
+      "nimi": "VIRTA",
+      "leveysaste": 61.498477,
+      "pituusaste": 23.745615,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 500,
+      "nimi": "VIRTA",
+      "leveysaste": 61.503188,
+      "pituusaste": 23.760916,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 501,
+      "nimi": "VIRTA",
+      "leveysaste": 61.510743,
+      "pituusaste": 23.805582,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 502,
+      "nimi": "VIRTA",
+      "leveysaste": 61.513001,
+      "pituusaste": 23.778842,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 503,
+      "nimi": "VIRTA",
+      "leveysaste": 62.626458,
+      "pituusaste": 27.111854,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 504,
+      "nimi": "VIRTA",
+      "leveysaste": 62.627093,
+      "pituusaste": 27.111551,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 505,
+      "nimi": "VIRTA",
+      "leveysaste": 62.627122,
+      "pituusaste": 27.11163,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 506,
+      "nimi": "VIRTA",
+      "leveysaste": 62.627149,
+      "pituusaste": 27.111707,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 507,
+      "nimi": "VIRTA",
+      "leveysaste": 62.967639,
+      "pituusaste": 23.020345,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 508,
+      "nimi": "VIRTA",
+      "leveysaste": 62.973013,
+      "pituusaste": 23.009438,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 509,
+      "nimi": "VIRTA",
+      "leveysaste": 63.060801,
+      "pituusaste": 21.735202,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 510,
+      "nimi": "VIRTA",
+      "leveysaste": 63.060849,
+      "pituusaste": 21.734099,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 511,
+      "nimi": "VIRTA",
+      "leveysaste": 63.098226,
+      "pituusaste": 21.620243,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 512,
+      "nimi": "VIRTA",
+      "leveysaste": 63.100076,
+      "pituusaste": 21.610684,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 513,
+      "nimi": "VIRTA",
+      "leveysaste": 63.103141,
+      "pituusaste": 21.623569,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 514,
+      "nimi": "VIRTA",
+      "leveysaste": 63.122852,
+      "pituusaste": 21.701887,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 515,
+      "nimi": "VIRTA",
+      "leveysaste": 63.238822,
+      "pituusaste": 22.844347,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 516,
+      "nimi": "VIRTA",
+      "leveysaste": 63.829137,
+      "pituusaste": 23.148622,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 517,
+      "nimi": "VIRTA",
+      "leveysaste": 64.229838,
+      "pituusaste": 23.815529,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 518,
+      "nimi": "VIRTA",
+      "leveysaste": 64.99128,
+      "pituusaste": 25.468694,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 519,
+      "nimi": "VIRTA",
+      "leveysaste": 64.996035,
+      "pituusaste": 25.466413,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 520,
+      "nimi": "VIRTA",
+      "leveysaste": 66.489892,
+      "pituusaste": 25.686167,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 521,
+      "nimi": "VIRTA - Villatehdas - Kaupungintalo",
+      "leveysaste": 60.633517,
+      "pituusaste": 24.871015,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 522,
+      "nimi": "VIRTA - Villatehdas - Kaupungintalo",
+      "leveysaste": 60.633523,
+      "pituusaste": 24.871029,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 523,
+      "nimi": "VIRTA Charging Station",
+      "leveysaste": 60.404792,
+      "pituusaste": 25.100648,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 524,
+      "nimi": "VIRTA Charging Station",
+      "leveysaste": 62.603947,
+      "pituusaste": 25.720067,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 525,
+      "nimi": "Vantaa Supercharger",
+      "leveysaste": 60.277792,
+      "pituusaste": 25.082299,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 526,
+      "nimi": "Vehkojan koulu",
+      "leveysaste": 60.609412,
+      "pituusaste": 24.840153,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 527,
+      "nimi": "Vehkojan koulu",
+      "leveysaste": 60.609415,
+      "pituusaste": 24.840138,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 528,
+      "nimi": "Vierumäki Supercharger",
+      "leveysaste": 61.112392,
+      "pituusaste": 25.929833,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 529,
+      "nimi": "Villatehdas Business Park",
+      "leveysaste": 60.632229,
+      "pituusaste": 24.867571,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 530,
+      "nimi": "Villatehdas Business Park",
+      "leveysaste": 60.632235,
+      "pituusaste": 24.867599,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 531,
+      "nimi": "Virta",
+      "leveysaste": 60.13134,
+      "pituusaste": 23.546059,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 532,
+      "nimi": "Virta",
+      "leveysaste": 60.264827,
+      "pituusaste": 24.738817,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 533,
+      "nimi": "Virta",
+      "leveysaste": 60.718745,
+      "pituusaste": 24.740779,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 534,
+      "nimi": "Virta",
+      "leveysaste": 60.733906,
+      "pituusaste": 24.778403,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 535,
+      "nimi": "Virta",
+      "leveysaste": 60.752447,
+      "pituusaste": 24.73496,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 536,
+      "nimi": "Virta",
+      "leveysaste": 61.006064,
+      "pituusaste": 25.666967,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 537,
+      "nimi": "Virta",
+      "leveysaste": 61.006065,
+      "pituusaste": 25.667072,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 538,
+      "nimi": "Virta",
+      "leveysaste": 61.511539,
+      "pituusaste": 23.773338,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 539,
+      "nimi": "Virta",
+      "leveysaste": 64.685601,
+      "pituusaste": 24.481076,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 540,
+      "nimi": "Virta Global Charging Station",
+      "leveysaste": 60.278083,
+      "pituusaste": 24.853544,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 541,
+      "nimi": "Virta Global latauspiste",
+      "leveysaste": 63.477206,
+      "pituusaste": 23.799122,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 542,
+      "nimi": "Virta Kummunkatu",
+      "leveysaste": 62.726778,
+      "pituusaste": 29.013853,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 543,
+      "nimi": "Virta Vaasan Teatteriparkki",
+      "leveysaste": 63.095012,
+      "pituusaste": 21.622591,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 544,
+      "nimi": "Virta Vaasan Toriparkki",
+      "leveysaste": 63.096014,
+      "pituusaste": 21.614845,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 545,
+      "nimi": "Väre Joensuun Toriparkki",
+      "leveysaste": 62.60014,
+      "pituusaste": 29.761798,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 546,
+      "nimi": "Väre Sokos Hotel Bomba",
+      "leveysaste": 63.533444,
+      "pituusaste": 29.178996,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 547,
+      "nimi": "Wanha kauppalan talo",
+      "leveysaste": 63.544654,
+      "pituusaste": 29.133042,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 548,
+      "nimi": "Yliopistokatu 22kW",
+      "leveysaste": 65.059648,
+      "pituusaste": 25.473479,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 549,
+      "nimi": "eParking Tekniikkatie 4",
+      "leveysaste": 60.181348,
+      "pituusaste": 24.820902,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 550,
+      "nimi": "enersense",
+      "leveysaste": 65.289561,
+      "pituusaste": 25.375145,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 551,
+      "nimi": "motolataus",
+      "leveysaste": 64.958491,
+      "pituusaste": 25.506888,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 552,
+      "nimi": "paroalhon",
+      "leveysaste": 61.118763,
+      "pituusaste": 21.528309,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 553,
+      "nimi": "power",
+      "leveysaste": 62.711932,
+      "pituusaste": 26.881753,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    },
+    {
+      "id": 554,
+      "nimi": "Ålands Golfklubb",
+      "leveysaste": 60.225741,
+      "pituusaste": 20.067304,
+      "osm_avain": "amenity",
+      "osm_arvo": "charging_station",
+      "osm_luokka": "amenity=charging_station"
+    }
+  ],
+  "meta": {
+    "title": "Latausasemat – Suomi (OpenStreetMap) - Ilmainen lataus",
+    "description": "Latausasemat Suomessa — 554 nimettyä kohdetta, poimittu EU-POIS/FI-arkiston julkaisemista OpenStreetMap-tiiliruuduista (zoom-taso 12). Ositus on lähdeauktoritatiivinen `t`-sarakkeen varassa (OSM-tunniste `amenity=charging_station`), jolla on täsmälleen yksi arvo per rivi. Jokainen rivi säilyttää OSM:n nimen sellaisenaan sekä WGS84-koordinaatit (6 desimaalia). Mukana ovat vain nimetyt kohteet; nimettömät solmut eivät ole luettelomerkintöjä. Poistettuja täsmällisiä kaksoiskappaleita (nimi + koordinaatit): 11. Maakuntakohtaisia jakoja ei tuotettu: lähde ei sisällä yhtään hallinnollista attribuuttia, ja sen johtaminen vaatisi point-in-polygon-laskennan rajoilla, joita tämä arkisto ei toimita. Sisältää 554 tietuetta. Lataa Excel, CSV, PDF muodoissa.",
+    "seo_title": "Latausasemat – Suomi (OpenStreetMap) | ListBase",
+    "seo_description": "Lataa Latausasemat – Suomi (OpenStreetMap) — 554 tietuetta. Saatavilla Excel, CSV, PDF muodoissa.",
+    "key_takeaways": [
+      "Sisältää 554 tietuetta / 7 kenttää",
+      "Ilmainen lataus Excel, CSV ja PDF muodoissa",
+      "Tietolähde: open data"
+    ]
+  }
+}
