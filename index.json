@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:15.985Z",
-  "total_datasets": 486,
-  "total_records": 491334,
+  "generated": "2026-10-27T02:25:18.505Z",
+  "total_datasets": 487,
+  "total_records": 491446,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -7402,6 +7402,30 @@
         "xlsx": {
           "name": "fi-hallitsijat-ja-valtionpaamiehet_FI.xlsx",
           "size": 15921
+        }
+      }
+    },
+    {
+      "id": "fi-suomen-historian-sodat",
+      "name": "Suomen historian sodat ja konfliktit",
+      "category": "history",
+      "record_count": 112,
+      "columns": [
+        "vuosi",
+        "konflikti",
+        "selite"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_historian_sodista",
+      "updated": "2026-10",
+      "size": 48906,
+      "files": {
+        "csv": {
+          "name": "fi-suomen-historian-sodat_FI.csv",
+          "size": 40165
+        },
+        "xlsx": {
+          "name": "fi-suomen-historian-sodat_FI.xlsx",
+          "size": 23557
         }
       }
     },
