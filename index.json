@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:18.505Z",
-  "total_datasets": 487,
-  "total_records": 491446,
+  "generated": "2026-10-27T02:25:20.990Z",
+  "total_datasets": 488,
+  "total_records": 491475,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "food",
@@ -1914,6 +1914,29 @@
         "xlsx": {
           "name": "fi-pankkiautomaatit_FI.xlsx",
           "size": 15066
+        }
+      }
+    },
+    {
+      "id": "fi-suomen-pankin-paajohtajat",
+      "name": "Suomen Pankin pääjohtajat",
+      "category": "finance",
+      "record_count": 29,
+      "columns": [
+        "nimi",
+        "virassa"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_Pankin_pääjohtaja",
+      "updated": "2026-10",
+      "size": 3540,
+      "files": {
+        "csv": {
+          "name": "fi-suomen-pankin-paajohtajat_FI.csv",
+          "size": 989
+        },
+        "xlsx": {
+          "name": "fi-suomen-pankin-paajohtajat_FI.xlsx",
+          "size": 7575
         }
       }
     },
