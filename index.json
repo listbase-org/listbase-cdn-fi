@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:03.144Z",
-  "total_datasets": 481,
-  "total_records": 490928,
+  "generated": "2026-10-27T02:25:05.686Z",
+  "total_datasets": 482,
+  "total_records": 491005,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -7523,6 +7523,33 @@
         "xlsx": {
           "name": "fi-eduskuntavaalit-2023-tulos_FI.xlsx",
           "size": 8045
+        }
+      }
+    },
+    {
+      "id": "fi-paaministerit",
+      "name": "Suomen pääministerit ja hallitukset",
+      "category": "politics",
+      "record_count": 77,
+      "columns": [
+        "nimi",
+        "hallitus",
+        "alkoi",
+        "paattyi",
+        "puolue",
+        "nimittaja"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_pääministereistä",
+      "updated": "2026-10",
+      "size": 20679,
+      "files": {
+        "csv": {
+          "name": "fi-paaministerit_FI.csv",
+          "size": 9994
+        },
+        "xlsx": {
+          "name": "fi-paaministerit_FI.xlsx",
+          "size": 10748
         }
       }
     },
