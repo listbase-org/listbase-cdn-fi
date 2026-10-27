@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:42.747Z",
-  "total_datasets": 473,
-  "total_records": 490504,
+  "generated": "2026-10-27T02:24:45.300Z",
+  "total_datasets": 474,
+  "total_records": 490546,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 21
+      "dataset_count": 22
     },
     {
       "id": "education",
@@ -103,6 +103,32 @@
         "xlsx": {
           "name": "fi-elokuvateatterit_FI.xlsx",
           "size": 11332
+        }
+      }
+    },
+    {
+      "id": "fi-finlandia-palkinto",
+      "name": "Finlandia-palkinnon voittajat",
+      "category": "culture",
+      "record_count": 42,
+      "columns": [
+        "vuosi",
+        "kirjailija",
+        "kirja",
+        "valitsija",
+        "kieli"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Finlandia-palkinto",
+      "updated": "2026-10",
+      "size": 9158,
+      "files": {
+        "csv": {
+          "name": "fi-finlandia-palkinto_FI.csv",
+          "size": 3561
+        },
+        "xlsx": {
+          "name": "fi-finlandia-palkinto_FI.xlsx",
+          "size": 9380
         }
       }
     },
