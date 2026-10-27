@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:20.990Z",
-  "total_datasets": 488,
-  "total_records": 491475,
+  "generated": "2026-10-27T02:25:23.498Z",
+  "total_datasets": 489,
+  "total_records": 491580,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1224,6 +1224,37 @@
         "xlsx": {
           "name": "fi-kunnallisveron-muutokset_FI.xlsx",
           "size": 7184
+        }
+      }
+    },
+    {
+      "id": "fi-suurimmat-yritykset-liikevaihto",
+      "name": "Suomen suurimmat yritykset liikevaihdon mukaan",
+      "category": "economy",
+      "record_count": 105,
+      "columns": [
+        "yritys",
+        "sijoitus_2013",
+        "liikevaihto_milj_eur_2013",
+        "liikevaihto_milj_eur_2011",
+        "liikevaihto_milj_eur_2010",
+        "liikevaihto_milj_eur_2009",
+        "liikevaihto_milj_eur_2008",
+        "liikevaihto_milj_eur_2007",
+        "liikevaihto_milj_eur_2006",
+        "liikevaihto_milj_eur_2005"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomalaisista_yrityksistä_liikevaihdon_mukaan",
+      "updated": "2026-10",
+      "size": 43885,
+      "files": {
+        "csv": {
+          "name": "fi-suurimmat-yritykset-liikevaihto_FI.csv",
+          "size": 7285
+        },
+        "xlsx": {
+          "name": "fi-suurimmat-yritykset-liikevaihto_FI.xlsx",
+          "size": 13271
         }
       }
     },
