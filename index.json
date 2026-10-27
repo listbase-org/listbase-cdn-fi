@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:13.614Z",
-  "total_datasets": 485,
-  "total_records": 491230,
+  "generated": "2026-10-27T02:25:15.985Z",
+  "total_datasets": 486,
+  "total_records": 491334,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -7478,6 +7478,33 @@
         "xlsx": {
           "name": "fi-euroviisuedustajat_FI.xlsx",
           "size": 22162
+        }
+      }
+    },
+    {
+      "id": "fi-singlelistan-ykkoset-2023-2025",
+      "name": "Suomen virallisen singlelistan ykköset 2023–2025",
+      "category": "music",
+      "record_count": 104,
+      "columns": [
+        "vuosi",
+        "viikko",
+        "artisti",
+        "single",
+        "radio_artisti",
+        "radio_kappale"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_virallisen_singlelistan_ykkösistä_vuonna_2024",
+      "updated": "2026-10",
+      "size": 23637,
+      "files": {
+        "csv": {
+          "name": "fi-singlelistan-ykkoset-2023-2025_FI.csv",
+          "size": 8896
+        },
+        "xlsx": {
+          "name": "fi-singlelistan-ykkoset-2023-2025_FI.xlsx",
+          "size": 10220
         }
       }
     },
