@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:05.686Z",
-  "total_datasets": 482,
-  "total_records": 491005,
+  "generated": "2026-10-27T02:25:08.519Z",
+  "total_datasets": 483,
+  "total_records": 491014,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -7612,6 +7612,36 @@
         "xlsx": {
           "name": "fi-presidentit_FI.xlsx",
           "size": 9144
+        }
+      }
+    },
+    {
+      "id": "fi-puolueet-eduskunta",
+      "name": "Eduskuntapuolueet",
+      "category": "politics",
+      "record_count": 9,
+      "columns": [
+        "nimi",
+        "lyhenne",
+        "rekisteroity",
+        "puheenjohtaja",
+        "asemointi",
+        "ideologia",
+        "eduskunta",
+        "kunnanvaltuusto",
+        "aluevaltuustot"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_puolueista",
+      "updated": "2026-10",
+      "size": 5069,
+      "files": {
+        "csv": {
+          "name": "fi-puolueet-eduskunta_FI.csv",
+          "size": 1486
+        },
+        "xlsx": {
+          "name": "fi-puolueet-eduskunta_FI.xlsx",
+          "size": 7746
         }
       }
     },
