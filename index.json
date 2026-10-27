@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:34.507Z",
-  "total_datasets": 470,
-  "total_records": 490127,
+  "generated": "2026-10-27T02:24:37.187Z",
+  "total_datasets": 471,
+  "total_records": 490137,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -7242,6 +7242,33 @@
         "xlsx": {
           "name": "fi-eduskunnan-puhemiehet_FI.xlsx",
           "size": 9628
+        }
+      }
+    },
+    {
+      "id": "fi-eduskuntavaalit-2023-aanikuninkaat",
+      "name": "Eduskuntavaalit 2023 — eniten ääniä saaneet ehdokkaat",
+      "category": "politics",
+      "record_count": 10,
+      "columns": [
+        "sija",
+        "ehdokas",
+        "puolue",
+        "aania",
+        "vaalipiiri",
+        "osuus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Eduskuntavaalit_2023",
+      "updated": "2026-10",
+      "size": 3571,
+      "files": {
+        "csv": {
+          "name": "fi-eduskuntavaalit-2023-aanikuninkaat_FI.csv",
+          "size": 742
+        },
+        "xlsx": {
+          "name": "fi-eduskuntavaalit-2023-aanikuninkaat_FI.xlsx",
+          "size": 7347
         }
       }
     },
