@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:55.740Z",
-  "total_datasets": 478,
-  "total_records": 490771,
+  "generated": "2026-10-27T02:24:58.085Z",
+  "total_datasets": 479,
+  "total_records": 490782,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -11217,6 +11217,31 @@
         "xlsx": {
           "name": "fi-elainlaakarit_FI.xlsx",
           "size": 14271
+        }
+      }
+    },
+    {
+      "id": "fi-millennium-teknologiapalkinto",
+      "name": "Millennium-teknologiapalkinnon saajat",
+      "category": "science",
+      "record_count": 11,
+      "columns": [
+        "vuosi",
+        "keksija",
+        "kansallisuus",
+        "innovaatio"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Millennium-teknologiapalkinto",
+      "updated": "2026-10",
+      "size": 3398,
+      "files": {
+        "csv": {
+          "name": "fi-millennium-teknologiapalkinto_FI.csv",
+          "size": 926
+        },
+        "xlsx": {
+          "name": "fi-millennium-teknologiapalkinto_FI.xlsx",
+          "size": 7436
         }
       }
     },
