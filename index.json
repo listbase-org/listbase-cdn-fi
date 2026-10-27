@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:53.211Z",
-  "total_datasets": 477,
-  "total_records": 490757,
+  "generated": "2026-10-27T02:24:55.740Z",
+  "total_datasets": 478,
+  "total_records": 490771,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1159,6 +1159,32 @@
         "xlsx": {
           "name": "fi-kunnallisvero-keskimaarin_FI.xlsx",
           "size": 6862
+        }
+      }
+    },
+    {
+      "id": "fi-kunnallisveron-muutokset",
+      "name": "Kunnallisveroprosentin nostaneet ja laskeneet kunnat",
+      "category": "economy",
+      "record_count": 14,
+      "columns": [
+        "vuosi",
+        "nostaneet_kpl",
+        "laskeneet_kpl",
+        "kuntien_maara",
+        "nostaneet_pct"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Kunnallisvero_(Suomi)",
+      "updated": "2026-10",
+      "size": 3763,
+      "files": {
+        "csv": {
+          "name": "fi-kunnallisveron-muutokset_FI.csv",
+          "size": 513
+        },
+        "xlsx": {
+          "name": "fi-kunnallisveron-muutokset_FI.xlsx",
+          "size": 7184
         }
       }
     },
