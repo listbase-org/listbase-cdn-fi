@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:50.595Z",
-  "total_datasets": 476,
-  "total_records": 490750,
+  "generated": "2026-10-27T02:24:53.211Z",
+  "total_datasets": 477,
+  "total_records": 490757,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 22
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1130,6 +1134,31 @@
         "xlsx": {
           "name": "fi-yhteisotalot_FI.xlsx",
           "size": 50682
+        }
+      }
+    },
+    {
+      "id": "fi-kunnallisvero-keskimaarin",
+      "name": "Kunnallisveroprosentit Suomessa (keskimäärin, alin, ylin)",
+      "category": "economy",
+      "record_count": 7,
+      "columns": [
+        "vuosi",
+        "keskimaarin",
+        "alin",
+        "ylin"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Kunnallisvero_(Suomi)",
+      "updated": "2026-10",
+      "size": 2305,
+      "files": {
+        "csv": {
+          "name": "fi-kunnallisvero-keskimaarin_FI.csv",
+          "size": 229
+        },
+        "xlsx": {
+          "name": "fi-kunnallisvero-keskimaarin_FI.xlsx",
+          "size": 6862
         }
       }
     },
