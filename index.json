@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:11.208Z",
-  "total_datasets": 484,
-  "total_records": 491124,
+  "generated": "2026-10-27T02:25:13.614Z",
+  "total_datasets": 485,
+  "total_records": 491230,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -146,6 +146,41 @@
         "xlsx": {
           "name": "fi-kotielainten-lukumaara-1920-alkaen_FI.xlsx",
           "size": 19123
+        }
+      }
+    },
+    {
+      "id": "fi-sato-1920-alkaen",
+      "name": "Viljelykasvien sato Suomessa vuodesta 1920 (milj. kg)",
+      "category": "agriculture",
+      "record_count": 106,
+      "columns": [
+        "vuosi",
+        "vehna_milj_kg",
+        "ruis_milj_kg",
+        "ohra_milj_kg",
+        "kaura_milj_kg",
+        "peruna_milj_kg",
+        "sokerijuurikas_milj_kg",
+        "rypsi_milj_kg",
+        "rapsi_milj_kg",
+        "herne_milj_kg",
+        "harkapapu_milj_kg",
+        "kumina_milj_kg",
+        "kuivaheina_milj_kg",
+        "sailorehu_milj_kg"
+      ],
+      "source": "https://statdb.luke.fi/PxWeb/api/v1/fi/LUKE/maa/sattil/0400_sattil.px",
+      "updated": "2026-10",
+      "size": 48686,
+      "files": {
+        "csv": {
+          "name": "fi-sato-1920-alkaen_FI.csv",
+          "size": 10114
+        },
+        "xlsx": {
+          "name": "fi-sato-1920-alkaen_FI.xlsx",
+          "size": 14618
         }
       }
     },
