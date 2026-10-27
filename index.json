@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:28.136Z",
-  "total_datasets": 491,
-  "total_records": 491759,
+  "generated": "2026-10-27T02:25:30.449Z",
+  "total_datasets": 492,
+  "total_records": 492553,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -185,6 +185,32 @@
         "xlsx": {
           "name": "fi-sato-1920-alkaen_FI.xlsx",
           "size": 14618
+        }
+      }
+    },
+    {
+      "id": "fi-viljelykasvien-sato-maakunnittain-2025",
+      "name": "Viljelykasvien sato maakunnittain 2025",
+      "category": "agriculture",
+      "record_count": 794,
+      "columns": [
+        "maakunta",
+        "laji",
+        "sato_milj_kg",
+        "hehtaarisato_kg_ha",
+        "viljelyala_1000_ha"
+      ],
+      "source": "https://statdb.luke.fi/PxWeb/api/v1/fi/LUKE/maa/sattil/0200_sattil.px",
+      "updated": "2026-10",
+      "size": 136381,
+      "files": {
+        "csv": {
+          "name": "fi-viljelykasvien-sato-maakunnittain-2025_FI.csv",
+          "size": 38098
+        },
+        "xlsx": {
+          "name": "fi-viljelykasvien-sato-maakunnittain-2025_FI.xlsx",
+          "size": 26133
         }
       }
     },

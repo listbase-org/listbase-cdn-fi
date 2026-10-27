@@ -1,0 +1,5609 @@
+{
+  "id": "fi-viljelykasvien-sato-maakunnittain-2025",
+  "name": "Viljelykasvien sato maakunnittain 2025",
+  "title": "Viljelykasvien sato maakunnittain 2025",
+  "description": "Viljelykasvien sato, hehtaarisato ja viljelyala maakunnittain Suomessa vuonna 2025. Lähde: Luonnonvarakeskus (Luke).",
+  "category": "agriculture",
+  "source": "https://statdb.luke.fi/PxWeb/api/v1/fi/LUKE/maa/sattil/0200_sattil.px",
+  "source_url": "https://statdb.luke.fi/PxWeb/api/v1/fi/LUKE/maa/sattil/0200_sattil.px",
+  "updated": "2026-10",
+  "record_count": 794,
+  "columns": [
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "laji",
+      "label": "Laji",
+      "type": "string"
+    },
+    {
+      "key": "sato_milj_kg",
+      "label": "Sato Milj Kg",
+      "type": "number"
+    },
+    {
+      "key": "hehtaarisato_kg_ha",
+      "label": "Hehtaarisato Kg Ha",
+      "type": "number"
+    },
+    {
+      "key": "viljelyala_1000_ha",
+      "label": "Viljelyala 1000 Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 975.2,
+      "hehtaarisato_kg_ha": 4400,
+      "viljelyala_1000_ha": 221.8
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 372.2,
+      "hehtaarisato_kg_ha": 5280,
+      "viljelyala_1000_ha": 70.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 603.1,
+      "hehtaarisato_kg_ha": 3980,
+      "viljelyala_1000_ha": 151.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 35,
+      "hehtaarisato_kg_ha": 4900,
+      "viljelyala_1000_ha": 7.2
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Ruis",
+      "sato_milj_kg": 84.8,
+      "hehtaarisato_kg_ha": 4100,
+      "viljelyala_1000_ha": 20.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 1214.3,
+      "hehtaarisato_kg_ha": 3810,
+      "viljelyala_1000_ha": 318.6
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 997.5,
+      "hehtaarisato_kg_ha": 3790,
+      "viljelyala_1000_ha": 262.9
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 211.2,
+      "hehtaarisato_kg_ha": 3880,
+      "viljelyala_1000_ha": 54.5
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Syysohra",
+      "sato_milj_kg": 5.5,
+      "hehtaarisato_kg_ha": 4450,
+      "viljelyala_1000_ha": 1.3
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Kaura",
+      "sato_milj_kg": 1127.3,
+      "hehtaarisato_kg_ha": 3720,
+      "viljelyala_1000_ha": 303.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Tattari",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": 490,
+      "viljelyala_1000_ha": 2.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 61.1,
+      "hehtaarisato_kg_ha": 1080,
+      "viljelyala_1000_ha": 56.6
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 41.9,
+      "hehtaarisato_kg_ha": 920,
+      "viljelyala_1000_ha": 45.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 38,
+      "hehtaarisato_kg_ha": 910,
+      "viljelyala_1000_ha": 41.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 3.9,
+      "hehtaarisato_kg_ha": 1040,
+      "viljelyala_1000_ha": 3.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 19.2,
+      "hehtaarisato_kg_ha": 1710,
+      "viljelyala_1000_ha": 11.2
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 16.2,
+      "hehtaarisato_kg_ha": 1590,
+      "viljelyala_1000_ha": 10.2
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 3,
+      "hehtaarisato_kg_ha": 3030,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 770,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": 500,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Kumina",
+      "sato_milj_kg": 9.2,
+      "hehtaarisato_kg_ha": 730,
+      "viljelyala_1000_ha": 12.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 551,
+      "hehtaarisato_kg_ha": 29470,
+      "viljelyala_1000_ha": 18.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 245.4,
+      "hehtaarisato_kg_ha": 29990,
+      "viljelyala_1000_ha": 8.2
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 11.1,
+      "hehtaarisato_kg_ha": 16080,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 93,
+      "hehtaarisato_kg_ha": 33840,
+      "viljelyala_1000_ha": 2.8
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 153.3,
+      "hehtaarisato_kg_ha": 28160,
+      "viljelyala_1000_ha": 5.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 48.2,
+      "hehtaarisato_kg_ha": 29540,
+      "viljelyala_1000_ha": 1.6
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 684.5,
+      "hehtaarisato_kg_ha": 42250,
+      "viljelyala_1000_ha": 16.2
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Herne",
+      "sato_milj_kg": 91.4,
+      "hehtaarisato_kg_ha": 2150,
+      "viljelyala_1000_ha": 42.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 9.7,
+      "hehtaarisato_kg_ha": 1710,
+      "viljelyala_1000_ha": 5.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 81.8,
+      "hehtaarisato_kg_ha": 2220,
+      "viljelyala_1000_ha": 36.8
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 5.6,
+      "hehtaarisato_kg_ha": 2560,
+      "viljelyala_1000_ha": 2.2
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 12.8,
+      "hehtaarisato_kg_ha": 2040,
+      "viljelyala_1000_ha": 6.3
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Härkäpapu, säilörehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": 900,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 2.5,
+      "hehtaarisato_kg_ha": 450,
+      "viljelyala_1000_ha": 5.7
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 282,
+      "hehtaarisato_kg_ha": 3140,
+      "viljelyala_1000_ha": 89.9
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 2483.2,
+      "hehtaarisato_kg_ha": 5250,
+      "viljelyala_1000_ha": 473.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 2342.2,
+      "hehtaarisato_kg_ha": 5280,
+      "viljelyala_1000_ha": 443.6
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 141,
+      "hehtaarisato_kg_ha": 4730,
+      "viljelyala_1000_ha": 29.8
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 5.2,
+      "hehtaarisato_kg_ha": 2730,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 363.9,
+      "hehtaarisato_kg_ha": 3230,
+      "viljelyala_1000_ha": 112.8
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 60,
+      "hehtaarisato_kg_ha": 2810,
+      "viljelyala_1000_ha": 21.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 303.9,
+      "hehtaarisato_kg_ha": 3320,
+      "viljelyala_1000_ha": 91.4
+    },
+    {
+      "maakunta": "KOKO MAA",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 33.9,
+      "hehtaarisato_kg_ha": 2210,
+      "viljelyala_1000_ha": 15.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 171.1,
+      "hehtaarisato_kg_ha": 4360,
+      "viljelyala_1000_ha": 39.2
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 80.9,
+      "hehtaarisato_kg_ha": 5420,
+      "viljelyala_1000_ha": 14.9
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 90.2,
+      "hehtaarisato_kg_ha": 3710,
+      "viljelyala_1000_ha": 24.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 5.7,
+      "hehtaarisato_kg_ha": 6270,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Ruis",
+      "sato_milj_kg": 15.1,
+      "hehtaarisato_kg_ha": 3560,
+      "viljelyala_1000_ha": 4.2
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 61.7,
+      "hehtaarisato_kg_ha": 3600,
+      "viljelyala_1000_ha": 17.1
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 25.8,
+      "hehtaarisato_kg_ha": 3380,
+      "viljelyala_1000_ha": 7.6
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 35.1,
+      "hehtaarisato_kg_ha": 3760,
+      "viljelyala_1000_ha": 9.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Kaura",
+      "sato_milj_kg": 101.9,
+      "hehtaarisato_kg_ha": 3730,
+      "viljelyala_1000_ha": 27.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Tattari",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 6.9,
+      "hehtaarisato_kg_ha": 1180,
+      "viljelyala_1000_ha": 5.8
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 1.9,
+      "hehtaarisato_kg_ha": 560,
+      "viljelyala_1000_ha": 3.4
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": 490,
+      "viljelyala_1000_ha": 2.9
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 910,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 5,
+      "hehtaarisato_kg_ha": 2060,
+      "viljelyala_1000_ha": 2.4
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 3.9,
+      "hehtaarisato_kg_ha": 1840,
+      "viljelyala_1000_ha": 2.1
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 3520,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 390,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Kumina",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 710,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 2.2,
+      "hehtaarisato_kg_ha": 16570,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 15990,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 17.1,
+      "hehtaarisato_kg_ha": 40780,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Herne",
+      "sato_milj_kg": 12,
+      "hehtaarisato_kg_ha": 1740,
+      "viljelyala_1000_ha": 6.9
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 2.2,
+      "hehtaarisato_kg_ha": 1410,
+      "viljelyala_1000_ha": 1.6
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 9.8,
+      "hehtaarisato_kg_ha": 1830,
+      "viljelyala_1000_ha": 5.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 1540,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 10.3,
+      "hehtaarisato_kg_ha": 2190,
+      "viljelyala_1000_ha": 4.7
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 76.1,
+      "hehtaarisato_kg_ha": 5000,
+      "viljelyala_1000_ha": 15.2
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 70.1,
+      "hehtaarisato_kg_ha": 5120,
+      "viljelyala_1000_ha": 13.7
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 5.9,
+      "hehtaarisato_kg_ha": 3940,
+      "viljelyala_1000_ha": 1.5
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 1980,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 5.2,
+      "hehtaarisato_kg_ha": 3030,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 3920,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 3.5,
+      "hehtaarisato_kg_ha": 2730,
+      "viljelyala_1000_ha": 1.3
+    },
+    {
+      "maakunta": "Uusimaa",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 2220,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 305,
+      "hehtaarisato_kg_ha": 4610,
+      "viljelyala_1000_ha": 66.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 132.9,
+      "hehtaarisato_kg_ha": 5260,
+      "viljelyala_1000_ha": 25.3
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 172,
+      "hehtaarisato_kg_ha": 4210,
+      "viljelyala_1000_ha": 40.9
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 11.2,
+      "hehtaarisato_kg_ha": 5320,
+      "viljelyala_1000_ha": 2.1
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Ruis",
+      "sato_milj_kg": 25.7,
+      "hehtaarisato_kg_ha": 4320,
+      "viljelyala_1000_ha": 6
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 175.3,
+      "hehtaarisato_kg_ha": 3860,
+      "viljelyala_1000_ha": 45.4
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 124.8,
+      "hehtaarisato_kg_ha": 3900,
+      "viljelyala_1000_ha": 32
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 48.2,
+      "hehtaarisato_kg_ha": 3710,
+      "viljelyala_1000_ha": 13
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Syysohra",
+      "sato_milj_kg": 2.3,
+      "hehtaarisato_kg_ha": 5150,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Kaura",
+      "sato_milj_kg": 205.7,
+      "hehtaarisato_kg_ha": 4080,
+      "viljelyala_1000_ha": 50.5
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Tattari",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 11.2,
+      "hehtaarisato_kg_ha": 1190,
+      "viljelyala_1000_ha": 9.4
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 4.2,
+      "hehtaarisato_kg_ha": 810,
+      "viljelyala_1000_ha": 5.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 3.5,
+      "hehtaarisato_kg_ha": 770,
+      "viljelyala_1000_ha": 4.6
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 1130,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 6.9,
+      "hehtaarisato_kg_ha": 1660,
+      "viljelyala_1000_ha": 4.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 5.7,
+      "hehtaarisato_kg_ha": 1510,
+      "viljelyala_1000_ha": 3.7
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": 2840,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 820,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 560,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Kumina",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 740,
+      "viljelyala_1000_ha": 1.5
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 34,
+      "hehtaarisato_kg_ha": 21280,
+      "viljelyala_1000_ha": 1.6
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 21.7,
+      "hehtaarisato_kg_ha": 25180,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 7.8,
+      "hehtaarisato_kg_ha": 15210,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 3.4,
+      "hehtaarisato_kg_ha": 21450,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 15100,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 278.1,
+      "hehtaarisato_kg_ha": 45000,
+      "viljelyala_1000_ha": 6.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Herne",
+      "sato_milj_kg": 17.8,
+      "hehtaarisato_kg_ha": 2050,
+      "viljelyala_1000_ha": 8.7
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 3.8,
+      "hehtaarisato_kg_ha": 2130,
+      "viljelyala_1000_ha": 1.8
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 14,
+      "hehtaarisato_kg_ha": 2030,
+      "viljelyala_1000_ha": 6.9
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 5.7,
+      "hehtaarisato_kg_ha": 2390,
+      "viljelyala_1000_ha": 2.4
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Härkäpapu, säilörehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 510,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 14.8,
+      "hehtaarisato_kg_ha": 4160,
+      "viljelyala_1000_ha": 3.6
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 135.7,
+      "hehtaarisato_kg_ha": 6050,
+      "viljelyala_1000_ha": 22.4
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 132.6,
+      "hehtaarisato_kg_ha": 6070,
+      "viljelyala_1000_ha": 21.8
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 3.1,
+      "hehtaarisato_kg_ha": 5250,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 4160,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 18.2,
+      "hehtaarisato_kg_ha": 3870,
+      "viljelyala_1000_ha": 4.7
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 3260,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 17.4,
+      "hehtaarisato_kg_ha": 3910,
+      "viljelyala_1000_ha": 4.5
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 3,
+      "hehtaarisato_kg_ha": 6010,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 91.7,
+      "hehtaarisato_kg_ha": 4550,
+      "viljelyala_1000_ha": 20.2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 22.4,
+      "hehtaarisato_kg_ha": 5330,
+      "viljelyala_1000_ha": 4.2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 69.4,
+      "hehtaarisato_kg_ha": 4340,
+      "viljelyala_1000_ha": 16
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 2.7,
+      "hehtaarisato_kg_ha": 5660,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Ruis",
+      "sato_milj_kg": 10.1,
+      "hehtaarisato_kg_ha": 5720,
+      "viljelyala_1000_ha": 1.8
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 96.8,
+      "hehtaarisato_kg_ha": 3830,
+      "viljelyala_1000_ha": 25.3
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 78.4,
+      "hehtaarisato_kg_ha": 3710,
+      "viljelyala_1000_ha": 21.2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 17.8,
+      "hehtaarisato_kg_ha": 4470,
+      "viljelyala_1000_ha": 4
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 3490,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Kaura",
+      "sato_milj_kg": 110.5,
+      "hehtaarisato_kg_ha": 3920,
+      "viljelyala_1000_ha": 28.2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 3.5,
+      "hehtaarisato_kg_ha": 1280,
+      "viljelyala_1000_ha": 2.7
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 2.1,
+      "hehtaarisato_kg_ha": 1050,
+      "viljelyala_1000_ha": 2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 2.1,
+      "hehtaarisato_kg_ha": 1060,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": 1940,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": 1900,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 560,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 770,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 89.3,
+      "hehtaarisato_kg_ha": 29320,
+      "viljelyala_1000_ha": 3.1
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 7.8,
+      "hehtaarisato_kg_ha": 28510,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 9.7,
+      "hehtaarisato_kg_ha": 30140,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 66.3,
+      "hehtaarisato_kg_ha": 30230,
+      "viljelyala_1000_ha": 2.2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 5.5,
+      "hehtaarisato_kg_ha": 22130,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 187.2,
+      "hehtaarisato_kg_ha": 40600,
+      "viljelyala_1000_ha": 4.6
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Herne",
+      "sato_milj_kg": 4.8,
+      "hehtaarisato_kg_ha": 2460,
+      "viljelyala_1000_ha": 2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 2690,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 4.4,
+      "hehtaarisato_kg_ha": 2440,
+      "viljelyala_1000_ha": 1.8
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 1710,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 7.2,
+      "hehtaarisato_kg_ha": 2520,
+      "viljelyala_1000_ha": 2.9
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 70,
+      "hehtaarisato_kg_ha": 4570,
+      "viljelyala_1000_ha": 15.3
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 66.5,
+      "hehtaarisato_kg_ha": 4600,
+      "viljelyala_1000_ha": 14.5
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 3.5,
+      "hehtaarisato_kg_ha": 4160,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 6640,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 12.3,
+      "hehtaarisato_kg_ha": 2750,
+      "viljelyala_1000_ha": 4.5
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 2310,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 10.7,
+      "hehtaarisato_kg_ha": 2830,
+      "viljelyala_1000_ha": 3.8
+    },
+    {
+      "maakunta": "Satakunta",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": 1960,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 59.6,
+      "hehtaarisato_kg_ha": 4320,
+      "viljelyala_1000_ha": 13.8
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 26.6,
+      "hehtaarisato_kg_ha": 5450,
+      "viljelyala_1000_ha": 4.9
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 33,
+      "hehtaarisato_kg_ha": 3710,
+      "viljelyala_1000_ha": 8.9
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 6000,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Ruis",
+      "sato_milj_kg": 6.4,
+      "hehtaarisato_kg_ha": 4710,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 71,
+      "hehtaarisato_kg_ha": 3610,
+      "viljelyala_1000_ha": 19.7
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 31,
+      "hehtaarisato_kg_ha": 3020,
+      "viljelyala_1000_ha": 10.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 39.9,
+      "hehtaarisato_kg_ha": 4280,
+      "viljelyala_1000_ha": 9.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 1950,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Kaura",
+      "sato_milj_kg": 82,
+      "hehtaarisato_kg_ha": 3860,
+      "viljelyala_1000_ha": 21.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 3.4,
+      "hehtaarisato_kg_ha": 1170,
+      "viljelyala_1000_ha": 2.9
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 2.4,
+      "hehtaarisato_kg_ha": 1040,
+      "viljelyala_1000_ha": 2.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 2,
+      "hehtaarisato_kg_ha": 1010,
+      "viljelyala_1000_ha": 2
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 1260,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 1610,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": 1520,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 550,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": 920,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 26.4,
+      "hehtaarisato_kg_ha": 29940,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 16.8,
+      "hehtaarisato_kg_ha": 29320,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 3.6,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 4.3,
+      "hehtaarisato_kg_ha": 34700,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 27390,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 71,
+      "hehtaarisato_kg_ha": 41250,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Herne",
+      "sato_milj_kg": 5.8,
+      "hehtaarisato_kg_ha": 2240,
+      "viljelyala_1000_ha": 2.6
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 5.5,
+      "hehtaarisato_kg_ha": 2410,
+      "viljelyala_1000_ha": 2.3
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 2930,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 520,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 16.3,
+      "hehtaarisato_kg_ha": 3650,
+      "viljelyala_1000_ha": 4.5
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 62.6,
+      "hehtaarisato_kg_ha": 5790,
+      "viljelyala_1000_ha": 10.8
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 54.6,
+      "hehtaarisato_kg_ha": 5540,
+      "viljelyala_1000_ha": 9.9
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 8,
+      "hehtaarisato_kg_ha": 8320,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 6.5,
+      "hehtaarisato_kg_ha": 3070,
+      "viljelyala_1000_ha": 2.1
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 2520,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 5.5,
+      "hehtaarisato_kg_ha": 3190,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 1740,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 55.3,
+      "hehtaarisato_kg_ha": 3920,
+      "viljelyala_1000_ha": 14.1
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 14.6,
+      "hehtaarisato_kg_ha": 4360,
+      "viljelyala_1000_ha": 3.3
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 40.7,
+      "hehtaarisato_kg_ha": 3780,
+      "viljelyala_1000_ha": 10.8
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 3790,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Ruis",
+      "sato_milj_kg": 3.3,
+      "hehtaarisato_kg_ha": 3190,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 57.6,
+      "hehtaarisato_kg_ha": 3020,
+      "viljelyala_1000_ha": 19.1
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 46.3,
+      "hehtaarisato_kg_ha": 2930,
+      "viljelyala_1000_ha": 15.8
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 11.2,
+      "hehtaarisato_kg_ha": 3490,
+      "viljelyala_1000_ha": 3.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Kaura",
+      "sato_milj_kg": 107.5,
+      "hehtaarisato_kg_ha": 3320,
+      "viljelyala_1000_ha": 32.3
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Tattari",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 200,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 4.3,
+      "hehtaarisato_kg_ha": 980,
+      "viljelyala_1000_ha": 4.4
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 3.1,
+      "hehtaarisato_kg_ha": 970,
+      "viljelyala_1000_ha": 3.3
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 2.9,
+      "hehtaarisato_kg_ha": 950,
+      "viljelyala_1000_ha": 3
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 1260,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 1010,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 1000,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": 410,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 630,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 5.1,
+      "hehtaarisato_kg_ha": 21670,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 3.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 24.8,
+      "hehtaarisato_kg_ha": 39300,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Herne",
+      "sato_milj_kg": 5.3,
+      "hehtaarisato_kg_ha": 1920,
+      "viljelyala_1000_ha": 2.8
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 1830,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 4.6,
+      "hehtaarisato_kg_ha": 1930,
+      "viljelyala_1000_ha": 2.4
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 1990,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 1980,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Härkäpapu, säilörehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 500,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 24.4,
+      "hehtaarisato_kg_ha": 3330,
+      "viljelyala_1000_ha": 7.3
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 136.5,
+      "hehtaarisato_kg_ha": 4750,
+      "viljelyala_1000_ha": 28.7
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 121.9,
+      "hehtaarisato_kg_ha": 4590,
+      "viljelyala_1000_ha": 26.6
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 14.6,
+      "hehtaarisato_kg_ha": 6720,
+      "viljelyala_1000_ha": 2.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 4620,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 26.5,
+      "hehtaarisato_kg_ha": 2920,
+      "viljelyala_1000_ha": 9.1
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 2.9,
+      "hehtaarisato_kg_ha": 3300,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 23.6,
+      "hehtaarisato_kg_ha": 2880,
+      "viljelyala_1000_ha": 8.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 1700,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 58.3,
+      "hehtaarisato_kg_ha": 4220,
+      "viljelyala_1000_ha": 13.8
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 28.1,
+      "hehtaarisato_kg_ha": 5370,
+      "viljelyala_1000_ha": 5.2
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 30.2,
+      "hehtaarisato_kg_ha": 3520,
+      "viljelyala_1000_ha": 8.6
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 2.7,
+      "hehtaarisato_kg_ha": 4780,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Ruis",
+      "sato_milj_kg": 9.4,
+      "hehtaarisato_kg_ha": 4390,
+      "viljelyala_1000_ha": 2.1
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 62.9,
+      "hehtaarisato_kg_ha": 3730,
+      "viljelyala_1000_ha": 16.9
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 26,
+      "hehtaarisato_kg_ha": 3460,
+      "viljelyala_1000_ha": 7.5
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 36.8,
+      "hehtaarisato_kg_ha": 3950,
+      "viljelyala_1000_ha": 9.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Kaura",
+      "sato_milj_kg": 63.6,
+      "hehtaarisato_kg_ha": 3830,
+      "viljelyala_1000_ha": 16.6
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 2.8,
+      "hehtaarisato_kg_ha": 1110,
+      "viljelyala_1000_ha": 2.5
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 2.5,
+      "hehtaarisato_kg_ha": 1150,
+      "viljelyala_1000_ha": 2.2
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 2.3,
+      "hehtaarisato_kg_ha": 1330,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 860,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 790,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 580,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 380,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": 26180,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 24.4,
+      "hehtaarisato_kg_ha": 39400,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Herne",
+      "sato_milj_kg": 5.3,
+      "hehtaarisato_kg_ha": 1920,
+      "viljelyala_1000_ha": 2.8
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 5,
+      "hehtaarisato_kg_ha": 2170,
+      "viljelyala_1000_ha": 2.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 7.5,
+      "hehtaarisato_kg_ha": 2710,
+      "viljelyala_1000_ha": 2.8
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 44.4,
+      "hehtaarisato_kg_ha": 4790,
+      "viljelyala_1000_ha": 9.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 42.1,
+      "hehtaarisato_kg_ha": 4790,
+      "viljelyala_1000_ha": 8.8
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 2.3,
+      "hehtaarisato_kg_ha": 4650,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 3.6,
+      "hehtaarisato_kg_ha": 3040,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 2390,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 2.9,
+      "hehtaarisato_kg_ha": 3250,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 1510,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 53,
+      "hehtaarisato_kg_ha": 4410,
+      "viljelyala_1000_ha": 12
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 23.8,
+      "hehtaarisato_kg_ha": 5910,
+      "viljelyala_1000_ha": 4
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 29.2,
+      "hehtaarisato_kg_ha": 3660,
+      "viljelyala_1000_ha": 8
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Ruis",
+      "sato_milj_kg": 2.5,
+      "hehtaarisato_kg_ha": 3860,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 18.2,
+      "hehtaarisato_kg_ha": 2900,
+      "viljelyala_1000_ha": 6.3
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 9.4,
+      "hehtaarisato_kg_ha": 2640,
+      "viljelyala_1000_ha": 3.6
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 8.7,
+      "hehtaarisato_kg_ha": 3250,
+      "viljelyala_1000_ha": 2.7
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Kaura",
+      "sato_milj_kg": 41.2,
+      "hehtaarisato_kg_ha": 3190,
+      "viljelyala_1000_ha": 12.9
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 1.5,
+      "hehtaarisato_kg_ha": 960,
+      "viljelyala_1000_ha": 1.6
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 800,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 1410,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 14230,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 1.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Herne",
+      "sato_milj_kg": 4.2,
+      "hehtaarisato_kg_ha": 2090,
+      "viljelyala_1000_ha": 2
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 3.9,
+      "hehtaarisato_kg_ha": 2200,
+      "viljelyala_1000_ha": 1.8
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 7.6,
+      "hehtaarisato_kg_ha": 2500,
+      "viljelyala_1000_ha": 3
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 36.5,
+      "hehtaarisato_kg_ha": 4990,
+      "viljelyala_1000_ha": 7.3
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 35.2,
+      "hehtaarisato_kg_ha": 5140,
+      "viljelyala_1000_ha": 6.8
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": 2830,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 2.5,
+      "hehtaarisato_kg_ha": 1950,
+      "viljelyala_1000_ha": 1.3
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 2120,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 1880,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 1740,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 16.7,
+      "hehtaarisato_kg_ha": 3670,
+      "viljelyala_1000_ha": 4.5
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 5.7,
+      "hehtaarisato_kg_ha": 5300,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 11,
+      "hehtaarisato_kg_ha": 3170,
+      "viljelyala_1000_ha": 3.5
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Ruis",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 2550,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 10.9,
+      "hehtaarisato_kg_ha": 2030,
+      "viljelyala_1000_ha": 5.4
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 9.9,
+      "hehtaarisato_kg_ha": 2150,
+      "viljelyala_1000_ha": 4.6
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Kaura",
+      "sato_milj_kg": 18.7,
+      "hehtaarisato_kg_ha": 3030,
+      "viljelyala_1000_ha": 6.2
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 990,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 770,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 750,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 590,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Herne",
+      "sato_milj_kg": 2.2,
+      "hehtaarisato_kg_ha": 1800,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 2.1,
+      "hehtaarisato_kg_ha": 1800,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 12.7,
+      "hehtaarisato_kg_ha": 3400,
+      "viljelyala_1000_ha": 3.7
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 53.1,
+      "hehtaarisato_kg_ha": 5960,
+      "viljelyala_1000_ha": 8.9
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 49.2,
+      "hehtaarisato_kg_ha": 5620,
+      "viljelyala_1000_ha": 8.8
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 9.1,
+      "hehtaarisato_kg_ha": 2920,
+      "viljelyala_1000_ha": 3.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 4340,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 8.6,
+      "hehtaarisato_kg_ha": 2870,
+      "viljelyala_1000_ha": 3
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 2290,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 4.4,
+      "hehtaarisato_kg_ha": 2890,
+      "viljelyala_1000_ha": 1.5
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 2990,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 4.1,
+      "hehtaarisato_kg_ha": 2890,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 3290,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Ruis",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 2060,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 12.6,
+      "hehtaarisato_kg_ha": 3270,
+      "viljelyala_1000_ha": 3.8
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 12.4,
+      "hehtaarisato_kg_ha": 3290,
+      "viljelyala_1000_ha": 3.8
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Kaura",
+      "sato_milj_kg": 11,
+      "hehtaarisato_kg_ha": 2870,
+      "viljelyala_1000_ha": 3.8
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Tattari",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 440,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 1100,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 1090,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 840,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 1470,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 530,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 3.6,
+      "hehtaarisato_kg_ha": 26470,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 2,
+      "hehtaarisato_kg_ha": 25700,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Herne",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 2470,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 2460,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 17.7,
+      "hehtaarisato_kg_ha": 3090,
+      "viljelyala_1000_ha": 5.7
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 117.1,
+      "hehtaarisato_kg_ha": 5830,
+      "viljelyala_1000_ha": 20.1
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 105.9,
+      "hehtaarisato_kg_ha": 5750,
+      "viljelyala_1000_ha": 18.4
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 11.3,
+      "hehtaarisato_kg_ha": 6640,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 3620,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 38.5,
+      "hehtaarisato_kg_ha": 4940,
+      "viljelyala_1000_ha": 7.8
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 3.9,
+      "hehtaarisato_kg_ha": 2400,
+      "viljelyala_1000_ha": 1.6
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 34.6,
+      "hehtaarisato_kg_ha": 5610,
+      "viljelyala_1000_ha": 6.2
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 1190,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 11,
+      "hehtaarisato_kg_ha": 4070,
+      "viljelyala_1000_ha": 2.7
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": 4330,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 9.7,
+      "hehtaarisato_kg_ha": 4040,
+      "viljelyala_1000_ha": 2.4
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 3430,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Ruis",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 1750,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 64.6,
+      "hehtaarisato_kg_ha": 3680,
+      "viljelyala_1000_ha": 17.5
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 63.8,
+      "hehtaarisato_kg_ha": 3680,
+      "viljelyala_1000_ha": 17.4
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Kaura",
+      "sato_milj_kg": 24.7,
+      "hehtaarisato_kg_ha": 3270,
+      "viljelyala_1000_ha": 7.6
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 1.7,
+      "hehtaarisato_kg_ha": 1140,
+      "viljelyala_1000_ha": 1.5
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 1.5,
+      "hehtaarisato_kg_ha": 1090,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": 1100,
+      "viljelyala_1000_ha": 1.3
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 840,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 3.7,
+      "hehtaarisato_kg_ha": 29060,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 2.8,
+      "hehtaarisato_kg_ha": 29230,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Herne",
+      "sato_milj_kg": 2.3,
+      "hehtaarisato_kg_ha": 2360,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 2.1,
+      "hehtaarisato_kg_ha": 2310,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 1980,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 490,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 33.6,
+      "hehtaarisato_kg_ha": 3690,
+      "viljelyala_1000_ha": 9.1
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 323.6,
+      "hehtaarisato_kg_ha": 5550,
+      "viljelyala_1000_ha": 58.3
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 312.4,
+      "hehtaarisato_kg_ha": 5610,
+      "viljelyala_1000_ha": 55.7
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 11.2,
+      "hehtaarisato_kg_ha": 4370,
+      "viljelyala_1000_ha": 2.6
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 50.3,
+      "hehtaarisato_kg_ha": 3770,
+      "viljelyala_1000_ha": 13.3
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 7.1,
+      "hehtaarisato_kg_ha": 3300,
+      "viljelyala_1000_ha": 2.2
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 43.3,
+      "hehtaarisato_kg_ha": 3870,
+      "viljelyala_1000_ha": 11.2
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 4.3,
+      "hehtaarisato_kg_ha": 1930,
+      "viljelyala_1000_ha": 2.2
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 5.3,
+      "hehtaarisato_kg_ha": 3650,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 5,
+      "hehtaarisato_kg_ha": 3610,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Ruis",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 2220,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 19.8,
+      "hehtaarisato_kg_ha": 3840,
+      "viljelyala_1000_ha": 5.2
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 19.8,
+      "hehtaarisato_kg_ha": 3840,
+      "viljelyala_1000_ha": 5.2
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Kaura",
+      "sato_milj_kg": 18,
+      "hehtaarisato_kg_ha": 3240,
+      "viljelyala_1000_ha": 5.6
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Tattari",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 330,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 1120,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 1110,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 1170,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": 490,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 800,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 3.9,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 3.7,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Herne",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 2300,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 2440,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": 340,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 20.7,
+      "hehtaarisato_kg_ha": 3570,
+      "viljelyala_1000_ha": 5.8
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 134.9,
+      "hehtaarisato_kg_ha": 5000,
+      "viljelyala_1000_ha": 27
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 130.2,
+      "hehtaarisato_kg_ha": 5040,
+      "viljelyala_1000_ha": 25.8
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 4.8,
+      "hehtaarisato_kg_ha": 4170,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 20.2,
+      "hehtaarisato_kg_ha": 3440,
+      "viljelyala_1000_ha": 5.9
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 3,
+      "hehtaarisato_kg_ha": 2700,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 17.2,
+      "hehtaarisato_kg_ha": 3620,
+      "viljelyala_1000_ha": 4.8
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 1.5,
+      "hehtaarisato_kg_ha": 1760,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 7.9,
+      "hehtaarisato_kg_ha": 3620,
+      "viljelyala_1000_ha": 2.2
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": 3560,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 6.5,
+      "hehtaarisato_kg_ha": 3620,
+      "viljelyala_1000_ha": 1.8
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Ruis",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 4140,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 21.8,
+      "hehtaarisato_kg_ha": 2940,
+      "viljelyala_1000_ha": 7.4
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 19.6,
+      "hehtaarisato_kg_ha": 2820,
+      "viljelyala_1000_ha": 7
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 2.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Kaura",
+      "sato_milj_kg": 21.7,
+      "hehtaarisato_kg_ha": 2800,
+      "viljelyala_1000_ha": 7.7
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": 450,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 950,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 950,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": 950,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 790,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 20910,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 21300,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Herne",
+      "sato_milj_kg": 1.6,
+      "hehtaarisato_kg_ha": 2130,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 1.5,
+      "hehtaarisato_kg_ha": 2160,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 5440,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 19,
+      "hehtaarisato_kg_ha": 3510,
+      "viljelyala_1000_ha": 5.4
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 108.2,
+      "hehtaarisato_kg_ha": 4460,
+      "viljelyala_1000_ha": 24.2
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 102.6,
+      "hehtaarisato_kg_ha": 4590,
+      "viljelyala_1000_ha": 22.4
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 5.6,
+      "hehtaarisato_kg_ha": 2960,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 16.8,
+      "hehtaarisato_kg_ha": 2700,
+      "viljelyala_1000_ha": 6.2
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 2.7,
+      "hehtaarisato_kg_ha": 2200,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 14.2,
+      "hehtaarisato_kg_ha": 2820,
+      "viljelyala_1000_ha": 5
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 1050,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 67.5,
+      "hehtaarisato_kg_ha": 4350,
+      "viljelyala_1000_ha": 15.5
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 13.5,
+      "hehtaarisato_kg_ha": 4360,
+      "viljelyala_1000_ha": 3.1
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 54,
+      "hehtaarisato_kg_ha": 4350,
+      "viljelyala_1000_ha": 12.4
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 5.9,
+      "hehtaarisato_kg_ha": 4430,
+      "viljelyala_1000_ha": 1.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Ruis",
+      "sato_milj_kg": 5.1,
+      "hehtaarisato_kg_ha": 3660,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 233.6,
+      "hehtaarisato_kg_ha": 4280,
+      "viljelyala_1000_ha": 54.6
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 232.4,
+      "hehtaarisato_kg_ha": 4280,
+      "viljelyala_1000_ha": 54.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Kaura",
+      "sato_milj_kg": 168.3,
+      "hehtaarisato_kg_ha": 3920,
+      "viljelyala_1000_ha": 43
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 10.7,
+      "hehtaarisato_kg_ha": 1000,
+      "viljelyala_1000_ha": 10.7
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 9.9,
+      "hehtaarisato_kg_ha": 960,
+      "viljelyala_1000_ha": 10.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 9.7,
+      "hehtaarisato_kg_ha": 960,
+      "viljelyala_1000_ha": 10.1
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 820,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 1850,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 1850,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Kumina",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 820,
+      "viljelyala_1000_ha": 1.5
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 132.9,
+      "hehtaarisato_kg_ha": 29730,
+      "viljelyala_1000_ha": 4.5
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 49.1,
+      "hehtaarisato_kg_ha": 34260,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 3.8,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 69.2,
+      "hehtaarisato_kg_ha": 27650,
+      "viljelyala_1000_ha": 2.5
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 10.8,
+      "hehtaarisato_kg_ha": 26500,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 41.4,
+      "hehtaarisato_kg_ha": 40580,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Herne",
+      "sato_milj_kg": 12,
+      "hehtaarisato_kg_ha": 2390,
+      "viljelyala_1000_ha": 5
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 2110,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 11.4,
+      "hehtaarisato_kg_ha": 2400,
+      "viljelyala_1000_ha": 4.7
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 2870,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": 2160,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": 60,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 17.9,
+      "hehtaarisato_kg_ha": 2840,
+      "viljelyala_1000_ha": 6.3
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 327.5,
+      "hehtaarisato_kg_ha": 5580,
+      "viljelyala_1000_ha": 58.7
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 311.8,
+      "hehtaarisato_kg_ha": 5690,
+      "viljelyala_1000_ha": 54.8
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 15.8,
+      "hehtaarisato_kg_ha": 4040,
+      "viljelyala_1000_ha": 3.9
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": 1300,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 44.1,
+      "hehtaarisato_kg_ha": 3030,
+      "viljelyala_1000_ha": 14.6
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 10.2,
+      "hehtaarisato_kg_ha": 2860,
+      "viljelyala_1000_ha": 3.6
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 33.9,
+      "hehtaarisato_kg_ha": 3080,
+      "viljelyala_1000_ha": 11
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 3.7,
+      "hehtaarisato_kg_ha": 1920,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 39.2,
+      "hehtaarisato_kg_ha": 4570,
+      "viljelyala_1000_ha": 8.6
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 8.3,
+      "hehtaarisato_kg_ha": 5250,
+      "viljelyala_1000_ha": 1.6
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 30.9,
+      "hehtaarisato_kg_ha": 4410,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": 4500,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Ruis",
+      "sato_milj_kg": 2.5,
+      "hehtaarisato_kg_ha": 3600,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 144.4,
+      "hehtaarisato_kg_ha": 4390,
+      "viljelyala_1000_ha": 32.9
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 136.1,
+      "hehtaarisato_kg_ha": 4390,
+      "viljelyala_1000_ha": 31
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 8.2,
+      "hehtaarisato_kg_ha": 4330,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Kaura",
+      "sato_milj_kg": 75.7,
+      "hehtaarisato_kg_ha": 4310,
+      "viljelyala_1000_ha": 17.6
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Tattari",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 920,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 4.9,
+      "hehtaarisato_kg_ha": 1240,
+      "viljelyala_1000_ha": 3.9
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 3.8,
+      "hehtaarisato_kg_ha": 1090,
+      "viljelyala_1000_ha": 3.5
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 3.7,
+      "hehtaarisato_kg_ha": 1080,
+      "viljelyala_1000_ha": 3.4
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 790,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 88.2,
+      "hehtaarisato_kg_ha": 29500,
+      "viljelyala_1000_ha": 3
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 54.9,
+      "hehtaarisato_kg_ha": 29160,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 13880,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 26.6,
+      "hehtaarisato_kg_ha": 34650,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 5.2,
+      "hehtaarisato_kg_ha": 18840,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 30030,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 40.6,
+      "hehtaarisato_kg_ha": 40580,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Herne",
+      "sato_milj_kg": 7.8,
+      "hehtaarisato_kg_ha": 2590,
+      "viljelyala_1000_ha": 3
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 7.6,
+      "hehtaarisato_kg_ha": 2640,
+      "viljelyala_1000_ha": 2.9
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 1.1,
+      "hehtaarisato_kg_ha": 1580,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 12,
+      "hehtaarisato_kg_ha": 3020,
+      "viljelyala_1000_ha": 4
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 134.9,
+      "hehtaarisato_kg_ha": 5260,
+      "viljelyala_1000_ha": 25.7
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 131.7,
+      "hehtaarisato_kg_ha": 5270,
+      "viljelyala_1000_ha": 25
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 3.2,
+      "hehtaarisato_kg_ha": 4910,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.4,
+      "hehtaarisato_kg_ha": 1920,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 11.7,
+      "hehtaarisato_kg_ha": 2770,
+      "viljelyala_1000_ha": 4.2
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 3.7,
+      "hehtaarisato_kg_ha": 2550,
+      "viljelyala_1000_ha": 1.5
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 8,
+      "hehtaarisato_kg_ha": 2880,
+      "viljelyala_1000_ha": 2.8
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 2.4,
+      "hehtaarisato_kg_ha": 2970,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 2.8,
+      "hehtaarisato_kg_ha": 5190,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 2.6,
+      "hehtaarisato_kg_ha": 5670,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Ruis",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 36.7,
+      "hehtaarisato_kg_ha": 3910,
+      "viljelyala_1000_ha": 9.4
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 36.6,
+      "hehtaarisato_kg_ha": 3910,
+      "viljelyala_1000_ha": 9.3
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Kaura",
+      "sato_milj_kg": 7.1,
+      "hehtaarisato_kg_ha": 3160,
+      "viljelyala_1000_ha": 2.3
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Tattari",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": 730,
+      "viljelyala_1000_ha": 1.2
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 700,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 700,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Öljypellava",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 17.1,
+      "hehtaarisato_kg_ha": 33520,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 13.5,
+      "hehtaarisato_kg_ha": 34910,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 2.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Herne",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 3480,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 3510,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 1320,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 5.6,
+      "hehtaarisato_kg_ha": 2670,
+      "viljelyala_1000_ha": 2.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 157.3,
+      "hehtaarisato_kg_ha": 6690,
+      "viljelyala_1000_ha": 23.5
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 151.9,
+      "hehtaarisato_kg_ha": 6790,
+      "viljelyala_1000_ha": 22.4
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 5.4,
+      "hehtaarisato_kg_ha": 4740,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 14,
+      "hehtaarisato_kg_ha": 2900,
+      "viljelyala_1000_ha": 4.8
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 2.2,
+      "hehtaarisato_kg_ha": 2720,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 11.7,
+      "hehtaarisato_kg_ha": 2940,
+      "viljelyala_1000_ha": 4
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 1.5,
+      "hehtaarisato_kg_ha": 2400,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 14.6,
+      "hehtaarisato_kg_ha": 4280,
+      "viljelyala_1000_ha": 3.4
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 2.7,
+      "hehtaarisato_kg_ha": 6080,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 11.9,
+      "hehtaarisato_kg_ha": 4010,
+      "viljelyala_1000_ha": 3
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": 3060,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Ruis",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": 3790,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 117.3,
+      "hehtaarisato_kg_ha": 3830,
+      "viljelyala_1000_ha": 30.6
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 117.1,
+      "hehtaarisato_kg_ha": 3830,
+      "viljelyala_1000_ha": 30.6
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Mallasohra",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Kaura",
+      "sato_milj_kg": 66.3,
+      "hehtaarisato_kg_ha": 3390,
+      "viljelyala_1000_ha": 19.5
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Tattari",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 640,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 5.1,
+      "hehtaarisato_kg_ha": 870,
+      "viljelyala_1000_ha": 5.9
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 5.1,
+      "hehtaarisato_kg_ha": 870,
+      "viljelyala_1000_ha": 5.9
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 5.1,
+      "hehtaarisato_kg_ha": 880,
+      "viljelyala_1000_ha": 5.8
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": 400,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Kumina",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 690,
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 116.3,
+      "hehtaarisato_kg_ha": 34440,
+      "viljelyala_1000_ha": 3.4
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 62.3,
+      "hehtaarisato_kg_ha": 33180,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 24.5,
+      "hehtaarisato_kg_ha": 38940,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Tärkkelysperuna",
+      "sato_milj_kg": 1.8,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 27,
+      "hehtaarisato_kg_ha": 34610,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": 40580,
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Herne",
+      "sato_milj_kg": 6.8,
+      "hehtaarisato_kg_ha": 2790,
+      "viljelyala_1000_ha": 2.4
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 6.5,
+      "hehtaarisato_kg_ha": 2800,
+      "viljelyala_1000_ha": 2.3
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 1.9,
+      "hehtaarisato_kg_ha": 3050,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": 430,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 36.1,
+      "hehtaarisato_kg_ha": 3090,
+      "viljelyala_1000_ha": 11.7
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 379.6,
+      "hehtaarisato_kg_ha": 5020,
+      "viljelyala_1000_ha": 75.6
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 361.7,
+      "hehtaarisato_kg_ha": 5150,
+      "viljelyala_1000_ha": 70.3
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 17.9,
+      "hehtaarisato_kg_ha": 3370,
+      "viljelyala_1000_ha": 5.3
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 2390,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 72.9,
+      "hehtaarisato_kg_ha": 2980,
+      "viljelyala_1000_ha": 24.5
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 12.5,
+      "hehtaarisato_kg_ha": 2850,
+      "viljelyala_1000_ha": 4.4
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 60.4,
+      "hehtaarisato_kg_ha": 3010,
+      "viljelyala_1000_ha": 20.1
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 5.6,
+      "hehtaarisato_kg_ha": 2260,
+      "viljelyala_1000_ha": 2.5
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Ruis",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 3.8,
+      "hehtaarisato_kg_ha": 4100,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 3.8,
+      "hehtaarisato_kg_ha": 4100,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Kaura",
+      "sato_milj_kg": 1.4,
+      "hehtaarisato_kg_ha": 2590,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Syysrypsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Kumina",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Muu peruna",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Herne",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Timotein siemen",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 4.6,
+      "hehtaarisato_kg_ha": 2230,
+      "viljelyala_1000_ha": 2.1
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 55.3,
+      "hehtaarisato_kg_ha": 4760,
+      "viljelyala_1000_ha": 11.6
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 51.5,
+      "hehtaarisato_kg_ha": 4900,
+      "viljelyala_1000_ha": 10.5
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 3.9,
+      "hehtaarisato_kg_ha": 3420,
+      "viljelyala_1000_ha": 1.1
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 4.2,
+      "hehtaarisato_kg_ha": 2570,
+      "viljelyala_1000_ha": 1.7
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 2,
+      "hehtaarisato_kg_ha": 3050,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 2.3,
+      "hehtaarisato_kg_ha": 2250,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Kainuu",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 1.2,
+      "hehtaarisato_kg_ha": 2900,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Ruis",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Kaura",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Öljyhamppu",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 0.8,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Herne",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 11.8,
+      "hehtaarisato_kg_ha": 2510,
+      "viljelyala_1000_ha": 4.7
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 107,
+      "hehtaarisato_kg_ha": 4250,
+      "viljelyala_1000_ha": 25.2
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 87.7,
+      "hehtaarisato_kg_ha": 3970,
+      "viljelyala_1000_ha": 22.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 19.3,
+      "hehtaarisato_kg_ha": 6170,
+      "viljelyala_1000_ha": 3.1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 4.7,
+      "hehtaarisato_kg_ha": 2510,
+      "viljelyala_1000_ha": 1.9
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 2.5,
+      "hehtaarisato_kg_ha": 2890,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 2.2,
+      "hehtaarisato_kg_ha": 2190,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Lappi",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 3.3,
+      "hehtaarisato_kg_ha": 3960,
+      "viljelyala_1000_ha": 0.8
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Vehnä yhteensä",
+      "sato_milj_kg": 11.8,
+      "hehtaarisato_kg_ha": 5800,
+      "viljelyala_1000_ha": 2
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Syysvehnä",
+      "sato_milj_kg": 9.2,
+      "hehtaarisato_kg_ha": 6510,
+      "viljelyala_1000_ha": 1.4
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Kevätvehnä",
+      "sato_milj_kg": 2.6,
+      "hehtaarisato_kg_ha": 4180,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Ruisvehnä",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Ruis",
+      "sato_milj_kg": 1.3,
+      "hehtaarisato_kg_ha": 6090,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Ohra yhteensä",
+      "sato_milj_kg": 5.2,
+      "hehtaarisato_kg_ha": 5080,
+      "viljelyala_1000_ha": 1
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Rehuohra",
+      "sato_milj_kg": 4.3,
+      "hehtaarisato_kg_ha": 4830,
+      "viljelyala_1000_ha": 0.9
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Syysohra",
+      "sato_milj_kg": 0.9,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Kaura",
+      "sato_milj_kg": 1.9,
+      "hehtaarisato_kg_ha": 3750,
+      "viljelyala_1000_ha": 0.5
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Rypsi ja rapsi yhteensä",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Rypsi yhteensä",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Kevätrypsi",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Rapsi yhteensä",
+      "sato_milj_kg": 0.3,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Kevätrapsi",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Syysrapsi",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Peruna yhteensä",
+      "sato_milj_kg": 22.4,
+      "hehtaarisato_kg_ha": 30790,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Ruokaperuna",
+      "sato_milj_kg": 0.7,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Varhaisperuna",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Ruokateollisuusperuna",
+      "sato_milj_kg": 21.6,
+      "hehtaarisato_kg_ha": 31040,
+      "viljelyala_1000_ha": 0.7
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Sokerijuurikas",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Herne",
+      "sato_milj_kg": 0.6,
+      "hehtaarisato_kg_ha": 2890,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Ruokaherne",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Rehuherne",
+      "sato_milj_kg": 0.5,
+      "hehtaarisato_kg_ha": 3030,
+      "viljelyala_1000_ha": 0.2
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Herne, säilörehu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Härkäpapu",
+      "sato_milj_kg": 0,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Kuivaheinä",
+      "sato_milj_kg": 2.2,
+      "hehtaarisato_kg_ha": 3780,
+      "viljelyala_1000_ha": 0.6
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Säilörehu yhteensä",
+      "sato_milj_kg": 23,
+      "hehtaarisato_kg_ha": 4190,
+      "viljelyala_1000_ha": 5.5
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Esikuivattu säilörehu",
+      "sato_milj_kg": 22.9,
+      "hehtaarisato_kg_ha": 4210,
+      "viljelyala_1000_ha": 5.4
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Tuoresäilörehu",
+      "sato_milj_kg": 0.1,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Tuorerehu",
+      "sato_milj_kg": "",
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Tuorevilja yhteensä",
+      "sato_milj_kg": 2.7,
+      "hehtaarisato_kg_ha": 7640,
+      "viljelyala_1000_ha": 0.4
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Kokoviljasäilörehu",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 1920,
+      "viljelyala_1000_ha": 0.1
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Tuoresäilövilja",
+      "sato_milj_kg": 2.5,
+      "hehtaarisato_kg_ha": "",
+      "viljelyala_1000_ha": 0.3
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "laji": "Vihantavilja säilörehuksi",
+      "sato_milj_kg": 0.2,
+      "hehtaarisato_kg_ha": 2520,
+      "viljelyala_1000_ha": 0.1
+    }
+  ],
+  "meta": {
+    "title": "Viljelykasvien sato maakunnittain 2025 - Free Download",
+    "description": "Viljelykasvien sato, hehtaarisato ja viljelyala maakunnittain Suomessa vuonna 2025. Lähde: Luonnonvarakeskus (Luke). Contains 794 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Viljelykasvien sato maakunnittain 2025 | ListBase",
+    "seo_description": "Download Viljelykasvien sato maakunnittain 2025 — 794 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 794 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://statdb.luke.fi/PxWeb/api/v1/fi/LUKE/maa/sattil/0200_sattil.px"
+    ]
+  }
+}
