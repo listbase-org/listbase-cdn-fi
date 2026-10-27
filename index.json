@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:37.187Z",
-  "total_datasets": 471,
-  "total_records": 490137,
+  "generated": "2026-10-27T02:24:39.968Z",
+  "total_datasets": 472,
+  "total_records": 490165,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -7269,6 +7269,33 @@
         "xlsx": {
           "name": "fi-eduskuntavaalit-2023-aanikuninkaat_FI.xlsx",
           "size": 7347
+        }
+      }
+    },
+    {
+      "id": "fi-eduskuntavaalit-2023-tulos",
+      "name": "Eduskuntavaalit 2023 — tulos puolueittain",
+      "category": "politics",
+      "record_count": 28,
+      "columns": [
+        "puolue",
+        "aania",
+        "prosentti",
+        "muutos_pct",
+        "paikat",
+        "paikkamuutos"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Eduskuntavaalit_2023",
+      "updated": "2026-10",
+      "size": 6478,
+      "files": {
+        "csv": {
+          "name": "fi-eduskuntavaalit-2023-tulos_FI.csv",
+          "size": 1443
+        },
+        "xlsx": {
+          "name": "fi-eduskuntavaalit-2023-tulos_FI.xlsx",
+          "size": 8045
         }
       }
     },
