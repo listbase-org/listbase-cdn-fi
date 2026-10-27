@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:39.968Z",
-  "total_datasets": 472,
-  "total_records": 490165,
+  "generated": "2026-10-27T02:24:42.747Z",
+  "total_datasets": 473,
+  "total_records": 490504,
   "categories": [
     {
       "id": "culture",
@@ -38,6 +38,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "music",
       "dataset_count": 1
     },
     {
@@ -7216,6 +7220,33 @@
         "xlsx": {
           "name": "fi-kielet_FI.xlsx",
           "size": 23715
+        }
+      }
+    },
+    {
+      "id": "fi-euroviisuedustajat",
+      "name": "Suomen euroviisuedustajat",
+      "category": "music",
+      "record_count": 339,
+      "columns": [
+        "nimi",
+        "elinvuodet",
+        "kotipaikka",
+        "kappale",
+        "vuosi",
+        "tehtava"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_euroviisuedustajista",
+      "updated": "2026-10",
+      "size": 72681,
+      "files": {
+        "csv": {
+          "name": "fi-euroviisuedustajat_FI.csv",
+          "size": 30671
+        },
+        "xlsx": {
+          "name": "fi-euroviisuedustajat_FI.xlsx",
+          "size": 22162
         }
       }
     },
