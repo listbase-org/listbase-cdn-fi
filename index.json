@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:08.519Z",
-  "total_datasets": 483,
-  "total_records": 491014,
+  "generated": "2026-10-27T02:25:11.208Z",
+  "total_datasets": 484,
+  "total_records": 491124,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -7642,6 +7642,32 @@
         "xlsx": {
           "name": "fi-puolueet-eduskunta_FI.xlsx",
           "size": 7746
+        }
+      }
+    },
+    {
+      "id": "fi-puolueet-historialliset",
+      "name": "Suomen entiset puolueet",
+      "category": "politics",
+      "record_count": 110,
+      "columns": [
+        "nimi",
+        "lyhenne",
+        "toimintavuodet",
+        "kansainvalinen_jarjesto",
+        "muuta"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_puolueista",
+      "updated": "2026-10",
+      "size": 25163,
+      "files": {
+        "csv": {
+          "name": "fi-puolueet-historialliset_FI.csv",
+          "size": 10447
+        },
+        "xlsx": {
+          "name": "fi-puolueet-historialliset_FI.xlsx",
+          "size": 12455
         }
       }
     },
