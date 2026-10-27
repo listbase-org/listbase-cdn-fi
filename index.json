@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:23.498Z",
-  "total_datasets": 489,
-  "total_records": 491580,
+  "generated": "2026-10-27T02:25:25.898Z",
+  "total_datasets": 490,
+  "total_records": 491670,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "food",
@@ -1968,6 +1968,31 @@
         "xlsx": {
           "name": "fi-suomen-pankin-paajohtajat_FI.xlsx",
           "size": 7575
+        }
+      }
+    },
+    {
+      "id": "fi-valtiovarainministerit",
+      "name": "Suomen valtiovarainministerit",
+      "category": "finance",
+      "record_count": 90,
+      "columns": [
+        "ministeri",
+        "puolue",
+        "tehtavissa",
+        "hallitus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_valtiovarainministeriössä",
+      "updated": "2026-10",
+      "size": 16342,
+      "files": {
+        "csv": {
+          "name": "fi-valtiovarainministerit_FI.csv",
+          "size": 6815
+        },
+        "xlsx": {
+          "name": "fi-valtiovarainministerit_FI.xlsx",
+          "size": 10577
         }
       }
     },
