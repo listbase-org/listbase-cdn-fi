@@ -1,9 +1,13 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:24:47.916Z",
-  "total_datasets": 475,
-  "total_records": 490643,
+  "generated": "2026-10-27T02:24:50.595Z",
+  "total_datasets": 476,
+  "total_records": 490750,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 22
@@ -86,6 +90,57 @@
     }
   ],
   "datasets": [
+    {
+      "id": "fi-kotielainten-lukumaara-1920-alkaen",
+      "name": "Kotieläinten lukumäärä Suomessa vuodesta 1920 (1000 kpl)",
+      "category": "agriculture",
+      "record_count": 107,
+      "columns": [
+        "vuosi",
+        "naudat",
+        "lypsylehmat",
+        "emolehmat",
+        "hiehot",
+        "sonnit",
+        "vasikat_alle_1_vuotta",
+        "siat",
+        "karjut_8_kk_ja_yli",
+        "emakot_8_kk_ja_yli",
+        "nuoret_siitossiat_yli_3_alle_8_kk",
+        "lihasiat_yli_3_alle_8_kk",
+        "porsaat_3_kk_ja_alle",
+        "siipikarja",
+        "kanat",
+        "munivat_kanat_tuotantopolvi_yli_16_vk",
+        "siitoskanat_vanhempaispolvet",
+        "kananpoikaset",
+        "broilerit",
+        "broileriemot",
+        "kalkkunat",
+        "kalkkunaemot",
+        "siitoskukot",
+        "muu_siipikarja",
+        "lampaat",
+        "uuhet",
+        "karitsoineet_uuhet",
+        "muut_lampaat",
+        "vuohet",
+        "hevoset_maatiloilla"
+      ],
+      "source": "https://statdb.luke.fi/PxWeb/api/v1/fi/LUKE/maa/kotlkm/1000_kotlkm.px",
+      "updated": "2026-10",
+      "size": 97463,
+      "files": {
+        "csv": {
+          "name": "fi-kotielainten-lukumaara-1920-alkaen_FI.csv",
+          "size": 15604
+        },
+        "xlsx": {
+          "name": "fi-kotielainten-lukumaara-1920-alkaen_FI.xlsx",
+          "size": 19123
+        }
+      }
+    },
     {
       "id": "fi-elokuvateatterit",
       "name": "Suomen elokuvateatterit",
