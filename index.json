@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-20T04:07:47.935Z",
-  "total_datasets": 469,
-  "total_records": 490059,
+  "generated": "2026-10-27T02:24:34.507Z",
+  "total_datasets": 470,
+  "total_records": 490127,
   "categories": [
     {
       "id": "culture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -7216,6 +7216,32 @@
         "xlsx": {
           "name": "fi-kielet_FI.xlsx",
           "size": 23715
+        }
+      }
+    },
+    {
+      "id": "fi-eduskunnan-puhemiehet",
+      "name": "Eduskunnan puhemiehet",
+      "category": "politics",
+      "record_count": 68,
+      "columns": [
+        "nro",
+        "puhemies",
+        "toimikausi",
+        "puolue",
+        "syntynyt_kuollut"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_eduskunnan_puhemiehistä",
+      "updated": "2026-10",
+      "size": 13366,
+      "files": {
+        "csv": {
+          "name": "fi-eduskunnan-puhemiehet_FI.csv",
+          "size": 4427
+        },
+        "xlsx": {
+          "name": "fi-eduskunnan-puhemiehet_FI.xlsx",
+          "size": 9628
         }
       }
     },
