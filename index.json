@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:25.898Z",
-  "total_datasets": 490,
-  "total_records": 491670,
+  "generated": "2026-10-27T02:25:28.136Z",
+  "total_datasets": 491,
+  "total_records": 491759,
   "categories": [
     {
       "id": "agriculture",
@@ -95,6 +95,10 @@
     {
       "id": "transport",
       "dataset_count": 75
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -15263,6 +15267,30 @@
         "xlsx": {
           "name": "fi-uusimaa-unlocode_FI.xlsx",
           "size": 20001
+        }
+      }
+    },
+    {
+      "id": "fi-vanhat-mittayksikot",
+      "name": "Vanhat suomalaiset mittayksiköt",
+      "category": "units",
+      "record_count": 89,
+      "columns": [
+        "yksikko",
+        "maaritelma",
+        "osio"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Vanhat_suomalaiset_mittayksiköt",
+      "updated": "2026-10",
+      "size": 12846,
+      "files": {
+        "csv": {
+          "name": "fi-vanhat-mittayksikot_FI.csv",
+          "size": 5534
+        },
+        "xlsx": {
+          "name": "fi-vanhat-mittayksikot_FI.xlsx",
+          "size": 9924
         }
       }
     }
