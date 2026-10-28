@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-27T02:25:30.449Z",
-  "total_datasets": 492,
-  "total_records": 492553,
+  "generated": "2026-10-28T02:16:31.849Z",
+  "total_datasets": 493,
+  "total_records": 492602,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -7559,6 +7559,33 @@
         "xlsx": {
           "name": "fi-kielet_FI.xlsx",
           "size": 23715
+        }
+      }
+    },
+    {
+      "id": "fi-ruotsin-ja-kaksikieliset-kunnat",
+      "name": "Suomen ruotsin- ja kaksikieliset kunnat",
+      "category": "language",
+      "record_count": 49,
+      "columns": [
+        "name_fi",
+        "name_sv",
+        "official_languages",
+        "swedish_speakers_pct",
+        "swedish_speakers",
+        "region"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_ruotsin-_ja_kaksikielisistä_kunnista",
+      "updated": "2026-10",
+      "size": 11819,
+      "files": {
+        "csv": {
+          "name": "fi-ruotsin-ja-kaksikieliset-kunnat_FI.csv",
+          "size": 2656
+        },
+        "xlsx": {
+          "name": "fi-ruotsin-ja-kaksikieliset-kunnat_FI.xlsx",
+          "size": 8851
         }
       }
     },
