@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-28T02:16:39.364Z",
-  "total_datasets": 496,
-  "total_records": 492675,
+  "generated": "2026-10-28T02:16:41.899Z",
+  "total_datasets": 497,
+  "total_records": 492701,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -1748,6 +1748,32 @@
         "xlsx": {
           "name": "fi-elokuvat_FI.xlsx",
           "size": 2339582
+        }
+      }
+    },
+    {
+      "id": "fi-katsotuimmat-kotimaiset-elokuvat",
+      "name": "Suomen katsotuimmat kotimaiset elokuvat",
+      "category": "entertainment",
+      "record_count": 26,
+      "columns": [
+        "rank",
+        "title",
+        "admissions",
+        "year",
+        "director"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_katsotuimmista_kotimaisista_elokuvista",
+      "updated": "2026-10",
+      "size": 5808,
+      "files": {
+        "csv": {
+          "name": "fi-katsotuimmat-kotimaiset-elokuvat_FI.csv",
+          "size": 1680
+        },
+        "xlsx": {
+          "name": "fi-katsotuimmat-kotimaiset-elokuvat_FI.xlsx",
+          "size": 7966
         }
       }
     },
