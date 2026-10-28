@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-28T02:16:36.922Z",
-  "total_datasets": 495,
-  "total_records": 492642,
+  "generated": "2026-10-28T02:16:39.364Z",
+  "total_datasets": 496,
+  "total_records": 492675,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -7511,6 +7511,31 @@
         "xlsx": {
           "name": "fi-hallitsijat-ja-valtionpaamiehet_FI.xlsx",
           "size": 15921
+        }
+      }
+    },
+    {
+      "id": "fi-kenraalikuvernoorit",
+      "name": "Suomen kenraalikuvernöörit",
+      "category": "history",
+      "record_count": 33,
+      "columns": [
+        "no",
+        "name",
+        "term",
+        "era"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_kenraalikuvernööri",
+      "updated": "2026-10",
+      "size": 6420,
+      "files": {
+        "csv": {
+          "name": "fi-kenraalikuvernoorit_FI.csv",
+          "size": 2751
+        },
+        "xlsx": {
+          "name": "fi-kenraalikuvernoorit_FI.xlsx",
+          "size": 8082
         }
       }
     },
