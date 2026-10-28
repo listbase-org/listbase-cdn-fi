@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-28T02:16:31.849Z",
-  "total_datasets": 493,
-  "total_records": 492602,
+  "generated": "2026-10-28T02:16:34.674Z",
+  "total_datasets": 494,
+  "total_records": 492637,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -7586,6 +7586,30 @@
         "xlsx": {
           "name": "fi-ruotsin-ja-kaksikieliset-kunnat_FI.xlsx",
           "size": 8851
+        }
+      }
+    },
+    {
+      "id": "fi-oikeuskanslerit",
+      "name": "Suomen oikeuskanslerit ja apulaisoikeuskanslerit",
+      "category": "law",
+      "record_count": 35,
+      "columns": [
+        "name",
+        "term",
+        "role"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Oikeuskansleri",
+      "updated": "2026-10",
+      "size": 5234,
+      "files": {
+        "csv": {
+          "name": "fi-oikeuskanslerit_FI.csv",
+          "size": 1856
+        },
+        "xlsx": {
+          "name": "fi-oikeuskanslerit_FI.xlsx",
+          "size": 7794
         }
       }
     },
