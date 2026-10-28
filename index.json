@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-28T02:16:44.434Z",
-  "total_datasets": 498,
-  "total_records": 492717,
+  "generated": "2026-10-28T02:16:46.967Z",
+  "total_datasets": 499,
+  "total_records": 492762,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -11726,6 +11726,31 @@
         "xlsx": {
           "name": "fi-nobel-palkitut_FI.xlsx",
           "size": 7254
+        }
+      }
+    },
+    {
+      "id": "fi-tieteen-akateemikot",
+      "name": "Suomen tieteen akateemikot",
+      "category": "science",
+      "record_count": 45,
+      "columns": [
+        "name",
+        "lifespan",
+        "field",
+        "appointed"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Akateemikko",
+      "updated": "2026-10",
+      "size": 7464,
+      "files": {
+        "csv": {
+          "name": "fi-tieteen-akateemikot_FI.csv",
+          "size": 2449
+        },
+        "xlsx": {
+          "name": "fi-tieteen-akateemikot_FI.xlsx",
+          "size": 8631
         }
       }
     },
