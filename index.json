@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-28T02:16:34.674Z",
-  "total_datasets": 494,
-  "total_records": 492637,
+  "generated": "2026-10-28T02:16:36.922Z",
+  "total_datasets": 495,
+  "total_records": 492642,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -11625,6 +11625,32 @@
         "xlsx": {
           "name": "fi-millennium-teknologiapalkinto_FI.xlsx",
           "size": 7436
+        }
+      }
+    },
+    {
+      "id": "fi-nobel-palkitut",
+      "name": "Suomalaiset Nobel-palkinnon saajat",
+      "category": "science",
+      "record_count": 5,
+      "columns": [
+        "year",
+        "laureate",
+        "prize",
+        "shared_with",
+        "motivation"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomalaisista_Nobel-palkinnon_saaneista",
+      "updated": "2026-10",
+      "size": 2847,
+      "files": {
+        "csv": {
+          "name": "fi-nobel-palkitut_FI.csv",
+          "size": 720
+        },
+        "xlsx": {
+          "name": "fi-nobel-palkitut_FI.xlsx",
+          "size": 7254
         }
       }
     },
