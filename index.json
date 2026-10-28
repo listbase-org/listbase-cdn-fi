@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-28T02:16:41.899Z",
-  "total_datasets": 497,
-  "total_records": 492701,
+  "generated": "2026-10-28T02:16:44.434Z",
+  "total_datasets": 498,
+  "total_records": 492717,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -7713,6 +7713,30 @@
         "xlsx": {
           "name": "fi-euroviisuedustajat_FI.xlsx",
           "size": 22162
+        }
+      }
+    },
+    {
+      "id": "fi-myydyimmat-kotimaiset-albumit-vuosittain",
+      "name": "Suomen myydyimmät kotimaiset albumit vuosittain",
+      "category": "music",
+      "record_count": 16,
+      "columns": [
+        "year",
+        "album",
+        "artist"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_myydyimmät_kotimaiset_albumit_vuosittain",
+      "updated": "2026-10",
+      "size": 3105,
+      "files": {
+        "csv": {
+          "name": "fi-myydyimmat-kotimaiset-albumit-vuosittain_FI.csv",
+          "size": 640
+        },
+        "xlsx": {
+          "name": "fi-myydyimmat-kotimaiset-albumit-vuosittain_FI.xlsx",
+          "size": 7252
         }
       }
     },
