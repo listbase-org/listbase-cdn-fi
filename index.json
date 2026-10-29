@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-29T02:12:29.844Z",
-  "total_datasets": 502,
-  "total_records": 492814,
+  "generated": "2026-10-29T02:12:32.383Z",
+  "total_datasets": 503,
+  "total_records": 492832,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1280,6 +1280,32 @@
         "xlsx": {
           "name": "fi-kunnallisveron-muutokset_FI.xlsx",
           "size": 7184
+        }
+      }
+    },
+    {
+      "id": "fi-markan-devalvaatiot",
+      "name": "Suomen markan devalvaatiot ja revalvaatiot",
+      "category": "economy",
+      "record_count": 18,
+      "columns": [
+        "date",
+        "event",
+        "markka_change",
+        "foreign_currency_appreciation",
+        "note"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_markka",
+      "updated": "2026-10",
+      "size": 5019,
+      "files": {
+        "csv": {
+          "name": "fi-markan-devalvaatiot_FI.csv",
+          "size": 1244
+        },
+        "xlsx": {
+          "name": "fi-markan-devalvaatiot_FI.xlsx",
+          "size": 7666
         }
       }
     },
