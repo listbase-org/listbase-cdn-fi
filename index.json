@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-29T02:12:32.383Z",
-  "total_datasets": 503,
-  "total_records": 492832,
+  "generated": "2026-10-29T02:12:34.895Z",
+  "total_datasets": 504,
+  "total_records": 493162,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -12058,6 +12058,34 @@
         "xlsx": {
           "name": "fi-kirjasto_FI.xlsx",
           "size": 96920
+        }
+      }
+    },
+    {
+      "id": "fi-suomalaiset-videopelit",
+      "name": "Suomalaiset videopelit",
+      "category": "tech",
+      "record_count": 330,
+      "columns": [
+        "name",
+        "year",
+        "platforms",
+        "developer",
+        "publisher",
+        "genre",
+        "note"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomalaisista_videopeleistä",
+      "updated": "2026-10",
+      "size": 76908,
+      "files": {
+        "csv": {
+          "name": "fi-suomalaiset-videopelit_FI.csv",
+          "size": 31330
+        },
+        "xlsx": {
+          "name": "fi-suomalaiset-videopelit_FI.xlsx",
+          "size": 24117
         }
       }
     },
