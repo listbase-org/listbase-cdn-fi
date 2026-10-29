@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-29T02:12:27.273Z",
-  "total_datasets": 501,
-  "total_records": 492794,
+  "generated": "2026-10-29T02:12:29.844Z",
+  "total_datasets": 502,
+  "total_records": 492814,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -7663,6 +7663,32 @@
         "xlsx": {
           "name": "fi-ruotsin-ja-kaksikieliset-kunnat_FI.xlsx",
           "size": 8851
+        }
+      }
+    },
+    {
+      "id": "fi-karajaoikeudet",
+      "name": "Suomen käräjäoikeudet",
+      "category": "law",
+      "record_count": 20,
+      "columns": [
+        "court",
+        "court_of_appeal_district",
+        "judicial_district",
+        "offices",
+        "session_venues"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_käräjäoikeuksista",
+      "updated": "2026-10",
+      "size": 6789,
+      "files": {
+        "csv": {
+          "name": "fi-karajaoikeudet_FI.csv",
+          "size": 2568
+        },
+        "xlsx": {
+          "name": "fi-karajaoikeudet_FI.xlsx",
+          "size": 7974
         }
       }
     },
