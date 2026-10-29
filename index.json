@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-29T02:12:24.409Z",
-  "total_datasets": 500,
-  "total_records": 492771,
+  "generated": "2026-10-29T02:12:27.273Z",
+  "total_datasets": 501,
+  "total_records": 492794,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -11801,6 +11801,29 @@
         "xlsx": {
           "name": "fi-hyvantekevaisyyskaupat_FI.xlsx",
           "size": 8813
+        }
+      }
+    },
+    {
+      "id": "fi-hyvinvointialueet",
+      "name": "Suomen hyvinvointialueet",
+      "category": "society",
+      "record_count": 23,
+      "columns": [
+        "name",
+        "council_seats"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_hyvinvointialueet",
+      "updated": "2026-10",
+      "size": 3470,
+      "files": {
+        "csv": {
+          "name": "fi-hyvinvointialueet_FI.csv",
+          "size": 948
+        },
+        "xlsx": {
+          "name": "fi-hyvinvointialueet_FI.xlsx",
+          "size": 7209
         }
       }
     },
