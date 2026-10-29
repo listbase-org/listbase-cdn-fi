@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-28T02:16:46.967Z",
-  "total_datasets": 499,
-  "total_records": 492762,
+  "generated": "2026-10-29T02:12:24.409Z",
+  "total_datasets": 500,
+  "total_records": 492771,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "economy",
@@ -235,6 +235,32 @@
         "xlsx": {
           "name": "fi-elokuvateatterit_FI.xlsx",
           "size": 11332
+        }
+      }
+    },
+    {
+      "id": "fi-evankelis-luterilaiset-hiippakunnat",
+      "name": "Suomen evankelis-luterilaiset hiippakunnat",
+      "category": "culture",
+      "record_count": 9,
+      "columns": [
+        "diocese",
+        "history",
+        "area",
+        "parishes_deaneries_2021",
+        "cathedral"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_evankelis-luterilaiset_hiippakunnat",
+      "updated": "2026-10",
+      "size": 4399,
+      "files": {
+        "csv": {
+          "name": "fi-evankelis-luterilaiset-hiippakunnat_FI.csv",
+          "size": 1607
+        },
+        "xlsx": {
+          "name": "fi-evankelis-luterilaiset-hiippakunnat_FI.xlsx",
+          "size": 7488
         }
       }
     },
