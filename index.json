@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-30T02:20:41.902Z",
-  "total_datasets": 509,
-  "total_records": 494547,
+  "generated": "2026-10-30T02:20:52.003Z",
+  "total_datasets": 510,
+  "total_records": 494567,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -7975,6 +7975,32 @@
         "xlsx": {
           "name": "fi-singlelistan-ykkoset-2023-2025_FI.xlsx",
           "size": 10220
+        }
+      }
+    },
+    {
+      "id": "fi-spotify-kuunnelluimmat-suomenkieliset-kappaleet",
+      "name": "Spotifyn kuunnelluimmat suomenkieliset kappaleet",
+      "category": "music",
+      "record_count": 20,
+      "columns": [
+        "sija",
+        "kappale",
+        "esittaja",
+        "spotify_toistokerrat",
+        "julkaisuvuosi"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Spotifyn_kuunnelluimmista_suomenkielisistä_kappaleista",
+      "updated": "2026-10",
+      "size": 5168,
+      "files": {
+        "csv": {
+          "name": "fi-spotify-kuunnelluimmat-suomenkieliset-kappaleet_FI.csv",
+          "size": 1063
+        },
+        "xlsx": {
+          "name": "fi-spotify-kuunnelluimmat-suomenkieliset-kappaleet_FI.xlsx",
+          "size": 7695
         }
       }
     },
