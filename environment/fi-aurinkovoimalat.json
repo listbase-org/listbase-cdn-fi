@@ -1,0 +1,512 @@
+{
+  "id": "fi-aurinkovoimalat",
+  "name": "Suomen suurimmat aurinkovoimalat",
+  "title": "Suomen suurimmat aurinkovoimalat",
+  "description": "Suomen suurimmat aurinkovoimalat paikkakunnan, käyttöönottovuoden, tehon (MWp), paneelimäärän ja rakennuttajan mukaan.",
+  "category": "environment",
+  "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_suurimmista_aurinkovoimaloista",
+  "source_url": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_suurimmista_aurinkovoimaloista",
+  "updated": "2026-10",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "kohde",
+      "label": "Kohde",
+      "type": "string"
+    },
+    {
+      "key": "paikkakunta",
+      "label": "Paikkakunta",
+      "type": "string"
+    },
+    {
+      "key": "vuosi",
+      "label": "Vuosi",
+      "type": "number"
+    },
+    {
+      "key": "teho_mwp",
+      "label": "Teho Mwp",
+      "type": "number"
+    },
+    {
+      "key": "paneelimaara",
+      "label": "Paneelimaara",
+      "type": "number"
+    },
+    {
+      "key": "urakoitsija_rakennuttaja",
+      "label": "Urakoitsija Rakennuttaja",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kohde": "Heinineva",
+      "paikkakunta": "Lapua",
+      "vuosi": 2025,
+      "teho_mwp": 86,
+      "paneelimaara": 140000,
+      "urakoitsija_rakennuttaja": "Suvic Oy, EPV Aurinkovoima Oy"
+    },
+    {
+      "kohde": "Isosuo",
+      "paikkakunta": "Utajärvi",
+      "vuosi": 2025,
+      "teho_mwp": 51.9,
+      "paneelimaara": "",
+      "urakoitsija_rakennuttaja": "NYAB Finland Oy, Skarta Energy Oy"
+    },
+    {
+      "kohde": "Lakari",
+      "paikkakunta": "Rauma",
+      "vuosi": 2024,
+      "teho_mwp": 32,
+      "paneelimaara": 58000,
+      "urakoitsija_rakennuttaja": "Suvic Oy, CPC Finland Oy"
+    },
+    {
+      "kohde": "Juurakko",
+      "paikkakunta": "Kalajoki",
+      "vuosi": 2023,
+      "teho_mwp": 13,
+      "paneelimaara": 24000,
+      "urakoitsija_rakennuttaja": "Solarigo Systems Oy, VSB Uusiutuva Energia Suomi Oy"
+    },
+    {
+      "kohde": "Callion aurinkopuisto",
+      "paikkakunta": "Pyhäjärvi",
+      "vuosi": 2025,
+      "teho_mwp": 13,
+      "paneelimaara": 22800,
+      "urakoitsija_rakennuttaja": "Solarigo Systems Oy, Skarta Energy Oy"
+    },
+    {
+      "kohde": "Atrian aurinkosähköpuisto (Atrian Aurinko)",
+      "paikkakunta": "Seinäjoki",
+      "vuosi": "2018–2023",
+      "teho_mwp": 10.9,
+      "paneelimaara": 31000,
+      "urakoitsija_rakennuttaja": "Solarigo Systems Oy, Nurmon Aurinko Oy"
+    },
+    {
+      "kohde": "Ruotsinojan aurinkovoimapuisto",
+      "paikkakunta": "Liminka",
+      "vuosi": 2025,
+      "teho_mwp": 9.5,
+      "paneelimaara": 14000,
+      "urakoitsija_rakennuttaja": "Oomi Solar Oy, Oulun Seudun Sähkö Oy"
+    },
+    {
+      "kohde": "Vihreäsaaren aurinkopuisto",
+      "paikkakunta": "Oulu",
+      "vuosi": "2022–2023",
+      "teho_mwp": 9.3,
+      "paneelimaara": 17100,
+      "urakoitsija_rakennuttaja": "Oomi Solar Oy"
+    },
+    {
+      "kohde": "Lohjan aurinkopuisto",
+      "paikkakunta": "Lohja",
+      "vuosi": 2024,
+      "teho_mwp": 7,
+      "paneelimaara": 12400,
+      "urakoitsija_rakennuttaja": "Power Generation Eltel Oy, Helen Oy"
+    },
+    {
+      "kohde": "Liesojan aurinkopuisto",
+      "paikkakunta": "Ii",
+      "vuosi": 2025,
+      "teho_mwp": 5.8,
+      "paneelimaara": 8300,
+      "urakoitsija_rakennuttaja": "Oomi Solar Oy, OK Aurinkovoima Oy"
+    },
+    {
+      "kohde": "Soljuva",
+      "paikkakunta": "Juva",
+      "vuosi": 2024,
+      "teho_mwp": 5.2,
+      "paneelimaara": 9216,
+      "urakoitsija_rakennuttaja": "Solarigo Systems Oy"
+    },
+    {
+      "kohde": "Sunsulkava",
+      "paikkakunta": "Sulkava",
+      "vuosi": 2023,
+      "teho_mwp": 5,
+      "paneelimaara": 9200,
+      "urakoitsija_rakennuttaja": "Solarigo Systems Oy"
+    },
+    {
+      "kohde": "Pöyrynwattila",
+      "paikkakunta": "Hirvensalmi",
+      "vuosi": 2024,
+      "teho_mwp": 5,
+      "paneelimaara": 9000,
+      "urakoitsija_rakennuttaja": "Solarigo Systems Oy, Solarigo Oy"
+    },
+    {
+      "kohde": "Joroisten lentokenttä",
+      "paikkakunta": "Joroinen",
+      "vuosi": 2023,
+      "teho_mwp": 5,
+      "paneelimaara": 8000,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Lemene – Lempäälän energiayhteisö",
+      "paikkakunta": "Lempäälä",
+      "vuosi": 2019,
+      "teho_mwp": 4,
+      "paneelimaara": 13280,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Bolidenin aurinkovoimala",
+      "paikkakunta": "Harjavalta",
+      "vuosi": 2023,
+      "teho_mwp": 3.8,
+      "paneelimaara": 6900,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Seepsula",
+      "paikkakunta": "Tuusula",
+      "vuosi": "2021–2023",
+      "teho_mwp": 3,
+      "paneelimaara": 6800,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Iskun aurinkovoimapuisto",
+      "paikkakunta": "Lahti",
+      "vuosi": 2022,
+      "teho_mwp": 2.8,
+      "paneelimaara": 6000,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Mirka Oy",
+      "paikkakunta": "Uusikaarlepyy",
+      "vuosi": 2025,
+      "teho_mwp": 2.5,
+      "paneelimaara": 4500,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Koskisen Oyj",
+      "paikkakunta": "Järvelä",
+      "vuosi": 2023,
+      "teho_mwp": 2,
+      "paneelimaara": 3670,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Lindö gård",
+      "paikkakunta": "Raasepori",
+      "vuosi": 2023,
+      "teho_mwp": 1.98,
+      "paneelimaara": 3600,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Ruda Solpark",
+      "paikkakunta": "Kemiönsaari",
+      "vuosi": 2023,
+      "teho_mwp": 1.8,
+      "paneelimaara": 3600,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Helen Oy , Nurmijärven aurinkopuisto",
+      "paikkakunta": "Nurmijärvi",
+      "vuosi": 2023,
+      "teho_mwp": 1.5,
+      "paneelimaara": 2800,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Helsingin yliopisto , Viikin kampus",
+      "paikkakunta": "Helsinki",
+      "vuosi": 2018,
+      "teho_mwp": 1.2,
+      "paneelimaara": 3500,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Nokian Renkaiden logistiikkakeskus",
+      "paikkakunta": "Nokia",
+      "vuosi": 2021,
+      "teho_mwp": "yli 1,1",
+      "paneelimaara": 3100,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Kauppakeskus Elo",
+      "paikkakunta": "Ylöjärvi",
+      "vuosi": 2019,
+      "teho_mwp": "yli 1,0",
+      "paneelimaara": 3200,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Prisma Laune",
+      "paikkakunta": "Lahti",
+      "vuosi": 2019,
+      "teho_mwp": "noin 1,0",
+      "paneelimaara": 3500,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Tuurin kyläkauppa",
+      "paikkakunta": "Alavus",
+      "vuosi": 2019,
+      "teho_mwp": 1,
+      "paneelimaara": 3500,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Raaseporin Energia, Tammisaaren aurinkovoimala",
+      "paikkakunta": "Raasepori",
+      "vuosi": 2021,
+      "teho_mwp": "noin 1,0",
+      "paneelimaara": 2700,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Elosen leipomo",
+      "paikkakunta": "Jämsä",
+      "vuosi": 2021,
+      "teho_mwp": 0.998,
+      "paneelimaara": 2300,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Salo Energia",
+      "paikkakunta": "Salo",
+      "vuosi": "2017–2018",
+      "teho_mwp": 0.997,
+      "paneelimaara": 3000,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Logitri Oy, logistiikkakeskus",
+      "paikkakunta": "Tuusula",
+      "vuosi": 2022,
+      "teho_mwp": 0.996,
+      "paneelimaara": 3162,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Kiilto Oy",
+      "paikkakunta": "Lempäälä",
+      "vuosi": 2020,
+      "teho_mwp": 0.961,
+      "paneelimaara": 3060,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Kauppakeskus Seppä ja Prisma Seppälä",
+      "paikkakunta": "Jyväskylä",
+      "vuosi": "2018–2019",
+      "teho_mwp": 0.941,
+      "paneelimaara": 3500,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "VR FleetCare , junavarikko",
+      "paikkakunta": "Helsinki",
+      "vuosi": 2020,
+      "teho_mwp": 0.928,
+      "paneelimaara": 2264,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Kauppakeskus Veturi",
+      "paikkakunta": "Kouvola",
+      "vuosi": 2018,
+      "teho_mwp": 0.902,
+      "paneelimaara": 3339,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "K-citymarket Kupittaa",
+      "paikkakunta": "Turku",
+      "vuosi": 2017,
+      "teho_mwp": 0.9,
+      "paneelimaara": 2600,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "K-citymarket Länsikeskus",
+      "paikkakunta": "Turku",
+      "vuosi": 2017,
+      "teho_mwp": 0.9,
+      "paneelimaara": 2600,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Keskon keskusvarasto",
+      "paikkakunta": "Vantaa",
+      "vuosi": "",
+      "teho_mwp": 0.9,
+      "paneelimaara": "",
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "KWH Logistics , pakastevarastokeskus",
+      "paikkakunta": "Vantaa",
+      "vuosi": 2020,
+      "teho_mwp": 0.893,
+      "paneelimaara": "",
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Helen Oy, Kivikon aurinkovoimala",
+      "paikkakunta": "Helsinki",
+      "vuosi": 2016,
+      "teho_mwp": 0.853,
+      "paneelimaara": 3000,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Tokmanni , hallinto- ja logistiikkakeskus",
+      "paikkakunta": "Mäntsälä",
+      "vuosi": 2018,
+      "teho_mwp": 0.825,
+      "paneelimaara": 3000,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Sallila Energia Oy, Sallilan aurinkopuisto",
+      "paikkakunta": "Loimaa",
+      "vuosi": 2016,
+      "teho_mwp": 0.735,
+      "paneelimaara": 2400,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Suomen Voima Oy",
+      "paikkakunta": "Hamina",
+      "vuosi": 2016,
+      "teho_mwp": 0.72,
+      "paneelimaara": 2772,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Porin Puuvilla",
+      "paikkakunta": "Pori",
+      "vuosi": 2017,
+      "teho_mwp": 0.601,
+      "paneelimaara": 2223,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "K-Citymarket Linnainmaa",
+      "paikkakunta": "Tampere",
+      "vuosi": 2017,
+      "teho_mwp": 0.55,
+      "paneelimaara": 2115,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Kauppakeskus Goodman",
+      "paikkakunta": "Hämeenlinna",
+      "vuosi": 2018,
+      "teho_mwp": 0.587,
+      "paneelimaara": 2000,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Meyer Turku , telakka",
+      "paikkakunta": "Turku",
+      "vuosi": 2019,
+      "teho_mwp": 0.5465,
+      "paneelimaara": 1584,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "K-Citymarket Sastamala",
+      "paikkakunta": "Sastamala",
+      "vuosi": 2019,
+      "teho_mwp": 0.5412,
+      "paneelimaara": 1968,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "K-Citymarket Kokkola",
+      "paikkakunta": "Kokkola",
+      "vuosi": 2017,
+      "teho_mwp": 0.528,
+      "paneelimaara": "",
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Kauppakeskus Iso Omena",
+      "paikkakunta": "Espoo",
+      "vuosi": 2017,
+      "teho_mwp": 0.52,
+      "paneelimaara": 2000,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "LUT-yliopisto , Green Campus Lappeenranta",
+      "paikkakunta": "Lappeenranta",
+      "vuosi": "2012–2018",
+      "teho_mwp": 0.5085,
+      "paneelimaara": "",
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "K-Citymarket Tammisto",
+      "paikkakunta": "Vantaa",
+      "vuosi": 2016,
+      "teho_mwp": 0.503,
+      "paneelimaara": 1600,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Postin rahtiterminaali",
+      "paikkakunta": "Vantaa",
+      "vuosi": 2016,
+      "teho_mwp": 0.5,
+      "paneelimaara": "",
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Kauppakeskus Sello",
+      "paikkakunta": "Espoo",
+      "vuosi": 2018,
+      "teho_mwp": 0.5,
+      "paneelimaara": "",
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Lidl , Järvenpää Jakelukeskus aurinkovoimala",
+      "paikkakunta": "Järvenpää",
+      "vuosi": 2018,
+      "teho_mwp": 0.5,
+      "paneelimaara": 1600,
+      "urakoitsija_rakennuttaja": ""
+    },
+    {
+      "kohde": "Seaside Industry Park",
+      "paikkakunta": "Rauma",
+      "vuosi": 2018,
+      "teho_mwp": 0.5,
+      "paneelimaara": 1800,
+      "urakoitsija_rakennuttaja": ""
+    }
+  ],
+  "meta": {
+    "title": "Suomen suurimmat aurinkovoimalat - Free Download",
+    "description": "Suomen suurimmat aurinkovoimalat paikkakunnan, käyttöönottovuoden, tehon (MWp), paneelimäärän ja rakennuttajan mukaan. Contains 57 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Suomen suurimmat aurinkovoimalat | ListBase",
+    "seo_description": "Download Suomen suurimmat aurinkovoimalat — 57 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 57 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fi.wikipedia.org/wiki/Luettelo_Suomen_suurimmista_aurinkovoimaloista"
+    ]
+  }
+}

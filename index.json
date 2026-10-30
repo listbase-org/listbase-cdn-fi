@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-29T02:12:34.895Z",
-  "total_datasets": 504,
-  "total_records": 493162,
+  "generated": "2026-10-30T02:20:11.998Z",
+  "total_datasets": 505,
+  "total_records": 493219,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "finance",
@@ -1850,6 +1850,33 @@
         "xlsx": {
           "name": "fi-kirjakaupat_FI.xlsx",
           "size": 12473
+        }
+      }
+    },
+    {
+      "id": "fi-aurinkovoimalat",
+      "name": "Suomen suurimmat aurinkovoimalat",
+      "category": "environment",
+      "record_count": 57,
+      "columns": [
+        "kohde",
+        "paikkakunta",
+        "vuosi",
+        "teho_mwp",
+        "paneelimaara",
+        "urakoitsija_rakennuttaja"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_suurimmista_aurinkovoimaloista",
+      "updated": "2026-10",
+      "size": 13510,
+      "files": {
+        "csv": {
+          "name": "fi-aurinkovoimalat_FI.csv",
+          "size": 3906
+        },
+        "xlsx": {
+          "name": "fi-aurinkovoimalat_FI.xlsx",
+          "size": 9644
         }
       }
     },
