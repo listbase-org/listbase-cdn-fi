@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-30T02:20:52.003Z",
-  "total_datasets": 510,
-  "total_records": 494567,
+  "generated": "2026-10-30T02:21:02.318Z",
+  "total_datasets": 511,
+  "total_records": 494620,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -12059,6 +12059,33 @@
         "xlsx": {
           "name": "fi-poliisiasemat_FI.xlsx",
           "size": 10201
+        }
+      }
+    },
+    {
+      "id": "fi-vanhimmat-ihmiset",
+      "name": "Suomen vanhimmat ihmiset",
+      "category": "society",
+      "record_count": 53,
+      "columns": [
+        "sija",
+        "henkilo",
+        "sukupuoli",
+        "syntynyt",
+        "kuollut",
+        "ika"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_vanhimmista_ihmisistä",
+      "updated": "2026-10",
+      "size": 12782,
+      "files": {
+        "csv": {
+          "name": "fi-vanhimmat-ihmiset_FI.csv",
+          "size": 5112
+        },
+        "xlsx": {
+          "name": "fi-vanhimmat-ihmiset_FI.xlsx",
+          "size": 10014
         }
       }
     },
