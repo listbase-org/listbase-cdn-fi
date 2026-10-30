@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-30T02:20:34.550Z",
-  "total_datasets": 508,
-  "total_records": 493866,
+  "generated": "2026-10-30T02:20:41.902Z",
+  "total_datasets": 509,
+  "total_records": 494547,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -7667,6 +7667,34 @@
         "xlsx": {
           "name": "fi-kenraalikuvernoorit_FI.xlsx",
           "size": 8082
+        }
+      }
+    },
+    {
+      "id": "fi-sisallissodan-taistelut",
+      "name": "Suomen sisällissodan taistelut 1918",
+      "category": "history",
+      "record_count": 681,
+      "columns": [
+        "taistelu",
+        "paikka",
+        "paivamaara",
+        "kaatuneet_valkoiset",
+        "kaatuneet_punaiset",
+        "rintama_tai_vaihe",
+        "huom"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_sisällissodan_taisteluista",
+      "updated": "2026-10",
+      "size": 183805,
+      "files": {
+        "csv": {
+          "name": "fi-sisallissodan-taistelut_FI.csv",
+          "size": 65422
+        },
+        "xlsx": {
+          "name": "fi-sisallissodan-taistelut_FI.xlsx",
+          "size": 34374
         }
       }
     },
