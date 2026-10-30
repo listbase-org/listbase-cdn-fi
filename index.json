@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-30T02:20:25.553Z",
-  "total_datasets": 507,
-  "total_records": 493767,
+  "generated": "2026-10-30T02:20:34.550Z",
+  "total_datasets": 508,
+  "total_records": 493866,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -7742,6 +7742,33 @@
         "xlsx": {
           "name": "fi-ruotsin-ja-kaksikieliset-kunnat_FI.xlsx",
           "size": 8851
+        }
+      }
+    },
+    {
+      "id": "fi-saamelaisperaiset-paikannimet",
+      "name": "Suomen saamelaisperäiset paikannimet",
+      "category": "language",
+      "record_count": 99,
+      "columns": [
+        "nimi",
+        "sijainti",
+        "koordinaatit",
+        "maakunta",
+        "merkitys",
+        "varhaisin_maininta"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_saamelaisperäisistä_paikannimistä",
+      "updated": "2026-10",
+      "size": 41271,
+      "files": {
+        "csv": {
+          "name": "fi-saamelaisperaiset-paikannimet_FI.csv",
+          "size": 26001
+        },
+        "xlsx": {
+          "name": "fi-saamelaisperaiset-paikannimet_FI.xlsx",
+          "size": 18125
         }
       }
     },
