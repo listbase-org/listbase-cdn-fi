@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-30T02:20:19.330Z",
-  "total_datasets": 506,
-  "total_records": 493305,
+  "generated": "2026-10-30T02:20:25.553Z",
+  "total_datasets": 507,
+  "total_records": 493767,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -7817,6 +7817,31 @@
         "xlsx": {
           "name": "fi-oikeusministerit_FI.xlsx",
           "size": 10983
+        }
+      }
+    },
+    {
+      "id": "fi-rikoslain-rikokset",
+      "name": "Suomen rikoslain mukaiset rikokset ja rangaistukset",
+      "category": "law",
+      "record_count": 462,
+      "columns": [
+        "rikosnimike",
+        "vahimmaisrangaistus",
+        "enimmaisrangaistus",
+        "lainkohta"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_rikoslain_mukaisista_rikoksista",
+      "updated": "2026-10",
+      "size": 87171,
+      "files": {
+        "csv": {
+          "name": "fi-rikoslain-rikokset_FI.csv",
+          "size": 33269
+        },
+        "xlsx": {
+          "name": "fi-rikoslain-rikokset_FI.xlsx",
+          "size": 21572
         }
       }
     },
