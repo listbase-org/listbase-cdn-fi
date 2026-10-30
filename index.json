@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-10-30T02:20:11.998Z",
-  "total_datasets": 505,
-  "total_records": 493219,
+  "generated": "2026-10-30T02:20:19.330Z",
+  "total_datasets": 506,
+  "total_records": 493305,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -150,6 +150,32 @@
         "xlsx": {
           "name": "fi-kotielainten-lukumaara-1920-alkaen_FI.xlsx",
           "size": 19123
+        }
+      }
+    },
+    {
+      "id": "fi-perunalajikkeet",
+      "name": "Suomessa viljellyt perunalajikkeet",
+      "category": "agriculture",
+      "record_count": 86,
+      "columns": [
+        "perunalajike",
+        "perunatyyppi",
+        "aikaisuus",
+        "jalostaja",
+        "risteytys"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_perunalajikkeista",
+      "updated": "2026-10",
+      "size": 18101,
+      "files": {
+        "csv": {
+          "name": "fi-perunalajikkeet_FI.csv",
+          "size": 6314
+        },
+        "xlsx": {
+          "name": "fi-perunalajikkeet_FI.xlsx",
+          "size": 10563
         }
       }
     },
