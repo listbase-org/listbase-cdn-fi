@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-02T02:22:45.880Z",
-  "total_datasets": 515,
-  "total_records": 495452,
+  "generated": "2026-11-02T02:22:52.879Z",
+  "total_datasets": 516,
+  "total_records": 496000,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "economy",
@@ -892,6 +892,30 @@
         "xlsx": {
           "name": "fi-rauniot_FI.xlsx",
           "size": 12387
+        }
+      }
+    },
+    {
+      "id": "fi-sanomalehdet",
+      "name": "Suomalaiset sanomalehdet",
+      "category": "culture",
+      "record_count": 548,
+      "columns": [
+        "sanomalehti",
+        "ilmestymispaikka",
+        "ryhma"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomalaisista_sanomalehdistä",
+      "updated": "2026-11",
+      "size": 73263,
+      "files": {
+        "csv": {
+          "name": "fi-sanomalehdet_FI.csv",
+          "size": 29579
+        },
+        "xlsx": {
+          "name": "fi-sanomalehdet_FI.xlsx",
+          "size": 20216
         }
       }
     },
