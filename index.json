@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-10-30T02:21:02.318Z",
-  "total_datasets": 511,
-  "total_records": 494620,
+  "generated": "2026-11-02T02:22:24.848Z",
+  "total_datasets": 512,
+  "total_records": 494719,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -12115,6 +12115,32 @@
         "xlsx": {
           "name": "fi-golfkentat_FI.xlsx",
           "size": 11585
+        }
+      }
+    },
+    {
+      "id": "fi-jaakiekon-suomen-mestarit",
+      "name": "Jääkiekon Suomen-mestarit ja SM-mitalistit",
+      "category": "sports",
+      "record_count": 99,
+      "columns": [
+        "kausi",
+        "mestari",
+        "hopeaa",
+        "pronssia",
+        "sarja"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_jääkiekon_SM-mitalisteista",
+      "updated": "2026-11",
+      "size": 16913,
+      "files": {
+        "csv": {
+          "name": "fi-jaakiekon-suomen-mestarit_FI.csv",
+          "size": 5501
+        },
+        "xlsx": {
+          "name": "fi-jaakiekon-suomen-mestarit_FI.xlsx",
+          "size": 9669
         }
       }
     },
