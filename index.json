@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-02T02:22:24.848Z",
-  "total_datasets": 512,
-  "total_records": 494719,
+  "generated": "2026-11-02T02:22:31.435Z",
+  "total_datasets": 513,
+  "total_records": 494804,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -12270,6 +12270,31 @@
         "xlsx": {
           "name": "fi-kirjasto_FI.xlsx",
           "size": 96920
+        }
+      }
+    },
+    {
+      "id": "fi-matkapuhelinnumerot-suuntanumerot",
+      "name": "Matkapuhelinnumeroiden suuntanumerot Suomessa",
+      "category": "tech",
+      "record_count": 85,
+      "columns": [
+        "suuntanumero",
+        "vanha_suuntanumero",
+        "kayttaja",
+        "ryhma"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Matkapuhelinnumerot_Suomessa",
+      "updated": "2026-11",
+      "size": 14854,
+      "files": {
+        "csv": {
+          "name": "fi-matkapuhelinnumerot-suuntanumerot_FI.csv",
+          "size": 4792
+        },
+        "xlsx": {
+          "name": "fi-matkapuhelinnumerot-suuntanumerot_FI.xlsx",
+          "size": 9613
         }
       }
     },
