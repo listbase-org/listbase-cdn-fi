@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-02T02:22:31.435Z",
-  "total_datasets": 513,
-  "total_records": 494804,
+  "generated": "2026-11-02T02:22:39.095Z",
+  "total_datasets": 514,
+  "total_records": 495295,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -12295,6 +12295,32 @@
         "xlsx": {
           "name": "fi-matkapuhelinnumerot-suuntanumerot_FI.xlsx",
           "size": 9613
+        }
+      }
+    },
+    {
+      "id": "fi-nokia-matkapuhelinmallit",
+      "name": "Nokian matkapuhelinmallit",
+      "category": "tech",
+      "record_count": 491,
+      "columns": [
+        "malli",
+        "sarja",
+        "vuosi",
+        "markkina_alue",
+        "lisatietoja"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Nokian_tuotteista",
+      "updated": "2026-11",
+      "size": 76154,
+      "files": {
+        "csv": {
+          "name": "fi-nokia-matkapuhelinmallit_FI.csv",
+          "size": 22493
+        },
+        "xlsx": {
+          "name": "fi-nokia-matkapuhelinmallit_FI.xlsx",
+          "size": 20333
         }
       }
     },
