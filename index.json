@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-11-02T02:22:52.879Z",
-  "total_datasets": 516,
-  "total_records": 496000,
+  "generated": "2026-11-03T02:29:15.503Z",
+  "total_datasets": 517,
+  "total_records": 496136,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -150,6 +150,33 @@
         "xlsx": {
           "name": "fi-kotielainten-lukumaara-1920-alkaen_FI.xlsx",
           "size": 19123
+        }
+      }
+    },
+    {
+      "id": "fi-maa-ja-metsatalousministerit",
+      "name": "Suomen maa- ja metsätalousministerit",
+      "category": "agriculture",
+      "record_count": 136,
+      "columns": [
+        "tehtava",
+        "ministeri",
+        "elinvuodet",
+        "puolue",
+        "tehtavissa",
+        "hallitus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_maa-_ja_metsätalousministeriössä",
+      "updated": "2026-11",
+      "size": 33491,
+      "files": {
+        "csv": {
+          "name": "fi-maa-ja-metsatalousministerit_FI.csv",
+          "size": 14123
+        },
+        "xlsx": {
+          "name": "fi-maa-ja-metsatalousministerit_FI.xlsx",
+          "size": 12707
         }
       }
     },
