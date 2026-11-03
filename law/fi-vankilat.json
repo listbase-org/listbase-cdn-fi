@@ -1,0 +1,233 @@
+{
+  "id": "fi-vankilat",
+  "name": "Suomen vankilat",
+  "title": "Suomen vankilat",
+  "description": "Suomen vankilat: vankipaikkojen määrä, laitoksen tyyppi (suljettu/avolaitos), sukupuolijaottelu ja rikosseuraamusalue.",
+  "category": "law",
+  "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_vankiloista",
+  "source_url": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_vankiloista",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "laitos",
+      "label": "Laitos",
+      "type": "string"
+    },
+    {
+      "key": "paikkoja",
+      "label": "Paikkoja",
+      "type": "number"
+    },
+    {
+      "key": "tyyppi",
+      "label": "Tyyppi",
+      "type": "string"
+    },
+    {
+      "key": "sukupuolijaottelu",
+      "label": "Sukupuolijaottelu",
+      "type": "string"
+    },
+    {
+      "key": "rikosseuraamusalue",
+      "label": "Rikosseuraamusalue",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "laitos": "Helsingin vankila",
+      "paikkoja": 312,
+      "tyyppi": "suljettu laitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Etelä-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Jokelan vankila",
+      "paikkoja": 84,
+      "tyyppi": "suljettu laitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Etelä-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Keravan vankila",
+      "paikkoja": 94,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Etelä-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Riihimäen vankila",
+      "paikkoja": 223,
+      "tyyppi": "suljettu laitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Etelä-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Suomenlinnan vankila",
+      "paikkoja": 90,
+      "tyyppi": "perustettu Suomenlinnan peruskorjaus- ja entisöintitöitä varten.",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Etelä-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Vantaan vankila",
+      "paikkoja": 185,
+      "tyyppi": "tutkintavankila",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Etelä-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Hämeenlinnan vankila",
+      "paikkoja": 100,
+      "tyyppi": "",
+      "sukupuolijaottelu": "naisille",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Kylmäkosken vankila",
+      "paikkoja": 113,
+      "tyyppi": "suljettu",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Käyrän vankila",
+      "paikkoja": 73,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Satakunnan vankila (Huittinen ja Köyliö)",
+      "paikkoja": 180,
+      "tyyppi": "suljettu ja avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Turun vankila",
+      "paikkoja": 255,
+      "tyyppi": "suljettu",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Vaasan vankila",
+      "paikkoja": 70,
+      "tyyppi": "suljettu ja avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Vanajan vankila (Vanaja ja Ojoinen)",
+      "paikkoja": "60 Vanaja, 50 Ojoinen",
+      "tyyppi": "avolaitos Vanaja, avolaitos Ojoinen",
+      "sukupuolijaottelu": "naisille Vanaja, miehille Ojoinen",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Vilppulan vankila",
+      "paikkoja": 73,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Länsi-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Juuan vankila",
+      "paikkoja": 40,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "miehille",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Kestilän vankila",
+      "paikkoja": 46,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Kuopion vankila",
+      "paikkoja": 93,
+      "tyyppi": "suljettu",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Mikkelin vankila",
+      "paikkoja": 110,
+      "tyyppi": "suljettu",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Naarajärven vankila",
+      "paikkoja": 101,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Oulun vankila",
+      "paikkoja": 100,
+      "tyyppi": "tutkintavankila",
+      "sukupuolijaottelu": "miehille ja naisille",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Pyhäselän vankila",
+      "paikkoja": 87,
+      "tyyppi": "suljettu",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Sukevan vankila",
+      "paikkoja": 181,
+      "tyyppi": "suljettu",
+      "sukupuolijaottelu": "miehille",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Sulkavan vankila",
+      "paikkoja": 48,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Vaalan vankila",
+      "paikkoja": 100,
+      "tyyppi": "suljettu",
+      "sukupuolijaottelu": "miehille",
+      "rikosseuraamusalue": "Pohjois-Suomen rikosseuraamuskeskus"
+    },
+    {
+      "laitos": "Ylitornion vankila",
+      "paikkoja": 40,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "miehille",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    },
+    {
+      "laitos": "Jyväskylän vankila",
+      "paikkoja": 60,
+      "tyyppi": "avolaitos",
+      "sukupuolijaottelu": "",
+      "rikosseuraamusalue": "Itä- ja Pohjois-Suomen rikosseuraamusalue"
+    }
+  ],
+  "meta": {
+    "title": "Suomen vankilat - Free Download",
+    "description": "Suomen vankilat: vankipaikkojen määrä, laitoksen tyyppi (suljettu/avolaitos), sukupuolijaottelu ja rikosseuraamusalue. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Suomen vankilat | ListBase",
+    "seo_description": "Download Suomen vankilat — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fi.wikipedia.org/wiki/Luettelo_Suomen_vankiloista"
+    ]
+  }
+}
