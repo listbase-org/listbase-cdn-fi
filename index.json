@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-03T02:29:22.704Z",
-  "total_datasets": 518,
-  "total_records": 496740,
+  "generated": "2026-11-03T02:29:29.198Z",
+  "total_datasets": 519,
+  "total_records": 497375,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -12160,6 +12160,35 @@
         "xlsx": {
           "name": "fi-poliisiasemat_FI.xlsx",
           "size": 10201
+        }
+      }
+    },
+    {
+      "id": "fi-tyovaentalot",
+      "name": "Suomen työväentalot",
+      "category": "society",
+      "record_count": 635,
+      "columns": [
+        "maakunta",
+        "kunta",
+        "tyovaentalo",
+        "sijainti",
+        "avattu",
+        "suljettu",
+        "huomautuksia",
+        "tila"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_työväentaloista",
+      "updated": "2026-11",
+      "size": 178305,
+      "files": {
+        "csv": {
+          "name": "fi-tyovaentalot_FI.csv",
+          "size": 74726
+        },
+        "xlsx": {
+          "name": "fi-tyovaentalot_FI.xlsx",
+          "size": 41650
         }
       }
     },
