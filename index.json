@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-03T02:29:15.503Z",
-  "total_datasets": 517,
-  "total_records": 496136,
+  "generated": "2026-11-03T02:29:22.704Z",
+  "total_datasets": 518,
+  "total_records": 496740,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -7872,6 +7872,32 @@
         "xlsx": {
           "name": "fi-saamelaisperaiset-paikannimet_FI.xlsx",
           "size": 18125
+        }
+      }
+    },
+    {
+      "id": "fi-suomen-kielen-uudissanat",
+      "name": "Suomen kielen uudissanat",
+      "category": "language",
+      "record_count": 604,
+      "columns": [
+        "termi",
+        "sanaluokka",
+        "vuosikymmen",
+        "kehittaja_tai_varhainen_kayttaja",
+        "lahde_ja_huomautukset"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomen_kielen_uudissanoista",
+      "updated": "2026-11",
+      "size": 123710,
+      "files": {
+        "csv": {
+          "name": "fi-suomen-kielen-uudissanat_FI.csv",
+          "size": 33834
+        },
+        "xlsx": {
+          "name": "fi-suomen-kielen-uudissanat_FI.xlsx",
+          "size": 27346
         }
       }
     },
