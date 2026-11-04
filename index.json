@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-04T02:10:44.295Z",
-  "total_datasets": 521,
-  "total_records": 497543,
+  "generated": "2026-11-04T02:10:52.891Z",
+  "total_datasets": 522,
+  "total_records": 497675,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -7767,6 +7767,32 @@
         "xlsx": {
           "name": "fi-kenraalikuvernoorit_FI.xlsx",
           "size": 8082
+        }
+      }
+    },
+    {
+      "id": "fi-muinaislinnat",
+      "name": "Suomen muinaislinnat",
+      "category": "history",
+      "record_count": 132,
+      "columns": [
+        "nimi",
+        "aikakausi",
+        "kunta",
+        "maakunta",
+        "koordinaatit"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_muinaislinnoista",
+      "updated": "2026-11",
+      "size": 27435,
+      "files": {
+        "csv": {
+          "name": "fi-muinaislinnat_FI.csv",
+          "size": 12018
+        },
+        "xlsx": {
+          "name": "fi-muinaislinnat_FI.xlsx",
+          "size": 13233
         }
       }
     },
