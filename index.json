@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-03T02:29:36.460Z",
-  "total_datasets": 520,
-  "total_records": 497401,
+  "generated": "2026-11-04T02:10:44.295Z",
+  "total_datasets": 521,
+  "total_records": 497543,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -1306,6 +1306,31 @@
         "xlsx": {
           "name": "fi-yhteisotalot_FI.xlsx",
           "size": 50682
+        }
+      }
+    },
+    {
+      "id": "fi-helsingin-porssin-yhtiot",
+      "name": "Helsingin pörssissä noteeratut yhtiöt",
+      "category": "economy",
+      "record_count": 142,
+      "columns": [
+        "yhtio",
+        "toimiala",
+        "lista",
+        "kansallisuus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Helsingin_pörssissä_noteeratuista_yhtiöistä",
+      "updated": "2026-11",
+      "size": 22629,
+      "files": {
+        "csv": {
+          "name": "fi-helsingin-porssin-yhtiot_FI.csv",
+          "size": 8724
+        },
+        "xlsx": {
+          "name": "fi-helsingin-porssin-yhtiot_FI.xlsx",
+          "size": 10504
         }
       }
     },
