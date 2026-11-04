@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-04T02:11:02.397Z",
-  "total_datasets": 523,
-  "total_records": 497725,
+  "generated": "2026-11-04T02:11:11.189Z",
+  "total_datasets": 524,
+  "total_records": 497907,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "society",
@@ -12195,6 +12195,31 @@
         "xlsx": {
           "name": "fi-tieteen-akateemikot_FI.xlsx",
           "size": 8631
+        }
+      }
+    },
+    {
+      "id": "fi-vaisalan-ja-oterman-loytamat-asteroidit",
+      "name": "Yrjö Väisälän ja Liisi Oterman löytämät asteroidit",
+      "category": "science",
+      "record_count": 182,
+      "columns": [
+        "numero",
+        "nimi",
+        "loytopaiva",
+        "loytaja"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Yrjö_Väisälän_löytämistä_asteroideista",
+      "updated": "2026-11",
+      "size": 26915,
+      "files": {
+        "csv": {
+          "name": "fi-vaisalan-ja-oterman-loytamat-asteroidit_FI.csv",
+          "size": 10377
+        },
+        "xlsx": {
+          "name": "fi-vaisalan-ja-oterman-loytamat-asteroidit_FI.xlsx",
+          "size": 12341
         }
       }
     },
