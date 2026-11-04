@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-04T02:10:52.891Z",
-  "total_datasets": 522,
-  "total_records": 497675,
+  "generated": "2026-11-04T02:11:02.397Z",
+  "total_datasets": 523,
+  "total_records": 497725,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -2206,6 +2206,35 @@
         "xlsx": {
           "name": "fi-pankkiautomaatit_FI.xlsx",
           "size": 15066
+        }
+      }
+    },
+    {
+      "id": "fi-suomen-euromaaraiset-juhlarahat",
+      "name": "Suomen euromääräiset juhla- ja keräilyrahat",
+      "category": "finance",
+      "record_count": 50,
+      "columns": [
+        "aihe",
+        "vuosi",
+        "lyontimaara_bu",
+        "lyontimaara_proof",
+        "materiaali",
+        "halkaisija",
+        "paino",
+        "nimellisarvo"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomalaiset_eurokolikot",
+      "updated": "2026-11",
+      "size": 16040,
+      "files": {
+        "csv": {
+          "name": "fi-suomen-euromaaraiset-juhlarahat_FI.csv",
+          "size": 5491
+        },
+        "xlsx": {
+          "name": "fi-suomen-euromaaraiset-juhlarahat_FI.xlsx",
+          "size": 9495
         }
       }
     },
