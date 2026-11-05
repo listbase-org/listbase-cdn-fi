@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-05T02:12:50.822Z",
-  "total_datasets": 525,
-  "total_records": 497949,
+  "generated": "2026-11-05T02:13:00.667Z",
+  "total_datasets": 526,
+  "total_records": 498163,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -2085,6 +2085,35 @@
         "xlsx": {
           "name": "fi-luonnonsuojelualueet_FI.xlsx",
           "size": 109998
+        }
+      }
+    },
+    {
+      "id": "fi-tuulivoimalat",
+      "name": "Suomen tuulivoimalat ja tuulipuistot",
+      "category": "environment",
+      "record_count": 214,
+      "columns": [
+        "nimi",
+        "kunta",
+        "omistaja",
+        "valmistaja",
+        "vuosi",
+        "lukumaara",
+        "teho_mw",
+        "muuta"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_tuulivoimaloista",
+      "updated": "2026-11",
+      "size": 49530,
+      "files": {
+        "csv": {
+          "name": "fi-tuulivoimalat_FI.csv",
+          "size": 16161
+        },
+        "xlsx": {
+          "name": "fi-tuulivoimalat_FI.xlsx",
+          "size": 18008
         }
       }
     },
