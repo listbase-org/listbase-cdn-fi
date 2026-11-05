@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-05T02:13:00.667Z",
-  "total_datasets": 526,
-  "total_records": 498163,
+  "generated": "2026-11-05T02:13:10.402Z",
+  "total_datasets": 527,
+  "total_records": 498263,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -8007,6 +8007,32 @@
         "xlsx": {
           "name": "fi-suomen-kielen-uudissanat_FI.xlsx",
           "size": 27346
+        }
+      }
+    },
+    {
+      "id": "fi-venalaiset-lainasanat",
+      "name": "Suomen kielen venäläiset lainasanat",
+      "category": "language",
+      "record_count": 100,
+      "columns": [
+        "sana",
+        "merkitys",
+        "alkupera",
+        "ryhma",
+        "kuvaus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomen_venäläisistä_lainasanoista",
+      "updated": "2026-11",
+      "size": 35317,
+      "files": {
+        "csv": {
+          "name": "fi-venalaiset-lainasanat_FI.csv",
+          "size": 23820
+        },
+        "xlsx": {
+          "name": "fi-venalaiset-lainasanat_FI.xlsx",
+          "size": 15309
         }
       }
     },
