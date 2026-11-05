@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-04T02:11:11.189Z",
-  "total_datasets": 524,
-  "total_records": 497907,
+  "generated": "2026-11-05T02:12:50.822Z",
+  "total_datasets": 525,
+  "total_records": 497949,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -8208,6 +8208,30 @@
         "xlsx": {
           "name": "fi-spotify-kuunnelluimmat-suomenkieliset-kappaleet_FI.xlsx",
           "size": 7695
+        }
+      }
+    },
+    {
+      "id": "fi-tangokuninkaalliset",
+      "name": "Tangomarkkinoiden tangokuninkaalliset",
+      "category": "music",
+      "record_count": 42,
+      "columns": [
+        "vuosi",
+        "tangokuningatar",
+        "tangokuningas"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Seinäjoen_tangomarkkinat",
+      "updated": "2026-11",
+      "size": 6661,
+      "files": {
+        "csv": {
+          "name": "fi-tangokuninkaalliset_FI.csv",
+          "size": 2025
+        },
+        "xlsx": {
+          "name": "fi-tangokuninkaalliset_FI.xlsx",
+          "size": 8200
         }
       }
     },
