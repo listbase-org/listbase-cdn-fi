@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-06T02:38:04.929Z",
-  "total_datasets": 532,
-  "total_records": 498672,
+  "generated": "2026-11-06T02:38:15.692Z",
+  "total_datasets": 533,
+  "total_records": 498678,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 178
+      "dataset_count": 179
     },
     {
       "id": "health",
@@ -7622,6 +7622,31 @@
         "xlsx": {
           "name": "fi-suurimmat-jarvet_FI.xlsx",
           "size": 11360
+        }
+      }
+    },
+    {
+      "id": "fi-syvimmat-jarvet",
+      "name": "Suomen syvimmät järvet",
+      "category": "geography",
+      "record_count": 6,
+      "columns": [
+        "jarvi",
+        "jarvenosa",
+        "kunta",
+        "syvyys_m"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_syvimmistä_järvistä",
+      "updated": "2026-11",
+      "size": 2148,
+      "files": {
+        "csv": {
+          "name": "fi-syvimmat-jarvet_FI.csv",
+          "size": 261
+        },
+        "xlsx": {
+          "name": "fi-syvimmat-jarvet_FI.xlsx",
+          "size": 6917
         }
       }
     },
