@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-06T02:37:34.780Z",
-  "total_datasets": 529,
-  "total_records": 498540,
+  "generated": "2026-11-06T02:37:46.120Z",
+  "total_datasets": 530,
+  "total_records": 498547,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -16255,6 +16255,32 @@
         "xlsx": {
           "name": "fi-mittayksikot_FI.xlsx",
           "size": 16818
+        }
+      }
+    },
+    {
+      "id": "fi-si-perusyksikot",
+      "name": "SI-perusyksiköt",
+      "category": "units",
+      "record_count": 7,
+      "columns": [
+        "suure",
+        "suure_tunnus",
+        "yksikko",
+        "yksikko_tunnus",
+        "maaritelma"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/SI-järjestelmä",
+      "updated": "2026-11",
+      "size": 4402,
+      "files": {
+        "csv": {
+          "name": "fi-si-perusyksikot_FI.csv",
+          "size": 2192
+        },
+        "xlsx": {
+          "name": "fi-si-perusyksikot_FI.xlsx",
+          "size": 7768
         }
       }
     },
