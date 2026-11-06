@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-05T02:13:20.381Z",
-  "total_datasets": 528,
-  "total_records": 498355,
+  "generated": "2026-11-06T02:37:34.780Z",
+  "total_datasets": 529,
+  "total_records": 498540,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -16227,6 +16227,34 @@
         "xlsx": {
           "name": "fi-uusimaa-unlocode_FI.xlsx",
           "size": 20001
+        }
+      }
+    },
+    {
+      "id": "fi-mittayksikot",
+      "name": "Mittayksiköt (CLDR suomi)",
+      "category": "units",
+      "record_count": 185,
+      "columns": [
+        "unit_code",
+        "kategoria",
+        "nimi",
+        "yksikko",
+        "monikko",
+        "lyhyt",
+        "kapea"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 44859,
+      "files": {
+        "csv": {
+          "name": "fi-mittayksikot_FI.csv",
+          "size": 18277
+        },
+        "xlsx": {
+          "name": "fi-mittayksikot_FI.xlsx",
+          "size": 16818
         }
       }
     },

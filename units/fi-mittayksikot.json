@@ -1,0 +1,1726 @@
+{
+  "id": "fi-mittayksikot",
+  "name": "Mittayksiköt (CLDR suomi)",
+  "title": "Mittayksiköt (CLDR suomi)",
+  "description": "Mittayksiköt suomenkielisine nimineen ja malleineen CLDR units.json -tiedostosta (long/short/narrow).",
+  "category": "units",
+  "source": "https://github.com/unicode-org/cldr",
+  "source_url": "https://github.com/unicode-org/cldr",
+  "updated": "2026-11",
+  "record_count": 185,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoria",
+      "label": "Kategoria",
+      "type": "string"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "yksikko",
+      "label": "Yksikko",
+      "type": "string"
+    },
+    {
+      "key": "monikko",
+      "label": "Monikko",
+      "type": "string"
+    },
+    {
+      "key": "lyhyt",
+      "label": "Lyhyt",
+      "type": "string"
+    },
+    {
+      "key": "kapea",
+      "label": "Kapea",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "acceleration-g-force",
+      "kategoria": "acceleration",
+      "nimi": "G-voimat",
+      "yksikko": "{0} G-voima",
+      "monikko": "{0} G-voimaa",
+      "lyhyt": "{0} G",
+      "kapea": "{0}G"
+    },
+    {
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategoria": "acceleration",
+      "nimi": "metrit per sekunti toiseen",
+      "yksikko": "{0} metri per sekunti toiseen",
+      "monikko": "{0} metriä per sekunti toiseen",
+      "lyhyt": "{0} m/s²",
+      "kapea": "{0}m/s²"
+    },
+    {
+      "unit_code": "angle-arc-minute",
+      "kategoria": "angle",
+      "nimi": "kulmaminuutit",
+      "yksikko": "{0} kulmaminuutti",
+      "monikko": "{0} kulmaminuuttia",
+      "lyhyt": "{0}′",
+      "kapea": "{0}′"
+    },
+    {
+      "unit_code": "angle-arc-second",
+      "kategoria": "angle",
+      "nimi": "kulmasekunnit",
+      "yksikko": "{0} kulmasekunti",
+      "monikko": "{0} kulmasekuntia",
+      "lyhyt": "{0}″",
+      "kapea": "{0}″"
+    },
+    {
+      "unit_code": "angle-degree",
+      "kategoria": "angle",
+      "nimi": "asteet",
+      "yksikko": "{0} aste",
+      "monikko": "{0} astetta",
+      "lyhyt": "{0}°",
+      "kapea": "{0}°"
+    },
+    {
+      "unit_code": "angle-radian",
+      "kategoria": "angle",
+      "nimi": "radiaanit",
+      "yksikko": "{0} radiaani",
+      "monikko": "{0} radiaania",
+      "lyhyt": "{0} rad",
+      "kapea": "{0}rad"
+    },
+    {
+      "unit_code": "angle-revolution",
+      "kategoria": "angle",
+      "nimi": "kierros",
+      "yksikko": "{0} kierros",
+      "monikko": "{0} kierrosta",
+      "lyhyt": "{0} rev",
+      "kapea": "{0}rev"
+    },
+    {
+      "unit_code": "area-acre",
+      "kategoria": "area",
+      "nimi": "eekkerit",
+      "yksikko": "{0} eekkeri",
+      "monikko": "{0} eekkeriä",
+      "lyhyt": "{0} ac",
+      "kapea": "{0}ac"
+    },
+    {
+      "unit_code": "area-dunam",
+      "kategoria": "area",
+      "nimi": "dunamit",
+      "yksikko": "{0} dunam",
+      "monikko": "{0} dunamia",
+      "lyhyt": "{0} dunamia",
+      "kapea": "{0}dunam"
+    },
+    {
+      "unit_code": "area-hectare",
+      "kategoria": "area",
+      "nimi": "hehtaarit",
+      "yksikko": "{0} hehtaari",
+      "monikko": "{0} hehtaaria",
+      "lyhyt": "{0} ha",
+      "kapea": "{0}ha"
+    },
+    {
+      "unit_code": "area-square-centimeter",
+      "kategoria": "area",
+      "nimi": "neliösenttimetrit",
+      "yksikko": "{0} neliösenttimetri",
+      "monikko": "{0} neliösenttimetriä",
+      "lyhyt": "{0} cm²",
+      "kapea": "{0}cm²"
+    },
+    {
+      "unit_code": "area-square-foot",
+      "kategoria": "area",
+      "nimi": "neliöjalat",
+      "yksikko": "{0} neliöjalka",
+      "monikko": "{0} neliöjalkaa",
+      "lyhyt": "{0} ft²",
+      "kapea": "{0}ft²"
+    },
+    {
+      "unit_code": "area-square-inch",
+      "kategoria": "area",
+      "nimi": "neliötuumat",
+      "yksikko": "{0} neliötuuma",
+      "monikko": "{0} neliötuumaa",
+      "lyhyt": "{0} in²",
+      "kapea": "{0}in²"
+    },
+    {
+      "unit_code": "area-square-kilometer",
+      "kategoria": "area",
+      "nimi": "neliökilometrit",
+      "yksikko": "{0} neliökilometri",
+      "monikko": "{0} neliökilometriä",
+      "lyhyt": "{0} km²",
+      "kapea": "{0}km²"
+    },
+    {
+      "unit_code": "area-square-meter",
+      "kategoria": "area",
+      "nimi": "neliömetrit",
+      "yksikko": "{0} neliömetri",
+      "monikko": "{0} neliömetriä",
+      "lyhyt": "{0} m²",
+      "kapea": "{0}m²"
+    },
+    {
+      "unit_code": "area-square-mile",
+      "kategoria": "area",
+      "nimi": "neliömailit",
+      "yksikko": "{0} neliömaili",
+      "monikko": "{0} neliömailia",
+      "lyhyt": "{0} mi²",
+      "kapea": "{0}mi²"
+    },
+    {
+      "unit_code": "area-square-yard",
+      "kategoria": "area",
+      "nimi": "neliöjaardit",
+      "yksikko": "{0} neliöjaardi",
+      "monikko": "{0} neliöjaardia",
+      "lyhyt": "{0} yd²",
+      "kapea": "{0}yd²"
+    },
+    {
+      "unit_code": "concentr-item",
+      "kategoria": "concentr",
+      "nimi": "kohteet",
+      "yksikko": "{0} kohde",
+      "monikko": "{0} kohdetta",
+      "lyhyt": "{0} kohde",
+      "kapea": "{0} kohdetta"
+    },
+    {
+      "unit_code": "concentr-karat",
+      "kategoria": "concentr",
+      "nimi": "karaatit",
+      "yksikko": "{0} karaatti",
+      "monikko": "{0} karaattia",
+      "lyhyt": "{0} ka",
+      "kapea": "{0}ka"
+    },
+    {
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategoria": "concentr",
+      "nimi": "milligrammat desilitrassa",
+      "yksikko": "{0} milligramma desilitrassa",
+      "monikko": "{0} milligrammaa desilitrassa",
+      "lyhyt": "{0} mg/dl",
+      "kapea": "{0}mg/dl"
+    },
+    {
+      "unit_code": "concentr-millimole-per-liter",
+      "kategoria": "concentr",
+      "nimi": "millimoolit litrassa",
+      "yksikko": "{0} millimooli litrassa",
+      "monikko": "{0} millimoolia litrassa",
+      "lyhyt": "{0} mmol/l",
+      "kapea": "{0}mmol/l"
+    },
+    {
+      "unit_code": "concentr-mole",
+      "kategoria": "concentr",
+      "nimi": "moolit",
+      "yksikko": "{0} mooli",
+      "monikko": "{0} moolia",
+      "lyhyt": "{0} mol",
+      "kapea": "{0}mol"
+    },
+    {
+      "unit_code": "concentr-percent",
+      "kategoria": "concentr",
+      "nimi": "prosentit",
+      "yksikko": "{0} prosentti",
+      "monikko": "{0} prosenttia",
+      "lyhyt": "{0} %",
+      "kapea": "{0} %"
+    },
+    {
+      "unit_code": "concentr-permille",
+      "kategoria": "concentr",
+      "nimi": "promillet",
+      "yksikko": "{0} promille",
+      "monikko": "{0} promillea",
+      "lyhyt": "{0} ‰",
+      "kapea": "{0}‰"
+    },
+    {
+      "unit_code": "concentr-permillion",
+      "kategoria": "concentr",
+      "nimi": "miljoonasosat",
+      "yksikko": "{0} miljoonasosa",
+      "monikko": "{0} miljoonasosaa",
+      "lyhyt": "{0} ppm",
+      "kapea": "{0}ppm"
+    },
+    {
+      "unit_code": "concentr-permyriad",
+      "kategoria": "concentr",
+      "nimi": "peruspiste",
+      "yksikko": "{0} peruspiste",
+      "monikko": "{0} peruspistettä",
+      "lyhyt": "{0} ‱",
+      "kapea": "{0}‱"
+    },
+    {
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategoria": "consumption",
+      "nimi": "litrat / 100 kilometriä",
+      "yksikko": "{0} litra / 100 km",
+      "monikko": "{0} litraa / 100 km",
+      "lyhyt": "{0} l/100 km",
+      "kapea": "{0}l/100km"
+    },
+    {
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategoria": "consumption",
+      "nimi": "litrat / kilometri",
+      "yksikko": "{0} litra / kilometri",
+      "monikko": "{0} litraa / kilometri",
+      "lyhyt": "{0} l/km",
+      "kapea": "{0}l/km"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon",
+      "kategoria": "consumption",
+      "nimi": "mailit / am. gallona",
+      "yksikko": "{0} maili / am. gallona",
+      "monikko": "{0} mailia / am. gallona",
+      "lyhyt": "{0} mpg-am",
+      "kapea": "{0}mpg-am"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategoria": "consumption",
+      "nimi": "mailit / br. gallona",
+      "yksikko": "{0} maili / br. gallona",
+      "monikko": "{0} mailia / br. gallona",
+      "lyhyt": "{0} mpg-br",
+      "kapea": "{0}mpg-br"
+    },
+    {
+      "unit_code": "coordinateUnit",
+      "kategoria": "coordinateUnit",
+      "nimi": "pääilmansuunta",
+      "yksikko": "",
+      "monikko": "",
+      "lyhyt": "",
+      "kapea": ""
+    },
+    {
+      "unit_code": "digital-bit",
+      "kategoria": "digital",
+      "nimi": "bitit",
+      "yksikko": "{0} bitti",
+      "monikko": "{0} bittiä",
+      "lyhyt": "{0} b",
+      "kapea": "{0}b"
+    },
+    {
+      "unit_code": "digital-byte",
+      "kategoria": "digital",
+      "nimi": "tavut",
+      "yksikko": "{0} tavu",
+      "monikko": "{0} tavua",
+      "lyhyt": "{0} t",
+      "kapea": "{0}t"
+    },
+    {
+      "unit_code": "digital-gigabit",
+      "kategoria": "digital",
+      "nimi": "gigabitit",
+      "yksikko": "{0} gigabitti",
+      "monikko": "{0} gigabittiä",
+      "lyhyt": "{0} Gb",
+      "kapea": "{0}Gb"
+    },
+    {
+      "unit_code": "digital-gigabyte",
+      "kategoria": "digital",
+      "nimi": "gigatavut",
+      "yksikko": "{0} gigatavu",
+      "monikko": "{0} gigatavua",
+      "lyhyt": "{0} Gt",
+      "kapea": "{0}Gt"
+    },
+    {
+      "unit_code": "digital-kilobit",
+      "kategoria": "digital",
+      "nimi": "kilobitit",
+      "yksikko": "{0} kilobitti",
+      "monikko": "{0} kilobittiä",
+      "lyhyt": "{0} kb",
+      "kapea": "{0}kb"
+    },
+    {
+      "unit_code": "digital-kilobyte",
+      "kategoria": "digital",
+      "nimi": "kilotavut",
+      "yksikko": "{0} kilotavu",
+      "monikko": "{0} kilotavua",
+      "lyhyt": "{0} kt",
+      "kapea": "{0}kt"
+    },
+    {
+      "unit_code": "digital-megabit",
+      "kategoria": "digital",
+      "nimi": "megabitit",
+      "yksikko": "{0} megabitti",
+      "monikko": "{0} megabittiä",
+      "lyhyt": "{0} Mb",
+      "kapea": "{0}Mb"
+    },
+    {
+      "unit_code": "digital-megabyte",
+      "kategoria": "digital",
+      "nimi": "megatavut",
+      "yksikko": "{0} megatavu",
+      "monikko": "{0} megatavua",
+      "lyhyt": "{0} Mt",
+      "kapea": "{0}Mt"
+    },
+    {
+      "unit_code": "digital-petabyte",
+      "kategoria": "digital",
+      "nimi": "petatavut",
+      "yksikko": "{0} petatavu",
+      "monikko": "{0} petatavua",
+      "lyhyt": "{0} Pt",
+      "kapea": "{0}Pt"
+    },
+    {
+      "unit_code": "digital-terabit",
+      "kategoria": "digital",
+      "nimi": "terabitit",
+      "yksikko": "{0} terabitti",
+      "monikko": "{0} terabittiä",
+      "lyhyt": "{0} Tb",
+      "kapea": "{0}Tb"
+    },
+    {
+      "unit_code": "digital-terabyte",
+      "kategoria": "digital",
+      "nimi": "teratavut",
+      "yksikko": "{0} teratavu",
+      "monikko": "{0} teratavua",
+      "lyhyt": "{0} Tt",
+      "kapea": "{0}Tt"
+    },
+    {
+      "unit_code": "duration-century",
+      "kategoria": "duration",
+      "nimi": "vuosisadat",
+      "yksikko": "{0} vuosisata",
+      "monikko": "{0} vuosisataa",
+      "lyhyt": "{0} vs",
+      "kapea": "{0} vs"
+    },
+    {
+      "unit_code": "duration-day",
+      "kategoria": "duration",
+      "nimi": "päivät",
+      "yksikko": "{0} päivä",
+      "monikko": "{0} päivää",
+      "lyhyt": "{0} pv",
+      "kapea": "{0}pv"
+    },
+    {
+      "unit_code": "duration-decade",
+      "kategoria": "duration",
+      "nimi": "vuosikymmenet",
+      "yksikko": "{0} vuosikymmen",
+      "monikko": "{0} vuosikymmentä",
+      "lyhyt": "{0} dec",
+      "kapea": "{0} dec"
+    },
+    {
+      "unit_code": "duration-hour",
+      "kategoria": "duration",
+      "nimi": "tunnit",
+      "yksikko": "{0} tunti",
+      "monikko": "{0} tuntia",
+      "lyhyt": "{0} t",
+      "kapea": "{0}t"
+    },
+    {
+      "unit_code": "duration-microsecond",
+      "kategoria": "duration",
+      "nimi": "mikrosekunnit",
+      "yksikko": "{0} mikrosekunti",
+      "monikko": "{0} mikrosekuntia",
+      "lyhyt": "{0} μs",
+      "kapea": "{0}μs"
+    },
+    {
+      "unit_code": "duration-millisecond",
+      "kategoria": "duration",
+      "nimi": "millisekunnit",
+      "yksikko": "{0} millisekunti",
+      "monikko": "{0} millisekuntia",
+      "lyhyt": "{0} ms",
+      "kapea": "{0}ms"
+    },
+    {
+      "unit_code": "duration-minute",
+      "kategoria": "duration",
+      "nimi": "minuutit",
+      "yksikko": "{0} minuutti",
+      "monikko": "{0} minuuttia",
+      "lyhyt": "{0} min",
+      "kapea": "{0}min"
+    },
+    {
+      "unit_code": "duration-month",
+      "kategoria": "duration",
+      "nimi": "kuukaudet",
+      "yksikko": "{0} kuukausi",
+      "monikko": "{0} kuukautta",
+      "lyhyt": "{0} kk",
+      "kapea": "{0}kk"
+    },
+    {
+      "unit_code": "duration-nanosecond",
+      "kategoria": "duration",
+      "nimi": "nanosekunnit",
+      "yksikko": "{0} nanosekunti",
+      "monikko": "{0} nanosekuntia",
+      "lyhyt": "{0} ns",
+      "kapea": "{0}ns"
+    },
+    {
+      "unit_code": "duration-quarter",
+      "kategoria": "duration",
+      "nimi": "neljännekset",
+      "yksikko": "{0} neljännes",
+      "monikko": "{0} neljännestä",
+      "lyhyt": "{0} q",
+      "kapea": "{0} q"
+    },
+    {
+      "unit_code": "duration-second",
+      "kategoria": "duration",
+      "nimi": "sekunnit",
+      "yksikko": "{0} sekunti",
+      "monikko": "{0} sekuntia",
+      "lyhyt": "{0} s",
+      "kapea": "{0}s"
+    },
+    {
+      "unit_code": "duration-week",
+      "kategoria": "duration",
+      "nimi": "viikot",
+      "yksikko": "{0} viikko",
+      "monikko": "{0} viikkoa",
+      "lyhyt": "{0} vk",
+      "kapea": "{0}vk"
+    },
+    {
+      "unit_code": "duration-year",
+      "kategoria": "duration",
+      "nimi": "vuodet",
+      "yksikko": "{0} vuosi",
+      "monikko": "{0} vuotta",
+      "lyhyt": "{0} v",
+      "kapea": "{0}v"
+    },
+    {
+      "unit_code": "electric-ampere",
+      "kategoria": "electric",
+      "nimi": "ampeerit",
+      "yksikko": "{0} ampeeri",
+      "monikko": "{0} ampeeria",
+      "lyhyt": "{0} A",
+      "kapea": "{0}A"
+    },
+    {
+      "unit_code": "electric-milliampere",
+      "kategoria": "electric",
+      "nimi": "milliampeerit",
+      "yksikko": "{0} milliampeeri",
+      "monikko": "{0} milliampeeria",
+      "lyhyt": "{0} mA",
+      "kapea": "{0}mA"
+    },
+    {
+      "unit_code": "electric-ohm",
+      "kategoria": "electric",
+      "nimi": "ohmit",
+      "yksikko": "{0} ohmi",
+      "monikko": "{0} ohmia",
+      "lyhyt": "{0} Ω",
+      "kapea": "{0}Ω"
+    },
+    {
+      "unit_code": "electric-volt",
+      "kategoria": "electric",
+      "nimi": "voltit",
+      "yksikko": "{0} voltti",
+      "monikko": "{0} volttia",
+      "lyhyt": "{0} V",
+      "kapea": "{0}V"
+    },
+    {
+      "unit_code": "energy-british-thermal-unit",
+      "kategoria": "energy",
+      "nimi": "brittiläiset termiset yksiköt",
+      "yksikko": "{0} brittiläinen terminen yksikkö",
+      "monikko": "{0} brittiläistä termistä yksikköä",
+      "lyhyt": "{0} Btu",
+      "kapea": "{0}Btu"
+    },
+    {
+      "unit_code": "energy-calorie",
+      "kategoria": "energy",
+      "nimi": "kalorit",
+      "yksikko": "{0} kalori",
+      "monikko": "{0} kaloria",
+      "lyhyt": "{0} cal",
+      "kapea": "{0}cal"
+    },
+    {
+      "unit_code": "energy-electronvolt",
+      "kategoria": "energy",
+      "nimi": "elektronivoltit",
+      "yksikko": "{0} elektronivoltti",
+      "monikko": "{0} elektronivolttia",
+      "lyhyt": "{0} eV",
+      "kapea": "{0}eV"
+    },
+    {
+      "unit_code": "energy-foodcalorie",
+      "kategoria": "energy",
+      "nimi": "kilokalorit",
+      "yksikko": "{0} kilokalori",
+      "monikko": "{0} kilokaloria",
+      "lyhyt": "",
+      "kapea": "{0}kcal"
+    },
+    {
+      "unit_code": "energy-joule",
+      "kategoria": "energy",
+      "nimi": "joulet",
+      "yksikko": "{0} joule",
+      "monikko": "{0} joulea",
+      "lyhyt": "{0} J",
+      "kapea": "{0}J"
+    },
+    {
+      "unit_code": "energy-kilocalorie",
+      "kategoria": "energy",
+      "nimi": "kilokalorit",
+      "yksikko": "{0} kilokalori",
+      "monikko": "{0} kilokaloria",
+      "lyhyt": "{0} kcal",
+      "kapea": "{0}kcal"
+    },
+    {
+      "unit_code": "energy-kilojoule",
+      "kategoria": "energy",
+      "nimi": "kilojoulet",
+      "yksikko": "{0} kilojoule",
+      "monikko": "{0} kilojoulea",
+      "lyhyt": "{0} kJ",
+      "kapea": "{0}kJ"
+    },
+    {
+      "unit_code": "energy-kilowatt-hour",
+      "kategoria": "energy",
+      "nimi": "kilowattitunnit",
+      "yksikko": "{0} kilowattitunti",
+      "monikko": "{0} kilowattituntia",
+      "lyhyt": "{0} kWh",
+      "kapea": "{0}kWh"
+    },
+    {
+      "unit_code": "energy-therm-us",
+      "kategoria": "energy",
+      "nimi": "US therm",
+      "yksikko": "{0} US therm",
+      "monikko": "{0} US therm",
+      "lyhyt": "{0} US therm",
+      "kapea": "{0}US therm"
+    },
+    {
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategoria": "force",
+      "nimi": "kilowattitunnit / 100 kilometriä",
+      "yksikko": "{0} kilowattitunti 100 kilometrillä",
+      "monikko": "{0} kilowattituntia 100 kilometrillä",
+      "lyhyt": "{0} kWh/100 km",
+      "kapea": "{0}kWh/100 km"
+    },
+    {
+      "unit_code": "force-newton",
+      "kategoria": "force",
+      "nimi": "newtonit",
+      "yksikko": "{0} newton",
+      "monikko": "{0} newtonia",
+      "lyhyt": "{0} N",
+      "kapea": "{0}N"
+    },
+    {
+      "unit_code": "force-pound-force",
+      "kategoria": "force",
+      "nimi": "pauna-voimat",
+      "yksikko": "{0} pauna-voima",
+      "monikko": "{0} pauna-voimaa",
+      "lyhyt": "{0} lbf",
+      "kapea": "{0}lbf"
+    },
+    {
+      "unit_code": "frequency-gigahertz",
+      "kategoria": "frequency",
+      "nimi": "gigahertsit",
+      "yksikko": "{0} gigahertsi",
+      "monikko": "{0} gigahertsiä",
+      "lyhyt": "{0} GHz",
+      "kapea": "{0}GHz"
+    },
+    {
+      "unit_code": "frequency-hertz",
+      "kategoria": "frequency",
+      "nimi": "hertsit",
+      "yksikko": "{0} hertsi",
+      "monikko": "{0} hertsiä",
+      "lyhyt": "{0} Hz",
+      "kapea": "{0}Hz"
+    },
+    {
+      "unit_code": "frequency-kilohertz",
+      "kategoria": "frequency",
+      "nimi": "kilohertsit",
+      "yksikko": "{0} kilohertsi",
+      "monikko": "{0} kilohertsiä",
+      "lyhyt": "{0} kHz",
+      "kapea": "{0}kHz"
+    },
+    {
+      "unit_code": "frequency-megahertz",
+      "kategoria": "frequency",
+      "nimi": "megahertsit",
+      "yksikko": "{0} megahertsi",
+      "monikko": "{0} megahertsiä",
+      "lyhyt": "{0} MHz",
+      "kapea": "{0}MHz"
+    },
+    {
+      "unit_code": "graphics-dot",
+      "kategoria": "graphics",
+      "nimi": "pisteet",
+      "yksikko": "{0} piste",
+      "monikko": "{0} pistettä",
+      "lyhyt": "{0} pistettä",
+      "kapea": "{0}pistettä"
+    },
+    {
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategoria": "graphics",
+      "nimi": "pisteet senttimetrillä",
+      "yksikko": "{0} piste senttimetrillä",
+      "monikko": "{0} pistettä senttimetrillä",
+      "lyhyt": "",
+      "kapea": "{0}ppcm"
+    },
+    {
+      "unit_code": "graphics-dot-per-inch",
+      "kategoria": "graphics",
+      "nimi": "pisteet tuumalla",
+      "yksikko": "{0} piste tuumalla",
+      "monikko": "{0} pistettä tuumalla",
+      "lyhyt": "{0} dpi",
+      "kapea": "{0}dpi"
+    },
+    {
+      "unit_code": "graphics-em",
+      "kategoria": "graphics",
+      "nimi": "em-väli",
+      "yksikko": "{0} em-väli",
+      "monikko": "{0} em-väliä",
+      "lyhyt": "{0} em",
+      "kapea": "{0}em"
+    },
+    {
+      "unit_code": "graphics-megapixel",
+      "kategoria": "graphics",
+      "nimi": "megapikselit",
+      "yksikko": "{0} megapikseliä",
+      "monikko": "{0} megapikseliä",
+      "lyhyt": "{0} MP",
+      "kapea": "{0}MP"
+    },
+    {
+      "unit_code": "graphics-pixel",
+      "kategoria": "graphics",
+      "nimi": "pikselit",
+      "yksikko": "{0} pikseli",
+      "monikko": "{0} pikseliä",
+      "lyhyt": "{0} px",
+      "kapea": "{0}px"
+    },
+    {
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategoria": "graphics",
+      "nimi": "pikselit/senttimetri",
+      "yksikko": "{0} pikseli / senttimetri",
+      "monikko": "{0} pikseliä / senttimetri",
+      "lyhyt": "{0} ppcm",
+      "kapea": "{0}ppcm"
+    },
+    {
+      "unit_code": "graphics-pixel-per-inch",
+      "kategoria": "graphics",
+      "nimi": "pikselit tuumalla",
+      "yksikko": "{0} pikseli tuumalla",
+      "monikko": "{0} pikseliä tuumalla",
+      "lyhyt": "{0} ppi",
+      "kapea": "{0}ppi"
+    },
+    {
+      "unit_code": "length-astronomical-unit",
+      "kategoria": "length",
+      "nimi": "astronomiset yksiköt",
+      "yksikko": "{0} astronominen yksikkö",
+      "monikko": "{0} astronomista yksikköä",
+      "lyhyt": "{0} au",
+      "kapea": "{0}au"
+    },
+    {
+      "unit_code": "length-centimeter",
+      "kategoria": "length",
+      "nimi": "senttimetrit",
+      "yksikko": "{0} senttimetri",
+      "monikko": "{0} senttimetriä",
+      "lyhyt": "{0} cm",
+      "kapea": "{0}cm"
+    },
+    {
+      "unit_code": "length-decimeter",
+      "kategoria": "length",
+      "nimi": "desimetrit",
+      "yksikko": "{0} desimetri",
+      "monikko": "{0} desimetriä",
+      "lyhyt": "{0} dm",
+      "kapea": "{0}dm"
+    },
+    {
+      "unit_code": "length-earth-radius",
+      "kategoria": "length",
+      "nimi": "Maan säteet",
+      "yksikko": "{0} Maan säde",
+      "monikko": "{0} Maan sädettä",
+      "lyhyt": "{0} R⊕",
+      "kapea": "{0}R⊕"
+    },
+    {
+      "unit_code": "length-fathom",
+      "kategoria": "length",
+      "nimi": "sylet",
+      "yksikko": "{0} syli",
+      "monikko": "{0} syltä",
+      "lyhyt": "{0} fth",
+      "kapea": "{0}fth"
+    },
+    {
+      "unit_code": "length-foot",
+      "kategoria": "length",
+      "nimi": "jalat",
+      "yksikko": "{0} jalka",
+      "monikko": "{0} jalkaa",
+      "lyhyt": "{0} ft",
+      "kapea": "{0}′"
+    },
+    {
+      "unit_code": "length-furlong",
+      "kategoria": "length",
+      "nimi": "furlongit",
+      "yksikko": "{0} furlong",
+      "monikko": "{0} furlongia",
+      "lyhyt": "{0} fur",
+      "kapea": "{0}fur"
+    },
+    {
+      "unit_code": "length-inch",
+      "kategoria": "length",
+      "nimi": "tuumat",
+      "yksikko": "{0} tuuma",
+      "monikko": "{0} tuumaa",
+      "lyhyt": "{0} in",
+      "kapea": "{0}″"
+    },
+    {
+      "unit_code": "length-kilometer",
+      "kategoria": "length",
+      "nimi": "kilometrit",
+      "yksikko": "{0} kilometri",
+      "monikko": "{0} kilometriä",
+      "lyhyt": "{0} km",
+      "kapea": "{0}km"
+    },
+    {
+      "unit_code": "length-light-year",
+      "kategoria": "length",
+      "nimi": "valovuodet",
+      "yksikko": "{0} valovuosi",
+      "monikko": "{0} valovuotta",
+      "lyhyt": "{0} vv",
+      "kapea": "{0}vv"
+    },
+    {
+      "unit_code": "length-meter",
+      "kategoria": "length",
+      "nimi": "metrit",
+      "yksikko": "{0} metri",
+      "monikko": "{0} metriä",
+      "lyhyt": "{0} m",
+      "kapea": "{0}m"
+    },
+    {
+      "unit_code": "length-micrometer",
+      "kategoria": "length",
+      "nimi": "mikrometrit",
+      "yksikko": "{0} mikrometri",
+      "monikko": "{0} mikrometriä",
+      "lyhyt": "{0} μm",
+      "kapea": "{0}μm"
+    },
+    {
+      "unit_code": "length-mile",
+      "kategoria": "length",
+      "nimi": "mailit",
+      "yksikko": "{0} maili",
+      "monikko": "{0} mailia",
+      "lyhyt": "{0} mi",
+      "kapea": "{0}mi"
+    },
+    {
+      "unit_code": "length-mile-scandinavian",
+      "kategoria": "length",
+      "nimi": "peninkulmat",
+      "yksikko": "{0} peninkulma",
+      "monikko": "{0} peninkulmaa",
+      "lyhyt": "{0} pnk",
+      "kapea": "{0}pnk"
+    },
+    {
+      "unit_code": "length-millimeter",
+      "kategoria": "length",
+      "nimi": "millimetrit",
+      "yksikko": "{0} millimetri",
+      "monikko": "{0} millimetriä",
+      "lyhyt": "{0} mm",
+      "kapea": "{0}mm"
+    },
+    {
+      "unit_code": "length-nanometer",
+      "kategoria": "length",
+      "nimi": "nanometrit",
+      "yksikko": "{0} nanometri",
+      "monikko": "{0} nanometriä",
+      "lyhyt": "{0} nm",
+      "kapea": "{0}nm"
+    },
+    {
+      "unit_code": "length-nautical-mile",
+      "kategoria": "length",
+      "nimi": "meripeninkulmat",
+      "yksikko": "{0} meripeninkulma",
+      "monikko": "{0} meripeninkulmaa",
+      "lyhyt": "{0} mpk",
+      "kapea": "{0}mpk"
+    },
+    {
+      "unit_code": "length-parsec",
+      "kategoria": "length",
+      "nimi": "parsekit",
+      "yksikko": "{0} parsek",
+      "monikko": "{0} parsekia",
+      "lyhyt": "{0} pc",
+      "kapea": "{0}pc"
+    },
+    {
+      "unit_code": "length-picometer",
+      "kategoria": "length",
+      "nimi": "pikometrit",
+      "yksikko": "{0} pikometri",
+      "monikko": "{0} pikometriä",
+      "lyhyt": "{0} pm",
+      "kapea": "{0}pm"
+    },
+    {
+      "unit_code": "length-point",
+      "kategoria": "length",
+      "nimi": "pt",
+      "yksikko": "{0} pt",
+      "monikko": "{0} pt",
+      "lyhyt": "{0} pt",
+      "kapea": "{0}pt"
+    },
+    {
+      "unit_code": "length-solar-radius",
+      "kategoria": "length",
+      "nimi": "auringon säteet",
+      "yksikko": "{0} auringon säde",
+      "monikko": "{0} auringon sädettä",
+      "lyhyt": "{0} R☉",
+      "kapea": "{0}R☉"
+    },
+    {
+      "unit_code": "length-yard",
+      "kategoria": "length",
+      "nimi": "jaardit",
+      "yksikko": "{0} jaardi",
+      "monikko": "{0} jaardia",
+      "lyhyt": "{0} yd",
+      "kapea": "{0}yd"
+    },
+    {
+      "unit_code": "light-candela",
+      "kategoria": "light",
+      "nimi": "kandelat",
+      "yksikko": "{0} kandela",
+      "monikko": "{0} kandelaa",
+      "lyhyt": "{0} cd",
+      "kapea": "{0}cd"
+    },
+    {
+      "unit_code": "light-lumen",
+      "kategoria": "light",
+      "nimi": "luumenit",
+      "yksikko": "{0} luumen",
+      "monikko": "{0} luumenia",
+      "lyhyt": "{0} lm",
+      "kapea": "{0}lm"
+    },
+    {
+      "unit_code": "light-lux",
+      "kategoria": "light",
+      "nimi": "luksit",
+      "yksikko": "{0} luksi",
+      "monikko": "{0} luksia",
+      "lyhyt": "{0} lx",
+      "kapea": "{0}lx"
+    },
+    {
+      "unit_code": "light-solar-luminosity",
+      "kategoria": "light",
+      "nimi": "Auringon luminositeetit",
+      "yksikko": "{0} Auringon luminositeetti",
+      "monikko": "{0} Auringon luminositeettia",
+      "lyhyt": "{0} L☉",
+      "kapea": "{0}L☉"
+    },
+    {
+      "unit_code": "mass-carat",
+      "kategoria": "mass",
+      "nimi": "karaatit",
+      "yksikko": "{0} karaatti",
+      "monikko": "{0} karaattia",
+      "lyhyt": "{0} ka",
+      "kapea": "{0}ka"
+    },
+    {
+      "unit_code": "mass-dalton",
+      "kategoria": "mass",
+      "nimi": "atomimassayksiköt",
+      "yksikko": "{0} atomimassayksikkö",
+      "monikko": "{0} atomimassayksikköä",
+      "lyhyt": "{0} Da",
+      "kapea": "{0}Da"
+    },
+    {
+      "unit_code": "mass-earth-mass",
+      "kategoria": "mass",
+      "nimi": "Maan massat",
+      "yksikko": "{0} Maan massa",
+      "monikko": "{0} Maan massaa",
+      "lyhyt": "{0} M⊕",
+      "kapea": "{0}M⊕"
+    },
+    {
+      "unit_code": "mass-grain",
+      "kategoria": "mass",
+      "nimi": "graanit",
+      "yksikko": "{0} graani",
+      "monikko": "{0} graania",
+      "lyhyt": "{0} graania",
+      "kapea": "{0}graania"
+    },
+    {
+      "unit_code": "mass-gram",
+      "kategoria": "mass",
+      "nimi": "grammat",
+      "yksikko": "{0} gramma",
+      "monikko": "{0} grammaa",
+      "lyhyt": "{0} g",
+      "kapea": "{0}g"
+    },
+    {
+      "unit_code": "mass-kilogram",
+      "kategoria": "mass",
+      "nimi": "kilogrammat",
+      "yksikko": "{0} kilogramma",
+      "monikko": "{0} kilogrammaa",
+      "lyhyt": "{0} kg",
+      "kapea": "{0}kg"
+    },
+    {
+      "unit_code": "mass-microgram",
+      "kategoria": "mass",
+      "nimi": "mikrogrammat",
+      "yksikko": "{0} mikrogramma",
+      "monikko": "{0} mikrogrammaa",
+      "lyhyt": "{0} μg",
+      "kapea": "{0}μg"
+    },
+    {
+      "unit_code": "mass-milligram",
+      "kategoria": "mass",
+      "nimi": "milligrammat",
+      "yksikko": "{0} milligramma",
+      "monikko": "{0} milligrammaa",
+      "lyhyt": "{0} mg",
+      "kapea": "{0}mg"
+    },
+    {
+      "unit_code": "mass-ounce",
+      "kategoria": "mass",
+      "nimi": "unssit",
+      "yksikko": "{0} unssi",
+      "monikko": "{0} unssia",
+      "lyhyt": "{0} oz",
+      "kapea": "{0}oz"
+    },
+    {
+      "unit_code": "mass-ounce-troy",
+      "kategoria": "mass",
+      "nimi": "troy-unssit",
+      "yksikko": "{0} troy-unssi",
+      "monikko": "{0} troy-unssia",
+      "lyhyt": "{0} oz t",
+      "kapea": "{0}oz t"
+    },
+    {
+      "unit_code": "mass-pound",
+      "kategoria": "mass",
+      "nimi": "paunat",
+      "yksikko": "{0} pauna",
+      "monikko": "{0} paunaa",
+      "lyhyt": "{0} lb",
+      "kapea": "{0}lb"
+    },
+    {
+      "unit_code": "mass-solar-mass",
+      "kategoria": "mass",
+      "nimi": "auringon massat",
+      "yksikko": "{0} auringon massa",
+      "monikko": "{0} auringon massaa",
+      "lyhyt": "{0} M☉",
+      "kapea": "{0}M☉"
+    },
+    {
+      "unit_code": "mass-stone",
+      "kategoria": "mass",
+      "nimi": "stonet",
+      "yksikko": "{0} stone",
+      "monikko": "{0} stonea",
+      "lyhyt": "{0} st",
+      "kapea": "{0}st"
+    },
+    {
+      "unit_code": "mass-ton",
+      "kategoria": "mass",
+      "nimi": "am. tonnit",
+      "yksikko": "{0} am. tonni",
+      "monikko": "{0} am. tonnia",
+      "lyhyt": "{0} am. tn",
+      "kapea": "{0}am.tn"
+    },
+    {
+      "unit_code": "mass-tonne",
+      "kategoria": "mass",
+      "nimi": "tonnit",
+      "yksikko": "{0} tonni",
+      "monikko": "{0} tonnia",
+      "lyhyt": "{0} t",
+      "kapea": "{0}t"
+    },
+    {
+      "unit_code": "power-gigawatt",
+      "kategoria": "power",
+      "nimi": "gigawatit",
+      "yksikko": "{0} gigawatti",
+      "monikko": "{0} gigawattia",
+      "lyhyt": "{0} GW",
+      "kapea": "{0}GW"
+    },
+    {
+      "unit_code": "power-horsepower",
+      "kategoria": "power",
+      "nimi": "hevosvoimat",
+      "yksikko": "{0} hevosvoima",
+      "monikko": "{0} hevosvoimaa",
+      "lyhyt": "{0} hv",
+      "kapea": "{0}hv"
+    },
+    {
+      "unit_code": "power-kilowatt",
+      "kategoria": "power",
+      "nimi": "kilowatit",
+      "yksikko": "{0} kilowatti",
+      "monikko": "{0} kilowattia",
+      "lyhyt": "{0} kW",
+      "kapea": "{0}kW"
+    },
+    {
+      "unit_code": "power-megawatt",
+      "kategoria": "power",
+      "nimi": "megawatit",
+      "yksikko": "{0} megawatti",
+      "monikko": "{0} megawattia",
+      "lyhyt": "{0} MW",
+      "kapea": "{0}MW"
+    },
+    {
+      "unit_code": "power-milliwatt",
+      "kategoria": "power",
+      "nimi": "milliwatit",
+      "yksikko": "{0} milliwatti",
+      "monikko": "{0} milliwattia",
+      "lyhyt": "{0} mW",
+      "kapea": "{0}mW"
+    },
+    {
+      "unit_code": "power-watt",
+      "kategoria": "power",
+      "nimi": "watit",
+      "yksikko": "{0} watti",
+      "monikko": "{0} wattia",
+      "lyhyt": "{0} W",
+      "kapea": "{0}W"
+    },
+    {
+      "unit_code": "pressure-atmosphere",
+      "kategoria": "pressure",
+      "nimi": "normaali-ilmakehät",
+      "yksikko": "{0} normaali-ilmakehä",
+      "monikko": "{0} normaali-ilmakehää",
+      "lyhyt": "{0} atm",
+      "kapea": "{0}atm"
+    },
+    {
+      "unit_code": "pressure-bar",
+      "kategoria": "pressure",
+      "nimi": "baarit",
+      "yksikko": "{0} baari",
+      "monikko": "{0} baaria",
+      "lyhyt": "{0} bar",
+      "kapea": "{0}bar"
+    },
+    {
+      "unit_code": "pressure-hectopascal",
+      "kategoria": "pressure",
+      "nimi": "hehtopascalit",
+      "yksikko": "{0} hehtopascal",
+      "monikko": "{0} hehtopascalia",
+      "lyhyt": "{0} hPa",
+      "kapea": "{0}hPa"
+    },
+    {
+      "unit_code": "pressure-inch-ofhg",
+      "kategoria": "pressure",
+      "nimi": "elohopeatuumat",
+      "yksikko": "{0} elohopeatuuma",
+      "monikko": "{0} elohopeatuumaa",
+      "lyhyt": "{0} inHg",
+      "kapea": "{0}″ Hg"
+    },
+    {
+      "unit_code": "pressure-kilopascal",
+      "kategoria": "pressure",
+      "nimi": "kilopascalit",
+      "yksikko": "{0} kilopascal",
+      "monikko": "{0} kilopascalia",
+      "lyhyt": "{0} kPa",
+      "kapea": "{0}kPa"
+    },
+    {
+      "unit_code": "pressure-megapascal",
+      "kategoria": "pressure",
+      "nimi": "megapascalit",
+      "yksikko": "{0} megapascal",
+      "monikko": "{0} megapascalia",
+      "lyhyt": "{0} MPa",
+      "kapea": "{0}MPa"
+    },
+    {
+      "unit_code": "pressure-millibar",
+      "kategoria": "pressure",
+      "nimi": "millibaarit",
+      "yksikko": "{0} millibaari",
+      "monikko": "{0} millibaaria",
+      "lyhyt": "{0} mbar",
+      "kapea": "{0}mbar"
+    },
+    {
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategoria": "pressure",
+      "nimi": "elohopeamillimetrit",
+      "yksikko": "{0} elohopeamillimetri",
+      "monikko": "{0} elohopeamillimetriä",
+      "lyhyt": "{0} mmHg",
+      "kapea": "{0}mmHg"
+    },
+    {
+      "unit_code": "pressure-pascal",
+      "kategoria": "pressure",
+      "nimi": "pascalit",
+      "yksikko": "{0} pascal",
+      "monikko": "{0} pascalia",
+      "lyhyt": "{0} Pa",
+      "kapea": "{0}Pa"
+    },
+    {
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategoria": "pressure",
+      "nimi": "paunat / neliötuuma",
+      "yksikko": "{0} pauna / neliötuuma",
+      "monikko": "{0} paunaa / neliötuuma",
+      "lyhyt": "{0} psi",
+      "kapea": "{0}psi"
+    },
+    {
+      "unit_code": "speed-beaufort",
+      "kategoria": "speed",
+      "nimi": "bofori",
+      "yksikko": "{0} bofori",
+      "monikko": "{0} boforia",
+      "lyhyt": "B {0}",
+      "kapea": "B {0}"
+    },
+    {
+      "unit_code": "speed-kilometer-per-hour",
+      "kategoria": "speed",
+      "nimi": "kilometrit tunnissa",
+      "yksikko": "{0} kilometri tunnissa",
+      "monikko": "{0} kilometriä tunnissa",
+      "lyhyt": "{0} km/h",
+      "kapea": "{0}km/h"
+    },
+    {
+      "unit_code": "speed-knot",
+      "kategoria": "speed",
+      "nimi": "solmut",
+      "yksikko": "{0} solmu",
+      "monikko": "{0} solmua",
+      "lyhyt": "{0} kn",
+      "kapea": "{0}kn"
+    },
+    {
+      "unit_code": "speed-meter-per-second",
+      "kategoria": "speed",
+      "nimi": "metrit sekunnissa",
+      "yksikko": "{0} metri sekunnissa",
+      "monikko": "{0} metriä sekunnissa",
+      "lyhyt": "{0} m/s",
+      "kapea": "{0}m/s"
+    },
+    {
+      "unit_code": "speed-mile-per-hour",
+      "kategoria": "speed",
+      "nimi": "mailit tunnissa",
+      "yksikko": "{0} maili tunnissa",
+      "monikko": "{0} mailia tunnissa",
+      "lyhyt": "{0} mi/h",
+      "kapea": "{0}mi/h"
+    },
+    {
+      "unit_code": "temperature-celsius",
+      "kategoria": "temperature",
+      "nimi": "celsiusasteet",
+      "yksikko": "{0} celsiusaste",
+      "monikko": "{0} celsiusastetta",
+      "lyhyt": "{0} °C",
+      "kapea": "{0}°"
+    },
+    {
+      "unit_code": "temperature-fahrenheit",
+      "kategoria": "temperature",
+      "nimi": "fahrenheitasteet",
+      "yksikko": "{0} fahrenheitaste",
+      "monikko": "{0} fahrenheitastetta",
+      "lyhyt": "{0} °F",
+      "kapea": "{0}°F"
+    },
+    {
+      "unit_code": "temperature-generic",
+      "kategoria": "temperature",
+      "nimi": "asteet",
+      "yksikko": "{0} aste",
+      "monikko": "{0} astetta",
+      "lyhyt": "{0}°",
+      "kapea": "{0}°"
+    },
+    {
+      "unit_code": "temperature-kelvin",
+      "kategoria": "temperature",
+      "nimi": "kelvinit",
+      "yksikko": "{0} kelvin",
+      "monikko": "{0} kelviniä",
+      "lyhyt": "{0} K",
+      "kapea": "{0}K"
+    },
+    {
+      "unit_code": "torque-newton-meter",
+      "kategoria": "torque",
+      "nimi": "newtonmetrit",
+      "yksikko": "{0} newtonmetri",
+      "monikko": "{0} newtonmetriä",
+      "lyhyt": "{0} Nm",
+      "kapea": "{0}Nm"
+    },
+    {
+      "unit_code": "torque-pound-force-foot",
+      "kategoria": "torque",
+      "nimi": "pauna-jalat",
+      "yksikko": "{0} pauna-jalka",
+      "monikko": "{0} pauna-jalkaa",
+      "lyhyt": "{0} lbf⋅ft",
+      "kapea": "{0}lbf⋅ft"
+    },
+    {
+      "unit_code": "volume-acre-foot",
+      "kategoria": "volume",
+      "nimi": "eekkerijalat",
+      "yksikko": "{0} eekkerijalka",
+      "monikko": "{0} eekkerijalkaa",
+      "lyhyt": "{0} ac ft",
+      "kapea": "{0}ac ft"
+    },
+    {
+      "unit_code": "volume-barrel",
+      "kategoria": "volume",
+      "nimi": "barrelit",
+      "yksikko": "{0} barreli",
+      "monikko": "{0} barrelia",
+      "lyhyt": "{0} bbl",
+      "kapea": "{0}bbl"
+    },
+    {
+      "unit_code": "volume-bushel",
+      "kategoria": "volume",
+      "nimi": "bushelit",
+      "yksikko": "{0} busheli",
+      "monikko": "{0} bushelia",
+      "lyhyt": "{0} bu",
+      "kapea": "{0}bu"
+    },
+    {
+      "unit_code": "volume-centiliter",
+      "kategoria": "volume",
+      "nimi": "senttilitrat",
+      "yksikko": "{0} senttilitra",
+      "monikko": "{0} senttilitraa",
+      "lyhyt": "{0} cl",
+      "kapea": "{0}cl"
+    },
+    {
+      "unit_code": "volume-cubic-centimeter",
+      "kategoria": "volume",
+      "nimi": "kuutiosenttimetrit",
+      "yksikko": "{0} kuutiosenttimetri",
+      "monikko": "{0} kuutiosenttimetriä",
+      "lyhyt": "{0} cm³",
+      "kapea": "{0}cm³"
+    },
+    {
+      "unit_code": "volume-cubic-foot",
+      "kategoria": "volume",
+      "nimi": "kuutiojalat",
+      "yksikko": "{0} kuutiojalka",
+      "monikko": "{0} kuutiojalkaa",
+      "lyhyt": "{0} ft³",
+      "kapea": "{0}ft³"
+    },
+    {
+      "unit_code": "volume-cubic-inch",
+      "kategoria": "volume",
+      "nimi": "kuutiotuumat",
+      "yksikko": "{0} kuutiotuuma",
+      "monikko": "{0} kuutiotuumaa",
+      "lyhyt": "{0} in³",
+      "kapea": "{0}in³"
+    },
+    {
+      "unit_code": "volume-cubic-kilometer",
+      "kategoria": "volume",
+      "nimi": "kuutiokilometrit",
+      "yksikko": "{0} kuutiokilometri",
+      "monikko": "{0} kuutiokilometriä",
+      "lyhyt": "{0} km³",
+      "kapea": "{0}km³"
+    },
+    {
+      "unit_code": "volume-cubic-meter",
+      "kategoria": "volume",
+      "nimi": "kuutiometrit",
+      "yksikko": "{0} kuutiometri",
+      "monikko": "{0} kuutiometriä",
+      "lyhyt": "{0} m³",
+      "kapea": "{0}m³"
+    },
+    {
+      "unit_code": "volume-cubic-mile",
+      "kategoria": "volume",
+      "nimi": "kuutiomailit",
+      "yksikko": "{0} kuutiomaili",
+      "monikko": "{0} kuutiomailia",
+      "lyhyt": "{0} mi³",
+      "kapea": "{0}mi³"
+    },
+    {
+      "unit_code": "volume-cubic-yard",
+      "kategoria": "volume",
+      "nimi": "kuutiojaardit",
+      "yksikko": "{0} kuutiojaardi",
+      "monikko": "{0} kuutiojaardia",
+      "lyhyt": "{0} yd³",
+      "kapea": "{0}yd³"
+    },
+    {
+      "unit_code": "volume-cup",
+      "kategoria": "volume",
+      "nimi": "kupit",
+      "yksikko": "{0} kuppi",
+      "monikko": "{0} kuppia",
+      "lyhyt": "{0} kp",
+      "kapea": "{0}kp"
+    },
+    {
+      "unit_code": "volume-cup-metric",
+      "kategoria": "volume",
+      "nimi": "teekupit",
+      "yksikko": "{0} teekuppi",
+      "monikko": "{0} teekuppia",
+      "lyhyt": "{0} tkp",
+      "kapea": "{0}tkp"
+    },
+    {
+      "unit_code": "volume-deciliter",
+      "kategoria": "volume",
+      "nimi": "desilitrat",
+      "yksikko": "{0} desilitra",
+      "monikko": "{0} desilitraa",
+      "lyhyt": "{0} dl",
+      "kapea": "{0}dl"
+    },
+    {
+      "unit_code": "volume-dessert-spoon",
+      "kategoria": "volume",
+      "nimi": "jälkiruokalusikat",
+      "yksikko": "{0} jälkiruokalusikka",
+      "monikko": "{0} jälkiruokalusikkaa",
+      "lyhyt": "{0} jrkl",
+      "kapea": "{0}jrkl"
+    },
+    {
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategoria": "volume",
+      "nimi": "br. jälkiruokalusikat",
+      "yksikko": "{0} br. jälkiruokalusikka",
+      "monikko": "{0} br. jälkiruokalusikkaa",
+      "lyhyt": "{0} br. jrkl",
+      "kapea": "{0} br. jrkl"
+    },
+    {
+      "unit_code": "volume-dram",
+      "kategoria": "volume",
+      "nimi": "dramit",
+      "yksikko": "{0} dram",
+      "monikko": "{0} dramia",
+      "lyhyt": "{0} dramia",
+      "kapea": "{0}dramia"
+    },
+    {
+      "unit_code": "volume-drop",
+      "kategoria": "volume",
+      "nimi": "tipat",
+      "yksikko": "{0} tippa",
+      "monikko": "{0} tippaa",
+      "lyhyt": "{0} tippaa",
+      "kapea": "{0}gtt"
+    },
+    {
+      "unit_code": "volume-fluid-ounce",
+      "kategoria": "volume",
+      "nimi": "nesteunssit",
+      "yksikko": "{0} nesteunssi",
+      "monikko": "{0} nesteunssia",
+      "lyhyt": "{0} fl oz",
+      "kapea": "{0}fl oz"
+    },
+    {
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategoria": "volume",
+      "nimi": "br. nesteunssit",
+      "yksikko": "{0} br. nesteunssi",
+      "monikko": "{0} br. nesteunssia",
+      "lyhyt": "{0} fl oz br.",
+      "kapea": "{0}fl oz br."
+    },
+    {
+      "unit_code": "volume-gallon",
+      "kategoria": "volume",
+      "nimi": "am. gallonat",
+      "yksikko": "{0} am. gallona",
+      "monikko": "{0} am. gallonaa",
+      "lyhyt": "{0} am. gal",
+      "kapea": "{0}am.gal"
+    },
+    {
+      "unit_code": "volume-gallon-imperial",
+      "kategoria": "volume",
+      "nimi": "br. gallonat",
+      "yksikko": "{0} br. gallona",
+      "monikko": "{0} br. gallonaa",
+      "lyhyt": "{0} br. gal",
+      "kapea": "{0}br.gal"
+    },
+    {
+      "unit_code": "volume-hectoliter",
+      "kategoria": "volume",
+      "nimi": "hehtolitrat",
+      "yksikko": "{0} hehtolitra",
+      "monikko": "{0} hehtolitraa",
+      "lyhyt": "{0} hl",
+      "kapea": "{0}hl"
+    },
+    {
+      "unit_code": "volume-jigger",
+      "kategoria": "volume",
+      "nimi": "jiggerit",
+      "yksikko": "{0} jigger",
+      "monikko": "{0} jiggeriä",
+      "lyhyt": "{0} jiggeriä",
+      "kapea": "{0}jiggeriä"
+    },
+    {
+      "unit_code": "volume-liter",
+      "kategoria": "volume",
+      "nimi": "litrat",
+      "yksikko": "{0} litra",
+      "monikko": "{0} litraa",
+      "lyhyt": "{0} l",
+      "kapea": "{0}l"
+    },
+    {
+      "unit_code": "volume-megaliter",
+      "kategoria": "volume",
+      "nimi": "megalitrat",
+      "yksikko": "{0} megalitra",
+      "monikko": "{0} megalitraa",
+      "lyhyt": "{0} Ml",
+      "kapea": "{0}Ml"
+    },
+    {
+      "unit_code": "volume-milliliter",
+      "kategoria": "volume",
+      "nimi": "millilitrat",
+      "yksikko": "{0} millilitra",
+      "monikko": "{0} millilitraa",
+      "lyhyt": "{0} ml",
+      "kapea": "{0}ml"
+    },
+    {
+      "unit_code": "volume-pinch",
+      "kategoria": "volume",
+      "nimi": "ripaus",
+      "yksikko": "{0} ripaus",
+      "monikko": "{0} ripausta",
+      "lyhyt": "{0} ripausta",
+      "kapea": "{0}ripausta"
+    },
+    {
+      "unit_code": "volume-pint",
+      "kategoria": "volume",
+      "nimi": "pintit",
+      "yksikko": "{0} pint",
+      "monikko": "{0} pinttiä",
+      "lyhyt": "{0} pt",
+      "kapea": "{0}pt"
+    },
+    {
+      "unit_code": "volume-pint-metric",
+      "kategoria": "volume",
+      "nimi": "tuopit",
+      "yksikko": "{0} tuoppi",
+      "monikko": "{0} tuoppia",
+      "lyhyt": "{0} tp",
+      "kapea": "{0}tp"
+    },
+    {
+      "unit_code": "volume-quart",
+      "kategoria": "volume",
+      "nimi": "neljännesgallonat",
+      "yksikko": "{0} neljännesgallona",
+      "monikko": "{0} neljännesgallonaa",
+      "lyhyt": "{0} qt",
+      "kapea": "{0}qt"
+    },
+    {
+      "unit_code": "volume-quart-imperial",
+      "kategoria": "volume",
+      "nimi": "br. neljännesgallonat",
+      "yksikko": "{0} br. neljännesgallona",
+      "monikko": "{0} br. neljännesgallonaa",
+      "lyhyt": "{0} qt br.",
+      "kapea": "{0}qt br."
+    },
+    {
+      "unit_code": "volume-tablespoon",
+      "kategoria": "volume",
+      "nimi": "ruokalusikat",
+      "yksikko": "{0} ruokalusikka",
+      "monikko": "{0} ruokalusikkaa",
+      "lyhyt": "{0} rkl",
+      "kapea": "{0}rkl"
+    },
+    {
+      "unit_code": "volume-teaspoon",
+      "kategoria": "volume",
+      "nimi": "teelusikat",
+      "yksikko": "{0} teelusikka",
+      "monikko": "{0} teelusikkaa",
+      "lyhyt": "{0} tl",
+      "kapea": "{0}tl"
+    }
+  ],
+  "meta": {
+    "title": "Mittayksiköt (CLDR suomi) - Free Download",
+    "description": "Mittayksiköt suomenkielisine nimineen ja malleineen CLDR units.json -tiedostosta (long/short/narrow). Contains 185 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mittayksiköt (CLDR suomi) | ListBase",
+    "seo_description": "Download Mittayksiköt (CLDR suomi) — 185 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 185 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr"
+    ]
+  }
+}
