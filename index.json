@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-06T02:38:15.692Z",
-  "total_datasets": 533,
-  "total_records": 498678,
+  "generated": "2026-11-06T02:38:25.828Z",
+  "total_datasets": 534,
+  "total_records": 498692,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -1593,6 +1593,33 @@
         "xlsx": {
           "name": "fi-yliopistot_FI.xlsx",
           "size": 8671
+        }
+      }
+    },
+    {
+      "id": "fi-yliopistot-lista",
+      "name": "Suomen yliopistot",
+      "category": "education",
+      "record_count": 14,
+      "columns": [
+        "nimi",
+        "perustettu",
+        "varhaisin",
+        "opiskelijat_2023",
+        "huomautukset",
+        "toimipaikat"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_yliopistoista",
+      "updated": "2026-11",
+      "size": 6531,
+      "files": {
+        "csv": {
+          "name": "fi-yliopistot-lista_FI.csv",
+          "size": 3098
+        },
+        "xlsx": {
+          "name": "fi-yliopistot-lista_FI.xlsx",
+          "size": 8234
         }
       }
     },

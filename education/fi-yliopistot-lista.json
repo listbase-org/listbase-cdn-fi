@@ -1,0 +1,168 @@
+{
+  "id": "fi-yliopistot-lista",
+  "name": "Suomen yliopistot",
+  "title": "Suomen yliopistot",
+  "description": "Suomen yliopistot perustamisvuosineen, opiskelijamäärineen (2023) ja toimipaikkoineen.",
+  "category": "education",
+  "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_yliopistoista",
+  "source_url": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_yliopistoista",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "perustettu",
+      "label": "Perustettu",
+      "type": "number"
+    },
+    {
+      "key": "varhaisin",
+      "label": "Varhaisin",
+      "type": "number"
+    },
+    {
+      "key": "opiskelijat_2023",
+      "label": "Opiskelijat 2023",
+      "type": "number"
+    },
+    {
+      "key": "huomautukset",
+      "label": "Huomautukset",
+      "type": "string"
+    },
+    {
+      "key": "toimipaikat",
+      "label": "Toimipaikat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nimi": "Helsingin yliopisto",
+      "perustettu": 1640,
+      "varhaisin": 1640,
+      "opiskelijat_2023": 31465,
+      "huomautukset": "Vuoteen 1828 Kuninkaallinen Turun Akatemia, vuosina 1828–1919 Keisarillinen Aleksanterin-Yliopisto. Toimipaikka Turku vuoteen 1827. Svenska social- och kommunalhögskolan liitettiin Helsingin yliopistoon vuonna 1984 ja Eläinlääketieteellinen korkeakoulu (perustettu 1945) vuonna 1995.",
+      "toimipaikat": "Helsinki, Lahti, Vaasa"
+    },
+    {
+      "nimi": "Svenska handelshögskolan",
+      "perustettu": 1909,
+      "varhaisin": 1909,
+      "opiskelijat_2023": 2648,
+      "huomautukset": "Vuoteen 1927 Högre svenska handelsläroverket.",
+      "toimipaikat": "Helsinki, Vaasa"
+    },
+    {
+      "nimi": "Åbo Akademi",
+      "perustettu": 1918,
+      "varhaisin": 1918,
+      "opiskelijat_2023": 6247,
+      "huomautukset": "",
+      "toimipaikat": "Turku, Vaasa"
+    },
+    {
+      "nimi": "Turun yliopisto",
+      "perustettu": 1920,
+      "varhaisin": 1920,
+      "opiskelijat_2023": 17638,
+      "huomautukset": "Alun perin Turun suomalainen yliopisto. Turun kauppakorkeakoulu (perustettu 1950) liitettiin Turun yliopistoon vuonna 2010.",
+      "toimipaikat": "Turku, Pori, Rauma"
+    },
+    {
+      "nimi": "Jyväskylän yliopisto",
+      "perustettu": 1934,
+      "varhaisin": 1863,
+      "opiskelijat_2023": 14637,
+      "huomautukset": "Vuonna 1863 perustettiin Jyväskylän seminaari. Vuosina 1934-1966 nimeltään Kasvatusopillinen korkeakoulu.",
+      "toimipaikat": "Jyväskylä, Kokkola"
+    },
+    {
+      "nimi": "Oulun yliopisto",
+      "perustettu": 1958,
+      "varhaisin": 1958,
+      "opiskelijat_2023": 14171,
+      "huomautukset": "",
+      "toimipaikat": "Oulu"
+    },
+    {
+      "nimi": "Vaasan yliopisto",
+      "perustettu": 1968,
+      "varhaisin": 1968,
+      "opiskelijat_2023": 5589,
+      "huomautukset": "Vuoteen 1980 Vaasan kauppakorkeakoulu, vuosina 1980–1992 Vaasan korkeakoulu.",
+      "toimipaikat": "Vaasa"
+    },
+    {
+      "nimi": "Lappeenrannan-Lahden teknillinen yliopisto LUT",
+      "perustettu": 1969,
+      "varhaisin": 1969,
+      "opiskelijat_2023": 7770,
+      "huomautukset": "Vuoteen 2002 Lappeenrannan teknillinen korkeakoulu, vuosina 2003–2018 Lappeenrannan teknillinen yliopisto.",
+      "toimipaikat": "Lappeenranta, Lahti"
+    },
+    {
+      "nimi": "Lapin yliopisto",
+      "perustettu": 1979,
+      "varhaisin": 1979,
+      "opiskelijat_2023": 4640,
+      "huomautukset": "Vuoteen 1991 saakka Lapin korkeakoulu.",
+      "toimipaikat": "Rovaniemi"
+    },
+    {
+      "nimi": "Maanpuolustuskorkeakoulu",
+      "perustettu": 1993,
+      "varhaisin": 1919,
+      "opiskelijat_2023": 1190,
+      "huomautukset": "Edeltäjät Kadettikoulu (perustettu 1919), Sotakorkeakoulu (perustettu 1924) ja Taistelukoulu (perustettu 1927). Koulut yhdistettiin vuoden 1993 alussa Maanpuolustuskorkeakouluksi. Ei varsinainen yliopisto. Kuuluu puolustusvoimiin ja siten puolustusministeriön hallinnonalaan.",
+      "toimipaikat": "Helsinki"
+    },
+    {
+      "nimi": "Itä-Suomen yliopisto",
+      "perustettu": 2010,
+      "varhaisin": 1966,
+      "opiskelijat_2023": 16751,
+      "huomautukset": "Edeltäjät Joensuun yliopisto (perustettu 1969) ja Kuopion yliopisto (perustettu 1966), jotka yhdistyivät vuonna 2010. Vuoteen 1984 niminä olivat Joensuun korkeakoulu ja Kuopion korkeakoulu.",
+      "toimipaikat": "Joensuu, Kuopio"
+    },
+    {
+      "nimi": "Aalto-yliopisto",
+      "perustettu": 2010,
+      "varhaisin": 1849,
+      "opiskelijat_2023": 20579,
+      "huomautukset": "Edeltäjät Teknillinen korkeakoulu (perustettu 1849), Taideteollinen korkeakoulu (perustettu 1871) ja Helsingin kauppakorkeakoulu (perustettu 1911). Teknillisen korkeakoulun toimipaikka oli vuoteen 1966 Helsinki ja sen jälkeen Espoo. Toimipaikka vuoteen 2019 Espoon ja Mikkelin lisäksi Helsinki.",
+      "toimipaikat": "Espoo, Mikkeli"
+    },
+    {
+      "nimi": "Taideyliopisto",
+      "perustettu": 2013,
+      "varhaisin": 1848,
+      "opiskelijat_2023": 1931,
+      "huomautukset": "Edeltäjät Kuvataideakatemia (perustettu 1848), Sibelius-Akatemia (perustettu 1882) ja Teatterikorkeakoulu (perustettu 1979).",
+      "toimipaikat": "Helsinki, Kuopio, Seinäjoki"
+    },
+    {
+      "nimi": "Tampereen yliopisto",
+      "perustettu": 2019,
+      "varhaisin": 1925,
+      "opiskelijat_2023": 22595,
+      "huomautukset": "Edeltäjät vanha Tampereen yliopisto (perustettu 1925) ja Tampereen teknillinen yliopisto (perustettu 1965). Tampereen yliopisto oli vuoteen 1930 Kansalaiskorkeakoulu, vuosina 1930–1966 Yhteiskunnallinen korkeakoulu, toimipaikka Helsinki vuoteen 1960. Tampereen teknillinen yliopisto oli alun perin Teknillisen korkeakoulun sivukorkeakoulu, itsenäistyi 1972, vuoteen 2002 Tampereen teknillinen korkeakoulu.",
+      "toimipaikat": "Tampere, Pori, Seinäjoki"
+    }
+  ],
+  "meta": {
+    "title": "Suomen yliopistot - Free Download",
+    "description": "Suomen yliopistot perustamisvuosineen, opiskelijamäärineen (2023) ja toimipaikkoineen. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Suomen yliopistot | ListBase",
+    "seo_description": "Download Suomen yliopistot — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fi.wikipedia.org/wiki/Luettelo_Suomen_yliopistoista"
+    ]
+  }
+}
