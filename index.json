@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-06T02:37:46.120Z",
-  "total_datasets": 530,
-  "total_records": 498547,
+  "generated": "2026-11-06T02:37:55.762Z",
+  "total_datasets": 531,
+  "total_records": 498572,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -16255,6 +16255,31 @@
         "xlsx": {
           "name": "fi-mittayksikot_FI.xlsx",
           "size": 16818
+        }
+      }
+    },
+    {
+      "id": "fi-si-etuliitteet",
+      "name": "SI-etuliitteet",
+      "category": "units",
+      "record_count": 25,
+      "columns": [
+        "etuliite",
+        "tunnus",
+        "merkitys",
+        "kerroin"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/SI-järjestelmä",
+      "updated": "2026-11",
+      "size": 4529,
+      "files": {
+        "csv": {
+          "name": "fi-si-etuliitteet_FI.csv",
+          "size": 1098
+        },
+        "xlsx": {
+          "name": "fi-si-etuliitteet_FI.xlsx",
+          "size": 7595
         }
       }
     },
