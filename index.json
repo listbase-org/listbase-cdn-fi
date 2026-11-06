@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-06T02:37:55.762Z",
-  "total_datasets": 531,
-  "total_records": 498572,
+  "generated": "2026-11-06T02:38:04.929Z",
+  "total_datasets": 532,
+  "total_records": 498672,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 177
+      "dataset_count": 178
     },
     {
       "id": "health",
@@ -7596,6 +7596,32 @@
         "xlsx": {
           "name": "fi-sukunimet_FI.xlsx",
           "size": 7768
+        }
+      }
+    },
+    {
+      "id": "fi-suurimmat-jarvet",
+      "name": "Suomen sata suurinta järveä",
+      "category": "geography",
+      "record_count": 100,
+      "columns": [
+        "sija",
+        "nimi",
+        "kunnat",
+        "korkeus_m",
+        "pinta_ala_km2"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_sadasta_suurimmasta_järvestä",
+      "updated": "2026-11",
+      "size": 17566,
+      "files": {
+        "csv": {
+          "name": "fi-suurimmat-jarvet_FI.csv",
+          "size": 6305
+        },
+        "xlsx": {
+          "name": "fi-suurimmat-jarvet_FI.xlsx",
+          "size": 11360
         }
       }
     },
