@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-09T02:19:37.800Z",
-  "total_datasets": 536,
-  "total_records": 498825,
+  "generated": "2026-11-09T02:19:44.261Z",
+  "total_datasets": 537,
+  "total_records": 498949,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -12762,6 +12762,35 @@
         "xlsx": {
           "name": "fi-kirjasto_FI.xlsx",
           "size": 96920
+        }
+      }
+    },
+    {
+      "id": "fi-korkeimmat-rakennelmat",
+      "name": "Suomen korkeimmat rakennelmat",
+      "category": "tech",
+      "record_count": 124,
+      "columns": [
+        "rakennelma",
+        "korkeus_m",
+        "valmistunut",
+        "purettu",
+        "sijainti",
+        "kaytto",
+        "lisatietoja",
+        "ryhma"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_korkeimmista_rakennelmista",
+      "updated": "2026-11",
+      "size": 37727,
+      "files": {
+        "csv": {
+          "name": "fi-korkeimmat-rakennelmat_FI.csv",
+          "size": 15549
+        },
+        "xlsx": {
+          "name": "fi-korkeimmat-rakennelmat_FI.xlsx",
+          "size": 14794
         }
       }
     },
