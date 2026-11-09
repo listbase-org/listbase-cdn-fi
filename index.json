@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-09T02:19:59.303Z",
-  "total_datasets": 539,
-  "total_records": 499096,
+  "generated": "2026-11-09T02:20:06.175Z",
+  "total_datasets": 540,
+  "total_records": 499185,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "reference",
@@ -8693,6 +8693,34 @@
         "xlsx": {
           "name": "fi-puolustusministerit_FI.xlsx",
           "size": 11297
+        }
+      }
+    },
+    {
+      "id": "fi-ulkoministerit",
+      "name": "Suomen ulkoministerit",
+      "category": "politics",
+      "record_count": 89,
+      "columns": [
+        "nimike",
+        "ministeri",
+        "elinvuodet",
+        "puolue",
+        "alkoi",
+        "paattyi",
+        "hallitus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_ulkoministeriössä",
+      "updated": "2026-11",
+      "size": 22666,
+      "files": {
+        "csv": {
+          "name": "fi-ulkoministerit_FI.csv",
+          "size": 8525
+        },
+        "xlsx": {
+          "name": "fi-ulkoministerit_FI.xlsx",
+          "size": 10920
         }
       }
     },
