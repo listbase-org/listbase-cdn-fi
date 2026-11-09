@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-09T02:19:51.507Z",
-  "total_datasets": 538,
-  "total_records": 499039,
+  "generated": "2026-11-09T02:19:59.303Z",
+  "total_datasets": 539,
+  "total_records": 499096,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -8006,6 +8006,32 @@
         "xlsx": {
           "name": "fi-suomen-historian-sodat_FI.xlsx",
           "size": 23557
+        }
+      }
+    },
+    {
+      "id": "fi-turun-piispat-ja-arkkipiispat",
+      "name": "Turun piispat ja arkkipiispat",
+      "category": "history",
+      "record_count": 57,
+      "columns": [
+        "nimi",
+        "virka",
+        "virka_aika",
+        "lisatietoa",
+        "kausi"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Turun_ja_Suomen_arkkipiispa",
+      "updated": "2026-11",
+      "size": 12036,
+      "files": {
+        "csv": {
+          "name": "fi-turun-piispat-ja-arkkipiispat_FI.csv",
+          "size": 4708
+        },
+        "xlsx": {
+          "name": "fi-turun-piispat-ja-arkkipiispat_FI.xlsx",
+          "size": 9086
         }
       }
     },
