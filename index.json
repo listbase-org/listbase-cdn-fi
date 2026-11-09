@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-09T02:19:44.261Z",
-  "total_datasets": 537,
-  "total_records": 498949,
+  "generated": "2026-11-09T02:19:51.507Z",
+  "total_datasets": 538,
+  "total_records": 499039,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -8639,6 +8639,34 @@
         "xlsx": {
           "name": "fi-puolueet-historialliset_FI.xlsx",
           "size": 12455
+        }
+      }
+    },
+    {
+      "id": "fi-puolustusministerit",
+      "name": "Suomen puolustusministerit",
+      "category": "politics",
+      "record_count": 90,
+      "columns": [
+        "nimike",
+        "ministeri",
+        "elinvuodet",
+        "puolue",
+        "alkoi",
+        "paattyi",
+        "hallitus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_puolustusministeriössä",
+      "updated": "2026-11",
+      "size": 22897,
+      "files": {
+        "csv": {
+          "name": "fi-puolustusministerit_FI.csv",
+          "size": 8533
+        },
+        "xlsx": {
+          "name": "fi-puolustusministerit_FI.xlsx",
+          "size": 11297
         }
       }
     },
