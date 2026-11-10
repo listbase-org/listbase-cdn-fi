@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-10T02:23:32.080Z",
-  "total_datasets": 543,
-  "total_records": 499984,
+  "generated": "2026-11-10T02:23:39.744Z",
+  "total_datasets": 544,
+  "total_records": 500037,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "reference",
@@ -8620,6 +8620,32 @@
         "xlsx": {
           "name": "fi-paaministerit-toimikauden-pituus_FI.xlsx",
           "size": 8377
+        }
+      }
+    },
+    {
+      "id": "fi-poliittiset-nuorisojarjestot",
+      "name": "Suomalaiset poliittiset nuorisojärjestöt",
+      "category": "politics",
+      "record_count": 53,
+      "columns": [
+        "name",
+        "active_years",
+        "affiliation",
+        "notes",
+        "group"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomalaisista_poliittisista_nuorisojärjestöistä",
+      "updated": "2026-11",
+      "size": 14164,
+      "files": {
+        "csv": {
+          "name": "fi-poliittiset-nuorisojarjestot_FI.csv",
+          "size": 6899
+        },
+        "xlsx": {
+          "name": "fi-poliittiset-nuorisojarjestot_FI.xlsx",
+          "size": 10035
         }
       }
     },
