@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-10T02:23:17.769Z",
-  "total_datasets": 541,
-  "total_records": 499907,
+  "generated": "2026-11-10T02:23:25.030Z",
+  "total_datasets": 542,
+  "total_records": 499924,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -12431,6 +12431,32 @@
         "xlsx": {
           "name": "fi-elainlaakarit_FI.xlsx",
           "size": 14271
+        }
+      }
+    },
+    {
+      "id": "fi-kulttuuri-ja-tiedeinstituutit",
+      "name": "Suomen kulttuuri- ja tiedeinstituutit ulkomailla",
+      "category": "science",
+      "record_count": 17,
+      "columns": [
+        "name",
+        "city",
+        "country",
+        "founded",
+        "activity"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_kulttuuri-_ja_tiedeinstituutit",
+      "updated": "2026-11",
+      "size": 6182,
+      "files": {
+        "csv": {
+          "name": "fi-kulttuuri-ja-tiedeinstituutit_FI.csv",
+          "size": 2869
+        },
+        "xlsx": {
+          "name": "fi-kulttuuri-ja-tiedeinstituutit_FI.xlsx",
+          "size": 8288
         }
       }
     },
