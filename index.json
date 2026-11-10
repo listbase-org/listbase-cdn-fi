@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-10T02:23:39.744Z",
-  "total_datasets": 544,
-  "total_records": 500037,
+  "generated": "2026-11-10T02:23:47.297Z",
+  "total_datasets": 545,
+  "total_records": 500132,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -12708,6 +12708,29 @@
         "xlsx": {
           "name": "fi-tyovaentalot_FI.xlsx",
           "size": 41650
+        }
+      }
+    },
+    {
+      "id": "fi-valirauhan-perusteella-lakkautetut-jarjestot",
+      "name": "Välirauhansopimuksen perusteella lakkautetut järjestöt",
+      "category": "society",
+      "record_count": 95,
+      "columns": [
+        "organization",
+        "dissolved"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_välirauhansopimuksen_perusteella_lakkautetuista_järjestöistä",
+      "updated": "2026-11",
+      "size": 12665,
+      "files": {
+        "csv": {
+          "name": "fi-valirauhan-perusteella-lakkautetut-jarjestot_FI.csv",
+          "size": 5762
+        },
+        "xlsx": {
+          "name": "fi-valirauhan-perusteella-lakkautetut-jarjestot_FI.xlsx",
+          "size": 9238
         }
       }
     },
