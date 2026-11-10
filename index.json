@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-09T02:20:06.175Z",
-  "total_datasets": 540,
-  "total_records": 499185,
+  "generated": "2026-11-10T02:23:17.769Z",
+  "total_datasets": 541,
+  "total_records": 499907,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -8312,6 +8312,30 @@
         "xlsx": {
           "name": "fi-vankilat_FI.xlsx",
           "size": 7766
+        }
+      }
+    },
+    {
+      "id": "fi-emma-gaala-voittajat",
+      "name": "Emma-gaalan palkitut",
+      "category": "music",
+      "record_count": 722,
+      "columns": [
+        "year",
+        "category",
+        "winner"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Emma-gaala",
+      "updated": "2026-11",
+      "size": 85657,
+      "files": {
+        "csv": {
+          "name": "fi-emma-gaala-voittajat_FI.csv",
+          "size": 40307
+        },
+        "xlsx": {
+          "name": "fi-emma-gaala-voittajat_FI.xlsx",
+          "size": 26711
         }
       }
     },
