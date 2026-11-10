@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-10T02:23:25.030Z",
-  "total_datasets": 542,
-  "total_records": 499924,
+  "generated": "2026-11-10T02:23:32.080Z",
+  "total_datasets": 543,
+  "total_records": 499984,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -8056,6 +8056,30 @@
         "xlsx": {
           "name": "fi-kielet_FI.xlsx",
           "size": 23715
+        }
+      }
+    },
+    {
+      "id": "fi-perinteiset-vesiliikennesanat",
+      "name": "Perinteiset suomalaiset vesiliikennesanat",
+      "category": "language",
+      "record_count": 60,
+      "columns": [
+        "word",
+        "description",
+        "group"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_perinteisistä_suomalaisista_vesiliikennesanoista",
+      "updated": "2026-11",
+      "size": 14778,
+      "files": {
+        "csv": {
+          "name": "fi-perinteiset-vesiliikennesanat_FI.csv",
+          "size": 9293
+        },
+        "xlsx": {
+          "name": "fi-perinteiset-vesiliikennesanat_FI.xlsx",
+          "size": 10773
         }
       }
     },
