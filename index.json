@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-11T02:08:45.912Z",
-  "total_datasets": 548,
-  "total_records": 500322,
+  "generated": "2026-11-11T02:08:53.987Z",
+  "total_datasets": 549,
+  "total_records": 500352,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -2290,6 +2290,33 @@
         "xlsx": {
           "name": "fi-ydinvoimalat_FI.xlsx",
           "size": 7373
+        }
+      }
+    },
+    {
+      "id": "fi-ymparistoministerit",
+      "name": "Suomen ympäristöministerit",
+      "category": "environment",
+      "record_count": 30,
+      "columns": [
+        "ministeri",
+        "syntynyt_kuollut",
+        "puolue",
+        "tehtavissa",
+        "hallitus",
+        "nimike"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_ympäristöministeriössä",
+      "updated": "2026-11",
+      "size": 8743,
+      "files": {
+        "csv": {
+          "name": "fi-ymparistoministerit_FI.csv",
+          "size": 3033
+        },
+        "xlsx": {
+          "name": "fi-ymparistoministerit_FI.xlsx",
+          "size": 8343
         }
       }
     },
