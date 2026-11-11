@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-10T02:23:47.297Z",
-  "total_datasets": 545,
-  "total_records": 500132,
+  "generated": "2026-11-11T02:08:27.658Z",
+  "total_datasets": 546,
+  "total_records": 500173,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 75
+      "dataset_count": 76
     },
     {
       "id": "units",
@@ -14993,6 +14993,33 @@
         "xlsx": {
           "name": "fi-lentoyhtiot_FI.xlsx",
           "size": 7901
+        }
+      }
+    },
+    {
+      "id": "fi-liikenne-ja-viestintaministerit",
+      "name": "Suomen liikenne- ja viestintäministerit",
+      "category": "transport",
+      "record_count": 41,
+      "columns": [
+        "ministeri",
+        "syntynyt_kuollut",
+        "puolue",
+        "tehtavissa",
+        "hallitus",
+        "nimike"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_liikenne-_ja_viestintäministeriössä",
+      "updated": "2026-11",
+      "size": 11385,
+      "files": {
+        "csv": {
+          "name": "fi-liikenne-ja-viestintaministerit_FI.csv",
+          "size": 4082
+        },
+        "xlsx": {
+          "name": "fi-liikenne-ja-viestintaministerit_FI.xlsx",
+          "size": 9023
         }
       }
     },
