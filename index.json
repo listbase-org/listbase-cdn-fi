@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-11-11T02:08:27.658Z",
-  "total_datasets": 546,
-  "total_records": 500173,
+  "generated": "2026-11-11T02:08:35.544Z",
+  "total_datasets": 547,
+  "total_records": 500188,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -238,6 +238,30 @@
         "xlsx": {
           "name": "fi-sato-1920-alkaen_FI.xlsx",
           "size": 14618
+        }
+      }
+    },
+    {
+      "id": "fi-suomalaiset-kotielainrodut",
+      "name": "Suomalaiset kotieläinrodut",
+      "category": "agriculture",
+      "record_count": 15,
+      "columns": [
+        "rotu",
+        "lisatieto",
+        "ryhma"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_suomalaisista_kotieläinroduista",
+      "updated": "2026-11",
+      "size": 3169,
+      "files": {
+        "csv": {
+          "name": "fi-suomalaiset-kotielainrodut_FI.csv",
+          "size": 694
+        },
+        "xlsx": {
+          "name": "fi-suomalaiset-kotielainrodut_FI.xlsx",
+          "size": 7156
         }
       }
     },
