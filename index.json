@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-11T02:08:53.987Z",
-  "total_datasets": 549,
-  "total_records": 500352,
+  "generated": "2026-11-12T02:02:30.436Z",
+  "total_datasets": 550,
+  "total_records": 500396,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -13074,6 +13074,36 @@
         "xlsx": {
           "name": "fi-korkeimmat-rakennelmat_FI.xlsx",
           "size": 14794
+        }
+      }
+    },
+    {
+      "id": "fi-lakkautetut-tuulivoimalat",
+      "name": "Suomen lakkautetut tuulivoimalat",
+      "category": "tech",
+      "record_count": 44,
+      "columns": [
+        "name",
+        "municipality",
+        "owner",
+        "manufacturer",
+        "started",
+        "closed",
+        "count",
+        "capacity_mw",
+        "reason"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_lakkautetuista_tuulivoimaloista",
+      "updated": "2026-11",
+      "size": 13757,
+      "files": {
+        "csv": {
+          "name": "fi-lakkautetut-tuulivoimalat_FI.csv",
+          "size": 4246
+        },
+        "xlsx": {
+          "name": "fi-lakkautetut-tuulivoimalat_FI.xlsx",
+          "size": 9721
         }
       }
     },
