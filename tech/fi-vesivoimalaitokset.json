@@ -1,0 +1,1416 @@
+{
+  "id": "fi-vesivoimalaitokset",
+  "name": "Suomen vesivoimalaitokset",
+  "title": "Suomen vesivoimalaitokset",
+  "description": "Suomen vesivoimalaitokset tehon mukaan: vuosienergia, putouskorkeus, joki tai vesistö, kunta, rakennusvuosi ja omistaja.",
+  "category": "tech",
+  "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_vesivoimalaitoksista",
+  "source_url": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_vesivoimalaitoksista",
+  "updated": "2026-11",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "annual_energy_gwh",
+      "label": "Annual Energy Gwh",
+      "type": "number"
+    },
+    {
+      "key": "head_m",
+      "label": "Head M",
+      "type": "string"
+    },
+    {
+      "key": "river",
+      "label": "River",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "built",
+      "label": "Built",
+      "type": "number"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Imatra",
+      "capacity_mw": 192,
+      "annual_energy_gwh": 1000,
+      "head_m": "25,0",
+      "river": "Vuoksi",
+      "municipality": "Imatra",
+      "built": "1929",
+      "owner": "Imatran Voima / Fortum"
+    },
+    {
+      "name": "Petäjäskoski",
+      "capacity_mw": 182,
+      "annual_energy_gwh": 687,
+      "head_m": "23",
+      "river": "Kemijoki",
+      "municipality": "Rovaniemi",
+      "built": "1957",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Pirttikoski",
+      "capacity_mw": 152,
+      "annual_energy_gwh": 581,
+      "head_m": "26,0",
+      "river": "Kemijoki",
+      "municipality": "Rovaniemi",
+      "built": "1959",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Pyhäkoski",
+      "capacity_mw": 146,
+      "annual_energy_gwh": 555,
+      "head_m": "32,3",
+      "river": "Oulujoki",
+      "municipality": "Muhos",
+      "built": "1951",
+      "owner": "Imatran Voima/Fortum"
+    },
+    {
+      "name": "Seitakorva",
+      "capacity_mw": 144,
+      "annual_energy_gwh": 511,
+      "head_m": "24,0–17,0",
+      "river": "Kemijoki",
+      "municipality": "Kemijärvi",
+      "built": "1963",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Taivalkoski",
+      "capacity_mw": 133,
+      "annual_energy_gwh": 541,
+      "head_m": "20,0",
+      "river": "Kemijoki",
+      "municipality": "Keminmaa",
+      "built": "1976",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Ossauskoski",
+      "capacity_mw": 124,
+      "annual_energy_gwh": 501,
+      "head_m": "15,5",
+      "river": "Kemijoki",
+      "municipality": "Tervola",
+      "built": "1966",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Isohaara",
+      "capacity_mw": 106,
+      "annual_energy_gwh": 310,
+      "head_m": "12,0",
+      "river": "Kemijoki",
+      "municipality": "Keminmaa",
+      "built": "1949",
+      "owner": "PVO-Vesivoima Oy (Pohjolan Voima)"
+    },
+    {
+      "name": "Harjavalta",
+      "capacity_mw": 105,
+      "annual_energy_gwh": 430,
+      "head_m": "26,4",
+      "river": "Kokemäenjoki",
+      "municipality": "Nakkila",
+      "built": "1939",
+      "owner": "Länsi-Suomen Voima"
+    },
+    {
+      "name": "Valajaskoski",
+      "capacity_mw": 101,
+      "annual_energy_gwh": 365,
+      "head_m": "11,5",
+      "river": "Kemijoki",
+      "municipality": "Rovaniemi",
+      "built": "1960",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Vanttauskoski",
+      "capacity_mw": 95,
+      "annual_energy_gwh": 448,
+      "head_m": "22,0",
+      "river": "Kemijoki",
+      "municipality": "Rovaniemi",
+      "built": "1970",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Nuojua",
+      "capacity_mw": 85,
+      "annual_energy_gwh": 355,
+      "head_m": "22,0",
+      "river": "Oulujoki",
+      "municipality": "Vaala",
+      "built": "1955",
+      "owner": "Oulujoki / Fortum"
+    },
+    {
+      "name": "Pamilo",
+      "capacity_mw": 85,
+      "annual_energy_gwh": 265,
+      "head_m": "49,4",
+      "river": "Koitajoki / Vuoksi",
+      "municipality": "Joensuu",
+      "built": "1955",
+      "owner": "Pamilo Oy (Vattenfall)"
+    },
+    {
+      "name": "Melo",
+      "capacity_mw": 70,
+      "annual_energy_gwh": 200,
+      "head_m": "19,5",
+      "river": "Kokemäenjoki",
+      "municipality": "Nokia",
+      "built": "1971",
+      "owner": "PVO-Vesivoima Oy (Pohjolan Voima)"
+    },
+    {
+      "name": "Tainionkoski",
+      "capacity_mw": 66,
+      "annual_energy_gwh": 330,
+      "head_m": "7,8",
+      "river": "Vuoksi",
+      "municipality": "Imatra",
+      "built": "1949",
+      "owner": "Imatran Voima /Fortum"
+    },
+    {
+      "name": "Raasakka",
+      "capacity_mw": 60,
+      "annual_energy_gwh": 230,
+      "head_m": "21,0",
+      "river": "Iijoki",
+      "municipality": "Ii",
+      "built": "1970",
+      "owner": "PVO-Vesivoima"
+    },
+    {
+      "name": "Utanen",
+      "capacity_mw": 58,
+      "annual_energy_gwh": 255,
+      "head_m": "15,7",
+      "river": "Oulujoki",
+      "municipality": "Utajärvi",
+      "built": "1957",
+      "owner": "Oulujoki / Fortum"
+    },
+    {
+      "name": "Jylhämä",
+      "capacity_mw": 55,
+      "annual_energy_gwh": 200,
+      "head_m": "14,0–11,0",
+      "river": "Oulujoki",
+      "municipality": "Vaala",
+      "built": "1951",
+      "owner": "Oulujoki / Fortum"
+    },
+    {
+      "name": "Pälli",
+      "capacity_mw": 51,
+      "annual_energy_gwh": 240,
+      "head_m": "13,9",
+      "river": "Oulujoki",
+      "municipality": "Muhos",
+      "built": "1954",
+      "owner": "Oulujoki / Fortum"
+    },
+    {
+      "name": "Montta",
+      "capacity_mw": 47,
+      "annual_energy_gwh": 195,
+      "head_m": "12,2",
+      "river": "Oulujoki",
+      "municipality": "Muhos",
+      "built": "1957",
+      "owner": "Oulujoki / Fortum"
+    },
+    {
+      "name": "Kolsi",
+      "capacity_mw": 45,
+      "annual_energy_gwh": 173,
+      "head_m": "12,5",
+      "river": "Kokemäenjoki",
+      "municipality": "Kokemäki",
+      "built": "1945",
+      "owner": "Kolsin Vesivoimantuotanto"
+    },
+    {
+      "name": "Aittokoski",
+      "capacity_mw": 45,
+      "annual_energy_gwh": 125,
+      "head_m": "28,8",
+      "river": "Emäjoki / Oulujoki",
+      "municipality": "Suomussalmi",
+      "built": "1960",
+      "owner": "Oulujoki/Fortum"
+    },
+    {
+      "name": "Merikoski",
+      "capacity_mw": 42,
+      "annual_energy_gwh": 289,
+      "head_m": "11,0",
+      "river": "Oulujoki",
+      "municipality": "Oulu",
+      "built": "1954",
+      "owner": "Oulun Energia"
+    },
+    {
+      "name": "Pahkakoski",
+      "capacity_mw": 42,
+      "annual_energy_gwh": 180,
+      "head_m": "20,5",
+      "river": "Iijoki",
+      "municipality": "Ii",
+      "built": "1961",
+      "owner": "PVO-Vesivoima Oy (Pohjolan Voima)"
+    },
+    {
+      "name": "Maalismaa",
+      "capacity_mw": 39,
+      "annual_energy_gwh": 180,
+      "head_m": "18,3",
+      "river": "Iijoki",
+      "municipality": "Oulu",
+      "built": "1967",
+      "owner": "PVO-Vesivoima Oy (Pohjolan Voima)"
+    },
+    {
+      "name": "Kierikki",
+      "capacity_mw": 38,
+      "annual_energy_gwh": 160,
+      "head_m": "18,2",
+      "river": "Iijoki",
+      "municipality": "Oulu",
+      "built": "1965",
+      "owner": "PVO-Vesivoima"
+    },
+    {
+      "name": "Seitenoikea",
+      "capacity_mw": 38,
+      "annual_energy_gwh": 125,
+      "head_m": "15,6",
+      "river": "Emäjoki/Oulujoki",
+      "municipality": "Ristijärvi",
+      "built": "1961",
+      "owner": "Oulujoki/Fortum"
+    },
+    {
+      "name": "Porttipahta",
+      "capacity_mw": 35,
+      "annual_energy_gwh": 100,
+      "head_m": "30",
+      "river": "Kitinen",
+      "municipality": "Sodankylä",
+      "built": "1981",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Voikkaa",
+      "capacity_mw": 33,
+      "annual_energy_gwh": 178,
+      "head_m": "8,6",
+      "river": "Kymijoki",
+      "municipality": "Kouvola",
+      "built": "1929",
+      "owner": "UPM-Kymmene"
+    },
+    {
+      "name": "Haapakoski",
+      "capacity_mw": 33,
+      "annual_energy_gwh": 130,
+      "head_m": "16,0",
+      "river": "Iijoki",
+      "municipality": "Oulu",
+      "built": "1963",
+      "owner": "PVO-Vesivoima"
+    },
+    {
+      "name": "Kaltimo",
+      "capacity_mw": 32,
+      "annual_energy_gwh": 135,
+      "head_m": "10,0",
+      "river": "Pielisjoki /Vuoksi",
+      "municipality": "Joensuu",
+      "built": "1958",
+      "owner": "Kaukas/ UPM-Kymmene"
+    },
+    {
+      "name": "Kuusankoski",
+      "capacity_mw": 30,
+      "annual_energy_gwh": 180,
+      "head_m": "9,2",
+      "river": "Kymijoki",
+      "municipality": "Kouvola",
+      "built": "1945",
+      "owner": "UPM-Kymmene"
+    },
+    {
+      "name": "Mankala",
+      "capacity_mw": 30,
+      "annual_energy_gwh": 130,
+      "head_m": "8,1",
+      "river": "Kymijoki",
+      "municipality": "Iitti",
+      "built": "1950",
+      "owner": "Mankala Oy Ab (Helen)"
+    },
+    {
+      "name": "Myllykoski",
+      "capacity_mw": 29,
+      "annual_energy_gwh": 150,
+      "head_m": "7",
+      "river": "Kymijoki",
+      "municipality": "Kouvola",
+      "built": "1929",
+      "owner": "Voimapato"
+    },
+    {
+      "name": "Kurkiaska",
+      "capacity_mw": 27,
+      "annual_energy_gwh": 83,
+      "head_m": "12,5",
+      "river": "Kitinen",
+      "municipality": "Sodankylä",
+      "built": "1992",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Jumisko",
+      "capacity_mw": 26,
+      "annual_energy_gwh": 90,
+      "head_m": "96,0",
+      "river": "Askanjoki /Kemijoki",
+      "municipality": "Kemijärvi",
+      "built": "1954",
+      "owner": "PVO-Vesivoima"
+    },
+    {
+      "name": "Kokkosniva",
+      "capacity_mw": 25,
+      "annual_energy_gwh": 79,
+      "head_m": "11,5",
+      "river": "Kitinen",
+      "municipality": "Pelkosenniemi",
+      "built": "1990",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Ahvenkoski",
+      "capacity_mw": 24,
+      "annual_energy_gwh": 110,
+      "head_m": "11,3",
+      "river": "Kymijoki",
+      "municipality": "Pyhtää",
+      "built": "1933",
+      "owner": "E-G /Mankala"
+    },
+    {
+      "name": "Leppikoski",
+      "capacity_mw": 24,
+      "annual_energy_gwh": 75,
+      "head_m": "11,1–13,3",
+      "river": "Kiehimänjoki /Oulujoki",
+      "municipality": "Paltamo",
+      "built": "1963",
+      "owner": "Oulujoki/Fortum"
+    },
+    {
+      "name": "Koivukoski III",
+      "capacity_mw": 24,
+      "annual_energy_gwh": 73,
+      "head_m": "15-17",
+      "river": "Kajaaninjoki",
+      "municipality": "Kajaani",
+      "built": "1995",
+      "owner": "Kainuun Voima Oy"
+    },
+    {
+      "name": "Kuurna",
+      "capacity_mw": 21,
+      "annual_energy_gwh": 115,
+      "head_m": "6,9",
+      "river": "Pielisjoki / Vuoksi",
+      "municipality": "Kontiolahti",
+      "built": "1971",
+      "owner": "Kuurnan Voima Oy/ PKS"
+    },
+    {
+      "name": "Vajukoski",
+      "capacity_mw": 21,
+      "annual_energy_gwh": 69,
+      "head_m": "16",
+      "river": "Kitinen",
+      "municipality": "Sodankylä",
+      "built": "1984",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Anjalankoski",
+      "capacity_mw": 20,
+      "annual_energy_gwh": 130,
+      "head_m": "9,7",
+      "river": "Kymijoki",
+      "municipality": "Kouvola",
+      "built": "1983",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Äetsä",
+      "capacity_mw": 20,
+      "annual_energy_gwh": 60,
+      "head_m": "6,0",
+      "river": "Kokemäenjoki",
+      "municipality": "Sastamala",
+      "built": "1921, uusi voimalaitos 1996",
+      "owner": "W. Rosenlew & Co Oy /UPM-Kymmene"
+    },
+    {
+      "name": "Keltti",
+      "capacity_mw": 19,
+      "annual_energy_gwh": "",
+      "head_m": "6,1",
+      "river": "Kymijoki",
+      "municipality": "Kouvola",
+      "built": "1940",
+      "owner": "UPM-Kymmene"
+    },
+    {
+      "name": "Lieksankoski",
+      "capacity_mw": 18,
+      "annual_energy_gwh": 79,
+      "head_m": "11,4",
+      "river": "Lieksanjoki /Vuoksi",
+      "municipality": "Lieksa",
+      "built": "1960",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Inkeroinen",
+      "capacity_mw": 17,
+      "annual_energy_gwh": 80,
+      "head_m": "9,7",
+      "river": "Kymijoki",
+      "municipality": "Kouvola",
+      "built": "1922",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Pankakoski",
+      "capacity_mw": 16,
+      "annual_energy_gwh": 68,
+      "head_m": "10,2",
+      "river": "Lieksanjoki/Vuoksi",
+      "municipality": "Lieksa",
+      "built": "1964",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Kurittukoski",
+      "capacity_mw": 15,
+      "annual_energy_gwh": 42,
+      "head_m": "11",
+      "river": "Kitinen",
+      "municipality": "Sodankylä",
+      "built": "1987",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Tyrvää",
+      "capacity_mw": 14,
+      "annual_energy_gwh": 70,
+      "head_m": "6,8",
+      "river": "Kokemäenjoki",
+      "municipality": "Sastamala",
+      "built": "1950/2002",
+      "owner": "Tyrvään Voima Oy /UPM-Kymmene"
+    },
+    {
+      "name": "Ämmä",
+      "capacity_mw": 14,
+      "annual_energy_gwh": 37,
+      "head_m": "10-13",
+      "river": "Emäjoki / Oulujoki",
+      "municipality": "Suomussalmi",
+      "built": "1959",
+      "owner": "Fortum"
+    },
+    {
+      "name": "Permantokoski",
+      "capacity_mw": 13,
+      "annual_energy_gwh": 51,
+      "head_m": "24",
+      "river": "Raudanjoki /Kemijoki",
+      "municipality": "Rovaniemi",
+      "built": "1960",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Kallioinen",
+      "capacity_mw": 12,
+      "annual_energy_gwh": 43,
+      "head_m": "9",
+      "river": "Ontojoki /Oulujoki",
+      "municipality": "Sotkamo",
+      "built": "1957",
+      "owner": "Kajaani Oy /UPM-Kymmene"
+    },
+    {
+      "name": "Katerma",
+      "capacity_mw": 12,
+      "annual_energy_gwh": 43,
+      "head_m": "10",
+      "river": "Ontojoki /Oulujoki",
+      "municipality": "Kuhmo",
+      "built": "1950",
+      "owner": "Kajaani Oy /UPM-Kymmene"
+    },
+    {
+      "name": "Portimokoski",
+      "capacity_mw": 11,
+      "annual_energy_gwh": 34,
+      "head_m": "16,5",
+      "river": "Tengeliönjoki / Tornionjoki",
+      "municipality": "Ylitornio",
+      "built": "1987",
+      "owner": "Tornionlaakson Voima Oy"
+    },
+    {
+      "name": "Matarakoski",
+      "capacity_mw": 11,
+      "annual_energy_gwh": 31,
+      "head_m": "7",
+      "river": "Kitinen",
+      "municipality": "Sodankylä",
+      "built": "1995",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Korkeakoski",
+      "capacity_mw": 10,
+      "annual_energy_gwh": "",
+      "head_m": "13",
+      "river": "Kymijoki",
+      "municipality": "Kotka",
+      "built": "1926",
+      "owner": "Kolsin voima Oy"
+    },
+    {
+      "name": "Vuolenkoski",
+      "capacity_mw": 10,
+      "annual_energy_gwh": "",
+      "head_m": "3,5",
+      "river": "Kymijoki",
+      "municipality": "Iitti",
+      "built": "1958",
+      "owner": "Pato Oy/Voimapato"
+    },
+    {
+      "name": "Kelukoski",
+      "capacity_mw": 9.8,
+      "annual_energy_gwh": 38,
+      "head_m": "7",
+      "river": "Kitinen",
+      "municipality": "Sodankylä",
+      "built": "2001",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Tammerkoski, keskiputous",
+      "capacity_mw": 8.6,
+      "annual_energy_gwh": "",
+      "head_m": "5,7",
+      "river": "Tammerkoski / Kokemäenjoki",
+      "municipality": "Tampere",
+      "built": "1932",
+      "owner": "Tampereen sähkölaitos"
+    },
+    {
+      "name": "Hietamankoski",
+      "capacity_mw": 7.6,
+      "annual_energy_gwh": 27,
+      "head_m": "13,5",
+      "river": "Saarijärven reitti /Kymijoki",
+      "municipality": "Äänekoski",
+      "built": "1966",
+      "owner": "Hietamankoski Oy / Vattenfall Sähköntuotanto Oy"
+    },
+    {
+      "name": "Kyrkösjärven voimalaitos",
+      "capacity_mw": 7.4,
+      "annual_energy_gwh": "23 (2020)",
+      "head_m": "42",
+      "river": "Kyrkösjärven tekojärvi",
+      "municipality": "Seinäjoki",
+      "built": "1980",
+      "owner": "Seinäjoen Energia"
+    },
+    {
+      "name": "Pitkämön Tekojärvi ja Niileksen voimalaitos",
+      "capacity_mw": 7,
+      "annual_energy_gwh": "",
+      "head_m": "28,5 + 12,7",
+      "river": "Kyrönjoki, Jalasjoki ja Kauhajoki",
+      "municipality": "Kurikka",
+      "built": "1971",
+      "owner": "Jyllinkosken Sähkö Oy"
+    },
+    {
+      "name": "Puntarikoski",
+      "capacity_mw": 6.9,
+      "annual_energy_gwh": 11,
+      "head_m": "11,7",
+      "river": "Höytiäinen ja Pyhäselkä (kanava)/ Vuoksi",
+      "municipality": "Kontiolahti",
+      "built": "1957",
+      "owner": "PKS"
+    },
+    {
+      "name": "Palokki",
+      "capacity_mw": 6.8,
+      "annual_energy_gwh": 29.5,
+      "head_m": "20,7",
+      "river": "Kermajärvi",
+      "municipality": "Heinävesi",
+      "built": "1961",
+      "owner": "PKS"
+    },
+    {
+      "name": "Karjalankoski",
+      "capacity_mw": "",
+      "annual_energy_gwh": "",
+      "head_m": "",
+      "river": "Nilsiän reitti",
+      "municipality": "Kuopio",
+      "built": "",
+      "owner": ""
+    },
+    {
+      "name": "Juankoski",
+      "capacity_mw": 5.8,
+      "annual_energy_gwh": 20,
+      "head_m": "6,5",
+      "river": "Nilsiän reitti",
+      "municipality": "Kuopio",
+      "built": "1995",
+      "owner": "Savon Voima"
+    },
+    {
+      "name": "Kuhankoski (uusi)",
+      "capacity_mw": 5,
+      "annual_energy_gwh": 35,
+      "head_m": "3,5–4,0",
+      "river": "Saraavesi / Kymijoki",
+      "municipality": "Laukaa",
+      "built": "2023",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Huruskoski",
+      "capacity_mw": "4,8 lähde?",
+      "annual_energy_gwh": 28,
+      "head_m": "5,3",
+      "river": "Huruskoski /Vuoksi",
+      "municipality": "Varkaus",
+      "built": "1912",
+      "owner": "A. Ahlström Oy/ Stora Enso"
+    },
+    {
+      "name": "Tammerkoski, Alakoski",
+      "capacity_mw": 4.6,
+      "annual_energy_gwh": "",
+      "head_m": "5,0",
+      "river": "Tammerkoski/Kokemäenjoki",
+      "municipality": "Tampere",
+      "built": "1937",
+      "owner": "Alakoski Oy, Takon kartonkitehdas"
+    },
+    {
+      "name": "Klåsarö",
+      "capacity_mw": 4.5,
+      "annual_energy_gwh": 30,
+      "head_m": "3,1",
+      "river": "Kymijoki",
+      "municipality": "Pyhtää",
+      "built": "1983",
+      "owner": "Mankala (Helen)"
+    },
+    {
+      "name": "Tammerkoski, Finlayson",
+      "capacity_mw": 4.2,
+      "annual_energy_gwh": "",
+      "head_m": "7,3",
+      "river": "Tammerkoski/Kokemäenjoki",
+      "municipality": "Tampere",
+      "built": "1926",
+      "owner": "Finlayson / Tampereen sähkölaitos"
+    },
+    {
+      "name": "Vaajakoski",
+      "capacity_mw": 3.6,
+      "annual_energy_gwh": 20,
+      "head_m": "2",
+      "river": "Vaajavirta / Kymijoki",
+      "municipality": "Jyväskylä",
+      "built": "1942",
+      "owner": "Suur-Savon Sähkö"
+    },
+    {
+      "name": "Ruskeakoski",
+      "capacity_mw": 3.3,
+      "annual_energy_gwh": 15,
+      "head_m": "20,0",
+      "river": "Jänisjoki",
+      "municipality": "Joensuu",
+      "built": "1957",
+      "owner": "PKS"
+    },
+    {
+      "name": "Verla",
+      "capacity_mw": 3.3,
+      "annual_energy_gwh": 16,
+      "head_m": "6,2",
+      "river": "Mäntyharjun reitti",
+      "municipality": "Kouvola, Verla",
+      "built": "1954, 1994",
+      "owner": "KSS Energia Oy"
+    },
+    {
+      "name": "Kuhankoski",
+      "capacity_mw": 3.2,
+      "annual_energy_gwh": "",
+      "head_m": "3,5",
+      "river": "Saraavesi /Kymijoki",
+      "municipality": "Laukaa",
+      "built": "1923",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Leuhunkoski",
+      "capacity_mw": 3.2,
+      "annual_energy_gwh": 13,
+      "head_m": "8,8",
+      "river": "Saarijärven reitti /Kymijoki",
+      "municipality": "Saarijärvi",
+      "built": "1961",
+      "owner": "Saarijärven Voima Oy / Vattenfall Sähköntuotanto Oy"
+    },
+    {
+      "name": "Tammerkoski, Tampella",
+      "capacity_mw": 3,
+      "annual_energy_gwh": "",
+      "head_m": "7,8",
+      "river": "Tammerkoski/Kokemäenjoki",
+      "municipality": "Tampere",
+      "built": "1916",
+      "owner": "Tampereen sähkölaitos"
+    },
+    {
+      "name": "Kaaranneskoski",
+      "capacity_mw": 2.8,
+      "annual_energy_gwh": "",
+      "head_m": "16",
+      "river": "Tengeliönjoki / Tornionjoki",
+      "municipality": "Pello",
+      "built": "1954",
+      "owner": "Aavasaksa Oy / Tornionlaakson Voima Oy"
+    },
+    {
+      "name": "Koivukoski I ja II",
+      "capacity_mw": 2.6,
+      "annual_energy_gwh": "",
+      "head_m": "9",
+      "river": "Kajaaninjoki",
+      "municipality": "Kajaani",
+      "built": "1943 / 2010",
+      "owner": "Kainuun Voima Oy"
+    },
+    {
+      "name": "Peltokoski",
+      "capacity_mw": 2.6,
+      "annual_energy_gwh": 11,
+      "head_m": "10,5",
+      "river": "Mustionjoki",
+      "municipality": "Raasepori",
+      "built": "1952",
+      "owner": "Koskienergia Oy"
+    },
+    {
+      "name": "Kuokkastenkoski",
+      "capacity_mw": 2,
+      "annual_energy_gwh": 5,
+      "head_m": "10,0",
+      "river": "Valtimonjoki /Vuoksi",
+      "municipality": "Nurmes",
+      "built": "1990",
+      "owner": "Nurmeksen Sähkö Oy/PKS"
+    },
+    {
+      "name": "Vääräkoski",
+      "capacity_mw": 1.8,
+      "annual_energy_gwh": 8.5,
+      "head_m": "7,5",
+      "river": "Jänisjoki",
+      "municipality": "Tohmajärvi",
+      "built": "1992",
+      "owner": "PKS"
+    },
+    {
+      "name": "Venetpalo",
+      "capacity_mw": 1.8,
+      "annual_energy_gwh": 7.5,
+      "head_m": "15,5",
+      "river": "Pyhäjoki",
+      "municipality": "Kärsämäki",
+      "built": "1960",
+      "owner": "Vattenfall"
+    },
+    {
+      "name": "Juntolankoski",
+      "capacity_mw": 1.8,
+      "annual_energy_gwh": 3.9,
+      "head_m": "13,6",
+      "river": "Paimionjoki",
+      "municipality": "Paimio",
+      "built": "1920",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Kalajärvi",
+      "capacity_mw": 1.8,
+      "annual_energy_gwh": "4 (2020)",
+      "head_m": "",
+      "river": "Kalajärven tekojärvi",
+      "municipality": "Seinäjoki",
+      "built": "1978",
+      "owner": "Seinäjoen Energia"
+    },
+    {
+      "name": "Koivukoski",
+      "capacity_mw": 1.8,
+      "annual_energy_gwh": "",
+      "head_m": "4,5",
+      "river": "Kymijoki",
+      "municipality": "Kotka",
+      "built": "1933",
+      "owner": "Statkraft /Kolsin Vesivoimantuotanto"
+    },
+    {
+      "name": "Mustionkoski",
+      "capacity_mw": 1.8,
+      "annual_energy_gwh": 7,
+      "head_m": "8,1",
+      "river": "Mustionjoki",
+      "municipality": "Raasepori",
+      "built": "1953",
+      "owner": "Koskienergia Oy"
+    },
+    {
+      "name": "Saario",
+      "capacity_mw": 1.6,
+      "annual_energy_gwh": 6.3,
+      "head_m": "6,5",
+      "river": "Jänisjoki",
+      "municipality": "Tohmajärvi",
+      "built": "1984",
+      "owner": "PKS"
+    },
+    {
+      "name": "Ämmäkoski",
+      "capacity_mw": 1.6,
+      "annual_energy_gwh": "",
+      "head_m": "6,5",
+      "river": "Kajaaninjoki",
+      "municipality": "Kajaani",
+      "built": "1917 / 2010",
+      "owner": "Kainuun Voima Oy"
+    },
+    {
+      "name": "Vihtakoski",
+      "capacity_mw": 1.5,
+      "annual_energy_gwh": 6.9,
+      "head_m": "8,3",
+      "river": "Jänisjoki",
+      "municipality": "Joensuu",
+      "built": "1952",
+      "owner": "PKS"
+    },
+    {
+      "name": "Myllykoski",
+      "capacity_mw": 1.4,
+      "annual_energy_gwh": "",
+      "head_m": "",
+      "river": "Kuusinkijoki",
+      "municipality": "Kuusamo",
+      "built": "1956",
+      "owner": ""
+    },
+    {
+      "name": "Billnäs",
+      "capacity_mw": 1.4,
+      "annual_energy_gwh": "",
+      "head_m": "6,7",
+      "river": "Mustionjoki",
+      "municipality": "Raasepori",
+      "built": "1922",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Askalankoski",
+      "capacity_mw": 1.3,
+      "annual_energy_gwh": 4.6,
+      "head_m": "14",
+      "river": "Paimionjoki",
+      "municipality": "Paimio",
+      "built": "1936",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Parantalankoski",
+      "capacity_mw": 1.2,
+      "annual_energy_gwh": 3,
+      "head_m": "13,0",
+      "river": "Saarijärven reitti /Kymijoki",
+      "municipality": "Äänekoski",
+      "built": "1960",
+      "owner": "Parantalankosken Voima Oy /Koskienergia"
+    },
+    {
+      "name": "Kirakkaköngäs",
+      "capacity_mw": 1,
+      "annual_energy_gwh": 4.5,
+      "head_m": "14,0",
+      "river": "Rahajärvi / Paatsjoki",
+      "municipality": "Inari",
+      "built": "1953",
+      "owner": "Inergia Oy"
+    },
+    {
+      "name": "Åminnefors",
+      "capacity_mw": 1,
+      "annual_energy_gwh": "",
+      "head_m": "5,0",
+      "river": "Mustionjoki",
+      "municipality": "Raasepori",
+      "built": "1956",
+      "owner": "Koskienergia Oy"
+    },
+    {
+      "name": "Strömsberg",
+      "capacity_mw": 0.9,
+      "annual_energy_gwh": "",
+      "head_m": "10",
+      "river": "Porvoonjoki",
+      "municipality": "Porvoo",
+      "built": "1920 / 2008",
+      "owner": "Porvoon Energia"
+    },
+    {
+      "name": "Puhos",
+      "capacity_mw": 0.8,
+      "annual_energy_gwh": 1.5,
+      "head_m": "3,7",
+      "river": "Puruvesi / Vuoksi",
+      "municipality": "Kitee",
+      "built": "1961",
+      "owner": "PKS"
+    },
+    {
+      "name": "Jokioinen",
+      "capacity_mw": 0.75,
+      "annual_energy_gwh": 3.4,
+      "head_m": "9",
+      "river": "Loimijoki / Kokemäenjoki",
+      "municipality": "Jokioinen",
+      "built": "1926 / 1999",
+      "owner": "Ferraria / Fortum / Koskienergia"
+    },
+    {
+      "name": "Vakkolankoski",
+      "capacity_mw": 0.75,
+      "annual_energy_gwh": 3,
+      "head_m": "8",
+      "river": "Porvoonjoki",
+      "municipality": "Askola",
+      "built": "1909 / 2007",
+      "owner": "Vakkolan Voima"
+    },
+    {
+      "name": "Naarkoski",
+      "capacity_mw": 0.75,
+      "annual_energy_gwh": 3,
+      "head_m": "7,5",
+      "river": "Porvoonjoki",
+      "municipality": "Pukkila",
+      "built": "1922 / 2000",
+      "owner": "Nivos Energia"
+    },
+    {
+      "name": "Hourunkoski (Pyhäjoki)",
+      "capacity_mw": 0.74,
+      "annual_energy_gwh": 3.7,
+      "head_m": "6,0",
+      "river": "Pyhäjoki",
+      "municipality": "Pyhäjoki",
+      "built": "",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Kalliokoski (Pyhäjärvi)",
+      "capacity_mw": 0.7,
+      "annual_energy_gwh": 2.7,
+      "head_m": "6,0",
+      "river": "Pyhäjoki",
+      "municipality": "Pyhäjärvi",
+      "built": "",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Vesikoski",
+      "capacity_mw": 0.7,
+      "annual_energy_gwh": 2.7,
+      "head_m": "7,1",
+      "river": "Pyhäjoki",
+      "municipality": "Pyhäjärvi",
+      "built": "",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Siuronkoski",
+      "capacity_mw": 0.7,
+      "annual_energy_gwh": "",
+      "head_m": "4",
+      "river": "Siuron reitti/ Kokemäenjoki",
+      "municipality": "Nokia",
+      "built": "",
+      "owner": "Nokia /Virolan Puutarha"
+    },
+    {
+      "name": "Haapakoski (Haapavesi)",
+      "capacity_mw": 0.6,
+      "annual_energy_gwh": 2.5,
+      "head_m": "",
+      "river": "Pyhäjoki",
+      "municipality": "Haapavesi",
+      "built": "",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Lahankoski",
+      "capacity_mw": 0.535,
+      "annual_energy_gwh": 2,
+      "head_m": "10",
+      "river": "Mustijoki",
+      "municipality": "Pornainen",
+      "built": "1892/1952/2011",
+      "owner": "Lahan kartano"
+    },
+    {
+      "name": "Louhikoski (purettu 2022)",
+      "capacity_mw": 0.5,
+      "annual_energy_gwh": 2.2,
+      "head_m": "11,0",
+      "river": "Saramojoki",
+      "municipality": "Nurmes",
+      "built": "1987",
+      "owner": "Nurmeksen Sähkö Oy/ PKS"
+    },
+    {
+      "name": "Pirttikoski (Kaustinen)",
+      "capacity_mw": 0.5,
+      "annual_energy_gwh": 2.2,
+      "head_m": "3,5",
+      "river": "Perhonjoki",
+      "municipality": "Kaustinen",
+      "built": "1917",
+      "owner": "Kaustisen Sähkö-Sahakone osuuskunta/Killin Voima Oy"
+    },
+    {
+      "name": "Pappilankoski",
+      "capacity_mw": 0.5,
+      "annual_energy_gwh": 1.9,
+      "head_m": "7,3",
+      "river": "Eurajoki",
+      "municipality": "Eurajoki",
+      "built": "1924 / 2008",
+      "owner": "Paneliankosken Voima Oy"
+    },
+    {
+      "name": "Arrakoski",
+      "capacity_mw": 0.5,
+      "annual_energy_gwh": 1.7,
+      "head_m": "20",
+      "river": "/ Kymijoki",
+      "municipality": "Padasjoki",
+      "built": "1965",
+      "owner": "Oksasen yrtit ja salaatit"
+    },
+    {
+      "name": "Ala-Utos",
+      "capacity_mw": 0.5,
+      "annual_energy_gwh": "",
+      "head_m": "",
+      "river": "Utosjoki",
+      "municipality": "Utajärvi",
+      "built": "1957",
+      "owner": "Fortum"
+    },
+    {
+      "name": "Jolmankoski",
+      "capacity_mw": 0.5,
+      "annual_energy_gwh": "",
+      "head_m": "5",
+      "river": "Tengeliönjoki / Tornionjoki",
+      "municipality": "Ylitornio",
+      "built": "1955",
+      "owner": "Aavasaksa Oy / Tornionlaakson Voima Oy"
+    },
+    {
+      "name": "Kalliokoski (Jämsä)",
+      "capacity_mw": 0.5,
+      "annual_energy_gwh": 2.9,
+      "head_m": "5,5",
+      "river": "Suolijoki / Jämsänjoki",
+      "municipality": "Jämsä",
+      "built": "1949 / 1995",
+      "owner": "Koskienergia Oy"
+    },
+    {
+      "name": "Nahkionkoski",
+      "capacity_mw": 0.43,
+      "annual_energy_gwh": "",
+      "head_m": "9,8",
+      "river": "Karjaanjoki",
+      "municipality": "Karkkila",
+      "built": "1924",
+      "owner": ""
+    },
+    {
+      "name": "Virtaa",
+      "capacity_mw": 0.4,
+      "annual_energy_gwh": 2.5,
+      "head_m": "3,54",
+      "river": "Kymijoki",
+      "municipality": "Sysmä",
+      "built": "1956",
+      "owner": "Hiitolanjoen Voima Oy"
+    },
+    {
+      "name": "Ediskoski",
+      "capacity_mw": 0.4,
+      "annual_energy_gwh": 3,
+      "head_m": "9,1",
+      "river": "Kymijoki",
+      "municipality": "Pyhtää",
+      "built": "1990",
+      "owner": "Mankala (Helen)"
+    },
+    {
+      "name": "Puuppolankoski",
+      "capacity_mw": 0.4,
+      "annual_energy_gwh": 1,
+      "head_m": "15,0",
+      "river": "Autiojoki / Kymijoki",
+      "municipality": "Jyväskylä",
+      "built": "1964",
+      "owner": "Koskienergia Oy"
+    },
+    {
+      "name": "Makkarakoski",
+      "capacity_mw": 0.39,
+      "annual_energy_gwh": 2.4,
+      "head_m": "3,5",
+      "river": "Noormarkunjoki",
+      "municipality": "Pori",
+      "built": "1914 / 2013",
+      "owner": "A. Ahlström Oy"
+    },
+    {
+      "name": "Lapinkosken voimalaitos",
+      "capacity_mw": 0.33,
+      "annual_energy_gwh": "",
+      "head_m": "",
+      "river": "Lapinjoki",
+      "municipality": "Rauma",
+      "built": "",
+      "owner": ""
+    },
+    {
+      "name": "Juvankoski",
+      "capacity_mw": 0.3,
+      "annual_energy_gwh": 5,
+      "head_m": "14",
+      "river": "Paimionjoki",
+      "municipality": "Lieto",
+      "built": "1916",
+      "owner": "Koskienergia"
+    },
+    {
+      "name": "Paneliankoski",
+      "capacity_mw": 0.3,
+      "annual_energy_gwh": 1.6,
+      "head_m": "6,1",
+      "river": "Eurajoki",
+      "municipality": "Eura",
+      "built": "1921 / 1961",
+      "owner": "Paneliankosken Voima Oy"
+    },
+    {
+      "name": "Halkiankoski",
+      "capacity_mw": 0.3,
+      "annual_energy_gwh": 1.5,
+      "head_m": "10",
+      "river": "Mustijoki",
+      "municipality": "Pornainen",
+      "built": "1930-luku",
+      "owner": "Nivos Energia"
+    },
+    {
+      "name": "Huopanankoski",
+      "capacity_mw": 0.3,
+      "annual_energy_gwh": 1.2,
+      "head_m": "7,3",
+      "river": "Huopanankoski",
+      "municipality": "Viitasaari",
+      "built": "",
+      "owner": "Koskienergia Oy"
+    },
+    {
+      "name": "Tyyteri",
+      "capacity_mw": 0.2,
+      "annual_energy_gwh": "",
+      "head_m": "4",
+      "river": "Mustijoki",
+      "municipality": "Porvoo",
+      "built": "2003",
+      "owner": "Drägsby vattenkraft AB"
+    },
+    {
+      "name": "Kantturakoski",
+      "capacity_mw": 0.2,
+      "annual_energy_gwh": 1,
+      "head_m": "6",
+      "river": "Virojoki",
+      "municipality": "Virolahti",
+      "built": "1924",
+      "owner": "Kantturakosken Vesivoima Oy"
+    },
+    {
+      "name": "Pajarin vesivoimalaitos",
+      "capacity_mw": 0.2,
+      "annual_energy_gwh": 0.8,
+      "head_m": "8,3",
+      "river": "Iijoki",
+      "municipality": "Ii",
+      "built": "1988",
+      "owner": "PVO-Vesivoima Oy"
+    },
+    {
+      "name": "Vanhankaupunginkoski",
+      "capacity_mw": 0.2,
+      "annual_energy_gwh": "",
+      "head_m": "",
+      "river": "Vantaanjoki",
+      "municipality": "Helsinki",
+      "built": "1876",
+      "owner": "Voimalamuseo"
+    },
+    {
+      "name": "Kuhalankoski",
+      "capacity_mw": "0,1–0,2",
+      "annual_energy_gwh": 0.8,
+      "head_m": "",
+      "river": "Loimijoki",
+      "municipality": "Forssa",
+      "built": "1900-luvun alku / Uudelleen 2010",
+      "owner": "Forssa Oy, /Oy Finlayson-Forssa Ab, Nyk. Eros Power Ky"
+    },
+    {
+      "name": "Nummenkoski",
+      "capacity_mw": "",
+      "annual_energy_gwh": 0.7,
+      "head_m": "5",
+      "river": "Nummenjoki",
+      "municipality": "Lohja",
+      "built": "2009",
+      "owner": "Nummenkosken Vesivoima Oy"
+    },
+    {
+      "name": "Eurakoski",
+      "capacity_mw": 0.1,
+      "annual_energy_gwh": 0.5,
+      "head_m": "2,7",
+      "river": "Eurajoki",
+      "municipality": "Eura",
+      "built": "2006",
+      "owner": "Eurakosken Woima Oy"
+    },
+    {
+      "name": "Laukkoski",
+      "capacity_mw": 0.1,
+      "annual_energy_gwh": "",
+      "head_m": "5,7",
+      "river": "Mustijoki",
+      "municipality": "Pornainen",
+      "built": "1920",
+      "owner": "Porvoon Energia"
+    },
+    {
+      "name": "Lokka",
+      "capacity_mw": 0.1,
+      "annual_energy_gwh": 0.5,
+      "head_m": "7-12",
+      "river": "Luiro",
+      "municipality": "Sodankylä",
+      "built": "1967",
+      "owner": "Kemijoki Oy"
+    },
+    {
+      "name": "Vääräkoski",
+      "capacity_mw": 0.1,
+      "annual_energy_gwh": "",
+      "head_m": "3,9",
+      "river": "Mustijoki",
+      "municipality": "Orimattila",
+      "built": "1911/1983",
+      "owner": "Orimattilan Vesi Oy"
+    }
+  ],
+  "meta": {
+    "title": "Suomen vesivoimalaitokset - Free Download",
+    "description": "Suomen vesivoimalaitokset tehon mukaan: vuosienergia, putouskorkeus, joki tai vesistö, kunta, rakennusvuosi ja omistaja. Contains 135 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Suomen vesivoimalaitokset | ListBase",
+    "seo_description": "Download Suomen vesivoimalaitokset — 135 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 135 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fi.wikipedia.org/wiki/Luettelo_Suomen_vesivoimalaitoksista"
+    ]
+  }
+}

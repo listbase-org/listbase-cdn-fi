@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-12T02:02:39.974Z",
-  "total_datasets": 551,
-  "total_records": 500626,
+  "generated": "2026-11-12T02:02:49.170Z",
+  "total_datasets": 552,
+  "total_records": 500761,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -13208,6 +13208,35 @@
         "xlsx": {
           "name": "fi-suomalaiset-videopelit_FI.xlsx",
           "size": 24117
+        }
+      }
+    },
+    {
+      "id": "fi-vesivoimalaitokset",
+      "name": "Suomen vesivoimalaitokset",
+      "category": "tech",
+      "record_count": 135,
+      "columns": [
+        "name",
+        "capacity_mw",
+        "annual_energy_gwh",
+        "head_m",
+        "river",
+        "municipality",
+        "built",
+        "owner"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_vesivoimalaitoksista",
+      "updated": "2026-11",
+      "size": 35399,
+      "files": {
+        "csv": {
+          "name": "fi-vesivoimalaitokset_FI.csv",
+          "size": 11772
+        },
+        "xlsx": {
+          "name": "fi-vesivoimalaitokset_FI.xlsx",
+          "size": 14983
         }
       }
     },
