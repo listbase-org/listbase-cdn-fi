@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-13T02:06:19.185Z",
-  "total_datasets": 555,
-  "total_records": 501091,
+  "generated": "2026-11-13T02:06:30.737Z",
+  "total_datasets": 556,
+  "total_records": 501137,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "food",
@@ -2464,6 +2464,31 @@
         "xlsx": {
           "name": "fi-pankkiautomaatit_FI.xlsx",
           "size": 15066
+        }
+      }
+    },
+    {
+      "id": "fi-pop-pankit",
+      "name": "POP Pankit ja paikallisosuuspankit",
+      "category": "finance",
+      "record_count": 46,
+      "columns": [
+        "pankki",
+        "kotipaikka",
+        "ryhma_2018",
+        "huomautus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_POP_Pankeista",
+      "updated": "2026-11",
+      "size": 10118,
+      "files": {
+        "csv": {
+          "name": "fi-pop-pankit_FI.csv",
+          "size": 4360
+        },
+        "xlsx": {
+          "name": "fi-pop-pankit_FI.xlsx",
+          "size": 8766
         }
       }
     },
