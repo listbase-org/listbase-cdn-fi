@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-12T02:02:49.170Z",
-  "total_datasets": 552,
-  "total_records": 500761,
+  "generated": "2026-11-13T02:05:55.714Z",
+  "total_datasets": 553,
+  "total_records": 500779,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -2366,6 +2366,32 @@
         "xlsx": {
           "name": "fi-kahvilat_FI.xlsx",
           "size": 92003
+        }
+      }
+    },
+    {
+      "id": "fi-markan-devalvaatiot-ja-revalvaatiot",
+      "name": "Suomen markan devalvaatiot ja revalvaatiot 1957–2012",
+      "category": "finance",
+      "record_count": 18,
+      "columns": [
+        "paiva",
+        "tapahtuma",
+        "markan_devalvaatio_prosenttia",
+        "valuuttojen_kallistuminen_prosenttia",
+        "huomautus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_markka",
+      "updated": "2026-11",
+      "size": 5757,
+      "files": {
+        "csv": {
+          "name": "fi-markan-devalvaatiot-ja-revalvaatiot_FI.csv",
+          "size": 1187
+        },
+        "xlsx": {
+          "name": "fi-markan-devalvaatiot-ja-revalvaatiot_FI.xlsx",
+          "size": 7618
         }
       }
     },
