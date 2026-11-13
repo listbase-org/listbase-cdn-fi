@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-13T02:06:07.160Z",
-  "total_datasets": 554,
-  "total_records": 500804,
+  "generated": "2026-11-13T02:06:19.185Z",
+  "total_datasets": 555,
+  "total_records": 501091,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -2415,6 +2415,31 @@
         "xlsx": {
           "name": "fi-omx-helsinki-25-yhtiot_FI.xlsx",
           "size": 7334
+        }
+      }
+    },
+    {
+      "id": "fi-osuuspankit",
+      "name": "Suomen osuuspankit (nykyiset ja entiset)",
+      "category": "finance",
+      "record_count": 287,
+      "columns": [
+        "osuuspankki",
+        "kotipaikka",
+        "tase_1997_milj_mk",
+        "huomautus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Osuuspankeista",
+      "updated": "2026-11",
+      "size": 55975,
+      "files": {
+        "csv": {
+          "name": "fi-osuuspankit_FI.csv",
+          "size": 25282
+        },
+        "xlsx": {
+          "name": "fi-osuuspankit_FI.xlsx",
+          "size": 18073
         }
       }
     },
