@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-13T02:05:55.714Z",
-  "total_datasets": 553,
-  "total_records": 500779,
+  "generated": "2026-11-13T02:06:07.160Z",
+  "total_datasets": 554,
+  "total_records": 500804,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -2392,6 +2392,29 @@
         "xlsx": {
           "name": "fi-markan-devalvaatiot-ja-revalvaatiot_FI.xlsx",
           "size": 7618
+        }
+      }
+    },
+    {
+      "id": "fi-omx-helsinki-25-yhtiot",
+      "name": "OMX Helsinki 25 -indeksin yhtiöt",
+      "category": "finance",
+      "record_count": 25,
+      "columns": [
+        "yhtio",
+        "osakkeen_tunnus"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/OMX_Helsinki_25",
+      "updated": "2026-11",
+      "size": 3274,
+      "files": {
+        "csv": {
+          "name": "fi-omx-helsinki-25-yhtiot_FI.csv",
+          "size": 605
+        },
+        "xlsx": {
+          "name": "fi-omx-helsinki-25-yhtiot_FI.xlsx",
+          "size": 7334
         }
       }
     },
