@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-14T02:07:48.719Z",
-  "total_datasets": 559,
-  "total_records": 501208,
+  "generated": "2026-11-14T02:07:59.115Z",
+  "total_datasets": 560,
+  "total_records": 501373,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 179
+      "dataset_count": 180
     },
     {
       "id": "health",
@@ -7853,6 +7853,37 @@
         "xlsx": {
           "name": "fi-sukunimet_FI.xlsx",
           "size": 7768
+        }
+      }
+    },
+    {
+      "id": "fi-suomen-korkeimmat-tunturit-ja-kohdat",
+      "name": "Suomen korkeimmat kohdat ja tunturihuiput",
+      "category": "geography",
+      "record_count": 165,
+      "columns": [
+        "sijoitus",
+        "nimi",
+        "korkeus_mpy",
+        "korkeus_arvio",
+        "prominenssi_m",
+        "emohuippu",
+        "sijainti",
+        "kkj_n",
+        "kkj_e",
+        "huomautuksia"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_korkeimmista_kohdista",
+      "updated": "2026-11",
+      "size": 51885,
+      "files": {
+        "csv": {
+          "name": "fi-suomen-korkeimmat-tunturit-ja-kohdat_FI.csv",
+          "size": 16547
+        },
+        "xlsx": {
+          "name": "fi-suomen-korkeimmat-tunturit-ja-kohdat_FI.xlsx",
+          "size": 17685
         }
       }
     },
