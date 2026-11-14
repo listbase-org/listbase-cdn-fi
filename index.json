@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-14T02:07:26.197Z",
-  "total_datasets": 557,
-  "total_records": 501150,
+  "generated": "2026-11-14T02:07:36.979Z",
+  "total_datasets": 558,
+  "total_records": 501168,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -2566,6 +2566,34 @@
         "xlsx": {
           "name": "fi-valtiovarainministerit_FI.xlsx",
           "size": 10577
+        }
+      }
+    },
+    {
+      "id": "fi-eu-nimisuojatut-suomalaiset-tuotteet",
+      "name": "EU-nimisuojan saaneet suomalaiset tuotteet (SAN/SMM)",
+      "category": "food",
+      "record_count": 18,
+      "columns": [
+        "nimi",
+        "muut_nimet",
+        "suojatyyppi",
+        "tuoteryhma",
+        "tila",
+        "asiakirjanumero",
+        "rekisterointipaiva"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 7402,
+      "files": {
+        "csv": {
+          "name": "fi-eu-nimisuojatut-suomalaiset-tuotteet_FI.csv",
+          "size": 2398
+        },
+        "xlsx": {
+          "name": "fi-eu-nimisuojatut-suomalaiset-tuotteet_FI.xlsx",
+          "size": 7972
         }
       }
     },
