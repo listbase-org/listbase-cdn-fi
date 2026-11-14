@@ -1,0 +1,160 @@
+{
+  "id": "fi-boforiasteikko-tuulen-voimakkuus",
+  "name": "Boforiasteikko – tuulen voimakkuuden suomenkieliset nimitykset",
+  "title": "Boforiasteikko – tuulen voimakkuuden suomenkieliset nimitykset",
+  "description": "Tuulen voimakkuuden Beaufort-asteikko (0–12) suomeksi: vanha ja nykyinen Ilmatieteen laitoksen käyttämä nimitys, tuulen nopeus metreinä sekunnissa sekä vaikutus maalla ja merellä.",
+  "category": "units",
+  "source": "https://fi.wikipedia.org/wiki/Boforiasteikko",
+  "source_url": "https://fi.wikipedia.org/wiki/Boforiasteikko",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "boforia",
+      "label": "Boforia",
+      "type": "number"
+    },
+    {
+      "key": "vanha_nimitys",
+      "label": "Vanha Nimitys",
+      "type": "string"
+    },
+    {
+      "key": "nykyinen_nimitys",
+      "label": "Nykyinen Nimitys",
+      "type": "string"
+    },
+    {
+      "key": "tuulen_nopeus_m_s",
+      "label": "Tuulen Nopeus M S",
+      "type": "string"
+    },
+    {
+      "key": "vaikutus_maalla",
+      "label": "Vaikutus Maalla",
+      "type": "string"
+    },
+    {
+      "key": "vaikutus_merella",
+      "label": "Vaikutus Merella",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "boforia": 0,
+      "vanha_nimitys": "Tyyni",
+      "nykyinen_nimitys": "Tyyni",
+      "tuulen_nopeus_m_s": "<1",
+      "vaikutus_maalla": "Savu nousee pystysuoraan.",
+      "vaikutus_merella": "Peilityyni meri."
+    },
+    {
+      "boforia": 1,
+      "vanha_nimitys": "Hiljainen tuuli",
+      "nykyinen_nimitys": "Heikko tuuli",
+      "tuulen_nopeus_m_s": "1–2",
+      "vaikutus_maalla": "Tuulen suunnan huomaa savun liikkeestä, mutta tuuliviiri ei käänny.",
+      "vaikutus_merella": "Meren pinnassa pieniä kareita, ei vaahtoa."
+    },
+    {
+      "boforia": 2,
+      "vanha_nimitys": "Heikko tuuli",
+      "nykyinen_nimitys": "Heikko tuuli",
+      "tuulen_nopeus_m_s": "2–3",
+      "vaikutus_maalla": "Tuuli tuntuu iholla; puiden lehdet kahisevat; tuuliviiri kääntyy.",
+      "vaikutus_merella": "Selkeitä mutta lyhyitä ja matalia aaltoja. Aallonharjat ohuen kuultavia, eivät murru."
+    },
+    {
+      "boforia": 3,
+      "vanha_nimitys": "Heikonlainen tuuli",
+      "nykyinen_nimitys": "Kohtalainen tuuli",
+      "tuulen_nopeus_m_s": "4–5",
+      "vaikutus_maalla": "Puiden lehdet ja pienet oksat havisevat; kevyt lippu suoristuu.",
+      "vaikutus_merella": "Suurempia aaltoja. Aallonharjat alkavat murtua. Aallonharjoilla läpikuultavaa, harvakseltaan valkoista vaahtoa."
+    },
+    {
+      "boforia": 4,
+      "vanha_nimitys": "Kohtalainen tuuli",
+      "nykyinen_nimitys": "Kohtalainen tuuli",
+      "tuulen_nopeus_m_s": "6–8",
+      "vaikutus_maalla": "Tuuli nostaa maasta pölyä ja irrallisia papereita; oksat liikkuvat.",
+      "vaikutus_merella": "Pitkähköjä aaltoja, joiden harjalla verrattain taajaan valkoista vaahtoa."
+    },
+    {
+      "boforia": 5,
+      "vanha_nimitys": "Navakka tuuli",
+      "nykyinen_nimitys": "Navakka tuuli",
+      "tuulen_nopeus_m_s": "9–11",
+      "vaikutus_maalla": "Pienet puut huojuvat.",
+      "vaikutus_merella": "Kohtalaisia, selkeämmin pitkiä aaltoja, joilla usein vaahtopäät. Pärskettä voi muodostua."
+    },
+    {
+      "boforia": 6,
+      "vanha_nimitys": "Kova tuuli",
+      "nykyinen_nimitys": "Navakka tuuli",
+      "tuulen_nopeus_m_s": "11–14",
+      "vaikutus_maalla": "Suuret oksat heiluvat; suhinaa puhelinlangoissa; sateenvarjoa vaikea pidellä.",
+      "vaikutus_merella": "Aallot kookkaita, vaahtopäät kattavampia. Pärske todennäköistä."
+    },
+    {
+      "boforia": 7,
+      "vanha_nimitys": "Luja tuuli",
+      "nykyinen_nimitys": "Kova tuuli",
+      "tuulen_nopeus_m_s": "14–17",
+      "vaikutus_maalla": "Puut huojuvat, tuulta vasten kulkeminen hankalaa.",
+      "vaikutus_merella": "Meri velloo, vaahtopäät alkavat levitä tuulen suuntaisiksi juoviksi aaltojen poikki. Tuuli alkaa heittää pärskettä aallonharjoilta."
+    },
+    {
+      "boforia": 8,
+      "vanha_nimitys": "Myrskyinen tuuli",
+      "nykyinen_nimitys": "Kova tuuli",
+      "tuulen_nopeus_m_s": "17–21",
+      "vaikutus_maalla": "Puista irtoilee risuja; ulkona liikkuminen ylipäätään hankalaa.",
+      "vaikutus_merella": "Aallot korkeita ja pitkiä, vaahtojuovat selkeitä. Aallonharjat hajoavat tuulessa pärskeeksi."
+    },
+    {
+      "boforia": 9,
+      "vanha_nimitys": "Myrsky",
+      "nykyinen_nimitys": "Myrsky",
+      "tuulen_nopeus_m_s": "21–24",
+      "vaikutus_maalla": "Rakennuksille aiheutuu vähäisiä vaurioita (kattotiilet ja savupiippujen hatut irtoavat)",
+      "vaikutus_merella": "Aallot korkeita, vaahtojuovia tiheässä. Pärske heikentää näkyvyyttä."
+    },
+    {
+      "boforia": 10,
+      "vanha_nimitys": "Kova myrsky",
+      "nykyinen_nimitys": "Myrsky",
+      "tuulen_nopeus_m_s": "25–28",
+      "vaikutus_maalla": "Puita kaatuu juurineen, rakennuksille aiheutuu huomattavaa vahinkoa. Harvoin sisämaassa.",
+      "vaikutus_merella": "Aallot korkeita, aallonharjat kaartuvat pitkinä, vaahtojuovia tiheässä, merenpinta alkaa näyttää valkoiselta. Meri velloo voimakkaasti, näkyvyys heikentynyt."
+    },
+    {
+      "boforia": 11,
+      "vanha_nimitys": "Ankara myrsky",
+      "nykyinen_nimitys": "Myrsky",
+      "tuulen_nopeus_m_s": "29–32",
+      "vaikutus_maalla": "Metsää kaatuu; rakennukset siirtyilevät. Erittäin harvoin sisämaassa.",
+      "vaikutus_merella": "Poikkeuksellisen korkeita aaltoja; pienet ja keskikokoiset laivat katoavat näköpiiristä aaltojen taakse. Meren pinta valkoisenaan leveistä vaahtolautoista, useimmat aallonharjat hajoavat tuulessa vaahdoksi. Näkyvyys heikko."
+    },
+    {
+      "boforia": 12,
+      "vanha_nimitys": "Hirmumyrsky",
+      "nykyinen_nimitys": "Hirmumyrsky",
+      "tuulen_nopeus_m_s": "33+",
+      "vaikutus_maalla": "Perinpohjaista tuhoa.",
+      "vaikutus_merella": "Ilma täynnä pärskettä ja vaahtoa, meren pinta valkoisenaan vaahdosta. Näkyvyys erittäin heikko."
+    }
+  ],
+  "meta": {
+    "title": "Boforiasteikko – tuulen voimakkuuden suomenkieliset nimitykset - Free Download",
+    "description": "Tuulen voimakkuuden Beaufort-asteikko (0–12) suomeksi: vanha ja nykyinen Ilmatieteen laitoksen käyttämä nimitys, tuulen nopeus metreinä sekunnissa sekä vaikutus maalla ja merellä. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Boforiasteikko – tuulen voimakkuuden suomenkieliset nimitykset | ListBase",
+    "seo_description": "Download Boforiasteikko – tuulen voimakkuuden suomenkieliset nimitykset — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fi.wikipedia.org/wiki/Boforiasteikko"
+    ]
+  }
+}
