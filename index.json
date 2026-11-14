@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-14T02:07:36.979Z",
-  "total_datasets": 558,
-  "total_records": 501168,
+  "generated": "2026-11-14T02:07:48.719Z",
+  "total_datasets": 559,
+  "total_records": 501208,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -13469,6 +13469,31 @@
         "xlsx": {
           "name": "fi-juhlapyhat_FI.xlsx",
           "size": 8026
+        }
+      }
+    },
+    {
+      "id": "fi-liputuspaivat",
+      "name": "Suomen liputuspäivät",
+      "category": "time",
+      "record_count": 40,
+      "columns": [
+        "liputuspaiva",
+        "ajankohta",
+        "tyyppi",
+        "vakiintunut_tai_virallinen"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_liputuspäivistä",
+      "updated": "2026-11",
+      "size": 9807,
+      "files": {
+        "csv": {
+          "name": "fi-liputuspaivat_FI.csv",
+          "size": 3930
+        },
+        "xlsx": {
+          "name": "fi-liputuspaivat_FI.xlsx",
+          "size": 8700
         }
       }
     },
