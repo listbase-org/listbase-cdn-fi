@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-15T02:16:43.203Z",
-  "total_datasets": 561,
-  "total_records": 501478,
+  "generated": "2026-11-15T02:16:54.053Z",
+  "total_datasets": 562,
+  "total_records": 501510,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -17067,6 +17067,33 @@
         "xlsx": {
           "name": "fi-si-johdannaisyksikot_FI.xlsx",
           "size": 11593
+        }
+      }
+    },
+    {
+      "id": "fi-si-lisayksikot",
+      "name": "SI-järjestelmän ulkopuoliset hyväksytyt lisäyksiköt",
+      "category": "units",
+      "record_count": 32,
+      "columns": [
+        "suure",
+        "suureen_tunnus",
+        "yksikko",
+        "yksikon_tunnus",
+        "arvo_si_yksikoissa",
+        "kayttoala"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Kansainvälinen_yksikköjärjestelmä",
+      "updated": "2026-11",
+      "size": 8868,
+      "files": {
+        "csv": {
+          "name": "fi-si-lisayksikot_FI.csv",
+          "size": 2263
+        },
+        "xlsx": {
+          "name": "fi-si-lisayksikot_FI.xlsx",
+          "size": 8467
         }
       }
     },

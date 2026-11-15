@@ -1,0 +1,312 @@
+{
+  "id": "fi-si-lisayksikot",
+  "name": "SI-järjestelmän ulkopuoliset hyväksytyt lisäyksiköt",
+  "title": "SI-järjestelmän ulkopuoliset hyväksytyt lisäyksiköt",
+  "description": "SI-järjestelmän ohella käytettävät lisäyksiköt (esim. meripeninkulma, astronominen yksikkö, hehtaari, litra, tonni, solmu, km/h) arvoineen SI-yksiköissä ja käyttöaloineen.",
+  "category": "units",
+  "source": "https://fi.wikipedia.org/wiki/Kansainvälinen_yksikköjärjestelmä",
+  "source_url": "https://fi.wikipedia.org/wiki/Kansainvälinen_yksikköjärjestelmä",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "suure",
+      "label": "Suure",
+      "type": "string"
+    },
+    {
+      "key": "suureen_tunnus",
+      "label": "Suureen Tunnus",
+      "type": "string"
+    },
+    {
+      "key": "yksikko",
+      "label": "Yksikko",
+      "type": "string"
+    },
+    {
+      "key": "yksikon_tunnus",
+      "label": "Yksikon Tunnus",
+      "type": "string"
+    },
+    {
+      "key": "arvo_si_yksikoissa",
+      "label": "Arvo Si Yksikoissa",
+      "type": "string"
+    },
+    {
+      "key": "kayttoala",
+      "label": "Kayttoala",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "suure": "pituus",
+      "suureen_tunnus": "s",
+      "yksikko": "meripeninkulma",
+      "yksikon_tunnus": "mpk",
+      "arvo_si_yksikoissa": "1 852 m",
+      "kayttoala": "merenkulku"
+    },
+    {
+      "suure": "pituus",
+      "suureen_tunnus": "s",
+      "yksikko": "astronominen yksikkö",
+      "yksikon_tunnus": "AU",
+      "arvo_si_yksikoissa": "0,1495979 · 10^12 m",
+      "kayttoala": "tähtitiede"
+    },
+    {
+      "suure": "pituus",
+      "suureen_tunnus": "s",
+      "yksikko": "parsek",
+      "yksikon_tunnus": "pc",
+      "arvo_si_yksikoissa": "30,85678 · 10^15 m",
+      "kayttoala": "tähtitiede"
+    },
+    {
+      "suure": "korkeus",
+      "suureen_tunnus": "",
+      "yksikko": "jalka",
+      "yksikon_tunnus": "ft",
+      "arvo_si_yksikoissa": "0,3048 m",
+      "kayttoala": "lentokoneet"
+    },
+    {
+      "suure": "pinta-ala",
+      "suureen_tunnus": "A",
+      "yksikko": "aari",
+      "yksikon_tunnus": "a",
+      "arvo_si_yksikoissa": "100 m²",
+      "kayttoala": "maa- ja metsätalous"
+    },
+    {
+      "suure": "pinta-ala",
+      "suureen_tunnus": "A",
+      "yksikko": "hehtaari",
+      "yksikon_tunnus": "ha",
+      "arvo_si_yksikoissa": "10^000 m²",
+      "kayttoala": "maa- ja metsätalous"
+    },
+    {
+      "suure": "aika",
+      "suureen_tunnus": "t",
+      "yksikko": "minuutti",
+      "yksikon_tunnus": "min",
+      "arvo_si_yksikoissa": "60 s",
+      "kayttoala": ""
+    },
+    {
+      "suure": "aika",
+      "suureen_tunnus": "t",
+      "yksikko": "tunti",
+      "yksikon_tunnus": "h",
+      "arvo_si_yksikoissa": "60 min = 3 600 s",
+      "kayttoala": ""
+    },
+    {
+      "suure": "aika",
+      "suureen_tunnus": "t",
+      "yksikko": "vuorokausi (päivä)",
+      "yksikon_tunnus": "d",
+      "arvo_si_yksikoissa": "24 h = 86 400 s",
+      "kayttoala": ""
+    },
+    {
+      "suure": "tilavuus",
+      "suureen_tunnus": "V",
+      "yksikko": "litra",
+      "yksikon_tunnus": "l, L",
+      "arvo_si_yksikoissa": "dm³ = 1/1 000 m³",
+      "kayttoala": ""
+    },
+    {
+      "suure": "massa",
+      "suureen_tunnus": "m",
+      "yksikko": "tonni",
+      "yksikon_tunnus": "t",
+      "arvo_si_yksikoissa": "1 000 kg",
+      "kayttoala": ""
+    },
+    {
+      "suure": "massa",
+      "suureen_tunnus": "m",
+      "yksikko": "atomimassayksikkö",
+      "yksikon_tunnus": "u",
+      "arvo_si_yksikoissa": "1,6605402 · 10 −27 kg",
+      "kayttoala": ""
+    },
+    {
+      "suure": "paine",
+      "suureen_tunnus": "p",
+      "yksikko": "baari",
+      "yksikon_tunnus": "bar",
+      "arvo_si_yksikoissa": "100 000 Pa, 10 N/cm²",
+      "kayttoala": ""
+    },
+    {
+      "suure": "verenpaine",
+      "suureen_tunnus": "",
+      "yksikko": "elohopeamillimetri",
+      "yksikon_tunnus": "mm Hg",
+      "arvo_si_yksikoissa": "133,322 Pa",
+      "kayttoala": ""
+    },
+    {
+      "suure": "energia",
+      "suureen_tunnus": "E, W",
+      "yksikko": "elektronivoltti",
+      "yksikon_tunnus": "eV",
+      "arvo_si_yksikoissa": "1,6021773 · 10 −19 J",
+      "kayttoala": ""
+    },
+    {
+      "suure": "tasokulma",
+      "suureen_tunnus": "α",
+      "yksikko": "sekunti",
+      "yksikon_tunnus": "″",
+      "arvo_si_yksikoissa": "1/60′",
+      "kayttoala": ""
+    },
+    {
+      "suure": "tasokulma",
+      "suureen_tunnus": "α",
+      "yksikko": "minuutti",
+      "yksikon_tunnus": "′",
+      "arvo_si_yksikoissa": "1/60° = 60″",
+      "kayttoala": ""
+    },
+    {
+      "suure": "tasokulma",
+      "suureen_tunnus": "α",
+      "yksikko": "aste",
+      "yksikon_tunnus": "°",
+      "arvo_si_yksikoissa": "60′ = 3 600″ = π/180 rad",
+      "kayttoala": ""
+    },
+    {
+      "suure": "logaritmiset suhdesuureet",
+      "suureen_tunnus": "",
+      "yksikko": "desibeli ja beli",
+      "yksikon_tunnus": "dB, B",
+      "arvo_si_yksikoissa": "",
+      "kayttoala": ""
+    },
+    {
+      "suure": "logaritmiset suhdesuureet",
+      "suureen_tunnus": "",
+      "yksikko": "neperi",
+      "yksikon_tunnus": "Np",
+      "arvo_si_yksikoissa": "",
+      "kayttoala": ""
+    },
+    {
+      "suure": "Akustiikan yksiköt",
+      "suureen_tunnus": "Akustiikan yksiköt",
+      "yksikko": "Akustiikan yksiköt",
+      "yksikon_tunnus": "Akustiikan yksiköt",
+      "arvo_si_yksikoissa": "Akustiikan yksiköt",
+      "kayttoala": "Akustiikan yksiköt"
+    },
+    {
+      "suure": "äänitehotaso, äänen tehotaso",
+      "suureen_tunnus": "L W",
+      "yksikko": "desibeli ja beli",
+      "yksikon_tunnus": "dB, B",
+      "arvo_si_yksikoissa": "",
+      "kayttoala": "(10 dB vastaa kymmenkertaista)"
+    },
+    {
+      "suure": "äänenpainetaso",
+      "suureen_tunnus": "L P",
+      "yksikko": "desibeli ja beli",
+      "yksikon_tunnus": "dB, B",
+      "arvo_si_yksikoissa": "",
+      "kayttoala": "(20 dB vastaa kymmenkertaista)"
+    },
+    {
+      "suure": "Säteilyn yksiköt",
+      "suureen_tunnus": "Säteilyn yksiköt",
+      "yksikko": "Säteilyn yksiköt",
+      "yksikon_tunnus": "Säteilyn yksiköt",
+      "arvo_si_yksikoissa": "Säteilyn yksiköt",
+      "kayttoala": "Säteilyn yksiköt"
+    },
+    {
+      "suure": "absorboitunut annos",
+      "suureen_tunnus": "D",
+      "yksikko": "rad",
+      "yksikon_tunnus": "rad",
+      "arvo_si_yksikoissa": "0,01 Gy",
+      "kayttoala": ""
+    },
+    {
+      "suure": "ekvivalenttiannos",
+      "suureen_tunnus": "H",
+      "yksikko": "rem",
+      "yksikon_tunnus": "rem",
+      "arvo_si_yksikoissa": "0,01 Sv",
+      "kayttoala": ""
+    },
+    {
+      "suure": "nopeus",
+      "suureen_tunnus": "v",
+      "yksikko": "kilometri tunnissa",
+      "yksikon_tunnus": "km/h",
+      "arvo_si_yksikoissa": "1 000/3 600 m/s (1 m/s = 3,6 km/h)",
+      "kayttoala": ""
+    },
+    {
+      "suure": "nopeus",
+      "suureen_tunnus": "v",
+      "yksikko": "solmu",
+      "yksikon_tunnus": "kn",
+      "arvo_si_yksikoissa": "1 mpk/h = 1,852 km/h",
+      "kayttoala": "alukset"
+    },
+    {
+      "suure": "pyörimisnopeus, kierrostaajuus",
+      "suureen_tunnus": "n",
+      "yksikko": "kierros minuutissa",
+      "yksikon_tunnus": "1/min",
+      "arvo_si_yksikoissa": "1/60 1/s",
+      "kayttoala": ""
+    },
+    {
+      "suure": "Sähköopin yksiköt",
+      "suureen_tunnus": "Sähköopin yksiköt",
+      "yksikko": "Sähköopin yksiköt",
+      "yksikon_tunnus": "Sähköopin yksiköt",
+      "arvo_si_yksikoissa": "Sähköopin yksiköt",
+      "kayttoala": "Sähköopin yksiköt"
+    },
+    {
+      "suure": "sähköenergia",
+      "suureen_tunnus": "E, W",
+      "yksikko": "kilowattitunti",
+      "yksikon_tunnus": "kWh",
+      "arvo_si_yksikoissa": "3,6 M J",
+      "kayttoala": ""
+    },
+    {
+      "suure": "sähkövaraus",
+      "suureen_tunnus": "Q",
+      "yksikko": "ampeeritunti",
+      "yksikon_tunnus": "Ah",
+      "arvo_si_yksikoissa": "3 600 As = 3 600 C",
+      "kayttoala": ""
+    }
+  ],
+  "meta": {
+    "title": "SI-järjestelmän ulkopuoliset hyväksytyt lisäyksiköt - Free Download",
+    "description": "SI-järjestelmän ohella käytettävät lisäyksiköt (esim. meripeninkulma, astronominen yksikkö, hehtaari, litra, tonni, solmu, km/h) arvoineen SI-yksiköissä ja käyttöaloineen. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "SI-järjestelmän ulkopuoliset hyväksytyt lisäyksiköt | ListBase",
+    "seo_description": "Download SI-järjestelmän ulkopuoliset hyväksytyt lisäyksiköt — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fi.wikipedia.org/wiki/Kansainvälinen_yksikköjärjestelmä"
+    ]
+  }
+}
