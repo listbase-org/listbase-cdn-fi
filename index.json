@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-15T02:16:54.053Z",
-  "total_datasets": 562,
-  "total_records": 501510,
+  "generated": "2026-11-15T02:17:05.108Z",
+  "total_datasets": 563,
+  "total_records": 501543,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -12969,6 +12969,30 @@
         "xlsx": {
           "name": "fi-tyovaentalot_FI.xlsx",
           "size": 41650
+        }
+      }
+    },
+    {
+      "id": "fi-vakiluvun-kehitys-1200-luvulta",
+      "name": "Suomen väkiluvun kehitys 1200-luvulta vuoteen 2020",
+      "category": "society",
+      "record_count": 33,
+      "columns": [
+        "vuosi",
+        "vakiluku",
+        "muutos_prosentti"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_väestö",
+      "updated": "2026-11",
+      "size": 4811,
+      "files": {
+        "csv": {
+          "name": "fi-vakiluvun-kehitys-1200-luvulta_FI.csv",
+          "size": 902
+        },
+        "xlsx": {
+          "name": "fi-vakiluvun-kehitys-1200-luvulta_FI.xlsx",
+          "size": 7580
         }
       }
     },
