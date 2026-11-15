@@ -1,0 +1,896 @@
+{
+  "id": "fi-si-johdannaisyksikot",
+  "name": "SI-järjestelmän johdannaisyksiköt",
+  "title": "SI-järjestelmän johdannaisyksiköt",
+  "description": "SI-järjestelmän johdannaisyksiköt (esim. hertsi, newton, pascal, joule, watti, neliömetri, kuutiometri) suureen, tunnusten ja muilla yksiköillä ilmaistun määritelmän kanssa.",
+  "category": "units",
+  "source": "https://fi.wikipedia.org/wiki/Kansainvälinen_yksikköjärjestelmä",
+  "source_url": "https://fi.wikipedia.org/wiki/Kansainvälinen_yksikköjärjestelmä",
+  "updated": "2026-11",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "suure",
+      "label": "Suure",
+      "type": "string"
+    },
+    {
+      "key": "suureen_tunnus",
+      "label": "Suureen Tunnus",
+      "type": "string"
+    },
+    {
+      "key": "yksikko",
+      "label": "Yksikko",
+      "type": "string"
+    },
+    {
+      "key": "yksikon_tunnus",
+      "label": "Yksikon Tunnus",
+      "type": "string"
+    },
+    {
+      "key": "muilla_yksikoilla",
+      "label": "Muilla Yksikoilla",
+      "type": "string"
+    },
+    {
+      "key": "ryhma",
+      "label": "Ryhma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "suure": "lämpötila",
+      "suureen_tunnus": "T",
+      "yksikko": "celsiusaste",
+      "yksikon_tunnus": "°C",
+      "muilla_yksikoilla": "K (lämpötilaero)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "taajuus",
+      "suureen_tunnus": "f",
+      "yksikko": "hertsi",
+      "yksikon_tunnus": "Hz",
+      "muilla_yksikoilla": "1/s",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "tasokulma",
+      "suureen_tunnus": "α",
+      "yksikko": "radiaani",
+      "yksikon_tunnus": "rad",
+      "muilla_yksikoilla": "(dimensioton)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "avaruuskulma",
+      "suureen_tunnus": "Ω",
+      "yksikko": "steradiaani",
+      "yksikon_tunnus": "sr",
+      "muilla_yksikoilla": "(dimensioton)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "voima",
+      "suureen_tunnus": "F",
+      "yksikko": "newton",
+      "yksikon_tunnus": "N",
+      "muilla_yksikoilla": "kg·m / s² (= J/m)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "paine",
+      "suureen_tunnus": "p",
+      "yksikko": "pascal",
+      "yksikon_tunnus": "Pa",
+      "muilla_yksikoilla": "kg / (m·s²) (= N/m²)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "jännitys",
+      "suureen_tunnus": "s, σ",
+      "yksikko": "pascal",
+      "yksikon_tunnus": "Pa",
+      "muilla_yksikoilla": "kg / (m·s²) (= N/m²)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "kimmokerroin",
+      "suureen_tunnus": "E, Y",
+      "yksikko": "pascal",
+      "yksikon_tunnus": "Pa",
+      "muilla_yksikoilla": "kg / (m·s²) (= N/m²)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "energia",
+      "suureen_tunnus": "E, W",
+      "yksikko": "joule",
+      "yksikon_tunnus": "J",
+      "muilla_yksikoilla": "kg·m²/s² (= N·m = W·s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "sulamislämpö",
+      "suureen_tunnus": "Q s",
+      "yksikko": "joule",
+      "yksikon_tunnus": "J",
+      "muilla_yksikoilla": "kg·m²/s² (= N·m = W·s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "höyrystymislämpö",
+      "suureen_tunnus": "Q h",
+      "yksikko": "joule",
+      "yksikon_tunnus": "J",
+      "muilla_yksikoilla": "kg·m²/s² (= N·m = W·s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "teho",
+      "suureen_tunnus": "P",
+      "yksikko": "watti",
+      "yksikon_tunnus": "W",
+      "muilla_yksikoilla": "kg·m² / s³ (= V·A= J/s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "lämpövirta",
+      "suureen_tunnus": "H, Φ, F",
+      "yksikko": "watti",
+      "yksikon_tunnus": "W",
+      "muilla_yksikoilla": "kg·m² / s³ (= V·A= J/s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "pätöteho",
+      "suureen_tunnus": "P",
+      "yksikko": "watti",
+      "yksikon_tunnus": "W",
+      "muilla_yksikoilla": "kg·m² / s³ (= V·A= J/s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "loisteho (standardoimaton)",
+      "suureen_tunnus": "Q",
+      "yksikko": "vari",
+      "yksikon_tunnus": "var",
+      "muilla_yksikoilla": "kg·m² / s³ (= V·A= J/s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "näennäisteho (standardoimaton)",
+      "suureen_tunnus": "S",
+      "yksikko": "volttiampeeri",
+      "yksikon_tunnus": "VA",
+      "muilla_yksikoilla": "kg·m² / s³ (= V·A= J/s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "Sähköopin yksiköt",
+      "suureen_tunnus": "Sähköopin yksiköt",
+      "yksikko": "Sähköopin yksiköt",
+      "yksikon_tunnus": "Sähköopin yksiköt",
+      "muilla_yksikoilla": "Sähköopin yksiköt",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "jännite",
+      "suureen_tunnus": "U",
+      "yksikko": "voltti",
+      "yksikon_tunnus": "V",
+      "muilla_yksikoilla": "kg·m² / (s³·A) (= W/A = J/C)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "sähköinen potentiaali",
+      "suureen_tunnus": "V",
+      "yksikko": "voltti",
+      "yksikon_tunnus": "V",
+      "muilla_yksikoilla": "kg·m² / (s³·A) (= W/A = J/C)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "sähkömotorinen voima",
+      "suureen_tunnus": "E",
+      "yksikko": "voltti",
+      "yksikon_tunnus": "V",
+      "muilla_yksikoilla": "kg·m² / (s³·A) (= W/A = J/C)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "resistanssi, sähköinen vastus",
+      "suureen_tunnus": "R",
+      "yksikko": "ohmi",
+      "yksikon_tunnus": "Ω",
+      "muilla_yksikoilla": "kg·m² / (s³·A²) (=V/A)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "reaktanssi",
+      "suureen_tunnus": "X",
+      "yksikko": "ohmi",
+      "yksikon_tunnus": "Ω",
+      "muilla_yksikoilla": "kg·m² / (s³·A²) (=V/A)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "impedanssi",
+      "suureen_tunnus": "Z",
+      "yksikko": "ohmi",
+      "yksikon_tunnus": "Ω",
+      "muilla_yksikoilla": "kg·m² / (s³·A²) (=V/A)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "konduktanssi (”sähkönjohtavuus”)",
+      "suureen_tunnus": "G",
+      "yksikko": "siemens",
+      "yksikon_tunnus": "S",
+      "muilla_yksikoilla": "s³·A² / (kg·m²) (= 1/Ω = A/V)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "transkonduktanssi",
+      "suureen_tunnus": "g m",
+      "yksikko": "siemens",
+      "yksikon_tunnus": "S",
+      "muilla_yksikoilla": "s³·A² / (kg·m²) (= 1/Ω = A/V)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "suskeptanssi",
+      "suureen_tunnus": "B",
+      "yksikko": "siemens",
+      "yksikon_tunnus": "S",
+      "muilla_yksikoilla": "s³·A² / (kg·m²) (= 1/Ω = A/V)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "admittanssi",
+      "suureen_tunnus": "Y",
+      "yksikko": "siemens",
+      "yksikon_tunnus": "S",
+      "muilla_yksikoilla": "s³·A² / (kg·m²) (= 1/Ω = A/V)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "Sähkövaraukseen liittyviä",
+      "suureen_tunnus": "Sähkövaraukseen liittyviä",
+      "yksikko": "Sähkövaraukseen liittyviä",
+      "yksikon_tunnus": "Sähkövaraukseen liittyviä",
+      "muilla_yksikoilla": "Sähkövaraukseen liittyviä",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "sähkövaraus",
+      "suureen_tunnus": "Q",
+      "yksikko": "coulombi",
+      "yksikon_tunnus": "C",
+      "muilla_yksikoilla": "A·s",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "sähkövuo",
+      "suureen_tunnus": "Ψ",
+      "yksikko": "coulombi",
+      "yksikon_tunnus": "C",
+      "muilla_yksikoilla": "A·s",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "kapasitanssi",
+      "suureen_tunnus": "C",
+      "yksikko": "faradi",
+      "yksikon_tunnus": "F",
+      "muilla_yksikoilla": "s 4 A² / (kg m²) (= A·s/V = C/V)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "Magnetismiin liittyviä",
+      "suureen_tunnus": "Magnetismiin liittyviä",
+      "yksikko": "Magnetismiin liittyviä",
+      "yksikon_tunnus": "Magnetismiin liittyviä",
+      "muilla_yksikoilla": "Magnetismiin liittyviä",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "magneettivuo, käämivuo",
+      "suureen_tunnus": "Φ",
+      "yksikko": "weber",
+      "yksikon_tunnus": "Wb",
+      "muilla_yksikoilla": "kg·m² / (s²·A) (= V·s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "magneettisen navan voimakkuus",
+      "suureen_tunnus": "p",
+      "yksikko": "weber",
+      "yksikon_tunnus": "Wb",
+      "muilla_yksikoilla": "kg·m² / (s²·A) (= V·s)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "induktanssi",
+      "suureen_tunnus": "L",
+      "yksikko": "henry",
+      "yksikon_tunnus": "H",
+      "muilla_yksikoilla": "kg·m² / (s²·A²) (= V·s/A = Wb/A)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "keskinäisinduktanssi",
+      "suureen_tunnus": "M",
+      "yksikko": "henry",
+      "yksikon_tunnus": "H",
+      "muilla_yksikoilla": "kg·m² / (s²·A²) (= V·s/A = Wb/A)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "permeanssi",
+      "suureen_tunnus": "Λ",
+      "yksikko": "henry",
+      "yksikon_tunnus": "H",
+      "muilla_yksikoilla": "kg·m² / (s²·A²) (= V·s/A = Wb/A)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "magneettivuon tiheys",
+      "suureen_tunnus": "B",
+      "yksikko": "tesla",
+      "yksikon_tunnus": "T",
+      "muilla_yksikoilla": "kg / (s²·A) (= V·s/m² = Wb/m²)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "Valo-opin yksiköt",
+      "suureen_tunnus": "Valo-opin yksiköt",
+      "yksikko": "Valo-opin yksiköt",
+      "yksikon_tunnus": "Valo-opin yksiköt",
+      "muilla_yksikoilla": "Valo-opin yksiköt",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "valovirta",
+      "suureen_tunnus": "Φ",
+      "yksikko": "luumen",
+      "yksikon_tunnus": "lm",
+      "muilla_yksikoilla": "cd·sr",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "valaistusvoimakkuus",
+      "suureen_tunnus": "E",
+      "yksikko": "luksi",
+      "yksikon_tunnus": "lx",
+      "muilla_yksikoilla": "cd·sr / m² (= lm/m²)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "Säteilyn yksiköt",
+      "suureen_tunnus": "Säteilyn yksiköt",
+      "yksikko": "Säteilyn yksiköt",
+      "yksikon_tunnus": "Säteilyn yksiköt",
+      "muilla_yksikoilla": "Säteilyn yksiköt",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "radioaktiivisuus",
+      "suureen_tunnus": "A",
+      "yksikko": "becquerel",
+      "yksikon_tunnus": "Bq",
+      "muilla_yksikoilla": "1/s",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "absorboitunut annos",
+      "suureen_tunnus": "D",
+      "yksikko": "gray",
+      "yksikon_tunnus": "Gy",
+      "muilla_yksikoilla": "(= J/kg)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "kerma",
+      "suureen_tunnus": "K",
+      "yksikko": "gray",
+      "yksikon_tunnus": "Gy",
+      "muilla_yksikoilla": "(= J/kg)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "ekvivalenttiannos",
+      "suureen_tunnus": "H",
+      "yksikko": "sievert",
+      "yksikon_tunnus": "Sv",
+      "muilla_yksikoilla": "(= J/kg)",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "Kemian yksiköt",
+      "suureen_tunnus": "Kemian yksiköt",
+      "yksikko": "Kemian yksiköt",
+      "yksikon_tunnus": "Kemian yksiköt",
+      "muilla_yksikoilla": "Kemian yksiköt",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "katalyyttinen aktiivisuus",
+      "suureen_tunnus": "z",
+      "yksikko": "katal",
+      "yksikon_tunnus": "kat",
+      "muilla_yksikoilla": "mol/s",
+      "ryhma": "erityisnimiset johdannaisyksiköt"
+    },
+    {
+      "suure": "pinta-ala",
+      "suureen_tunnus": "A",
+      "yksikko": "neliömetri",
+      "yksikon_tunnus": "m²",
+      "muilla_yksikoilla": "m·m (= 100 dm² = 10^000 cm²)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "tilavuus",
+      "suureen_tunnus": "V",
+      "yksikko": "kuutiometri",
+      "yksikon_tunnus": "m³",
+      "muilla_yksikoilla": "m·m·m (= 1 000 dm³ = 1 000 000 cm³ = 1 000 l)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "tilavuusvirta, virtaama",
+      "suureen_tunnus": "Q",
+      "yksikko": "kuutiometri sekunnissa",
+      "yksikon_tunnus": "m³/s",
+      "muilla_yksikoilla": "m·m·m/s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "tiheys",
+      "suureen_tunnus": "ρ",
+      "yksikko": "kilogramma kuutiometriä kohti",
+      "yksikon_tunnus": "kg/m³",
+      "muilla_yksikoilla": "(= g/l = g/dm³ = mg/cm³)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "ominaistilavuus",
+      "suureen_tunnus": "v",
+      "yksikko": "kuutiometriä kilogrammaa kohti",
+      "yksikon_tunnus": "m³/kg",
+      "muilla_yksikoilla": "(= l/g = dm³/g = cm³/mg)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "säteilytysvoimakkuus, säteilyintensiteetti",
+      "suureen_tunnus": "E",
+      "yksikko": "watti neliömetriä kohti",
+      "yksikon_tunnus": "W/m²",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "äänen intensiteetti",
+      "suureen_tunnus": "I",
+      "yksikko": "watti neliömetriä kohti",
+      "yksikon_tunnus": "W/m²",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "energiatiheys",
+      "suureen_tunnus": "",
+      "yksikko": "joulea kuutiometriä kohti",
+      "yksikon_tunnus": "J/m³",
+      "muilla_yksikoilla": "kg / (m·s²) (Ei Pa!)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "vääntömomentti",
+      "suureen_tunnus": "T",
+      "yksikko": "newtonmetri",
+      "yksikon_tunnus": "N·m",
+      "muilla_yksikoilla": "kg·m²/s²",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "momentti (voiman momentti)",
+      "suureen_tunnus": "M",
+      "yksikko": "newtonmetri",
+      "yksikon_tunnus": "N·m",
+      "muilla_yksikoilla": "kg·m²/s²",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Suoraviivaiseen liikkeeseen liittyvät yksiköt",
+      "suureen_tunnus": "Suoraviivaiseen liikkeeseen liittyvät yksiköt",
+      "yksikko": "Suoraviivaiseen liikkeeseen liittyvät yksiköt",
+      "yksikon_tunnus": "Suoraviivaiseen liikkeeseen liittyvät yksiköt",
+      "muilla_yksikoilla": "Suoraviivaiseen liikkeeseen liittyvät yksiköt",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "nopeus",
+      "suureen_tunnus": "v",
+      "yksikko": "metri sekunnissa",
+      "yksikon_tunnus": "m/s",
+      "muilla_yksikoilla": "(= 3,6 km/h)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "kiihtyvyys",
+      "suureen_tunnus": "a",
+      "yksikko": "metri sekunnin neliötä kohti (metri per sekunti toiseen)",
+      "yksikon_tunnus": "m/s²",
+      "muilla_yksikoilla": "(m/s) / s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "putoamiskiihtyvyys",
+      "suureen_tunnus": "g",
+      "yksikko": "metri sekunnin neliötä kohti (metri per sekunti toiseen)",
+      "yksikon_tunnus": "m/s²",
+      "muilla_yksikoilla": "(m/s) / s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "nykäys",
+      "suureen_tunnus": "j",
+      "yksikko": "metri sekunnin kuutiota kohti (metri per sekunti kolmanteen)",
+      "yksikon_tunnus": "m/s³",
+      "muilla_yksikoilla": "(m/s²) / s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "liikemäärä",
+      "suureen_tunnus": "p",
+      "yksikko": "newtonsekunti",
+      "yksikon_tunnus": "N·s",
+      "muilla_yksikoilla": "kg·m/s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "impulssi",
+      "suureen_tunnus": "I",
+      "yksikko": "newtonsekunti",
+      "yksikon_tunnus": "N·s",
+      "muilla_yksikoilla": "kg·m/s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Pyörivään liikkeeseen liittyvät yksiköt",
+      "suureen_tunnus": "Pyörivään liikkeeseen liittyvät yksiköt",
+      "yksikko": "Pyörivään liikkeeseen liittyvät yksiköt",
+      "yksikon_tunnus": "Pyörivään liikkeeseen liittyvät yksiköt",
+      "muilla_yksikoilla": "Pyörivään liikkeeseen liittyvät yksiköt",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "pyörimisnopeus, kierrostaajuus",
+      "suureen_tunnus": "n",
+      "yksikko": "kierros sekunnissa",
+      "yksikon_tunnus": "1/s",
+      "muilla_yksikoilla": "kierr/s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "kulmanopeus",
+      "suureen_tunnus": "ω",
+      "yksikko": "radiaani sekunnissa",
+      "yksikon_tunnus": "rad/s",
+      "muilla_yksikoilla": "1/s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "kulmataajuus",
+      "suureen_tunnus": "ω",
+      "yksikko": "radiaani sekunnissa",
+      "yksikon_tunnus": "rad/s",
+      "muilla_yksikoilla": "1/s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "kulmakiihtyvyys",
+      "suureen_tunnus": "α",
+      "yksikko": "radiaani per sekunti toiseen",
+      "yksikon_tunnus": "rad/s²",
+      "muilla_yksikoilla": "(rad/s) / s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "pyörimismäärä (kiertoliikemäärä, liikemäärämomentti, impulssimomentti)",
+      "suureen_tunnus": "L",
+      "yksikko": "joulesekunti",
+      "yksikon_tunnus": "J·s",
+      "muilla_yksikoilla": "kg·m²/s",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Lujuusoppiin liittyvät yksiköt",
+      "suureen_tunnus": "Lujuusoppiin liittyvät yksiköt",
+      "yksikko": "Lujuusoppiin liittyvät yksiköt",
+      "yksikon_tunnus": "Lujuusoppiin liittyvät yksiköt",
+      "muilla_yksikoilla": "Lujuusoppiin liittyvät yksiköt",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Lämpöopin yksiköt",
+      "suureen_tunnus": "Lämpöopin yksiköt",
+      "yksikko": "Lämpöopin yksiköt",
+      "yksikon_tunnus": "Lämpöopin yksiköt",
+      "muilla_yksikoilla": "Lämpöopin yksiköt",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "ominaissulamislämpö",
+      "suureen_tunnus": "s",
+      "yksikko": "joule moolia kohti",
+      "yksikon_tunnus": "J/mol",
+      "muilla_yksikoilla": "kg·m²/(s² mol)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "ominaissulamislämpö",
+      "suureen_tunnus": "s",
+      "yksikko": "joule kilogrammaa kohti",
+      "yksikon_tunnus": "J/kg",
+      "muilla_yksikoilla": "m²/s²",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "ominaishöyrystymislämpö",
+      "suureen_tunnus": "r",
+      "yksikko": "joule moolia kohti",
+      "yksikon_tunnus": "J/mol",
+      "muilla_yksikoilla": "kg·m²/(s² mol)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "ominaishöyrystymislämpö",
+      "suureen_tunnus": "r",
+      "yksikko": "joule kilogrammaa kohti",
+      "yksikon_tunnus": "J/kg",
+      "muilla_yksikoilla": "m²/s²",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämpökapasiteetti",
+      "suureen_tunnus": "C",
+      "yksikko": "joule kelviniä kohti",
+      "yksikon_tunnus": "J/K",
+      "muilla_yksikoilla": "kg·m² / (s² K)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "ominaislämpökapasiteetti",
+      "suureen_tunnus": "c",
+      "yksikko": "joule kelviniä ja kilogrammaa kohti",
+      "yksikon_tunnus": "J/(K·kg)",
+      "muilla_yksikoilla": "m²/ (s² K)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämpöresistanssi (lämpövastus, lämmönvastus, terminen resistanssi)",
+      "suureen_tunnus": "R th",
+      "yksikko": "kelvin wattia kohti",
+      "yksikon_tunnus": "K/W",
+      "muilla_yksikoilla": "K·s³ / (kg·m²)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämpöresistanssi / rakennusfysiikka",
+      "suureen_tunnus": "R t",
+      "yksikko": "kelvin-neliömetri wattia kohti",
+      "yksikon_tunnus": "K·m²/W",
+      "muilla_yksikoilla": "K·s³ / kg",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämmönjohtavuus",
+      "suureen_tunnus": "λ",
+      "yksikko": "watti kelvin-metriä kohti",
+      "yksikon_tunnus": "W / (K·m)",
+      "muilla_yksikoilla": "kg·m / (s³·K)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämmönsiirtymiskerroin",
+      "suureen_tunnus": "h, α",
+      "yksikko": "watti kelvin-neliömetriä kohti",
+      "yksikon_tunnus": "W / (K·m²)",
+      "muilla_yksikoilla": "kg / (s³·K)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämmönläpäisykerroin, U-arvo (k-arvo)",
+      "suureen_tunnus": "k",
+      "yksikko": "watti kelvin-neliömetriä kohti",
+      "yksikon_tunnus": "W / (K·m²)",
+      "muilla_yksikoilla": "kg / (s³·K)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämpövuo, lämpövirran tiheys",
+      "suureen_tunnus": "",
+      "yksikko": "watti neliömetriä kohti",
+      "yksikon_tunnus": "W / m²",
+      "muilla_yksikoilla": "kg / s³",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "lämpöarvo, polttoarvo",
+      "suureen_tunnus": "",
+      "yksikko": "watti neliömetriä kohti",
+      "yksikon_tunnus": "MJ / kg",
+      "muilla_yksikoilla": "1 000 000·m²/s²",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Sähköopin yksiköt",
+      "suureen_tunnus": "Sähköopin yksiköt",
+      "yksikko": "Sähköopin yksiköt",
+      "yksikon_tunnus": "Sähköopin yksiköt",
+      "muilla_yksikoilla": "Sähköopin yksiköt",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "ominaisvastus eli resistiivisyys",
+      "suureen_tunnus": "ρ",
+      "yksikko": "ohmimetri",
+      "yksikon_tunnus": "Ω·m",
+      "muilla_yksikoilla": "kg·m³ / (s³·A²)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "sähkövirran tiheys",
+      "suureen_tunnus": "J",
+      "yksikko": "ampeeri neliömetriä kohti",
+      "yksikon_tunnus": "A/m²",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Sähkövaraukseen liittyviä",
+      "suureen_tunnus": "Sähkövaraukseen liittyviä",
+      "yksikko": "Sähkövaraukseen liittyviä",
+      "yksikon_tunnus": "Sähkövaraukseen liittyviä",
+      "muilla_yksikoilla": "Sähkövaraukseen liittyviä",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "sähkövuon tiheys",
+      "suureen_tunnus": "D",
+      "yksikko": "coulombi neliömetriä kohti",
+      "yksikon_tunnus": "C / m²",
+      "muilla_yksikoilla": "A·s / m²",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "sähkövaraustiheys",
+      "suureen_tunnus": "ρ",
+      "yksikko": "coulombi kuutiometriä kohti",
+      "yksikon_tunnus": "C / m³",
+      "muilla_yksikoilla": "A·s / m³",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Magnetismiin liittyviä",
+      "suureen_tunnus": "Magnetismiin liittyviä",
+      "yksikko": "Magnetismiin liittyviä",
+      "yksikon_tunnus": "Magnetismiin liittyviä",
+      "muilla_yksikoilla": "Magnetismiin liittyviä",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "magneettinen momentti",
+      "suureen_tunnus": "μ, m",
+      "yksikko": "ampeerineliömetri",
+      "yksikon_tunnus": "A·m²",
+      "muilla_yksikoilla": "J/T",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Sähkö- ja magneettikenttiin liittyviä",
+      "suureen_tunnus": "Sähkö- ja magneettikenttiin liittyviä",
+      "yksikko": "Sähkö- ja magneettikenttiin liittyviä",
+      "yksikon_tunnus": "Sähkö- ja magneettikenttiin liittyviä",
+      "muilla_yksikoilla": "Sähkö- ja magneettikenttiin liittyviä",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "sähkökentän voimakkuus",
+      "suureen_tunnus": "E",
+      "yksikko": "voltti metriä kohti",
+      "yksikon_tunnus": "V/m",
+      "muilla_yksikoilla": "kg·m / (s³·A)",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "magneettikentän voimakkuus, magnetoituma",
+      "suureen_tunnus": "H",
+      "yksikko": "ampeeri metriä kohti",
+      "yksikon_tunnus": "A/m",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Valo-opin yksiköt",
+      "suureen_tunnus": "Valo-opin yksiköt",
+      "yksikko": "Valo-opin yksiköt",
+      "yksikon_tunnus": "Valo-opin yksiköt",
+      "muilla_yksikoilla": "Valo-opin yksiköt",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "luminanssi",
+      "suureen_tunnus": "L",
+      "yksikko": "kandelaa neliömetriä kohti",
+      "yksikon_tunnus": "cd/m²",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "valotehokkuus",
+      "suureen_tunnus": "",
+      "yksikko": "luumenia wattia kohti",
+      "yksikon_tunnus": "lm/W",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "Kemian yksiköt",
+      "suureen_tunnus": "Kemian yksiköt",
+      "yksikko": "Kemian yksiköt",
+      "yksikon_tunnus": "Kemian yksiköt",
+      "muilla_yksikoilla": "Kemian yksiköt",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "moolitilavuus",
+      "suureen_tunnus": "V m",
+      "yksikko": "kuutiometri moolia kohti",
+      "yksikon_tunnus": "m³/mol",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "konsentraatio",
+      "suureen_tunnus": "c",
+      "yksikko": "mooli kuutiometriä kohti",
+      "yksikon_tunnus": "mol/m³",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "moolimassa",
+      "suureen_tunnus": "M",
+      "yksikko": "kilogramma moolia kohti",
+      "yksikon_tunnus": "kg/mol",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    },
+    {
+      "suure": "molaalisuus",
+      "suureen_tunnus": "m",
+      "yksikko": "mooli kilogrammaa kohti",
+      "yksikon_tunnus": "mol/kg",
+      "muilla_yksikoilla": "",
+      "ryhma": "muut johdannaisyksiköt"
+    }
+  ],
+  "meta": {
+    "title": "SI-järjestelmän johdannaisyksiköt - Free Download",
+    "description": "SI-järjestelmän johdannaisyksiköt (esim. hertsi, newton, pascal, joule, watti, neliömetri, kuutiometri) suureen, tunnusten ja muilla yksiköillä ilmaistun määritelmän kanssa. Contains 105 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "SI-järjestelmän johdannaisyksiköt | ListBase",
+    "seo_description": "Download SI-järjestelmän johdannaisyksiköt — 105 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 105 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://fi.wikipedia.org/wiki/Kansainvälinen_yksikköjärjestelmä"
+    ]
+  }
+}
