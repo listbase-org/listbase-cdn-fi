@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-15T02:17:05.108Z",
-  "total_datasets": 563,
-  "total_records": 501543,
+  "generated": "2026-11-15T02:17:16.201Z",
+  "total_datasets": 564,
+  "total_records": 501627,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1490,6 +1490,30 @@
         "xlsx": {
           "name": "fi-tyo-ja-elinkeinoministerit_FI.xlsx",
           "size": 13259
+        }
+      }
+    },
+    {
+      "id": "fi-valtionvelka-1940-2023",
+      "name": "Suomen valtionvelka vuosittain 1940–2023",
+      "category": "economy",
+      "record_count": 84,
+      "columns": [
+        "vuosi",
+        "valtionvelka_milj_eur",
+        "suhteessa_bkt_prosentti"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_valtiontalous",
+      "updated": "2026-11",
+      "size": 10689,
+      "files": {
+        "csv": {
+          "name": "fi-valtionvelka-1940-2023_FI.csv",
+          "size": 1780
+        },
+        "xlsx": {
+          "name": "fi-valtionvelka-1940-2023_FI.xlsx",
+          "size": 8325
         }
       }
     },
