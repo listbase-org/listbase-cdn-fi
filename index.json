@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-16T02:20:16.814Z",
-  "total_datasets": 567,
-  "total_records": 501704,
+  "generated": "2026-11-16T02:20:27.376Z",
+  "total_datasets": 568,
+  "total_records": 501796,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -8651,6 +8651,34 @@
         "xlsx": {
           "name": "fi-rikoslain-rikokset_FI.xlsx",
           "size": 21572
+        }
+      }
+    },
+    {
+      "id": "fi-tietoon-tulleet-rikokset-rikosryhmittain-2021-2025",
+      "name": "Viranomaisten tietoon tulleet rikokset rikosryhmittäin (2021–2025)",
+      "category": "law",
+      "record_count": 92,
+      "columns": [
+        "koodi",
+        "rikosryhma",
+        "tietoon_tulleet_2021",
+        "tietoon_tulleet_2022",
+        "tietoon_tulleet_2023",
+        "tietoon_tulleet_2024",
+        "tietoon_tulleet_2025"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__rpk/statfin_rpk_pxt_13ex.px/",
+      "updated": "2026-11",
+      "size": 28828,
+      "files": {
+        "csv": {
+          "name": "fi-tietoon-tulleet-rikokset-rikosryhmittain-2021-2025_FI.csv",
+          "size": 8601
+        },
+        "xlsx": {
+          "name": "fi-tietoon-tulleet-rikokset-rikosryhmittain-2021-2025_FI.xlsx",
+          "size": 12413
         }
       }
     },
