@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-15T02:17:16.201Z",
-  "total_datasets": 564,
-  "total_records": 501627,
+  "generated": "2026-11-16T02:19:52.987Z",
+  "total_datasets": 565,
+  "total_records": 501676,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -2155,6 +2155,35 @@
         "xlsx": {
           "name": "fi-aurinkovoimalat_FI.xlsx",
           "size": 9644
+        }
+      }
+    },
+    {
+      "id": "fi-kasvihuonekaasupaastot-sektoreittain-1990-2025",
+      "name": "Kasvihuonekaasupäästöt Suomessa sektoreittain (1990–2025)",
+      "category": "environment",
+      "record_count": 49,
+      "columns": [
+        "paastoluokka",
+        "kt_co2_ekv_1990",
+        "kt_co2_ekv_2005",
+        "kt_co2_ekv_2015",
+        "kt_co2_ekv_2020",
+        "kt_co2_ekv_2023",
+        "kt_co2_ekv_2024",
+        "kt_co2_ekv_2025_ennakko"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__khki/statfin_khki_pxt_138v.px/",
+      "updated": "2026-11",
+      "size": 16541,
+      "files": {
+        "csv": {
+          "name": "fi-kasvihuonekaasupaastot-sektoreittain-1990-2025_FI.csv",
+          "size": 3775
+        },
+        "xlsx": {
+          "name": "fi-kasvihuonekaasupaastot-sektoreittain-1990-2025_FI.xlsx",
+          "size": 9619
         }
       }
     },
