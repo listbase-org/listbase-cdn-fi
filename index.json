@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-16T02:20:27.376Z",
-  "total_datasets": 568,
-  "total_records": 501796,
+  "generated": "2026-11-16T02:20:39.123Z",
+  "total_datasets": 569,
+  "total_records": 501816,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -12952,6 +12952,34 @@
         "xlsx": {
           "name": "fi-tieteen-akateemikot_FI.xlsx",
           "size": 8631
+        }
+      }
+    },
+    {
+      "id": "fi-tutkimus-ja-kehittamismenot-maakunnittain-2024",
+      "name": "Tutkimus- ja kehittämistoiminnan menot maakunnittain (2024)",
+      "category": "science",
+      "record_count": 20,
+      "columns": [
+        "alue",
+        "tk_menot_milj_eur",
+        "yrityssektori_milj_eur",
+        "julkinen_sektori_milj_eur",
+        "korkeakoulusektori_milj_eur",
+        "tk_henkilosto",
+        "tk_tyovuodet_htv"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__tkke/statfin_tkke_pxt_13tn.px/",
+      "updated": "2026-11",
+      "size": 7540,
+      "files": {
+        "csv": {
+          "name": "fi-tutkimus-ja-kehittamismenot-maakunnittain-2024_FI.csv",
+          "size": 1277
+        },
+        "xlsx": {
+          "name": "fi-tutkimus-ja-kehittamismenot-maakunnittain-2024_FI.xlsx",
+          "size": 7830
         }
       }
     },
