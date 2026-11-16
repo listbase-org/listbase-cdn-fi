@@ -1,0 +1,276 @@
+{
+  "id": "fi-suhteelliset-aikailmaukset",
+  "name": "Suhteelliset aikailmaukset suomeksi (eilen, huomenna, ensi viikolla, 3 päivää sitten…)",
+  "title": "Suhteelliset aikailmaukset suomeksi (eilen, huomenna, ensi viikolla, 3 päivää sitten…)",
+  "description": "Suomen kielen suhteelliset aikailmaukset — toissa päivänä, eilen, tänään, huomenna, ylihuomenna, viime kuussa, ensi viikolla, ”{0} päivän päästä”, ”{0} tuntia sitten” — jokaiselle aikayksikölle ja viikonpäivälle, Unicode CLDR -aineistosta (fi).",
+  "category": "time",
+  "source": "https://github.com/unicode-org/cldr/blob/main/common/main/fi.xml",
+  "source_url": "https://github.com/unicode-org/cldr/blob/main/common/main/fi.xml",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "kentta",
+      "label": "Kentta",
+      "type": "string"
+    },
+    {
+      "key": "nimi",
+      "label": "Nimi",
+      "type": "string"
+    },
+    {
+      "key": "toissa",
+      "label": "Toissa",
+      "type": "string"
+    },
+    {
+      "key": "edellinen",
+      "label": "Edellinen",
+      "type": "string"
+    },
+    {
+      "key": "nykyinen",
+      "label": "Nykyinen",
+      "type": "string"
+    },
+    {
+      "key": "seuraava",
+      "label": "Seuraava",
+      "type": "string"
+    },
+    {
+      "key": "yli",
+      "label": "Yli",
+      "type": "string"
+    },
+    {
+      "key": "tulevaisuus_yksikko",
+      "label": "Tulevaisuus Yksikko",
+      "type": "string"
+    },
+    {
+      "key": "tulevaisuus_monikko",
+      "label": "Tulevaisuus Monikko",
+      "type": "string"
+    },
+    {
+      "key": "mennyt_yksikko",
+      "label": "Mennyt Yksikko",
+      "type": "string"
+    },
+    {
+      "key": "mennyt_monikko",
+      "label": "Mennyt Monikko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kentta": "year",
+      "nimi": "vuosi",
+      "toissa": "",
+      "edellinen": "viime vuonna",
+      "nykyinen": "tänä vuonna",
+      "seuraava": "ensi vuonna",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} vuoden päästä",
+      "tulevaisuus_monikko": "{0} vuoden päästä",
+      "mennyt_yksikko": "{0} vuosi sitten",
+      "mennyt_monikko": "{0} vuotta sitten"
+    },
+    {
+      "kentta": "quarter",
+      "nimi": "neljännesvuosi",
+      "toissa": "",
+      "edellinen": "viime neljännesvuonna",
+      "nykyinen": "tänä neljännesvuonna",
+      "seuraava": "ensi neljännesvuonna",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} neljännesvuoden päästä",
+      "tulevaisuus_monikko": "{0} neljännesvuoden päästä",
+      "mennyt_yksikko": "{0} neljännesvuosi sitten",
+      "mennyt_monikko": "{0} neljännesvuotta sitten"
+    },
+    {
+      "kentta": "month",
+      "nimi": "kuukausi",
+      "toissa": "",
+      "edellinen": "viime kuussa",
+      "nykyinen": "tässä kuussa",
+      "seuraava": "ensi kuussa",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} kuukauden päästä",
+      "tulevaisuus_monikko": "{0} kuukauden päästä",
+      "mennyt_yksikko": "{0} kuukausi sitten",
+      "mennyt_monikko": "{0} kuukautta sitten"
+    },
+    {
+      "kentta": "week",
+      "nimi": "viikko",
+      "toissa": "",
+      "edellinen": "viime viikolla",
+      "nykyinen": "tällä viikolla",
+      "seuraava": "ensi viikolla",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} viikon päästä",
+      "tulevaisuus_monikko": "{0} viikon päästä",
+      "mennyt_yksikko": "{0} viikko sitten",
+      "mennyt_monikko": "{0} viikkoa sitten"
+    },
+    {
+      "kentta": "day",
+      "nimi": "päivä",
+      "toissa": "toissa päivänä",
+      "edellinen": "eilen",
+      "nykyinen": "tänään",
+      "seuraava": "huomenna",
+      "yli": "ylihuomenna",
+      "tulevaisuus_yksikko": "{0} päivän päästä",
+      "tulevaisuus_monikko": "{0} päivän päästä",
+      "mennyt_yksikko": "{0} päivä sitten",
+      "mennyt_monikko": "{0} päivää sitten"
+    },
+    {
+      "kentta": "sun",
+      "nimi": "sunnuntaina",
+      "toissa": "",
+      "edellinen": "viime sunnuntaina",
+      "nykyinen": "tänä sunnuntaina",
+      "seuraava": "ensi sunnuntaina",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} sunnuntain päästä",
+      "tulevaisuus_monikko": "{0} sunnuntain päästä",
+      "mennyt_yksikko": "{0} sunnuntai sitten",
+      "mennyt_monikko": "{0} sunnuntaita sitten"
+    },
+    {
+      "kentta": "mon",
+      "nimi": "maanantaina",
+      "toissa": "",
+      "edellinen": "viime maanantaina",
+      "nykyinen": "tänä maanantaina",
+      "seuraava": "ensi maanantaina",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} maanantain päästä",
+      "tulevaisuus_monikko": "{0} maanantain päästä",
+      "mennyt_yksikko": "{0} maanantai sitten",
+      "mennyt_monikko": "{0} maanantaita sitten"
+    },
+    {
+      "kentta": "tue",
+      "nimi": "tiistaina",
+      "toissa": "",
+      "edellinen": "viime tiistaina",
+      "nykyinen": "tänä tiistaina",
+      "seuraava": "ensi tiistaina",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} tiistain päästä",
+      "tulevaisuus_monikko": "{0} tiistain päästä",
+      "mennyt_yksikko": "{0} tiistai sitten",
+      "mennyt_monikko": "{0} tiistaita sitten"
+    },
+    {
+      "kentta": "wed",
+      "nimi": "keskiviikkona",
+      "toissa": "",
+      "edellinen": "viime keskiviikkona",
+      "nykyinen": "tänä keskiviikkona",
+      "seuraava": "ensi keskiviikkona",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} keskiviikon päästä",
+      "tulevaisuus_monikko": "{0} keskiviikon päästä",
+      "mennyt_yksikko": "{0} keskiviikko sitten",
+      "mennyt_monikko": "{0} keskiviikkoa sitten"
+    },
+    {
+      "kentta": "thu",
+      "nimi": "torstaina",
+      "toissa": "",
+      "edellinen": "viime torstaina",
+      "nykyinen": "tänä torstaina",
+      "seuraava": "ensi torstaina",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} torstain päästä",
+      "tulevaisuus_monikko": "{0} torstain päästä",
+      "mennyt_yksikko": "{0} torstai sitten",
+      "mennyt_monikko": "{0} torstaita sitten"
+    },
+    {
+      "kentta": "fri",
+      "nimi": "perjantaina",
+      "toissa": "",
+      "edellinen": "viime perjantaina",
+      "nykyinen": "tänä perjantaina",
+      "seuraava": "ensi perjantaina",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} perjantain päästä",
+      "tulevaisuus_monikko": "{0} perjantain päästä",
+      "mennyt_yksikko": "{0} perjantai sitten",
+      "mennyt_monikko": "{0} perjantaita sitten"
+    },
+    {
+      "kentta": "sat",
+      "nimi": "lauantaina",
+      "toissa": "",
+      "edellinen": "viime lauantaina",
+      "nykyinen": "tänä lauantaina",
+      "seuraava": "ensi lauantaina",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} lauantain päästä",
+      "tulevaisuus_monikko": "{0} lauantain päästä",
+      "mennyt_yksikko": "{0} lauantai sitten",
+      "mennyt_monikko": "{0} lauantaita sitten"
+    },
+    {
+      "kentta": "hour",
+      "nimi": "tunti",
+      "toissa": "",
+      "edellinen": "",
+      "nykyinen": "tämän tunnin aikana",
+      "seuraava": "",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} tunnin päästä",
+      "tulevaisuus_monikko": "{0} tunnin päästä",
+      "mennyt_yksikko": "{0} tunti sitten",
+      "mennyt_monikko": "{0} tuntia sitten"
+    },
+    {
+      "kentta": "minute",
+      "nimi": "minuutti",
+      "toissa": "",
+      "edellinen": "",
+      "nykyinen": "tämän minuutin aikana",
+      "seuraava": "",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} minuutin päästä",
+      "tulevaisuus_monikko": "{0} minuutin päästä",
+      "mennyt_yksikko": "{0} minuutti sitten",
+      "mennyt_monikko": "{0} minuuttia sitten"
+    },
+    {
+      "kentta": "second",
+      "nimi": "sekunti",
+      "toissa": "",
+      "edellinen": "",
+      "nykyinen": "nyt",
+      "seuraava": "",
+      "yli": "",
+      "tulevaisuus_yksikko": "{0} sekunnin päästä",
+      "tulevaisuus_monikko": "{0} sekunnin päästä",
+      "mennyt_yksikko": "{0} sekunti sitten",
+      "mennyt_monikko": "{0} sekuntia sitten"
+    }
+  ],
+  "meta": {
+    "title": "Suhteelliset aikailmaukset suomeksi (eilen, huomenna, ensi viikolla, 3 päivää sitten…) - Free Download",
+    "description": "Suomen kielen suhteelliset aikailmaukset — toissa päivänä, eilen, tänään, huomenna, ylihuomenna, viime kuussa, ensi viikolla, ”{0} päivän päästä”, ”{0} tuntia sitten” — jokaiselle aikayksikölle ja viikonpäivälle, Unicode CLDR -aineistosta (fi). Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Suhteelliset aikailmaukset suomeksi (eilen, huomenna, ensi viikolla, 3 päivää sitten…) | ListBase",
+    "seo_description": "Download Suhteelliset aikailmaukset suomeksi (eilen, huomenna, ensi viikolla, 3 päivää sitten…) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr/blob/main/common/main/fi.xml"
+    ]
+  }
+}

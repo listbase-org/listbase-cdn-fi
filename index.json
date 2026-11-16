@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-16T02:20:05.489Z",
-  "total_datasets": 566,
-  "total_records": 501689,
+  "generated": "2026-11-16T02:20:16.814Z",
+  "total_datasets": 567,
+  "total_records": 501704,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -13696,6 +13696,38 @@
         "xlsx": {
           "name": "fi-pyhapaivat-completos_FI.xlsx",
           "size": 215412
+        }
+      }
+    },
+    {
+      "id": "fi-suhteelliset-aikailmaukset",
+      "name": "Suhteelliset aikailmaukset suomeksi (eilen, huomenna, ensi viikolla, 3 päivää sitten…)",
+      "category": "time",
+      "record_count": 15,
+      "columns": [
+        "kentta",
+        "nimi",
+        "toissa",
+        "edellinen",
+        "nykyinen",
+        "seuraava",
+        "yli",
+        "tulevaisuus_yksikko",
+        "tulevaisuus_monikko",
+        "mennyt_yksikko",
+        "mennyt_monikko"
+      ],
+      "source": "https://github.com/unicode-org/cldr/blob/main/common/main/fi.xml",
+      "updated": "2026-11",
+      "size": 9092,
+      "files": {
+        "csv": {
+          "name": "fi-suhteelliset-aikailmaukset_FI.csv",
+          "size": 2742
+        },
+        "xlsx": {
+          "name": "fi-suhteelliset-aikailmaukset_FI.xlsx",
+          "size": 8053
         }
       }
     },
