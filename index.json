@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-16T02:20:39.123Z",
-  "total_datasets": 569,
-  "total_records": 501816,
+  "generated": "2026-11-16T02:20:49.957Z",
+  "total_datasets": 570,
+  "total_records": 501831,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -1639,6 +1639,31 @@
         "xlsx": {
           "name": "fi-paivakodit_FI.xlsx",
           "size": 64168
+        }
+      }
+    },
+    {
+      "id": "fi-yliopistojen-opiskelijat-ja-tutkinnot-2025",
+      "name": "Yliopistojen opiskelijat, uudet opiskelijat ja tutkinnot yliopistoittain (2025)",
+      "category": "education",
+      "record_count": 15,
+      "columns": [
+        "yliopisto",
+        "opiskelijat",
+        "uudet_opiskelijat",
+        "tutkinnot"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__opiskt/statfin_opiskt_pxt_136d.px/",
+      "updated": "2026-11",
+      "size": 4245,
+      "files": {
+        "csv": {
+          "name": "fi-yliopistojen-opiskelijat-ja-tutkinnot-2025_FI.csv",
+          "size": 722
+        },
+        "xlsx": {
+          "name": "fi-yliopistojen-opiskelijat-ja-tutkinnot-2025_FI.xlsx",
+          "size": 7308
         }
       }
     },
