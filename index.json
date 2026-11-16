@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-16T02:19:52.987Z",
-  "total_datasets": 565,
-  "total_records": 501676,
+  "generated": "2026-11-16T02:20:05.489Z",
+  "total_datasets": 566,
+  "total_records": 501689,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -8394,6 +8394,33 @@
         "xlsx": {
           "name": "fi-perinteiset-vesiliikennesanat_FI.xlsx",
           "size": 10773
+        }
+      }
+    },
+    {
+      "id": "fi-perusopetuksen-kielivalinnat-2025-2026",
+      "name": "Perusopetuksen kielivalinnat: opiskellut kielet (lukuvuosi 2025/2026)",
+      "category": "language",
+      "record_count": 13,
+      "columns": [
+        "kieli",
+        "opiskelijoita_yhteensa",
+        "a1_kieli",
+        "a2_kieli",
+        "b1_kieli",
+        "b2_kieli"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__ava/statfin_ava_pxt_12a9.px/",
+      "updated": "2026-11",
+      "size": 4466,
+      "files": {
+        "csv": {
+          "name": "fi-perusopetuksen-kielivalinnat-2025-2026_FI.csv",
+          "size": 590
+        },
+        "xlsx": {
+          "name": "fi-perusopetuksen-kielivalinnat-2025-2026_FI.xlsx",
+          "size": 7271
         }
       }
     },
