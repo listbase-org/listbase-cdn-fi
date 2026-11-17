@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-17T02:17:56.685Z",
-  "total_datasets": 571,
-  "total_records": 501910,
+  "generated": "2026-11-17T02:18:09.185Z",
+  "total_datasets": 572,
+  "total_records": 501953,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -8268,6 +8268,31 @@
         "xlsx": {
           "name": "fi-hallitsijat-ja-valtionpaamiehet_FI.xlsx",
           "size": 15921
+        }
+      }
+    },
+    {
+      "id": "fi-kaupunkien-perustamisvuodet",
+      "name": "Suomen vanhat kaupungit perustamisvuoden mukaan (1229–1905)",
+      "category": "history",
+      "record_count": 43,
+      "columns": [
+        "jarjestys",
+        "kaupunki",
+        "perustamisvuosi",
+        "lisatietoja"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_kaupungeista_perustamisvuoden_mukaan",
+      "updated": "2026-11",
+      "size": 12893,
+      "files": {
+        "csv": {
+          "name": "fi-kaupunkien-perustamisvuodet_FI.csv",
+          "size": 6782
+        },
+        "xlsx": {
+          "name": "fi-kaupunkien-perustamisvuodet_FI.xlsx",
+          "size": 9545
         }
       }
     },
