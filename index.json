@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-17T02:18:20.484Z",
-  "total_datasets": 573,
-  "total_records": 501965,
+  "generated": "2026-11-17T02:18:31.871Z",
+  "total_datasets": 574,
+  "total_records": 502166,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -13413,6 +13413,32 @@
         "xlsx": {
           "name": "fi-osm-shop-sports_FI.xlsx",
           "size": 21955
+        }
+      }
+    },
+    {
+      "id": "fi-pesapallon-sm-mitalistit",
+      "name": "Pesäpallon Suomen mestaruusmitalistit (miehet ja naiset)",
+      "category": "sports",
+      "record_count": 201,
+      "columns": [
+        "vuosi",
+        "sarja",
+        "kulta",
+        "hopea",
+        "pronssi"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_pesäpallon_SM-mitalisteista",
+      "updated": "2026-11",
+      "size": 36312,
+      "files": {
+        "csv": {
+          "name": "fi-pesapallon-sm-mitalistit_FI.csv",
+          "size": 15906
+        },
+        "xlsx": {
+          "name": "fi-pesapallon-sm-mitalistit_FI.xlsx",
+          "size": 12442
         }
       }
     },
