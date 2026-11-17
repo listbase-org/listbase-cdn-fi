@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-17T02:18:09.185Z",
-  "total_datasets": 572,
-  "total_records": 501953,
+  "generated": "2026-11-17T02:18:20.484Z",
+  "total_datasets": 573,
+  "total_records": 501965,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -13335,6 +13335,32 @@
         "xlsx": {
           "name": "fi-jalkapallon-sm-mitalistit_FI.xlsx",
           "size": 9450
+        }
+      }
+    },
+    {
+      "id": "fi-korisliigan-joukkueet",
+      "name": "Korisliigan joukkueet",
+      "category": "sports",
+      "record_count": 12,
+      "columns": [
+        "joukkue",
+        "kaupunki",
+        "kotihalli",
+        "perustettu",
+        "paavalmentaja"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Korisliiga",
+      "updated": "2026-11",
+      "size": 3847,
+      "files": {
+        "csv": {
+          "name": "fi-korisliigan-joukkueet_FI.csv",
+          "size": 899
+        },
+        "xlsx": {
+          "name": "fi-korisliigan-joukkueet_FI.xlsx",
+          "size": 7436
         }
       }
     },
