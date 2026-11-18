@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-17T02:18:31.871Z",
-  "total_datasets": 574,
-  "total_records": 502166,
+  "generated": "2026-11-18T02:19:14.945Z",
+  "total_datasets": 575,
+  "total_records": 502266,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -8856,6 +8856,31 @@
         "xlsx": {
           "name": "fi-myydyimmat-kotimaiset-albumit-vuosittain_FI.xlsx",
           "size": 7252
+        }
+      }
+    },
+    {
+      "id": "fi-myydyimmat-musiikkiartistit-suomessa",
+      "name": "Suomen myydyimmät musiikkiartistit",
+      "category": "music",
+      "record_count": 100,
+      "columns": [
+        "sija",
+        "nimi",
+        "kansallisuus",
+        "varmistetut_myynnit"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_myydyimmistä_musiikkiartisteista_Suomessa",
+      "updated": "2026-11",
+      "size": 14236,
+      "files": {
+        "csv": {
+          "name": "fi-myydyimmat-musiikkiartistit-suomessa_FI.csv",
+          "size": 3464
+        },
+        "xlsx": {
+          "name": "fi-myydyimmat-musiikkiartistit-suomessa_FI.xlsx",
+          "size": 10001
         }
       }
     },
