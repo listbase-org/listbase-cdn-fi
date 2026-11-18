@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-18T02:19:26.152Z",
-  "total_datasets": 576,
-  "total_records": 502360,
+  "generated": "2026-11-18T02:19:42.776Z",
+  "total_datasets": 577,
+  "total_records": 502460,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -8245,6 +8245,33 @@
         "xlsx": {
           "name": "fi-sairaalat_FI.xlsx",
           "size": 55745
+        }
+      }
+    },
+    {
+      "id": "fi-sosiaali-ja-terveysministerit",
+      "name": "Suomen sosiaali- ja terveysministerit",
+      "category": "health",
+      "record_count": 100,
+      "columns": [
+        "tehtava",
+        "ministeri",
+        "puolue",
+        "tehtavissa",
+        "hallitus",
+        "syntymavuosi"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_sosiaali-_ja_terveysministeriössä",
+      "updated": "2026-11",
+      "size": 24227,
+      "files": {
+        "csv": {
+          "name": "fi-sosiaali-ja-terveysministerit_FI.csv",
+          "size": 9489
+        },
+        "xlsx": {
+          "name": "fi-sosiaali-ja-terveysministerit_FI.xlsx",
+          "size": 11545
         }
       }
     },
