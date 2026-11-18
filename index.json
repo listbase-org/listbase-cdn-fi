@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-18T02:19:14.945Z",
-  "total_datasets": 575,
-  "total_records": 502266,
+  "generated": "2026-11-18T02:19:26.152Z",
+  "total_datasets": 576,
+  "total_records": 502360,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1615,6 +1615,34 @@
         "xlsx": {
           "name": "fi-musiikkikoulut_FI.xlsx",
           "size": 9416
+        }
+      }
+    },
+    {
+      "id": "fi-opetusministerit",
+      "name": "Suomen opetusministerit",
+      "category": "education",
+      "record_count": 94,
+      "columns": [
+        "tehtava",
+        "ministeri",
+        "puolue",
+        "tehtavissa",
+        "ministeripaivat",
+        "hallitus",
+        "syntymavuosi"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_ministereistä_Suomen_opetus-_ja_kulttuuriministeriössä",
+      "updated": "2026-11",
+      "size": 25180,
+      "files": {
+        "csv": {
+          "name": "fi-opetusministerit_FI.csv",
+          "size": 8780
+        },
+        "xlsx": {
+          "name": "fi-opetusministerit_FI.xlsx",
+          "size": 11791
         }
       }
     },
