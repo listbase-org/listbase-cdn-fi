@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-11-19T02:24:57.277Z",
-  "total_datasets": 578,
-  "total_records": 502480,
+  "generated": "2026-11-19T02:25:10.169Z",
+  "total_datasets": 579,
+  "total_records": 502500,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -211,6 +211,36 @@
         "xlsx": {
           "name": "fi-maatilat-tuotantosuunnittain-maakunnittain-2025_FI.xlsx",
           "size": 8379
+        }
+      }
+    },
+    {
+      "id": "fi-maidontuotanto-maakunnittain",
+      "name": "Maidontuotanto ja maitotilat maakunnittain (2022–2025)",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "maakunta",
+        "tuotanto_1000_l_2022",
+        "tuotanto_1000_l_2023",
+        "tuotanto_1000_l_2024",
+        "tuotanto_1000_l_2025",
+        "tiloja_2022",
+        "tiloja_2023",
+        "tiloja_2024",
+        "tiloja_2025"
+      ],
+      "source": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__maitot__v/0900_maitot.px/",
+      "updated": "2026-11",
+      "size": 8499,
+      "files": {
+        "csv": {
+          "name": "fi-maidontuotanto-maakunnittain_FI.csv",
+          "size": 1594
+        },
+        "xlsx": {
+          "name": "fi-maidontuotanto-maakunnittain_FI.xlsx",
+          "size": 7988
         }
       }
     },

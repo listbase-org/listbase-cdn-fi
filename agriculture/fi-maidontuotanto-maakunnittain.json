@@ -1,0 +1,291 @@
+{
+  "id": "fi-maidontuotanto-maakunnittain",
+  "name": "Maidontuotanto ja maitotilat maakunnittain (2022–2025)",
+  "title": "Maidontuotanto ja maitotilat maakunnittain (2022–2025)",
+  "description": "Meijereihin toimitetun maidon määrä (1 000 litraa) ja maitoa tuottaneiden tilojen lukumäärä Suomessa koko maassa ja maakunnittain vuosina 2022–2025. Lähde: Luonnonvarakeskus (Luke), maito- ja maitotuotetilasto.",
+  "category": "agriculture",
+  "source": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__maitot__v/0900_maitot.px/",
+  "source_url": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__maitot__v/0900_maitot.px/",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "tuotanto_1000_l_2022",
+      "label": "Tuotanto 1000 L 2022",
+      "type": "number"
+    },
+    {
+      "key": "tuotanto_1000_l_2023",
+      "label": "Tuotanto 1000 L 2023",
+      "type": "number"
+    },
+    {
+      "key": "tuotanto_1000_l_2024",
+      "label": "Tuotanto 1000 L 2024",
+      "type": "number"
+    },
+    {
+      "key": "tuotanto_1000_l_2025",
+      "label": "Tuotanto 1000 L 2025",
+      "type": "number"
+    },
+    {
+      "key": "tiloja_2022",
+      "label": "Tiloja 2022",
+      "type": "number"
+    },
+    {
+      "key": "tiloja_2023",
+      "label": "Tiloja 2023",
+      "type": "number"
+    },
+    {
+      "key": "tiloja_2024",
+      "label": "Tiloja 2024",
+      "type": "number"
+    },
+    {
+      "key": "tiloja_2025",
+      "label": "Tiloja 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "maakunta": "Koko maa",
+      "tuotanto_1000_l_2022": 2151043,
+      "tuotanto_1000_l_2023": 2131989,
+      "tuotanto_1000_l_2024": 2102972,
+      "tuotanto_1000_l_2025": 2094263,
+      "tiloja_2022": 4891,
+      "tiloja_2023": 4513,
+      "tiloja_2024": 4144,
+      "tiloja_2025": 3834
+    },
+    {
+      "maakunta": "Uusimaa",
+      "tuotanto_1000_l_2022": 62323,
+      "tuotanto_1000_l_2023": 61813,
+      "tuotanto_1000_l_2024": 60017,
+      "tuotanto_1000_l_2025": 57549,
+      "tiloja_2022": 130,
+      "tiloja_2023": 121,
+      "tiloja_2024": 114,
+      "tiloja_2025": 108
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "tuotanto_1000_l_2022": 64332,
+      "tuotanto_1000_l_2023": 65108,
+      "tuotanto_1000_l_2024": 66035,
+      "tuotanto_1000_l_2025": 66605,
+      "tiloja_2022": 124,
+      "tiloja_2023": 117,
+      "tiloja_2024": 110,
+      "tiloja_2025": 103
+    },
+    {
+      "maakunta": "Satakunta",
+      "tuotanto_1000_l_2022": 52005,
+      "tuotanto_1000_l_2023": 50913,
+      "tuotanto_1000_l_2024": 49707,
+      "tuotanto_1000_l_2025": 48236,
+      "tiloja_2022": 149,
+      "tiloja_2023": 134,
+      "tiloja_2024": 117,
+      "tiloja_2025": 107
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "tuotanto_1000_l_2022": 50360,
+      "tuotanto_1000_l_2023": 50938,
+      "tuotanto_1000_l_2024": 50444,
+      "tuotanto_1000_l_2025": 49549,
+      "tiloja_2022": 120,
+      "tiloja_2023": 110,
+      "tiloja_2024": 105,
+      "tiloja_2025": 96
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "tuotanto_1000_l_2022": 120885,
+      "tuotanto_1000_l_2023": 121796,
+      "tuotanto_1000_l_2024": 119878,
+      "tuotanto_1000_l_2025": 118606,
+      "tiloja_2022": 273,
+      "tiloja_2023": 248,
+      "tiloja_2024": 223,
+      "tiloja_2025": 210
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "tuotanto_1000_l_2022": 58219,
+      "tuotanto_1000_l_2023": 57122,
+      "tuotanto_1000_l_2024": 55259,
+      "tuotanto_1000_l_2025": 52439,
+      "tiloja_2022": 147,
+      "tiloja_2023": 133,
+      "tiloja_2024": 125,
+      "tiloja_2025": 115
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "tuotanto_1000_l_2022": 36180,
+      "tuotanto_1000_l_2023": 36144,
+      "tuotanto_1000_l_2024": 35528,
+      "tuotanto_1000_l_2025": 34467,
+      "tiloja_2022": 79,
+      "tiloja_2023": 70,
+      "tiloja_2024": 67,
+      "tiloja_2025": 62
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "tuotanto_1000_l_2022": 44178,
+      "tuotanto_1000_l_2023": 43285,
+      "tuotanto_1000_l_2024": 42336,
+      "tuotanto_1000_l_2025": 41116,
+      "tiloja_2022": 106,
+      "tiloja_2023": 95,
+      "tiloja_2024": 90,
+      "tiloja_2025": 82
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "tuotanto_1000_l_2022": 90167,
+      "tuotanto_1000_l_2023": 89550,
+      "tuotanto_1000_l_2024": 87978,
+      "tuotanto_1000_l_2025": 87631,
+      "tiloja_2022": 259,
+      "tiloja_2023": 241,
+      "tiloja_2024": 219,
+      "tiloja_2025": 192
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "tuotanto_1000_l_2022": 309707,
+      "tuotanto_1000_l_2023": 303419,
+      "tuotanto_1000_l_2024": 301606,
+      "tuotanto_1000_l_2025": 302948,
+      "tiloja_2022": 687,
+      "tiloja_2023": 634,
+      "tiloja_2024": 572,
+      "tiloja_2025": 530
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "tuotanto_1000_l_2022": 108384,
+      "tuotanto_1000_l_2023": 105585,
+      "tuotanto_1000_l_2024": 102431,
+      "tuotanto_1000_l_2025": 101630,
+      "tiloja_2022": 293,
+      "tiloja_2023": 273,
+      "tiloja_2024": 252,
+      "tiloja_2025": 226
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "tuotanto_1000_l_2022": 89199,
+      "tuotanto_1000_l_2023": 86625,
+      "tuotanto_1000_l_2024": 83632,
+      "tuotanto_1000_l_2025": 81631,
+      "tiloja_2022": 254,
+      "tiloja_2023": 234,
+      "tiloja_2024": 207,
+      "tiloja_2025": 192
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "tuotanto_1000_l_2022": 276992,
+      "tuotanto_1000_l_2023": 278130,
+      "tuotanto_1000_l_2024": 277847,
+      "tuotanto_1000_l_2025": 279577,
+      "tiloja_2022": 551,
+      "tiloja_2023": 513,
+      "tiloja_2024": 477,
+      "tiloja_2025": 451
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "tuotanto_1000_l_2022": 100305,
+      "tuotanto_1000_l_2023": 101108,
+      "tuotanto_1000_l_2024": 101397,
+      "tuotanto_1000_l_2025": 103207,
+      "tiloja_2022": 204,
+      "tiloja_2023": 188,
+      "tiloja_2024": 181,
+      "tiloja_2025": 172
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "tuotanto_1000_l_2022": 157785,
+      "tuotanto_1000_l_2023": 155524,
+      "tuotanto_1000_l_2024": 154234,
+      "tuotanto_1000_l_2025": 153947,
+      "tiloja_2022": 330,
+      "tiloja_2023": 302,
+      "tiloja_2024": 281,
+      "tiloja_2025": 262
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "tuotanto_1000_l_2022": 370654,
+      "tuotanto_1000_l_2023": 369146,
+      "tuotanto_1000_l_2024": 362777,
+      "tuotanto_1000_l_2025": 365918,
+      "tiloja_2022": 818,
+      "tiloja_2023": 766,
+      "tiloja_2024": 701,
+      "tiloja_2025": 647
+    },
+    {
+      "maakunta": "Kainuu",
+      "tuotanto_1000_l_2022": 62805,
+      "tuotanto_1000_l_2023": 61636,
+      "tuotanto_1000_l_2024": 60161,
+      "tuotanto_1000_l_2025": 60685,
+      "tiloja_2022": 143,
+      "tiloja_2023": 130,
+      "tiloja_2024": 114,
+      "tiloja_2025": 106
+    },
+    {
+      "maakunta": "Lappi",
+      "tuotanto_1000_l_2022": 81317,
+      "tuotanto_1000_l_2023": 78764,
+      "tuotanto_1000_l_2024": 76854,
+      "tuotanto_1000_l_2025": 74842,
+      "tiloja_2022": 202,
+      "tiloja_2023": 183,
+      "tiloja_2024": 168,
+      "tiloja_2025": 153
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "tuotanto_1000_l_2022": 15247,
+      "tuotanto_1000_l_2023": 15382,
+      "tuotanto_1000_l_2024": 14849,
+      "tuotanto_1000_l_2025": 13679,
+      "tiloja_2022": 22,
+      "tiloja_2023": 21,
+      "tiloja_2024": 21,
+      "tiloja_2025": 20
+    }
+  ],
+  "meta": {
+    "title": "Maidontuotanto ja maitotilat maakunnittain (2022–2025) - Free Download",
+    "description": "Meijereihin toimitetun maidon määrä (1 000 litraa) ja maitoa tuottaneiden tilojen lukumäärä Suomessa koko maassa ja maakunnittain vuosina 2022–2025. Lähde: Luonnonvarakeskus (Luke), maito- ja maitotuotetilasto. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maidontuotanto ja maitotilat maakunnittain (2022–2025) | ListBase",
+    "seo_description": "Download Maidontuotanto ja maitotilat maakunnittain (2022–2025) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__maitot__v/0900_maitot.px/"
+    ]
+  }
+}
