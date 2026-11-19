@@ -1,0 +1,391 @@
+{
+  "id": "fi-maatilat-tuotantosuunnittain-maakunnittain-2025",
+  "name": "Maatalous- ja puutarhayritykset tuotantosuunnittain ja maakunnittain (2025)",
+  "title": "Maatalous- ja puutarhayritykset tuotantosuunnittain ja maakunnittain (2025)",
+  "description": "Maatalous- ja puutarhayritysten lukumäärä Suomessa vuonna 2025 maakunnittain ja päätuotantosuunnan mukaan (viljanviljely, lypsykarjatalous, sikatalous, siipikarjatalous, kasvihuonetuotanto jne.). Lähde: Luonnonvarakeskus (Luke).",
+  "category": "agriculture",
+  "source": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__yrirak/0400_yrirak.px/",
+  "source_url": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__yrirak/0400_yrirak.px/",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "yhteensa",
+      "label": "Yhteensa",
+      "type": "number"
+    },
+    {
+      "key": "viljanviljely",
+      "label": "Viljanviljely",
+      "type": "number"
+    },
+    {
+      "key": "muu_kasvinviljely",
+      "label": "Muu Kasvinviljely",
+      "type": "number"
+    },
+    {
+      "key": "kasvihuonetuotanto",
+      "label": "Kasvihuonetuotanto",
+      "type": "number"
+    },
+    {
+      "key": "avomaan_tuotanto",
+      "label": "Avomaan Tuotanto",
+      "type": "number"
+    },
+    {
+      "key": "lypsykarjatalous",
+      "label": "Lypsykarjatalous",
+      "type": "number"
+    },
+    {
+      "key": "naudanlihantuotanto",
+      "label": "Naudanlihantuotanto",
+      "type": "number"
+    },
+    {
+      "key": "muu_nautakarjatalous",
+      "label": "Muu Nautakarjatalous",
+      "type": "number"
+    },
+    {
+      "key": "sikatalous",
+      "label": "Sikatalous",
+      "type": "number"
+    },
+    {
+      "key": "siipikarjatalous",
+      "label": "Siipikarjatalous",
+      "type": "number"
+    },
+    {
+      "key": "muu_laidunkarja",
+      "label": "Muu Laidunkarja",
+      "type": "number"
+    },
+    {
+      "key": "sekamuotoinen_tuotanto",
+      "label": "Sekamuotoinen Tuotanto",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "maakunta": "Koko maa",
+      "yhteensa": 39825,
+      "viljanviljely": 12223,
+      "muu_kasvinviljely": 17106,
+      "kasvihuonetuotanto": 583,
+      "avomaan_tuotanto": 1125,
+      "lypsykarjatalous": 3567,
+      "naudanlihantuotanto": 2324,
+      "muu_nautakarjatalous": 238,
+      "sikatalous": 349,
+      "siipikarjatalous": 351,
+      "muu_laidunkarja": 656,
+      "sekamuotoinen_tuotanto": 1303
+    },
+    {
+      "maakunta": "Uusimaa",
+      "yhteensa": 2728,
+      "viljanviljely": 1307,
+      "muu_kasvinviljely": 1007,
+      "kasvihuonetuotanto": 59,
+      "avomaan_tuotanto": 59,
+      "lypsykarjatalous": 95,
+      "naudanlihantuotanto": 59,
+      "muu_nautakarjatalous": 2,
+      "sikatalous": 7,
+      "siipikarjatalous": 1,
+      "muu_laidunkarja": 47,
+      "sekamuotoinen_tuotanto": 85
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "yhteensa": 4127,
+      "viljanviljely": 2194,
+      "muu_kasvinviljely": 949,
+      "kasvihuonetuotanto": 132,
+      "avomaan_tuotanto": 161,
+      "lypsykarjatalous": 100,
+      "naudanlihantuotanto": 105,
+      "muu_nautakarjatalous": 3,
+      "sikatalous": 80,
+      "siipikarjatalous": 120,
+      "muu_laidunkarja": 60,
+      "sekamuotoinen_tuotanto": 223
+    },
+    {
+      "maakunta": "Satakunta",
+      "yhteensa": 2379,
+      "viljanviljely": 1046,
+      "muu_kasvinviljely": 786,
+      "kasvihuonetuotanto": 32,
+      "avomaan_tuotanto": 113,
+      "lypsykarjatalous": 87,
+      "naudanlihantuotanto": 91,
+      "muu_nautakarjatalous": 15,
+      "sikatalous": 28,
+      "siipikarjatalous": 66,
+      "muu_laidunkarja": 15,
+      "sekamuotoinen_tuotanto": 100
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "yhteensa": 1567,
+      "viljanviljely": 741,
+      "muu_kasvinviljely": 507,
+      "kasvihuonetuotanto": 20,
+      "avomaan_tuotanto": 40,
+      "lypsykarjatalous": 87,
+      "naudanlihantuotanto": 52,
+      "muu_nautakarjatalous": 4,
+      "sikatalous": 15,
+      "siipikarjatalous": 7,
+      "muu_laidunkarja": 21,
+      "sekamuotoinen_tuotanto": 73
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "yhteensa": 3283,
+      "viljanviljely": 1020,
+      "muu_kasvinviljely": 1547,
+      "kasvihuonetuotanto": 30,
+      "avomaan_tuotanto": 38,
+      "lypsykarjatalous": 201,
+      "naudanlihantuotanto": 207,
+      "muu_nautakarjatalous": 16,
+      "sikatalous": 27,
+      "siipikarjatalous": 25,
+      "muu_laidunkarja": 75,
+      "sekamuotoinen_tuotanto": 97
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "yhteensa": 1508,
+      "viljanviljely": 688,
+      "muu_kasvinviljely": 527,
+      "kasvihuonetuotanto": 12,
+      "avomaan_tuotanto": 37,
+      "lypsykarjatalous": 103,
+      "naudanlihantuotanto": 52,
+      "muu_nautakarjatalous": 8,
+      "sikatalous": 6,
+      "siipikarjatalous": "",
+      "muu_laidunkarja": 22,
+      "sekamuotoinen_tuotanto": 53
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "yhteensa": 1200,
+      "viljanviljely": 461,
+      "muu_kasvinviljely": 556,
+      "kasvihuonetuotanto": 16,
+      "avomaan_tuotanto": 19,
+      "lypsykarjatalous": 58,
+      "naudanlihantuotanto": 30,
+      "muu_nautakarjatalous": 6,
+      "sikatalous": 1,
+      "siipikarjatalous": 1,
+      "muu_laidunkarja": 17,
+      "sekamuotoinen_tuotanto": 35
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "yhteensa": 1064,
+      "viljanviljely": 284,
+      "muu_kasvinviljely": 552,
+      "kasvihuonetuotanto": 9,
+      "avomaan_tuotanto": 26,
+      "lypsykarjatalous": 78,
+      "naudanlihantuotanto": 61,
+      "muu_nautakarjatalous": 9,
+      "sikatalous": 2,
+      "siipikarjatalous": 1,
+      "muu_laidunkarja": 16,
+      "sekamuotoinen_tuotanto": 26
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "yhteensa": 1725,
+      "viljanviljely": 193,
+      "muu_kasvinviljely": 988,
+      "kasvihuonetuotanto": 17,
+      "avomaan_tuotanto": 98,
+      "lypsykarjatalous": 175,
+      "naudanlihantuotanto": 152,
+      "muu_nautakarjatalous": 10,
+      "sikatalous": 6,
+      "siipikarjatalous": 7,
+      "muu_laidunkarja": 36,
+      "sekamuotoinen_tuotanto": 43
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "yhteensa": 2825,
+      "viljanviljely": 287,
+      "muu_kasvinviljely": 1458,
+      "kasvihuonetuotanto": 24,
+      "avomaan_tuotanto": 138,
+      "lypsykarjatalous": 497,
+      "naudanlihantuotanto": 274,
+      "muu_nautakarjatalous": 29,
+      "sikatalous": 10,
+      "siipikarjatalous": 3,
+      "muu_laidunkarja": 42,
+      "sekamuotoinen_tuotanto": 63
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "yhteensa": 1666,
+      "viljanviljely": 102,
+      "muu_kasvinviljely": 1012,
+      "kasvihuonetuotanto": 14,
+      "avomaan_tuotanto": 91,
+      "lypsykarjatalous": 218,
+      "naudanlihantuotanto": 146,
+      "muu_nautakarjatalous": 18,
+      "sikatalous": 2,
+      "siipikarjatalous": 4,
+      "muu_laidunkarja": 24,
+      "sekamuotoinen_tuotanto": 35
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "yhteensa": 2268,
+      "viljanviljely": 279,
+      "muu_kasvinviljely": 1402,
+      "kasvihuonetuotanto": 15,
+      "avomaan_tuotanto": 60,
+      "lypsykarjatalous": 185,
+      "naudanlihantuotanto": 213,
+      "muu_nautakarjatalous": 17,
+      "sikatalous": 4,
+      "siipikarjatalous": 2,
+      "muu_laidunkarja": 45,
+      "sekamuotoinen_tuotanto": 46
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "yhteensa": 4630,
+      "viljanviljely": 1813,
+      "muu_kasvinviljely": 1718,
+      "kasvihuonetuotanto": 19,
+      "avomaan_tuotanto": 55,
+      "lypsykarjatalous": 402,
+      "naudanlihantuotanto": 222,
+      "muu_nautakarjatalous": 32,
+      "sikatalous": 81,
+      "siipikarjatalous": 91,
+      "muu_laidunkarja": 30,
+      "sekamuotoinen_tuotanto": 167
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "yhteensa": 2523,
+      "viljanviljely": 1032,
+      "muu_kasvinviljely": 804,
+      "kasvihuonetuotanto": 126,
+      "avomaan_tuotanto": 42,
+      "lypsykarjatalous": 153,
+      "naudanlihantuotanto": 145,
+      "muu_nautakarjatalous": 14,
+      "sikatalous": 48,
+      "siipikarjatalous": 19,
+      "muu_laidunkarja": 36,
+      "sekamuotoinen_tuotanto": 104
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "yhteensa": 944,
+      "viljanviljely": 119,
+      "muu_kasvinviljely": 432,
+      "kasvihuonetuotanto": 6,
+      "avomaan_tuotanto": 12,
+      "lypsykarjatalous": 246,
+      "naudanlihantuotanto": 76,
+      "muu_nautakarjatalous": 13,
+      "sikatalous": 9,
+      "siipikarjatalous": "",
+      "muu_laidunkarja": 11,
+      "sekamuotoinen_tuotanto": 20
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "yhteensa": 3423,
+      "viljanviljely": 605,
+      "muu_kasvinviljely": 1665,
+      "kasvihuonetuotanto": 26,
+      "avomaan_tuotanto": 58,
+      "lypsykarjatalous": 607,
+      "naudanlihantuotanto": 268,
+      "muu_nautakarjatalous": 33,
+      "sikatalous": 23,
+      "siipikarjatalous": 1,
+      "muu_laidunkarja": 58,
+      "sekamuotoinen_tuotanto": 79
+    },
+    {
+      "maakunta": "Kainuu",
+      "yhteensa": 527,
+      "viljanviljely": 9,
+      "muu_kasvinviljely": 317,
+      "kasvihuonetuotanto": 6,
+      "avomaan_tuotanto": 19,
+      "lypsykarjatalous": 107,
+      "naudanlihantuotanto": 44,
+      "muu_nautakarjatalous": 3,
+      "sikatalous": "",
+      "siipikarjatalous": 1,
+      "muu_laidunkarja": 16,
+      "sekamuotoinen_tuotanto": 5
+    },
+    {
+      "maakunta": "Lappi",
+      "yhteensa": 1119,
+      "viljanviljely": 2,
+      "muu_kasvinviljely": 796,
+      "kasvihuonetuotanto": 13,
+      "avomaan_tuotanto": 8,
+      "lypsykarjatalous": 151,
+      "naudanlihantuotanto": 83,
+      "muu_nautakarjatalous": 3,
+      "sikatalous": "",
+      "siipikarjatalous": "",
+      "muu_laidunkarja": 52,
+      "sekamuotoinen_tuotanto": 11
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "yhteensa": 319,
+      "viljanviljely": 41,
+      "muu_kasvinviljely": 83,
+      "kasvihuonetuotanto": 7,
+      "avomaan_tuotanto": 51,
+      "lypsykarjatalous": 17,
+      "naudanlihantuotanto": 44,
+      "muu_nautakarjatalous": 3,
+      "sikatalous": "",
+      "siipikarjatalous": 2,
+      "muu_laidunkarja": 33,
+      "sekamuotoinen_tuotanto": 38
+    }
+  ],
+  "meta": {
+    "title": "Maatalous- ja puutarhayritykset tuotantosuunnittain ja maakunnittain (2025) - Free Download",
+    "description": "Maatalous- ja puutarhayritysten lukumäärä Suomessa vuonna 2025 maakunnittain ja päätuotantosuunnan mukaan (viljanviljely, lypsykarjatalous, sikatalous, siipikarjatalous, kasvihuonetuotanto jne.). Lähde: Luonnonvarakeskus (Luke). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Maatalous- ja puutarhayritykset tuotantosuunnittain ja maakunnittain (2025) | ListBase",
+    "seo_description": "Download Maatalous- ja puutarhayritykset tuotantosuunnittain ja maakunnittain (2025) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 13 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__yrirak/0400_yrirak.px/"
+    ]
+  }
+}

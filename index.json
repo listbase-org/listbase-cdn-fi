@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-11-18T02:19:42.776Z",
-  "total_datasets": 577,
-  "total_records": 502460,
+  "generated": "2026-11-19T02:24:57.277Z",
+  "total_datasets": 578,
+  "total_records": 502480,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -177,6 +177,40 @@
         "xlsx": {
           "name": "fi-maa-ja-metsatalousministerit_FI.xlsx",
           "size": 12707
+        }
+      }
+    },
+    {
+      "id": "fi-maatilat-tuotantosuunnittain-maakunnittain-2025",
+      "name": "Maatalous- ja puutarhayritykset tuotantosuunnittain ja maakunnittain (2025)",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "maakunta",
+        "yhteensa",
+        "viljanviljely",
+        "muu_kasvinviljely",
+        "kasvihuonetuotanto",
+        "avomaan_tuotanto",
+        "lypsykarjatalous",
+        "naudanlihantuotanto",
+        "muu_nautakarjatalous",
+        "sikatalous",
+        "siipikarjatalous",
+        "muu_laidunkarja",
+        "sekamuotoinen_tuotanto"
+      ],
+      "source": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__yrirak/0400_yrirak.px/",
+      "updated": "2026-11",
+      "size": 11247,
+      "files": {
+        "csv": {
+          "name": "fi-maatilat-tuotantosuunnittain-maakunnittain-2025_FI.csv",
+          "size": 1812
+        },
+        "xlsx": {
+          "name": "fi-maatilat-tuotantosuunnittain-maakunnittain-2025_FI.xlsx",
+          "size": 8379
         }
       }
     },
