@@ -1,12 +1,12 @@
 {
   "lang": "fi",
-  "generated": "2026-11-19T02:25:10.169Z",
-  "total_datasets": 579,
-  "total_records": 502500,
+  "generated": "2026-11-19T02:25:20.840Z",
+  "total_datasets": 580,
+  "total_records": 502520,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -267,6 +267,37 @@
         "xlsx": {
           "name": "fi-perunalajikkeet_FI.xlsx",
           "size": 10563
+        }
+      }
+    },
+    {
+      "id": "fi-puutarhayritykset-maakunnittain-2025",
+      "name": "Puutarhayritysten lukumäärä ja pinta-ala maakunnittain (2025)",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "maakunta",
+        "yrityksia_kaikki",
+        "pinta_ala_ha_kaikki",
+        "keskikoko_ha_kaikki",
+        "yrityksia_avomaa",
+        "pinta_ala_ha_avomaa",
+        "keskikoko_ha_avomaa",
+        "yrityksia_kasvihuone",
+        "pinta_ala_ha_kasvihuone",
+        "keskikoko_ha_kasvihuone"
+      ],
+      "source": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__puutar/0100_puutar.px/",
+      "updated": "2026-11",
+      "size": 9801,
+      "files": {
+        "csv": {
+          "name": "fi-puutarhayritykset-maakunnittain-2025_FI.csv",
+          "size": 1579
+        },
+        "xlsx": {
+          "name": "fi-puutarhayritykset-maakunnittain-2025_FI.xlsx",
+          "size": 8068
         }
       }
     },

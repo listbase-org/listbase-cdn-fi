@@ -1,0 +1,316 @@
+{
+  "id": "fi-puutarhayritykset-maakunnittain-2025",
+  "name": "Puutarhayritysten lukumäärä ja pinta-ala maakunnittain (2025)",
+  "title": "Puutarhayritysten lukumäärä ja pinta-ala maakunnittain (2025)",
+  "description": "Puutarhayritysten lukumäärä, viljelypinta-ala (ha) ja keskikoko Suomessa maakunnittain vuonna 2025, eriteltynä avomaatuotantoon ja kasvihuonetuotantoon. Lähde: Luonnonvarakeskus (Luke), puutarhatilastot.",
+  "category": "agriculture",
+  "source": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__puutar/0100_puutar.px/",
+  "source_url": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__puutar/0100_puutar.px/",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "maakunta",
+      "label": "Maakunta",
+      "type": "string"
+    },
+    {
+      "key": "yrityksia_kaikki",
+      "label": "Yrityksia Kaikki",
+      "type": "number"
+    },
+    {
+      "key": "pinta_ala_ha_kaikki",
+      "label": "Pinta Ala Ha Kaikki",
+      "type": "number"
+    },
+    {
+      "key": "keskikoko_ha_kaikki",
+      "label": "Keskikoko Ha Kaikki",
+      "type": "number"
+    },
+    {
+      "key": "yrityksia_avomaa",
+      "label": "Yrityksia Avomaa",
+      "type": "number"
+    },
+    {
+      "key": "pinta_ala_ha_avomaa",
+      "label": "Pinta Ala Ha Avomaa",
+      "type": "number"
+    },
+    {
+      "key": "keskikoko_ha_avomaa",
+      "label": "Keskikoko Ha Avomaa",
+      "type": "number"
+    },
+    {
+      "key": "yrityksia_kasvihuone",
+      "label": "Yrityksia Kasvihuone",
+      "type": "number"
+    },
+    {
+      "key": "pinta_ala_ha_kasvihuone",
+      "label": "Pinta Ala Ha Kasvihuone",
+      "type": "number"
+    },
+    {
+      "key": "keskikoko_ha_kasvihuone",
+      "label": "Keskikoko Ha Kasvihuone",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "maakunta": "Koko maa",
+      "yrityksia_kaikki": 2761,
+      "pinta_ala_ha_kaikki": 17549,
+      "keskikoko_ha_kaikki": 6.36,
+      "yrityksia_avomaa": 2254,
+      "pinta_ala_ha_avomaa": 17195,
+      "keskikoko_ha_avomaa": 7.63,
+      "yrityksia_kasvihuone": 713,
+      "pinta_ala_ha_kasvihuone": 354,
+      "keskikoko_ha_kasvihuone": 0.5
+    },
+    {
+      "maakunta": "Uusimaa",
+      "yrityksia_kaikki": 211,
+      "pinta_ala_ha_kaikki": 1037,
+      "keskikoko_ha_kaikki": 4.91,
+      "yrityksia_avomaa": 162,
+      "pinta_ala_ha_avomaa": 1016,
+      "keskikoko_ha_avomaa": 6.27,
+      "yrityksia_kasvihuone": 74,
+      "pinta_ala_ha_kasvihuone": 21,
+      "keskikoko_ha_kasvihuone": 0.28
+    },
+    {
+      "maakunta": "Varsinais-Suomi",
+      "yrityksia_kaikki": 512,
+      "pinta_ala_ha_kaikki": 4219,
+      "keskikoko_ha_kaikki": 8.24,
+      "yrityksia_avomaa": 402,
+      "pinta_ala_ha_avomaa": 4142,
+      "keskikoko_ha_avomaa": 10.3,
+      "yrityksia_kasvihuone": 165,
+      "pinta_ala_ha_kasvihuone": 77,
+      "keskikoko_ha_kasvihuone": 0.47
+    },
+    {
+      "maakunta": "Satakunta",
+      "yrityksia_kaikki": 242,
+      "pinta_ala_ha_kaikki": 2779,
+      "keskikoko_ha_kaikki": 11.48,
+      "yrityksia_avomaa": 215,
+      "pinta_ala_ha_avomaa": 2755,
+      "keskikoko_ha_avomaa": 12.82,
+      "yrityksia_kasvihuone": 42,
+      "pinta_ala_ha_kasvihuone": 24,
+      "keskikoko_ha_kasvihuone": 0.56
+    },
+    {
+      "maakunta": "Kanta-Häme",
+      "yrityksia_kaikki": 109,
+      "pinta_ala_ha_kaikki": 1003,
+      "keskikoko_ha_kaikki": 9.2,
+      "yrityksia_avomaa": 95,
+      "pinta_ala_ha_avomaa": 997,
+      "keskikoko_ha_avomaa": 10.5,
+      "yrityksia_kasvihuone": 29,
+      "pinta_ala_ha_kasvihuone": 6,
+      "keskikoko_ha_kasvihuone": 0.2
+    },
+    {
+      "maakunta": "Pirkanmaa",
+      "yrityksia_kaikki": 138,
+      "pinta_ala_ha_kaikki": 364,
+      "keskikoko_ha_kaikki": 2.64,
+      "yrityksia_avomaa": 111,
+      "pinta_ala_ha_avomaa": 353,
+      "keskikoko_ha_avomaa": 3.18,
+      "yrityksia_kasvihuone": 39,
+      "pinta_ala_ha_kasvihuone": 12,
+      "keskikoko_ha_kasvihuone": 0.3
+    },
+    {
+      "maakunta": "Päijät-Häme",
+      "yrityksia_kaikki": 96,
+      "pinta_ala_ha_kaikki": 348,
+      "keskikoko_ha_kaikki": 3.62,
+      "yrityksia_avomaa": 86,
+      "pinta_ala_ha_avomaa": 344,
+      "keskikoko_ha_avomaa": 4,
+      "yrityksia_kasvihuone": 16,
+      "pinta_ala_ha_kasvihuone": 3,
+      "keskikoko_ha_kasvihuone": 0.21
+    },
+    {
+      "maakunta": "Kymenlaakso",
+      "yrityksia_kaikki": 72,
+      "pinta_ala_ha_kaikki": 309,
+      "keskikoko_ha_kaikki": 4.29,
+      "yrityksia_avomaa": 57,
+      "pinta_ala_ha_avomaa": 304,
+      "keskikoko_ha_avomaa": 5.33,
+      "yrityksia_kasvihuone": 19,
+      "pinta_ala_ha_kasvihuone": 5,
+      "keskikoko_ha_kasvihuone": 0.27
+    },
+    {
+      "maakunta": "Etelä-Karjala",
+      "yrityksia_kaikki": 56,
+      "pinta_ala_ha_kaikki": 234,
+      "keskikoko_ha_kaikki": 4.19,
+      "yrityksia_avomaa": 51,
+      "pinta_ala_ha_avomaa": 227,
+      "keskikoko_ha_avomaa": 4.46,
+      "yrityksia_kasvihuone": 12,
+      "pinta_ala_ha_kasvihuone": 7,
+      "keskikoko_ha_kasvihuone": 0.59
+    },
+    {
+      "maakunta": "Etelä-Savo",
+      "yrityksia_kaikki": 160,
+      "pinta_ala_ha_kaikki": 899,
+      "keskikoko_ha_kaikki": 5.62,
+      "yrityksia_avomaa": 146,
+      "pinta_ala_ha_avomaa": 887,
+      "keskikoko_ha_avomaa": 6.07,
+      "yrityksia_kasvihuone": 25,
+      "pinta_ala_ha_kasvihuone": 12,
+      "keskikoko_ha_kasvihuone": 0.48
+    },
+    {
+      "maakunta": "Pohjois-Savo",
+      "yrityksia_kaikki": 222,
+      "pinta_ala_ha_kaikki": 1923,
+      "keskikoko_ha_kaikki": 8.66,
+      "yrityksia_avomaa": 200,
+      "pinta_ala_ha_avomaa": 1908,
+      "keskikoko_ha_avomaa": 9.54,
+      "yrityksia_kasvihuone": 29,
+      "pinta_ala_ha_kasvihuone": 15,
+      "keskikoko_ha_kasvihuone": 0.51
+    },
+    {
+      "maakunta": "Pohjois-Karjala",
+      "yrityksia_kaikki": 142,
+      "pinta_ala_ha_kaikki": 1100,
+      "keskikoko_ha_kaikki": 7.74,
+      "yrityksia_avomaa": 130,
+      "pinta_ala_ha_avomaa": 1093,
+      "keskikoko_ha_avomaa": 8.41,
+      "yrityksia_kasvihuone": 17,
+      "pinta_ala_ha_kasvihuone": 7,
+      "keskikoko_ha_kasvihuone": 0.4
+    },
+    {
+      "maakunta": "Keski-Suomi",
+      "yrityksia_kaikki": 123,
+      "pinta_ala_ha_kaikki": 298,
+      "keskikoko_ha_kaikki": 2.42,
+      "yrityksia_avomaa": 110,
+      "pinta_ala_ha_avomaa": 293,
+      "keskikoko_ha_avomaa": 2.66,
+      "yrityksia_kasvihuone": 21,
+      "pinta_ala_ha_kasvihuone": 5,
+      "keskikoko_ha_kasvihuone": 0.25
+    },
+    {
+      "maakunta": "Etelä-Pohjanmaa",
+      "yrityksia_kaikki": 141,
+      "pinta_ala_ha_kaikki": 651,
+      "keskikoko_ha_kaikki": 4.62,
+      "yrityksia_avomaa": 127,
+      "pinta_ala_ha_avomaa": 630,
+      "keskikoko_ha_avomaa": 4.96,
+      "yrityksia_kasvihuone": 19,
+      "pinta_ala_ha_kasvihuone": 21,
+      "keskikoko_ha_kasvihuone": 1.11
+    },
+    {
+      "maakunta": "Pohjanmaa",
+      "yrityksia_kaikki": 218,
+      "pinta_ala_ha_kaikki": 871,
+      "keskikoko_ha_kaikki": 3.99,
+      "yrityksia_avomaa": 95,
+      "pinta_ala_ha_avomaa": 748,
+      "keskikoko_ha_avomaa": 7.88,
+      "yrityksia_kasvihuone": 134,
+      "pinta_ala_ha_kasvihuone": 123,
+      "keskikoko_ha_kasvihuone": 0.92
+    },
+    {
+      "maakunta": "Keski-Pohjanmaa",
+      "yrityksia_kaikki": 33,
+      "pinta_ala_ha_kaikki": 94,
+      "keskikoko_ha_kaikki": 2.85,
+      "yrityksia_avomaa": 26,
+      "pinta_ala_ha_avomaa": 91,
+      "keskikoko_ha_avomaa": 3.48,
+      "yrityksia_kasvihuone": 8,
+      "pinta_ala_ha_kasvihuone": 4,
+      "keskikoko_ha_kasvihuone": 0.45
+    },
+    {
+      "maakunta": "Pohjois-Pohjanmaa",
+      "yrityksia_kaikki": 144,
+      "pinta_ala_ha_kaikki": 622,
+      "keskikoko_ha_kaikki": 4.32,
+      "yrityksia_avomaa": 120,
+      "pinta_ala_ha_avomaa": 617,
+      "keskikoko_ha_avomaa": 5.14,
+      "yrityksia_kasvihuone": 30,
+      "pinta_ala_ha_kasvihuone": 5,
+      "keskikoko_ha_kasvihuone": 0.18
+    },
+    {
+      "maakunta": "Kainuu",
+      "yrityksia_kaikki": 27,
+      "pinta_ala_ha_kaikki": 108,
+      "keskikoko_ha_kaikki": 4,
+      "yrityksia_avomaa": 21,
+      "pinta_ala_ha_avomaa": 106,
+      "keskikoko_ha_avomaa": 5.05,
+      "yrityksia_kasvihuone": 8,
+      "pinta_ala_ha_kasvihuone": 2,
+      "keskikoko_ha_kasvihuone": 0.22
+    },
+    {
+      "maakunta": "Lappi",
+      "yrityksia_kaikki": 30,
+      "pinta_ala_ha_kaikki": 43,
+      "keskikoko_ha_kaikki": 1.42,
+      "yrityksia_avomaa": 18,
+      "pinta_ala_ha_avomaa": 40,
+      "keskikoko_ha_avomaa": 2.25,
+      "yrityksia_kasvihuone": 14,
+      "pinta_ala_ha_kasvihuone": 2,
+      "keskikoko_ha_kasvihuone": 0.15
+    },
+    {
+      "maakunta": "Ahvenanmaa",
+      "yrityksia_kaikki": 85,
+      "pinta_ala_ha_kaikki": 648,
+      "keskikoko_ha_kaikki": 7.63,
+      "yrityksia_avomaa": 82,
+      "pinta_ala_ha_avomaa": 644,
+      "keskikoko_ha_avomaa": 7.85,
+      "yrityksia_kasvihuone": 12,
+      "pinta_ala_ha_kasvihuone": 4,
+      "keskikoko_ha_kasvihuone": 0.35
+    }
+  ],
+  "meta": {
+    "title": "Puutarhayritysten lukumäärä ja pinta-ala maakunnittain (2025) - Free Download",
+    "description": "Puutarhayritysten lukumäärä, viljelypinta-ala (ha) ja keskikoko Suomessa maakunnittain vuonna 2025, eriteltynä avomaatuotantoon ja kasvihuonetuotantoon. Lähde: Luonnonvarakeskus (Luke), puutarhatilastot. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Puutarhayritysten lukumäärä ja pinta-ala maakunnittain (2025) | ListBase",
+    "seo_description": "Download Puutarhayritysten lukumäärä ja pinta-ala maakunnittain (2025) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__puutar/0100_puutar.px/"
+    ]
+  }
+}
