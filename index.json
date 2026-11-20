@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-20T02:27:15.276Z",
-  "total_datasets": 581,
-  "total_records": 502574,
+  "generated": "2026-11-20T02:27:24.298Z",
+  "total_datasets": 582,
+  "total_records": 502740,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -8755,6 +8755,35 @@
         "xlsx": {
           "name": "fi-suomen-kielen-uudissanat_FI.xlsx",
           "size": 27346
+        }
+      }
+    },
+    {
+      "id": "fi-vaesto-kielen-mukaan",
+      "name": "Suomen väestö kielen mukaan (2000–2025)",
+      "category": "language",
+      "record_count": 166,
+      "columns": [
+        "kieli",
+        "ryhma",
+        "vaesto_2000",
+        "vaesto_2010",
+        "vaesto_2020",
+        "vaesto_2025",
+        "miehet_2025",
+        "naiset_2025"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__vaerak/statfin_vaerak_pxt_11rl.px/",
+      "updated": "2026-11",
+      "size": 38645,
+      "files": {
+        "csv": {
+          "name": "fi-vaesto-kielen-mukaan_FI.csv",
+          "size": 9209
+        },
+        "xlsx": {
+          "name": "fi-vaesto-kielen-mukaan_FI.xlsx",
+          "size": 14647
         }
       }
     },
