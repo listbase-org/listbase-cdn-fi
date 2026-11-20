@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-19T02:25:20.840Z",
-  "total_datasets": 580,
-  "total_records": 502520,
+  "generated": "2026-11-20T02:27:15.276Z",
+  "total_datasets": 581,
+  "total_records": 502574,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -2793,6 +2793,34 @@
         "xlsx": {
           "name": "fi-valtiovarainministerit_FI.xlsx",
           "size": 10577
+        }
+      }
+    },
+    {
+      "id": "fi-elintarvikkeiden-kulutus-henkea-kohti",
+      "name": "Elintarvikkeiden kulutus henkeä kohti Suomessa (2015–2025)",
+      "category": "food",
+      "record_count": 54,
+      "columns": [
+        "elintarvike",
+        "taso",
+        "kg_2015",
+        "kg_2020",
+        "kg_2023",
+        "kg_2024",
+        "kg_2025"
+      ],
+      "source": "https://statdb.luke.fi/PxWeb/pxweb/fi/LUKE/LUKE__maa__02%20Ravintotase/01_Elintarvikkeiden_kulutus.px/",
+      "updated": "2026-11",
+      "size": 12575,
+      "files": {
+        "csv": {
+          "name": "fi-elintarvikkeiden-kulutus-henkea-kohti_FI.csv",
+          "size": 3294
+        },
+        "xlsx": {
+          "name": "fi-elintarvikkeiden-kulutus-henkea-kohti_FI.xlsx",
+          "size": 9019
         }
       }
     },
