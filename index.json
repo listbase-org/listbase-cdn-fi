@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-20T02:27:24.298Z",
-  "total_datasets": 582,
-  "total_records": 502740,
+  "generated": "2026-11-23T02:40:12.690Z",
+  "total_datasets": 583,
+  "total_records": 502780,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1450,6 +1450,30 @@
         "xlsx": {
           "name": "fi-helsingin-porssin-yhtiot_FI.xlsx",
           "size": 10504
+        }
+      }
+    },
+    {
+      "id": "fi-konkurssit-vuosittain-1986-2025",
+      "name": "Konkurssit Suomessa vuosittain (1986–2025)",
+      "category": "economy",
+      "record_count": 40,
+      "columns": [
+        "vuosi",
+        "konkurssit_yrityksia",
+        "konkurssiyritysten_henkilosto_htv"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__kony/statfin_kony_pxt_13fj.px/",
+      "updated": "2026-11",
+      "size": 6637,
+      "files": {
+        "csv": {
+          "name": "fi-konkurssit-vuosittain-1986-2025_FI.csv",
+          "size": 943
+        },
+        "xlsx": {
+          "name": "fi-konkurssit-vuosittain-1986-2025_FI.xlsx",
+          "size": 7545
         }
       }
     },
