@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-23T02:40:21.437Z",
-  "total_datasets": 584,
-  "total_records": 502826,
+  "generated": "2026-11-23T02:40:31.538Z",
+  "total_datasets": 585,
+  "total_records": 502849,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2566,6 +2566,40 @@
         "xlsx": {
           "name": "fi-ydinvoimalat_FI.xlsx",
           "size": 7373
+        }
+      }
+    },
+    {
+      "id": "fi-yhdyskuntajatteet-kasittelytavoittain-2002-2024",
+      "name": "Yhdyskuntajätteet Suomessa käsittelytavoittain (2002–2024)",
+      "category": "environment",
+      "record_count": 23,
+      "columns": [
+        "vuosi",
+        "yhteensa_t",
+        "yhteensa_kg_hlo",
+        "energiahyodynnys_t",
+        "energiahyodynnys_kg_hlo",
+        "havityspoltto_t",
+        "havityspoltto_kg_hlo",
+        "materiaalihyodynnys_t",
+        "materiaalihyodynnys_kg_hlo",
+        "uudelleenkayton_valmistelu_t",
+        "uudelleenkayton_valmistelu_kg_hlo",
+        "kaatopaikka_ja_muu_havitys_t",
+        "kaatopaikka_ja_muu_havitys_kg_hlo"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__jate/statfin_jate_pxt_12qz.px/",
+      "updated": "2026-11",
+      "size": 14512,
+      "files": {
+        "csv": {
+          "name": "fi-yhdyskuntajatteet-kasittelytavoittain-2002-2024_FI.csv",
+          "size": 2274
+        },
+        "xlsx": {
+          "name": "fi-yhdyskuntajatteet-kasittelytavoittain-2002-2024_FI.xlsx",
+          "size": 8593
         }
       }
     },
