@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-23T02:40:12.690Z",
-  "total_datasets": 583,
-  "total_records": 502780,
+  "generated": "2026-11-23T02:40:21.437Z",
+  "total_datasets": 584,
+  "total_records": 502826,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -13408,6 +13408,34 @@
         "xlsx": {
           "name": "fi-poliisiasemat_FI.xlsx",
           "size": 10201
+        }
+      }
+    },
+    {
+      "id": "fi-tyotaistelut-vuosittain-1980-2025",
+      "name": "Työtaistelut Suomessa vuosittain (1980–2025)",
+      "category": "society",
+      "record_count": 46,
+      "columns": [
+        "vuosi",
+        "tyotaisteluja",
+        "osallisia",
+        "osallisia_per_tyotaistelu",
+        "osallisten_osuus_tyollisista_pct",
+        "menetetyt_tyopaivat",
+        "menetetyt_tyopaivat_per_osallinen"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__tta/statfin_tta_pxt_13n2.px/",
+      "updated": "2026-11",
+      "size": 14212,
+      "files": {
+        "csv": {
+          "name": "fi-tyotaistelut-vuosittain-1980-2025_FI.csv",
+          "size": 2349
+        },
+        "xlsx": {
+          "name": "fi-tyotaistelut-vuosittain-1980-2025_FI.xlsx",
+          "size": 8675
         }
       }
     },
