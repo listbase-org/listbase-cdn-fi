@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-24T02:24:58.982Z",
-  "total_datasets": 586,
-  "total_records": 502887,
+  "generated": "2026-11-24T02:25:08.423Z",
+  "total_datasets": 587,
+  "total_records": 502910,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -8967,6 +8967,34 @@
         "xlsx": {
           "name": "fi-oikeusministerit_FI.xlsx",
           "size": 10983
+        }
+      }
+    },
+    {
+      "id": "fi-rangaistukset-karajaoikeuksittain-2025",
+      "name": "Tuomitut rangaistukset käräjäoikeuksittain (2025)",
+      "category": "law",
+      "record_count": 23,
+      "columns": [
+        "karajaoikeus",
+        "tuomittuja",
+        "ehdoton_vankeus",
+        "yhdyskuntapalvelu",
+        "ehdollinen_vankeus",
+        "sakko_tuomioistuimessa",
+        "nuorisorangaistus"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__syyttr/statfin_syyttr_pxt_15dh.px/",
+      "updated": "2026-11",
+      "size": 8222,
+      "files": {
+        "csv": {
+          "name": "fi-rangaistukset-karajaoikeuksittain-2025_FI.csv",
+          "size": 1598
+        },
+        "xlsx": {
+          "name": "fi-rangaistukset-karajaoikeuksittain-2025_FI.xlsx",
+          "size": 7870
         }
       }
     },
