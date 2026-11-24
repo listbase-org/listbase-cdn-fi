@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-23T02:40:31.538Z",
-  "total_datasets": 585,
-  "total_records": 502849,
+  "generated": "2026-11-24T02:24:58.982Z",
+  "total_datasets": 586,
+  "total_records": 502887,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -13216,6 +13216,33 @@
         "xlsx": {
           "name": "fi-elainlaakarit_FI.xlsx",
           "size": 14271
+        }
+      }
+    },
+    {
+      "id": "fi-korkeakoulujen-tk-henkilosto-2024",
+      "name": "Korkeakoulujen tutkimus- ja kehittämishenkilöstö korkeakouluittain (2024)",
+      "category": "science",
+      "record_count": 38,
+      "columns": [
+        "korkeakoulu",
+        "tyyppi",
+        "tk_henkilosto_2024",
+        "tutkijat_2024",
+        "tk_henkilosto_naiset_2024",
+        "tk_henkilosto_2020"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__tkke/statfin_tkke_pxt_129u.px/",
+      "updated": "2026-11",
+      "size": 11217,
+      "files": {
+        "csv": {
+          "name": "fi-korkeakoulujen-tk-henkilosto-2024_FI.csv",
+          "size": 2705
+        },
+        "xlsx": {
+          "name": "fi-korkeakoulujen-tk-henkilosto-2024_FI.xlsx",
+          "size": 8376
         }
       }
     },
