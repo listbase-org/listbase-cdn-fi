@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-24T02:25:08.423Z",
-  "total_datasets": 587,
-  "total_records": 502910,
+  "generated": "2026-11-24T02:25:17.521Z",
+  "total_datasets": 588,
+  "total_records": 502966,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -14027,6 +14027,31 @@
         "xlsx": {
           "name": "fi-suomalaiset-videopelit_FI.xlsx",
           "size": 24117
+        }
+      }
+    },
+    {
+      "id": "fi-tieto-ja-viestintatekniikan-kaytto-2023-2025",
+      "name": "Väestön tieto- ja viestintätekniikan käyttö Suomessa (2023–2025)",
+      "category": "tech",
+      "record_count": 56,
+      "columns": [
+        "indikaattori",
+        "v2023_pct",
+        "v2024_pct",
+        "v2025_pct"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__sutivi/statfin_sutivi_pxt_13vd.px/",
+      "updated": "2026-11",
+      "size": 12696,
+      "files": {
+        "csv": {
+          "name": "fi-tieto-ja-viestintatekniikan-kaytto-2023-2025_FI.csv",
+          "size": 5575
+        },
+        "xlsx": {
+          "name": "fi-tieto-ja-viestintatekniikan-kaytto-2023-2025_FI.xlsx",
+          "size": 9266
         }
       }
     },
