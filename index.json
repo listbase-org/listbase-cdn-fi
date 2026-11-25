@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-24T02:25:17.521Z",
-  "total_datasets": 588,
-  "total_records": 502966,
+  "generated": "2026-11-25T02:30:09.409Z",
+  "total_datasets": 589,
+  "total_records": 503169,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -9074,6 +9074,32 @@
         "xlsx": {
           "name": "fi-vankilat_FI.xlsx",
           "size": 7766
+        }
+      }
+    },
+    {
+      "id": "fi-albumilistan-ykkoset-2023-2026",
+      "name": "Suomen virallisen albumilistan ykköset viikoittain (2023–2026)",
+      "category": "music",
+      "record_count": 203,
+      "columns": [
+        "vuosi",
+        "viikko",
+        "artisti",
+        "albumi",
+        "levy_yhtio"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_virallisen_albumilistan_ykkösistä_vuonna_2026",
+      "updated": "2026-11",
+      "size": 33375,
+      "files": {
+        "csv": {
+          "name": "fi-albumilistan-ykkoset-2023-2026_FI.csv",
+          "size": 11702
+        },
+        "xlsx": {
+          "name": "fi-albumilistan-ykkoset-2023-2026_FI.xlsx",
+          "size": 12940
         }
       }
     },
