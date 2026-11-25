@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-25T02:30:17.726Z",
-  "total_datasets": 590,
-  "total_records": 503249,
+  "generated": "2026-11-25T02:30:26.468Z",
+  "total_datasets": 591,
+  "total_records": 503513,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -1786,6 +1786,38 @@
         "xlsx": {
           "name": "fi-paivakodit_FI.xlsx",
           "size": 64168
+        }
+      }
+    },
+    {
+      "id": "fi-taiteen-perusopetuksen-oppilaat-kunnittain-2024",
+      "name": "Taiteen perusopetuksen oppilaat kunnittain ja taiteenaloittain (2024)",
+      "category": "education",
+      "record_count": 264,
+      "columns": [
+        "alue",
+        "mediataiteet",
+        "kuvataide",
+        "kasityo",
+        "musiikki",
+        "teatteritaide",
+        "tanssi",
+        "sirkustaide",
+        "sanataide",
+        "arkkitehtuuri",
+        "yhteensa"
+      ],
+      "source": "https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__klt/statfin_klt_pxt_15br.px/",
+      "updated": "2026-11",
+      "size": 74006,
+      "files": {
+        "csv": {
+          "name": "fi-taiteen-perusopetuksen-oppilaat-kunnittain-2024_FI.csv",
+          "size": 14920
+        },
+        "xlsx": {
+          "name": "fi-taiteen-perusopetuksen-oppilaat-kunnittain-2024_FI.xlsx",
+          "size": 19193
         }
       }
     },
