@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-25T02:30:26.468Z",
-  "total_datasets": 591,
-  "total_records": 503513,
+  "generated": "2026-11-26T02:11:50.987Z",
+  "total_datasets": 592,
+  "total_records": 503617,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -8610,6 +8610,32 @@
         "xlsx": {
           "name": "fi-kenraalikuvernoorit_FI.xlsx",
           "size": 8082
+        }
+      }
+    },
+    {
+      "id": "fi-keskiaikaiset-kivikirkot",
+      "name": "Suomen keskiaikaiset kivikirkot",
+      "category": "history",
+      "record_count": 104,
+      "columns": [
+        "kirkko",
+        "historiallinen_maakunta",
+        "rakennusaika",
+        "suojeluspyhimykset",
+        "huomautuksia"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_keskiaikaisista_kivikirkoista",
+      "updated": "2026-11",
+      "size": 32842,
+      "files": {
+        "csv": {
+          "name": "fi-keskiaikaiset-kivikirkot_FI.csv",
+          "size": 16627
+        },
+        "xlsx": {
+          "name": "fi-keskiaikaiset-kivikirkot_FI.xlsx",
+          "size": 14416
         }
       }
     },
