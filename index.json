@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-26T02:11:50.987Z",
-  "total_datasets": 592,
-  "total_records": 503617,
+  "generated": "2026-11-26T02:12:00.276Z",
+  "total_datasets": 593,
+  "total_records": 504243,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -8636,6 +8636,32 @@
         "xlsx": {
           "name": "fi-keskiaikaiset-kivikirkot_FI.xlsx",
           "size": 14416
+        }
+      }
+    },
+    {
+      "id": "fi-kuntien-perustamisvuodet",
+      "name": "Suomen kuntien perustamisvuodet",
+      "category": "history",
+      "record_count": 626,
+      "columns": [
+        "kunta",
+        "kuntanumero",
+        "kirkkopitajaksi",
+        "kunnaksi",
+        "erotettu_tai_muodostettu_kunnista"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_kunnista_perustamisvuoden_mukaan",
+      "updated": "2026-11",
+      "size": 120183,
+      "files": {
+        "csv": {
+          "name": "fi-kuntien-perustamisvuodet_FI.csv",
+          "size": 31374
+        },
+        "xlsx": {
+          "name": "fi-kuntien-perustamisvuodet_FI.xlsx",
+          "size": 30164
         }
       }
     },
