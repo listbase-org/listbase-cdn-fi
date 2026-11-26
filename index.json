@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-26T02:12:00.276Z",
-  "total_datasets": 593,
-  "total_records": 504243,
+  "generated": "2026-11-26T02:12:30.274Z",
+  "total_datasets": 594,
+  "total_records": 504384,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -8688,6 +8688,34 @@
         "xlsx": {
           "name": "fi-muinaislinnat_FI.xlsx",
           "size": 13233
+        }
+      }
+    },
+    {
+      "id": "fi-rautaruukit",
+      "name": "Suomen historialliset rautaruukit",
+      "category": "history",
+      "record_count": 141,
+      "columns": [
+        "ruukki",
+        "sijaintikunta",
+        "tyyppi",
+        "raaka_aine",
+        "aloitusvuosi",
+        "sulkemisvuosi",
+        "muuta"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_rautaruukeista",
+      "updated": "2026-11",
+      "size": 34325,
+      "files": {
+        "csv": {
+          "name": "fi-rautaruukit_FI.csv",
+          "size": 11250
+        },
+        "xlsx": {
+          "name": "fi-rautaruukit_FI.xlsx",
+          "size": 13831
         }
       }
     },
