@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-27T02:13:24.831Z",
-  "total_datasets": 595,
-  "total_records": 504707,
+  "generated": "2026-11-27T02:13:33.859Z",
+  "total_datasets": 596,
+  "total_records": 504726,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "economy",
@@ -869,6 +869,35 @@
         "xlsx": {
           "name": "fi-maailmanperintokohteet-unesco_FI.xlsx",
           "size": 9341
+        }
+      }
+    },
+    {
+      "id": "fi-maakuntatunnukset",
+      "name": "Suomen maakuntatunnukset — eläimet, linnut, kalat, kasvit, kivet, järvet ja laulut",
+      "category": "culture",
+      "record_count": 19,
+      "columns": [
+        "maakunta",
+        "maaelain",
+        "lintu",
+        "kala",
+        "kasvi",
+        "kivi",
+        "jarvi",
+        "laulu"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_maakuntatunnukset",
+      "updated": "2026-11",
+      "size": 7040,
+      "files": {
+        "csv": {
+          "name": "fi-maakuntatunnukset_FI.csv",
+          "size": 2188
+        },
+        "xlsx": {
+          "name": "fi-maakuntatunnukset_FI.xlsx",
+          "size": 8378
         }
       }
     },
