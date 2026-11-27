@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-26T02:12:30.274Z",
-  "total_datasets": 594,
-  "total_records": 504384,
+  "generated": "2026-11-27T02:13:24.831Z",
+  "total_datasets": 595,
+  "total_records": 504707,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -3035,6 +3035,29 @@
         "xlsx": {
           "name": "fi-lihakaupat_FI.xlsx",
           "size": 9045
+        }
+      }
+    },
+    {
+      "id": "fi-maakuntaruoat",
+      "name": "Suomen maakuntaruoat",
+      "category": "food",
+      "record_count": 323,
+      "columns": [
+        "ruoka",
+        "maakunta"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Luettelo_Suomen_maakuntaruoista",
+      "updated": "2026-11",
+      "size": 27845,
+      "files": {
+        "csv": {
+          "name": "fi-maakuntaruoat_FI.csv",
+          "size": 11379
+        },
+        "xlsx": {
+          "name": "fi-maakuntaruoat_FI.xlsx",
+          "size": 13032
         }
       }
     },
