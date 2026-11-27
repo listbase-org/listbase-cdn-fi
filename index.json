@@ -1,8 +1,8 @@
 {
   "lang": "fi",
-  "generated": "2026-11-27T02:13:33.859Z",
-  "total_datasets": 596,
-  "total_records": 504726,
+  "generated": "2026-11-27T02:13:43.020Z",
+  "total_datasets": 597,
+  "total_records": 505343,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "language",
@@ -8796,6 +8796,30 @@
         "xlsx": {
           "name": "fi-sisallissodan-taistelut_FI.xlsx",
           "size": 34374
+        }
+      }
+    },
+    {
+      "id": "fi-suomen-historian-aikajana",
+      "name": "Suomen historian aikajana",
+      "category": "history",
+      "record_count": 617,
+      "columns": [
+        "aika",
+        "tapahtuma",
+        "ajanjakso"
+      ],
+      "source": "https://fi.wikipedia.org/wiki/Suomen_historian_aikajana",
+      "updated": "2026-11",
+      "size": 112884,
+      "files": {
+        "csv": {
+          "name": "fi-suomen-historian-aikajana_FI.csv",
+          "size": 70060
+        },
+        "xlsx": {
+          "name": "fi-suomen-historian-aikajana_FI.xlsx",
+          "size": 34005
         }
       }
     },
